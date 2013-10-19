@@ -1,4 +1,4 @@
-## [James Flynn: Why our IQ levels are higher than our grandparents](http://www.youtube.com/watch?v=9vpqilhW9uI)
+### [James Flynn: Why our IQ levels are higher than our grandparents](http://www.youtube.com/watch?v=9vpqilhW9uI)
 
 * We don't just get more questions right in IQ tests, but we get higher IQ test results every generation.
 * If you score the people a century ago against modern norms they would have average IQ of __70__ and if you score us against their terms we would have an average IQ of __over 130__.
@@ -10,8 +10,10 @@
 * Ex: if a super islamist person was sodomized, for him the phrase "what if you were sodomized" doesn't register ("That's not in the Koran").
 * The gains in IQ scores have specific areas with large gains (classification, analogies).
 * We don't have progress on all fronts. Sadly, you can have humane moral principles, but if you're ignorant of history and other countries then you can't do shit about history. Kids today just live in the bubble in the present. Ex: how would Americans feel if they knew that Americans have invaded Afghanistan 5 times already, and that Americans had been deceived to go to war the last 5 times (such as the sinking of the _Maine_ and that Saddam hated Al-Qaeda).
+
 ---
-## [Russell Foster: Why do we sleep?](http://www.youtube.com/watch?v=LWULB9Aoopc)
+
+### [Russell Foster: Why do we sleep?](http://www.youtube.com/watch?v=LWULB9Aoopc)
 
 * 36% of your life = spent sleeping. So sleep, at some level, is simportant.
 * Literature about sleep has changed throughout history from sleep is awesome to sleep sucks ("money never sleeps").
