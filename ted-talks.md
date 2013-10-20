@@ -53,3 +53,26 @@
 * Mental illness and sleep are not just associated but are physically linked in the brain.
 * Sleep disruption actually preceeds certain types of mental illness (ex: bipolar people already have sleep disruption before being diagnosed for bein bipolar).
 * Just take sleep seriously!
+
+---
+
+### [Chip Conley - Measuring What Makes Life Worthwhile] (http://www.youtube.com/watch?v=1QUF5QfnIbc)
+
+*	Viet refugee Vivian found "joy" in toilets but she had an emotional connection with her employees and guests. She was taking care of people far away from home because she knew what it felt like to be away from home
+*	He noticed in Maslow's hierarchy saw that leaders knew that people are people. He used the hierarchy of rules to deal with people.
+*	Simplified Maslow's hierarchy is = Survival-Success-Survival
+*	We asked if we connected with our customers and employees in the three aspects of the pyramid
+*	We usually can't measure the success/transformation part which is intangible, and what is important
+*	94% of leaders believe that intangible things are important but 5% had a way of measuring what you need
+*	Einstein - Not everything that can be counted counts, and not everything that counts can be counted.
+*	Bhutanese king wanted to measure Gross National Happiness as opposed to GDP
+*	"We create the conditions to make people to be happy."
+*	Indicators such as "how do you feel about the way you spend your time each day"
+*	Happiness is not having what you want but its wanting what you have
+*	40 countries such as Sarkozy's France are measuring GNH
+*	We have to find a new way of counting shit
+*	If the only thing you have is a hammer, everything seems to be a nail.
+*	64% of our industry is in service and not in manufacturing so this is pretty widespread.
+
+---
+
