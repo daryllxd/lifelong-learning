@@ -1,3 +1,55 @@
+### [Kelly McGonigal: How to Make Stress Your Friend](http://www.youtube.com/watch?v=RcGyVTAoXEU)
+
+People who experienced a lot of stress had a 43% increased chance of dying, but only if they believed that stress was harmful. People who did not perceive stress was bad did not die as much.
+
+Participants who were told to react differently to stress had a different _physical_ reaction. Their blood vessels did not constrict as much.
+
+Oxytocin is a stress response. When oxytocin is released, it nudges you to tell someone how you feel, and not bottle it up. It wants you to be surrounded by people who care about you. It's natural, anti-inflammatory, and your heart has receptors for this hormone. This strengthens your heart.
+
+Each stressful even increases dying by 30%, but people who spent time caring for others showed no stress-related increase in chance to die. Caring increases resilience.
+
+#### When you choose to view your stress response as helpful, you create the biology of courage.
+
+#### When you chooose to connect with others under stress, you can create resilience.
+
+### [Simon Sinek: How Great Leaders Inspire Action](http://www.youtube.com/watch?v=qp0HIF3SfI4)
+
+All the great and inspiring organizations (Why Apple? Why MLK? Why the Wright brothers?) in the world think, act, and communicate the exact same way.
+
+#### The Golden Circle
+
+The Why, The How, The What.
+
+Every organization knows What they do. Some know How they do it. Very few organizations know Why they do things. Why does your organization exist? Why should anyone care?
+
+The inspired organizations, regardless of their size, follow these.
+
+If Apple was like traditional... _"Apple makes great computers. We're good at what we do.  Buy us!" "We have the best lawyers." "We have a good car."_
+
+How does Apply communicate?
+
+_"Everything we do, we believe in thinking differently, and we believe in thinking outside of the status quo. We believe in great design. We just happen to make great computers, wanna buy one?"_
+
+People don't buy what you do, they buy WHY you do it. That's why everyone is perfectly comfortable with buying a phone or a PC from Apple.
+
+Other manufacturers can build the technology! __Dell makes MP3 players__ but you won't buy things from it.
+
+This is grounded in our biology (not psychology), in our brain. We have the neocortex, which is rational. But we also have the how/why: the limbic brain. These are our feelings, trust, loyalty, decision making. Not language. Controls behavior. GUT DECISIONS. "It doesn't feel right."
+
+_You don't sell people what you have, you sell people what you believe in. You hire people who believe in what you believe in._
+
+Ex: Wright brothers. Samuel Langley was extremely funded/connected/hired the best minds money can buy/everyone was rooting for Langley. But people believed in the Wright brothers. They also knew that if they figured out this flying machine, they could fix the world. When the Wright brothers had a product, Langley quit. This meant he was just in it for the money and not the vision.
+
+Law of Diffusion: 2% innovators, 13% early adopters, 64% mass market (the early majority will not try something unless someone else tries it first), 16% laggers.
+
+The early adopters are those who believe in things and are in gut feel mode. They want to be first to buy shit. They wait 6 hours for an iPhone because they believe that it is always good to be first.
+
+People buy why you do things and what you do confirms what they believe about you.
+
+MLK: Not really the best orator, but he believed stuff. Everyone went there not for MLK but for themselves.
+
+---
+
 ### [James Flynn: Why our IQ levels are higher than our grandparents](http://www.youtube.com/watch?v=9vpqilhW9uI)
 
 * We don't just get more questions right in IQ tests, but we get higher IQ test results every generation.
@@ -56,7 +108,7 @@
 
 ---
 
-### [Chip Conley - Measuring What Makes Life Worthwhile] (http://www.youtube.com/watch?v=1QUF5QfnIbc)
+### [Chip Conley - Measuring What Makes Life Worthwhile](http://www.youtube.com/watch?v=1QUF5QfnIbc)
 
 *	Viet refugee Vivian found "joy" in toilets but she had an emotional connection with her employees and guests. She was taking care of people far away from home because she knew what it felt like to be away from home
 *	He noticed in Maslow's hierarchy saw that leaders knew that people are people. He used the hierarchy of rules to deal with people.
@@ -75,4 +127,19 @@
 *	64% of our industry is in service and not in manufacturing so this is pretty widespread.
 
 ---
+
+### [Daphne Bavelier: Your brain on video games](http://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games.html)
+
+The average age of a gamer is 33 years old. It is pervasive throughout our society. Call of Duty had been played 68,000 years.
+
+
+
+
+
+
+
+
+
+
+
 

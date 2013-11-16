@@ -1,17 +1,21 @@
 # 2.1: Introduction to Law and the Entrepreneur
 
-* Once you start signing contracts and hiring employees, that’s when you can get a lawyer. Personality fit is also very important.
-* Ents want to move full speed ahead, and lawyers will show potential problems and paths against the roadblocks.
-* A successful startup needs a team of different people. It’s good to have wise counseling and good advice.
-* Ent: Jack/Sydney, “box of the month” subscription service.
+Once you start signing contracts and hiring employees, that’s when you get a lawyer. You need to find a lawyer that you like personality-wise because oftentimes there are different priorities for the two parties: ents want to move full speed ahead, and lawyers will show potential problems and paths against the roadblocks.
+
+A successful startup needs a team of different people. It’s good to have wise counseling and good advice.
+
 
 # 2.2-2.5: Employment Prior
 
-* Even if a person hasn’t signed a contract, the employee has fiduciary duties (must do stuff, must not compete). 
-* Whether an employee is a key or a skilled employee has something there. Check if your business is something that will fight your old job.
-* If an employee has signed an agreement (moonlighting provision) then they can’t do shit yet. Also check if the employee has a non-compete agreement. Ex: California, they don’t enforce NCA that much.
-* NCA has to be: cannot stand alone (another contract such as employment is needed), actually hurts the employer/not just to stop competition, reasonably limited geographically, scope.
-* Sometimes this is non-enforcable, and sometimes NCA is an emotional reaction by the employer, so leave on good terms.
+Even if an employee hasn’t signed an actual contract for this, they have fiduciary duties (such as "must not compete").
+
+There are usually different agreements for key (high ranking) employees and skilled (engineers, programmers, designers) employees. Check if your new business will be something that will fight your old job.
+
+If an employee has signed an agreement (moonlighting provision) then they can’t do shit yet. Also check if the employee has a non-compete agreement. Ex: California, they don’t enforce NCA that much.
+
+NCA has to be: cannot stand alone (another contract such as employment is needed), actually hurts the employer/not just to stop competition, reasonably limited geographically, scope.
+
+Sometimes this is non-enforcable, and sometimes NCA is an emotional reaction by the employer, so __leave on good terms__.
 
 ## IP
 
@@ -289,10 +293,176 @@ Must confirm name is not in conflict with existing. Secretary of state has names
 
 Even if SoS confirms the name is okay, there might be another biz using a name that closely resembles the name of another biz organized to do biz in that state. The laws of trademarks might then prohibit the new company from using the name (lolwut).
 
+# 4.1: Intellectual Property
+
+In the U.S., there are four types of IP. Trademark is the brand of the business; it is protected by federal and state law. Copyright protects what lawyers call fixed works of authorship. Fixed means in in writing (or recording or video) and works of authorship means some degree of originality (blog post on company site). Patents protect inventions and designs. Trade secrets are any valuable secret of a company (something that provides a company with a competitive advantage).
+
+# 4.2/4.3: Trademarks/Trademarks – Avoiding
+
+A company's brand is often its most important asset. A trademark is any word, phrase, name, logo, slogan, sound, color or anything that identifies that a particular product comes from a particular source.
+
+Trademark laws were originally used to protect a consumer: you get to expect a certain quality when you see a trademark. Trademarks are important for companies so that they can protect themselves from other competitors.
+
+Trademarks are ranked among a continuum.
+
+- __Just a generic for the product being sold ("water").__ You can't use trademark law to protect yourself.
+- __Descriptive marks ("Vitamin water").__ They describe something about the product, more than a generic word. They aren't entitled to protection off the bat, but over time they can earn secondary meaning in the marketplace, which means that consumers associate the meaning to the product.
+- __Suggestive marks ("Icemelt").__ They suggest something about the product but don't describe the product specifically.
+- __Arbitrarty marks ("Apple").__ Words that have a dictionary definition, but aren't connected to a product related to that definition.
+- __Fanciful marks ("Xerox").__ No dictionary meaning.
+
+How can you avoid a trademark lawsuit? Research first. The test is the __likelihood of consumer confusion__. There are differences that courts look at: similarity of product, similarity of channels... the closer the two products are, the higher the chance.
+
+# 4.4: Copyright Law
+
+An exclusive bundle of rights around a work of authorship.
+
+Work of authorship: Fixed and tangible in form of expression (from computer programs to architecture), and it has to be written down on a piece of paper or saved on a hard drive or recorded.
+
+You can't protect the underlying idea, but you can protect the written words. You can't copyright the idea of two teenagers falling in love, but you can protect the play written with its idea.
+
+Copyright owners have exclusive rights to perform/display/make derivatives of their work. Ex: of derivatives = printing stuff on a shirt.
+
+Fair use: Gives other people the right to make use of some portion of the copyrighted work.
+
+- Purpose and Character of the Use: If commercial or if for non-profit.
+- Nature of the Work: Factual material < creative work.
+- Amount and substantiality of the portion used wrt the work as a whole.
+- Effect on potential profits.
+
+Duration: Life + 70 years if person. If company, 120 years from creation, or 95 years from first publication, whichever is shorter.
+
+Copyright stuff: You don't need to put the (c) or the All Rights Reserved because it is implemented already. It is not required, but it is a good idea.
+
+Better to file protection before the infringement to get greater damages in the event of a lawsuit.
+
+Ex for Jack and Sydney: Instructions for their customers, text on the web site, promotional videos, logo. (People can independently think of a logo, which has to be protected by a trademark.)
+
+# 4.5: Trade Secrets and Patents
+
+Trade secrets can potentially last forever, as long as it is not publicly available. Once the secret's out, it's no longer protected. Someone can independently come up with that idea though.
 
 
+# Readings 4.1 Chapter 14 Bagley & Dauchey
 
+## Trade Secrets
+
+A _trade secret_ is any information that provides a business with a competitive advantage from not being generally known by a company's current or potential competitors or readily discoverable by them through legitimate means, and is the subejct of reasonable efforts to maintain its secrecy.
+
+This could be: sales and marketing plans, customer lists and data, software, computer files, manufacturing techniques, formulas, recipes, R&D, survey information, sales data, circuits on chips.
+
+Trade secret protection is unavailable for information that competitors or others obtain through legitimate reverse engineering of a hardware product.
+
+Once a product containing trade secrets is released for sale, trade secret protection is often lost.
+
+Prototypes and information destined for public release can still be protected as trade secrets before they are released.
 	
+Legal remedies can protect the owner against improper disclosure and use by others. Improper means are: theft, misrepresentation, bribery, breach of contract, and espionage.
+
+When a person discloses or uses a trade secret in violation of a duty of confidentiality, the trade secret owner can use the courts to protect its trade secret rights.
+
+- Preemployment clearance: Company makes sure that its hires (especially when from a competitor) will not use trade secrets of the competitor.
+- NDA: This contains a promise by the employee to avoid unauthorized use or disclosure of the company's trade secrets. Everyone signs this.
+- Noncompetition Agreements: Prevents employees who leave the company from using trade secrets and other sensitive info.
+- Employee Education
+- Exit Interview
+
+## Copyrights
+
+A company's web stie is a copyrightable work. A copyright gives the owner of an original work of authorship the exclusive legal right to obtain certain economic benefits from the work, including the right to prevent reproduction and distribution of the work. He owns the right to:
+
+- Reproduce copies of the work.
+- Develop derivate works.
+- Distribute copies of the work.
+- Perform the work publicly.
+- Display the work publicly.
+
+Copyright cannot be used to protect an idea or a certain way of performing some function (it has to be tangible). A business plan may be copyrighted, but that does not prevent another person from developing a business that uses the ideas contained in the plan.
+
+If an idea and teh way it is expressed is inseparably bound, the idea and the expression are said to _merge_, and no copyright protection is available. The maker of a karate video game is inseparable from the moves in actual karate.
+
+We cannot copyright the "+" sign to indicate addition, because there is no other logical and feasible way to express it on a keyboard. We can copyright a story even though it has the theme of "love triumphing over adversity" because there are different ways to express that idea.
+
+## Fair Use
+
+The law permits others to make limited use of copyrighted materials, including criticism, comment, news reporting, scholarship, and research.
+
+### Factors Considered:
+
+- The purpose and character of the use
+- The nature of the copyrighted work
+- The amount and substantiality of the portion used
+- The effect of the use upon the potential market value.
+
+It depends on the court (fair use is very broad). Kinko's lost to Basic Books when it photocopied without permission and sold portions of text to students, even though it was for education, it cut through profits. Napster was unsuccessful in arguing that its users' sharing of MP3 files constituted fair use of copyrighted songs.
+
+Copyright lasts for the life of the creator plus 70 years.
+
+### To Be Eligible for Copyright Protection
+
+- Fixed in a tangible medium of expression.
+- Must be original.
+- Must contain some minimal level of creativity (even things such as directions on how to use a beauty product applies).
+
+No action is required to obtain copyright protection, as it arises automatically when an original work of authorship is first fixed in a tangible medium of expression. (It's not legally required to put a notice of copyright protection.)
+
+To prove copyright infringement, you just need to show that the infringer had access to the copyrighted work and that his work is similar to the copyrighted work.
+
+One case, _MGM Studios Inc. vs. Grokster_, had a court rule that "one who distributed a device with the object of promoting its use to infringe copyright is liable for the resulting acts of infringement by third parties."
+
+### Ownership of Copyrights and Works Made for Hire
+
+The employer owns works created by its employees in the scope of their employment. Scope is determined by: right to control (by the employer), who initiated the creation, at whose expense the work was created, time spent on the project, who owned the facilities where the work was created, and the nature and amount of compensation.
+
+## The Digital Millenium Copyright Act (DMCA)
+
+1998, enacted to provide copyright protection for books, music, videos, software, creative works over the Internet.
+
+- It makes it a crime to circumvent technological antipiracy measures designed to control access to a copyrighted work.
+- Outlaws manufacture, distribution, sale of tech and devices that enable consumers to circumvent these measures.
+- Makes it illegal to intentionally remove or tamper with certain "copyright management information."
+- Okay to crack things for research purposes.
+
+The DMCA contains safe harbor provisions (these protect online service providers from infingement when they innocently store or transmit infringing material by users).
+
+Berne Convention Implementation Act of 1988: Holders of copyrights would have the same protection a national would have if the work were produced in that country (although hard to implement in other countries such as China). In 1996 this was extended to cover computer programs and electronic databases.
+
+## Patents
+
+### Benefits
+
+- Protection for small firms with good technology.
+- They can be used defensively as bargaining chips in patent disputes.
+- Very complex and technical!
+
+A _patent_ is an exclusive right granted by the federal government that entitles the inventor or patent assignee to prevent anyone else from making, using, selling, or offering to sell the patented process or product in the US for a specified period of time.
+
+A patent does not give its owner the right to use it, it is simply the right to exclude others from it. You need to ask the person you built the patent on for permission (a license or approval).
+
+The application must contain a detailed description of the invention sufficient to allow someone else with ordinary skill in the technical field to make and use the invention without undue experimentation.s
+
+### Types of Patents
+
+- __Utility patents__ can cover a machine or a process or an article of manufacture. It can also cover new compositions of matter, or human-made microorganisms. (Improvements to any of these types of inventions can also be connected with a utility patent.)
+- __Design patents__ can be used to protect ornamental designs. The standard is the "ordinary observer test", where a design patent is infringed if in the eyes of an observer, two designs are the same.
+- __Plant patents__ protect plants and flowers (rare).
+
+Utility: Patents last 20 years from the date the patent application is filed. Design: 14 years.
+
+### Requirements
+
+- Must fall within a class of patentable subject matter.
+- Must be useful.
+- must be novel (has not been patented in the world).
+- The patent will also be denied if the invention is disclosed to the public more than one year before the date that the patent application is filed. "Disclosed" means used before. Whoever applies for the patent first can win over whoever actually invented the thing.
+- Entrepreneurs with patentable inventions should consider filing a provisional patent application just to put a stake in the ground.
+- Patents can be sold.
+
+
+
+
+
+
 
 
 

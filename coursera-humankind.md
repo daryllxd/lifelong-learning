@@ -1,17 +1,24 @@
-¬¬1.2—The Human Family 1st Segment
+# 1.2—The Human Family 1st Segment
+
 * 70K years ago: Development of cultures.
 * History is simply the next stage in the process of ongoing complexity in the universe.
-Revolutions
+
+## Revolutions
+
 * Cognitive Revolution (70 KYA): Homo sapiens evolved unique cognitive abilities that gave it immense power
 * Agricultural Revolution (12 KYA): Homo sapiens domesticated animals and plants, established cities.
 * Scientific Revolution (500 YA): Homo sapiens gains more and more power by understanding how the world works, is able to manipulate the smallest units of matter.
-Cognitive Revolution
+
+# Cognitive Revolution
+
 * We existed like 2.5 MYA. For a period of time, we were just another animal.
 * Species: Able to produce fertile offspring.
 * Genus: Having evolved from a same common ancestor.
 * Homo sapiens: "Wise man".
 * For 1000s of years, humans thought of homo sapiens as different animals, where in fact we are members of the family of great apes.
-The Human Family
+
+## The Human Family
+
 * Australopithecus ("Southern Ape")
 * Homo neanderthalensis ("Man from the Neander Valley"): Europe, Middle East (it was colder then). Bigger, more muscular, have more insulating fats.
 * Homo soloensis ("Man from the Solo Valley"): Indonesia. It was better adapted to live in the jungles and swamps in Indonesia/Java.
@@ -21,8 +28,11 @@ The Human Family
 * Homo sapiens: 200-300 KYA.
 * The general nature is that there were many human species, some were big and some were small.
 * From about 2 MYA, there were several human species simultaneously in our world. There is some evidence that Homo sapiens may have killed the other species.
-1.3—The Human Family 2nd Segment
-Big Brains
+
+# 1.3—The Human Family 2nd Segment
+
+## Big Brains
+
 * Humans have extraordinarily large brains. A 60 kg mammal has about 200cc brain size. A 60kg human has about 1200-1400cc brain size.
 * It is only humans that have this, not dogs, not cats etc.
 * There is a problem with this big brain: you have to carry it around, you have to protect it with a skull, and it is hard to carry around this big head. 
@@ -775,7 +785,9 @@ Scientific expeditions and imperialism were inseperable.
 * Because the Cook expedition was funded by the Royal Navy, he also had political tilts, such as claiming Australia, New Zealand, and the South Pacific, and ruining the lives of Aboriginals and Maoris.
 * The Beagle was sent to South America to map its coastline. 22-year old Charles Darwin, a young Cambridge-educated geologist, went on board.
 * In the months leading to the expedition to the moon, the astronauts trained in the American desert. They met an Native American who asked to pass a native message to a holy spirit in the moon. When they figured out what the message was, the message was: “Dear sacred spirit of the moon, just don’t believe what they say, they will just take your land.”
-12.3: Marriage
+
+# 12.3: Marriage
+
 * Science also paved the way for upgrading maps, and unfamiliar parts were monsters. There were no spaces.
 * After scientific revolution Europeans began to create maps with spaces, an admission of the lack of knowledge.
 * Columbus made the assumption that Japan was 7000 km west of Spain, but it was actually 22000 km. When Columbus reached the Bahamas, he thought that he was in Asia already (he called the natives Indians). He never actually thought that he discovered a completely new continent. They were basing stuff on the Bible and thought that it was impossible that the Bible just missed an entire continent.
@@ -800,7 +812,7 @@ Scientific expeditions and imperialism were inseperable.
 * On many occasions, what Europeans brought was war and exploitation and racism. Ex: British adopted a disastrous economic policy which resulted in the Bengal famine which resulted in 1/3 dying.
 * Due to the alliance with science, Europeans wielded so much power, and we can’t generalize what they did as good or evil. So it is very difficult to reach a clear decision whether they were good or bad.
 
-# 14.1 Capitalist Creed Segment 1
+# 14.1 The Capitalist Creed Segment 1
 
 Understanding economic history and the rise of the Capitalist system is easy, just understand the word _growth_. The Capitalist economy is growing every year.
 
@@ -820,9 +832,135 @@ Credit is the difference between the size of the economic pie today and the size
 
 If you don't believe that the economy will grow, then it will definitely not grow.
 
-# 14.2 Capitalist Creed Segment 2
+# 14.2 The Capitalist Creed Segment 2
 
-The idea of progress is built on the notion that if we admit our ignorance and we invest our resources on research was that things can actually improve! Whoever believes in progress believes that tech can increase the sum total of human wealth. If you believe in progress, you believe that the 
+The idea of progress is built on the notion that if we admit our ignorance and we invest our resources on research was that things can actually improve! Whoever believes in progress believes that tech can increase the sum total of human wealth. If you believe in progress, you believe that the current economic pie can grow.
+
+There were economic crises on the way, but over the long run, situations improve. Now, you have a ton of credit. The rising belief in progress and credit led to political revolutions. In 1776, Adam Smith produced _The Wealth of Nations_. Smith said that "when the owner of a factory has greater profits than what he needs to feed his family, he will employ more assistants in order to make more money, and the more employees he can employ". The people he employ can also get more money. 
+
+Smith's claim that the selfish urge of "increased profit for me" has been super revolutionary, both financially and morally. "Greed is good and by becoming richer, you benefit everyone, not just yourself, and when you become egoist, you are actually becoming altruistic, and you help people around you".
+
+Smith told us to not think of economics as a zero sum game, but think that if I am rich, then most probably, you are also rich, and if I am poor, then most probably, you are also poor because I can't buy your stuff.
+
+Being rich means being a good person, and people become rich not by robbing other people, but by increasing the size of the pie. (Contrast this with Jesus' belief that rich people have a hard time getting to heaven.)
+
+This only works, though, if the rich actually create jobs and factories, and not by wasting them. According to capitalism, profits must be reinvested in production, research, exploring new markets, but all the investments must somehow increase production and translate to profits in the future. The profits of production must always be reinvested in increasing production.
+
+_Capital_ is different from wealth: capital is _money_, _goods_, and _resources_. Wealth is just unproductive stuff that gets buried into the ground. A pharaoh that buries his wealth is wealthy, but not be a capitalist. A worker that invests in the stock market is not wealthy, but he is a capitalist.
+
+Elites in the middle ages did not believe in investment, but they believed in generosity and conspicuous consumption. They spent it on tournaments and wars that didn't increase the productivity of their estates.
+
+In the modern area, the nobility was replaced by the new elite, whose members truly believed in the religion of capitalism. The new capitalist elite is composed of traders, stock brokers, industrialists, and members of the middle class.
+
+Most rich people today, what they spend their days doing is rushing from one business meeting to the next, figuring out the best place to invest capital. Even if you don't have much money, but you think of where you invest stuff, you are thinking as a capitalist.
+
+Today, capitalism is a religion. We have a set of teachings on how people should behave, and teach their children, and the principla maxim is that "Economic growth is the supreme good". Even if you want justice and political freedom , you have to get economic growth. When you want to improve a certain place, we always get "thriving middle class" and "economic growth" and "we need to educate tribesmen about hard work and self-reliance".
+
+Even science is affected by capitalism, we first ask scientific projects "will this increase economic growth or not". Science projects which don't increase economic growth won't get funding.
+
+Banks and governments print the money, but it is the scientists that need to foot the bill. So everyone wants to create money to boost economic growth, because no one wants the current financial systems to stop. And everyone just trusts the governments and banks, too, but ultimately, the only people that can fix everything are scientists. Hopefully, scientists can create profits from businesses and products and these can cover the credit that everyone is creating.
+
+__Just remember that 90% of the money isn't real, and if we stop trusting the system, this money is gone.__
+
+# 14.3: The Capitalist Creed Segment 3
+
+Credit and capitalism were not unique to Europeans. Asian merchants have thought of these, however Asian nobles despised this. Asian nobles just taxed their subjects and looted their enemies.
+
+The empires built by bankers and investors were able to beat empires built by kings because people want investing but hate taxation. Since Europeans financed their expeditions with credit, they were able to explore the world and conquer colonies. The money they got from the colonies allowed them to repay the loans.
+
+Another major difference between the Europeans and the Asians was that the empires were financed by limited liability companies, as opposed to taxes. Since exploring the oceans were risky, the Europeans created the LLC and spread the risk among many investors. What you did was you set up a company, and set up stock exchanges to finance campaigns of exploration and conquest.
+
+Consider the Netherlands. In order to secure their initially commercial interests, the VOC (Dutch company, not the Dutch state) conducted military campaigns in Indonesia. It was only in 1800 that the Dutch state assumed control of Indonesia. While VOC was operating in the Indian Ocean, the Dutch West Indian Company created a colony (New Amsterdam) at the mouth of the Hudson River. In 1664, the British captured New Amsterdam and changed its name to New York.
+
+The British also built their empire behind the back of private companies. The British East India company was used to rule over India, it's army was actually bigger than the British state. When Netherlands and Britain assimilated Indonesia and India, it was at a point where company officials were in the government already.
+
+China wanted to stop the Opium cartels who were affecting their productivity. But since the British capitalists were major stockholders in the cartel, and Britain declared war on China in the name of free trade. In the peace treaty that ended the Opium War, the Chinese were forced to allow opium to be traded, paid damages, and gave up HK to the British.
+
+This is why Credit ratings are much more important than natural resources. Credit ratings mean that the country can actually pay if it borrows money. This is why it doesn't matter that the richest countries don't have a lot of natural resources, they have very good credit ratings.
+
+People who are called capitalists think that capital should influence politics, but politics should not interfere in capitalistic endeavors. When politics influence capitalism too much, you result in less growth. They think that it is better to keep taxes low so that capitalists can reinvest and create jobs as opposed to increase taxes so that the unemployed get benefits. _"Just let the markets make the wise decisions by themselves."_
+
+Free market advocates just hate whatever governments do: wars and social programs.
+
+# 14.4: The Capitalist Creed Segment 4
+
+In the extreme form, the belief in the free market is just naive. There isn't such a thing as a market that is free of politics, because markets are powered by the trust in the future, and it is the political system that regulate thievery and the markets themselves.
+
+If markets are not regulated, then there is a possibility that the powerful members can abuse the weaker ones. The excuse was: __"A really free market would protect the weak"__ because the best workers would leave for other companies and "his own greed would treat his workers well". In a completely free market, greedy factory owners can establish monopolies, and they all owners can control the workforce (they can choose to just keep all wages low).
+
+At the end of the Middle Ages, slavery was non-existent, but when the Europeans crossed the Atlantic, slaves were present. This was not because of tyrants, but because of economic enterprise (law and demand). People invested money in the slave companies because it was good business (!), there were profits of 6% per year.
+
+This is the real problem of a completely free market system, it cannot be sure that profits are done in the correct way. Capitalism killed millions of people not because of hatred but only because of indifference. People who bought the shares didn't even think of the Africans, they just thought of the money. Many of them lived far away from the plantation and they just cared about the plantation's profits.
+
+The end result is that although it is true that the economic pie kept growing, the distribution of wealth was so uneven, in such a way that Africans and Indonesians and Indians actually ate less than their ancestors 500 years ago. Capitalists argue that the only way of managing the world is just capitalism (communism sucked big time). We may not like capitalism, but we cannot live without it, because there is no other idea that can come close to it.
+
+Another answer is that we need to be a little bit patient, and that paradise is just around the corner. We just have to wait a little longer, and everyone in the end will receive a bigger slice of the pie.
+
+We could also argue that life expectancy, child mortality, and calories per person is significantly higher in 2013 versus 1913, even though there are many people around. The only question is, can the economic pie continue to grow?
+
+# 15.1: The Industrial Revolution Segment 1
+
+What will happen when we don't have raw materials (oil, iron, copper) anymore?
+
+When we look back in history over the last 2-3 centuries, the danger of humanity running out of raw materials is smaller than at first sight. The amount of raw materials just kept growing, instead of diminishing.
+
+Whenever there is a threat of a shortage of energy or raw materials, investments begin to flow into science to solve this. Because of this financial support, the scientists/engineers are able to solve these problems and find alternate sources. What is lacking is not energy, but ways to harness it.
+
+Steam engine: The first big invention of the IR. You burn fuel (coal) and you use the resulting heat to boil water. The resultant steam expands pushes a piston, and the piston moves something. What is unintuitive is that you turn heat into movement. The piston brought water out of mines to prevent flooding and was used for looms in factories.
+
+In 1825, a British engineer thought of connecting the steam engine to a wagon. This was the first train. In 1830, the first rail line was created, connecting Manchester and London. In 1850, Britain already had tens of thousands of kilometers of railway tracks.
+
+This proved that you can convert energy from most any form to others. Once people discovered this, they were able to invent a lot of things. Ex: It took just 40 years from e=mc2 to atomic bombs. E=mc2 just means that any amount of matter can be converted to huge amounts of energy.
+
+The internal combustion engine turned petroleum into liquid political power. While petroleum had been known for thousands of years, people didn't do anything with it, they just used it for waterproofing ships and lubricating axles.
+
+People knew about electricity, but it didn't have any use in the army. It was used by scientists and magicians. Now, we can't imagine our lives without electricity.
+
+The IR is a revolution around energy. It says that there is no limit to what we can do because of the energy we have. The amount that we are using is negligible to the energy that the sun releases every day, the nuclear power inside atoms, and gravitational energy.
+
+Prior to the IR, all of our energy was taken from plants (food, animal food, heating wood). Throughout most of history, we just spent whatever energy plants from the sun (which is very small).
+
+But what about raw materials? Once we solve the problem of energy, we can solve the problem of raw materials because we can then extract and transport raw materials from anywhere. Ex: We are able to get raw materials from other countries because of cheaper transportation costs.
+
+# 15.2: The Industrial Revolution Segment 2
+
+The IR first and formost affected agriculture and the methods for creating food. Machines such as tractors began to do work that was done by muscle work by humans and animals. Even animals became machines. Farm animals became mass-produced in factory-like facilities and their existences are determined by the profits and losses of the businesses that own them. The industry had no intrinsic interest on the social and psychological needs of animals unless these affect their productivity.
+
+Ex: Hens are in cages that are so small that they can't even flap their wings and do their socializing. Male chicks and infertile female chicks are taken away and are shredded or thrown in the garbage. In industrial pig farms, pigs and sows are confined in very small cages that they literally aren't able to turn around.
+
+Note that people don't really hate animals, it's just that it is more efficient, production wise. What's ironic is that we now know that mammals and birds really have psychological/social needs and feelings. Evolution implanted cows with desires to play and bond with their mothers. Now, farmers separate young cows from their mothers, and the mothers are fed and inseminated. While industrial agriculture takes care of farm animals objectively (they live), it doesn't take care subjectively.
+
+Harlow's experiments in 1950 showed that infant monkeys prefer the clothed mother, although it sucked milk from the metal mother. It was not because of the heat: the metal mother had a light bulb in it. Monkeys look for more than material needs from the parent (emotional and psychological). Monkeys who had complete material needs but no emotional needs suffered from anxiety and found it hard to integrate with their society.
+
+Prior to the IR, most people (about 90%) were peasants because most of the food produced fed the farmers and farm animals. Post-IR, just 2% of Americans work in agriculture but they are able to export food. Agriculture enabled people to stop working in the fields and move to the cities, and they were able to produce more products as a result.
+
+When there are so many products, who is going to buy the excess stuff?
+
+# 15.3: The Industrial Revolution Segment 3
+
+You can't just produce stuff, you have to buy it.
+
+Most people throughout history had to be frugal because there was so little stuff to go around, and a good person saved as much as possible.
+
+Consumerism sees the consumption of more and more products and services as a good thing. Consumerism encourages people to treat themselves by eating too much, and it sees frugality as some kind of problem or psychological disorder. It has worked hard to convince people that indulging yourself is good for you, and frugality is self-oppression. "You should treat yourself! If you want something just go ahead and buy it!"
+
+Consumerism has turned to turn segments of the population to be good consumers. Manufacturers design short-term goods just so we can purchase more and more stuff. Even religious festivals such as Christmas become shopping festivals. This results in a lot of obese people: the U.S. spends more on diets than the money required to feed every starving person in the world.
+
+As in previous eras, there is a kind of division of labor between the elites and the masses. In ancient Europe, the aristocrats spent lavishly and the poor penny-pinch. Now, the rich take great care to manage their investments, and the less affluent go into debt buying stuff they don't need and afford.
+
+## Rich: Invest. The Rest: Buy.
+
+Whereas religions thought that people should restrain themselves to get into paradise. As a rule, people who follow religions don't really follow the rules of the religion. But in consumerism, people actually live up to the ideal that they are told. People are asked to spend paradise on earth, and if they aren't happy enough, they just need to spend more.
+
+
+
+
+
+
+
+
+
+
 
 
 

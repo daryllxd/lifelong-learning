@@ -43,7 +43,7 @@ Entrepreneurship is fundamentally about experimenting stuff on the market. Indus
 * Key activities—what you need to succeed
 * Key partnerships—how to leverage your biz model?
 * Cost structures
- 
+
 # 2.1—Nine Key Frameworks for Entrepreneurship
 
 ## FW 1: Two Phases
