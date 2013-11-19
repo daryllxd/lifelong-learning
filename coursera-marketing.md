@@ -1,12 +1,12 @@
-# 5.1: From Product-Centric to Customer Centric
+## 5.1: From Product-Centric to Customer Centric
 
-## Review of 3 Axes
+#### Review of 3 Axes
 
 * Performance Superiority: Best Product
 * Operational Excellence: Keep the cost low.
 * Customer Intimacy: How do we get more money on something that actually adds cost?
 
-# The Product-Centric Approach
+#### The Product-Centric Approach
 
 For most companies, it's all about making money and maximizing the _net present value_ of the corporation.
 
@@ -34,7 +34,7 @@ The competitive advantage: __product expertise__ (we are better than everyone el
 	* Sales bias: On the side of the seller in a transaction
 	* Culture: New product culture, open to new ideas and experimentation.
 
-# 5.2 Cracks in the Product-Centric Approach
+## 5.2 Cracks in the Product-Centric Approach
 
 There are things going on today that weren't happening 15-20 years ago that are causing the product-centric approach a little bit different.
 
@@ -48,7 +48,7 @@ There are things going on today that weren't happening 15-20 years ago that are 
 
 Example: IBM was very product-centric, but in the 1990s, they learned they can be better as an advisor, but they're making money telling the customer "here's what you should buy".
 
-# 5.3-5.4: Data-Driven Business Models/Direct Marketing
+## 5.3-5.4: Data-Driven Business Models/Direct Marketing
 
 _Harrahs_ had a difficult time competing with companies with more resources. Their rewards program was able to get more data from the customer than other companies. They were able to provide better messages at the right time.
 
@@ -58,7 +58,7 @@ The first businesses to be customer-centric were direct marketing companies. Alt
 
 Any company that operates on the Internet and can track the customer over time can be a direct marketer.
 
-# 5.5: Which Firms are Customer Centric?
+## 5.5: Which Firms are Customer Centric?
 
 Which of Walmart, Apple, Starbucks, and Nordstrom are customer-centric?
 
@@ -71,7 +71,7 @@ In his book, not one of them are customer-centric.
 
 Improvements of the companies: Walmart is developing new products to improve themselves on the customer-centric initiative: the scanner app to know what the customers are buying. Apple also is tracking customer data via iTunes music preferences.
 
-# 6.1: What is Customer Centricity
+## 6.1: What is Customer Centricity
 
 __Customer centricity__ is a strategy that aligns a company's development/delivery of its products/services around the current and future needs of a __select set of customers__ in order to maximize their long-term financial value to the firm.
 
@@ -87,7 +87,7 @@ Sales of the month people are backward-looking. You're incentivizing people to r
 
 If airlines would be really forward-looking, they'd realize that MBA students would take a temporary hit on their travel, but after that hit, they'd travel even more!
 
-# 6.2/6.3: Living in a Customer-Centric World/More Reflections on Customer Centricity
+## 6.2/6.3: Living in a Customer-Centric World/More Reflections on Customer Centricity
 
 Remember the over-arching objective: to maximize shareholder value. Remember though that we can't just rely on product-centricity to get more money.
 
@@ -107,7 +107,7 @@ Re: Finding the right customers. Understand that customer centricity does NOT su
 
 There is a __paradox of customer centricity:__ the more that a firm tightens its central focus on a select group of customers, the more it needs its "non-focal" customers to stabilize the overall mix.
 
-# 6.4: Questions on Customer Centricity
+## 6.4: Questions on Customer Centricity
 
 __Who is the customer?__ In pharmacy, you can argue that the person, the hospital, or the insurance is the customer. We want to agree that one of these entities is the customer, but one customer matters more than others.
 
@@ -118,6 +118,41 @@ __What resources can you utilize to preempt the barriers?__
 __Thoughts about what competitiors are doing in this area?__ In many cases, the best case to move this is "hey, no one is doing this, let's do it!"
 
 Does it make sense for your organization to become customer centric? If so, when?
+
+## 7.1: How Can Customer Centricity Be Profitable?
+
+The traditional product-centric model is showing some cracks: commoditization, well-informed customers, globalization, etc.
+
+Cx centricity celebrates cx heterogeneity: we celebrate the differences of cx. We judge cx based on what they are worth to us.
+
+We have to beg good in: customer acquisition, retention , and development. The common split is: 5% acquisition, 47% retention, and 47% development.
+
+#### Customer Acquisition
+
+_What metric is used by most firms to gauge and guide their acquisition activities?_
+
+__CPA (cost per acquisition).__ It's very easy to track nowadays. But focusing your business to use this as your main metric is a __big mistake__.
+
+We want to think of our customers as assets, and they are the most important assets that we have. When it comes to other assets, such as lawyers or technology, we use the mentality of not the best, but the skill.
+
+What we want is __value per acquisition__. We think of the upside of each custoemr, and we used that to drive CPA.
+
+People should use the CLV (customer lifetime value) as a seal on the maximum amount you spend to get a customer. With this, we can allocate how much profit we could build to our stakeholders. We want to not spend a ton more, but we want to get more valuable customers.
+
+Customers acquired through Google on average have a higher lifetime value (mean $1K) than cx acquired through different channels. Instead of penny pinching per customer and per click, we shoudld orient ourselves to the value rather than the cost (the difference is so high anyway).
+
+##### Customer Acquisition Summary
+- Don't be in a CPA mentality (focus on ceilings instead of floors).
+- Celebrate heterogeneity by using CLV to drive acquisition strategies.
+
+## 7.2 Customer Retention
+
+_What metric is used by most firms to gauge and guide their acquisition activities?_
+
+__Churn/attrition rate (retention rate). What percent of our customers stayed with us?__
+
+This is a good metric, but you need to examine it at a closer level. How do companies manage their attrition rates? Ex: Vodafone. Their attrition rate is roughly 20%.
+
 
 
 

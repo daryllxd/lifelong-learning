@@ -952,6 +952,133 @@ As in previous eras, there is a kind of division of labor between the elites and
 
 Whereas religions thought that people should restrain themselves to get into paradise. As a rule, people who follow religions don't really follow the rules of the religion. But in consumerism, people actually live up to the ideal that they are told. People are asked to spend paradise on earth, and if they aren't happy enough, they just need to spend more.
 
+# 16.1: A Permanent Revolution Segment 1
+
+If you took all of the 7 billion people of the world and put them on a scale, we come up with 3 million tons. All of our livestock is 7 million tons. All of the big wild animals (oceans/continents) would be less than 1 million tons.
+
+Giraffes: 80K. Gray wolves: 200K (dogs (400M)). Chimps: 250K.
+
+We will most probably just get more resources (previous segment). The more justified fear is the fear that we will destroy our environment. 
+
+As humans gain the power to control the forces of nature, we might get side effects. In order to stop these, we have to take even more drastic actions/manipulations of the ecosystem and it will cause more problems.
+
+Don't think that we are "destroying" nature. Nature as such cannot be destroyed. It can only be changed. The asteroid that destroyed the dinosaurs just changed the environment which allowed mammals to flourish. In the same way, we might be just changing the earth to make it more suitable for other animals such as rats and cockroaches.
+
+Over the last 200 years, the human population has been growing super huge!
+
+- 1700: 700M
+- 1900: 1.5B
+- 2000: 6B
+- Today: 7B
+
+The rhythms of agriculture have changed with the increase of industry. Traditional agriculture depended on organic growth. Most societies relied not on clocks, but on the changes seen in nature and seasons.
+
+Modern industry relies not on nature, but on the precise schedules which are constant throughout the year. As opposed to a middle-aged shoemaker who makes an entire shoe, today's shoe factories have a huge division of labor.
+
+Because each worker has to be there, everyone goes to work at the same time, eats lunch at the same time, and goes home at the same time. The IR has turned the timetable into the basis for all human activities.
+
+After factories began to impose timetables, school timetables were also changed. Young children have to get used to working at the same time as adults. And prisons, hospitals, etc. timetables changed too.
+
+Public transportation was also affected: trains and buses have to reach factories before they open. So precise timetables for transportation were invented. (Note: There were different times for each city in England.)
+
+In the 1800s, the train companies synchronized their times to the time in Greenwich. In 1847, the king made it so that Britain shared the same time, synchronizing everyone's lives, a practice that continues up to today.
+
+In the past, there was one clock tower per county, which was usually inaccurate. A family today has more clocks than a medieval county. And because everything is connected to these clocks, we look at them a few dozen times a day.
+
+Every little thing we do: waking up, getting to work, going to the gym, watching our show, complaining about time, involves time.
+
+
+# 16.2: A Permanent Revolution Segment 2
+
+The most important change in human life was the collapse of the family and local community in favor for the market and the state. For most of history, even with the AR, people lived in families and community.
+
+The IR managed to break these building blocks into atoms (individuals). Most of the traditional functions of communities were transformed to the state and market. Before, you work in a family business or a family farm. Your healthcare, your pensions, dealing with orphans, building a house, protection each other, all were given to you by your family.
+
+These are different from the laws of supply and demand that govern our society today. Pre-IR, there were lots of sharing and helping, but not that much transactions (everyone had everything they needed). Probably < 10% were bought in the market. With very few exceptions, kings/sultans/monarchs did not intervene in the lives of normal families.
+
+There were no mass welfare, education, and school systems back then, because there was no transportation/communication infrastructure back then. So local communities were left to manage taxation and police and other stuff by themselves. This is why family vendettas were used as opposed to a police or military force.
+
+Ex: Ming Dynasty Baoching. 10 families in a ching, 10 chings in a Bao. If someone in the Bao committed a crime, others can be punished. Taxes are levied on the Bao, not the individuals. It's the responsibility of Bao leader to tax the families accordingly.
+
+It wasn't all good. Family members could oppress in the same way as the states and markets today. A person who lost their family and community is as good as dead: no education, no protection, no healthcare. No policemen, social workers, state schools exist. You have to find quickly an alternative family. At best, kids who ran away from home would either be a servant, join the army, or be a prostitute.
+
+When the government wanted to control the people, they discovered that the current family structure blocked what they wanted to happen. Parents and elders did not want their children to be indoctrinated for school. They did not want their children to be urban workers in the city. 
+
+The state wanted to weaken the bond of the family. They sent policemen to stop vendettas and family violence. They convinced people to follow the fashions of the market, and not their families and tribes.
+
+These were not enough. The state needed someone to work from inside to break the family. They approached people and asked them to become "individuals" and be free from their family and parents. Marry anyone, take the job you want, live anywhere you want, because you are not longer dependent on your family and community. The state and the market will take care of you: jobs, education, health, welfare, employment, pension.
+
+The state and the market are the mother and father of the individual. We are treated as individuals: we pay our own taxes and we are punished alone.
+
+Are people better off when they are free from the family but are subjected with the power of the state and the market? No matter what you think, it's amazing to think about how fast this changed within the last 200 years.
+
+Today, it's the market that shapes our sexual and romantic fantasies. In traditional societies, the bride and the groom meet in the living rooms of families. Today, courting is done in bars and the Internet, and money passes to baristas, fashion designers, plastic surgeons, so we can look as close to the image of beauty planted by the market.
+
+In the modern world, parents are asked to send their children to be educated by the state. The state has legitimacy to imprison the parents and transfer them to foster families.
+
+In most traditional societies, parents could do anything they want with their children: murder, selling to slavers, marrying them off to a stranger. Today, the authority of the parents is diminishing. It has become a customary to view parents to serve their children. In the west, it's normal to blame the parents for anything going on with the parents. 
+
+Ancient communities did not completely disappear. Since we evolved as communal creatures which needed a tribe, we still need these. In the modern parts of the world, the intimate communities were replaced by the communities of the market and the state. (A community is not friends on Facebook, they are people that you know a lot about, and your survival depends on them.) We have many communities out there, but we can survive without them.
+
+Identification with the state is called _nationalism_. We don't associate ourselves with our families or tribes, we associate with our countries (which is weird since we don't know 99% of our countrymen).
+
+We also identify with the market. We think of ourselves as members of _consumer tribes_: Madonna fans (CDs, shirts, tickets), Manchester United fans, vegetarians, environmentalists. Sometimes, they are more important that nationalism: a French vegetarian will more likely marry a German vegetarian as opposed to a French carnivore. 
+
+# 16.3: A Permanent Revolution Segment 3
+
+The changes of the IR have been so swift and so radical that they have changed the order so much! It's very rare to have swift changes in such as a short amount of time. People tend to reconcile themselves to the status quo because of the "this is how it's always has been".
+
+When we speak of revolutions, we think we can pinpoint certain years of change, where in fact every year something changes and a revolution happens.
+
+People become accustomed to change and we think that this is something that we can engineer and improve. Fact is in 20 years, the world will be a very different place. With this, as the pace of change increased, the level of violence decreased. It's lower than at any point in our history.
+
+In the year 2000, war caused 310,000 deaths. Violent crimes killed 520,000. So in 2000, 830,000 people died from violence. While each of them is a life lost, from a macro perspective, it's just 1.5% of people that died that year, because 57M died that year.
+
+In 2002, more people died of suicide than people dying from war. The fact is, people enjoy a level of security higher than anything our ancestors have ever thought. Most of us would never think of being murdered by villagers in the night. 500 years ago, even travelling across cities was feared because it was not unlikely that they would be robbed, murdered, or kidnapped for slavery.
+
+The rising level of security is due to the rise of the power of the state. Throughout history, most violence was rooted between families. Even today, local crime is more dangerous than international wars. When states did not exist at all, and societies were organized by societies, violence societies were higher than today.
+
+Today, in 100,000 people in Australia/Western Europe, just 1 is killed by another person. Even in Detroit, it's 50 in 100,000. In ancient times, we have about 400 people likely to be killed per year.
+
+As kings, states, and markets became more powerful, violence dropped. Today, we just have 9 murders per year per 100,000, and most of these happen where states are weak (Somalia, Afghanistan, Colombia, Mexico).
+
+While there have been cases wherein the state killed its own people, these are not that high relative to the increased security.
+
+At least since 1945, international violence has dropped even more quickly. The decline in international violence manifested in: relatively quick and peaceful collapse of European empires, and the independent countries that replaced these countries did not fight with each other.
+
+What is unique about the collapse of the European empires was that it was relatively peaceful and orderly. Never before has been so much power been transferred from a group of people (Europeans) to another (Africans, Asians, Americans) as quickly. Ex, the British willingly transferred their power to the local elite, and a new country appeared without killing a lot of people. (It didn't happen in all cases, but in most cases.)
+
+An even bigger change occured when the Soviet Union collapsed. Within 2 years, the empire disappeared in such an orderly manner. There wasn't any serious military defeat or civil disobedience (asides from Poland). The Soviets had the biggest army in the world, tens of thousands of tanks, and enough nuclear weapons to destroy humankind. What happened was the Soviets chose to dismantle the empire peacefully when they realized that Communism doesn't work. At the same time that the Soviets gave up the recent empire, they also gave up the lands taken by Russian Tzars (Ukraine, Kazakhstan, etc.) in the 18th-19th century.
+
+# 16.4: A Permanent Revolution Segment 4
+
+Fact is, since 1945, states no longer invade other states in order to swallow them up. Everyone took it for granted that the kings of another kingdom might invade or enslave or annex them. This doesn't happen anymore. Since 1945, no independent country, recognized by the UN has been conquered or wiped off the map.
+
+Though international wars occur from time to time, they are no longer the norm that characterizes all the regions of the world. This is true not just of Europe; this characterizes many parts of the world. During the entire 20th century, South America had very little conflict: 1941 Peru-Ecuador, 1932-1933 Paraguay-Bolivia, and even 1884 Chile-Peru/Bolivia. The same with the Arab world: there's just one international war: the Iraqi invading Kuwait in 1990. Even in Muslim states, there's just one war: Iran-Iraq in the 1980s.
+
+The argument against peace is that there might be a World War III waiting for us in the corner, as previous peace periods end up in wars. But the peace today is different from others: previously, "peace" just meant that there wasn't war. (There's always a chance of war anyway). __Now, "peace" means an impossibility of war.__ It's unthinkable that a war would actually happen. For most countries today, there's a very low chance of actually having war. When presidents plan their budgets, they don't think about "war budget". It's not just that war doesn't happen, it's simply implausible.
+
+While we may think this is naive, thinking about the future, it's quite remarkable that we can actually be this naive about what might happen.
+
+## Contributions to Peace
+
+* __The price of war has gone up dramatically.__ There's just too much damage that can be caused by nuclear bombs.
+* __While the price of war soared, the profits of war declined.__ For most of history, wealth was material (gold, cows, mines). Today, wealth consists more of human capital, knowledge, and socio-economic structures. And because most wealth in the world today is knowledge, it's very difficult to conquer it and loot it and annex it. It's not even worth for China to invade Silicon Valley because SV's strength is its minds, and the minds will just book a flight outside. The places where international wars took place were fought where material wealth resides: Kuwait-Iraq and Iran-Iraq.
+* __Peace has become more profitable than ever before.__ In traditional agricultural economies, long-distance trade and foreign trade were sideshows. Peace just avoided the cost of war. In contrast, foreign investments and trade today are very important.
+* __Many chiefs previously viewed wars as good.__ Other elites hated it, but they just viewed it as a natural thing. Today, this is the first time in history that we are dominated by an elite that genuinely see war as evil and unavoidable.
+* __Most countries don't wage war because they are no longer independent.__ Some governments cannot conduct full-scale war on their own without the approval of the international community and international elites.
+
+It's often distorting how much we see history with the events of the immediate past. But the late modern era is characterized not by war or by peace but by dynamism: history has still not made up its mind on what's going to happen. Despite all the amazing revolutions and inventions over the past few years, it's still difficult to know if people today are happier than people in ancient times. 
+
+
+
+
+
+
+
+
+
+
 
 
 
