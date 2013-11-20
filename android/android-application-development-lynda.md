@@ -353,7 +353,14 @@ When the user is in landscape mode, they'll see whatever is in the layout-land f
 
 Hitting the menu key shows some of the functionality that would otherwise not be seen.
 
-The preferred method is to code things in XML.
+The preferred method is to code the menu in XML (visual), not Java.
+
+`mymenu.xml - Type Menu`
+
+This will be in `res/menu`.
+
+Figure out where the icons are in `Android/res/drawable-hdpi`.
+
 
 
 	

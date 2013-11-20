@@ -458,8 +458,61 @@ Utility: Patents last 20 years from the date the patent application is filed. De
 - Entrepreneurs with patentable inventions should consider filing a provisional patent application just to put a stake in the ground.
 - Patents can be sold.
 
+# 5.1: Funding the New Venture: Introduction
 
+Two ways: bank/investor loans, and equity investments. An equity is an ownership interest to the business. An investor is buying part of the business. In corporation, it's shares. In LLC, it's units. In partnership, it's partnership interests. Investors buy the stock from the company, not the founder's shares (lol).
 
+# 5.2: Self-Funding
+
+When it's self-funding (bootstrapping), you only have to worry about losing your own money. Risk: Your own financial well-being, you lose regular jobs, health insurance. You need contacts and additional money.
+
+The next step is friends and family: on the positive side, they bet on you, not the idea. The company will probably have to invest in common stock, not preferred stock. It's good for investors to know that someone else gave money for this.
+
+# 5.3: Angels and VCs
+
+Angels are often wealthy individuals. If you're able to find a good angel investor, that angel can provide funding, advice, and contacts. Angels usaully work with other angels in angel networks.
+
+As angels are getting more sophisticated, they're asking for more terms. They might be asking for preferred equity, records, reports, and even if they are wealthy, they might not be able to provide all the money you need. You want someone with experience already.
+
+VCs are professional investors who bring a ton of money, as well as contact lists. They are able to make connections to strategic partners and doman experience.
+
+VC-capital funding can lead to significant dillution, preferred stock, or management control. VCs can even kick the founders out lol. Getting a VC investment also takes a long time.
+
+Take the right steps early on to make the company attractive to investors further than the road. Make sure the company is set up properly and intellectual property is protected.
+
+Convertible note: those investors have a debt from the company that converts into equity, and has a valuation set from the next round of funding. So the earlier investors need a discount.
+
+Do not cold call or email the VCs, they will think that you are not creative enough to bring it. We need people with different types of background and coachable.
+
+# 5.5: Preferred Equity.
+
+Liquidation preference: First money out goes to the original investors, and preferred return.
+
+Preferred shareholders can also change to common stock, if they get a more profitable deal.
+
+Participated preferred: Preferred shareholders who are also common shareholders.
+
+Some other rights: board members, veto rights, information records (right to check stuff), or restricting others from selling their stock.
+
+Right of first refusal: Someone wanting to sell shares have to offer to the preferred shareholders first.
+
+Drag-along-prevision: If the preferred shareholders want to sell the business, all the other shareholders have to follow, at the same price and at the same terms.
+
+Pre-emptive rights: They have the right to buy their proportionate share of new equities of the company.
+
+Pay-to-play provision: When the company needs money, then everyone needs to put money in, or else they lose some rights.
+
+# 5.6: Securities Laws
+
+They govern the sales of securities (shares of stock or units or partnership interests).
+
+Under the federal securities laws, anytime a company sells securities to somebody else, they have to be registered in the SEC. Registering securities is really expensive. The first time is called the IPO.
+
+Non-public offering/private placement: the company needs to show that all the people offered the securities have the ability to understand the investments.
+
+Don't advertise securities for sale unless you talk to a lawyer. It's also better if you sell to accredited investors.
+
+Private placement memorandum: The stuff you disclose to an investor. These are very important.
 
 
 

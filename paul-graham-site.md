@@ -1,8 +1,8 @@
-# How to Start a Startup?
+## How to Start a Startup?
 
-###Start with good people, make something customers actually want, and spend as little money as possible.
+##### Start with good people, make something customers actually want, and spend as little money as possible.
 
-## Idea
+#### Idea
 
 You don’t need a brilliant idea, what you need is to offer people better technology than the ones they are using right now.
 
@@ -10,7 +10,7 @@ That’s why online dating sucks: they think of dating as database matches inste
 
 NDA is fucking stupid. Ideas are worth something, but they’re not transferrable.
 
-##People
+#### People
 
 You need to get people who take their work a little too seriously.
 
@@ -28,7 +28,7 @@ Re: MBA, the things you need to know about business to run a startup are commons
 
 If you can’t understand users though, then learn how or find a co-founder who can.
 
-#What Customers Want
+#### What Customers Want
 
 A large percentage of restaurants fail (1/4 the first year). But restaurants with great food prospers, no matter what.
 
@@ -44,7 +44,7 @@ Start by writing software for smaller companies, because it’s easier to sell t
 
 In technology, it is easier to make an inexpensive product more powerful than to make a powerful product cheaper.
 
-#Raising Money
+#### Raising Money
 
 To be self-funding, you have to start as a consulting company, and it’s hard to switch from that to a product company.
 
@@ -60,7 +60,7 @@ Next round: VCs. Approach them in advance because they can take months to decide
 
 Talk to as many VCs as you can, because they may be on the board of someone who will buy you, or if they are impressed, then they won’t invest in your competitors.
 
-##Not Spending It
+#### Not Spending It
 
 Try to not spend money as much as possible. Google knew that and they knew that brand is worth next to nothing in search, so they never did any advertising.
 
@@ -80,7 +80,17 @@ Lessons: Don’t have a lot of meetings, don’y have chunks of code that multip
 
 __Understand that for the next 4 years, you’ll do nothing but work. If you aren’t working, your competitors will be.__
 
-# How to Raise Money
+## How to Fund a Startup
+
+A typical startup goes through several rounds of funding, and at each round you want to take just enough money to reach the speed where you can shift into the next gear.
+
+#### Friends and Family
+
+At Vu
+
+
+
+## How to Raise Money
 
 Most startups that raise money do it more than once. Usually, you start with a few tends of thousands from something like Y Combinator, then raise a few hundred thousand to a few million to build the company, and then raise another round to accelerate growth.
 
@@ -100,12 +110,12 @@ Don’t  get investors who say “I want to invest in you but I don’t lead” 
 
 Pick just one guy to handle fundraising.
  
-# How to Convince Investors
+## How to Convince Investors
 
 In startups, as in a lot of other domains, the distribution of outcomes follows a power law, but in startups the curve is startlingly steep.
 You need three things: formidable founders, a promising market, and (usually) some evidence of success so far.
 
-## Formidable
+#### Formidable
 
 Most investors decide in the first few minutes whether you seem like a winner or a loser, and once their opinion is set it's hard to change.
 
@@ -115,7 +125,7 @@ A formidable person is one who seems like they'll get what they want, regardless
 
 What they should not do is try to imitate the swagger of more experienced founders. Investors are not always that good at judging technology, but they're good at judging confidence.
 
-##Truth
+#### Truth
 
 
 The way to seem most formidable as an inexperienced founder is to stick to the truth.
@@ -130,11 +140,11 @@ The time to raise money is not when you need it, or when you reach some artifici
 
 But pausing first to convince yourself will do more than save you from wasting your time.
  
-## Market
+#### Market
 
 Founders think of startups as ideas, but investors think of them as markets.
 
-## Rejection
+#### Rejection
 
 The most common question you'll get from investors will be "who else is investing?"
 
@@ -144,11 +154,11 @@ Experienced investors are well aware that the best ideas are also the scariest.
 
 Because the best investors are much smarter than the rest, and the best startup ideas look initially like bad ideas, it's not uncommon for a startup to be rejected by all the VCs except the best ones.
 
-## Different
+#### Different
 
 And when you convince them, use the same matter-of-fact language you used to convince yourself. You wouldn't use vague, grandiose marketing-speak among yourselves. Don't use it with investors either.
 
-# Nerds
+## Nerds
 
 Being smart doesn’t make you an outcast in elementary school, not in the real world. But why does it make you an outcast in middle/high school?
 
@@ -160,7 +170,7 @@ Teenagers are always on duty as conformists. Nerds don’t realize that it takes
 
 This is why their lives suck from 11-17. Life at that age revolves far more around popularity than before or after.
 
-## Why does persecution happen?
+#### Why does persecution happen?
 
 * Teenagers are still half-children, and many children are intrinsically cruel.
 * People want to feel better by putting other people down.

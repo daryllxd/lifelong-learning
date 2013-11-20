@@ -1,3 +1,35 @@
+### [Let's Talk About Death: Stephen Cave at TEDxBratislava](http://www.youtube.com/watch?v=B0E_VNX1-Yk)
+
+At some point, all children become aware of death. 
+
+In the evolution of our species, some of us became sophisticated enough to realize that we're going to die. We have to live in the knowledge is that one day, all of our accomplishments will be gone.
+
+We each live in a personal apocalypse, and it's terrifying. The phrase was that "Grandpa was up there, watching us".
+
+Bias: Ways which we get things wrong, and we distort things to fit the reality we create. Just tell anyone that people will live forever and they will do anything they can to believe it.
+
+People who have just been reminded of their mortalities were more likely to believe in stories that tell them they can escape death and live forever. This works for not just religion, but for things such as fame and nationalism.
+
+This is a bias that has shaped the course of human history. The theory behind this bias is called terramanagement theory: _we develop our world views, the stories we tell about the world and our place in it in order for us to manage the terror of death_.
+
+There are just 4 basic forms the immortality stories take, they just take different forms:
+
+- __Elixir or fountain of life.__ Ancient Egypt, Ancient Babylon, Ancient Greece, Europe, even today we have science: stem cells, genetic technology. The idea that science can cure death is just another chapter in the story of the elixir.
+- __Resurrection.__ I am this physical organism, I die but I can rise up and live again. We are again reinventing this with the idea of cryonics: freeze/thaw yourself out. Instead of an omnipotent god, we have an omnipotent scientist.
+- __Soul.__ Majority of the people on earth believe they have a soul, but we are now thinking of "uploading our thoughts and mind into the internet as an avatar."
+- __Legacy.__ The pursuit of fame is as widespread as now as ever, we just need an Internet connection. We want to live "in the hearts of people."
+
+We should be skeptical about the truth of any of these stories. We should think that any story involving might be affected by our bias to believe them, and we are biased to believe them because we are afraid of death.
+
+Epicurus argued that the fear of death is natural, but it is not rational. The idea of being gone is difficult to grasp. Wittgenstein: "death is not an event in life; we do not live to experience death."
+
+#### Imagine the book of your life. Its covers–its beginning and end–are your birth and your death. You can only know the moments in between, the moments which make up your life. It makes no sense for you to fear what is outside those covers, whether before your birth or after your death. And you needn't worry how long the book is, or whether it's a comic strip or an epic. 
+
+#### The only things is that you make it a good story.
+
+
+
+
 ### [Kelly McGonigal: How to Make Stress Your Friend](http://www.youtube.com/watch?v=RcGyVTAoXEU)
 
 People who experienced a lot of stress had a 43% increased chance of dying, but only if they believed that stress was harmful. People who did not perceive stress was bad did not die as much.
