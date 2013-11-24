@@ -426,52 +426,36 @@ Leaderboards have also been shown that it can demotivate.
  
 ## 4.4 – Limitations of the Elements
 
-We can't just throw game elements at things and expect it to be better!
-The elements are not the game
+We can't just throw game elements at things and expect it to be better! The elements are not the game. Elements become successful if they tie the game together. Not all rewards are fun and not all fun is rewarding. It's not fun to see everyone doing the gamification thing.
 
-Elements become successful if they tie the game together.
+#### Case Study: Google News Badges
 
-Not all rewards are fun and not all fun is rewarding.
+These failed big time. "If I'm going to read news, I'm going to do it just because." It doesn't add anything except for being a badge.
 
-It's not fun to see everyone doing the gamification thing.
-Case Study: Google News Badges
+Take these into consideration: 
 
-These failed big time.
-
-"If I'm going to read news, I'm going to do it just because"
-
-It doesn't add anything except for being a badge
-Take these into consideration
-
-We want to have meaningful choices and not be forced
-
-Challenges are not necessarily puzzles. Clicking one thousand times is challenging but is not a puzzle.
-
-Mastery: we want to get better at something and master it.
-
-Community: very very powerful, we want to connect people, not just put people "together".
+- We want to have meaningful choices and not be forced. Challenges are not necessarily puzzles. Clicking one thousand times is challenging but is not a puzzle.
+- Mastery: we want to get better at something and master it.
+- Community: very very powerful, we want to connect people, not just put people "together".
  
-4.5 – Bing Gordon Interview
+## 4.5 – Bing Gordon Interview
 
-People born after 1971 tend to see life as a game and see interfaces etc of the rules. 
+People born after 1971 tend to see life as a game and see interfaces etc of the rules. So if we want to cater to this market we have to understand gamification. A lot of gamification stuff is based on motivation etc.
 
-If we want to cater to this market we have to understand gamification.
-
-A lot of gamification stuff is based on motivation etc.
-
-One of the main principles in Gamification is Instant Feedback. We want this normally but we don't get it. Games are very powerful here.
+One of the main principles in Gamification is __Instant Feedback__. We want this normally but we don't get it. Games are very powerful here.
 
 To get good, read blogs on thinking and of interaction designers, and play a great game because the things working in the best games are the best principles.
 
 Buffs in WoW is so good in learning cooperation between people. Pay It Forward is inherent in human cultures and WoW is a good example.
 
 Game makers should engineer things to make things happier when you're together.
-Mistakes that people make
 
-They think that the primary objective of games is winning competition. Cooperation trumps competition three-to-one.
+#### Mistakes that people make
 
-They put a premium on high scoring. For the most part this is demotivating. You tend to tune out things when you're not at the high score.
-Is Gamification a fad?
+- They think that the primary objective of games is winning competition. Cooperation trumps competition three-to-one.
+- They put a premium on high scoring. For the most part this is demotivating. You tend to tune out things when you're not at the high score.
+
+#### Is Gamification a fad?
 
 The principles of games, using numbers and mechanics to improve motivation have been going for a long time.
 
@@ -484,13 +468,14 @@ Unlikely to get old. Games are polarizing, but there are some people who react p
 People used to hate statistics and tracking. People used to hate numbers.
 
 Gamification is going to put pressure on a lot of things, especially schooling, gamification was invented by people who were bored in lectures.
-If everyone is doing this, what's the thing to set them apart?
+
+#### If everyone is doing this, what's the thing to set them apart?
 
 It's not exactly win-lose situation for businesses.
 
 Children are growing up to become "the best version of themselves". If we can communicate more effectively, learn more effectively, then why not? If we get clearer feedback, then why not right?
  
-5.1 – Gamification as Motivational Design
+## 5.1 – Gamification as Motivational Design
 
 Motivation: you are moved to do something vs do something else.
 
@@ -512,7 +497,8 @@ You want to make people buy computers. What can motivate people?
 Good pcs, low prices, okay!
 
 Make things efficient? Apple said that it wasn't that but they wanted people to come in and browse. They want to make people linger and the end of the day they'll buy your stuff. Although this is not gamification, this says that there are different ways of motivating people.
-5.2 – Behaviorism
+
+## 5.2 – Behaviorism
 
 Behaviorism: we look externally at what people do, cognitivism: what's going on in people's heads?
 
@@ -531,7 +517,7 @@ Feedback loops: when the person involved sees feedback on their behavior, it ten
 
 Reinforcement: learning occurs with the reinforcement of stimuli.
  
-5.3 – Behaviorism in Gamification
+## 	5.3 – Behaviorism in Gamification
 
 Watch what people do: Behaviorism doesn't watch what people think but they look for what they actually do. 
 

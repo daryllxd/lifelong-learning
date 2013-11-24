@@ -1,3 +1,43 @@
+### []()
+
+Storytelling is joke telling. It's knowing your pucnh line and your ending, knowing that everything you're saying is leading to a singular goal, and ideally confirming some truth that deepens our understandings of who we are as human beings.
+
+We love stories. Stories affirm who we are. We all want affirmations that our lives have meaning. It can cross the barriers of time, past, present, and future, and allow us to experience the similarities between ourselves and through others, real and imagined.
+
+Greatest story commandment: "make me care". "My history is my story."
+
+What all good stories should do at the beginning, is that they should give you a proise. It's as simple as "once upon a time...". It's like someone inviting you around the campfire.
+
+Storytelling without dialog: it's the purest form of cinematic storytelling. The audience wants to work for their meal. Your job as storyteller is to hide the fact that you're making them work for their meal. We're born problem solvers.
+
+__Unifying theory of two plus two: Make the audience put things together.__
+
+I believe you're wired a certain way, and you have to recognize what that is. When you are mature enough to acknowledge what drives you, and take the wheel and steer.
+
+__"Drama is anticipation mingled with uncertainty."__ Short term: What will happen next? Long term: Have you make me want to know how it will all conclude? Have you considered honest conflicts with truth that creates doubt in what the outcome might be?
+
+Pixar: In 1993, the popular animated movies were Disney. They wanted to do something different.
+
+- No songs
+- No "I want" moment
+- No happy village
+- No love story
+- No villain
+
+When they were failing, a lyricist faxed them solutions:
+
+- Songs
+- "I want" moment
+- Happy village
+- Love story
+- Villain
+
+Liking your main character: Since we want to make Woody selfless at the end, let's make him selfish at the start. We can make a selfish character likable by making him kind, generous, funny, considerate, as long as one condition is met for him, is that he stays the top toy. _And that's what it really is, is that we all live life conditionally. We're all willing to play by the rules and follow things along, as long as certain conditions are met. After that, all bets are off._
+
+Wonder: The magic ingredient. Wonder is honest, it's completely innocent, it can't be evoked. For me, there's no greater ability than the gift of another human being giving you that feeling.
+
+The first lesson I learned: Use what you know. Draw from it. It doesn't mean plot or fact. It means capturing a truth from your experiencing it, expressing values you personally feel deep down in your core.
+
 ### [Let's Talk About Death: Stephen Cave at TEDxBratislava](http://www.youtube.com/watch?v=B0E_VNX1-Yk)
 
 At some point, all children become aware of death. 

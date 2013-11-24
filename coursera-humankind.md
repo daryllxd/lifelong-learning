@@ -55,8 +55,11 @@ Walking Upright
 * 400 KYA was when Neanderthals started to hunt large animals. 100 KYA was when we jumped to be the top predators.
 * Psychologically, humans were not used to be at the top of the food chain. Other animals had evolved the position of being a top predator for millions of years already. For humans, it took us almost no time and there was not enough time for humans to adapt themselves to this position.
 * It is better to think of ourselves as a herd of sheep who learned how to use guns and bombs, because we don’t know what to do with power.
-1.5: The Human Family 3rd Segment
-Fire
+
+# 1.5: The Human Family 3rd Segment
+
+## Fire
+
 * Not sure how we discovered it.
 * The first effective weapon against large animals.
 * It could be used to change the environment for the benefit of humans.
@@ -71,7 +74,8 @@ Fire
 * In this respect, the domestication of fire was the first important step on the way to the atomic bomb.
 * Even with fire though, we were still not the most powerful species. It would come hundreds of thousands of years later.
  
-1.6: The Human Family 4th Segment
+# 1.6: The Human Family 4th Segment
+
 * Almost all scholars agree that by 150 KYA, East Africa was populated by Homo sapiens that looked like you and me.
 * During 70 KYA, they arrived in the Middle East, which was populated by the other human species.
 * Interbreeding theory: As Sapiens spread throughout the world, they bred with the other humans.
@@ -97,7 +101,8 @@ How did the Neanderthals die out?
 * Perhaps this is why we killed the Neanderthals: they were too similar to us to ignore, but they were too different to tolerate their existence. So, the solution is to exterminate them.
 * What we do know was that whenever Sapiens arrived, the other humans living there became extinct. Neanderthals disappeared 30 KYA, the last was the Flores, 12 KYA. They left a few genes in our DNA, but they also left us as the last surviving human species.
  
-Lesson 2: The Cognitive Revolution 1st Segment
+# Lesson 2: The Cognitive Revolution 1st Segment
+
 * Sapiens in East Africa already looked like us; a modern doctor cannot dissect the difference between them and us. Even their brain were the same in both size and external shape.
 * The first time the Sapiens travelled to the M East (100 KYA), they were driven back by the Neanderthals. No fossils for 30K years (they lost).
 * By 70 KYA, when they travelled to the M East, now they drove all the human species to extinction. 60 KYA they reached Korea. 40 KYA they landed in Australia. (They were the first humans there.) 15 KYA they reached America (first humans too).
@@ -129,7 +134,9 @@ Lesson 2: The Cognitive Revolution 2
 * It is estimated that the Neanderthals/old Sapiens were interested in other people, but they could not talk behind people’s backs.
 * While this sounds like a joke, other disciplines have seen the importance of gossip. Much of the information we get through emails, shows, etc., are information about other people.
 * When there was no police, gossip was the police. This was some sort of enforced morality.
-Lesson 3: The Cognitive Revolution 3
+
+# Lesson 3: The Cognitive Revolution 3
+
 * The truly unique thing about language is not to transmit information about lions and men, but the ability to transmit information about things that do not exist at all, such as legends. Things such as “the lion is the guardian of our tribe” are unique to our language.
 * This is why we call the Sapiens languages a fictive language, or a language that can talk about fictional things. You can never convince any other animal to do things so that they go to animal heaven. Sapiens is the only animal that can believe such stories.
 * Some think that this is a disadvantage for Sapiens because it is deceiving. It is also a waste of time. The fact is, the fictive language could be the most important advantage of Sapiens over other animals. This fictive language enables humans to imagine things together and collectively via our common myths and legends. 
@@ -146,7 +153,9 @@ Chimps
 * It’s well known that small family businesses have a problem when they get bigger. How did Sapiens cross this critical threshold of individuals, when we don’t have instincts which are appropriate for this?
 * The secret is fictive language. Large numbers of humans can cooperate with this shared language. Literally all large groups of humans have a fiction or belief or something. Two Catholics can coordinate when they meet even without knowing each other. Two Japanese may risk their lives because both of them believe in the existence of the Japanese homeland. Two people in the same corporation such as Google believe in the same economic myth of money. Two lawyers can combine efforts to defend a complete stranger because they believe in the existence of human rights and justice, even though they do not exist.
 * Every single thing that we tell ourselves do not exist outside of our own minds. This is hard to believe, but modern lawyers can be said to be something like tribal shamans. Shamans talk about ghosts and lawyers talk about corporations getting mad at you. In fact, ghosts are easier to understand than corporations (what the heck is corporation anyway?)
-Lesson 4: The Cognitive Revolution 4
+
+# Lesson 4: The Cognitive Revolution 4
+
 The legend of the Peugeot Company
 * The trademark is the lion man.
 * It was started in NE France 120 years ago. They employ 200K employees who create 1.5M vehicles per year. They make millions of Euro per year.
@@ -163,7 +172,9 @@ Imagined Reality
 * IR is not the same as a lie (a lie is telling something you know it is not true). Green monkeys can lie re: food.
 * Unlike lying, everybody believes imagined reality. So it is not a lie because people literally believe in the concept. Peugeot really believed the existence of the Peugeot company. Sculptors really believed in the existence of the lion man. Human rights activists really believe in the existence of the human rights.
 * Bottom line is, we have dual realities. There are the objective realities of rivers and trees and lions. There is another imagined reality of gods and nations and corporations.
-Lesson 5: The Cognitive Revolution 5th Segment
+
+# Lesson 5: The Cognitive Revolution 5th Segment
+
 * Since large scale cooperation between Sapiens is based between stories, the communication can be changed by changing the story.
 * In France, they switched from the story of “The Divine Right of Kings” to the story of “The Sovereign Right of the People.”
 * The malleability of stories and culture is important because genetic change is so slow, about 10K years at a time. So we accelerate ourselves to think differently.
@@ -185,7 +196,8 @@ Summary
 * The cognitive revolution, 70 KYA, is the dividing line between biology and history. Prior to this, Sapiens was just like any other animal. Since this revolution, biological models of explanation are no longer sufficient. From here, we can’t just rely on biological information but we have to rely on historical data. We can’t explain the French Revolution using biology.
 * Remember that the people who left East Africa were already like us, cognitive-wise.
  
-3.1:Daily Life in the Stone Age
+# 3.1:Daily Life in the Stone Age
+
 * If you really want to understand us Sapiens how we think, you have to understand how the Stone Age people lived, because most of us throughout the history of the world was to be peasants.
 * Many of the problems of the world today are the result of this very problematic interaction between the minds and bodies of hunter-gatherers and cities.
 * Evolutionary psychology: Not only is the body shaped by evolutionary pressures, but the mind is, too.
@@ -1069,6 +1081,112 @@ While we may think this is naive, thinking about the future, it's quite remarkab
 * __Most countries don't wage war because they are no longer independent.__ Some governments cannot conduct full-scale war on their own without the approval of the international community and international elites.
 
 It's often distorting how much we see history with the events of the immediate past. But the late modern era is characterized not by war or by peace but by dynamism: history has still not made up its mind on what's going to happen. Despite all the amazing revolutions and inventions over the past few years, it's still difficult to know if people today are happier than people in ancient times. 
+
+# 17.1: And They Lived Happily Ever After 1
+
+Are we more happy than before? Has the 70,000 years of history made the world a better place to live in? Are we happier than the hunter gatherers that lived here tens of thousands of years ago? If no, then what is the point of inventing and discovering agriculture/empire/science/etc. if we are not happier than our ancestors? Historians seldom ask if people from a certain time period were happier than their ancestors.
+
+View: We have much more power than our ancestors so we must be more happier than our ancestors. This view is not very convincing, because more power do not necessarily make life better and happier. Ex: Agricultural Revolution, more power but not necessarily more happines. Another ex: Spread of European empire: increased power of humans by circulating ideas, but these developments were hardly good news for the Africans, Native Americans, etc. who found themselves enslaved by Europeans.
+
+Given the tendency of humans to misuse power, it seems naive to think there is direct line between power and happiness. Some critics of this view argue that there is a negative correlation between power and happiness. Power corrupts, and as humankind gained more and more power, it created a very cold, mechanistic view and we are out of touch with our inner hunter gatherer.
+
+Third: No clear correlation between power and happiness. Medieval people might be more miserable than our ancestors, but in the last few centuries during the scientific revolution, humans have learned how to use their powers more wisely (medicine, decline in violence, disappearance of international wars, near elimination of large-scale famine). With the help of science, we have finally linked power and happiness.
+
+These are all oversimplications. We are basing "modern age" on a very small sample of years. Medicine is just within the last 50 years. Child mortality/mass famines/international war have just been rare in the last century.
+
+Even if the last few centuries have been good for us, we have seen the seeds of the future catastrophe (environmental destruction). So maybe we are experiencing very good years but we will be paying for them at a high price in the upcoming century.
+
+We can only congratulate Sapiens if we think without the context of other animals. Other animal species have been subjected to massive suffering just for our global happiness.
+
+Problem with the view: happiness is material. "If people are richer and healthier, then they are happier." Many of the greatest minds of humankind came to the conclusion that social/ethical/spiritual factors have as great an impact on our happiness. We cannot argue that our material possessions are greater than in the past, but it is not the only basis for happiness, maybe rich nations feel more alienation despite their prosperity.
+
+# 17.2: And They Lived Happily Ever After 2
+
+To know if we are happier, we need a definition and a way to measure it.
+
+__Happiness is subjective well-being.__ "I feel it inside myself." It is a sense of either immediate pleasure, or long-term contentment with the way my life is going.
+
+If happiness is something that people feel inside them, how can scientists measure it?
+
+The most important conclusion is that happiness does not depend on objective conditions of health or wealth or society, but it happens on the correlation between expectations and conditions. You are happy not because of your objective situation, but it's because your expectations are filled.
+
+Getting a wagon when you expected a wagon makes you happier than getting a Fiat when you expected a Ferrari.
+
+When things improve, expectations balloon. When things deteriorate, expectations are less. So people in the Middle Ages were not necessarily less happy than today (because they had different expectations than us).
+
+It's hard because we put ourselves in their position, thinking "how would I feel like if I was in their position", which is wrong since we have a different expectation than them.
+
+For us, just thinking about living without washing clothes makes us feel very uncomfortable, but medieval peasants felt differently about it. Pets don't take showers but it's okay to be intimate with them. We don't like humans who don't want to take a shower.
+
+Fact is, taking a shower is not important to human beings until you get used to it. When you have an expectation, that's when you'd think it is important. If happiness is determined by expectations, then media and advertising is working to ensure that people won't become happier, because they expose us to better and better things which prevent us from thinking about happiness.
+
+A teenager 5000 years ago hardly thought he looked "pretty hot" because he just knew the men in his village. A teenager today is far more likely that he doesn't look good enough or inadequate, because even if he is personally surrounded by more good looking people, he measures himself to the models or athletes. The body image of people today is lower than in the past. People are less satisfied with the way they look today than before.
+
+The discontent in third world countries is not just because of whatever it is, but it is because of the standards of affluent nations. Ex: Even if the living conditions in Egypt were much better than any other era in history, Egyptians were dissatisfied because they compared themselves to their contemporaries in Europe and America. They expect to live like their people in America and were dissatisfied when Mubarak did not provide what they want.
+
+__Happiness depends on expectations.__
+
+Scholars studying happiness in the life sciences see that our happiness is not according to external factors, but it is determined by an internal biological system of nerves and neurons in the brain.
+
+People are made happy by one thing: pleasant body sensations. A person jumps for joy not because of winning whatever, but he is reacting to the electrial signals in the brain. Unfortunately, our internal biochemical system is programmed by evolution to keep happiness levels relatively constant.
+
+Happiness and misery only play a role in evolution only in that they encourage reproduction. Evolution has shaped us to be neither too miserable not to be too happy.
+
+Evolution provides pleasant feelings to men who have sex with fertile females. If sex was not accompanied by pleasant sensations, then few males will bother with it. If evolution wanted happiness, then we would have orgasms that lasted forever. If orgasms lasted forever, then men would just die. So events can just temporarily increase or decrease our happiness, but in the long run, our happiness goes up or down on a constant basis.
+
+Our "happiness system" is like an airconditioning system, we just go back to generally the same point. People have different biochemical systems: some are generally happy, and some are generally gloomy.
+
+Most of us tend to believe that if they just get what they want, then they will be happy, but for the most part, things get back to the way they were even after events that make you happy. After you get what you want, then you just get back to normal.
+
+History can chanage the external stimuli that can cause serotonin to be produced, but it cannot change the serotonin level itself. Ex: If you don't know the stimulus of what a penthouse is, then you won't know that it is better than a hut.
+
+The French Revolution did a lot of things, but it did not change the makeup of the French brain. We'd think that every thing makes us happ
+
+When we finally realize that the keys to our happiness is reliant on our own biological system, then we should focus on the things that can really make us happy, and that is our own biochemistry. If we can crack the code of our biochemistry, we can make people far more happier than anything before, better than any drug or whatever.
+
+According to the biological approach, happiness can really only come from within. In Brave New World, Huxley envisioned a world in which happiness is the supreme value of society, and psychiatric drugs taht control and increase happiness levels replace police, elections, and government. And people took a drug, Soma, to keep them happy, all the time.
+
+# 17.3: And They Lived Happily Ever After 3
+
+Most readers feel that there is something wrong with that kind of world, but it is hard to say what, because everyone is so happy, what's wrong with it.
+
+In Huxley's world, happiness in biological terms simply as pleasure. But the dfinition of happines is pleasure, in our society, is not accepted by all scholars, or by all people.
+
+To most women, they thought that taking care of their children (changing diapers, washing clothes, preparing food) was the least enjoyable part of the day. But they also say that their children are the source of happiness. It's hard to explain this discrepancy.
+
+How do scholars interpret these results?
+
+- People don't really know what's good for them. They think that one thing is the source of their happiness, perhaps because society told them that this is what the source of happiness is, but it's not true.
+- Happiness is something different from pleasure. Happiness is not the surplus of pleasant moments over unpleasant moments. Rather, happiness consists in seeing one's life in its entirety as meaningful and worthwhile. 
+
+There is a very important cognitive and ethical component to happiness: __our values is what makes the difference in the way that we see ourselves.__ Our values makes a difference between seeing ourselves as miserable slaves to a baby dictator, and seeing ourselves as someone nurturing a new life. Activities in which you find meaning can be extremely satisfying. Even if they're not easy, even if they are hard, even if they are not joyful very much. Whereas a meaningless life, activites in which you don't find any meaning can be a terrible ordeal, even if it is very very comfortable.
+
+If someone finds meaning in an ambition to climb the Everset, he may reflect on this chapter of his life as a very happy period. If someone does not find meaning in this, then they would think that the climb is a terrible ordeal. 
+
+__Because happiness isn't comfort. And happiness isn't pleasure. Happiness above all if finding meaning in what we do, even if what we do involved a lot of hardships and difficulties. And it's not rosy and joyful all of the time.__
+
+People in all cultures and eras have felt the same type of pleasant and unpleasant sensations in their body. But the meaning that people gave to their experiences might have been different in different cultures and periods of history. If you look at life on a minute-by-minute basis, then certainly life in the middle ages for most peopel was much more hard, much more difficult, much less comfortable than life is today at least for people in affluent societies. However, if happiness depends on meaning, then still, Medieval people could have been more happier than people today in affluent societies.
+
+Medieval people could find meaning to everything that happens in their lives, in the promise of everlasting bliss in the afterlife. And of their being part of this huge cosmic plan of God, it might be difficult, but it's so full of meaning.
+
+The problem with giving importance to meaning is that according to science, humans are just the outcome of blind evolutionay processes that operate without any purpose: without any goal, without any meaning, our actions, our lives are not part of some divine cosmic plan. And according to modern science today, the meaning that people ascribe to their lives and their decisions and thier actions is simply a delusion. We think we have meaning, but we don't. 
+
+Everything: religion, capitalism, nationalism, don't have meanings. Scientists say "my life is meaningful because I will increase the store of human knowledge." A businessman says that "my life is meaningful because I'm building a new and successful company." But these are all delusions. What happens is that our personal delusions are in sync with the personal elusions of others, and hopefully we can convince ourselves that our life is meaningful, and we can find happiness and satisfaction.
+
+This is pretty depresssing, but an alternative exists: the Buddhist view of happiness. Buddhism asks: "Given that suffering exists, how do I get liberated from suffering and enjoy happiness?" Buddhism shares the basic insight of the biological approach: happiness results from processes or caring within one's body, and not from events happening in the outside world. According to Buddhism, most people identify happiness with the pleasant sensations and feelings in their body, while identifying suffering with unpleasant feelings. People consequently ascribe immense importance to what they feel. People crave to experience more and more pleasures, while avoiding as much as possible, pain and unpleasnt felings.
+
+The problem is that our feelings are no more than fleeting vibrations, changing every moment like the waves in the ocean. If five minutes ago, I felt very joyful, now those feelings from five minute ago are gone. And I might feel sad and dejected. So if I want to experience pleasant feelings, I have to constantly chase them while constantly driving away the unpleasant feelings. Even if I succeed, they will be gone anyway.
+
+So what is so important about obtaining such ephemeral prizes? Why struggle so hard throughout our lies to achieve something that disappears almost as soon as it arises? According to Buddhism, the root of suffering is not the feeling of pain, or the feeling of meaninglessness. It is the never-ending and pointless pursuit of ephemeral feelings, which causes us to be in a constant state of tension, of restlessness, and dissatisfaction. Because of this pursuit of pleasant feelings, our mind is never satisfied with reality as it is.
+
+Even when we experience something pleasant, we aren't content. And because our mind fears that htis feeling might soon disappear, we crave that this feeling should stay and intensify. People are liberated from suffering, not when they expereince this or that fleeting pleasure, but wwhen they understand the impermanent nature of all of their feelings.
+
+So stop craving them and chasing them. In meditation, you're supposed to closely observe your own mind and body. To witness for yourself the ceaseless arising and passing of all your feelings, and thereby to realize how pointless it is, to chase after them, to pursue them. Adn when the pursuit stops, the mind becomes very relaxed.
+
+You have to stop craving to have particular feelings, then you can accept whatever comes. You can accept whatever feelings that come, and the resulting serenity is so profund that people who go on living their lives can hardly even begin to imagine waht it is like to be out.
+
+
+
 
 
 
