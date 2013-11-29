@@ -1,5 +1,5 @@
 ## How to Start a Startup?
-
+------------------------------------------------------------------------------------------------------------------------
 ##### Start with good people, make something customers actually want, and spend as little money as possible.
 
 #### Idea
@@ -44,8 +44,20 @@ Start by writing software for smaller companies, because it’s easier to sell t
 
 In technology, it is easier to make an inexpensive product more powerful than to make a powerful product cheaper.
 
-#### Raising Money
+## You Weren't Meant to Have a Boss
+------------------------------------------------------------------------------------------------------------------------
 
+A normal may be as bad for us intellectually as white flour or sugar is for us physically.
+
+Dunbar number thing. Bosses are there.
+
+Corn syrup. There is a lack of individual initiative in a large organization.
+
+It's especially hard for programmers, because the essence of programming is to build new things. This is the inevitable consequence of bigness. F legacy code. You will learn more in a startup.
+
+
+#### Raising Money
+------------------------------------------------------------------------------------------------------------------------
 To be self-funding, you have to start as a consulting company, and it’s hard to switch from that to a product company.
 
 __Seed money__ is used to pay for your living expenses while creating a prototype. You get these from angels. They know that this has to be decided on quickly. You sometimes don’t even need a business plan.
@@ -80,18 +92,8 @@ Lessons: Don’t have a lot of meetings, don’y have chunks of code that multip
 
 __Understand that for the next 4 years, you’ll do nothing but work. If you aren’t working, your competitors will be.__
 
-## How to Fund a Startup
-
-A typical startup goes through several rounds of funding, and at each round you want to take just enough money to reach the speed where you can shift into the next gear.
-
-#### Friends and Family
-
-At Vu
-
-
-
 ## How to Raise Money
-
+------------------------------------------------------------------------------------------------------------------------
 Most startups that raise money do it more than once. Usually, you start with a few tends of thousands from something like Y Combinator, then raise a few hundred thousand to a few million to build the company, and then raise another round to accelerate growth.
 
 It’s hard to convince people to part with large sums of money.
@@ -127,7 +129,6 @@ What they should not do is try to imitate the swagger of more experienced founde
 
 #### Truth
 
-
 The way to seem most formidable as an inexperienced founder is to stick to the truth.
 
 Convince yourself that your startup is worth investing in, and then when you explain this to investors they'll believe you.
@@ -158,7 +159,30 @@ Because the best investors are much smarter than the rest, and the best startup 
 
 And when you convince them, use the same matter-of-fact language you used to convince yourself. You wouldn't use vague, grandiose marketing-speak among yourselves. Don't use it with investors either.
 
+## Fundraising
+------------------------------------------------------------------------------------------------------------------------
+Biggest cause of death for a startup: Dying because they didn't make what people want. Second: difficulty of raising money.
+
+####Why is it hard to sell/raise?
+- Brutality of markets. Cx doesn't care how hard you worked, only whether you solved their problems.
+- Fewer than cx.
+- Invstors are random: all investors are by ordinary standards incompetent.
+- A ton of money is at stake, usually.
+
+#### Tipz
+- _Have low expectations._ Deals fall through.
+- _Keep working on your startup._
+- _Be conservative._ Approach fundraising as if it were always going badly.
+- _Be flexible._ Know how much money to raise for survival, for getting office space/hiring people from school. Try to make a small round initially and expand when needed.
+- _Be independent._ Investors like it when you're ramen profitable, because it shows you've thought about making money, instead of working on amusing and technical problems.
+- _Don't take rejection personally._ VCs reject practically everyone lol. When you get a rejection, use the data that's in it, no waht's not.
+- _Be able to downshift into consulting (if appropriate).
+- _Avoid inexperienced investors._
+- _Know where you stand._ Investors are indecisive. They tend to resist committing except to the extent you push them to. It's in their interest to collect the maximum amount of info while making the minimum amount of decisions.
+
 ## Nerds
+------------------------------------------------------------------------------------------------------------------------
+
 
 Being smart doesn’t make you an outcast in elementary school, not in the real world. But why does it make you an outcast in middle/high school?
 

@@ -151,7 +151,261 @@ _What metric is used by most firms to gauge and guide their acquisition activiti
 
 __Churn/attrition rate (retention rate). What percent of our customers stayed with us?__
 
-This is a good metric, but you need to examine it at a closer level. How do companies manage their attrition rates? Ex: Vodafone. Their attrition rate is roughly 20%.
+This is a good metric, but you need to examine it at a closer level. How do companies manage their attrition rates? Ex: Vodafone. Their attrition rate is roughly 20%. This means that we expect the customer lifetime to be 5 years. We multiply this by the number of customers and the number of profits per customer to get the customer equity. 
+
+It's not enough to see the customer, we need to check each of them if they are churn-prone or not.
+
+Customers in usually any subscription group: 60% 0.05 attrition, 30% 0.4 attrition rate, 10% 0.7 attrition. The 60%, don't just assume that they are loyal, maybe they are just indifferent to the service or lazy.
+
+How to make an informed assessment on what a customers is worth?
+
+	Cluster  	 Attrition	 % Customers
+	Low risk 	 0.06 	 	 70
+	Medium Risk	 0.35 		 20
+	High Risk 	 0.65 		 10
+
+Average attrition: (0.06 * 0.7 + 0.35 * 0.2 + 0.65 + 0.1) = 0.17ish or __5.6 years__. __But this is still wrong because there is no average customer.__ No customer exists with that number! We eliminated heterogeneity.
+
+Reichelt's The Loyalty Effect: "Because we can't get accurate calculations with averages, we must work with the actual reates for each separate class of customers." So what you do is make clusters of results.
+
+	Cluster  	 Attrition	 % Cx	Expected Lifetime (!!!)
+	Low risk 	 0.06 	 	 70		16.7
+	Medium Risk	 0.35 		 20		2.9
+	High Risk 	 0.65 		 10		1.5	
+
+Correct average lifetime: (16.7 * 0.7 + 2.9 * 0.2 + 1.5 * 0.1) = __12.4 years__.
+
+Whenever there is any heterogeneity at all, there will always be money left on the table, if we ignore heterogeneity. The only question is, how much? So it's not a question of whether it will occur or not because it will always occurs, you just have to figure out how much.
+
+#### Customer Retention Summary
+- There is not "average customer", and calculations on such a notion will always underestimate the value of a cx base.
+- When heterogeneity is accounted for, the "attrition elasticity" is much lower than in the heterogenous case. Investments in reducing attrition are more modest that what you think you are. Some customers will leave at some point. Sometimes it's just better to look for new customers rather than retaining old ones.
+
+## 7.3-7.4 Customer Development
+
+__Efforts to increase the profitability of current customers.__
+
+- Cross-selling. "Do you want fries with that?"
+- Up-selling. "Do you want to super-size it?"
+- Increase frequency.
+- Premium pricing and charge different prices. (Bundle with special services.)
+
+_What metric is used by most firms to gauge and guide their acquisition activities?_
+
+__Share of wallet.__ How many of the cx's needs are met by the firm. Ex: Wells Fargo, they are focused on services/cx. But we also need to take into consideration __size of wallet__. Remember: if a cx has small income, then they will have a very huge size of wallet (You can't really buy much so you just buy from a few companies.)
+
+There is no systematic relationship between size of wallet and share of wallet. While we want to develop our cx, if we want to make our cx more valuable to us, there isn't necessarily a good relationship for CLV.
+
+Good news: "Cx with high share in one category also tend to have high share in another category, indicating that cx share decisions are positively correlated."
+
+Bad news: Some cx are just "take it or leave it, they won't necessarily give you good business even if you push the cx dev in their faces (I can relate lol)."
+
+- It is useful to look for development opportunities, but the upside to these activities is more limited than more managers think.
+- Due to massive cx heterogeneity, there is more opportunity to move the needle via acquisition, rather than development.
+- Cx development is more about "icing on the cake" rather than super super important.
+
+#### Favor acquisition, especially at the start. 
+- If you are in a saturated market, you want to favor retention!
+- Consider the conventional wisdom: "It costs 5-10 times more to acquire a new customer than to retain one, so work hard to keep the ones you have..." While this may be true, but it totally misses the point: maybe we will get more value if we acquire the cx that are actually more valuable rather than if we retain the meh customers.
+- The better cx will naturally stick longer, and you'll see the gains from the investment.
+
+#### Overall Summary
+- Customer centricity can only succeed by "celebrating heterogeneity."
+- The greatest upside to improve customer profitability arises through "smart acquisition."
+- Don't overspend on retention-the flighty customers will fly away, no matter what you do (or they'll be unprofitable).
+- __Most of all, check out CLV!__
+
+## 7.5: Wrap-up
+
+To make cx centricity profitable, then you have to calculate/update individual cx value. We need to be able to do this on a regular basis.
+
+It's very tempting to get to send each cx a personalized message, but why not break cx into segments based on relevant characteristics. Figure out which segments have a good CLV.
+
+Super important: Constant experimentation. Important cx: "wells". Understand the various characterstics of cx that will be valuable.
+
+Repeat these on a regular basis! Do a lot of things and experiments to know what it is to be cx-centric.
+
+Remember: Cx-centric is not cx service. Super targetting is not very good at all. We want to be choosy on which cx we need to focus on. Don't intrude their privacy.
+
+Don't forget about the paradox, that even a cx-centric organization will do these cx-centric things for a few cx only. Most cx, you want their business, but not a super deep relationship. If cx-centricity is going to succeed, then we have to sort out the good cx from the not so good cx.
+
+If we're really going to do the cx strategy, then we have to be long-term. If you're investing in cx, then you actually have to lose money in the short run, to gain in the long run.
+
+## 8.2: Go To Market Strategies: Introduction
+
+#### Marketing Acronyms
+- Constraints:
+	- Customers (Needs)
+	- Competitors (Relative strength)
+	- Company (Resources)
+	- Collaborators (Partners)
+	- Context (Change)
+- Parameters
+	- Product
+	- Price
+	- Promotion
+	- Place
+- Segmentation, Targeting, Positioning (STP)
+
+#### Marketing. The product should:
+- Deliver exceptional value.
+- Address large market.
+- Be easy to explain and describe.
+- Not require much capital to test and scale.
+
+#### Execution: The Key Question
+
+__"What's wrong with the status quo?"__ What can be improved about the current experience of doing things?
+
+Ex: Starbucks, Schultz discovered that Americans loved to drink coffee, but they were not good coffee. In Europe, people drank in coffee shops. When he came back to the U.S., he had in his mind thought of Starbucks as a "third place" (first place being home and second place being workplace).
+
+#### Four Unstoppable Trends that Affect New Businesses
+- Democratization in access (www.coursera.org). Technology, through scale and low-cost has allowed people to allow access to what people need to do.
+- Value chain disruption (www.harrys.org).
+- Collaborative consumption (www.zipcar.com). There is an oversupply of product.
+- Matching of supply and demand (www.uber.com).
+
+#### Marketing Math 101
+
+__Success = Product * Marketing__
+
+Marketing = Customer/Brand Fit and the other 3Ps (price, promotion, place, distribution strategy).
+
+## 8.3/8.4/8.5: Friction/Goods and Information/Academic Research
+
+#### What frictions does the real world have that the digital world solves?
+- __Search Friction.__ Where do you buy a TV? Who will have the best price and assortment? In 1987, to get better prices and deals, you have to go out and incur costs by looking for other stores. In 2011, you just go to a website and check things out. Ex: Yelp.
+- __Geographic Friction.__ The location that you live in imposes certain costs and delivers particular benefits (NY vs. Iowa). E-commerce etc. reduces the friction of stuff.
+
+#### Goods and Information
+
+Prior to the Internet, all markets were "local". The Internet allows businesses to pool customers.
+
+The Internet allows businesses to pool customers. In smaller markets the Internet is great for access to goods that you can't get locally. In larger markets, the Internet is great for giving us information that helps us figure out how to spend our time.
+
+#### Academic Research
+
+A lot of content delivered by the Internet is purely local (local services, restaurants, people to date).
+
+Research shows that for every additional 1 million residents in a town there are at least 50-60 additional sites devoted to local content.
+
+The further you live from a single physical store; the less likely you are to visit it. (Logical.)
+
+#### Benefits Delivered by Online World
+- Potentially lower prices/lower search costs.
+- You can transact with other more efficiently.
+- Better infromation about local activities.
+- Improved consumer convenience (shopping can be done at any time).
+
+90% are still bought offline. 1% of the groceries are bought online.
+
+#### Frictions
+- Delivery times.
+- Uncertainty about "fit and feel" of certain products.
+- Cost of returns (time and money).
+
+Expect the two worlds (online and offline) to coexist for a very long time.
+
+Online/Offline Competition: Competition is intense for popular products, but almost non-existent for niche products. Ex: People will buy Harry Potter in a real-world store, but not for niche products like 100 Years of Black Trivia.
+
+## 8.7/8.8: The Long Tail
+
+The Internet makes it possible for products to exist in the long tail.
+
+Historically, we lived in a world of "hits/blockbusters", but now live in a world of infinite slots.
+
+The economics of distribution have been altered that we can offer much more variety than ever before.
+
+Supply side: Sellers can offer a lot more variety.
+
+Demand side: The Long Tail is endogenous as there are more ways for us to discover variety.
+
+#### Key Principles
+
+__The tyranny of locality:__ What you buy is detailed by your local stores. An audience that is spread too thin geographically used to not get served. As you go from the head to the tail, the average satisfaction suffers, but there are products in the long tail which you would definitely like.
+
+The ratio of niche products to "hits" is changing.
+
+Distribution efficiency is amplifying.
+
+Recommendations and reviews drive search so that consumers get into the tail.
+
+MIT study obtained darta from a retailer offering identical product selection and prices through two different channels: Internet and catalog.
+
+Descriptive evidence is that Internet sales are significantly less concentrated (even after controlling after differences in factors).
+
+The Internet channel has more evenly distributed sales and the difference cannot be attributed to differences in price or availability. Online: Long tail. Offline: 80-20.
+
+	Niche products: 14.8% vs. 12.7%.
+	$ sales of niche: 15.0% vs. 12.7%.
+
+The question is whether there is a demand side explanation.
+
+Key variables to explain sales of niche products:
+
+- Directed search.
+- Non-directed search.
+- Recommender system.
+
+The sales of an Internet retailer also spread out geographically. We start first in NY/LA/Chicago.
+
+#### Critiques
+- Law of natural monopoly/hit effect: Hits get attention of light users.
+- Double Jeopardy: Unfamiliar things are less liked.
+
+## 8.9: How Internet Retailing Startups Grow
+
+Netgrocer.com, diapers.com, warbyparkers.com, bonobos.com, citruslane.com
+
+#### Research Question: Why do some locations have more customers than other locations do?
+- Internet retailers can alter the cost-benefit trade-off shoppers by making things "closer" and more accessible perhaps even at better places.
+- __Sales evolution is structured and predictable.__ In 3 1/2 years, Netgrocer was able to have customers from 18,000 zip codes. __Sales pop up around places with sales near it.__ Customers could be talking to each other, or observing each other (that's why boxes are colorful).
+- Social distance: If you're in Chicago, you might interact more with someone from L.A. as opposed to Springfield even though it is farther.
+	- In the beginning, sales start out in larger cities and spread by proximity from person to person.
+	- Later on, sales pick up in smaller areas with people who have the same characteristics.
+
+## Quidsi Case Study
+
+Quidsi: Founded 2005, "House of Brands", warehousing with robots, 1.2M sqm floor size, acquired 2011 $545M by Amazon. Good story of execution. Quidsi is the parent facing company, and each site (diapers.com, soap.com) is a different brand but are connected by a shopping cart, all of these target the same cx: the convenience-seeking mom.
+
+We have success in the diaper space because we were specialists. The model continued from there, and we thought of each vertical that we need to go into.
+
+The actual name diapers.com was very powerful, we knew that people were searching for diapers online and they weren't finding anything, so there was a first mover component to that. We knew that we can capitalize through the paid search channel. We knew that it was generic so we can take care of that. We tried getting a representative item per category, such as yoyo. We want a short domain.
+
+First objective was to start with consumables, you need fast delivery + cx care to solidify the relationship by delivering things like diapers and pet food. Then we move to high-margin non-consumables. We look for things that cx wants to add to their basic basket.
+
+Most e-commerce companies acquire customers through online channels liked paid search, affiliate marketing, shopping engines, but we also like more differentiated channels. We also have partnerships, print ads, outdoor marketing we go to market in a geographically targeted way.
+
+We operate as an independent subsidiary of Amazon. Now we want to leverage the infrastructure in the US to grow the business. Many of our sites have been opened recently. We view our competition as other offline/online companies. We see the shift from offline to online shopping. There are many retail formats, we see that cx shop in different ways at diff times. We focus more on the cx rather than the competition.
+
+It's not a focus for us to put up a physical store. When you have a physical store there is a different challenge. Everything that can be done online brings such more opportunities than trying to create a physical presence. 1 physical store, Beauty Space. It serves as a showroom and is for the relationship with the vendors.
+
+As a vertical specialist, we want to have the products that people are looking for. We want an elevated shoppable experience. So where we have to have any product that anyone is looking for, but we want to feel very curated. We monitor and are aware of the pricing of the other companies but many things factor into that, and we consider the high-speed delivery and the customer care.
+
+We are in customer intimacy. When we started, we were focused on the opportunity to serve a new mom, especially when they are in the time of their life where it is transitional. We want to establish a good relation, and that is how we got started. Once we grew we knew about the age of their baby, or their children, or if she had a pet, and we leverage that relationship so we can offer whatever is relevant to her. We want to be one step ahead of her, we want to not look like an expert but we want to be a trusted friend.
+
+As we went into new categories, what we had in our mind was the things our cx wanted most. What would be the most natural thing that the parents need?
+
+We spend a lot of time evaluating the cx and their overall value to us (CLV). We knew this was important because we start with low margin cx products. We were thinking money in the beginning with each individual cx, before they start buying high-margin products.
+
+We aim to offer everything, but we certainly do evaluate cx segments based on characteristics that they buy on us. The cx who buys organic products has a higher lifetime value. So we want to focus on natural and organic.
+
+We're very focused in cx acquisition. We are constantly testing and evaluating how we can get to the cx using the channels. Once we get a cx through the door, we have found that they tend to keep coming back. So there's a pretty predictable product to how they shop over time.
+
+Now that we have launched 10 sites that serve a cx segment, we have teams of specialists that focus on each. And at the end of the day they serve the same cx.
+
+Our strategy is still to go to market with leading with our consumables. But once they go through the door, we offer the ten sites (retention strategy). Recent brand: _Familyhood_. This connects all of our sites, it represents service, and help us tell the story.
+
+We aspire to develop products outside, but we want to stay focused on to the right offering products for our cx, the new mom. Ex: housekeeping services, etc.
+
+- Cx value: You have to give something to the cx that has value and that they're willing to pay for.
+- Differential advantage: You need to give something to the cx that is not delivered by the competition.
+- There are people who value every different thing. So at some point, you have to concentrate on different cx.
+
+Since diapers.com was first in a new space, they were able to be product-focused. Though, you still need to know when to pivot from the product-centered to cx-centered. As you move into a mature market, you focus on competition and branding. In 2013, it's hard to be a jerk because people are able to see if you do bad things. Brands now are about narratives, about the people who work there, the values of the company, much more than the logo.
+
+
+
 
 
 

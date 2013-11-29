@@ -1,4 +1,36 @@
-### []()
+### [Zapatos nuevos: Pachi Tamer at TEDxRosario 2013](http://www.youtube.com/watch?v=13Dy45RHFlk)
+
+People have a lot of prejudices. As soon as they saw me approaching their car, they were closing the window or they looked away pretending that nobody was there, they were feeling uncomfortable with themselves for a while.
+
+London: Working menial jobs. New York: Ad Agency.
+
+
+
+### [Elon Musk: Mahalo Mentor Interview](http://www.youtube.com/watch?v=IgKWPdJWuBQ)
+
+I started Zip2 instead of going to graduate school in Stanford. I've had a long standing interest in sustainable tranport/energy. I decided to defer graduate studies and try starting an Internet company. I applied to Netscape and they didn't reply, so I just made my own company. Zip2 made software for news companies and we brought news companies to the web. I was more of an engineer that was asked to build things.
+
+There's definitely lots of things that should be fixed about Paypal, but since I've not been part of the company in 2002, I can't really do much. There's a lot of mistakes that's still there, that I also put. I still think the fees are too high and there's more functionality that needs to be added to the system. It still has the opportunity to become the company that provides financial services.
+
+The goal for SpaceX is to develop the technologies necessary to make life multiplanetary. We're going to try to advance space exploration as much as possible. The key invention is a fully and rapidly reusable orbit-class rocket. If we make things fully reusable, we need to take into account the additional weight to make things more robust, the things you need to return to the launchpad, etc. I think we have a good shot of achieving that, in fact the cost of fuel is very small compared to the cost of the rocket itself. It has to be fully and rapidly reusable, like a plane. The cost of launch would drop by more than 100.
+
+### [Elon Musk: The Mind Behind Tesla, SpaceX, SolarCity...](http://www.youtube.com/watch?v=IgKWPdJWuBQ)
+
+I think we have to solve transport and sustainable energy. We need to find some sustainable means. A power plant is about 60% efficient in producing energy, compared to an internal combustion engine (20%), because the heat can be recycled in a power plant.
+
+I think all modes of transportation will become electric. The question is how do you accelerate it for cars? We have to make the car very light, with a low drag coefficient, despite the large battery pack. So it's competitive in the order of a 200 mile range.
+
+The goal of Tesla is: expensive price low volume, medium price medium volume, then last is low price high volume. So Roadster, then the sedan, then about 3-4 years. Generally in tech you need 3 versions to make a compelling product. We're building a supercharger network. We have a ratio of drive to stop of 6-7. So you drive 3 hours then get a bit to eat while charging.
+
+The world is entirely solar powered already, we just need to tap some of that energy. I'm confident that solar will beat everything, including natural gas. It must, if it doesn't then we are in trouble. The thing about solar is that it doesn't have operational costs. We want to get the cost of the initial installation low, and the financing low. And I think we can beat natural gas. The typical lease is 20 years, and it has to cost less than the current utility bill. This is the first time that we can have competition on the utility. I'm extermely confident that solar will be a plurality (more than any source) in the next couple years.
+
+The goal of SpaceX is to advance Rocket Technology, we want a rapid and reusable rocket. It's sort of a standpoint of "what needs to happen if you want the future to be exciting"? I think that future is more exciting that just staying here. A space shuttle costed 1 billion dollars per flight. It's important that the rocket should return to the launch site, reusable in a few hours. The cost of the fuel is very small. All forms of transportation are reusable already, except rockets.
+
+Elon: I work a lot. Chris: He is able to bring technology, design and business in a way that few people done, and you're confident enough to bet on this thing. Elon: I think a good framework for thinking is physics. Boil things down to the fundamental truths, not by reasoning through analogy. We need this, but when you need something new, we need to apply the physics approach. Physics has a way of describing things that are counter-intuitive. I also think it's about listening to negative feedback.
+
+
+
+### [Andrew Stanton: The clues to a great story](http://www.youtube.com/watch?v=KxDwieKpawg)
 
 Storytelling is joke telling. It's knowing your pucnh line and your ending, knowing that everything you're saying is leading to a singular goal, and ideally confirming some truth that deepens our understandings of who we are as human beings.
 
