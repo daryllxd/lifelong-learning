@@ -1,11 +1,10 @@
-# 2.1: Introduction to Law and the Entrepreneur
+## 2.1: Introduction to Law and the Entrepreneur
 
 Once you start signing contracts and hiring employees, that’s when you get a lawyer. You need to find a lawyer that you like personality-wise because oftentimes there are different priorities for the two parties: ents want to move full speed ahead, and lawyers will show potential problems and paths against the roadblocks.
 
 A successful startup needs a team of different people. It’s good to have wise counseling and good advice.
 
-
-# 2.2-2.5: Employment Prior
+## 2.2-2.5: Employment Prior
 
 Even if an employee hasn’t signed an actual contract for this, they have fiduciary duties (such as "must not compete").
 
@@ -17,7 +16,7 @@ NCA has to be: cannot stand alone (another contract such as employment is needed
 
 Sometimes this is non-enforcable, and sometimes NCA is an emotional reaction by the employer, so __leave on good terms__.
 
-## IP
+#### IP
 
 * The question of ownership can destroy companies before they lift off!
 * _Invention Assignment Agreement:_ This tells the company that what they employee creates is owned by the employer. In CA/IL, you can keep shit done on your own time.
@@ -25,7 +24,7 @@ Sometimes this is non-enforcable, and sometimes NCA is an emotional reaction by 
 * Just make sure you keep a log that the shit you do on your own time is by yourself.
 * Strategies for Leaving Your Employer: When an employer feels insulted by the employee, he may burn bridges lol. Mention shit in the exit interview, who knows you might even get an investment from your former lawyer.
 
-# Readings: Leaving Your Employer
+## Readings: Leaving Your Employer
 
 * _No-moonlighting clause:_ Employee is prevented from engaging in any business activities unrelated to the employee’s job with the employer.
 * _Non-disclosure agreement:_ Prohibits the entrepreneur from using or disclosing any of the employer’s trade secrets such as a customer list unless the employer authorizes it.
@@ -40,7 +39,7 @@ _Ex: Before leaving Apple, Jobs chose five employees who would be joining him at
 * The employer can then sue or actually prevent the co-worker from working with the ent. 
 * Key employees are even more restricted in how they may approach coworkers. Even in the absence of a no-raid clause, a key employee is liable for breach of fiduciary duty if the inducement is willfully kept from the employer.
 
-## Covenant Not to Compete
+#### Covenant Not to Compete
 
 * A _Covenant Not to Complete_ is an agreeement between an employer and an employee that is designed to protect the employer from potentially unfair competition from a former employee.
 * Generally 1 year is enough.
@@ -48,7 +47,7 @@ _Ex: Before leaving Apple, Jobs chose five employees who would be joining him at
 * Consent to personal jurisdiction: An agreement to litigate a dispute in a specifically named jurisdication (because people move from state to state for work).
 * Remedies for breaching the noncompete clause: injunction requiring the employee to actually stop competing against the former employer, or actual payment of damages.
 
-## Trade Secrets
+#### Trade Secrets
 
 * Unauthorized use or disclosure of the employer’s trade secrets Is generally prohibited both during and after employment. Most states have passed statutes that prohibit the employee from disclosing or using trade secrets belonging to the former employer even in the absence of a confidentiality agreement.
 * A _trade secret_ is information used in one’s business that is neither generally known nor readily ascertainable in the industry and that provides the business owner a competitive advantage over competitors who do not have access to this information.
@@ -56,7 +55,7 @@ _Ex: Before leaving Apple, Jobs chose five employees who would be joining him at
 * Factors: The value of the information to the business owner and competitors and the amount of effort made to maintain the secrecy of the information.
 * Inevitable disclosure doctrine: you can’t work for a competitor firm for a limited period of time if the former employer is able to prove that the new employent will lead him to rely on the former employer’s trade secrets.
 
-## Invention Assignment Agreements
+#### Invention Assignment Agreements
 
 * All inventions conceived, developed, or reduced to practice by the employee is assigned to the employer.
 * CA: this is prohibited if the emp develops entirely in their free time without using employer equipment and not related to the employer’s biz.
@@ -64,14 +63,14 @@ Strategies for Leaving
 * Just be honest about the real reasons for leaving.
 * Offer the employer an opportunity to invest in the new venture. (Goodwill)
 
-# 3.1: Partnerships
+## 3.1: Partnerships
 
 * Any time 2 or more people come together, it’s a general partnership.
 * The liabilities are a problem because a partner has to pay liability at one point even if one is broke.
 * In a partnership, any partner can make a deal outside the partnership. Unless it is in writing, everyone gets an equal part of the company.
 * As with a sole prop, everyone has to pay taxes.
 
-# 3.2: C-Corporations and S-Corporations
+## 3.2: C-Corporations and S-Corporations
 
 * A _corporation_ is a separate legal entity from the owners. Instead of a partnership where two people run a business, two people are members of a corporation who runs a business.
 * The board makes decisions for the company.
@@ -83,7 +82,7 @@ Strategies for Leaving
 * Taxes: Every corporation when it is formed is a _C-corporation_, which means it is required to pay taxes to the government. If it wants to give to the shareholders, it declares a dividend, and the shareholders pay taxes when they receive the money _(double taxation)_.
 * To avoid double taxation, a corporation can declare itself as an _S-corporation_. The tax is paid by the shareholders only. Limitations: maximum 100 shareholders, must be US resident, only individuals can hold, no preferred stock.
 
-# 3.3: Selecting an Entity: Limited Liability Company (LLC)
+## 3.3: Selecting an Entity: Limited Liability Company (LLC)
 
 * LLCs are considered to be separate entity too.
 * LLCs are more flexible: it could have a formal board, or it could not have.
@@ -93,7 +92,7 @@ Strategies for Leaving
 * LLCs can choose to be C-corp, S-corp, or partnership.
 * Each states has its own partnership, corp, and LLC law.
 
-# 3.4: Founders’ Agreements
+## 3.4: Founders’ Agreements
 
 * _This is REALLY IMPORTANT! Even though it is probably awkward and boring, it has to be done._
 * Management: Who will be on the board of directors? What percentages would be present?
@@ -101,16 +100,16 @@ Strategies for Leaving
 * It’s more common to put an _absolute prohibition_, or a _right of first refusal_ (owners can choose to buy shares first before another one). Right of co-sale: _“If you find someone to buy your shares, I get to include a part of my shares in that sale.”_
 * Sometimes a majority owner feel that if they want to sell the company then the minority shareholders will hold up the deal. A _drag-along provision_ says that only about 80% or something of shareholders have to agree, and these terms will be used.
  
-# Readings 3
+## Readings 3
 
-## Sole Proprietorship
+#### Sole Proprietorship
 
 * A _sole proprietorship_ is a business owned by one person. It has little legal significance separate from its owner and usually requires no governmental filing except under a fictitious-business-name statement (name, address).
 	* The owner reports the income and expenses of the business on a schedule to his or her own personal income tax return.
 	* Most common in the US.
 	* Poor choice because the owner has unlimited liability for the losses of the business, putting their asssets at risk.
 
-## Corporations
+#### Corporations
 
 Most large business organizations operate as corporations despite tax incentives to use partnerships.
 
@@ -165,7 +164,7 @@ To preserve limited liability, the corporation should observe at least the follo
 * Maintain an arms-length relationship between the corporation and any principal shareholder.
 * Start the business with sufficient equity and liability insurance to take care of the inherent risks.
 
-## S Corporations
+#### S Corporations
 
 An _S corporation's_ shareholders can operate it without being taxed as individuals. So they don't pay federal income tax but pass the tax liability for their profits through to their shareholders.
 
@@ -194,7 +193,7 @@ Common stock is issued at a price less than that of the preferred stock because 
 
 Because an S corp can issue only common stock, it must issue the stock to employees at the same price paid by the investors (unless sold to the founders well in advance of the sale to the investors) if the employees are to avoid being taxed on receipt of their shares.
 
-## Partnerships
+#### Partnerships
 
 A _partnership_ is a business carried on by at least 2 persons. It is generally treated as a distinct _legal_ entity separate from its partners.
 
@@ -234,7 +233,7 @@ Sources of capital are generally restricted to capital contributed by partners a
 
 Foreigners participating as a partners would cause them to be treated as being engaged in a U.S. trade or business. So the U.S. would tax any of their U.S. income connected with the trade or business, and the foreign investors would have to file U.S. tax returns. Foreigners generally do not pay tax on income from U.S. corporations in which they invest.
 
-## LLC
+#### LLC
 
 The _limited liability company_ has rapidly gained popularity in the United States. A properly structured LLC combines the pass-through federal tax treatment of a partnership with the liability protections of a corporation.
 
@@ -255,7 +254,7 @@ An LLC is not suitable for businesses financed by venture capital funds because 
 
 An LLC is the entity of choice for a startup seeking to flow through losses to its investors because (1) an LLC offers the same complete liability protection to all its members as does a corporation; (2) an LLC can have corporations and partnerships as members (unlike an S corporation), (3) losses can be specially allocated to the cash investors, and (4) it can be incorporated tax-free at any time.
 
-## Selecting a C Corp, S Corp, Partnership, or LLC
+#### Selecting a C Corp, S Corp, Partnership, or LLC
 
 ### Critical Issues
 
@@ -287,17 +286,17 @@ For biz that seeks to build long-term value, C corp (reduction of capital gains 
 
 If the biz is expected initially to generate losses, then partn/LLC/S corp because owners can deduct losses from their taxable income.
 
-## Choosing and Protecting a Name for a Business
+#### Choosing and Protecting a Name for a Business
 
 Must confirm name is not in conflict with existing. Secretary of state has names of all corporations in the world (even future reserved ones).
 
 Even if SoS confirms the name is okay, there might be another biz using a name that closely resembles the name of another biz organized to do biz in that state. The laws of trademarks might then prohibit the new company from using the name (lolwut).
 
-# 4.1: Intellectual Property
+## 4.1: Intellectual Property
 
 In the U.S., there are four types of IP. Trademark is the brand of the business; it is protected by federal and state law. Copyright protects what lawyers call fixed works of authorship. Fixed means in in writing (or recording or video) and works of authorship means some degree of originality (blog post on company site). Patents protect inventions and designs. Trade secrets are any valuable secret of a company (something that provides a company with a competitive advantage).
 
-# 4.2/4.3: Trademarks/Trademarks – Avoiding
+## 4.2/4.3: Trademarks/Trademarks – Avoiding
 
 A company's brand is often its most important asset. A trademark is any word, phrase, name, logo, slogan, sound, color or anything that identifies that a particular product comes from a particular source.
 
@@ -313,7 +312,7 @@ Trademarks are ranked among a continuum.
 
 How can you avoid a trademark lawsuit? Research first. The test is the __likelihood of consumer confusion__. There are differences that courts look at: similarity of product, similarity of channels... the closer the two products are, the higher the chance.
 
-# 4.4: Copyright Law
+## 4.4: Copyright Law
 
 An exclusive bundle of rights around a work of authorship.
 
@@ -338,14 +337,13 @@ Better to file protection before the infringement to get greater damages in the 
 
 Ex for Jack and Sydney: Instructions for their customers, text on the web site, promotional videos, logo. (People can independently think of a logo, which has to be protected by a trademark.)
 
-# 4.5: Trade Secrets and Patents
+## 4.5: Trade Secrets and Patents
 
 Trade secrets can potentially last forever, as long as it is not publicly available. Once the secret's out, it's no longer protected. Someone can independently come up with that idea though.
 
+## Readings 4.1 Chapter 14 Bagley & Dauchey
 
-# Readings 4.1 Chapter 14 Bagley & Dauchey
-
-## Trade Secrets
+#### Trade Secrets
 
 A _trade secret_ is any information that provides a business with a competitive advantage from not being generally known by a company's current or potential competitors or readily discoverable by them through legitimate means, and is the subejct of reasonable efforts to maintain its secrecy.
 
@@ -367,7 +365,7 @@ When a person discloses or uses a trade secret in violation of a duty of confide
 - Employee Education
 - Exit Interview
 
-## Copyrights
+#### Copyrights
 
 A company's web stie is a copyrightable work. A copyright gives the owner of an original work of authorship the exclusive legal right to obtain certain economic benefits from the work, including the right to prevent reproduction and distribution of the work. He owns the right to:
 
@@ -383,7 +381,7 @@ If an idea and teh way it is expressed is inseparably bound, the idea and the ex
 
 We cannot copyright the "+" sign to indicate addition, because there is no other logical and feasible way to express it on a keyboard. We can copyright a story even though it has the theme of "love triumphing over adversity" because there are different ways to express that idea.
 
-## Fair Use
+#### Fair Use
 
 The law permits others to make limited use of copyrighted materials, including criticism, comment, news reporting, scholarship, and research.
 
@@ -414,7 +412,7 @@ One case, _MGM Studios Inc. vs. Grokster_, had a court rule that "one who distri
 
 The employer owns works created by its employees in the scope of their employment. Scope is determined by: right to control (by the employer), who initiated the creation, at whose expense the work was created, time spent on the project, who owned the facilities where the work was created, and the nature and amount of compensation.
 
-## The Digital Millenium Copyright Act (DMCA)
+#### The Digital Millenium Copyright Act (DMCA)
 
 1998, enacted to provide copyright protection for books, music, videos, software, creative works over the Internet.
 
@@ -427,7 +425,7 @@ The DMCA contains safe harbor provisions (these protect online service providers
 
 Berne Convention Implementation Act of 1988: Holders of copyrights would have the same protection a national would have if the work were produced in that country (although hard to implement in other countries such as China). In 1996 this was extended to cover computer programs and electronic databases.
 
-## Patents
+#### Patents
 
 ### Benefits
 
@@ -458,17 +456,17 @@ Utility: Patents last 20 years from the date the patent application is filed. De
 - Entrepreneurs with patentable inventions should consider filing a provisional patent application just to put a stake in the ground.
 - Patents can be sold.
 
-# 5.1: Funding the New Venture: Introduction
+## 5.1: Funding the New Venture: Introduction
 
 Two ways: bank/investor loans, and equity investments. An equity is an ownership interest to the business. An investor is buying part of the business. In corporation, it's shares. In LLC, it's units. In partnership, it's partnership interests. Investors buy the stock from the company, not the founder's shares (lol).
 
-# 5.2: Self-Funding
+## 5.2: Self-Funding
 
 When it's self-funding (bootstrapping), you only have to worry about losing your own money. Risk: Your own financial well-being, you lose regular jobs, health insurance. You need contacts and additional money.
 
 The next step is friends and family: on the positive side, they bet on you, not the idea. The company will probably have to invest in common stock, not preferred stock. It's good for investors to know that someone else gave money for this.
 
-# 5.3: Angels and VCs
+## 5.3: Angels and VCs
 
 Angels are often wealthy individuals. If you're able to find a good angel investor, that angel can provide funding, advice, and contacts. Angels usaully work with other angels in angel networks.
 
@@ -484,7 +482,7 @@ Convertible note: those investors have a debt from the company that converts int
 
 Do not cold call or email the VCs, they will think that you are not creative enough to bring it. We need people with different types of background and coachable.
 
-# 5.5: Preferred Equity.
+## 5.5: Preferred Equity.
 
 Liquidation preference: First money out goes to the original investors, and preferred return.
 
@@ -502,7 +500,7 @@ Pre-emptive rights: They have the right to buy their proportionate share of new 
 
 Pay-to-play provision: When the company needs money, then everyone needs to put money in, or else they lose some rights.
 
-# 5.6: Securities Laws
+## 5.6: Securities Laws
 
 They govern the sales of securities (shares of stock or units or partnership interests).
 
@@ -514,14 +512,61 @@ Don't advertise securities for sale unless you talk to a lawyer. It's also bette
 
 Private placement memorandum: The stuff you disclose to an investor. These are very important.
 
+## 6.1-6.2: Building a Team/Employees vs. Independent Contractors
 
+__Better to have an A-team with a B-idea rather than a B-team with an A-idea.__
 
+When a company hires someone as an independent contractor, the co doesn't have to withhold income taxes, pay medicare/SSS, comply with hourly minimal wage requirements. When a company improperly classifies someone as an independent contractor, it exposes the co to different liabilities: payment of back taxes, back pay, penalties, and potential violations of the employment laws.
 
+Diff between employees and independent contractors: relationship between the worker and the organization. Factors that the IRS uses to determine: behavioral control, financial control, and the relationship of the parties.
 
+- __Behavioral control__: Requiring workers to go through extensive training. 
+- Reimbursing a worker for taxis shows a lot of __financial control__. 
+- Things like whether the worker gets paid vacation time and how long the type of work lasts show the __relationship of the parties__.
 
+Good practice: A signed independent contractor agreement. Since they own the work they create, assign the work they create to the business.
 
+#### To protect yourself when classifying independent contractors rather than employees:
+- Put independent contractor agreement in place.
+- Include a provision in the contract assigning all ownership of work created to the company.
+- Don't control the worker too much and give the worker some independence as to how to complete th project.
+- Ideally, the IC should have other clients they're doing work for, too.
 
+## 6.3: Employees vs. Interns
 
+#### Fair Labor Standards Act
+- Training, even though it includes actual operation of the facilities of the employeer, is similar to that which would be given in a vocational school. The internship has to be _educational_.
+- The training is for the benefit of the trainee. The intern has to get something meaningful from the experience.
+- The trainees do not displace regular employees, but work under close observaition. __You can't fire someone to use an intern instead, or fail to hire someone and use an intern instead__.
+- The employer provides the training, derives no immediate advantage from activities of the trainees.
+- The trainees are not necessarily entitlesd to a job at the completion of the training period. If they are entitled to a job at the end of the internship, then that means they're getting training for the job, and that means they're supposed to be paid.
+- The trainee and employeer understand that the trainee is not entitled to wages for the time spent training. The intern has to actually understand that it's an internship program and not a paid job.
+
+## 6.4: Employment Statutes
+
+Civil Rights Act of 1964, applies to businesses with 15 or more employees: Employees are protected from discrimination on the basis of their race, color, religion, sex, national origin, prgenancy, childbirth, against married women.
+
+Times when an employer hires an individual on the basis on the religion, sex, or national origin: women hired to model women's clothing.
+
+Age Discrimination in the Employment Act applies to all companies that affect interstate commerce and have at least 20 employees. Prevention of discriminatory practices for workers >40. Plaintiff needs to establish their case using circumstantial evidence. Then the burden shifts to the employer, to present evidence that it had legitimate business reasons for the decision.
+
+Americans with Disabilities Act: All employers with 15 or more employees, who work at least 20 or more calendar weeks in a year. It prohibits discrimination against qualified individuals with known disabilities. It requries the employer to provide reasonable accomodations so that the qualified disabled employee can perform the essential functions of his/her job, unless doing so would constitute and undue hardship for the employer.
+
+Reaosnable accomodations: Work facilities, restructuring jobs/modifying work schedules, acquiring or modifying equipment or devices, modifying examinations, training materials or policies, and providing qualified interpreters.
+
+## 6.5: Equity Compensation
+
+- Grants of share or membership units
+- Grants of equity that come with restrictions
+- Grants of options to acquire equity, like stock options
+
+Restricted stock: the stock will vest over time or upon the worker meeting specified milestones.
+
+When a share __vests__, all that means is that the restrictions on the stock, like restrictions of transferability or a buyback, go away.
+
+Stock options are options to purchase equity in the future at today's price (you get a chance to buy it in the future).
+
+Equity should always be in a contract. Don't use percentages, use absolute numbers.
 
 
 
