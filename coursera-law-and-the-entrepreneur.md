@@ -568,7 +568,47 @@ Stock options are options to purchase equity in the future at today's price (you
 
 Equity should always be in a contract. Don't use percentages, use absolute numbers.
 
+## 7.2: Online Trademark and Copyright
 
+An ent needs to actually use a trademark in commerce to be able to stop others from using a similar mark.
+
+A URL is not the same as using it in commerce. So they won't have trademark rights until they're using the brand to sell their product. Also, if their mark infringes on someone else's by creating cxx confusion, it doesn't matter who has th URL, you could still be sued for infringement.
+
+If the text, pictures, video, and music of the websites were created by employees of the company in the scope of their employment, that content is likely classified as a work made for hire, and is owned by the company. So make sure that the copyright and all content on the site is owned by the business.
+
+If you're using stock photos, videos, or music, make sure you get them through a reputable vendor and you pay the correct license fee.
+
+User created content. In the terms and conditions, there should be a statement addressing user content, explaining who owns it. Need the promise from users not to upload content that violates someone else's copyright.
+
+Digital Millenium Copyright Act (DMCA) provides safe harbor for website operators in certain circumstances. The website operator must provide otice on the website of the company representatitve, so they can be contacted if their copyright has been violated.
+
+Part of the DMCA analysis is based on whether the web site operator knew about the copyright infringment.
+
+BTW if you regulrarly monitor and edit postings by your users, youcould be subject to liability from the users, because you edited their content without permission, possibly damaging their reputation.
+
+Third party users who many rely on the user posted content might not know that you're exerting influence over seemingly objective comments. Editing reviews from cx is dicey.
+
+## 7.3: Online Privacy
+
+Many ents address privacy by cutting and pasting privacy policies from other websites, often without even reading or understanding them. This approache can lead to entrepreneurs unknowingly promising consumers they'll treat private information in a particular way, which is completely counter to their actual approach.
+
+Only a few categories of sites are required: 
+
+- If the web site is directed at children under 13, the Children's Online Privacy Protection Act requires a privacy policy making some specific disclosures and parental consent to use the kids' info being collected.
+- Financial institutions
+- Health information
+
+Privacy policy should explain what you're collecting and what you're doing with the information you collect.
+
+## 7.4: Online Terms and Conditions
+
+Should be personalized!
+
+Amazon/Gap: They explain how shopping works, how payments work, and so on. They also address ownership of IP on the website and set content standards for user submitted product reviews.
+
+Facebook: They explain how games work, if premium subscriptions are available, cx contracts.
+
+Coach Curiosity: How billing works, disclaimer of warranties, limitation of liability.
 
 
 
