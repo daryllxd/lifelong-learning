@@ -1,21 +1,18 @@
-# 1.2—The Human Family 1st Segment
+## 1.2—The Human Family 1st Segment
 
-* 70K years ago: Development of cultures.
-* History is simply the next stage in the process of ongoing complexity in the universe.
+It was around 70K years ago that cultures started to develop.
+
+History is simply the next stage in the process of ongoing complexity in the universe.
 
 ## Revolutions
 
-* Cognitive Revolution (70 KYA): Homo sapiens evolved unique cognitive abilities that gave it immense power
-* Agricultural Revolution (12 KYA): Homo sapiens domesticated animals and plants, established cities.
-* Scientific Revolution (500 YA): Homo sapiens gains more and more power by understanding how the world works, is able to manipulate the smallest units of matter.
+* __Cognitive Revolution (70 KYA):__ Homo sapiens evolved unique cognitive abilities that gave it immense power
+* __Agricultural Revolution (12 KYA):__ Homo sapiens domesticated animals and plants, established cities.
+* __Scientific Revolution (500 YA):__ Homo sapiens gains more and more power by understanding how the world works, is able to manipulate the smallest units of matter.
 
-# Cognitive Revolution
+## Cognitive Revolution
 
-* We existed like 2.5 MYA. For a period of time, we were just another animal.
-* Species: Able to produce fertile offspring.
-* Genus: Having evolved from a same common ancestor.
-* Homo sapiens: "Wise man".
-* For 1000s of years, humans thought of homo sapiens as different animals, where in fact we are members of the family of great apes.
+We have existed for about 2.5M years. For a period of time, we were just another animal. For 1000s of years, humans thought of homo sapiens as different animals, where in fact we are members of the family of great apes.
 
 ## The Human Family
 
@@ -29,97 +26,102 @@
 * The general nature is that there were many human species, some were big and some were small.
 * From about 2 MYA, there were several human species simultaneously in our world. There is some evidence that Homo sapiens may have killed the other species.
 
-# 1.3—The Human Family 2nd Segment
+## 1.3—The Human Family 2nd Segment
 
-## Big Brains
+#### Big Brains
 
-* Humans have extraordinarily large brains. A 60 kg mammal has about 200cc brain size. A 60kg human has about 1200-1400cc brain size.
-* It is only humans that have this, not dogs, not cats etc.
-* There is a problem with this big brain: you have to carry it around, you have to protect it with a skull, and it is hard to carry around this big head. 
-* It is also hard to fuel this with energy. The brain is about 2-3% of the body weight but it consumes 25% of the energy (at rest). Apes consumes about 8% energy.
-* To have more energy: humans spent more time looking for food, second method: humans became less muscular. The muscles became smaller and weaker.
-* Chimps are 5x stronger than humans, given the same weight.
-* The evolution of the human brain, why it became so big, is a mystery of evolution, because for a long time, it didn't seem to do anything special.
-Walking Upright
-* Much easier to scan the savannah in search of prey or elephants.
-* Because you don't need your hands to move, you can signal your friends or something that you are here, and you can make and use tools.
-* Problem: The skeleton evolved for a creature that moves on four legs as opposed to two. This created very big stress on the spine and muscle. Even today, people suffer from back pain and stiff necks because of the compromise on the skeleton.
-* Women paid more. Your hips have to be narrow, and their birth canal has to be narrow. While their birth canal was getting smaller, the human (and baby) brain was getting bigger. Women and children began to die during childbirth more than the other great apes.
-* Solution: Give birth earlier than before, when the baby head was smaller. Evolved through natural selection. Even now, humans give birth earlier than any other animal. This is why human babies are helpless and completely dependent on elders for a long time as opposed to baby horses or baby cats who are mobile almost immediately after birth.
-* Humans evolved social ties because it took many people to bring a child up. This is one of the reasons why tribes were done.
-* Because of this, humans can be educated and socialized than a far greater degree than any other mammal.
-* We often assume that we have advantages because of us being social animals, big brains, but they come as a cost. 
-* They were very weak and were preyed upon. There were probably about just a million humans at that time. They ate fruits and vegetables and only small mammals.
-* One of the first things that humans used tools for was to break open bones and eat the marrow inside. In fact, scientists argue that bone marrow was the niche that humans operated in.
-* Lions eat giraffes, hyenas eat what is left, and you eat the marrow. The position of humans in the food chain was always in the middle, hunting small animals and being hunted by big animals.
-* 400 KYA was when Neanderthals started to hunt large animals. 100 KYA was when we jumped to be the top predators.
-* Psychologically, humans were not used to be at the top of the food chain. Other animals had evolved the position of being a top predator for millions of years already. For humans, it took us almost no time and there was not enough time for humans to adapt themselves to this position.
-* It is better to think of ourselves as a herd of sheep who learned how to use guns and bombs, because we don’t know what to do with power.
+Humans have extraordinarily large brains. A 60 kg mammal has about 200cc brain size. A 60kg human has about 1200-1400cc brain size. It is only humans that have this, not dogs, not cats etc. There is a problem with this big brain: you have to carry it around, you have to protect it with a skull, and it is hard to carry around this big head. It is also hard to fuel this with energy. The brain is about 2-3% of the body weight but it consumes 25% of the energy (at rest). Apes consumes about 8% energy.
 
-# 1.5: The Human Family 3rd Segment
+So to have more energy, humans spent more time looking for food, and humans became less muscular. The muscles became smaller and weaker. We are 5x weaker than chimps, given the same weight. And the evolution of the human brain, why it became so big, is a mystery of evolution, because for a long time, it didn't seem to do anything special.
 
-## Fire
+#### Walking Upright
 
-* Not sure how we discovered it.
-* The first effective weapon against large animals.
-* It could be used to change the environment for the benefit of humans.
-* The best thing for fire: It enabled humans to cook. All kinds of foods can now be eaten by humans. Ex: We can now digest wheat and potatoes etc.
-* Cooking also kills germs and parasites that may otherwise enter the body and kill them.
-* It is also easier for us to digest food (chimps need 5 hours, we need about 1 hour). What happens is that we outsource our digestion to fire, we consume less energy.
-* So we can survive with smaller teeth and jaws and smaller intestines.
-* Scholars believe that there is a direct link between the start of cooking, the shortening of our intestines, and the increase in size of our brain.
-* This is because the two greatest consumers of energy are the brain and the digestive system. Once you shorten your intestines, you can have a bigger brain. The jump in brain size 400K ago also coincided with the start of cooking.
-* For every being, the power depends on the body. While animals can harness the power of wind and water, they cannot decide and control these forces. Ex: Eagles cannot control wind when it is not there, and their bodies constrain the control they can exert over nature.
-* Humans were able to get control of an obedient force. They can use when and where to use fire, and the power of fire is not limited by the body of the human (someone can burn a forest by themselves).
-* In this respect, the domestication of fire was the first important step on the way to the atomic bomb.
-* Even with fire though, we were still not the most powerful species. It would come hundreds of thousands of years later.
+When walking upright, it's much easier to scan the savannah in search of prey, because you don't need your hands to move, you can signal your friends or something that you are here, and you can make and use tools.
+
+The problem is the skeleton evolved for a creature that moves on four legs as opposed to two. This exerts stress on the spine and muscle. Even today, people suffer from back pain and stiff necks because of the compromise on the skeleton.
+
+Women paid more for the innovation. Your hips have to be narrow, and their birth canal has to be narrow. While their birth canal was getting smaller, the human (and baby) brain was getting bigger. Women and children began to die during childbirth more than the other great apes.
+
+The solution was giving birth earlier than before, when the baby head was smaller. This evolved through natural selection. __Even now, humans give birth earlier than any other animal.__ This is why human babies are helpless and completely dependent on elders for a long time as opposed to baby horses or baby cats who are mobile almost immediately after birth.
+
+Humans evolved social ties because it took many people to bring a child up. This is one of the reasons why tribes were a thing. Because of this, humans can be educated and socialized than a far greater degree than any other mammal.
+
+We often assume that we have advantages because of us being social animals, big brains, but they come as a cost. We were very weak and were preyed upon. There were probably about just a million humans at that time. We ate fruits and vegetables and only small mammals.
+
+One of the first things that humans used tools for was to break open bones and eat the marrow inside. In fact, scientists argue that bone marrow was the niche food that humans ate. Lions eat giraffes, hyenas eat what is left, and humans eat the marrow. The position of humans in the food chain was always in the middle, hunting small animals and being hunted by big animals.
+
+It was around 400 KYA was when Neanderthals started to hunt large animals, and 100 KYA when we jumped to be the top predators.
+
+Psychologically, humans were not used to be at the top of the food chain. Other animals had evolved the position of being a top predator for millions of years already. For humans, it took us almost no time and there was not enough time for humans to adapt themselves to this position. It is better to think of ourselves as a herd of sheep who learned how to use guns and bombs, because we don’t know what to do with power.
+
+## 1.5: The Human Family 3rd Segment
+
+#### Fire
+
+Scientists aren't sure how humans discovered fire. It was the first effective weapon against large animals. It could be used to change the environment for the benefit of humans. But best of all, it enabled humans to cook.
+
+All kinds of foods, especially plants such as wheat and potatoes, can now be eaten by humans. Cooking also kills germs and parasites that may otherwise enter the body and kill them. It is also made it easier for us to digest food (chimps need 5 hours, we need about 1 hour). What happens is that we outsource our digestion to fire, we consume less energy. So we can survive with smaller teeth and jaws and smaller intestines.
+
+Scholars believe that there is a direct link between the start of cooking, the shortening of our intestines, and the increase in size of our brain. This is because the two greatest consumers of energy are the brain and the digestive system. Once you shorten your intestines, you can have a bigger brain. The jump in brain size 400K ago also coincided with the start of cooking.
+
+For every being, the power depends on the body. While animals can harness the power of wind and water, they cannot decide and control these forces. Ex: Eagles cannot control wind when it is not there, and their bodies constrain the control they can exert over nature.
+
+Humans were able to get control of an obedient force. They can use when and where to use fire, and the power of fire is not limited by the body of the human (someone can burn a forest by themselves).
+
+In this respect, the domestication of fire was the first important step on the way to the atomic bomb.
  
-# 1.6: The Human Family 4th Segment
+## 1.6: The Human Family 4th Segment
 
-* Almost all scholars agree that by 150 KYA, East Africa was populated by Homo sapiens that looked like you and me.
-* During 70 KYA, they arrived in the Middle East, which was populated by the other human species.
-* Interbreeding theory: As Sapiens spread throughout the world, they bred with the other humans.
-* Neanderthals were seen to have fair skin and fair hair.
-* If this is the case, then Middle Eastern people are not just Sapiens, but were a mix.
-* Humans who went to China and East Asia are also speculated to have interbred with Erectus, etc.
-* Replacement theory: There was no sex between Neanderthals and Sapiens, and children between them are infertile, and the Neanderthals died out.
-* This means that all humans living today share the same ancestors in East Africa.
-* These theories have political repercussions, as if replacement theory is correct, everyone is equal, and if interbreeding is right, not everyone is equal (political dynamite).
-* For a time, Replacement theory has always been thought to be the safe and politically correct decision.
-* In 2010, when they mapped the Neanderthal genome and they compared it with people today, it turned out that about 4% of the unique human genes in Europe and the Middle East were from the Neanderthals.
-* Also, up to 6% of the genes in Aboriginals and Melanasians were from the Denisovans.
-* While not that big, 4% or 6% is a very small number. If there is a merger, there should be about 50% Neanderthal genes.
-* Based on the recent events, Neanderthals and Sapiens were not of completely different species because they have fertile offspring. But they are also not completely the same.
-* About 50 KYA, Neanderthals, Sapiens, and Denisovans were at that border point of change.
-How did the Neanderthals die out?
-* A possibility was because of the competition for food, the Neanderthals starved.
-* Another was genocide between the Neanderthals and Sapiens. Very plausible because humans are not that tolerant species.
-* Even in modern times, a group of Sapiens could be intolerant of someone else that is not of the same religion or same skin color, what more for a different species?	
-* There could also be a combination of both, some had no violence, some were exterminations.
-* The disappearance of Neanderthals is one of the big “what-ifs”, what would happen if there had been several human species coexisted side by side? Would religions have unfolded differently? Would politics be the same? There is a lot to think about here.
-* This is why the disappearance of Neanderthals affected a lot of things; it changed the way we interpret things. Over the years, Homo sapiens has existed by ourselves that it has been hard for us to accept something else. When Darwin said that Homo sapiens was “just another animal”, people were outraged.
-* Perhaps this is why we killed the Neanderthals: they were too similar to us to ignore, but they were too different to tolerate their existence. So, the solution is to exterminate them.
-* What we do know was that whenever Sapiens arrived, the other humans living there became extinct. Neanderthals disappeared 30 KYA, the last was the Flores, 12 KYA. They left a few genes in our DNA, but they also left us as the last surviving human species.
+
+Almost all scholars agree that by 150 KYA, East Africa was populated by Homo sapiens that looked like you and me. And during 70 KYA, they arrived in the Middle East, which was populated by the other human species.
+
+The __Interbreeding theory__ says that as Sapiens spread throughout the world, they bred with the other humans. Middle Eastern people are suggested to have a mix of Neanderthal in them. Humans who went to China and East Asia are also speculated to have interbred with Erectus.
+
+The __Replacement theory__ says that there was no sex between Neanderthals and Sapiens, and children between them are infertile, and the Neanderthals died out. This means that all humans living today share the same ancestors in East Africa.
+
+These theories have political repercussions, as if replacement theory is correct, everyone is equal, and if interbreeding is right, not everyone is equal (political dynamite). For a time, Replacement theory has always been thought to be the safe and politically correct decision. But in 2010, when they mapped the Neanderthal genome and they compared it with people today, it turned out that about 4% of the unique human genes in Europe and the Middle East were from the Neanderthals. Also, up to 6% of the genes in Aboriginals and Melanasians were from the Denisovans.
+
+4% or 6% is a very small number. If there is a merger, there should be about 50% Neanderthal genes. Based on the recent events, Neanderthals and Sapiens were not of completely different species because they have fertile offspring. But they are also not completely the same.
+
+At about 50 KYA, Neanderthals, Sapiens, and Denisovans were at that border point of change. How did the Neanderthals die out?
+
+A possibility was because of the competition for food, the Neanderthals starved. Another was genocide between the Neanderthals and Sapiens. This is very plausible because humans are not known to be a tolerant species. Even in modern times, a group of Sapiens could be intolerant of someone else that is not of the same religion or same skin color, what more for a different species? There could also be a combination of both, some had no violence, some were exterminations.
+
+The disappearance of Neanderthals is one of the big “what-ifs”, what would happen if there had been several human species coexisted side by side? Would religions have unfolded differently? Would politics be the same? There is a lot to think about here.
+
+This is why the disappearance of Neanderthals affected a lot of things; it changed the way we interpret things. Over the years, Homo sapiens has existed by ourselves that it has been hard for us to accept something else. When Darwin said that Homo sapiens was “just another animal”, people were outraged.
+
+Perhaps this is why we killed the Neanderthals: they were too similar to us to ignore, but they were too different to tolerate their existence. So, the solution is to exterminate them.
+
+What we do know was that whenever Sapiens arrived, the other humans living there became extinct. Neanderthals disappeared 30 KYA, the last was the Flores, 12 KYA. They left a few genes in our DNA, but they also left us as the last surviving human species.
  
-# Lesson 2: The Cognitive Revolution 1st Segment
+## 2.1: The Cognitive Revolution 1st Segment
 
-* Sapiens in East Africa already looked like us; a modern doctor cannot dissect the difference between them and us. Even their brain were the same in both size and external shape.
-* The first time the Sapiens travelled to the M East (100 KYA), they were driven back by the Neanderthals. No fossils for 30K years (they lost).
-* By 70 KYA, when they travelled to the M East, now they drove all the human species to extinction. 60 KYA they reached Korea. 40 KYA they landed in Australia. (They were the first humans there.) 15 KYA they reached America (first humans too).
-* The Sapiens couldn’t swim to get to Australia. In order to get to America, they had to survive the cold temperature to survive in Siberia and Alaska.
-* This is remarkable because for a long amount of time, they were used to the African Savannah. How did they adapt to the different conditions of the world?
-* This is the first indication that something was happening to the Sapiens beginning 70 KYA. Not only did Sapiens spread, but it also adapted.
-* 70 KYA, there was also an appearance of new technologies.
-* Boats/rafts: Sapiens used this to travel to islands.
-* The needle: one of the most important inventions in the history. While people (including Neanderthals) had worn clothing before, they couldn’t sew things together. Once Sapiens was able to sew clothing, boots, and tents, they were now able to adapt to the cold. (Neanderthals were not able to get to cold Scandinavia).
-* Oil lamps: you put the animal fats inside. Sapiens were able to get into caves and to produce pictures on the walls.
-* Upgrades: Prior to 70 KYA, everyone used the same tools (spear points). But since 70 KYA, new styles of spear points were being released every few thousands of years.
-* Jewelry, art, praying, complex societies (100s of people), religion: 30 KYA sculpture with the head of lion and body of human. Sapiens has always had the ability to imagine things that did not exist.
-* Scholars believed that these inventions were because of a cognitive revolution that happened 70 KYA. While our ancestors in E Africa looked like us and had a brain size like us, they were not able to talk like us. The 70 KYA people who settled Australia, they were like us.
-* History begins with this cognitive revolution.
-* Scholars believe that there was a change in the internal structure of the brain that led to all the big revolutions in Sapiens’ abilities. There might have been some part of the brain that became connected to create our abilities.
-* We still don’t know why this happened. This might have been pure chance, but still, it happened. What changed?
-Lesson 2: The Cognitive Revolution 2
+A modern doctor cannot dissect the difference between Sapiens in East Africa and modern humans. Even their brain were the same in both size and external shape.
+
+The first time the Sapiens travelled to the M East (100 KYA), they were driven back by the Neanderthals. No fossils for 30K years (they lost). By 70 KYA, when they travelled to the M East, now they drove all the human species to extinction. 60 KYA they reached Korea. 40 KYA they landed in Australia. (They were the first humans there.) 15 KYA they reached America (first humans too).
+
+The Sapiens couldn’t swim to get to Australia. In order to get to America, they had to survive the cold temperature to survive in Siberia and Alaska.
+
+This is remarkable because for a long amount of time, they were used to the African Savannah. How did they adapt to the different conditions of the world?
+
+This is the first indication that something was happening to the Sapiens beginning 70 KYA. Not only did Sapiens spread, but it also adapted. It was also in 70 KYA that there was also an appearance of new technologies.
+
+- __Boats/rafts:__ Sapiens used this to travel to islands.
+- __The needle:__ one of the most important inventions in the history. While people (including Neanderthals) had worn clothing before, they couldn’t sew things together. Once Sapiens was able to sew clothing, boots, and tents, they were now able to adapt to the cold. (Neanderthals were not able to get to cold Scandinavia).
+- __Oil lamps:__ you put the animal fats inside. Sapiens were able to get into caves and to produce pictures on the walls.
+- __Upgrades:__ Prior to 70 KYA, everyone used the same tools (spear points). But since 70 KYA, new styles of spear points were being released every few thousands of years.
+- __Jewelry, art, praying, complex societies (100s of people), religion:__ 30 KYA sculpture with the head of lion and body of human. Sapiens has always had the ability to imagine things that did not exist.
+
+Scholars believed that these inventions were because of a cognitive revolution that happened 70 KYA. While our ancestors in E Africa looked like us and had a brain size like us, they were not able to talk like us. The 70 KYA people who settled Australia, they were like us.
+
+__History begins with this cognitive revolution.__
+
+Scholars believe that there was a change in the internal structure of the brain that led to all the big revolutions in Sapiens’ abilities. There might have been some part of the brain that became connected to create our abilities. We still don’t know why this happened. This might have been pure chance, but still, it happened. What changed?
+
+## 2.2: The Cognitive Revolution 2
+
+
 * It is speculated that it is our language that separated us during this cognitive revolution.
 * Our language is not the only language, nor is it the first. Most animals, even insects, have language. They communicate via chemicals and they can communicate via these chemicals.
 * Was our language the first vocal language? There have been many vocal languages long before 70 KYA, and there are many animals that use sound and voice to communicate among themselves.
@@ -135,7 +137,7 @@ Lesson 2: The Cognitive Revolution 2
 * While this sounds like a joke, other disciplines have seen the importance of gossip. Much of the information we get through emails, shows, etc., are information about other people.
 * When there was no police, gossip was the police. This was some sort of enforced morality.
 
-# Lesson 3: The Cognitive Revolution 3
+## Lesson 3: The Cognitive Revolution 3
 
 * The truly unique thing about language is not to transmit information about lions and men, but the ability to transmit information about things that do not exist at all, such as legends. Things such as “the lion is the guardian of our tribe” are unique to our language.
 * This is why we call the Sapiens languages a fictive language, or a language that can talk about fictional things. You can never convince any other animal to do things so that they go to animal heaven. Sapiens is the only animal that can believe such stories.
@@ -154,7 +156,7 @@ Chimps
 * The secret is fictive language. Large numbers of humans can cooperate with this shared language. Literally all large groups of humans have a fiction or belief or something. Two Catholics can coordinate when they meet even without knowing each other. Two Japanese may risk their lives because both of them believe in the existence of the Japanese homeland. Two people in the same corporation such as Google believe in the same economic myth of money. Two lawyers can combine efforts to defend a complete stranger because they believe in the existence of human rights and justice, even though they do not exist.
 * Every single thing that we tell ourselves do not exist outside of our own minds. This is hard to believe, but modern lawyers can be said to be something like tribal shamans. Shamans talk about ghosts and lawyers talk about corporations getting mad at you. In fact, ghosts are easier to understand than corporations (what the heck is corporation anyway?)
 
-# Lesson 4: The Cognitive Revolution 4
+## Lesson 4: The Cognitive Revolution 4
 
 The legend of the Peugeot Company
 * The trademark is the lion man.
@@ -173,7 +175,7 @@ Imagined Reality
 * Unlike lying, everybody believes imagined reality. So it is not a lie because people literally believe in the concept. Peugeot really believed the existence of the Peugeot company. Sculptors really believed in the existence of the lion man. Human rights activists really believe in the existence of the human rights.
 * Bottom line is, we have dual realities. There are the objective realities of rivers and trees and lions. There is another imagined reality of gods and nations and corporations.
 
-# Lesson 5: The Cognitive Revolution 5th Segment
+## Lesson 5: The Cognitive Revolution 5th Segment
 
 * Since large scale cooperation between Sapiens is based between stories, the communication can be changed by changing the story.
 * In France, they switched from the story of “The Divine Right of Kings” to the story of “The Sovereign Right of the People.”
@@ -196,7 +198,7 @@ Summary
 * The cognitive revolution, 70 KYA, is the dividing line between biology and history. Prior to this, Sapiens was just like any other animal. Since this revolution, biological models of explanation are no longer sufficient. From here, we can’t just rely on biological information but we have to rely on historical data. We can’t explain the French Revolution using biology.
 * Remember that the people who left East Africa were already like us, cognitive-wise.
  
-# 3.1:Daily Life in the Stone Age
+## 3.1:Daily Life in the Stone Age
 
 * If you really want to understand us Sapiens how we think, you have to understand how the Stone Age people lived, because most of us throughout the history of the world was to be peasants.
 * Many of the problems of the world today are the result of this very problematic interaction between the minds and bodies of hunter-gatherers and cities.
@@ -209,7 +211,9 @@ Summary
 * Experts argue that the difficulties and infidelities we experience with families are because of the disconnect between our current culture and our nuclear makeup.
 * The last evidence we have for ancient man is to watch the current hunter-gatherers in Australia and the Kalahari. It’s hard to assume that those who live there lived in the same way that people lived 40-50K years ago.
 * There were hundreds of thousands of bands of humans, you can literally have people from present-day Oxford and present-day Cambridge and they would have different languages or different beliefs. The really important point is that every since the Cognitive Revolution, there have been several “ways of life” for Sapiens. Each society had differing characteristics.
-3.2: Daily Life in the Stone Age: Segment 2
+
+## 3.2: Daily Life in the Stone Age: Segment 2
+
 * Most members of the human society after the agricultural society were not humans; they were domesticated animals.
 * Even today, the society of New Zealand is made up of 5 million humans, and a bunch of sheep. The exception to the rule though is dogs. The dog is the first animal to be domesticated, we have hard evidence that about 50K years ago that dogs were with humans.
 * Dogs also were buried in the same ways that humans were buried (these happened in Asia and in the Middle East). They were used for hunting and for alarms. This is interesting since wolfs rarely bark and dogs bark all the time.
@@ -226,7 +230,9 @@ Summary
 * Foragers also lived in small communities throughout the country where it was not that easy to spread disease. When people lived in a city together with their garbage and toilets and pigs, this was a more ideal place for diseases to spread.
 * Experts say that the original affluent societies existed long before the Agricultural Revolution.
 * You should not judge history from your perspective as a middle class or elite, judge it from the perspective of the peasants. In fact, people living 20 KYA lived better than the peasants today.
-3.3: Daily Life in the Stone Age: Segment 3
+
+## 3.3: Daily Life in the Stone Age: Segment 3
+
 * Animistic beliefs were common among the ancient foragers. Animism is the belief that the world is full of animated beings, all of whom can communicate directly. Every animal or tree or rock or stream has natural feelings, desires, and needs, and humans can bargain with it to get what they want. 
 * In the animist world, objects and living things aren’t the only living thing; the world is also full of immaterial anima such as fairies and spirits. Animists believe there is no communication barrier between humans and entities.
 * What differentiates animism from religion is that they believe in local beings, of a particular tree or rock or wolf, they aren’t great gods.
@@ -237,7 +243,9 @@ Summary
 * Venus sculpture in Austria: Some say that they worshipped femininity and they were in matriarchal societies (there were no male figures). Some also say that these are very chauvinistic and they were an ancient attempt by men to control female sexuality. Still some thing that these are just ancient pornography.
 * Cave of the Hands in Argentina: Not just made by one person, made by multiple.
 * Honestly, we just know that they were animists, but that’s just what we know. We don’t know their taboos, their festivals, etc.
-3.4: Daily Life in the Stone Age: Segment 4
+
+## 3.4: Daily Life in the Stone Age: Segment 4
+
 * One of the most remarkable findings of the last decades was made in Sungir, Russia, re: a society that hunted mammoths 30 KYA. They were able to find a grave with a 50-year old man with ivory bracelets and a hat with fox teeth. Other graves did not have that many ivory goods.
 * It was deduced that that society was a hierarchical society and that this guy was a chief.
 * Another grave: boy with 5,000 ivory beads and a decorative hat with fox teeth. A girl was also covered with ivory beads and jewelry. Ivory statues surrounded both children. Each of the beads took 45 minutes to make, which means that it took 3 years to make all of the beads.
@@ -245,6 +253,7 @@ Summary
 * This proves that there was some kind of hierarchy and social inequality 30 KYA.
  
 Warfare
+
 * It is suggested that large-scale warfare began during the Agricultural Revolution, because there was nothing to fight about (re: land) before the AR.
 * Others thought that large-scale revolution is embedded in our genes and that life is excessively cruel and violent.
 * We can use anthropological evidence by observing modern-day foragers. Foragers in the Kalahari don’t fight each other. We can’t assume much though, because it may be because of the low population density or it may be because of modern states.
@@ -253,7 +262,9 @@ Warfare
 * Portugal excavation, just before the AR, 2 of 400 skulls only were attributable to human violence. Israel: 1 of 100. Ancient Danube valley: 18 of 400 (4.5%).  That’s high! Today, it’s just 1.5%.
 * In the Sudan and in Germany, 24 of 59 skeletons had arrowheads stuck in them were killed violently.
 * So what is representative? Neither. Just as foragers had different religions, they also had a variety of attitudes.
-4.1: The Human Flood
+
+## 4.1: The Human Flood
+
 * Most of the ancients lived in the Eurasia-African landmass. They were able to move to nearby islands, but not to America/Australia/Madagascar/Hawaii.
 * Homo sapiens was the first animal to bring the other animals from continent to continent.
 * The first breakout happened 45 KYA to Australia. How could have Sapiens reached Australia? Even though there are islands between Indonesia and Australia, there are stretches of open sea up to 150km across. Then, they had to adapt to the new environment of Australia.
@@ -267,7 +278,8 @@ Warfare
 * Climate also played a significant role: about 45 KYA, something destabilized Australia. When the ecosystem was brittle, Sapiens appeared.
 * We have enough evidence to be convinced that the climate change would not be enough to cause a massive extinction event if Sapiens didn’t get there. In fact, this event was the first big thing that our species did to change the environment.
  
-4.2: The Human Flood Segment 2
+## 4.2: The Human Flood Segment 2
+
 * Sapiens arrived in Alaska via land bridge, in pursuit of large game animals such as mammoths and reindeer.
 * Humans arriving in the Americas were able to adapt themselves quickly to the differing ecological systems. In 2000 years, they were able to move to the southernmost point of Argentina. No other animal up to that time had been able to move that far without any genetic mutation.
 * Even ants, they can survive anywhere, but the ants in Mexico were different from the ants in Mississippi and the ants in the Pampas.
@@ -275,7 +287,8 @@ Warfare
 * Extinctions did not stop when we became farmers. Every time we colonized and island, the animals became extinct. Ex: Madagascar (400 km east of Africa). For millions of years, there were evolutionary processes there that were isolated from the rest of the world. Ex: elephant bird (3m high), giant lemurs (larger than gorillas. These vanished about 1500 KYA, when we have the first evidence of humans arriving to Madagascar.
 * This is similar to most islands in the Pacific, the Atlantic, the Indian, and even the Arctic Oceans. So there were two waves of extinction: the extinction due to hunter-gatherers, and the extinction due to agriculture. Now, we are having the third wave, the wave of industry. And honestly, Homo sapiens never really lived harmonically with nature.
  
-5.1: History’s Biggest Fraud Segment 1
+## 5.1: History’s Biggest Fraud Segment 1
+
 * If things were so good at the time of the hunter-gatherers, then why did the Agricultural Revolution happen?
 * For the first 2.5M of their existence, even after the cognitive revolution, humans faired well without agriculture.
 * Agricultural Revolution: The transition to agriculture from a life of hunting and gathering.
@@ -287,7 +300,8 @@ There is no evidence that people became more intelligent around the time of the 
 * The human body was not adapted to backbreaking work (we are more suited to climbing trees and hunting) so we had more disabilities like discs and arthritis.
 * Because wheat took a frigging huge effort from Sapiens, that’s why Sapiens settled!
  
-5.2: History’s Biggest Fraud Segment 2
+## 5.2: History’s Biggest Fraud Segment 2
+
 * Conflict was higher in agricultural societies than in hunter-gatherer societies because there wasn’t any compromise for losing your land, there wasn’t any place you can go to.
 * 15% of all deaths was because of another man, 25% for men. (Now it’s about 1% for men).
 * So violence was actually greater, and for that specific time, people were honestly more fucked (we’d have people dying from malnutrition more).
@@ -302,7 +316,8 @@ There were more diseases because
 *  In most agricultural societies, at least 1/3 of the babies born died from all kinds of infectious diseases before reaching adulthood.
 * In spite of all the disease and death, the birth of babies outpaced the death rate.
  
-4.3: History’s Biggest Fraud Segment 3
+## 5.3: History’s Biggest Fraud Segment 3
+
 * People didn’t foresee that more children mean more mouths to feed.
 * Feeding children gruel and porridge is unhealthy for the children.
 * By eating just wheat, humans exposed themselves to a vulnerability from drought.
@@ -320,7 +335,9 @@ Cultural and Religious Beliefs
 * Most of the time, it was village, temple. In GT, it was temple, village.
 * The switch from hunting and gathering to agriculture can be due to cultural reasons, and not because of economic pressures.
 * While we have discussed AR as a deal between humans and plants, there was a third party, the animals.
-4.4: History’s Biggest Fraud Segment 4
+
+## 5.4: History’s Biggest Fraud Segment 4
+
 * The AR affected animals too. Humans hunting wild sheep learned that it was beneficial to kill the adult rams as opposed to the ewes (selective hunting).
 * Next, they wanted to protect the herd, so they protected them from lions, other humans etc.
 * Then, the human band confined the sheep to a certain area.
@@ -336,7 +353,9 @@ Cultural and Religious Beliefs
 * Pigs = very intelligent and difficult to control. In Papua New Guinea, because pigs are important, pig noses are cut. Pigs are nearly blind and they can’t look for things when their noses are cut. Sometimes, their eyes are gouged.
 * Cows produce milk only after their calves are produced, and only for as long as these calves are living. So the dilemma is that you want some calves to live to ensure the continuation of the herd, but you want to kill the calves so they don’t drink milk.
 * What happens is that milk cows are almost constantly pregnant, and are killed off after 5 years when their milk productions decrease. Sometimes, you kill the calf, then fill something that looks like a cow with cow stuffing, and show it to the mom to produce more milk.
-6.1: Building Pyramids Segment I
+
+## 6.1: Building Pyramids Segment I
+
 * While the AR was successful from an evolutionary standpoint (7M humans 1.5M cows to 7B humans 7B cows), individual humans, cows, and bulls now fare worse that their ancestors.
 * With the AR came the appearance of far more complex humans societies. They were able to build cities with thousands and millions of people.
 * Agriculture can produce more food than foraging given the same size of land.
@@ -371,7 +390,9 @@ America
 * Imagined order: we behave in things not because it is objectively true, but because by believing in imagined story, it enables us to cooperate effectively. These are not useless mirages, these are the means by which we can cooperate.
 * Hammurabi might have said that “I know that this is just a story, but we should probably believe this too.
 * How can you create an empire based on shaky foundations such as this?
-6.2: Building Pyramids Segment 2
+
+## 6.2: Building Pyramids Segment 2
+
 * If human rights are just a story that we invent and believe, is there a danger that our order might collapse?
 * Yes, and that is why we have a lot of revolutions throughout history. So humans invest a lot in stabilizing the social order and the stories that uphold the social order. Some of these need violence, such as armies, courts, and police.
 * Order also needs some true believers. A priest can convince you to really believe stories that a hundred soldiers don’t.
@@ -397,7 +418,9 @@ It is embedded not only in the desires of a single person, it is embedded in the
 * “Subjective”  is something that exists depending on the beliefs of an individual, and it will change if the individual changes. Ex: a child’s imaginary friend. When the child grows up, he doesn’t believe.
 * “Inter-subjective” is something that exists within the communication network of many individuals. If a single individual dies, it is not of huge importance, but if the entire group is gone, then the idea dies. Ex: Peugeot company. Even if the CEO stops believing in the Peugeot company, a lot of people believe in it already.
 * In order to change an existing order, you have to imagine in a more powerful order. Ex: To stop believing in Peugeot, you have to believe that the French legal system can remove it. And we can’t remove all of these orders, because these have been embedded across the millennia.
-6.3: Building Pyramids: Segment 3
+
+## 6.3: Building Pyramids: Segment 3
+
 * You don’t just need food, you also need an imagined order, but these are not enough: you need to have a technique to store and process large amounts of information. Up till the AR, information was stored in the brain.
 * Because of the AR, the amount of information you need increased. You can’t realistically store all the information in the brain.
 * The new info was no longer descriptive (which foragers needed), but was numerical and mathematical. Information such as taxes and payments needed numbers and data bits.
@@ -409,7 +432,9 @@ It is embedded not only in the desires of a single person, it is embedded in the
 * “Cushing” is the first recorded name in history, this is just some random accountant dude. The first insights in history were about economic documents recording payment of taxes, inventory of goods, etc.
 * People who want to influence things need numbers, ex: physics and math.
 * The fear people have when seeing math problems aren’t because they’re stupid, but it’s because our brains aren’t built for data processing. 
-7.1: There is No Justice in History
+
+## 7.1: There is No Justice in History
+
 * How did humans organize themselves in mass corporate networks when we lacked the biological instincts to link ourselves in these networks?
 * The appearance of these mass networks was a very dubious blessing, because the imagined order in these kingdoms were neither neutral nor fair. There were different levels; for example, the Code of Hammurabi divided people into the Superior People, the Common People, and the Slaves.
 * All societies share some form of this segregation. People are segregated according to their wealth, or their religion, or their race. The principle is that you classify people into different categories, and then you treat people according to their type of category they are in, without knowing what kind of person they are.
@@ -419,7 +444,9 @@ It is embedded not only in the desires of a single person, it is embedded in the
 * All of the hierarchies we have are based on imaginary stories. Unfortunately, all societies seem to drive towards driving a hierarchy. All of these imagined classifications serve an important social function: they enable complete strangers to know how to treat one another without wasting the time and energy to be needed to become personally acquainted.
 * Teachers and gurus would know who to accept in their schools. And now that we live in cities, we know how to treat all the strangers even though we don’t know them. We have clues on how to treat them: we treat differently people wearing suits and those wearing rags, people wearing  a religious emblem, etc.
 * Most of the abilities of people have to be nurtured and developed; talents become latent if they are not exercised.
-7.2: There is No Justice in History 2
+
+## 7.2: There is No Justice in History 2
+
 * All societies are based on a hierarchy but not normally on the same hierarchy. What drives people to divide along such lines? In most cases, the hierarchy that dominates works because of accidental circumstances, but it was generated through generations.
 India
 * The Hindu caste system formed about 3K years ago. The invaders coming from Central Asia established a hierarchy where they were on top, and the natives were left with the les privileged positions of working ad slaves, etc.
@@ -440,7 +467,8 @@ America
 * Even up to know, the physical attributes of the white race came to be identified as beautiful, and the physical attributes of the black race came to be identified as ugly.
 * Basically, education comes to education.
  
-7.3: There is no Justice in History Part 3
+## 7.3: There is no Justice in History Part 3
+
 * Even though you have caste systems in India and racist systems in America, there is a constant hierarchy common across nearly all societies: the hierarchy of men and women.
 * For a long time, a woman’s rape was considered to be a “crime against property”, and that a husband raping his wife was illogical, kind of like a man stealing his own wallet.
 * 53 countries still think that a man raping his wife was okay and legal. Is this a product of the human imagination, or is this division a natural division with roots deep in the biological reality, and if it is a biological division, are there justifications in biology for the preferences of men over women?
@@ -459,8 +487,10 @@ Biology enables; culture forbids.
 * The definition of masculinity changes from society to society. Ex: masculinity 300 years ago was wearing a wig, stockings, and high heels. 
 * What we consider as “stylish” today (suits etc.) is actually rare. For most of human history and for most of the other animals, the males are often very colorful (peacocks, lions, chiefs of Indian tribes).
 * Why do societies across the world gravitate towards being patriarchal?
-7.4: There is No Justice in History 4
-Men are physically stronger than women
+## 7.4: There is No Justice in History 4
+
+#### Men are physically stronger than women
+
 * Men have forced women into their submission.
 * The strength of men monopolized tasks that required manual labor such as plowing the fields, and these gave them control of the economy and political power.
 * This is only true for certain types of strength. Women have generally more stamina than men and are more resistant to fatigue.
@@ -489,7 +519,8 @@ Males have superior social skills?
 * At the present, this question remains one of the biggest unsolved riddle of history.
 * Understand that each of the societies and their worlds are different from each other. What happens when people who believe in their kind of imagined order meet people who believe in another kind of imagined order?
  
-8.1: The Direction of History
+## 8.1: The Direction of History
+
 * As opposed to wolf or chimp societies, Sapiens societies are very different from each other. Different human societies have different social orders and social hierarchies. How do these different societies interact with each other?
 * Different interactions: war, trade, migration, missionaries.
 * Does human history have a clear direction, or not? Yes, there is, and this is global unification of the world and humankind.
@@ -519,7 +550,8 @@ Orders
 * So merchants, conquerors, and prophets, were the first people in history to transcend “us vs. them”, and get us to see the potential of the entire human race.
 * Money is important: Even people who don’t believe in the same god, and the same king, are often willing to use the same money. Even if we don’t agree with other people, we still use the same money. Even in Bin Laden hated everything America, he still wanted American money.
  
-8.2: The Direction of History 2
+## 8.2: The Direction of History 2
+
 * Hunter-gatherers started without money, with societies manufacturing everything. The economy was of favors and obligations. When there was something that you needed from outside the society, you did barter.
 * The appearance of cities and transportation (carts and boats) gave the people the opportunity to specialize. That’s when we had professional shoemakers and doctors and soldiers.
 * The villages also began to specialize: olive oil, or eggs, or something else. Each village can concentrate on the ideal crop for their location, and you can develop new techniques for the product.
@@ -798,7 +830,7 @@ Scientific expeditions and imperialism were inseperable.
 * The Beagle was sent to South America to map its coastline. 22-year old Charles Darwin, a young Cambridge-educated geologist, went on board.
 * In the months leading to the expedition to the moon, the astronauts trained in the American desert. They met an Native American who asked to pass a native message to a holy spirit in the moon. When they figured out what the message was, the message was: “Dear sacred spirit of the moon, just don’t believe what they say, they will just take your land.”
 
-# 12.3: Marriage
+## 12.3: Marriage
 
 * Science also paved the way for upgrading maps, and unfamiliar parts were monsters. There were no spaces.
 * After scientific revolution Europeans began to create maps with spaces, an admission of the lack of knowledge.
@@ -814,7 +846,7 @@ Scientific expeditions and imperialism were inseperable.
 * Eventually, it was the new resources that the Europeans got from the Americas that made it possible to conquer Asia. Empires supported scientific exploration because they proved themselves useful.
 * At first, geography was the most important science and it gave Europeans results.
 
-# 12.4: Marriage 4
+## 12.4: Marriage 4
 
 * Botanists and anthropologists studying the witch doctors in America figured out the solution to malaria, which allowed them to explore and invade Africa.
 * Contrast: When Muslims conquered India, they didn’t bring scientists, whereas the British brought anthropologists, zoologists, botanists, linguists, to better understand the ancient history of India. One of the discoveries: Indus Valley civilization. Prior to the British, nobody investigated these ruins.
@@ -824,7 +856,7 @@ Scientific expeditions and imperialism were inseperable.
 * On many occasions, what Europeans brought was war and exploitation and racism. Ex: British adopted a disastrous economic policy which resulted in the Bengal famine which resulted in 1/3 dying.
 * Due to the alliance with science, Europeans wielded so much power, and we can’t generalize what they did as good or evil. So it is very difficult to reach a clear decision whether they were good or bad.
 
-# 14.1 The Capitalist Creed Segment 1
+## 14.1 The Capitalist Creed Segment 1
 
 Understanding economic history and the rise of the Capitalist system is easy, just understand the word _growth_. The Capitalist economy is growing every year.
 
@@ -844,7 +876,7 @@ Credit is the difference between the size of the economic pie today and the size
 
 If you don't believe that the economy will grow, then it will definitely not grow.
 
-# 14.2 The Capitalist Creed Segment 2
+## 14.2 The Capitalist Creed Segment 2
 
 The idea of progress is built on the notion that if we admit our ignorance and we invest our resources on research was that things can actually improve! Whoever believes in progress believes that tech can increase the sum total of human wealth. If you believe in progress, you believe that the current economic pie can grow.
 
@@ -874,7 +906,7 @@ Banks and governments print the money, but it is the scientists that need to foo
 
 __Just remember that 90% of the money isn't real, and if we stop trusting the system, this money is gone.__
 
-# 14.3: The Capitalist Creed Segment 3
+## 14.3: The Capitalist Creed Segment 3
 
 Credit and capitalism were not unique to Europeans. Asian merchants have thought of these, however Asian nobles despised this. Asian nobles just taxed their subjects and looted their enemies.
 
@@ -894,7 +926,7 @@ People who are called capitalists think that capital should influence politics, 
 
 Free market advocates just hate whatever governments do: wars and social programs.
 
-# 14.4: The Capitalist Creed Segment 4
+## 14.4: The Capitalist Creed Segment 4
 
 In the extreme form, the belief in the free market is just naive. There isn't such a thing as a market that is free of politics, because markets are powered by the trust in the future, and it is the political system that regulate thievery and the markets themselves.
 
@@ -910,7 +942,7 @@ Another answer is that we need to be a little bit patient, and that paradise is 
 
 We could also argue that life expectancy, child mortality, and calories per person is significantly higher in 2013 versus 1913, even though there are many people around. The only question is, can the economic pie continue to grow?
 
-# 15.1: The Industrial Revolution Segment 1
+## 15.1: The Industrial Revolution Segment 1
 
 What will happen when we don't have raw materials (oil, iron, copper) anymore?
 
@@ -934,7 +966,7 @@ Prior to the IR, all of our energy was taken from plants (food, animal food, hea
 
 But what about raw materials? Once we solve the problem of energy, we can solve the problem of raw materials because we can then extract and transport raw materials from anywhere. Ex: We are able to get raw materials from other countries because of cheaper transportation costs.
 
-# 15.2: The Industrial Revolution Segment 2
+## 15.2: The Industrial Revolution Segment 2
 
 The IR first and formost affected agriculture and the methods for creating food. Machines such as tractors began to do work that was done by muscle work by humans and animals. Even animals became machines. Farm animals became mass-produced in factory-like facilities and their existences are determined by the profits and losses of the businesses that own them. The industry had no intrinsic interest on the social and psychological needs of animals unless these affect their productivity.
 
@@ -948,7 +980,7 @@ Prior to the IR, most people (about 90%) were peasants because most of the food 
 
 When there are so many products, who is going to buy the excess stuff?
 
-# 15.3: The Industrial Revolution Segment 3
+## 15.3: The Industrial Revolution Segment 3
 
 You can't just produce stuff, you have to buy it.
 
@@ -964,7 +996,7 @@ As in previous eras, there is a kind of division of labor between the elites and
 
 Whereas religions thought that people should restrain themselves to get into paradise. As a rule, people who follow religions don't really follow the rules of the religion. But in consumerism, people actually live up to the ideal that they are told. People are asked to spend paradise on earth, and if they aren't happy enough, they just need to spend more.
 
-# 16.1: A Permanent Revolution Segment 1
+## 16.1: A Permanent Revolution Segment 1
 
 If you took all of the 7 billion people of the world and put them on a scale, we come up with 3 million tons. All of our livestock is 7 million tons. All of the big wild animals (oceans/continents) would be less than 1 million tons.
 
@@ -1000,7 +1032,7 @@ In the past, there was one clock tower per county, which was usually inaccurate.
 Every little thing we do: waking up, getting to work, going to the gym, watching our show, complaining about time, involves time.
 
 
-# 16.2: A Permanent Revolution Segment 2
+## 16.2: A Permanent Revolution Segment 2
 
 The most important change in human life was the collapse of the family and local community in favor for the market and the state. For most of history, even with the AR, people lived in families and community.
 
@@ -1036,7 +1068,7 @@ Identification with the state is called _nationalism_. We don't associate oursel
 
 We also identify with the market. We think of ourselves as members of _consumer tribes_: Madonna fans (CDs, shirts, tickets), Manchester United fans, vegetarians, environmentalists. Sometimes, they are more important that nationalism: a French vegetarian will more likely marry a German vegetarian as opposed to a French carnivore. 
 
-# 16.3: A Permanent Revolution Segment 3
+## 16.3: A Permanent Revolution Segment 3
 
 The changes of the IR have been so swift and so radical that they have changed the order so much! It's very rare to have swift changes in such as a short amount of time. People tend to reconcile themselves to the status quo because of the "this is how it's always has been".
 
@@ -1062,7 +1094,7 @@ What is unique about the collapse of the European empires was that it was relati
 
 An even bigger change occured when the Soviet Union collapsed. Within 2 years, the empire disappeared in such an orderly manner. There wasn't any serious military defeat or civil disobedience (asides from Poland). The Soviets had the biggest army in the world, tens of thousands of tanks, and enough nuclear weapons to destroy humankind. What happened was the Soviets chose to dismantle the empire peacefully when they realized that Communism doesn't work. At the same time that the Soviets gave up the recent empire, they also gave up the lands taken by Russian Tzars (Ukraine, Kazakhstan, etc.) in the 18th-19th century.
 
-# 16.4: A Permanent Revolution Segment 4
+## 16.4: A Permanent Revolution Segment 4
 
 Fact is, since 1945, states no longer invade other states in order to swallow them up. Everyone took it for granted that the kings of another kingdom might invade or enslave or annex them. This doesn't happen anymore. Since 1945, no independent country, recognized by the UN has been conquered or wiped off the map.
 
@@ -1082,7 +1114,7 @@ While we may think this is naive, thinking about the future, it's quite remarkab
 
 It's often distorting how much we see history with the events of the immediate past. But the late modern era is characterized not by war or by peace but by dynamism: history has still not made up its mind on what's going to happen. Despite all the amazing revolutions and inventions over the past few years, it's still difficult to know if people today are happier than people in ancient times. 
 
-# 17.1: And They Lived Happily Ever After 1
+## 17.1: And They Lived Happily Ever After 1
 
 Are we more happy than before? Has the 70,000 years of history made the world a better place to live in? Are we happier than the hunter gatherers that lived here tens of thousands of years ago? If no, then what is the point of inventing and discovering agriculture/empire/science/etc. if we are not happier than our ancestors? Historians seldom ask if people from a certain time period were happier than their ancestors.
 
@@ -1100,7 +1132,7 @@ We can only congratulate Sapiens if we think without the context of other animal
 
 Problem with the view: happiness is material. "If people are richer and healthier, then they are happier." Many of the greatest minds of humankind came to the conclusion that social/ethical/spiritual factors have as great an impact on our happiness. We cannot argue that our material possessions are greater than in the past, but it is not the only basis for happiness, maybe rich nations feel more alienation despite their prosperity.
 
-# 17.2: And They Lived Happily Ever After 2
+## 17.2: And They Lived Happily Ever After 2
 
 To know if we are happier, we need a definition and a way to measure it.
 
@@ -1146,7 +1178,7 @@ When we finally realize that the keys to our happiness is reliant on our own bio
 
 According to the biological approach, happiness can really only come from within. In Brave New World, Huxley envisioned a world in which happiness is the supreme value of society, and psychiatric drugs taht control and increase happiness levels replace police, elections, and government. And people took a drug, Soma, to keep them happy, all the time.
 
-# 17.3: And They Lived Happily Ever After 3
+## 17.3: And They Lived Happily Ever After 3
 
 Most readers feel that there is something wrong with that kind of world, but it is hard to say what, because everyone is so happy, what's wrong with it.
 
@@ -1185,28 +1217,95 @@ So stop craving them and chasing them. In meditation, you're supposed to closely
 
 You have to stop craving to have particular feelings, then you can accept whatever comes. You can accept whatever feelings that come, and the resulting serenity is so profund that people who go on living their lives can hardly even begin to imagine waht it is like to be out.
 
+## 18.1: The End of Homo Sapiens
 
+In the near future (next century or two), our species is going to disappear. We are probably one of the last generations of Homo sapiens. Our species will upgrade itself to a new type of being.
 
+Over the last tens of thousands of years, the human brain and body has not changed, the people in the past experience the same things as today. This is why we find the same interest in the Bible, Plato, Confucius, because they were written by people just like you and me.
 
+The next big revolution will transform the economy, society, etc., but it will also transform our body and our minds. It will develop a new kind of thinking.
 
+The truly revolutionary potential of tech is to change people, not just the tools or the weapons, but the beings themselves.
 
+#### Biological Engineering.
 
+Any deliberate intervention on the biological level which is aimed to modify the capabilities/needs of an organism. Ex: Castration, oxen are less aggressive than bulls and they are easier to domesticate, eunuchs and castrati.
 
+Now, we can use surgical treatments to not just castrate, but to change the sex of a man into a woman. 90s: Cow cell on the back of the mouse and it is shaped like a human ear. This is used to manufacture artificial ears or artificial structures.
 
+30K years ago, people could imagine a human/lion hybrid and they can make an ivory statue of such a creature. Today, humans are actually able to create half-half hybrids. Ex: frost-resistant potatoes, disease-resistant cows, genius mice.
 
+Gap is in ethical and political objections, not technical. We might end up with indefinite life spans, living forever.
 
+## 18.2: The End of Homo Sapiens 2
 
+#### Cyborgs
 
+Cyborgs are beings that combine organic and inorganic parts, such as a human with bionic hands. In a sense, all of us are cyborgs these days, since our natural senses and functions are supplemented, improved by devices; such as eyeglasses and pacemakers and computers.
 
+In the near future, this process is likely to go much, much further.
 
+We already have functioning prototypes of bionic ears, which enable deaf people to hear again. The same can be done with bionic noses, arms, and legs. Bionic arms are operated by thought alone.
 
+There's no reason to think that these limbs need to be connected or even be in the same room, continent, or planet. Scientists at Duke have recently demonstrated this with rhesus monkeys. A monkey, called Aurora, learned how to control only with her mind, a detached bionic arm while simultaneously moving her two organic arms. Adoya, another rhesus monkey, becamse famous in 2008 when she thought-controlled a pair of bionic legs which were positioned in Japan from North Carolina.
 
+The most revolutionary of the projects is the attempt to create a two-way brain computer interface, that will allow computers to read the electrical signals of the human brain while simultaneously transmitting signals that the brain can read and interpret and understand. You can connect to the Internet (or Interbrain net) with your mind, or you can access the memories of other people.
 
+#### Engineering non-organic beings
 
+The most obvious example is an independent learning program. A prototype of such a program already exists, and it is called a computer virus.
 
+Philosophical questions: Is this thing alive? If you back yourself up on a computer and destroy the computer, can you be charged with murder?
 
+## 18.3: The End of Homo Sapiens 3
 
+Bioengineering raises a lot of issues with privacy and identity and health care and equality. What happens to pension funds and labor organizations when 60 is the new 30?
 
+Personalized DNA mapping/testing opens the way to personalized medicine. What happens to insurance and job applications? Would your boss ask you to fax your DNA instead of your CV? Can you sue for gender discrimination?
+
+Our modern world today prides itself on recognizing the basic equality of all humans. But we might be poised to create the most unequal society that ever existed on Earth.
+
+Throughtut history, the upper classes always claimed that they are smarter, stronger, and better than the under class. Previously, a baby born to a peasant family was likely to be as intelligent as the crowned prince or son of the king. However, today, with the help of new medical and scientific capabilites, the pretensions of the upper classes might become an objective reality. They may really be smarter and stronger thatn the underclasses and everybody else. And this is not science fiction, this is science.
+
+Science fiction describes a world in which sapiens identical to you and me enjoy superior technology, such as spaceships or laser guns, but thre real potential of future technology is to change not the spaceships, but the Sapiens themselves. And Sci-fi rarely describes such a future because an accurate description is incomprehensible to people today.
+
+It should be emphasized that the future masters of the world will be more different from us than we are different from the Neanderthals. These future beings are going to be god-like, and inorganic, at least in parts of their bodies.
+
+#### The Singularity
+
+The singularity is a point in which our world of meaning collapses completely. It is a point in which our world of meaning collapses completely. A point when everything we know about ourselves and about the world will become irrelevant. We cannot imagine this point or anything happening after this point.
+
+Physicists define the Big Bang as a singularity. The Big Bang was a point when all known natural laws, including space and time, did not exist and did not function in any way that we can understand using our current models and knowledge. Anything that happened beore the Big Bang is meaningless to us. It is meaningless to speak about things happening before the Big Bang because there was no time.
+
+We may be approaching another future point of singularity in which our known world of meaning wil collapse. The pace of technological development is so rapid that we will soon come to the point when Homo sapiesn is replaced by completely different beings who possess not only different physiques but also different cognitive and emotional abilities and experiences. They might look at us someday as we look onto the Neanderthals.
+
+But this is just speculation. History teaches us that what seems to be inevitable and just around the corner may never materialize due to all kinds of unforeseen barriers, and other scenarios which nobody foresaw will actually happen. With Sputnik, people forecasted that people in the year 2000 would live on the moon or on Mars. Hiroshima and Nagasaki led people to think about the nuclear world of 2000. But we don't live in those realities.
+
+So take the basic idea that the next stage of history will include not only technological and organizational transfomration, but also fundamental revolutions in human consciousness and identity. Will it happen in 2050, or two centuries from now? The most important question facing humankind today is what do we want to become? In what way do we want to enhance humankind? When asked these questions, most of the debates today (religions, classes, economic organization) feel petty.
+
+## Q&A, Part 1 and 2
+
+__What school of thought are you advocating, so that I can learn more about its development?__
+
+A: A lot, but I think my approach can be described as bio-global. Bio-global means giving a lot of importance to biology/biological factors when looking at history. And I look at the totalitive history and the totalitive humankind. The little issues are important, because we need them for the big issues. But a defect of historical research in the 2nd half of the 20th century was that people were afraid of asking big questiosn and of creating big narratives of history.
+
+__Would you consider the Internet as the 4th pillar of human unification in addition to money and empires, and religion?__
+
+The Internet certainly represents the final stage of human unification. Today, the world is a single ecological, political, and cultural unit. Internet has certainly strengthened this process. But we should realize that the Internet is basically a technology, a tool. But we needed to link economics, politics, and religion first. Now, I can buy from Amazon, because all the currencies of the world are interlinked. I speak to you in English, not my mother tongue, because of British and American Imperialism. And the Internet communication is basd on liberal humanism: everybody has the right to their own opinion and to voice their own opinions and so on and so forth.
+
+__What are the lessons that humankind should learn from history?__
+
+People sometimes have this idea that we learn history in order to understand the past mistakes. But it doesn't teach us much in that regard because we are in a different position from them 100 years ago or 500 years ago. There's so many differences with what's happening now and in the First World War, or the ancient world.
+
+The real purpose of history is not to learn lessons but to free ourselves fromthe grip of the past. What happens is that people, societies, have a very difficult time understanding the present as it really is, because the past doesn't allow us to see things clearly. We think that the capitalist system is natural and inevitable, but it's not natural and it's not inevitable, it's just the outcome of historical process of all kinds of events happening one after the other until they lead to the present situation.
+
+The real purpose of history is to understand. There is a chain of events that cause the world to be as it is now, and why we see the world in a certain way. You get to think that "there is not just one way of seeing the economy." And this allows you to see many more things, and you're able to see the present more clearly.
+
+__Could you elaborate more on the laws in history?__
+
+When i speak about laws in history, these aren't physical laws. I mean things you can generalize about history. Think generalizations, now laws. Ex: Luxuries become necessities. Another Ex: For people, it's bvery difficult for a society to create, and think about, a completely harmonious world view. In any society, it's extremely likely that people in that society have contradictory ideas. ANd that's the way human societies are built. __Humans have this amazing ability to hold contradictions, to believe in contradictory things at the same time and this is what enables those societies to function.__ It's not really a law, but it's a generalization that holds true in many cases.
+
+We should realize about these laws, is that because they are not really laws like in physics, they can sometimes change. Ex: The Law of the Jungle, we see war all the time, but in the 21st century, the law has been broken. There is no plausible scenario for war to occur between France/Germany, Brazil/Argentina, China/Japan. Even if the "laws" have been true for thousands of years, they may still change.
 
 
 

@@ -66,8 +66,6 @@ I think technology extends human’s capacity to do things. Glasses extend your 
 I think it’s not about winning vs. losing (Facebook vs. Myspace) and Myspace was a better service early on for meeting new people. Facebook was more of for maintaining connections with people you knew. I think they were threatened by us and they tried to copy us, so it was doomed.
 
 The actual thought was that we wanted to be around the companies so we can figure out what to do with a new company.
-
-
  
 # Nate Blecharczyk (AirBnb) at Startup School 2013
 
@@ -97,9 +95,44 @@ Financial crisis, they put the chart on the needed figures to get to ramen profi
 
 Find the few users they loved you, not the 1K that sort of like you. We did this by manually meeting the users and manually improving their profiles.
 
-
-
- 
 # Jack Dorsey at Startup School 2013
 
 The Art Spirit: Robert Henri. Art is simply a question of doing anything well. When the artist is alive in any kind of person, he becomes a self-expression people. He disturbs, upsets, enlightens, and opens up ways to better understanding. 
+
+# Ashton Kutcher at Startup School 2011
+
+I quit the one thing that was sure-fire and became a model, and got bored really fast, and now I'm back at technology again. I started getting interested solving problems: my own problems, and other people's problems. I think that's the single biggest thing I look for in ents, they genuinely want to solve problems, first their own, and then others.
+
+Carl Fisher, as a kid can't see very well. He quit school as a kid. Bike store -> car shop -> headlights -> car racing -> Miami Beach -> Montauk -> stock market crash, loses everything. It wasn't about the money, but it was about uncovering and disrupting markets boldly to leave everything behind for everyone to use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
