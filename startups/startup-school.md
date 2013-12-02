@@ -6,7 +6,7 @@ At that time I wasn’t sure that was going to work, but I wanted to make people
 
 _Why did Facebook fight (and win) with the competing services in other colleges?_ You can’t just create a web crawler to find personal information, you have to make a tool so people can upload themselves. None of them had friending people (you can just say that you were connected to people) and they didn’t have that much personalization. It also tied your identity, which is different from traditional anonymous Internet communication.
 
-The only thing I got from Facesmash was that I met my wife there. But I don’t think a Facebook would have started from the college. I was excited to create Facebook for the community, but I thought it was a big company that was going to do it. In fact all reason says that big companies should do it because there’s just more resources there, but we loved the project more.
+The only thing I got from Facesmash was that I met my wife there. But I don’t think a Facebook would have started from the college. I was excited to create Facebook for the community, but I thought that a big company that was going to do it. In fact all reason says that big companies should do it because there’s just more resources there, but we loved the project more.
 
 Early on skeptics thought it seemed like a bad idea, and most good things start as bad ideas. This is something that translates to Internet.org, we want to get the next 1/7th of the world on the Internet. I also think that the best stuff that gets built seems irrational at the time.
 
@@ -28,12 +28,11 @@ Another ex: we want to expand to schools which had an intense social connection 
 
 We can’t get to some countries such as Russia, because their hacker team is so good and they have illegal file downloads.
 
-Clones are a big nuisance. You do want to internationalize fairly early. 
+Clones are a big nuisance. But you do want to internationalize fairly early. 
 
 I’m too obsessed with connecting people, I believe that when you connect people they can do cool things and I think this is the right thing to do.
  
 # Mark Zuckerberg at Startup School 2012
-
 
 We needed the school-specific emails to verify authenticity.
 

@@ -364,6 +364,230 @@ Netgrocer.com, diapers.com, warbyparkers.com, bonobos.com, citruslane.com
 	- In the beginning, sales start out in larger cities and spread by proximity from person to person.
 	- Later on, sales pick up in smaller areas with people who have the same characteristics.
 
+## 8 (Readings) [Amazon Fresh is Jeff Bezos' Last Mile Quest...](http://www.fastcompany.com/3014817/amazon-jeff-bezos)
+
+Amazon is 5% of the volume of the $1T e-commerce sales.
+
+Some features: "1-Click Ordering" for impulse buying, "Subscribe & Save" for replenishment of essentials, "Amazon Lockers" for secure pick-up. But the strongest is _speed__. Amazon Prime, second-day delivery is "losing money on shipping/services in exchange for loyalty." 10M prime members spend $1224/year on A, over $700 more than a regular ruser.
+
+## 8 (Readings) [Welcome To The Unicorn Club: Learning From Billion-Dollar Startups](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club/)
+
+Historically, top venture funds have driven returns from their ownership in just a few companies in a given fund of many companies.
+
+#### Learnings
+
+1. Approx 60,000 software/Internet companies were funded in the last decade. So 0.07 percent have become unicorns, 1 in 1538.
+
+2. On average, four unicorns were born per year in the past decade, with Facebook being the breakout "super-unicorn" (worth >$100 billion and it accounts for half of the $260B value of the companies). In each recent decade, 1-3 super unicorns have been born. Each decade has a super-unicorn: 90s-Google, 80s-Cisco, 70s-Apple, Oracle, Microsoft, 60s-Intel.
+
+3. Consumer-oriented companies have created the majority of value in the past decade: FB, Google, Amazon.
+
+4. The average enterprise-oriented unicorn raised $138M, and they are currently worth 26x their private capital (more than consumer-oriented).
+
+5. Business models: Consumer e-commerce, consumer audience, SaaS, enterprise software.
+	- E-commerce: Consumer pays for goods or services. Nobody holds physical inventory.
+	- Audience: Monetization through ads or leads.
+	- SaaS: Fremium for cloud-based software.
+	- Enterprise: Companies pay for larger scale software.
+	- __Network effects.__ These help companies scale users dramatically, seriously reducing capital requirements, and/or increasing valuations quickly.
+
+6. Seven-plus years on average before liquidity for companies.
+
+7. Companies with well-educated, thirtysomething co-founders who have history together have built the most successes.
+	- Average age of founders: __34__. Ninety-percent of co-founding teams have years of history together, from school or work.
+	- Nearly 80% of unicorns have at least one co-founder that founded a company before.
+	- Only 3 did not have a technical co-founder on board.
+
+## 9.1: Brands and Digital Marketing
+
+"Digital marketing... is the use of Internet connected devices to engage a cx." 
+
+#### Elements of Digital Marketing
+- __Social Commerce:__ We rely on reviews, blogs, and networks of creators influence what we buy. We get reviews from friends and strangers before we buy shit.
+- __Digital Advertising and Behavioral Targeting:__ Big data, micro-level targeting.
+- __Experimentation and A/B Testing:__ More experiments get run than ever before. Ex: Red website and flames make people want to choose vehicles with high safety. Green website make people want to choose vehicles with value for money.
+
+#### Brand assets
+
+Intangible assets now account for about 50% of all assets for non-financial businessses (only 20% in 1950). Google is powerful because of its intellectual capital.
+
+About one third of the value in global stock markets is attributable to "brands."
+
+The top global brands outperform the market; majority of the top twenty stocks have strong brands.
+
+1964: In cups: people discerned the taste of Guinness, whereas Budweiser/Pabst/Miller Lite/Colt 45/Coors were perceived to be the same. In bottles: different.
+
+Top brands: Apple, Google, Coca-Cola, IBM, Microsoft, GE, McDonalds, Samsung, Intel, Toyota, Mercedes Benz, BMW, Cisco, Disney, HP, Gillette, Louis Vuitton, Oracle, Amazon, Honda, H&M, Pepsi, Amex, Nike, SAP, Ikea, UPS, Ebay.
+
+Quidsi: Diapers.com, Soap.com, Beautybar.com...
+
+#### Goals and Tactics
+
+__Brand goals:__ "Heart and mind, thinking and feeling." Ex: Dear Sophie, using people's preferences of white meat to frame pork as white rather than red, Got Milk? campaign.
+
+__Key tactic:__ Build engagement through real world events that can be leveraged up in the virtual world.
+
+#### Digital Considerations
+1. Outstanding value proposition
+2. Authenticity and transparency
+3. Brand personality and humanization
+4. "Infinite" life and potential for serendipity
+
+JetBlue All You Can Jet ("JetBlue Cheeps") promoted via Twitter. Sold out in a week, 10m blog references, 31m searches. 29 in 29 days, generated a tremendous lift in the campaign for JetBlue.
+
+Negative: #McDStories.
+
+Celebrities to endorse brands: If there is a mismatch between the personality and the branding, then it's hard to trust.
+
+"Organic Celebrity", Ree Drummond.
+
+## 9.2: Customers and Digital Marketing
+
+Goals: Attract, engage, retain subject to:
+
+1. Never pay more to acquire than you will recoup...!
+2. CLV needs to incorporate the "RLV", or referral lifetime value. The first 100K cx of diapers.com had a $1 coupon. 8% of them participated in referrals. The number they produced was about 32K cx. __But actually, the top 100 cx generated 15K additional cx!__
+3. Change from monologoue to conversation via repeated conversations. How can we use technology to engage with cx?
+4. Selection and treatment. Cx attracted through word of mouth have high referral values. If a cx was acquired through referral, then their referral rate is about 15-18%.
+
+## 9.3: Reviews
+
+\>60% of users read reviews before making a purchase and positive reviews before making a purchase and positive reviews increase conversion rates.
+
+TripAdvisor, a site that aggregates reviews from other websites raised $4.2M in venture capital, was sold to Expedia for $210M, and is capped at $3.5B. It puts information into the market, with information contributed by you and I.
+
+Theory: More information to consumers is almost always better. In addition, when info is provided by firms, it might affect their behavior as well.
+
+Los Angeles health inspectors put signs on restaurants signifying their health ratings. Sales at restaurants with an A went up 5.7%, B went up 0.1%, and C went down 1%. But everyone increased their quality. Hospital admissions went down in LA, but not in the rest of CA.
+
+So we know that reviews change behavior. But these should be objective and reliable.
+
+At Amazon and Barnes & Noble, people are generous (4.14 average at A and 4.45 at BN). One star reviews are rare (7%, 3%) and five-star reviews are abundant (57%, 67%). Amazon reviews are longer.
+
+The negative effect of a one-star review \> positive effect of a five-star review. People read review text!
+
+Data-mining expert, Bing Lui: "About one in three online reviews are fake." TripAdvisor is less reliable than Expedia because Expedia requires you to have actually stayed (credit card) to review.
+
+## 9.4: Product Life Cycle (I know this na)
+
+## 9.5: Influence and How Information Spreads
+
+#### Elements of Networks
+
+_"Pathways through which information, advice, resources, and support flow between people."_ (Aral 2012)
+
+Networks show homophily ("Birds of a feather flock together"). Your friends are probably like you.
+
+A "network" needs nodes (people), connections (between people), ability to share information and resources, constraints.
+
+__Entering a network is a choice__, and we also decide how many people we want to connect to and how central we want to be. When our relationships are transitive, then we are deeply embedded.
+
+When influence happens, it doesn't have to happen by conversations. People can be influenced by seeing what people are doing. Even "strangers" and loose connections in a network can connect us. 1 person = 4% looked up, 15 people = 40%. Other thingie: 6 degrees of separation.
+
+__Connection doesn't necessarily mean influence.__ Influence spreading out from you will typically not move more than 3 steps.
+
+## 9.6: Elements of Neighborhoods and Examples
+
+Unit of analysis = person, zip code, city block, or virtual neighborhood.
+
+When you know who is connected to who and whom, you'll know who influences who.
+
+How do we know how people spread? Well people who are already close together transfer information between each other. Then, the packaging is important, so people can see where people got from. Lastly, the place where you bought the thing, if it was shipped to your house or to your office.
+
+Even after adjusting for demographics which affect online purchases (education, access to computer), the statistical effect had a huge economic impact: neighbors using the product increased the chance of you using the product itself.
+
+## 9.7-9.8: Other Examples of Influence
+
+Connections: While we may have numerous "friends", only a fraction carry influence. The meaning of "friends" changes.
+
+Scale problem: Because there are lots of friends and links, inferring who is influential for whom is difficult.
+
+Goal: Influence-based targetting.
+
+If a member increase usage and connected others do too, the member is "influential." If a member increases usage or decreases usage and there is no change in the behavior of connected others, the user is not influential.
+
+__Findings: On average, you are influenced by 1/5 of your friends and the other 4/5 don't sway you. And 1/3 of users were not influenced by anyone.__
+
+There are many people whose influence factor is close to 0, but there is a smaller number of people whose influence is so big.
+
+#### Factors
+- Longer member statistically more influential.
+- Ethnicity/country
+- Girls were influential over guys, not the converse.
+- If you're indicating that you're looking to date other people, that significantly decreases your influence.
+
+#### Implications
+- __Simple metrics:__ Friend counts and profiel views are inadequate proxies for influence.
+- __Retention:__ If top losers defect, there is a disproportionate negative effect on the network.
+- __Advantage:__ Most of the payoff from the model comes from superior identification of the "best" cx.
+
+Physician to physician medical research findings: We see who is connected to whom, and by how much. A drug company would prefer to know the influential doctors. A self-reported rating of influence is not a very strong indicator.  What's more important to know are people's recognition of who is influential and not.
+
+The firm found that it was helpful to understand the "network structure" as "unexpected leaders" emerged. These were doctors which other doctors referred to in scientific reporting. (Once again doctors with the same ethnicity were influential to each other.)
+
+Bonobos.com: If I see Chris wearing Bonobo jeans, would I buy from bonobos.com?
+
+Social capital ("Bowling Alone"). How connected are people to each other in the neighborhood?
+
+#### The conditions:
+
+- Apparrel has non-digital attributes. It's hard to communicate how it fits and feels over the Internet. (As opposed to buying soap where you knew what you were going to get.)
+
+- Focus on new trials - we want to get cx which haven't bought from the website.
+
+- The product has to be socially visible. It can generate social conversation.
+
+Neighborhoods with more social capital shared better. But actually, some became cx because people in the same neighborhood had used it. At least half were influenced by social learning: cx became cx because someone in their local neighborhood told them about it. And the cx who came later on were the once who were most influenced by social interaction (they rely on the opinions of others).
+
+In neighborhoods where there are more trust and interaction, there's not necessarily more sales. But when info is transmitted, it's more trusted.
+
+It turns out that the number of bars per capita were a good metric to know the efficiency of diffusion of information in the 20-45 male group.
+
+## 9 (Readings) [Crossing the New Chasm: Focusing on Addiction, Not Just Adoption](http://allthingsd.com/20130418/crossing-the-new-chasm-focusing-on-addiction-not-just-adoption/)
+
+"It is easier than ever to start a company, but harder than ever to make it durable."
+
+To build companies that last, entrepreneurs must deliver a product in a way that translates into “addictive” retention. Early adoption is not enough. Any successful product needs habit-forming attributes that compel customers to return hourly, daily, weekly or monthly.
+
+#### Building Blocks for Engagement
+
+- __A founder who is obsessed with customer experience.__ A successful startup needs a founder who wants to over-deliver on UX, no matter what. It needs a founder who is focused on consumer delight and product quality, and also cares about the details.
+
+- __A product that is highly habit-forming.__ Companies that build products that are engaging from the start and draw repeat visitors help to create a consumer mind-set that leads to habitual use. Making a business engaging means drawing users in. Tap into consumer desires and celebrate the aspirational aspect of a site. 
+
+- __A focus on network effects or brands.__ Businesses that build a brand that stands for something specific or that have network effects tend to become much more durable. Skype, Lending Club and Airbnb are great examples of network-effect businesses; more demand brings supply, and more supply brings demand.
+
+- __Gamification and engagement mechanics.__ Ensuring traction for your site means getting consumers addicted in such a way that they return again and again.
+
+## 9 (Readings) [The Neighborhood Effect](http://chronicle.com/article/the-neighborhood-effect/135492/)
+
+"Families that moved to safer and better-off areas "improved their health in ways that were quite profound. They showed less depression and very large increases in happiness." - Lawrence F. Katz. yet the program failed to improve other key measures, like the earnings and employment rate of adults and the educational achievement of children.
+
+Among his many findings, Sampson shows that exposure to severely disadvantaged areas hampers children's verbal skills, an effect that persists even if they move to better-off places. That handicap is "roughly equivalent to missing a year of schooling."
+
+Sharkey, an associate professor of sociology at New York University, writes that "over 70 percent of African-Americans who live in today's poorest, most racially segregated neighborhoods are from the same families that lived in the ghettos of the 1970s."
+
+The Truly Disadvantaged told a different tale. It explained the rise of "a new type of urban poverty," as Sharkey calls it. Wilson described how the erosion of manufacturing drove up joblessness. Cities transformed from "centers of goods processing to centers of information processing." Their growth industries required workers with more education. And the jobs that required less learning were sprouting up in suburbs and exurbs, according to one study cited by Wilson, "far removed from growing concentrations of poorly educated urban minorities."
+
+Wilson also stressed a social shift: the desertion of inner-city neighborhoods by working- and middle-class black families. Their exodus weakened a "social buffer" that could "deflect the full impact" of economic hardship, he argued. It eroded local institutions like churches, schools, and stores. And it removed "mainstream role models" who could reinforce the value of education, work, and family.
+
+The result "was a concentration of poverty in the urban ghetto that was associated with an array of social problems, including violence, homelessness, joblessness, rising rates of families headed by single women, and welfare receipt," as Sharkey summarizes it in his book. "Whereas the ghetto of the 1940s was a place where all classes of African-American families were forced to live, the ghetto of the 1980s was a place where the most impoverished African-Americans had been abandoned."
+
+To understand human development, you have to understand the contexts that affect it. Sampson argues that neighborhood environments—not just the characteristics of people living in them—influence phenomena like crime, health, and learning. "In fact, the world is very clumpy," he says. "And it's very unequal."
+
+One concept key to Sampson's thinking is "collective efficacy," a measure of how much people trust their neighbors and are willing to help them. "It turns out that in some neighborhoods, people believe it's kind of a no man's land," Sampson says. "They don't trust their neighbors at all."
+
+"That finding challenged nearly three decades of conventional wisdom that tied poverty and physical disorder to heightened crime," writes Venkatesh, an expert on gang life. "No longer could we simply clean up the streets to get rid of the criminal element. We needed to promote, well, neighborliness."
+
+Sampson also contradicts the stereotype that a concentration of immigrants drives up crime. In reality, immigrants appear to be "less violent than people born in America, particularly when they live in neighborhoods with high numbers of other immigrants," he has written. Immigrants born outside the United States were 45 percent less likely to commit violence than third-generation Americans, while second-generation immigrants were 22 percent less likely.
+
+
+
+
+
+
+
+
 ## Quidsi Case Study
 
 Quidsi: Founded 2005, "House of Brands", warehousing with robots, 1.2M sqm floor size, acquired 2011 $545M by Amazon. Good story of execution. Quidsi is the parent facing company, and each site (diapers.com, soap.com) is a different brand but are connected by a shopping cart, all of these target the same cx: the convenience-seeking mom.
@@ -403,32 +627,5 @@ We aspire to develop products outside, but we want to stay focused on to the rig
 - There are people who value every different thing. So at some point, you have to concentrate on different cx.
 
 Since diapers.com was first in a new space, they were able to be product-focused. Though, you still need to know when to pivot from the product-centered to cx-centered. As you move into a mature market, you focus on competition and branding. In 2013, it's hard to be a jerk because people are able to see if you do bad things. Brands now are about narratives, about the people who work there, the values of the company, much more than the logo.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
