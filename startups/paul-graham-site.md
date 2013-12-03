@@ -1,5 +1,5 @@
 ## How to Start a Startup?
-------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 ##### Start with good people, make something customers actually want, and spend as little money as possible.
 
 #### Idea
@@ -45,7 +45,7 @@ Start by writing software for smaller companies, because it’s easier to sell t
 In technology, it is easier to make an inexpensive product more powerful than to make a powerful product cheaper.
 
 ## You Weren't Meant to Have a Boss
-------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 A normal may be as bad for us intellectually as white flour or sugar is for us physically.
 
@@ -55,9 +55,34 @@ Corn syrup. There is a lack of individual initiative in a large organization.
 
 It's especially hard for programmers, because the essence of programming is to build new things. This is the inevitable consequence of bigness. F legacy code. You will learn more in a startup.
 
+## What Startups Are Really Like
+--------------------------------------------------
+1. __Be Cafeful with Cofounders.__ What people wished they'd paid more attention to when choosing cofounders was character and commitment, not ability. This was particularly true with startups that failed. The lesson: don't pick cofounders who will flake.
+
+2. __Startups Take Over Your Life.__ Running a startup is not like having a job or being a student, because it never stops. This is so foreign to most people's experience that they don't get it till it happens.
+
+3. __It's an Emotional Roller-coaster.__ "The emotional ups and downs were the biggest surprise for me. One day, we'd think of ourselves as the next Google and dream of buying islands; the next, we'd be pondering how to let our loved ones know of our utter failure; and on and on."
+
+4. __It Can Be Fun.__ I'm surprised by how much better it feels to be working on something that is challenging and creative, something I believe in, as opposed to the hired-gun stuff I was doing before. I knew it would feel better; what's surprising is how much better.
+
+5. __Persistence Is the Key.__ "Everyone said how determined and resilient you must be, but going through it made me realize that the determination required was still understated." "I've been surprised again and again by just how much more important persistence is than raw intelligence."
+
+6. __Think Long-Term.__ "I'm continually surprised by how long everything can take. Assuming your product doesn't experience the explosive growth that very few products do, everything from development to dealmaking (especially dealmaking) seems to take 2-3x longer than I always imagine." There is a positive side to thinking longer-term. It's not just that you have to resign yourself to everything taking longer than it should. If you work patiently it's less stressful, and you can do better work.
+
+7. __Lots of Little Things.__ "It's much more of a grind than glamorous. A timeslice selected at random would more likely find me tracking down a weird DLL loading bug on Swedish Windows, or tracking down a bug in the financial model Excel spreadsheet the night before a board meeting, rather than having brilliant flashes of strategic insight." 
+
+	Most hacker-founders would like to spend all their time programming. You won't get to, unless you fail. Which can be transformed into: If you spend all your time programming, you will fail.
+
+	"I learnt never to bet on any one feature or deal or anything to bring you success. It is never a single thing. Everything is just incremental and you just have to keep doing lots of those things until you strike something."
+
+8. __Start with Something Minimal.__ Build the absolute smallest thing that can be considered a complete application and ship it.
+
+9. __Engage Users.__ "I learned to think about the initial stages of a startup as a giant experiment. All products should be considered experiments, and those that have a market show promising results extremely quickly."
+
+(not yet finished)
 
 #### Raising Money
-------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 To be self-funding, you have to start as a consulting company, and it’s hard to switch from that to a product company.
 
 __Seed money__ is used to pay for your living expenses while creating a prototype. You get these from angels. They know that this has to be decided on quickly. You sometimes don’t even need a business plan.
@@ -93,7 +118,7 @@ Lessons: Don’t have a lot of meetings, don’y have chunks of code that multip
 __Understand that for the next 4 years, you’ll do nothing but work. If you aren’t working, your competitors will be.__
 
 ## How to Raise Money
-------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 Most startups that raise money do it more than once. Usually, you start with a few tends of thousands from something like Y Combinator, then raise a few hundred thousand to a few million to build the company, and then raise another round to accelerate growth.
 
 It’s hard to convince people to part with large sums of money.
@@ -113,7 +138,7 @@ Don’t  get investors who say “I want to invest in you but I don’t lead” 
 Pick just one guy to handle fundraising.
  
 ## How to Convince Investors
-
+--------------------------------------------------
 In startups, as in a lot of other domains, the distribution of outcomes follows a power law, but in startups the curve is startlingly steep.
 You need three things: formidable founders, a promising market, and (usually) some evidence of success so far.
 
@@ -160,7 +185,7 @@ Because the best investors are much smarter than the rest, and the best startup 
 And when you convince them, use the same matter-of-fact language you used to convince yourself. You wouldn't use vague, grandiose marketing-speak among yourselves. Don't use it with investors either.
 
 ## Fundraising
-------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 Biggest cause of death for a startup: Dying because they didn't make what people want. Second: difficulty of raising money.
 
 ####Why is it hard to sell/raise?
@@ -181,9 +206,7 @@ Biggest cause of death for a startup: Dying because they didn't make what people
 - _Know where you stand._ Investors are indecisive. They tend to resist committing except to the extent you push them to. It's in their interest to collect the maximum amount of info while making the minimum amount of decisions.
 
 ## Nerds
-------------------------------------------------------------------------------------------------------------------------
-
-
+--------------------------------------------------
 Being smart doesn’t make you an outcast in elementary school, not in the real world. But why does it make you an outcast in middle/high school?
 
 All things equal, kids preferred being smarter than average, but it counted far less than physical appearance, charisma, or athletic ability. I think this is because the smart ones didn’t even want to be popular. I wanted to be popular, but not as how much I wanted to be smart. 

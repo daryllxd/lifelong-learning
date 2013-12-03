@@ -94,15 +94,42 @@ Financial crisis, they put the chart on the needed figures to get to ramen profi
 
 Find the few users they loved you, not the 1K that sort of like you. We did this by manually meeting the users and manually improving their profiles.
 
+# [Joe Gebbia: The Airbnb Story](http://vimeo.com/23275754)
+
+We (Bryan and Joe) have something in common: we wanted to be entrepreneurs.
+
+When we couldn't afford our rental for that month, but there was a design conference that was so big that all the hotels were full. So what if, if we can blow up an air mattress, blow it up, and rent them to designers for this conference. By the end of the night, Air Bread and Breakfast.
+
+How do we get people to know about it. No Craigslist, we want to know who was staying over. 24 hours later, it was real!
+
+Next version: South by Southwest in Austin. 2 weeks to do it. Well we discovered: It was awkward to exchange money. Better to just do credit cards!
+
+Next, online transactions. But how to market? They timed it on the Democratic National Convention. Good press, good spike, but nothing after.
+
+They then created the Obama O's and Capn McCains. They sold 500 of each, at $40 each, and that funded the startup. Then they applied to Y Combinator and for the next three months, planned on how to get ramen profitability.
+
+Then we met our users individually. Now you can book a lot of stuff: Treehouses, castles, boats, cars, co-working spaces, art galleries, tents.
+
+
+
+
+
+
 # Jack Dorsey at Startup School 2013
 
-The Art Spirit: Robert Henri. Art is simply a question of doing anything well. When the artist is alive in any kind of person, he becomes a self-expression people. He disturbs, upsets, enlightens, and opens up ways to better understanding. 
+The Art Spirit: Robert Henri. Art is simply a question of doing anything well. When the artist is alive in any kind of person, he becomes a self-expression people. He disturbs, upsets, enlightens, and opens up ways to better understanding.
+
+
+
+
 
 # Ashton Kutcher at Startup School 2011
 
 I quit the one thing that was sure-fire and became a model, and got bored really fast, and now I'm back at technology again. I started getting interested solving problems: my own problems, and other people's problems. I think that's the single biggest thing I look for in ents, they genuinely want to solve problems, first their own, and then others.
 
 Carl Fisher, as a kid can't see very well. He quit school as a kid. Bike store -> car shop -> headlights -> car racing -> Miami Beach -> Montauk -> stock market crash, loses everything. It wasn't about the money, but it was about uncovering and disrupting markets boldly to leave everything behind for everyone to use.
+
+
 
 
 

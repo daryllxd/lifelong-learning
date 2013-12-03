@@ -4,6 +4,8 @@ People have a lot of prejudices. As soon as they saw me approaching their car, t
 
 London: Working menial jobs. New York: Ad Agency.
 
+I foun
+
 
 
 ### [Elon Musk: Mahalo Mentor Interview](http://www.youtube.com/watch?v=IgKWPdJWuBQ)
@@ -27,8 +29,6 @@ The world is entirely solar powered already, we just need to tap some of that en
 The goal of SpaceX is to advance Rocket Technology, we want a rapid and reusable rocket. It's sort of a standpoint of "what needs to happen if you want the future to be exciting"? I think that future is more exciting that just staying here. A space shuttle costed 1 billion dollars per flight. It's important that the rocket should return to the launch site, reusable in a few hours. The cost of the fuel is very small. All forms of transportation are reusable already, except rockets.
 
 Elon: I work a lot. Chris: He is able to bring technology, design and business in a way that few people done, and you're confident enough to bet on this thing. Elon: I think a good framework for thinking is physics. Boil things down to the fundamental truths, not by reasoning through analogy. We need this, but when you need something new, we need to apply the physics approach. Physics has a way of describing things that are counter-intuitive. I also think it's about listening to negative feedback.
-
-
 
 ### [Andrew Stanton: The clues to a great story](http://www.youtube.com/watch?v=KxDwieKpawg)
 
