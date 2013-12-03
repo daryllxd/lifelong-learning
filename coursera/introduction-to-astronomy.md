@@ -39,6 +39,29 @@ We rotate from west to east, so it seems that the stars rotate from east to west
 
 Celestial sphere: We have to find coordinates for where exactly everything is in the sky.
 
+#### Earth coordinates
+- Latitude is the angular distance from the equator.
+- Longitude angular distance from the prime meridian.
+- You can see only a part of the sky (half only).
+
+#### Summary
+- Celestial longitude reference point: Celestial ascension.
+- Celestial latitude reference point: Celestial equator. We measure in "declination."
+- We don't measure in degrees, we measure in hours to the east.
+
+## 1.3: The Local View
+
+From your point of view, your "altitude" parameterizes the latitude. This is the angle over the horizon.
+
+The Zenith Angle is just 90 deg - altitude.
+
+The Azimuth is the angle from North. "Longitude."
+
+Point of reference: the Zenith, or "what is directly overhead." Or 90 AH, 0 ZA.
+
+Horizon: 0 AH, 90 ZA.
+
+Local meridian: Where stars are neither east nor west. So Azimuth 0 or 180.
 
 
 
