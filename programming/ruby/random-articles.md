@@ -88,7 +88,10 @@ Latency: Tools.pingdom.com
 3. Gzip the shits. (use `Rack::Deflater`)
 4. CSS: Avoid @import, avoid complex child selectors that affect performance.
 5. Reduce DNS lookup, reduce the number of unique hostnames that they cx need to find.
-
+6. Minify JS: Asset Manager, Node.js, RoR Sprockets, JS Compressor
+7. Minify CSS: CSS compressor, YUI compressor, CSS condense
+8. Avoid redirects/duplicate scripts.
+9. Use ETag (some kind of cache thingie.)
 
 
 

@@ -14,4 +14,8 @@ Nested rules can have media queries in it.
 	  }
 	}
 
+## [Background Bleed](http://tumble.sneak.co.nz/post/928998513/fixing-the-background-bleed)
 
+Issue in Safari wehre the background color of an element `bleeds` through the corner when applying both borders and a border-radius. To fix, use 
+
+	-webkit-background-clip: padding-box;
