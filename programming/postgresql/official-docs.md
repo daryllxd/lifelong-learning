@@ -197,6 +197,24 @@ New data type: `point`. It requires coordinates.
 
 There are different kinds of privileges: SELECT, INSERT, UPDATE, DELETE, TRUNCATE, REFERENCES, TRIGGER, CREATE, CONNECT, TEMPORARY, EXECUTE, and USAGE.
 
+---
+## 19: Client Authentication
+
+Client authentication is controlled by a configuration file, `pg_hba.conf` and is stored in the database cluster’s data directory. A default is installed when the data directory is initialized by `initdb`. 
+
+Formats
+
+	local database user auth-method [auth-options]
+	host database user address auth-method [auth-options]
+	hostssl database user address auth-method [auth-options]
+	hostnossl database user address auth-method [auth-options]
+	host database user IP-address IP-mask auth-method [auth-options]
+	hostssl database user IP-address IP-mask auth-method [auth-options]
+	hostnossl database user IP-address IP-mask auth-method [auth-options]
+
+	host: Connections made via TCP/IP.
+	hostssl: Match only those made over TCP/IP and are under SSL.
+	auth method: Either trust (unconditional connect), reject, md5, password...
 
 ---
 ## 20: Database Roles
@@ -216,10 +234,35 @@ Superuser: The OS system user that initialized the db cluster (in my case, daryl
 
 #### Role Attributes
 
-1. `login privilege`: Only roles that have the LOGIN attribute can be used as the initial role name for a database connection.
+1. Login privilege: Only roles that have the LOGIN attribute can be used as the initial role name for a database connection.
+
+2. Superuser status: A superuser bypasses all permission checks except the right to log in.
+
+3. Database creation: Must be explicitly given permission to create db: `CREATE ROLE name CREATEDB`.
+
+4. Initiate streamling replication: `CREATE ROLE name REPLICATION LOGIN.
+
+5. Password: `CREATE ROLE name PASSWORD 'string'`.
+
+**CREATE ROLE icpa CREATEDB REPLICATION LOGIN PASSWORD 'icpa'.**
+
+Can alter roles: `ALTER role myname SET enable_indexscan TO off;`. (Not set immediately doe.)
+
+#### Role Membership
+
+Group role: `CREATE ROLE name;`
+
+`GRANT group_role TO role`; REVOKE group_role FROM role1;`
 
 
 
+
+---
+## 23: Backup and Restore
+
+Dumping via SQL: `$ pg_dump dbname > outfile`. `pgdump` is a regular PG client application. Can add `-h` host or `-p` port switch.
+
+[From Heroku](http://stackoverflow.com/questions/10852631/how-to-import-a-heroku-pg-dump-into-local-machine): `pg_restore -O -d app_development latest.dump`. This is because psql tries to interpret SQL queries when you're actually giving him a compressed dump.
 
 
 

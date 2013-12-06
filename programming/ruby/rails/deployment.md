@@ -15,3 +15,5 @@ Puma: forked from Mongrel, but it is designed to be purely multi-threaded.
 Phusion Passenger: Integrated directly into Apache/Nginx.
 
 Capistrano: Automates the: uploading of Ruby code, installing libraries, setting up the app’s databse, starting and stopping daemons.
+ 
+Redis/Memcache: Memcache/Redis = Key-value stores. Memcache in memory, redis is memory + HDD. It can store differnet types.
