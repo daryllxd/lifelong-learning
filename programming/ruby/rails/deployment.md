@@ -1,3 +1,13 @@
+## [A Comparison of (Rack) Web Servers for Ruby Web Applications](https://www.digitalocean.com/community/articles/a-comparison-of-rack-web-servers-for-ruby-web-applications)
+
+Phusion Passenger: Fast web server & app server: Directly integrated with Apache/NGINX. Referred to as `mod_rails` or `mod_rack`.
+
+Passenger can work with multiple applications hosted on the same server. It is capable of handling slow clients. It is highly popular and used widely in many [production] scenarios.
+
+Puma: Modern, concurrent web server for Ruby. Small footprint.
+
+## Reddit
+
 Apache vs Nginx: Web servers. They serve static files but they can serve dynamic web apps. Apache has more features, Ngins is smaller and faster.
 
 Apache/Nginx can server Ruby web apps out-of-the-box. You need to use Apache/Nginx in combination with some kind of add-on.
