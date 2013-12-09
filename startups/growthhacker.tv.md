@@ -20,7 +20,7 @@ So you wind up with a free trial, and you have to invest by sharing others. The 
 
 Lock-in factor: When someone is locked in, the two days is just far enough, but they won’t get far into the course.
 
-“Man I really need to finish this.” The 2 days is a decent enough to attempt to get, but short enough that you need to put a credit card in.
+“Man I really need to finish this.” The 2 days is a decent enough to attempt to get far, but short enough that you need to put a credit card in.
 
 Reward is frictionless. “Hey it’s going to go away.” The share is just a button on the email.
 

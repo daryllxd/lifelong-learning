@@ -581,6 +581,83 @@ One concept key to Sampson's thinking is "collective efficacy," a measure of how
 
 Sampson also contradicts the stereotype that a concentration of immigrants drives up crime. In reality, immigrants appear to be "less violent than people born in America, particularly when they live in neighborhoods with high numbers of other immigrants," he has written. Immigrants born outside the United States were 45 percent less likely to commit violence than third-generation Americans, while second-generation immigrants were 22 percent less likely.
 
+## 9: Pricing Strategies 1: Introduction
+
+Over 2,000 companies surveyed. If they improve by 1%... then gain 2.3% on fixed costs, 3.3% on volumen, 7.8% on variable costs, and __11.1% on price__.
+
+Pricing Puzzles
+
+- Trader Joes: They sell dumplings for $3.99 and we have know idea if this is a good deal or not. What they do is they price water at very low prices so this gives them a lower price as a comparison measure.
+- Walmart: Why does W sell Tide at $4.73: They send the message that they squeeze out every cent to decrease the value for the consumer.
+- Catalog: More shoes were sold at $49 than at $44. $44 is "a weird price, that is 10% more than 40" and $49 is "a price that is discounted."
+
+
+#### Price Factors
+
+- Floor
+- Ceiling
+- Competition: Drops the ceiling.
+- The amount that prices have to be raised to motivate the sellers.
+
+Cx, company, collaborators
+
+Company Issues
+
+- Financial Considerations (target margin or internal rate of return).
+- Consistency in the product line (price of the Camry is not just influenced by the Accord or Taurus, but also by the prices of the Corolla and Avalon).
+- Consistency in Image: Walmart can't sell expensive stuff.
+
+Competitor Issues
+
+- How will your competitor respond to your price? Will they be rational about selling?
+- Willingness to respond on price? What's the cost to the competitor?
+- Competitor position: Market leaders are more likely to initiate: followers are more likely to imitate.
+
+Cx Issues?
+
+- __Price sensitivity/Price elasticity.__ What drives this?
+- Psychological Issues. 
+
+## 10.2
+
+#### Price Sensitivity Affected By:
+- Ease of Comparison: Private label products are places in a separate section because when beside the branded products there is an easier comparsion and higher price sensitivity.
+- Expenditure: $500-$600 vs. $20500 vs. $20600.
+- Shared Expenses. I'm less price sensitive if I know an institution is paying for me. It's also easier for me to be less price sensitive if there is a distance in terms of time. No pain of payment.
+- Price/Quality Inferences. "Higher price means better!"
+
+#### Measuring Price Sensitivity
+
+Actual, or experimental. Controlled environment.
+
+When prices were raised, demand went down a bit, but profits actually went up. :) Nobody studies every price (but this was done in the 1990s, not sure if this works today with the smartphones.)
+
+Trade-off analysis: Present people with different types of stimuli. The kids that found Warby Parker figured out the cx willingness to pay ceiling. They were able to get the correct pricing by graphing shit.
+
+To ask people, ask them indirectly. "On a scale from 1-7, how likely would you be likely to buy this product if it was priced at $95?"
+
+Regression and statistical analysis.
+
+Psychological Factors: 9 endings ($.99) to make it look cheapo.
+
+## 10.3: Pricing Strategies 3: Psychological Factors
+
+Mr. A won lotteries for $50 and $25. Mr. B won for $75. People think that Mr. A is happier, because when you have good news, it's better for it to be spread around. Better to give 3 boxes than 1 big box when giving out stuff for Xmas.
+
+Integrate all bad news together.
+
+Silver lining principle: Better to sell at $22K with a $2K rebate rather than sell at $20K.
+
+Prospect theory: People have an internal reference point when they expect certain things in price. People respond differently to deviations from the reference point, either positive or negative. Lastly: Diminishing returns.
+
+You have reference points in your mind of how much things should be charged. You also have this thingie called loss aversion.
+
+## 10.5: Distribution Strategies 2: Channel Design
+
+How many outlets to have in a given market? An exclusive distribution channel has just one individual whose bringing the product to market. For intensive, there are a lot of individuals distributing.
+
+
+
 
 
 
@@ -627,5 +704,38 @@ We aspire to develop products outside, but we want to stay focused on to the rig
 - There are people who value every different thing. So at some point, you have to concentrate on different cx.
 
 Since diapers.com was first in a new space, they were able to be product-focused. Though, you still need to know when to pivot from the product-centered to cx-centered. As you move into a mature market, you focus on competition and branding. In 2013, it's hard to be a jerk because people are able to see if you do bad things. Brands now are about narratives, about the people who work there, the values of the company, much more than the logo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
