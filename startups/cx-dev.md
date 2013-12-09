@@ -59,7 +59,7 @@ Even if the cx thinks they spend too much time grocery shopping, if they havenâ€
 
 #### Ben Yoskovitz
 
-
+- Don't ask universal truisms such as "would you like to make more money" or "is hiring people hard". Frame it to "do you have a hard time recruiting great talent."
 
 
 

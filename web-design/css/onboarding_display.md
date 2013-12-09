@@ -10,7 +10,7 @@
 
 __Inline:__ It's inline, it accepts margin and padding, __but it will only push other elements horizontally away__. It doesn't accept `height` and `width` (ignore foo). Ex: `span`, `a`.
 
-__Inline-block:__ Similar to inline, but you can set a `width` and `height`, which will be respected.
+__Inline-block:__ Similar to inline, but you can set a `width` and `height`, which will be respected. These are affected by `vertical-align`. You also need to set the width of each column.
 
 __Block:__ Block level elements do not sit inline but break past them. They take as much horizonal space as they can. Ex: `p`, `form`, `header`, `footer`, `section`.
 
@@ -27,3 +27,50 @@ An element that has the `clear` property set on it will not move up adjacent to 
 One of the more bewildering things about working with floats is how they can affect the element that contains them (their "parent" element). __If this parent element contained nothing but floated elements, the height of it would literally collapse to nothing.__
 
 Collapsing almost always needs to be dealt with to prevent strange layout and cross-browser problems. We fix it by clearing the float after the floated elements in the container but before the close of the container.
+
+## [column](http://learnlayout.com/column.html)
+
+	.three-column {
+	  padding: 1em;
+	  -moz-column-count: 3;
+	  -moz-column-gap: 1em;
+	  -webkit-column-count: 3;
+	  -webkit-column-gap: 1em;
+	  column-count: 3;
+	  column-gap: 1em;
+	}
+
+Very new, won't work with IE9 or in Opera Mini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -65,7 +65,7 @@ Ignoring files: Check out the `.gitignore` file.
 	$ git diff --cached or git diff --staged # See "staged but not yet committed"
 	$ git commit # Tries to push the commit using the default compiler
 	$ git commit -m # You specify the change inline.
-	$ git commit -am "Hello" # Everything inside the directory that was changed will be added and committed.
+	$ git commit -am "Hello" # Everything inside the directory that was changed will be added and committed. Doesn't work for new files.
 	$ git rm *.txt # This is removing the file from the working directory.
 
 Although Git doesn't track file movement, Git figures things out when you rename or move files.
