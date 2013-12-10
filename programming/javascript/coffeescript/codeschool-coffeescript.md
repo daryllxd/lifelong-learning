@@ -19,13 +19,13 @@ Declaring Function in Coffee
 
 Always has a return value.
 
-Return a String
+#### Return a String
 
     Coffee = ->
       answer = confirm “ready for some coffee”
       “your answer is #{answer}” # Ruby-style string interpolation
 
-Calling functions
+#### Calling functions
 
     coffee = ->
     coffee = (message) ->
