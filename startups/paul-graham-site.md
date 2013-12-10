@@ -18,7 +18,7 @@ You need to get people who take their work a little too seriously.
 * __Hacker:__ Will not sleep until bug is dead.
 * __Graphics:__ Will feel physical pain if something is 2 mm out of place.
 
-*Programmers: were they genuinely smart, could they actually get things done, and could we stand their personalities? Remember that people who are smart do not need to act that they are smart.
+Programmers: were they genuinely smart, could they actually get things done, and could we stand their personalities? Remember that people who are smart do not need to act that they are smart.
 
 Startups start around universities because that’s where smart people meet. What you should do in college is to work on your own projects. That’s the only way to learn how to program.
 
@@ -54,6 +54,24 @@ Dunbar number thing. Bosses are there.
 Corn syrup. There is a lack of individual initiative in a large organization.
 
 It's especially hard for programmers, because the essence of programming is to build new things. This is the inevitable consequence of bigness. F legacy code. You will learn more in a startup.
+
+## The Word "Hacker"
+--------------------------------------------------
+
+To programmers, "hacker" connotes mastery in the literal sense: someone who can make a computer do what he wants, whether the computer wants it or not.
+
+Disobedience is a byproduct of qualities that make them good programmers.
+
+Hackers see aggressive measures to protect IP as a threat to the intellectual freedom they need to do their job, and they are right. It is by poking about inside current techology that hackers get ideas for the next generation.
+
+Hackers are unruly. Silicon Balley is in America, because in the other countries, people color inside the lines.
+
+Hackers are smart-alecks. It's odd that people think of programming as precise and methodical. Computers are precise and methodical. Hacking is something you do with a gleeful laugh.
+
+To hackers, the recent contraction in civil liberties seems especially ominous. That must also mystify outsiders. Why should we care especially about civil liberties? Why programmers, more than dentists or salesmen or landscapers?
+
+I think a society in which people can do and say what they want will also tend to be one in which the most efficient solutions win, rather than those sponsored by the most influential people. Authoritarian countries become corrupt; corrupt countries become poor; and poor countries are weak. This is why hackers worry. The government spying on people doesn't literally make programmers write worse code. It just leads eventually to a world in which bad ideas win. 
+
 
 ## What Startups Are Really Like
 --------------------------------------------------

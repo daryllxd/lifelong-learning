@@ -652,18 +652,128 @@ Prospect theory: People have an internal reference point when they expect certai
 
 You have reference points in your mind of how much things should be charged. You also have this thingie called loss aversion.
 
+## 10.4: Distribution Strategies 1: Introduction
+
+How do channels of distribution develop what they do? (Who is doing what?)
+
+Place is called the "Final Frontier" because it could be a source of sustainable competitive advantage. It can also provide increasing R2S. If you are everywhere, then you have a higher chance to win. (But it is also expensive.)
+
+Any time a hard good gets converted to soft (as in software, hehehe) good creates a distribution advantage.
+
+Direct vs. Indirect: A distributor (indirect) would decrease the number of transactions vs. direct channels.
+
+#### Advantage of direct
+- Higher barriers to entry
+- Quality of direct market feedback, you own it
+- Bundling with high-margin products/services
+
+Ex of disruptions: Apps, Dell (make your own PC).
+
+You want to construct a system of distribution that is optimized to reach whoever you want to reach.
+
 ## 10.5: Distribution Strategies 2: Channel Design
 
-How many outlets to have in a given market? An exclusive distribution channel has just one individual whose bringing the product to market. For intensive, there are a lot of individuals distributing.
+How many outlets to have in a given market?
 
+- Exclusive: One individual distributing. Good if we want to have the strongest support. The cx's cost of obtaining the offering is not considered vital.
+- Selective: Middle part.
+- Intensive: Many individuals distributing. Good if we don't need selling support.
 
+	Intro -> Growth -> Marketing -> Decline
+	Home Video Specialist -> Circuit City -> Walmart -> Ebay
+	Information -> Better logistics -> When they are familiar, we need the product to be available readily
 
+Hybrid grid: A complex product means that many things need to be done to spread the product or service. And activities, once you decide what needs to be done, cannot be eliminated.
 
+- Forwards integration: IKEA removed delivery.
+- Backwards integration: Apple now sells its stuff via the store.
+- Sideways shift: Amazon uses FedEx for delivery.
 
+Channel margin = Compensation for performing function. How do we keep the channel coordinated?
 
+#### Conflict
 
+Manufacturers want everything to be taken, while distributors want to sell only the good products.
 
+#### Vertical conflicts are conflicts between the manufacturers and retailers. 
 
+- Ex: Nike came into trouble with Foot Locker, as FL didn't want to sell every SKU that Nike had.
+- What happened is that Nike created flagship stores to eliminate conflict.
+- Modify relationship from manufacturer-retailer to franchises, increase power.
+- Monitor downstream partners and have some mystery shoppers to know what's going on, anyway.
+
+#### Horizontal conflicts are conflicts between the different retailers.
+
+- There is always a potential for free-riding. Low-service, low-price retailers hurt high-service, high-price retailers.
+- Consumers can go to a high-service store, get educated, and they buy from the low-service store. I get the high service and buy from the low price.
+- To fix: Establish boundaries between channels, or set an appropriate level of distribution intensity.
+
+## 10.6: Horizontal Conflict
+
+59% of people have used their device to find a better price while shopping in-store, and most of them buy from an online competitor.
+
+This is why you need to touch cx on the virtual as well as the physical world.
+
+1/3 of the online-buyers really wanted to buy online, but about 60% would have bought a product in the store, but ended up buying online.
+
+Buy-online-pickup-in-store: Retailers offered that we can do "buy the thing online, then just go to the store". But what happened was that sales at the website went down, but sales at the store went up. (This was for home products, so what the cx did was they checked the product online, and then went to the store later.) What happend was ROPO (research online, purchase offline).
+
+Cx want to check price online but see the product.
+
+#### More strategies for managing horizontal conflict
+- Establish boundaries between channels: Demarcate by cx, product classification, segmentation.
+- Decrease distribution intensity so retailers are monopolies.
+- Introduce multiple brands, different brands for different channels.
+
+#### Determinants of Conflict
+- Length of the Channel: How many intermediaries between us and the cx? Every time you add someone, you add a markup and a layer or margin.
+- Autonomy: How much are owned, franchised, or are independent?
+- Density: Single, dual, or multiple? When there's just one, no conflict. When 2, there is more conflict. Now when we get to a very high number of competitors, there is a lower conflict because "ok, fuck it".
+
+## 10.7: The 7 M's (Targeting and Messaging)
+- Major Media: People still like to watch TV, spending is up on media.
+
+Classic Campaign, consumption of milk was going down. So what they wanted to do is to ask the people to know that they wouldn't want to lose milk when they went home.
+
+#### _Got Milk?_
+- Market: People who CURRENTLY drink milk
+- Message content: Make sure you have enough milk (it complements many other meals)
+- Mission: Increase milk consumption by one glass per week within a year
+- Message design: Deprivation Campaign
+- Media strategy: TV and print
+- Money: ?? The problem with marketing is that you aren't sure if it's effective, and you're not sure what parts are effective.
+- Measurement: 60% aided recall in 3 months, and therewas a 2.67% ($30M) increase in sales.
+
+## 10.8: The Mission and Message (Rational Appeals)
+- What are we trying to influence?
+- The objectives of marketing communication is thinking. How do we change how people think? (Recall "pork the other white meat".)
+- Mission: What are we trying to influence?
+
+Action-Desire-Interest-Awareness
+
+Share of Market-Share of Heart-Share of Mind
+
+#### Rational Appeal
+- Demonstration of the product
+- Do this if the product has features that you really want cx to buy
+- There's this thing that a spokesperson, personality would want. Danica Patrick, Martina Hingis, Michael Phelps.
+- Charlie Brown as spokesperson for financial companies.
+- Testimonials: Effective when a cx is going to be using this for a long time, and they aren't sure if they'd like it.
+- Direct comparisons (US-context).
+- Comparison (and Framing): BK frames "frame-broiled over fried" because frame-broiled sounds better. McDonalds frames "cooked on a hot stainles steel grill over cooked by passing raw meat through and open flame" because the former seems better.
+
+## 10.9: The Mission and Message (Emotional Appeals)
+- Fear is used by financial services, public interests, high-tech organizations. There is an "inverted-U" shape of effectiveness, a too fearful message actually sucks. It's very effective, doe.
+- Positive emotions: "What a great job it is to be a mother, thank you mom."
+- Subliminal advertising: No research on whether this is true or not.
+- Gavin Fitzsimmons: Showing Apple logo = makes people more creative? Hihihi.
+
+#### Method to Determine Marketing Budget
+- Percentage of sales? Scales horribly.
+- Match (or better competition)
+- Parfitt-Collins Model: "If I need 6% to break even, how many people have to figure out that my product must exist?" Percentage percentage thingies.
+
+Figure out the goal you want to achieve, and work backwards :)
 
 ## Quidsi Case Study
 
@@ -704,38 +814,3 @@ We aspire to develop products outside, but we want to stay focused on to the rig
 - There are people who value every different thing. So at some point, you have to concentrate on different cx.
 
 Since diapers.com was first in a new space, they were able to be product-focused. Though, you still need to know when to pivot from the product-centered to cx-centered. As you move into a mature market, you focus on competition and branding. In 2013, it's hard to be a jerk because people are able to see if you do bad things. Brands now are about narratives, about the people who work there, the values of the company, much more than the logo.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
