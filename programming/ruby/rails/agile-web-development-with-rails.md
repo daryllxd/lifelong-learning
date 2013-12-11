@@ -42,7 +42,7 @@ Modules: Hold a collection of methods, constants. They act as a namespace and th
 
 	$ rails g scaffold Product title:string description:text image_url:string price:decimal
 	$ rake db:migrate # set up the migration
-	$ rake db:seed 
+	$ rake db:seed
 
 Actions:
 
@@ -54,7 +54,7 @@ Actions:
 
 :method => :delete is actually POST underneath, but Rails just keeps track of it so request is not cached or triggered by web crawlers.
 
-`cycle` to modify the lines per row (Rails helper method). `confirm` for Rails to arrange the browser to pop up a dialog box asking forconfirmation before following the link.
+`cycle` to modify the lines per row (Rails helper method). `confirm` for Rails to arrange the browser to pop up a dialog box asking for confirmation before following the link.
 
 	$ rake db:rollback # call rake db:migrate again to recreate the rollback.
 
@@ -64,7 +64,7 @@ Actions:
 	validates :price, :numericality => {:greater_than_or_equal_to => 0.01} # test 1 cent because that's the lowest amount of money ever, if we put 0 then someone can enter 0.001
 	validates :image_url, :format => { 
 		:with => %r{\.(gif|jpg|png)$}i, 
-		:message => 'must be a URL for GIF, JPG, or PGN image'
+		:message => 'must be a URL for GIF, JPG, or PNG image'
 	}
 
 Tests extend the subclass of ActiveSupport::TestCase.
@@ -183,6 +183,7 @@ Test fixtures: A specification of the initial contents of a model (or models) un
 			return false
 		end
 	end
+
 
 
 
