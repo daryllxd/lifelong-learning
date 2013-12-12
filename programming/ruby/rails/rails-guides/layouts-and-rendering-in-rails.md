@@ -1,4 +1,4 @@
-## Creating Responses
+	## Creating Responses
 
 #### Rendering by Default: Convention over Configuration
 
@@ -122,6 +122,151 @@ Status code:
 	
 	<%= stylesheet_link_tag "http://example.com/main.css" %>
 	<%= stylesheet_link_tag "main_print", media: "print" %>
+
+`image_tag`
+
+	<%= image_tag "header.png" %> # specify extension of the image
+	<%= image_tag "icons/delete.gif" %>
+	<%= image_tag "icons/delete.gif", {height: 45} %>
+	<%= image_tag "home.gif", alt: "Home" %>
+
+`video_tag`
+
+	<%= video_tag "movie.ogg" %> # loaded from public/videos by default
+	<%= video_tag ["trailer.ogg", "movie.ogg"] %> #multiple videos
+
+`audio tag`
+
+	<%= audio_tag "music.mp3" %>
+	<%= audio_tag "music.mp3", autoplay: true, controls: true, autobuffer: true %>
+
+
+## Understanding `yield`
+
+Within the context of a layout, yield identifies a section where content from the view should be inserted. The simplest way to use this is to have a single yield, into which the entire contents of the view currently being rendered is inserted.
+
+To render content into a named yield, use the `content_for` method.
+
+	<html>
+		<head>
+		<%= yield :head %>
+		</head>
+		<body>
+		<%= yield %>
+		</body>
+	</html>
+
+	<% content_for :head do %>
+	  <title>A simple page</title>
+	<% end %>
+
+#### Using Partials
+
+Partial templates - usually just called "partials" - are another device for breaking the rendering process into more manageable chunks.
+
+Partials have an underscore to distinguish them from regular views, even though they are referred to without the underscore.
+
+	<%= render "menu" %> # This will render a file named _menu.html.erb at that point within the view being rendered.
+	<%= render "shared/menu" %> # Other folder
+
+	<%= render partial: "link_area", layout: "graybar" %> # Partials with layouts
+
+You can also pass local variables inside.
+
+new.html.erb
+
+	<h1>New zone</h1>
+	<%= error_messages_for :zone %>
+	<%= render partial: "form", locals: {zone: @zone} %>
+
+edit.html.erb
+
+	<h1>Editing zone</h1>
+	<%= error_messages_for :zone %>
+	<%= render partial: "form", locals: {zone: @zone} %>
+
+_form.html.erb
+
+	<%= form_for(zone) do |f| %>
+	  <p>
+	    <b>Zone name</b><br />
+	    <%= f.text_field :name %>
+	  </p>
+	  <p>
+	    <%= f.submit %>
+	  </p>
+	<% end %>
+
+Each partials also has a local variable with the same name as the partial.
+
+	<%= render partial: "customer", object: @new_customer %>
+	<%= render @customer %> # If the model's instance is the same as the partial.
+
+Rendering Collections: Once you pass a colleciton to a partial via the `:collection` option, the partial will be inserted once for each member in the collection.
+
+index.html.erb
+
+	<h1>Products</h1>
+	<%= render partial: "product", collection: @products %>
+
+_product.html.erb
+
+	<p>Product Name: <%= product.name %></p>
+
+Since singular, then each of the products can access only itself.
+
+If we go with plural
+
+	<h1>Products</h1>
+	<%= render @products %>
+
+Rails determines the name of the partial to use by looking at the model name in the collection. In fact, you can even create a heterogeneous collection and render it this way, and Rails will choose the proper partial for each member of the collection:
+
+index.html.erb
+
+	<h1>Contacts</h1>
+	<%= render [customer1, employee1, customer2, employee2] %>
+
+customers/_customer.html.erb
+
+	<p>Customer: <%= customer.name %></p>
+
+employees/_employee.html.erb
+
+	<p>Employee: <%= employee.name %></p>
+
+Provide alternative content when there is nothing
+
+	<h1>Products</h1>
+	<%= render(@products) || "There are no products available." %>
+
+Local variables
+
+	<%= render partial: "product", collection: @products, as: :item %>
+
+With this change, you can access an instance of the @products collection as the item local variable within the partial.
+
+Arbitrary locals
+
+	<%= render partial: "products", collection: @products, as: :item, locals: {title: "Products Page"} %>
+
+__Rails also makes a counter variable available within a partial called by the collection, named after the member of the collection followed by _counter. @products creates product_counter.__
+
+Spacer template
+
+	<%= render partial: @products, spacer_template: "product_ruler" %>
+
+Collection Partial Layouts
+
+	<%= render partial: "product", collection: @products, layout: "special_layout" %>
+
+
+
+
+
+
+
+
 
 
 
