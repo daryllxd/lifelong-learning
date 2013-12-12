@@ -118,6 +118,11 @@ Status code:
 	<% javascript_include_tag "main", "columns" %>
 	<% javascript_include_tag "main", "photos/columns" %>
 
+`stylesheet_include_tag`
+	
+	<%= stylesheet_link_tag "http://example.com/main.css" %>
+	<%= stylesheet_link_tag "main_print", media: "print" %>
+
 
 
 

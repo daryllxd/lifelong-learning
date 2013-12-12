@@ -1,3 +1,4 @@
+Tha JS Dude
 
 right-click console, "Preserve Log Upon Navigation" to reload shit
 
