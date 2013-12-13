@@ -14,3 +14,38 @@
     task :ask => [:greet] do
       puts "hello wordl"
     end
+
+### 136: Jquery-Ajax-Revised [TODO]
+
+jquery-ujs: Unobstrusive JS, no more inline JS.
+
+Dev tools: Check Resource tab to see if JS is included, Network to see what actually happens.
+
+Create 
+
+### 332: RefineryCMS Basics
+
+It uses Rails and you can create an existing one on it, or not.
+
+	$ brew install imagemagick # IM is dependency
+	$ gem install refinerycms
+	$ refinerycms piano_plus # generate full rails app.
+	$ cd piano_plus
+	$ rails s
+
+- Register a new user to sign them up.
+- Refinery dashboard appears. (You can reorder the menu.)
+- There is a content editing thingie there.
+
+Refinery goodies:
+	
+	routes.rb # mounts Refinery tehre
+	initializers/refinery # customizable stuff, such as for the company name
+	layout.css.sass # styling
+	You can actually edit the content already hehehe.
+	Style design by adding some shit.
+
+In pages, you can add a new "page parts".
+
+	Refinery::Page.first.parts.create! title: "Banner"
+
