@@ -49,3 +49,36 @@ In pages, you can add a new "page parts".
 
 	Refinery::Page.first.parts.create! title: "Banner"
 
+### 357: Adding-SSL [TODO]
+
+How do we set up a secured connection in production?
+
+Pow gives your app a consistent domain name so we don't use `localhost:3000` to launch the app.
+
+Nginx
+
+	$ brew install nginx
+	$ 
+
+
+
+### 373: Zero-downtime-deployment [TODO]
+
+	sleep 10
+	$ cap deploy # restarts the app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
