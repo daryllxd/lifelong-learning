@@ -929,9 +929,288 @@ Suppose, for example, you need to write a piece of software. The pointy-haired b
 
 Why does he think this? Let's take a look inside the brain of the pointy- haired boss. What he's thinking is something like this. Java is a standard. I know it must be, because I read about it in the press all the time. Since it is a standard, I won't get in trouble for using it. And that also means there will always be lots of Java programmers, so if those working for me now quit, as programmers working for me mysteriously always do, I can easily replace them.
 
-Presumably, if you create anew language, it's because you think it's better in some way than what people already had. And in fact, Gosling makes it clear in the first Java white paper that Java was designed to fix some problems with C++. So there you have it: languages are not all equivalent.
+Presumably, if you create a new language, it's because you think it's better in some way than what people already had. And in fact, Gosling makes it clear in the first Java white paper that Java was designed to fix some problems with C++. So there you have it: languages are not all equivalent.
 
 So, who's right? James Gosling, or the pointy-haired boss? Not surprisingly, Gosling is right. Some languages are better, for certain problems, than others. And you know, that raises some interesting questions. Java was designed to be better, for certain problems, than C++. What problems? When is Java better and when is C++? 
+
+The disadvantage of believing that all programming languages are equivalent is that it's not true. But the advantage is that it makes your life a lot simpler. And I think that's the main reason the idea is so widespread. It is a comfortable idea.
+
+If you look at these languages in order, Java, Perl, Python, Ruby, you notice an interesting pattern. At least, you notice this pattern if you are a Lisp hacker. Each one is progressively more like Lisp. Python copies even features that many Lisp hackers consider to be mistakes. And if you'd shown people Ruby in 1975 and described it as a dialect of Lisp with syntax, no one would have argued with you. Programming languages have almost caught up with 1958.
+
+What we mean by a programming language is something we use to tell a computer what to do. McCarthy did eventually intend to develop a programming language in this sense, but the Lisp we actually ended up with was based on something separate that he did as a theoretical exercise—an effort to define a more convenient alternative to the Turing machine.
+
+Another way to show that Lisp was neater than Turing machines was to write a universal Lisp function and show that it is briefer and more comprehensible than the description of a universal Turing machine. 
+
+Another way to show that Lisp was neater than Turing machines was to write a universal Lisp function and show that it is briefer and more comprehensible than the description of a universal Turing machine. This was the Lisp function eval..., which computes the value of a Lisp expression....Writing eval required inventing a notation representing Lisp functions as Lisp data, and such a notation was devised for the purposes of the paper with no thought that it would be used to express Lisp programs in practice.
+
+So the short explanation of why this 1950s language is not obsolete is that it was not technology but math, and math doesn't get stale. The right thing to compare Lisp to is not 1950s hardware but the Quick sort algorithm, which was discovered in 1960 and is still the fastest general-purpose sort.
+
+#### 13.2. What Made Lisp Different
+
+1. Conditionals: Fortran I didn't have them. It had a conditional go to closely based on the underlying machine instruction.
+
+2. A function type. In Lisp, functions are a data type just like integers or strings. They have a literal representation, can be stored in variables, can be passed as arguments, and so on.
+
+3. Recursion. Lisp was the first high- level language to support recursive functions.
+
+4. Dynamic typing. In Lisp, all variables are effectively pointers. Values are what have types, not variables, and assigning values to variables means copying pointers, not what they point to.
+
+5. Garbage- collection.
+
+6. Programs composed of expressions. Lisp programs are trees of expressions, each of which returns a value. This is in contrast to Fortran and most succeeding languages, which distinguish between expressions and statements.
+
+	This distinction was natural in Fortran I because you could not nest statements. So while you needed expressions for math to work, there was no point in making anything else return a value, because there could not be anything waiting for it.
+
+7. A symbol type. Symbols are effectively pointers to strings stored in a hash table. So you can test equality by comparing a pointer, instead of comparing each character.
+￼￼
+8. A notation for code using trees of symbols and constants.
+
+9. The whole language there all the time. There is no real distinction between read- time, compile- time, and runtime. You can compile or run code while reading, read or run code while compiling, and read or compile code at runtime.
+
+	Running code at read- time lets users reprogram Lisp's syntax; running code at compile- time is the basis of macros; compiling at runtime is the basis of Lisp's use as an extension language in programs like Emacs; and reading at runtime enables programs to communicate using s- expressions, an idea recently reinvented as XML. 5
+
+When Lisp first appeared, these ideas were far removed from ordinary programming practice, which was dictated largely by the hardware available in the late 1950s.
+
+Expressing the language in its own data structures turns out to be a very powerful feature. Ideas 8 and 9 together mean that you can write programs that write programs. A Lisp macro can be anything from an abbreviation to a compiler for a new language. 
+
+I mention this mostly as a joke, but it is quite true. If you define a language that has car, cdr, cons, quote, cond, atom, eq, and a notation for functions expressed as lists, then you can build all the rest of Lisp out of it. That is in fact the defining quality of Lisp: it was in order to make this so that McCarthy gave Lisp the shape it has.
+
+#### 13.3. Where Languages Matter
+
+Even if Lisp does represent a kind of limit that mainstream languages are approaching asymptotically, does that mean you should actually use it to write software? 
+
+There are, of course, projects where the choice of programming language doesn't matter much. As a rule, the more demanding the application, the more leverage you get from using a powerful language. But plenty of projects are not demanding at all. 
+
+You can write little glue programs in Lisp too (I use it as a desktop calculator), but the biggest win for languages like Lisp is at the other end of the spectrum, where you need to write sophisticated programs to solve hard problems in the face of fierce competition.
+
+The core of ITA's application is a 200,000-line Common Lisp program that searches many orders of magnitude more possibilities than their competitors, who apparently are still using mainframe- era programming techniques. I have never seen any of ITA's code, but according to one of their top hackers they use a lot of macros, and I am not surprised to hear it.
+
+#### 13.4. Centripetal Forces
+
+I can think of three problems that could arise from using less common languages. Your programs might not work well with programs written in other languages. You might have fewer libraries at your disposal. And you might have trouble hiring programmers.
+
+If you're writing software that has to run on a remote user's machine on top of a buggy, proprietary operating system (I mention no names), there may be advantages to writing your application in the same language as the OS. But if you control the whole system and have the source code of all the parts, as ITA presumably does, you can use whatever languages you want. 
+
+In server-based applications you can get away with using the most advanced technologies, and I think this is the main cause of what Jonathan Erickson calls the "programming language renaissance."
+
+If a company considers it self to be in the software business, and they're writing an application that will be one of their products, then it will probably involve several hackers and take at least six months to write. In a project of that size, powerful languages probably start to outweigh the convenience of pre-existing libraries.
+
+#### 13.5. The Cost of Being Average
+
+One technique you can use, if the language will let you, is something called bottom- up programming. Instead of simply writing your application in the base language, you build on top of the base language a language for writing programs like yours, then write your program in it. The combined code can be much shorter than if you had written your whole program in the base language —indeed, this is how most compression algorithms work. 
+
+Code size is important, because the time it takes to write a program depends mostly on its length. If your program would be three times as long in another language, it will take three times as long to write—and you can't get around this by hiring more people, because beyond a certain size new hires are actually a net lose.
+
+Most of the numbers I've heard for Lisp versus C, for example, have been around 7-10x. My guess is that these multiples aren't even constant. I think they increase when you face harder problems and also when you have smarter programmers. A really good hacker can squeeze more out of better tools.
+
+And you know what? That's the best-case scenario. When you talk about code- size ratios, you're implicitly assuming that you can actually write the program in the weaker language. But in fact there are limits on what programmers can do. If you're trying to solve a hard problem with a language that's too low-level, you reach a point where there is just too much to keep in your head at once.
+
+#### 13.6. A Recipe
+
+Because, you know, when it comes down to it, the pointy- haired boss doesn't mind if his company gets their ass kicked, so long as no one can prove it's his fault. 
+
+Technology often should be cutting-edge. In programming languages, as Erann Gat has pointed out, what "industry best practice" actually gets you is not the best, but merely the average. When a decision causes you to develop software at a fraction of the rate of more aggressive competitors, "best practice" does not really seem the right name for it.
+
+ITA is an example of this recipe in action. If you want to win in a software business, just take on the hardest problem you can find, use the most powerful language you can get, and wait for your competitors' pointy-haired bosses to revert to the mean.
+
+#### 13.7. Appendix: Power
+
+We want to write a function that generates accumulators—a function that takes a number n,and returns a function that takes another number i and returns n incremented by i. (That's incremented by, not plus. An accumulator has to accumulate.)
+
+Common Lisp
+
+	(defun foo (n)
+		(lambda (i) (incf n i)))
+
+Ruby
+
+	def foo (n)
+		lambda {|i| n += i } end
+
+In OO languages, you can, to a limited extent, simulate a closure (a function that refers to variables defined in surrounding code) by defining a class with one method and a field to replace each variable from an enclosing scope. This makes the programmer do the kind of code analysis that would be done by the compiler in a language with full support for lexical scope, andit won't work if more than one function refers to the same variable, but it is enough in simple cases like this.
+
+Java, hard to do this:
+
+	public interface Inttoint { 
+		public int call (int i);
+	}
+
+	public static Inttoint foo (final int n) { 
+		return new Inttoint () {
+		int s = n;
+		public int call (int i) { s = s + i;
+		return s;
+		}};
+	}
+
+It's not literally true that you can't solve this problem in other languages, of course. The fact that all these languages are Turing- equivalent means that, strictly speaking, you can write any program in any of them. So how would you do it? In the limit case, by writinga Lisp interpreter in the less powerful language.
+
+If you try to solve a hard problem, the question is not whether you will use a powerful enough language, but whether you will (a) use a powerful language, (b) write a de facto interpreter for one, or (c) yourself become a human compiler for one. 
+
+This practice is not only common, but institutionalized. For example, in the OO world you hear a good deal about "patterns." I wonder if these patterns are not sometimes evidence of case (c), the human compiler, at work. 8 When I see patterns in my programs, I consider it a sign of trouble. The shape of a program should reflect only the problem it needs to solve. Any other regularity in the code is a sign, to me at least, that I'm using abstractions that aren't powerful enough—often that I'm generating by hand the expansions of some macro that I need to write.
+
+## Chapter 14. The Dream Language
+
+I think the answers to these questions can be found by looking at hackers, and learning what they want. Programming languages are for hackers, and a programming language is good as a programming language (rather than, say, an exercise in denotational semantics or compiler design) if and only if hackers like it.
+
+It's true, certainly, that most people don't choose programming languages simply based on their merits. Most programmers are told what language to use by someone else. And yet I think the effect of such external factors on the popularity of programming languages is not as great as it's sometimes thought to be. 
+
+Between the two, the hacker's opinion is the one that matters. Programming languages are not theorems. They're tools, designed for people, and they have to be designed to suit human strengths and weaknesses as much as shoes have to be designed for human feet. If a shoe pinches when you put it on, it's a bad shoe, however elegant it may be as a piece of sculpture.
+
+It may be that the majority of programmers can't tell a good language from a bad one. 
+
+Expert hackers can tell a good language when they see one, and they'll use it. Expert hackers are a tiny minority, admittedly, but that tiny minority write all the good software, and their influence is such that the rest of the programmers will tend to use whatever language they use. Often, indeed, it is not merely influence but command: often the expert hackers are the very people who, as their bosses or faculty advisors, tell the other programmers what language to use.
+
+#### 14.2. External Factors
+
+To become popular, a programming language has to be the scripting language of a popular system. 
+
+Programming languages don't exist in isolation. To hack is a transitive verb— hackers are usually hacking something—and in practice languages are judged relative to whatever they're used to hack. 
+
+One way to describe this situation is to say that a language isn't judged on its own merits. Another view is that a programming language really isn't a programming language unless it's also the scripting language of something.
+
+A programming language does need a good implementation, of course, and this must be free. Companies will pay for software, but individual hackers won't, and it's the hackers you need to attract.
+
+A language also needs to have a book about it. The book should be thin, well- written, and full of good examples. Kernighan and Ritchie's C Programming Language is the ideal here. 
+
+#### 14.3. Succinctness
+
+The most important kind of succinctness comes from making the language more abstract. It is to get this that we use highlevel languages in the first place. So it would seem that the more of it you can get, the better. A language designer should always be looking at programs and asking, is there some way to express this in fewer tokens? 
+
+It's a mistake to try to baby the user with long-winded expressions meant to resemble English. Cobol is notorious for this flaw. A hacker would consider being asked to write `add x to y giving z` instead of `z=x+y` as something between an insult to his intelligence and a sin against God.
+
+Succinctness is one place where statically typed languages lose. All other things being equal, no one wants to begin a program with a bunch of declarations.
+
+#### 14.4. Hackability
+
+I think language designers would do better to consider their target user to be a genius who will need to do things they never anticipated, rather than a bumbler who needs to be protected from himself.
+
+Good programmers often want to do dangerous and unsavory things. By unsavory I mean things that go behind whatever semantic facade the language is trying to present: getting hold of the internal representation of some high- level abstraction, for example. Hackers like to hack, and hacking means getting inside things and second- guessing the original designer.
+
+Many a hacker will want to tweak your semantic model in a way that you never imagined. I say, let them. Give the programmer access to as much internal stuff as you can.
+
+There is a kind of pleasure here too. Hackers share the surgeon's secret pleasure in poking about in gross innards, the teenager's secret pleasure in popping zits. 
+
+#### 14.5. Throwaway Programs
+
+A throwaway program is a program you write quickly for some limited task: a program to automate some system administration task, or generate test data for a simulation, or convert data from one format to another. Many evolve into real programs, with real features and real users.
+
+Another way to get a big program is to start with a throwaway program and keep improving it. This approach is less daunting, and the design of the program benefits from evolution. Programs that did evolve this way are probably still written in whatever language they were first written in, because it's rare for a program to be ported, except for political reasons.
+
+Perl is a striking example of this idea. It was not only designed for writing throwaway programs, but was pretty much a throwaway program itself. 
+
+What makes a language good for throwaway programs? To start with, it must be readily available. A throwaway program is something you expect to write in an hour. So the language probably must already be installed on the computer you're using. 
+
+#### 14.6. Libraries
+
+Perl wins because it has large libraries for manipulating strings. This class of library function is especially important for throwaway programs, which are often originally written for converting or extracting data.
+
+I think future programming languages will have libraries that are as carefully designed as the core language. Programming language design will not be about whether to make your language statically or dynamically typed, or object-oriented, or functional, or whatever, so much as about how to design great libraries.
+
+#### 14.7. Efficiency
+
+A good language, as everyone knows, should generate fast code. But in practice I don't think fast code comes primarily from things you do in the design of the language. As Knuth pointed out long ago, speed only matters in certain critical bottlenecks. And as many programmers have observed since, one is often mistaken about where these bottlenecks are.
+
+So, in practice, the way to get fast code is to have a good profiler, rather than by, say, making the language statically typed. 
+
+One complaint people have had with very high level languages like Lisp is that it's hard to tell what's expensive. This might be true. It might also be inevitable, if you want to have a very abstract language. And in any case I think good profiling would go a long way toward fixing the problem: you'd soon learn what was expensive.
+
+Part of the problem here is social. Language designers like to write fast compilers. That's how they measure their skill. They think of the profiler as an add- on, at best. But in practice a good profiler may do more to improve the speed of actual programs written in the language than a compiler that generates fast code.
+
+An active profiler could show graphically what's happening in memory as a program's running, or even make sounds that tell what's happening.
+
+Sound is a good cue to problems. At Viaweb we had a big board of dials showing what was happening to our web servers. The hands were moved by little servomotors that made a slight noise when they turned. I couldn't see the board from my desk, but I found that I could tell immediately, by the sound, when there was a problem with a server.
+
+#### 14.8. Time
+
+Inventors of wonderful new things are often surprised to discover this, but you need time to get any message through to people.
+
+A friend of mine rarely does anything the first time someone asks him. He knows that people sometimes ask for things they turn out not to want. To avoid wasting his time, he waits till the third or fourth time he's asked to do something. By then whoever's asking him may be fairly annoyed, but at least they probably really do want whatever they're asking for.
+
+Most people have learned to do a similar sort of filtering on new things they hear about. They don't even start paying attention until they've heard about something ten times. They're perfectly justified: the majority of hot new whatevers do turn out to be a waste of time, and eventually go away. 
+
+It took us years to get it through to people that Viaweb's software didn't have to be downloaded. The good news is, simple repetition solves the problem. All you have to do is keep telling your story, and eventually people will start to hear.
+
+There are two ways new technology gets introduced: the organic growth method, and the big bang method. The organic growth method is exemplified by the classic seat- of-the- pants underfunded garage startup. A couple guys, working in obscurity, develop some new technology. They launch it with no marketing and initially have only a few (fanatically devoted) users. They continue to improve the technology, and meanwhile their user base grows by word of mouth. Before they know it, they're big.
+
+The other approach, the big bang method, is exemplified by the VC-backed, heavily marketed startup. They rush to develop a product, launch it with great publicity, and immediately (they hope) have a large user base.
+
+Organic growth seems to yield better technology and richer founders than the big bang method. If you look at the dominant technologies today, you'll find that most of them grew organically.
+
+This pattern doesn't only apply to companies. You see it in research too. Multics and Ada were big-bang projects, and Unix and C were organic growth projects.
+
+#### 14.9. Redesign
+
+The most important part of design is redesign. Programming languages, especially, don't get redesigned enough. To write good software you must simultaneously keep two opposing ideas in your head. You need the young hacker's naive faith in his abilities, and at the same time the veteran's skepticism.
+
+People who do good work often think that whatever they're working on is no good. Others see what they've done and think it's wonderful, but the creator sees nothing but flaws. 
+
+In young hackers, optimism predominates. They produce something, are convinced it's great, and never improve it. In old hackers, skepticism predominates, and they won't even dare to take on ambitious projects.
+
+Anything you can do to keep the redesign cycle going is good. Prose can be rewritten over and over until you're happy with it.
+
+Users are a double- edged sword. They can help you improve your language, but they can also deter you from improving it. So choose your users carefully, and be slow to grow their number. Having users is like optimization: the wise course is to delay it.
+
+Everyone knows it's not a good idea to have a language designed by a committee. Committees yield bad design. But I think the worst danger of committees is that they interfere with redesign . It's so much work to introduce changes that no one wants to bother.
+
+#### 14.10. The Dream Language
+
+The dream language is clean and terse. Nearly all the code in any program you write is code that's specific to your application. Everything else has been done for you.
+
+The syntax of the language is brief to a fault. You never have to type an unnecessary character, or even use the Shift key much.
+
+Using big abstractions you can write the first version of a program very quickly. Later, when you want to optimize, there's a really good profiler that tells you where to focus your attention. You can make inner loops blindingly fast, even writing inline byte code if you need to.
+
+There are lots of good examples to learn from, and the language is intuitive enough that you can learn how to use it from examples in a couple minutes. You don't need to look in the manual much. The manual is thin, and has few warnings and qualifications.
+
+The language has a small core, and powerful, highly orthogonal libraries that are as carefully designed as the core language. The libraries all work well together; everything in the language fits together like the parts in a fine camera. Nothing is deprecated or retained for compatibility. The source code of all the libraries is readily available. It's easy to talk to the operating system and to applications written in other languages.
+
+The language is built in layers. The higher- level abstractions are built in a transparent way out of lower-level abstractions, which you can get hold of if you want.
+
+Nothing is hidden from you that doesn't absolutely have to be. The language offers abstractions only as a way of saving you work, rather than as a way of telling you what to do. In fact, the language encourages you to be an equal participant in its design. You can change everything about it, including even its syntax, and anything you write has, as much as possible, the same status as what comes predefined. The dream language is not only open source, but open design.
+
+#### Chapter 15. Design and Research
+
+Now, when someone asks me what I do, I look them straight in the eye and say, "I'm designing a new dialect of Lisp." I recommend this answer to anyone who doesn't like being asked what they do. The conversation will turn immediately to other topics.
+
+The difference between design and research seems to be a question of new versus good. Design doesn't have to be new, but it has to be good. Research doesn't have to be good, but it has to be new. I think these two paths converge at the top: the best design surpasses its predecessors by using new ideas, and the best research solves problems that are not only new, but worth solving.
+
+Design begins by asking, who is this for and what do they need from it? Notice I said "what they need," not "what they want." The customer is always right in the sense that the measure of good design is how well it works for the user.
+
+And yet, making what works for the user doesn't mean simply making what the user tells you to. Users don't know what all the choices are, and are often mistaken about what they really want. It's like being a doctor. You can't just treat a patient's symptoms. When a patient tells you his symptoms, you have to figure out what's actually wrong with him, and treat that.
+
+When I say that design must be for users, I don't mean to imply that good design aims at some kind of lowest common denominator. You can pick any group of users you want. If you're designing a tool, for example, you can design it for anyone from beginners to experts, and what's good design for one group might be bad for another. The point is, you have to pick some group of users.
+
+You're most likely to get good design if the intended users include the designer himself. When you design something for a group that doesn't include you, it tends to be for people you consider less sophisticated than you, not more sophisticated. And looking down on the user, however benevolently, always seems to corrupt the designer.
+
+If you think you're designing something for idiots, odds are you're not designing something good, even for idiots.
+
+Even if you're designing something for the most sophisticated users, though, you're still designing for humans. It's different in research. In math you don't choose abstractions because they're easy for humans to understand; you choose whichever make the proof shorter. I think this is true for the sciences generally. Scientific ideas are not meant to be ergonomic.
+
+All the arts have to pander to the interests and limitations of humans. In painting, for example, all other things being equal a painting with people in it will be more interesting than one without. It is not merely an accident of history that the great paintings of the Renaissance are all full of people. If they hadn't been, painting as a medium wouldn't have the prestige it does.
+
+For example, we seem to have a very limited capacity for dealing with detail. It's this fact that makes programming languages a good idea in the first place; if we could handle the detail, we could just program in machine language.
+
+A program, like a proof, is a pruned version of a tree that in the past has had false starts branching off all over it. So the test of a language is not simply how clean the finished program looks in it, but how clean the path to the finished program was. A design choice that gives you elegant finished programs may not give you an elegant design process. For example, I've written a few macro defining macros that look now like little gems, but writing them took hours of the ugliest trial and error, and frankly, I'm still not entirely sure they're correct.
+
+We often act as if the test of a language were how good finished programs look in it. It seems so convincing when you see the same program written in two languages, and one version is much shorter.
+
+For example, it is a huge win in developing software to have an interactive toplevel, what in Lisp is called a read-eval-print loop. And when you have one, this has real effects on the design of the language. It would not work well for a language where you have to declare variables before using them.
+
+To get good design you have to get close, and stay close, to your users. You have to calibrate your ideas on actual users constantly. In the software world, this idea is known as Worse is Better. Actually, there are several ideas mixed together in the concept of Worse is Better, which is why people are still arguing about whether worse is actually better or not. But one of the main ideas in that mix is that if you're building something new, you should get a prototype in front of users as soon as possible.
+
+Instead of getting a prototype out quickly and gradually refining it, you try to create the complete, finished product in one long touchdown pass. Countless startups destroyed themselves this way during the Internet Bubble. I've never heard of a case where it worked.
+
+Now almost every drawing teacher will tell you that the right way to get an accurate drawing is not to work your way slowly around the contour of an object, because errors will accumulate and you'll find at the end that the lines don't meet. Instead you should draw a few quick lines in roughly the right place, and then gradually refine this initial sketch.
+
+You can do this in software too. A prototype doesn't have to be just a model; you can refine it into the finished product. I think you should always do this when you can. It lets you take advantage of new insights you have along the way. But perhaps even more important, it's good for morale.
+
+Building something by gradually refining a prototype is good for morale because it keeps you engaged. In software, my rule is: always have working code. If you're writing something you'll be able to test in an hour, you have the prospect of an immediate reward to motivate you.
+
+Morale is another reason that it's hard to design something for an unsophisticated user. It's hard to stay interested in something you don't like yourself. To make something good, you have to be thinking, "wow, this is really great," not "what a piece of shit; those fools will love it."
+
+Design means making things for humans. But it's not just the user who's human. The designer is human too.
+
 
 
 
