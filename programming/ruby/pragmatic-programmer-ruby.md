@@ -110,36 +110,47 @@ Class Method Definitions (These are the same thing)
 class Demo
 	def Demo.method1
 	def self.method2
-	class <<self
+	class << self
 		def method3
+
 Access control
-class Accounts
-def initialize(checking, savings) 
-@checking = checking @savings = savings
-end 
-private
-def debit(account, amount)
-          account.balance -= amount
-end 
-def credit(account, amount)
-          account.balance += amount
-      end
-public
-def transfer_to_savings(amount)
-          debit(@checking, amount)
-          credit(@savings, amount)
-end
-end
-Variables
+
+  class Accounts
+    def initialize(checking, savings) 
+    @checking = checking @savings = savings
+    end 
+
+  private
+
+    def debit(account, amount)
+              account.balance -= amount
+    end 
+
+    def credit(account, amount)
+              account.balance += amount
+          end
+
+  public
+
+    def transfer_to_savings(amount)
+              debit(@checking, amount)
+              credit(@savings, amount)
+    end
+
+  end
+
+#### Variables
 
 Strings are by reference. But you can duplicate stuff by the dup method.
+
 Person1 = “tim”
 Person2 = Person1.dup
 Person1[0] = “J”
 Person1 -> “Jim”, Person2 -> “Time
 Person1.freeze -> prevents other people from modifying the object.
  
-Chapter 4: Containers, Blocks, and Iterators
+## Chapter 4: Containers, Blocks, and Iterators
+
 Arrays
 
 Array holds a collection of object references.
@@ -154,9 +165,9 @@ If you don't od this, then you will have the same value for all the elements of 
 Accessing
 a = [1, 3, 5, 7, 9]
 
-#Ranges: Two periods = include ending
+# Ranges: Two periods = include ending
 a[1..3] = [3, 5, 7]
-#Three periods = don't include ending
+# Three periods = don't include ending
 a[1...3] = [3, 5]
 
 arr[2], arr[2, 4], arr[-9, 3], arr[1..4]
@@ -484,7 +495,8 @@ show_regexp('very interesting', /t/) → very in<<t>>eresting
 
 Anchor front: ^, anchor back: $
 Read this shit later.
-Chapter 6: More about Methods
+
+## Chapter 6: More about Methods
 
 ?: for querying
 
@@ -496,14 +508,16 @@ def varargs(arg1, *rest)
 end
 
 If the last parameter in a method definition is prefixed with an ampersand, any associated block is converted to a Proc, and that object is assigned to the parameter.
-class TaxCalculator
-      def initialize(name, &block)
-@name, @block = name, block 
-end
-def get_tax(amount) 
-"#@name on #{amount} = #{ @block.call(amount) }"
-end 
-end
+
+  class TaxCalculator
+    def initialize(name, &block)
+      @name, @block = name, block 
+    end
+
+    def get_tax(amount) 
+      "#@name on #{amount} = #{ @block.call(amount) }"
+    end 
+  end
 
 tc = TaxCalculator.new("Sales tax") {|amt| amt * 0.075 } tc.get_tax(100) → "Sales tax on 100 = 7.5"
 tc.get_tax(250) → "Sales tax on 250 = 18.75"

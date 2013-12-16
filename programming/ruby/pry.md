@@ -2,7 +2,7 @@
 
 Installation
 
-	$ gem instal pry pry-doc
+	$ gem install pry pry-doc
 	$ pry -v
 	pry(main)>
 
