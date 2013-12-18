@@ -94,6 +94,7 @@ Time description
 	$ git commit -m "reasons"
 	$ git add forgotten_file
 	$ git commit --amend # This is like adding something to the commit that you didn't add. You just have 1 commit pushed out.
+	$ git commit --amend -m "thingie thingie"
 
 #### Unstage a Staged File
 
