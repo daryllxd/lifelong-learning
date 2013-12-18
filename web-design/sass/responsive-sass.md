@@ -52,7 +52,10 @@ Compiles to
 	  @include respond-to(wide-screens) { float: none; }
 	}
 
-#### Mixin for responsive stuff and scalability thingies.
+#### Weird stuffies
+
+- @extend within @media
+- Combining @media Queries on Compile
 
 
 
