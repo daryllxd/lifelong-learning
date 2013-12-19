@@ -202,13 +202,13 @@ How can you see the wave, when you're the water? Always be questioning. That's t
 
 To programmers, "hacker" connotes mastery in the most literal sense: someone who can make a computer do what he wants—whether the computer wants to or not.
 
-Believe it or not, the two senses of "hack" are also connected. Ugly and imaginative solutions have something in common: they both break the rules. And there is a gradual continuum between rule breaking that's merely ugly (using duct tape to attach something to your bike) and rule breaking that is brilliantly imaginative (discarding Euclidean space).
+Ugly and imaginative solutions have something in common: they both break the rules. And there is a gradual continuum between rule breaking that's merely ugly (using duct tape to attach something to your bike) and rule breaking that is brilliantly imaginative (discarding Euclidean space).
 
 It is sometimes hard to explain to authorities why one would want to do such things. The usual motives are few: drugs, money, sex, revenge. Intellectual curiosity was not one of the motives on the FBI's list. Indeed, the whole concept seemed foreign to them.
 
 Those in authority tend to be annoyed by hackers' general attitude of disobedience. But that disobedience is a byproduct of the qualities that make them good programmers. They may laugh at the CEO when he talks in generic corporate new speech, but they also laugh at someone who tells them a certain problem can't be solved.
 
-Sometimes young programmers notice the eccentricities of eminent hackers and decide to adopt some of their own in order to seem smarter. The fake version is not merely annoying; the prickly attitude of these posers can actually slow the process of innovation.
+__Sometimes young programmers notice the eccentricities of eminent hackers and decide to adopt some of their own in order to seem smarter. The fake version is not merely annoying; the prickly attitude of these posers can actually slow the process of innovation.__
 
 Show any hacker a lock and his first thought is how to pick it. But there is a deeper reason that hackers are alarmed by measures like copyrights and patents. They see increasingly aggressive measures to protect "intellectual property" as a threat to the intellectual freedom they need to do their job. And they are right.
 
@@ -236,134 +236,31 @@ In the summer of 1995, my friend Robert Morris and I decided to start a startup.
 
 I think a lot of the next generation of software will be written on this model. To the extent software does move onto servers, what I'm describing here is the future.
 
-#### 5.1. The Next Thing?
-
-When you own a desktop computer, you end up learning a lot more than you wanted to know about what's happening inside it. There is now another way to deliver software that will save users from becoming system administrators. Web-based applications are programs that run on web servers and use web pages as the user interface. 
-
-It will take about a tenth of a second for a click to get to the server and back, so users of heavily interactive software, like Photoshop, will still want to have the computations happening on the desktop. But if you look at the kind of things most people use computers for, a tenth of a second latency would not be a problem. My mother doesn't really need a desktop computer, and there are a lot of people like her.
-
-#### 5.2. The Win for Users
-
-Most people, most of the time, will take whatever choice requires least work. If web- based software wins, it will be because it's more convenient. And it looks as if it will be, for users and developers both.
-
-With purely web-based software, neither your data nor the applications are kept on the client. So you don't have to install anything to use it. And when there's no installation, you don't have to worry about installation going wrong.
-
-#### 5.3. City of Code
-
-Because the software in a web- based application will be a collection of programs rather than a single binary, it can be written in any number of different languages. But that was just an artifact of the way desktop software had to be delivered. For server-based software you can use any language you want. 
-
-With server- based software, no one can tell you what language to use, because you control the whole system, right down to the hardware. Different languages are good for different tasks. You can use whichever is best for each.
-
-#### 5.4. Releases
-
-With server-based software, you can make changes almost as you would in a program you were writing for yourself. You release software as a series of incremental changes instead of an occasional big explosion.
-
-With web- based software, you wouldn't make such a promise, because there are no versions. Your software changes gradually and continuously.
-
-If anyone remembers Viaweb this might sound odd, because we were always announcing new versions. This was done entirely for PR purposes. The trade press, we learned, thinks in version numbers. They will give you major coverage for a major release, meaning a new first digit on the version number, and generally a paragraph at most for a point release, meaning a new digit after the decimal point.
-
-#### 5.5. Bugs
-
-Software companies are sometimes accused of letting the users debug their software. And that is just what I'm advocating. For web- based software it's actually a good plan, because the bugs are fewer and transient.
-
-Fixing fresh bugs is easier than fixing old ones. It's usually fairly quick to find a bug in code you just wrote. When it turns up you often know what's wrong before you even look at the source, because you were already worrying about it subconsciously.
-
-When you catch bugs early, you also get fewer compound bugs. Compound bugs are two separate bugs that interact: you trip going downstairs, and when you reach for the handrail it comes off in your hand.
-
-It helps if you use a technique called functional programming. Functional programming means avoiding side effects. It's something you're more likely to see in research papers than commercial software, but for web-based applications it turns out to be really useful. I wrote much of Viaweb's editor in this style, and we made our scripting language, RTML, a purely functional language.
-
-#### 5.6. Support
-
-When you can reproduce errors, it changes your approach to customer support. At most software companies, support is offered as a way to make customers feel better. At Viaweb, support was free, because we wanted to hear from customers. If someone had a problem, we wanted to know about it right away so we could reproduce the error and release a fix.
-
-So at Viaweb the developers were always in close contact with support. The customer support people were about thirty feet away from the programmers, and knew they could always interrupt anything with a report of a genuine bug. We would leave a board meeting to fix a serious bug.
-
-Our approach to support made everyone happier. The customers were delighted. Just imagine how it would feel to call a support line and be treated as someone bringing important news. The customer support people liked it because it meant they could help the users, instead of reading scripts at them. And the programmers liked it because they could reproduce bugs instead of just hearing vague second- hand reports about them.
-
-Our policy of fixing bugs on the fly changed the relationship between customer support people and hackers. Atmost software companies, support people are underpaid human shields, and hackers are little copies of God the Father, creators of the world. Whatever the procedure for reporting bugs, it is likely to be one- directional: support people who hear about bugs fill out some form that eventually gets passed on (possibly via QA) to programmers, who put it on their list of things to do. It was different at Viaweb. Within a minute of hearing about a bug from a customer, the support people could be standing next to a programmer hearing him say "Shit, you're right, it's a bug." It delighted the support people to hear that "you're right" from the hackers. They used to bring us bugs with the same expectant air as a cat bringing you a mouse it has just killed. It also made them more careful in judging the seriousness of a bug, because now their honor was on the line.
-
-#### 5.7. Morale
-
-Being able to release software immediately is a big motivator. Often as I was walking to work I would think of some change I wanted to make to the software, and do it that day. This worked for bigger features as well. Even if something was going to take two weeks to write (few projects took longer), I knew I could see the effect in the software as soon as it was done.
-
-If I'd had to wait a year for the next release, I would have shelved most of these ideas, for a while at least. The thing about ideas, though, is that they lead to more ideas. Have you ever noticed that when you sit down to write something, half the ideas that end up in it are ones you thought of while writing? The same thing happens with software. Working to implement one idea gives you more ideas. So shelving an idea costs you not only that delay in implementing it, but also all the ideas that implementing it would have led to. In fact, shelving an idea probably even inhibits new ideas: as you start to think of some new feature, you catch sight of the shelf and think, "but I already have a lot of new things I want to do for the next release."
-
-What big companies do instead of implementing features is plan them. At Viaweb we sometimes ran into trouble on this account. Investors and analysts would ask us what we had planned for the future. What were we going to do in the next six months? Whatever looked like the biggest win. Plans are just another word for ideas on the shelf. When we thought of good ideas, we implemented them.
-
-At Viaweb, as at many software companies, most code had one definite owner. But when you owned something you really owned it: no one except the owner of a piece of software had to approve (or even know about) a release. There was no protection against breakage except the fear of looking like an idiot to one's peers, and that was more than enough. I may have given the impression that we just blithely plowed forward writing code. We did go fast, but we thought very carefully before we released software onto those servers.
-
-And paying attention is more important to reliability than moving slowly. Because he pays close attention, a Navy pilot can land a 40,000 lb. aircraft at 140 miles per hour on a pitching carrier deck, at night, more safely than the average teenager can cut a bagel.
-
-#### 5.8. Brooks in Reverse
-
-Fortunately, web- based software does require fewer programmers. With web- based software, all you need (at most) are the 13 people, because there are no releases, ports, and so on.
-
-Viaweb was written by just three people. I was always under pressure to hire more, because we wanted to get bought, and we knew that buyers would have a hard time paying a high price for a company with only three programmers. (Solution: we hired more, but created new projects for them.)
-
-When you can write software with fewer programmers, it saves you more than money. As Fred Brooks pointed out in The Mythical Man- Month , adding people to a project tends to slow it down. The number of possible connections between developers grows exponentially with the size of the group. Fortunately, this process also works in reverse: as groups get smaller, software development gets exponentially more efficient. I can't remember the programmers at Viaweb ever having an actual meeting. We never had more to say at any one time than we could say as we were walking to lunch.
-
-If there is a downside here, it is that all the programmers have to be to some degree system administrators as well. When you're hosting software, someone has to be watching the servers, and in practice the only people who can do this properly are the ones who wrote the software. At Viaweb our system had so many components and changed so frequently that there was no definite border between software and infrastructure.
-
-I don't think it could be any other way, as long as you're still actively developing the product. Web-based software is never going to be something you write, check in, and go home. It's a live thing, running on your servers right now. A bad bug might not just crash one user's process; it could crash them all. If a bug in your code corrupts some data on disk, you have to fix it. You don't release code late at night and then go home.
-
-## 5.9. Watching Users
-
-With server-based software, you're in closer touch with your code. You can also be in closer touch with your users. Intuit is famous for introducing themselves to customers at retail stores and asking to follow them home. If you've ever watched someone use your software for the first time, you know what surprises must have awaited them.
-
-Software should do what users think it will. But you can't have any idea what users will be thinking, believe me, until you watch them. And server- based software gives you unprecedented information about their behavior. You're not limited to small, artificial focus groups. You can see every click made by every user. You have to consider carefully what you're going to look at, because you don't want to violate users' privacy, but even the most general statistical sampling can be very useful.
-
-When you have the users on your server, you don't have to rely on benchmarks, for example. Benchmarks are simulated users. With server-based software, you can watch actual users. To decide what to optimize, just log into a server and see what's consuming all the CPU.
-
-Efficiency matters for server- based software, because you're paying for the hardware. The number of users you can support per server is the divisor of your capital cost, so if you can make your software very efficient, you can undersell competitors and still make a profit.
-
-Watching users can guide you in design as well as optimization. Viaweb had a scripting language called RTML that let advanced users define their own page styles. We found that RTML became a kind of suggestion box, because users only used it when the predefined page styles couldn't do what they wanted. Originally the editor put button bars across the page, for example, but after a number of users used RTML to put buttons down the left side, we made that the default in the predefined page styles.
-
-I studied click trails of people taking the test drive and found that at a certain step they would get confused and click on the browser's Back button. (If you try writing web-based applications, you'll find the Back button becomes one of your most interesting philosophical problems.) So I added a message at that point, telling users they were nearly finished, and reminding them not to click on the Back button. Another great thing about web- based software is that you get instant feedback from changes: the number of people completing the test drive rose immediately from 60% to 90%.
-
-#### 5.10. Money
-
-For companies, web-based applications are an ideal source of revenue. Instead of starting each quarter with a blank slate, you have a recurring revenue stream. Because your software evolves gradually, you don't have to worry that a new model will flop. There never need be a new model, per se, and if you do something to the software that users hate, you'll know right away. And there is no possibility of piracy.
+- Web apps: Users don't have to be sysadmins to maintain their own software.
+- For server-based language you don't have to be a single binary.
+- Incremental changes. At Viaweb the new versions were only done for PR purposes. Press thinks in terms of version numbers.
+- Functional programming to avoid bugs and side effects.
+- Cx support in Viaweb: Call the devs themselves. Support was free there. (They would leave board meetings to fix bugs.) Users liked it. Cx support liked it because they can help people. Programmers liked it because they can reproduce bugs. Better relationship between support and programmers.
+- Better for morale that you see effects immediately. Ideas lead to more ideas anyway. You do things on what you think will succeed. 
+- Code has their own owner.
+- Less programmers, so faster. But the devs have to be sysadmins too.
+- You'll be closer to the users. You can study each click made. Nada to benchmarks, you have real results.
+- Viaweb's RTML scripting language was a suggestion box for the users. They typed in stuff that they wanted.
+- Ex: When users are nearly finished, remind them not to click on the Back button. Completion rose immediately from 60% to 90%.
+- Recurring revenue stream for money. Gradual improvements means ther will never be a new model per se. And there's no piracy.
+- Web apps are easier to buy, just enter CC.
+- Honestly it's better to let the web app guys secure the app rather than inhouse esp. if you're not a dev company. A big company that uses web- based applications is to that extent outsourcing IT. 
 
 (Some amount of piracy is to the advantage of software companies. If some user would never have bought your software at any price, you haven't lost anything if he uses a pirated copy.)
 
-Software is particularly suitable for price discrimination, because the marginal cost is close to zero. This is why some software costs more to run on Suns than on Intel boxes: a company that uses Suns is not interested in saving money and can safely be charged more. Piracy is effectively the lowest tier of price discrimination.
+#### Why back to server
+- Desktops took over because they had better software than mainframes. 
+- Since startups are super fragile, an obstacle such as "writing mainframe software" is too much. Easier to write on the desktop.
+- Computers are so cheap now that desktops can be used as a server.
+- Now, you have to write desktop software on MS's own terms.
+-  If a company wants to make a platform that startups will build on, they have to make it something that hackers themselves will want to use. That means it has to be inexpensive and well-designed. The Mac was popular with hackers when it first came out, and a lot of them wrote software for it.
 
-Web- based software sells well, especially in comparison to desktop software, because it's easy to buy. Web- based software is just about the easiest thing in the world to buy, especially if you have just done an online demo. Users should not have to do much more than enter a credit card number.
-
-#### 5.11. Customers
-
-if access is easier for employees, it will be for bad guys too. Some larger merchants were reluctant to use Viaweb because they thought customers' credit card information would be safer on their own servers. It was not easy to make this point diplomatically, but in fact the data was almost certainly safer in our hands than theirs. Who can hire better people to manage security, a technology startup whose whole business is running servers, or a clothing retailer?
-
-If you want to keep your money safe, do you keep it under your mattress at home, or put it in a bank? This argument applies to every aspect of server administration: not just security, but uptime, bandwidth, load management, backups, etc. Our existence depended on doing these things right. Server problems were the big no-no for us, like a dangerous toy would be for a toy maker, or a salmonella outbreak for a food processor.
-
-A big company that uses web- based applications is to that extent outsourcing IT. Drastic as it sounds, I think this is generally a good idea. Companies are likely to get better service this way than they would from in-house system administrators.
-
-A large part of what big companies pay extra for is the cost of selling expensive things to them. (If the Defense Department pays a thousand dollars for toilet seats, it's partly because it costs a lot to sell toilet seats for a thousand dollars.) And this is one reason intranet software will continue to thrive, even though it is probably a bad idea. It's simply more expensive. There is nothing you can do about this conundrum, so the best plan is to go for the smaller customers first.
-
-#### 5.12. Son of Server
-
-If server based software is such a good idea, why did it lose last time? Why did desktop computers eclipse mainframes?
-
-At first desktop computers didn't look like much of a threat. The first users were all hackers—or hobbyists, as they were called then. Why did desktop computers take over? Mainly because they had better software. And the reason microcomputer software was better was that it could be written by small companies.
-
-I don't think many people realize how fragile and tentative startups are in the earliest stage. Many startups begin almost by accident—as a couple guys, either with day jobs or in school, writing a prototype of something that might, if it looks promising, turn into a company. At this larval stage, any significant obstacle will stop the startup dead in its tracks. Writing mainframe software required too much commitment up front. Development machines were expensive, and because the customers would be big companies, you'd need an impressive-looking sales force to sell it to them. Starting a startup to write mainframe software would be a much more serious undertaking than just
-hacking something together on your Apple II in the evenings. And so you didn't get a lot of startups writing mainframe applications.
-
-The arrival of desktop computers inspired a lot of new software, because writing applications for them seemed an attainable goal to larval startups. It looks as if server-based software will be good this time around, because startups will write it. Computers are so cheap now that you can get started, as we did, using a desktop computer as a server.
-
-Viaweb was a typical larval startup. We were terrified of starting a company, and for the first few months comforted ourselves by treating the whole thing as an experiment that we might call off at any moment. While we were writing the software, our web server was the same desktop machine we used for development, connected to the outside world by a dialup line.
-
-There is all the more reason for startups to write web-based software now, because writing desktop software has become a lot less fun. If you want to write desktop software now, you do it on Microsoft's terms, calling their APIs and working around their buggy OS.
-
-If a company wants to make a platform that startups will build on, they have to make it something that hackers themselves will want to use. That means it has to be inexpensive and well-designed. The Mac was popular with hackers when it first came out, and a lot of them wrote software for it.
-
-#### 5.13. Microsoft
-
-I expect Microsoft will develop some kind of server/desktop hybrid, where the operating system works together with servers they control. At a minimum, files will be centrally available for users who want that. 
-
-I think Microsoft will have a hard time keeping the genie in the bottle. There will be too many different types of clients for them to control the mall. And if Microsoft's applications only work with some clients, competitors will be able to trump them by offering applications that work from any client. 
-
-#### 5.14. Startups but More So
+#### Startups but More So
 
 The classic startup is fast and informal, with few people and little money. Those few people work very hard, and technology magnifies the effect of the decisions they make. If they win, they win big.
 
@@ -393,7 +290,7 @@ The Web may not be the only way to deliver software, but it's one that works now
 
 If you're a hacker who has thought of one day starting a startup, there are probably two things keeping you from doing it. One is that you don't know anything about business. The other is that you're afraid of competition. Neither of these fences have any current in them.
 
-There are only two things you have to know about business: build something users love, and make more than you spend. If you get these two right, you'll be ahead of most startups. You can figure out the rest as you go.
+__There are only two things you have to know about business: build something users love, and make more than you spend. If you get these two right, you'll be ahead of most startups. You can figure out the rest as you go.__
 
 You may not at first make more than you spend, but as long as the gap is closing fast enough you'll be ok. If you start out under funded, it will at least encourage a habit of frugality. The less you spend, the easier it is to make more than you spend. 
 

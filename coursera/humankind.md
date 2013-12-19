@@ -1064,7 +1064,7 @@ Science is also unable to determine what should new knowledge be used for. Shoul
 
 Two things that influence science: European Imperialism, Capitalism.
 
-## 12.1: The Marriage of Science and Empire
+	## 12.1: The Marriage of Science and Empire
 
 The Scientific Revolution was funded by ideologies. The ideology then uses the scientific discoveries for its own use. So ideologies push science in certain directions.
 
