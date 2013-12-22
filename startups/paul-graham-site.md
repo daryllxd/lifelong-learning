@@ -300,6 +300,34 @@ It's very common for a group of founders to go through one lame idea before real
 
 In January 1995, we and a couple friends started a company called Artix. The plan was to put art galleries on the Web. In retrospect, I wonder how we could have wasted our time on anything so stupid. Galleries are not especially excited about being on the Web even now, ten years later. They don't want to have their stock visible to any random visitor, like an antique store. 
 
+## [Interview](http://www.youtube.com/watch?v=BDA0t49AaZ4)
+--------------------------------------------------
+
+Really good software is not written according to some design methodology, it's software that does something fabulous. If you're trying to do something fvulous, you wouldn't write something in a lousy way.
+
+Programmer vs. developer: The kind of person who uses them. Engineer = Used in big companies. Developer = Slightly less. Hackers = What they call themselves. Programmers = Generic.
+
+"Bad" hacker is also like "good" hacker, it means you are sneaky and you're doing what you are not supposed to do. Sometimes the difference is whether what they're doing is illegal or not.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

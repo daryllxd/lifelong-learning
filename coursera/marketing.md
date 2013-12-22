@@ -1,3 +1,603 @@
+## 1.1-1.2: Marketing 101 Building Strong Brands
+
+__Marketing is the study of a market: an exchange between two entities.__
+
+In the seller’s market, we have product-focused marketing. We should develop the product to the best of our ability. We should sell as much as we can The objective is market share! Product-focused.
+
+In a buyer’s market, what you need is to look at what that customer wants, and deliver something that the customer exactly wants, and create a product to meet their need. Customer-focused. The intuition of customer-focused marketing is to focus on just the customers that you need. Deliver value to a customer, something that they are willing to pay for. If we give things that are exactly what the customer wants, then we might get paid a higher price for it. We can also transact with the customer multiple times. It’s cheaper to retain customers vs. acquiring them.
+
+Connected Community: It’s not a one-to-one conversation anymore. Customers buzzing is good or bad news on every transaction with the customer. This means you need to be transparent and focus on customer experience and customer value.
+
+#### Different Orientations:
+- Production Orientation: We want to persuade the customer to want what the firm has.
+- Marketing Orientation: We want to persuade the firm to offer what the cx wants.
+- Experience Orientation: We want to manager the cx's entire experienece with the firm.
+- Trust Orientation: We want to prioritize building a relationship of trust and discipline.
+
+#### 3 Principles
+- Customer Value: Give them real, genuine customer value.
+- Differentiation: You need to provide this better than the competition.
+- Segmentation, Targeting, and Positioning: Focus and position to meet the needs of that target segment.
+
+#### 4 Ps
+- Product, Place, Promotion, Price
+- Seller = product. Buyer = price. Distribution = place.
+
+Ex: Red cross. Blood = price. “Feel good about myself”, sticker, orange juice and cookies, allowing to miss class (for high school) = product.
+
+## 1.3:Strategic Marketing
+
+#### Market-Driven Principles
+- __Know Your Markets.__ We have to know what customers want, and how competitors react. You have to research and stuff.
+- Customers have the final say. The customers will choose what they want, at the end of the day. Now, because of TMI, customers bundle stuff according to: operations factors (costs), product features and design, “whether or not it meets my needs”. _Cx then choose the product that is the best in a specific category, but is sort of decent at the other parts._
+- So you have to be the best at some thing, and be good at other things. This affects everything else about a company. 
+- Deliver total quality to guarantee customer satisfaction.
+
+#### Fair Value
+- Offering more benefits = customers will choose to pay a higher price, as long as it appears to be fair.
+- The f-v line constantly changes over time when a part of the market gets saturated.
+
+#### Strategies for Leadership
+- In our marketplace, what are we good at? How can we define what’s good in our area?
+- Where is “fair value”? What are our customers’ expectations. Sometimes, this is the average of everyone’s perception. Sometimes, this is something impossible.
+- Long term: Best at 1, good at the other 2.
+
+## 1.4: Strategic Market Flipchart
+
+
+What does it mean for you to be “operationally excellent” in your industry?
+
+What does it mean for you to have “superior performance” in your industry?
+
+What does it mean for you to have “customer intimacy” in your industry?
+
+Fair value: What is the expectation that your customer has?
+
+When a new product comes in, we usually start at the middle end. Over time, people get used to and require features.
+
+When you have a mature market, markets get operationally excellent, and price keeps going down and down.
+
+Basically, discover what fair value is, and discover where you are and where the competitors are as well.
+
+
+Ex: Red short-term: PE (“let’s not get shut out on PE”), and long-term: “we want to be the best at OE”.
+
+## (1.5)/1.6: Segmentation
+
+#### Positioning Process
+- Segmentation: Identify variables that allow one to segment the market.
+- Targeting: Evaluate the attractiveness of each segment and choose a target segment.
+- Positioning: Identify positioning concepts for each target segment, select the best, and communicate it.
+
+Market segmentation is the process of dividing a market into distinct subsets, where any subset may conceivable be selected as a marketing target to be reached with a distinct marketing mix (4Ps).
+
+#### Methods
+- Characteristics of the customer: Gender, age, nationality
+- Benefits sought
+- Purchase behaviors/channels
+- Cohort analysis: It’s not whether you are young or old, but the life experiences you have.
+	- __Marketers are very interested in people coming of age because many times, you make purchases at this age, and then you become loyal to the brand for a long time.__
+	- Generation Y (1977-1997): Likes free content, tele-commuting, everything social, wireless, "the right fit". Dislikes: Anonymous mass marketing, beaten paths, restricted access.
+	- Millenials: Big shoppers, creators of social media stuff, connected, socially responsible.
+- Geographical segmentation/zip clustering: People who live in the same area tend to be similar to each other (PRIZM segmentation).
+- Where you live physically also affects your online behavior.
+
+#### Select a Target Segment: Criteria
+- Segment Size
+- Growth of Segment
+- $ Value of Segment
+- Stability
+- Current Company position within segment
+- Ease of entry
+- Ease of competitive entry
+- Number and strength of competitors
+
+Balance the attractiveness of the segment with the capability of your company.
+
+## 1.7: Brand Positioning
+
+Formally, a brand is just a proprietary trademark for a specific product or service.
+
+Conceptually, it is a contract from the company to its customers (what you’ve come to expect from a company).
+
+Because people are a connected community, it’s “whatever the customer thinks it is”.
+
+If your message/brand is not so clear, customers create their own perception of you.
+
+#### Positioning Statements
+
+_Apple Computers offers the best personal computing experience to students, educators, creative professionals and consumers around the world through its innovative hardware, software, and Internet offerings._
+
+_IBM... for businesses who need computers, IBM is the company you can trust for all your needs._
+
+__Positioning Statements: Target Segment + Point of Difference + Frame of Reference__
+
+Apple: “Students, educators…” + “Innovative hardware” + “Other companies which provide personal computing”
+
+You have to make a choice. Without a choice you become lukewarm tea!
+
+Positioning affects: strategic vision, product development, and the story you want to impart.
+
+#### Point of Parity
+- Associations that are not unique to the brand and are shared with other brands.
+- Category POPs: associations consumer views as necessary to be considered credible. Ex: Grocery stores have to have products!
+- Competitive POPs: Associations designed to negate competitors point of difference. Ex: All toothpastes “fight cavities”.
+
+### Point of Difference
+- Strong, favorable, unique brand associations
+- Similar to the notion of USP (unique selling proposition)
+- SCA: sustainable competitive advantage
+- Are POD desirable to the customer?
+- Is POD relevant? (Who the fuck needs clear cola) Is POD distinctive?
+- Can you actually deliver the product across: feasibility (pricing), communicability, sustainability (difficult to attack).
+
+## 1.8: Brand Positioning: The Elevator Speech
+
+There’s a lot of ways to do marketing wrong, and only a few ways to do marketing right.
+
+What we actually want to end up is at least an elevator speech or a brand mantra.
+
+#### Mental Map: What comes to mind when you think about X?
+- Core Brand Values: The set of abstract concepts or phrases that characterize the five to ten most important dimensions of the mental map of a brand. Then relate that shit.
+- Brand Mantra: The brand essence. Create that shit after you get the brand values. Think that everything you do has to fit to that mantra is.
+
+This is used to internally guide decisions: what do we do and what should we not be associated with:
+
+- The __brand function__ describes the nature of the product of service or the type of experiences or benefits the brand provides.
+- The __descriptive modifier__ further clarifies its nature.
+- The __emotional modifier__ provides another qualifier: how exactly does the brand provide benefits, and in what way?
+
+					Emotional 		Descriptive 	Brand Function
+		Nike		Authentic 		Athletic 		Performance		
+		Disney		Fun 			Family 			Entertainment
+		McDonalds 	Fun 			Family 			Food
+
+## 1.9: Experiential Branding
+
+
+We don’t just need to be differentiated, other people need to have a different experience when they are with us.
+
+We have a relationship between a customer, and individualized relationship.
+
+Strong brands give an emotional experience.
+
+You want a good experience across all five senses.
+
+
+You want these across the 4Ps.
+
+
+
+Pricing: Think eBay.
+
+Channel: Think of the stores and the lifestyle someone is expecting when they buy your brand.
+
+
+Every little thing is thought out by people themselves. Sometimes they become religions.
+
+
+Be consistent, be a superior product, be distinctive, be aligned to the internal and external commitment to the brand, be and stay relevant
+
+2.1: Shopper Marketing
+
+In order to feed the brand of choice, we need to understand the shopping experience from the shopper’s point of view.
+
+Shoppers make impulse purchase decisions.
+
+Shoppers make decisions based on habit, intuition, and emotion.
+
+Shoppers make decisions based on what they see (and miss).
+
+Shoppers think in terms of personal relevance (Who is it for? When do I use it?)
+
+The shopping process is a multi-stage process.
+
+
+Multiple channel process: online or offline, and it doesn’t matter what time.
+
+As a marketer, you want to make sure your brand is still in contention as the consumer progresses from stage to stage.
+
+2.2: Shopping Process
+
+Sometimes there needs to be a trigger, and companies can help the consumer recognize that they need to do stuff.
+
+If this is not a natural need, then the marketer needs to create the need. Then people pay attention to product/brands related to the category.
+
+If a retailer wants users to get to the store more often, they create shopping goals. There are different signs that remind the consumer that it’s “back to school time”. 
+
+Sometimes, consumers voluntarily give out emails, and the brand sends out people for special sales.
+
+Creating urgency: Online flash sales (both online and offline).
+
+Create news/dialogue using social media: triggers shopping process.
+2.3: Information Search Stage
+
+After search for information, consumer come up with a consideration set: things that consumers consider when choosing a product.
+
+The number of brands you can evoke (evoke set) is very small. You start with 50 brands, then evoke set, then consideration set.
+
+
+Internal search: From the advertising and constant repetition.
+
+If you’re not here, you suck!
+
+You can also create brands through Flagship stores both online and offline (ex: Apple store).
+External Search (store)
+
+Goal driven vs. taxonomic: “I need ketchup” means someone goes straight to the ketchup section. “I need something for dinner” means someone is heavily influenced by the store itself.
+
+Social influences: Someone posting a status on Facebook, consumer reviews, and salespeople.
+Getting Customers’ Attention
+
+Capacity is limited and information could do so much. Use color blocking!
+
+When redesigning a brand, you have to make sure the redesign is connected to the old design.
+
+You can indicate differently priced items by a different packaging. The same for different flavors. 
+2.4: Choice Overload
+
+Once the user has a consideration set, they evaluate the products, and hopefully they make a purchase!
+
+Many times, consumers are overwhelmed, and they just don’t buy stuff. Iyengar’s jam study:
+
+
+Variety was attractive, but too much choice was overloading.
+
+Perceived variety vs actual variety: When there were 6 colors of jellybeans, they chose more when the 6 flavors were scrambled. When there were 24 colors of jellybeans, they chose more when they were organized (it seems okay) but scrambling it is too much.
+
+So for marketers, the strategy is to have as many choices as possible without getting choice overload.
+
+Get someone to be an “expert” to choose for you.
+
+Align stuff by a category: calories, price, colors, the less amount perceived complexity.
+
+Help consumers learn preferences via an app or something.
+2.5: Purchase Stage
+
+Well first, the product has to be in stock. ☺
+
+Assuming that the product is in stock, consumers evaluate:
+
+The price
+
+Increase accessible variety re: multiple purchases.
+
+In supermarkets, consumers are pretty mindless when choosing stuff. Shoppers were not that aware of the price.
+
+Average time between arriving and departing from product category: 12 seconds
+
+85% of purchases: Only the chosen brand was the one they checked out.
+
+21% of shoppers cannot offer a price estimate when asked.
+
+50% were able to state correct price (not absolute, but 93% knew the relative price “I bought the cheapest” “I bought the middle”)
+
+Consumers do not evaluate price absolutely, either:
+
+External: What the marketer sets. Without an anchor, customers have a harder time making a decision. (Ex: low price guarantee, some people just feel better when there is a lower price guarantee).
+
+Internal: What the consumer thinks of. “A can of soda should be $1.”
+
+Interesting color names increases the likelihood of choice!
+
+2.6: Post-Purchase
+
+What matters is if the consumer is satisfied, and if they are going to repeat buy or recommend.
+
+Actually, what a consumer prefers is not the actual performance, but the perceived performance.
+
+This is also subject to specific expectations. The evaluation should be greater than the consumer’s expectations.
+
+
+If positive, they are more likely to repurchase and tell other people re: word of mouth. Marketers need to manage expectations anyway.
+
+If negative, consumers switch to competitors and spread negative word of mouth (which is 9 times more likely to spread), complaints, lawsuits.
+
+If you address a complaint immediately, you can actually generate a higher satisfaction.
+Contagious: What information is likely to be shared?
+
+Social currency: This makes us look good.
+
+Triggers: When people are reminded, they are likely to share.
+
+Emotion: Emotional messages are more powerful.
+
+Public: Making behavior makes it more catching.
+
+Practical: We like to be useful and informative.
+
+Stories: If someone can share stories, then they’d prefer it. “Authentic Salmon Steak”, “Icelandic tuna”.
+Shopper Marketing
+
+Be the shopper themselves!
+
+Shoppers make impulse decisions and make decisions based on habit, intuition, and emotion.
+
+So, how does their expectation get managed?
+
+3.1: Brand Messaging and Communication
+Perception:
+
+The process of developing an interpretation of a stimulus, or deciding what a stimulus means.
+
+What customers perceive is what affects their actions. What customers perceive is not necessarily true.
+
+Perception is constructive: people construct interpretations as a function of context. The meanings are constructd as needed and are based upon two major factors:
+
+The actual stimulus (exposure and attention). You can choose to just not go to a shady part of town and because of that you won’t be able to change your perspective on it.
+
+For voluntary attention, we have selective attention and exposure.
+
+Once you are able to perceive something, we interpret it depending on previous things that happened in our lives and our prior expectations. So expectations are frequently biased, and they don’t represent what’s true.
+
+Your perceptions affect your subsequent behavior, and it’s very hard to control that even if you say “well I know that I will be biased and I want to prevent that”.
+
+You cannot block this effect because it is an automatic one. It is involuntary.
+
+Proximity bias: When things are closer together, then we interpret it as similar. Implicit!
+
+Similarity bias: things that look alike, people assume they have the same quality.
+
+Ex: When you slap the Coca-Cola brand, even if the product is EXACTLY the same, then they have perception changes, even if they say they aren’t affected by the brand name. Brand is just so popular that the Coca-Cola brand is worth 70B.
+
+Even without knowing anything, people were willing to spend more to purchase Diet Coke.
+
+## 3.2: Elements of a Brand
+
+The brand elements have to work together to provide an identity for the product or service. What would customers think about the product if they only saw the brand elements?
+
+#### Brand Element Choice Criteria
+- Memorable: Easily recognized, easily recalled.
+- Meaningful: Descriptive, persuasive.
+- Appealing: Fun and interesting, aesthetic, rich visual imagery.
+- Protectable: Legally, competitively.
+- Adaptable: Flexible, updateable.
+- Transferable: Within and across product categories, across geographical boundaries and cultures.
+
+#### Brand Elements: Advantages and Disadvantages
+- Names: Easy to process, but difficult to change.
+- Logos: Attention-getting, can reinforce associations, but can get outdated or misinterpreted.
+- Characters: Rich meaning, attention getting, but can slo get outdated or not spread globally.
+- Slogans and Jingles: Highly memorable, catchy, conveys meaning, but is difficult to translate.
+- Packages (packaging): Recognizable, but there might be concerns in the channel and production.
+
+#### Effects
+- Consumers: Affects likelihood of purchase.
+- Employess: Affects morale and productivity.
+- Firm: Can limit opportunities (new products and new regions) if the brand name sucks.
+- Investors: Can cause subconscious judgments about the company’s merits/strengths.
+
+#### Type of Names
+
+
+
+Virgin: When Richard Branson thought of creating a record company, one of the girls thought that everyone was still virgins at that point. It’s fun.
+
+Priceline: Very descriptive, quite clear in what it means.
+
+Google: Chosen by mistake, wrong spelling. It plays around itself a ton of times but people are still able to recognize what it is.
+
+Names for New Start-ups: New businesses need their own websites and the URLs have been taken: Mibblio, Kaggle, Zaarly.
+
+
+
+Gap rebranding: If you have visual and verbal things in conflict with each other, the visual takes priority first. You are attracted first to the block.
+
+Non-all caps: people think it was a word (which means hole) rather than as a brand.
+
+Brand names in China: Keep your names in your native language because Chinese characters have their own meanings.
+
+3.3: Brand Elements: Colors and Taglines
+
+Rules about color: The ultimate goal is to own a color (which is hard because there aren’t that many colors out there). Ex: Tiffany’s light blue and Mary Kay’s pink.
+
+Color can also be used to separate product lines.
+
+Different viewers experience color differently: ensure consistency of color across platforms and media (this is difficult).
+
+Colors can create very strong perceptions: luxury = gold, silver, black white. Gender = blue and pink.
+
+
+Rules about Color
+
+Red: stimulates the appetite, means love and passion and excitement and it stimulates appetite.
+
+Blue: color most prefered by men; productive color; curbs appetite.
+
+Green: tranquil, health, money, fertility.
+
+Brown: reliable, boredom, practical.
+
+White: purity, innocence, empty, spacious.
+
+Black: evil, death, mourning, slimming.
+
+Yellow: bright, gives you energy, been show to make babies cry, causes eye fatigue.
+
+Orange: excitement, enthusiasm.
+
+Lavender: calms the nerves.
+
+Purple: royalty, wealth.
+
+Pink: feminine, calming.
+Roles of Symbols
+
+Mr. Clean = strong man for cleaning shit.
+
+Wells Fargo horses = independence, Wild West.
+
+Symbols can be dated, though.
+Slogans/Taglines
+
+Can remove some of the ambiguity associated with brand and/or symbol.
+
+Can generate its own equity/emotion (“reach out and touch someone”).
+
+Tagline basics: Must be short. Must be differentiated from competition. Cannot have any negative connotations. Can be protected and trademarked. Must evoke an emotional response.
+Types
+
+Imperative: “Just do it”, “Invent”, “Think Different”
+
+Descriptive: “Moving at the Speed of Business” UPS), “Bullish on America” (Merrill Lynch), “You’re in Good Hands” (Allstate)
+
+Superlative: “The Ultimate Driving Machine” (BMW), “There’s No Better Way to Fly” (Lufthansa)
+
+Provocative: “Got Milk?” (Dairy Council)
+
+Clever: “Drivers Wanted” (VW)
+3.4: Packaging
+
+1930s packaging research started when self-service supermarkets started becoming more popular. When consumers started to bring stuff, they realized that packaging is important.
+
+People preferred detergent that was in the box with circles rather than triangles. They preferred the packages with the circles (and that the detergent was better) even though they were exactly the same. (Tide still has circles).
+
+Packaging can influence at the point of purchase and it can have a continuing influence at the point of consumption.
+
+Multiple objectives
+
+Identify
+
+Present information
+
+Protect and allow transportation
+
+Storage
+
+Aid consumption
+
+In a sea of competing messages, the package has to grab consumers’ attention. But it has to work so that customers can buy again.
+Examples
+
+Calvin Klein: Need to be seen as edgy (it was a unisex one). People aren’t exactly experts when they choose fragrances so packaging is very, very important.
+
+Absolut: Iconic bottle shape, it was hard to use for bartenders because the neck was short. But it was something to remember.
+
+Coca-Cola: Very distinctive shape. When the bottle went from glass to plastic, they really wanted to recreate their shape in plastic.
+
+Heinz: The shape actually makes it hard to get the ketchup out of it.
+
+3.5: Brand Elements: Persuasion
+
+Persuasion: an active attempt to change belief and attitude. EXTREMELY HARD because people aren’t scientific about it.
+Central Route to Persuasion
+
+If people are motivated and they are highly involved and if they have the opportunity and the ability to process marketing messages, then the way to persuade them is through central cues and arguments.
+Peripheral Route to Persuasion
+
+When motivation, opportunity, ability, and elaboration likelihoods are low, then just focus on peripheral cues.
+
+Peripheral Cues: People think of these heuristically.
+
+Classical conditioning: Persuade people by putting things together all the time. Ex: Coke + Big Mac.
+
+Reciprocity: You owe me.
+
+Consistency: We’ve always done it that way.
+
+Social Proof: Everybody’s doing it.
+
+Liking: Love me, then love my ideas. Not rational but makes sense.
+
+Authority: Just because I say so.
+
+Scarcity: Quick, before they’re all gone.
+What makes a good celebrity endorser?
+
+Central processing: The person is an expert so there is information there.
+
+Peripheral: Because the celebrity is attractive or likeable.
+
+Considerations: Celebrity/audience fit, celebrity/brand fit, celebrity attractiveness, practical (cost, celebrity exposure, risk, etc.)
+
+Social network, celebrity should have followers.
+
+High Q-rating: “How appealing is this celebrity among those who do know him/her?”, ratio of popularity/familiarity.
+
+Transfer of meaning: Celebrities are charged with detailed and powrful meanings. An ad firm chooses a celebrity that best represents the appropriate symbolic properties of the product.
+
+fMRI scans show that there is more brain activation when presented with images of celebrities: a visceral reaction to celebrity.
+Ex: Tiger Woods
+
+Source models/source credibility: Effectiveness depends on celebrity’s “expertness” and “trustworthiness”.
+
+Source attractiveness: familiar, likable, similarity.
+Modes of Usage
+
+Explicit: I endorse this product.
+
+Implicit: I use this product.
+
+Imperative: You should use this product.
+
+Co-present: Celebrity appears with product.
+3.6: Repositioning a Brand
+5 Rationales for Brand Change
+
+The identity/execution was poorly conceived.
+
+Perfect positioning, but the target for the identity is limited. Need to change to reach a broader market.
+
+The identity has become out of date.
+
+The identity has lost its edge and it becomes old-fashioned. Their position which was once contemporary has become less so.
+
+Same over time becomes boring to consumers, losing ability to attract attention.
+Consistency!
+
+Most brands, when they reposition, need to be close to the old one, so people can make the connection again.
+
+Ex: Cognitive inconsistency for smoking. People rationalize to make the chain of “me-smoking-death” to allow themselves to smoke.
+
+“I don’t think smoking is unhealthy.” “I only smoke sometimes.” “I can’t live forever, anyway.”
+
+Everyone makes rationalizations to make sure that they are always right!
+Ex: Oldsmobile
+
+The association between Oldsmobile and “dad’s car” was bad. So they wanted to make a new ad saying that it was exciting.
+
+The problem was that there is a big cognitive dissonance so it didn’t work.
+
+It is next to impossible to reposition because the car literally has old in the name.
+Evolving Brand Associations
+
+A brand can evolve more gradually to gain more contemporary associations while maintaining familiarity.
+
+Update symbols, brand names, slogans, and new products.
+
+
+Butterfly effect: Just jump out, to keep things modern and new and fresh. The idea of freshness is enough to make it buyable.
+
+
+No more hamburgers since it is more than Wendy’s. The redhead is no longer trapped inside the circle. The typeface is newer.
+Changing Brand Names to Eliminate Constraints
+
+Boston Chicken to Boston Market.
+
+Weather Channel to Weather Companies.
+
+Starbucks to Just their Image.
+Example: BMW
+
+Before: Expensive, German, Baby Boomers.
+
+Change: Design of the cars, sunglasses, high-performance bikes, golf tournaments.
+Major Points
+
+Consistency over time is very valuable in building strong brands.
+
+All brand elements should work in harmony to communicate brand identity.
+
+Change is sometimes necessary–but be cautious!
+
+Begin by understanding sources of equity and the currenty contributions to POP and POD, strength, favorability and uniqueness.
+
+
+
+
+
+
+
 ## 5.1: From Product-Centric to Customer Centric
 
 #### Review of 3 Axes
