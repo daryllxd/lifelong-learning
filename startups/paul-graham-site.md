@@ -307,7 +307,7 @@ Really good software is not written according to some design methodology, it's s
 
 Programmer vs. developer: The kind of person who uses them. Engineer = Used in big companies. Developer = Slightly less. Hackers = What they call themselves. Programmers = Generic.
 
-"Bad" hacker is also like "good" hacker, it means you are sneaky and you're doing what you are not supposed to do. Sometimes the difference is whether what they're doing is illegal or not.
+"Bad" hacker is also like "good" hacker, it means you are sneaky and you're doing what you are not supposed to do. Sometimes the difference is whether what they're doing is illegal or not. 
 
 
 

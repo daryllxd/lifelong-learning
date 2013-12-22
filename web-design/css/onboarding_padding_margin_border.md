@@ -19,3 +19,10 @@ Shorthand: width || style || color
 The `margin` property defines the outermost portion of the box model, creating space around an element, outside of any defined borders.
 
 __To center something, you have to specify a `width` and set the left and right margins to `auto`.__
+
+Centering Stuff
+•	You know the size of the parent
+position: absolute; top: 50%; margin-top: -(half of size of element)px; left: 50%; margin-left: -(half of size of element)px;
+•	Absolute positioning
+left = (x-y)/2 //x = parent width, y = element width
+•	Fluid width: Percentage on left value, then negative margin of half the width of the child element
