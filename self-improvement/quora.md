@@ -1,0 +1,23 @@
+##[How can I accelerate my personal growth?](http://www.quora.com/Self-Improvement/How-can-I-accelerate-my-personal-growth)
+
+- In other words, choose "anxiety-driven growth" over "boredom-driven growth". Whenever you can, as long as the water's not too far over your head, just jump in, and figure it out as you go.
+- Most people grow an average of 10% per year. But this is way too slow if you want to accomplish great things. Aim for at least 25% per years.
+	- Be surrounded by people who are smarter than you. They will most likely be your colleagues for the next 30 years.
+	- Have an opportunity to fail. You want to have about 30-60% chance to fail. To improve, you have to be put in positions where success is not guaranteed.
+	- The company has a history of giving massive responsibility to people that look like you. High growth, so you can have high responsibility and gain skills more quickly.
+- "What step can I take right at this moment, no matter how small, to get closer to my goal?"
+- "What is the most important thing I did today?" "What is the most important thing I'll do tomorrow?"
+- Environment is super important: Make sure you are surrounded by people who are driven, optimistic, supportive.
+- Work in locations where you have greater control on your environment.
+- Reduce context switching. Focus on one task only.
+- Work with and under highly skilled people.
+- Maintain good health via exercise.
+- Have fun and avoid burnouts.
+- Take risks that your peers do not, you MUST do this because the road less traveled is by definition the only road that will allow you to get ahead because getting ahead means doing things differently. Go for big successes or big failures. Anything in between doesn't stand out. The worst thing you can be in your career is invisible.
+- Second, you'll notice that the people who accomplish a lot ALWAYS surrounded themselves with exceptional people smarter than themselves. From Steve Jobs to Gandhi, they were able to recognize, attract, and retain great people.
+- Lastly, the type of product, company, and industry you are working in will heavily influence your future opportunities. Tech is a great place to be no matter what your skill set is. 
+- "If you’re offered a seat on a rocket ship, don’t ask what seat. Just get on."
+- Be very mindful of who your friends and associates are. What you consume heavily influences who you are and what you become. Personal growth is experiences-driven.
+- Define what personal growth means to you. And ask yourself why it's so important to you.
+- Surround yourself with people you'd like to emulate... people who have accomplished the goals you want to achieve. Whether it's volunteering your time at a local business to gain valuable people in your network OR attending events that pertain to your field OR even joining a club. This is extremely important.
+- 
