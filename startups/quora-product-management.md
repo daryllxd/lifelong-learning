@@ -85,7 +85,9 @@ Dropbox
 •	Make feedback painless, then iterate!
 •	“How’s Dropbox?” Awesome or needs work?
 •	Generate short URLs
+
 Why Education Startups Do Not Succeed
+
 •	Entrepreneurs thnk of education as a quality problem. The average person thinks of it as a cost problem.
 •	Building in education does not follow an Internet company’s growth, it is more of for solving problems in education for the next 20 years.
 •	Possible opportunity to solve education problem in Asia.
