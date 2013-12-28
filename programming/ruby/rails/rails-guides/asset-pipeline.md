@@ -31,3 +31,25 @@ You can also opt to include controller specific stylesheets and JavaScript files
 
 	<%= javascript_include_tag params[:controller] %>
 	<%= stylesheet_link_tag params[:controller] %>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

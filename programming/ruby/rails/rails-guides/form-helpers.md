@@ -149,6 +149,84 @@ The Article model is directly available to users of the application, so — foll
 
 #### 2.4 How do forms with PATCH, PUT, or DELETE methods work?
 
+The Rails framework encourages RESTful design of your applications, which means you'll be making a lot of "PATCH" and "DELETE" requests (besides "GET" and "POST"). However, most browsers don't support methods other than "GET" and "POST" when it comes to submitting forms.
+
+Rails works around this issue by emulating other methods over POST with a hidden input named "_method", which is set to reflect the desired method:
+
+	form_tag(search_path, method: "patch")
+
+	<form accept-charset="UTF-8" action="/search" method="post">
+	  <div style="margin:0;padding:0">
+	    <input name="_method" type="hidden" value="patch" />
+	    <input name="utf8" type="hidden" value="&#x2713;" />
+	    <input name="authenticity_token" type="hidden" value="f755bb0ed134b76c432144748a6d4b7a7ddf2b71" />
+	  </div>
+
+## 3 Making Select Boxes with Ease
+
+	<%= select_tag(:city_id, '<option value="1">Lisbon</option>...') %>
+
+	<%= options_for_select([['Lisbon', 1], ['Madrid', 2], ...], 2) %>
+
+_The second argument to options_for_select must be exactly equal to the desired internal value. In particular if the value is the integer 2 you cannot pass "2" to options_for_select — you must pass 2. Be aware of values extracted from the params hash as they are all strings._
+
+Third param: options (`:include_blank`, `prompt`).
+
+Arbitrary attributes:
+
+	<%= options_for_select([['Lisbon', 1, {'data-size' => '2.8 million'}], ['Madrid', 2, {'data-size' => '3.2 million'}]], 2) %>
+
+	<option value="1" data-size="2.8 million">Lisbon</option>
+	<option value="2" selected="selected" data-size="3.2 million">Madrid</option>
+
+#### 3.2 Select Boxes for Dealing with Models
+
+	# controller:
+	@person = Person.new(city_id: 2)
+
+	# view:
+	<%= select(:person, :city_id, [['Lisbon', 1], ['Madrid', 2], ...]) %>
+
+	[TODO]
+
+## 4 Using Date and Time Form Helpers
+
+## 5 Uploading Files
+
+A common task is uploading some sort of file, whether it's a picture of a person or a CSV file containing data to process. The most important thing to remember with file uploads is that the rendered form's encoding MUST be set to "multipart/form-data". If you use form_for, this is done automatically. If you use form_tag, you must set it yourself, as per the following example.
+
+	<%= form_tag({action: :upload}, multipart: true) do %>
+	  <%= file_field_tag 'picture' %>
+	<% end %>
+	 
+	<%= form_for @person do |f| %>
+	  <%= f.file_field :picture %>
+	<% end %>
+
+Rails provides the usual pair of helpers: the barebones file_field_tag and the model oriented file_field. The only difference with other helpers is that you cannot set a default value for file inputs as this would have no meaning. As you would expect in the first case the uploaded file is in params[:picture] and in the second case in `params[:person][:picture]`.
+
+#### 5.1 What Gets Uploaded
+
+The object in the params hash is an instance of a subclass of IO. Depending on the size of the uploaded file it may in fact be a StringIO or an instance of File backed by a temporary file. In both cases the object will have an original_filename attribute containing the name the file had on the user's computer and a content_type attribute containing the MIME type of the uploaded file. The following snippet saves the uploaded content in #{Rails.root}/public/uploads under the same name as the original file (assuming the form was the one in the previous example).
+
+	def upload
+	  uploaded_io = params[:person][:picture]
+	  File.open(Rails.root.join('public', 'uploads', uploaded_io.original_filename), 'wb') do |file|
+	    file.write(uploaded_io.read)
+	  end
+	end
+
+Once a file has been uploaded, there are a multitude of potential tasks, ranging from where to store the files (on disk, Amazon S3, etc) and associating them with models to resizing image files and generating thumbnails. 
+
+#### 5.2 Dealing with Ajax: `remote: true`
+
+## 6 Customizing Form Builders
+
+## 7 Understanding Parameter Naming Conventions
+
+For example in a standard create action for a Person model, params[:person] would usually be a hash of all the attributes for the person to create. The params hash can also contain arrays, arrays of hashes and so on.
+
+
 
 
 
