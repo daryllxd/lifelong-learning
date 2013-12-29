@@ -1,3 +1,16 @@
+## [Making sense with Ruby's "unless"](http://37signals.com/svn/posts/2699-making-sense-with-rubys-unless) and [Unless, The Abused Ruby Conditional](http://www.railstips.org/blog/archives/2008/12/01/unless-the-abused-ruby-conditional/)
+
+- Don't use `unless` with more than a single logical condition.
+- Avoid negation because `unless` is already a negate.
+- Never ever use an `else` with an `unless` statement.
+- 
+
+
+
+
+
+
+
 ## [5 Common Rails Mistakes](http://www.mikeperham.com/2012/05/05/five-common-rails-mistakes/)
 
 - Migrations with no schema specifics. Add `:null`, `:limit`.
