@@ -1,3 +1,54 @@
+## [Dan Ariely: What makes us feel good about our work?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work.html)
+
+Naive intuition: People care about the money, and when we give them money, we can direct them to work another way. So we give bonuses to bankers and pay in all kinds of ways.
+
+But people climb mountains. While climbing a mountain, there's nothing but misery. Even after doing such as terrible activity, they climb the mountain again. It is about the flight, the challenge.
+
+Guy that was making a PowerPoint about a company merger was excited about actually doing the thing. But when the merger was cancelled, he was depressed knowing that nobody would watch the presentation.
+
+Bionicle expriment: Sisyphusian condition sucked! People made less Bionicles then. People predicted that correctly, yes, but they underestimated how much the meaning of the Bionicles was important. Even when people love Legos, they were more happy than average while building Bionicles, but when subjected to the Sisyphean condition, they felt the same as others. So breaking things in front of people's eyes crush any joy they could get out of this activity.
+
+Ignoring the performance of people is almost as bad as shredding their effort in front of their eyes. By just saying "uh-huh", you can destroy people's motivations. But the good news means that adding motivation is really not so difficult.
+
+Positive motivation with IKEA: He likes the stuff he built because he built it. The same with cake mixes, the ladies wanted to actually create the cake by beating an egg. With origami, they really liked building the shit, even though observers were unbiased and said they were just okay. Even with harder instructions, builders actually liked what they did even when evaluators thinked it sucked more.
+
+This is why we would not sell our kids but we would also not buy other people's kids. We think our kids are really valuable because of our time and connection.
+
+### [Mihaly Csikszentmihalyi: Flow, the secret to happiness](http://www.youtube.com/watch?v=fXIeFJCqsPs)
+
+He group up in Europe/WW2 and he realized that just few grown-ups were able to withstand the tragedies of the war. He studied philosophy, art, religion to figure out the answer, and he encountered psych.
+
+US: Just 30% of the people since 1956 say they are very happy. No change, regardless of the doublng and tripling of personal income (even when counting for inflation). (This applies to people above the minimum poverty level only.)
+
+He looked at creative peopl to understand what made them feel that it was worth spending their life doing things for which they didn't expect fame or fortune, but made their life meaningful.
+
+"Ecstasy", Greek means you stand to the side of something. It is about stepping into an alternative reality. We see this in the ancient civilizations (China, Greece, Hindu, Mayans, Egyptians), what we know about them is their ecstasies, not their everyday life. We know temples, circuses, arenas, theaters.
+
+This composer doesn't need to go to the place, but he just puts little marks on a piece of paper and he is able to imagine sounds and create stuff. He begins to enter a different reality. This sounds cheesy but it is because humans can only process about 110 bits of information per second. Humans talking are about 60. So you can't hear and understand more than 2 people talking to you.
+
+When you are completely engaged, he doesn't have attention to monitor how his body feels, his problems at home. Existence is temporarily suspended.
+
+This process can only happen when you have been trained and have developed the basic technique. In creativity you need about 10 hours to actually create something. Then the music plays out.
+
+Successful, ethical, socially responsible CEOs define success as something that helps others and at the same time makes you feel happy as you are working at it. Ex: Sony, the ideas was they want to establish a place of work where engineers can feel the joy of technological innovation.
+
+The 7 conditions:
+
+- Focus
+- Leads to a sense of ecstasy/clarity
+- You know exactly what to do from one moment to the other
+- You get immediate feedback
+- You know that you can do the thing, even though it is difficult
+- Sense of time disappears, you forget yourself, and you feel part of something larger
+
+We need to get a mean level of challenge and skill first. Then we can predict when you will be in flow, and it will be when your challenges are higher than average and skills are higher than average.
+
+Arousal is good when you are over-challenged a bit. Your skills are not quite as high as they should be, but you can move into flow easily by developign a little more skill. We want to be at arousal. Control is also okay, because you feel comfortable, but not very excited.
+
+Relaxation is fine, but boredom is aversive. No challenge and it sucks. Most people experience apathy: watching TV or sitting in the bathroom.
+
+So, how do you put more in the flow channel?
+
 ### [Zapatos nuevos: Pachi Tamer at TEDxRosario 2013](http://www.youtube.com/watch?v=13Dy45RHFlk)
 
 People have a lot of prejudices. As soon as they saw me approaching their car, they were closing the window or they looked away pretending that nobody was there, they were feeling uncomfortable with themselves for a while.
@@ -98,9 +149,6 @@ Epicurus argued that the fear of death is natural, but it is not rational. The i
 #### Imagine the book of your life. Its covers–its beginning and end–are your birth and your death. You can only know the moments in between, the moments which make up your life. It makes no sense for you to fear what is outside those covers, whether before your birth or after your death. And you needn't worry how long the book is, or whether it's a comic strip or an epic. 
 
 #### The only things is that you make it a good story.
-
-
-
 
 ### [Kelly McGonigal: How to Make Stress Your Friend](http://www.youtube.com/watch?v=RcGyVTAoXEU)
 

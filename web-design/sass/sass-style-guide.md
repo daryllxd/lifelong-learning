@@ -35,7 +35,7 @@
 - Break Into As Many Small Files As Makes Sense: There is no penalty to splitting into many small files. Do it as much as feels good to the project.
 - Locally, compile compressed. Deployment, compile compressed.
 - Don't even commit .css files.
-- Be gnerous on comments.
+- Be generous on comments.
 - Variablize all numbers and colors.
 - Shame (quick fixes) last.
 
