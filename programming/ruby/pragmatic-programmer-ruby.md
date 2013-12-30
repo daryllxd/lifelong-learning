@@ -662,30 +662,7 @@ Require is an executable statement: it could be inside an if or it could include
  
 
 ## 10: Reading and Writing Files
-gets: reads a line from standard input
-file.gets: reads a line from the file object file
-Iterators
 
-Spit out exceptions if the files don’t exist.
-File.open("testfile") do |file|
-file.each_byte {|ch| putc ch; print "." }
-end
-
-#Per line
-File.open("testfile") do
-      file.each_line {|line|
-end
-
-#Entire file: String, or array of lines
-str = IO.read("testfile")
-str.length → 66
-arr = IO.readlines("testfile")
-arr.length → 4
-Talking to Networks ???
-require 'socket'
-client = TCPSocket.open('127.0.0.1', 'finger')
-client.send("mysql\n", 0) # 0 means standard packet puts client.readlines
-client.close
  
 
 ## 11: Threads and Processes
