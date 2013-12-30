@@ -18,6 +18,3 @@
 	'RubyMonk Is Pretty Brilliant'.gsub /[A-Z]/, '0' # replace capitals with number 0, using RegEx.
 	'RubyMonk Is Pretty Brilliant'.match(/ ./, 10) # RegEx matching, but starts at index 10.
 
-## Expressions
-
-	Truth: Everything except nil and false
