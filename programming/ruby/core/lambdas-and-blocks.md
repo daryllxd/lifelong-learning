@@ -90,8 +90,40 @@ Optional yield:
 
 	yield(value) if block_given?
 
+## Explicit blocks
 
+Sometimes, the performance benefits of implicit block invocation are outweighed by the need to have the block accessible as a concrete object.
 
+Explicit f(x), implicit block: 
+
+	# We explicitly define that a block should be passed in via the &block parameter.
+	def calculation(a, b, &block) # &block is an explicit (named) parameter
+	 block.call(a, b)
+	end
+
+	puts calculation(5, 5) { |a, b| a + b } 
+
+Implicit f(x), explicit block: 
+
+	# Nothing is implied based on the function signature, but a block is def. required.
+	def calculation(a, b)
+	  yield(a, b) # yield calls an implicit (unnamed) block 
+	end
+
+	addition = lambda {|x, y| x + y}
+	puts calculation(5, 5, &addition)
+
+The block should be the last parameter passed to a method. Placing an ampersand (&) before the name of the last variable triggers the conversion.
+
+	def filter(array, block)
+	  return array.select {|x| block.call(x)}
+	end
+
+	# is the same as 
+
+	Filter = lambda do |array, &block|
+	 array.select(&block)
+	end
 
 #### Explanation of WTF blocks actually do:
 
@@ -162,6 +194,8 @@ lambda will raise an ArgumentError here because it requires the third argument.
 __`proc` is a code snippet__, copy and paste, so you actually exit immediately when you hit the `return` statement. `__Lambda` is an actual method__ that is executed, so it produces the "lambda" and carries on with the method.
 
 Think of `lambda`s as a way of writing anonymous methods.
+
+__`Proc.new` is something that’s hardly ever used to explicitly create blocks because of these surprising return semantics. It is recommended that you avoid using this form unless absolutely necessary.__
 
 Method Objects
 	
