@@ -1,4 +1,4 @@
-# GrowthHacker.tv: Code School
+## GrowthHacker.tv: Code School
 
 Envylabs was very active in promotion but all the coursers were on their original domain.
 
@@ -73,7 +73,8 @@ Referral campaigns: A lot of unknowns there.
 Good UI: You always hit the right button, every time.
 
 Analytics and measurement. You need to start narrowing in on your users.
-# GrowthHacker.tv: Matt Ellsworth: VP Growth, Storefront
+
+## GrowthHacker.tv: Matt Ellsworth: VP Growth, Storefront
 
 We want to make it easy to have offline stores.
 
@@ -212,7 +213,7 @@ Figuring out parts that don’t work: is it because it sucks, or because it does
 
 Real-time data: good for operational stuff. If you want to test things, wait for a few days.
  
-# GrowthHacker.tv: Tracy Chou, Engineer Pinterest
+## GrowthHacker.tv: Tracy Chou, Engineer Pinterest
 
 Good answer: Focus on the benefit, not the features! Don't make answers to "what is x" to be an engineering answer.
 
@@ -237,6 +238,92 @@ Feed quality: We want to have good content per pin. Machine learning, classifier
 Growth: Weekly and notification email. This is the off-site channel to get people to come back. Send email when someone repinned your pin, so you can check stuff. Weekly email with recommendations of good stuff to look at. Third party email sender: Sendgrid.
 
 Growth is a lot of small things that are chained together. Need to instrument and measure stuff.
+
+## GrowthHacker.tv: Guy Kawasaki, Author, Reality Check
+
+Bad: Forced immediate registration. Your lucky to actually have a company that discovers your company at first. But this registration thing is like creating a wall. It's like going to a restaurant and you're asked for a registration when nobody's here. Don't do it up front. It doesn't have to be the first thing ever, though.
+
+You probably won't want to register immediately. So why would you ask another person to do it?
+
+We want to make it very easy for people to share things. Just click random stuff! "Click to Tweet" XD.
+
+People want to share stuff but I think email is just so powerful anyway. The signal-noise ratio is less in emails than in social networks.
+
+Adoption is in the details and it does things really well.
+
+Sell, don't just enable buying. You need to push things down people's throats. Either you're stupid or you're arrogant. Stupid if you think that people just do it once, it's like just a commercial you play just once. Arrogant if you think that people would really want to do the thing anyway. If you watch CNN and ESPN they run the identical thing at least a few times a day.
+
+Push a ton! Think KISSmetrics Twitter. You would rather not risk losing 10 people for x gains? If there are a ton of people who love the product, the people who hate probably are people who won't buy it anyway.
+																																																								
+Separate distribution from virality. Guy is biased to super broad distribution. "I'm over-distributed" is a good problem to have. Why would you worry about exclusivity? You're not selling Rolexes and Porsches.
+
+If you lack distribution, I don't see how virality could happen. Without a good product, why would you sell it? Marketers find distributors, product people/engineers find ways to make something viral, and both of them increase distribution.
+
+FOCUS ON REVENUE. At the end of the day you make the sale or you don't. Who care about viral stuff because sales fixes everything. In terms of keeping everyone happy, sales is pretty easy.
+
+Startup PR: It's actually just having a great product. It is a lot easier to evangelize good stuff rather than crap. -.-
+
+Best advice: Get your ass on social media, if you're a restaurant, figure out how to get 60K followers or something. You always want to provide value. Social media is not a fad, it's here. When things have value, it's easy to retweet stuff.
+
+##  GrowthHacker.tv: Andrew Dumont: Moz
+
+FAQ section of the site can be used to get the long-tail queries for SEO. Put a call-to-action there.
+
+Think of the questions that a user might possibly type in Google when they Google their needs.
+
+Does long-tail really matter? It does! It's a much higher quality, in a lot of cases.
+
+Manual outreach to the first customers: We reached out to the first 100 people individually. We asked for their feedback like legit personal. Mailchimp is good for doing things on a larger scale. Things like that are optimizing for the happiness of your customers. 
+
+Extended free trials: This has accounted for 10K free trials. We go to startup accelerators and we offer a longer free trial on our product. We partner with the Global Free Accelerator and it provides incentive to the partner to distribute and the users to use.
+
+They track competitor mentions, they do want to know when something is happening outside. It's sometimes easier to piggyback on existing press.
+
+Double loop referral program (Dropbox). It works a bit. The 20% of sales might be a combination of different things.
+
+Bearfight program: Big value is SEO value. You need to find ways to get good backlinks to you. We do something with our company list.
+
+Social prospecting: Just looking at Twitter and listening to what they are mentioning. The goal is to provide value (truly becoming helpful), not just sending links back to you.
+
+Video syndication: If you create any video content, we had this thing on Udemy, we offered free videos. When users sign up, then you can message them. This is essentially an email list. These are QUALIFIED LEADS. GrowthHacker strategy was that they sent a discount (timed for 48 hours) plug to udemy for this.
+
+Add a gamification layer, we send a cool phrase when someone closes a sale. GH: At the end of the episode, the video is shareable.
+
+Winback: When someone cancels the account, 60-90 days after, you come back to them with an extended free trial or something, you can tell them you added new features. Sometimes, people just don't want to be customers... for now.
+
+Cancellation surveys are good to know what exactly happened. Make a likeable email. Just make a super funny email. So people will tell you what part of the service sucks.
+
+Stride makes a quick little note and they send it out to the customers. Send a handwritten note, people love that. Hire a VA if you need. It's scalable.
+
+Follow along. You are able to see the overlap between the two followers (Twitter double @ @ ).
+
+Guides: Moz has a ton of guides, and that guide has been super super important to bring in the sign-ups. The same for Stride! The big key to doing guides is that you educate customers to become better customers. The more they know about SEO, the more value people get from Moz. The other thing is search. It's being searched on the domain. So whenever somebody links to the Beginner's Guide to SEO, it helps! They are REALLY REALLY VALUABLE, they take a lot of time but it is really useful.
+
+Industry surveys: We become a source of information because we have all the SEO people. People come to you for the surveys and discussions and white papers etc.
+
+Free standalone tools: We can take a loss at the leading sale with the expectation that we can make it back.
+
+Growth to me is you don't know which channel is going to work. We just want to take bets. Over time we have a lower and lower quality for this. It's more of figuring out what channels are good and which are not.
+
+Constantly be doing new things. Try 5, then if it fails, try 5 again.
+
+## Neil Patel, KISSMetrics
+
+He got TechCrunch +30% and GM +300%. Figure out what's causing the Traffic. Where is it coming from? For TC, this is Social. Let's remove the crappy channels.
+
+Then we fix the double entries. Then cross-promote. Growth is hard but sometimes it's the common things that people don't look at.
+
+Google Analytics has analytics but it just tracks things like views.
+
+Power report: Show me all the people that did this within whatever customer segment etc.
+
+KISSMetrics hits are all inbound. Social media, content marketing, SEO. It is about writing good content. At first it was just awesome content. Then we got writers and guest posts.
+
+Learn how to execute really fast, use data to learn from your experiences. If you're not tracking your data, you don't know how you'll help yourself. Just ask yourself how you get customers or not. 
+
+# GrowthHacker.tv: Georgiana Laudi
+
+In a homepage, there are a million leaks. You want one goal to achieve. A standalone landing page won't let you do that. For campaigns it would really be good to have a 
 
 
 

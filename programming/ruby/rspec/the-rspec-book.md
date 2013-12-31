@@ -368,10 +368,58 @@ The entire feature:
 
       ...
 
->codebreaker_submits_guest.feature
+## Automating Features with Cucumber
 
+When Cucumber starts up, it loads up all the Ruby files in the same directory as the file and any of its subdirec- tories. This includes features/step_definitions/codebreaker_steps.rb, where we copied the step definition earlier.
 
+In this case, we called the Given( ) method and passed it a Regexp and a block. Cucumber then stores the block in a hash-like structure with the Regexp as its key.
 
+We leave /^I am not yet playing$/ blank because it isn't supposed to do anything. We are just using it to provide context.
+
+>step_definitions/codebreaker_steps.rb
+
+	Given /^I am not yet playing$/  do
+	  
+	end
+
+	When /^I start a new game$/ do
+	  Codebreaker::Game.new.start
+	end
+
+We totally get an error on 'starting a new game' because we haven't written the code yet. Write the code you wish you had!
+
+>Directory structure to fix the thing
+
+	- root
+		- features
+			- step_definitions
+				- codebreaker_steps.rb
+			- support
+				- env.rb
+			- codebreaker_starts_game.feature
+			- codebreaker_submits_guess.feature
+		- lib
+			- codebreaker
+				- game.rb
+			- codebreaker.rb
+
+>game.rb
+
+	module Codebreaker
+		class Game
+			def start
+			end 
+		end
+	end
+
+>codebreaker.rb # bootstrapping thingie
+
+	require 'codebreaker/game'
+
+>env.rb # you now require the 'codebreaker' lib
+
+	$LOAD_PATH << File.expand_path('../../../lib', __FILE__) 
+	require 'codebreaker'	
 
 
 
