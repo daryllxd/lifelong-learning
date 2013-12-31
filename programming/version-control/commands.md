@@ -17,3 +17,7 @@ Pull from remote but different branch
 
 	$ git pull [remote_location] [remote_branch]
 	$ git pull origin master
+
+Alias for add + commit
+
+	$ git config --global alias.add-commit '!git add -A && git commit'
