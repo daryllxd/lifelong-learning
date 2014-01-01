@@ -515,6 +515,24 @@ We get "PENDING: Not Yet Implemented`. To make it work, we pass a block to the `
 	      
     end
 
+Mocks were created by `Rspec::Mocks` to create a dynamic test double framework.
+
+#### Green: Get the Example to Pass
+
+Oks
+
+`as_null_object`: Tells the mocked object to only listen for the messages we tell it to expect, and ignore any other messages.
+
+Refactoring: We know that everything still works even while we are editing the frigging code.
+
+When the code in a `before` block is only creating instance vars and assigning them values, we can use RSpec's `let()` method instead.
+
+The first call to `let()` defines a memoized output() that returns a double object.
+
+## Adding New Features
+
+
+
 
 
 
