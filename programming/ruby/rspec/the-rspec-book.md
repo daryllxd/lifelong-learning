@@ -421,6 +421,114 @@ We totally get an error on 'starting a new game' because we haven't written the 
 	$LOAD_PATH << File.expand_path('../../../lib', __FILE__) 
 	require 'codebreaker'	
 
+#### Test Doubles
+
+We need a fake object that the `Game` thinks is STDOUT, but it really just captures messages for us so we can set expectations about the messages.
+
+>codebreaker_steps.rb
+
+	Then /^I should see "[^"]*)$/ do |message|
+		output.messages.should include(message)
+	end
+
+This means test will fail because we don't have the mock stuff yet. Add mock:
+
+>codebreaker_steps.rb
+
+	class Output
+	  def messages
+	    @messages ||= []
+	  end
+
+	  def puts(message)
+	    messages << message
+	  end
+	end
+
+	# memoization: the first time it is called, it creates an @output and stores it in the @output variable.
+
+	def output
+		@output ||= Output.new
+	end
+	
+You should also update the `lib` itself:
+
+>game.rb
+
+	class Game
+
+		def initialize(output)
+		  @output = output
+		end
+
+		def start
+		end
+
+	end
+
+## Describing Code with RSpec
+
+> spec/codebreaker/game_spec.rb
+
+	require 'spec_helper'
+
+	module Codebreaker
+	  describe Game do
+	    describe '#start' do
+	      it 'sends a welcome message'
+	      it 'prompts for a first guess'
+	    end
+	  end
+	end
+
+`describe` hooks into RSpec's API to create a subclass of class `Rspec::Core::ExampleGroup`. This is a group of examples of the expected behavior of an object.
+
+The `it()` methods creates an `example`. 
+
+To get this to work, you should create the spec helper.
+
+>spec/spec_helper.rb
+
+	require 'codebreaker'
+
+And run the thing
+
+	$ rspec spec/codebreaker/game_spec.rb --format doc --color
+
+We get "PENDING: Not Yet Implemented`. To make it work, we pass a block to the `it()` method. Without the block, the example is considered pending.
+
+#### Red
+
+	describe '#start' do
+		it 'sends a welcome message' do
+			output = double('output')
+			game = Game.new(output)
+
+			output.should_receive(:puts)
+			.with('Welcome to Codebreaker!')
+
+		end
+
+		it 'prompts for a first guess' do
+
+		end
+	      
+    end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

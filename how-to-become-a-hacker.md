@@ -21,7 +21,6 @@ The basic difference is this: hackers build things, crackers break them.
     see through the master,
     become the master.
 
-
 #### 1. The world is full of fascinating problems waiting to be solved.
 
 Being a hacker is lots of fun, but it's a kind of fun that takes lots of effort. The effort takes motivation. Successful athletes get their motivation from a kind of physical delight in making their bodies perform, in pushing themselves past their own physical limits. Similarly, to be a hacker you have to get a basic thrill from solving problems, sharpening your skills, and exercising your intelligence.
