@@ -352,21 +352,22 @@ Following convention, we’ve named the columns using the same names that are in
 
 The entire feature:
 
-  Scenario Outline: submit guess
-    Given the secret code is "<code>"
-    When I guess "<guess>"
-    Then the mark should be "<mark>"
+  	Scenario Outline: submit guess
 
-    Scenarios: no matches
-      | code | guess | mark |
-      | 1234 | 5555  |      |
+	    Given the secret code is "<code>"
+	    When I guess "<guess>"
+	    Then the mark should be "<mark>"
 
-    Scenarios: 1 number correct
-      | code | guess | mark |
-      | 1234 | 1555  | +    |
-      | 1234 | 2555  | -    |
+	    Scenarios: no matches
+	      | code | guess | mark |
+	      | 1234 | 5555  |      |
 
-      ...
+	    Scenarios: 1 number correct
+	      | code | guess | mark |
+	      | 1234 | 1555  | +    |
+	      | 1234 | 2555  | -    |
+
+	      ...
 
 ## Automating Features with Cucumber
 
@@ -531,21 +532,153 @@ The first call to `let()` defines a memoized output() that returns a double obje
 
 ## Adding New Features
 
+>codebreaker_steps.rb (Regex shit to see the thingies)
 
+	Then /^I should see "([^\"]*)"$/ do |message|
+	  output.messages.should include(message)
+	end
 
+Not enough, we have to create the guess methods because this will fail:
 
+    Scenarios: no matches
+      | code | guess | mark |
+      | 1234 | 5678  |      |
 
+## Specifying an Algorithm
 
+The RSpec code examples we wrote for the Codebreaker starts game fea- ture specified a simple responsibility of the Game: send messages to the output. The next responsibility is more complex. We need to spec- ify the algorithm we’re going to use to mark a guess submitted by the codebreaker.
 
+This is one of those moments that makes people who are new to TDD uncomfortable. We know with some certainty that this is not the implementation we want when we’re finished, and we might even have a good idea of what that implementation should be. The problem is that we don’t have enough examples to really specify what this code should do, so any code that we write right now would be speculative.
 
+One of the benefits of progressing in small steps is that when we intro- duce a new failure, we know exactly what we just did, so we have con- text in which we can analyze the failure. Both failures are because of one more minus sign than we were expecting in the mark. What about the change we just made would cause that to happen?
 
+## Refactoring with Confidence
 
+	def guess(guess)
+		mark = ""
+		(0..3).each do |index|
+			if exact_match? guess, index
+				mark << "+"
+			end
+		end
 
+		(0..3).each do |index|
+			if number_match? guess, index
+				mark << "+"
+			end
+		end
+	end
 
+Code smells: Temporary Variable and Long Method. Both of them are related to procedural methods like this.
 
+Temporary Variable: `mark`. Long Method: A method that does more than one thing. We want methods to have only one reason to change as the requirements of a system change so that we can make changes in small steps and with confidence.
 
+Temporary variables can be useful in the process of refactoring, but only temporarily.
 
+Extract Method refactoring: We create a new empty method with the name we want to use, move the code from the source method to the target method, and adjust as necessary.
 
+	$ rspec spec --backtrace # backtrace for each feature.
+
+__First refactor: Make `guess` literally just output the guess, without any computations.__
+
+>game.rb
+
+	def guess(guess)
+		@output.puts '+'*exact_match_count(guess) + '-'*number_match_count(guess)
+	end
+
+__Second refactor: Move to `inject` instead of `each` to remove the temporary variable.__
+
+>game.rb
+
+    def number_match_count(guess)
+      number_match_count = 0
+      (0..3).each do |index|
+        if number_match?(guess, index)
+          number_match_count += 1
+        end
+      end
+      number_match_count
+    end
+
+> new version
+
+    def number_match_count
+      (0..3).inject(0) do |count, index|
+        count + (number_match?(index) ? 1 : 0)
+      end
+    end
+
+#### Large class
+
+This is not about size; it's about responsibilities. The `Game` violates the SRP because it formats output, sends messages to output, and marks each guess.
+
+It was violating SRP since we first introduced the guess() method, but that violation and its solution are much more clear now.
+
+We have four methods that all deal with marking a guess. These meth- ods clearly belong together. We might even be tempted to put a com- ment above the first one indicating that the next four methods deal with marking the guess. This is a strong hint that we’re missing an abstraction in our design.
+
+__Third refactor: Extract the Class out.__
+
+Extract Class refactoring is needed for an SRP violation. The steps are:
+
+- Creating an empty `Marker` class inside the `Game` class.
+- Add an initializer to the `Marker` that accepts the secret code and assigns thet hing.
+- Copy the calculation methods into the new Marker, without deleting the originals.
+- Creating a new Marker in the guess method and trying the new class out.
+- Remove the original copies.
+
+__Fourth refactor: Pass everything to the Marker, instead of just the guess, so that the Marker can do only one thing, and not be reliant on the guess.__
+
+>game.rb
+
+	def guess(guess)
+		marker = Marker.new
+		...
+	end
+
+	class Marker
+		def initialize(secret)
+			@secret = secret
+		end
+		...
+	end
+
+>Refactored
+
+	def guess(guess)
+		marker = Marker.new(@secret, guess)
+		...
+	end
+
+	class Marker
+		def initialize(secret, guess)
+			@secret, @guess = secret, guess
+		end
+	end
+
+Instead of passing around guess through other methods, pass it through `initialize` as a method of abstraction. This makes `Marker` a more self-contained class with only one responsibility, which is to mark shit.
+
+__Fifth refactor (?): Move to own file.__
+
+After the refactor, you should update the specs and shit. This is how you will know if the refactor was decent and your test structure is decent because the changes you should make should be as minimal as possible.
+
+	$ rspec spec --format nested # You will be able to see the test results for each of the classes XD.
+
+#### Exploratory Testing
+
+Exploratory testing is a practice in which we discover the behavior of an application by interacting with it directly. It is the opposite of the process we’ve been learning about, in that we’re looking to see what the app actually does and then question whether that is the correct behavior.
+
+Perhaps you’re wondering why we’d want to do exploratory testing if we’ve already tested the app. Well, we haven’t. Remember that BDD is a design practice, not a testing practice. We’re using executable exam- ples of how we want the application to behave. But just as Big Design Up Front fails to allow for discovery of features and designs that nat- urally emerge through iterative development, driving out behavior with examples fails to unearth all of the corner cases that we’ll naturally discover by simply using the software.
+
+## Feeding Back What We’ve Learned
+
+One issue you may have encountered is the way in which the Marker handles duplicate matches. If the secret code is 1234 and the guess is 1155, we get a mark of +-.
+
+t’s tempting, when this sort of question comes up, to make assump- tions about how things should work. Fight that temptation! This is exactly what Cucumber is for. We can sit down with the customer and sketch out some scenarios and talk about them. Cucumber’s simple use of Given, When, Then is a great facilitator for this sort of conversa- tion. And in our case, our use of Cucumber’s scenario outlines makes it even easier.
+
+We could modify the design such that we keep track of each number in the secret code and disqualify it for future matches once it’s been matched, but that would require returning to the more procedural approach we left behind in the previous chapter.
+
+Algorithmically, we can just start from the end and work backwards. So we count the total matches and get less the exact match count.
 
 
 
