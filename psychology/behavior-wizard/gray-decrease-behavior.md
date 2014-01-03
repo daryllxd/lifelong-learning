@@ -1,0 +1,1 @@
+To achieve Gray Path: Remove trigger, reduce ability (make it hard to do), replace motivation with de-motivators: pain, fear, social rejection.
