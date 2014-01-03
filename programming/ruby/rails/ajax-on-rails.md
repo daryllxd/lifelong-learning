@@ -1,0 +1,2 @@
+## How Rails Implements Ajax:
+
