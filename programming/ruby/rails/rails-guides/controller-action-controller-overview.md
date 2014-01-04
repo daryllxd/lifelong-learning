@@ -316,6 +316,58 @@ If the request was remote Rails will just display a simple "500 Server Error" me
 
 
 
+## [Active Record scopes vs class methods](http://blog.plataformatec.com.br/2013/02/active-record-scopes-vs-class-methods/)
+
+#### Defining a Scope: 2 Ways
+
+	class Post < ActiveRecord::Base
+	  scope :published, where(status: 'published')
+	  scope :draft, -> { where(status: 'draft') } 
+	end
+
+First way is evaluated when the class is evaluated.
+Second way is a lazy loader class. Use the second way to prevent bugs associated with time.
+
+	class Post < ActiveRecord::Base
+	  scope :published_last_week, where('published_at >= ?', 1.week.ago)
+	end
+
+`1.week.ago` will be evaluated when the class loads, not every time the scope is called.
+
+__Internally, scopes are just class methods. So why use scopes?__
+
+Scopes are always chainable: 
+
+	class Post < ActiveRecord::Base
+	  scope :by_status, -> status { where(status: status) }
+	  scope :recent, -> { order("posts.updated_at DESC") }
+	end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

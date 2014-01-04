@@ -1,5 +1,50 @@
 ## Ruby API, Pickaxe Book, RubyMonk
 
+#### API
+
+- Hashes enumerate their values in the order that the corresponding keys were inserted. 
+- We can create hashes via strings and via symbols. `grades = { "Jane Doe" => 10, "Jim Doe" => 6 }` or `options = { :font_size => 10, :font_family => "Arial" }`.
+- Hashes also have a default value, declared on `grades = Hash.new(0)`. This is accessible via the `grades.default` method.
+
+__Equality method__
+
+	def ==(other)
+		self.class === other and
+	    other.author == @author and
+		other.title == @title
+	end
+
+__Instance Methods__
+
+	h = {"colors"  => ["red", "blue", "green"], "letters" => ["a", "b", "c" ]}
+
+    h.assoc("letters")  							#=> ["letters", ["a", "b", "c"]]
+    h.clear            								#=> {}
+    h.default 										#=> {}
+    h.default = 5									#=> 5
+    h.default_proc Hash.new{|h,k| h[k] = k * k}		#=> #Proc If Hash::new was invoked with a block, return that block.
+    h.delete("colors")								#=> ["red", "blue", "green"]
+    H.delete("dqdq"){|e1| "#{e1} not found"}		#=> "dqdq not found" # return block if key doesn't exist
+    h.delete_if{|k, v| k >= "b"}					#=> delete all where block evaluates to true
+
+    h.each{|k,v| block}
+    h.each_pair{|k, v| block}
+    h.each											#=> an_enumerator
+    h.each_pair										#=> an_enumerator
+
+    h.each_key{|k| block}							#=> calls block once for each key in hsh, passing the key as param
+    h.each_pair{|k, v| block}
+    h.each_value{|v| block}							#=> calls block once for each key, passing in value
+    h.empty?
+    h.equal?										#=> same content
+	h.fetch(key, [, default])						#=> ret default if not exist
+	h.flatten
+
+`each_with_index` awesomeness
+	
+	hash.each_with_index{|(k, v), index}
+
+
 #### Initialization
 
 	# Unorthodox
