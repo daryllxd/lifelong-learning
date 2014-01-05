@@ -343,9 +343,45 @@ Scopes are always chainable:
 	  scope :recent, -> { order("posts.updated_at DESC") }
 	end
 
+Scopes can also be extended (wow)
 
+	scope :page, -> num { # some limit + offset logic here for pagination } do
+	  def per(num)
+	    # more logic here
+	  end
+	 
+	  def total_pages
+	    # some more here
+	  end
+	 
+	  def first_page?
+	    # and a bit more
+	  end
+	 
+	  def last_page?
+	    # and so on
+	  end
+	end
 
+We can also use a module:
 
+	module PaginationExtensions
+	  def per(num)
+	    # more logic here
+	  end
+	 
+	  def total_pages
+	    # some more here
+	  end
+	 
+	  def first_page?
+	    # and a bit more
+	  end
+	 
+	  def last_page?
+	    # and so on
+	  end
+	end
 
 
 

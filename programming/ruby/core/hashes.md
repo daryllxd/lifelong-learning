@@ -44,6 +44,8 @@ __Instance Methods__
 	
 	hash.each_with_index{|(k, v), index}
 
+	
+
 
 #### Initialization
 

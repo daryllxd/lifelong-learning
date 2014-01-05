@@ -1,6 +1,6 @@
 ## git
 
-To get out of the thing: "q"
+To git out of the vim thing (huehue): "q" 
 
 	$ git remote add origin https://daryllxd@github.com/ueccssrnd/name-of-project.git
 	$ git remote set-url origin git://new.url.here
@@ -27,6 +27,31 @@ Pull from remote but different branch
 
 	$ git pull [remote_location] [remote_branch]
 	$ git pull origin master
+
+Cloning from BB
+
+	$ git clone https://daryllxd@bitbucket.org/icanpassaccounting/icpa.git icpa_redesign
+
+Where am I?
+
+	$ git branch (local)
+	$ git branch -a (remote)
+	$ git checkout [branch_to_checkout]
+
+Moving across the thingies!!!!!
+	
+	$ git log # Check mo kung nasaan ka
+	$ git checkout 1234567  # traverse through the commits via the sha thingie.
+	$ git checkout redesign # to move back to the original head
+
+Pull from remote but different branch
+
+	$ git pull [remote_location] [remote_branch]
+	$ git pull origin master
+
+## ALIASES-DESU for add + commit
+
+	$ git config --global alias.add-commit '!git add -A && git commit'
 
 ## heroku
 
