@@ -21,7 +21,7 @@ A controller is a Ruby class which inherits from ApplicationController and has m
 	  end
 	end
 
-What happens that if a user goes to `/clients/new`, Rails will create an instance of `ClientsController` and run the `new` method.
+If a user goes to `/clients/new`, Rails will create an instance of `ClientsController` and run the `new` method.
 
 ## Parameters
 

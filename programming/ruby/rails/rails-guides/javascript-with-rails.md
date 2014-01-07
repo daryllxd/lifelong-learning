@@ -1,3 +1,4 @@
+* Before you actually do the Ajax thing, ask yourself why are you doing Ajax? It's not possible to redirect from 
 * Difference between format.js and format.json: format.js is for internal use, format.json is for api stuffies.
 * Okay to do this, you need to fix: In the view, set `remote: true` in the form. In the view-specific JS, do client-side stuffies. In the controller, set `respond_to do |format| to send responses out.`
 
