@@ -45,7 +45,15 @@ The default app/assets/javascripts/application.js file is a manifest file. It’
 
 Directives tell Sprockets which files should be combined to build a single JavaScript script. Each file that contains manifest directives becomes a single JavaScript script with the same name as the original manifest file. Thus the app/assets/javascripts/application.js manifest file becomes the application.js script.
 
+#### Site-wide, Page-specific Scripts
 
+- Put the site-wide shit into the `sitewide/` directory and `require_tree` that shit.
+- "They only become available site-wide because they are contatenated into the application.js script."
+- Paloma gem?
+- Better to use gemified versions of JS because this gives you the advantage of RubyGems as a package manager.
+- Some external scripts such as GAnalytics are cached by the browser. 
+- GAnalytics (.js.erb), put the <% if Rails.env == 'production' %> at the top.
+- Namespacing assets: You can do `<body class="projects">` and shit. Or you can do `<body class="<%= controller_name %> <%= action_name %>">`
 
 
 
