@@ -55,9 +55,20 @@ Directives tell Sprockets which files should be combined to build a single JavaS
 - GAnalytics (.js.erb), put the <% if Rails.env == 'production' %> at the top.
 - Namespacing assets: You can do `<body class="projects">` and shit. Or you can do `<body class="<%= controller_name %> <%= action_name %>">`
 
+## Building Maintainable Forms
+
+When we build forms to create or update records in Rails, we use the form_for() helper. This helper does a lot of work for us, including automatically deter- mining which HTML action and method to use for the record based on Rails and REST conventions.
 
 
+form_tag() is the generic form tag helper and can be used to create ad hoc forms. Because form_tag() doesn’t have the model-related smarts of form_for(), we don’t use it when the form’s subject is a model: we’d rather let Rails do the extra work for us. Why figure out which URL to send the form results to and what the current value of every field is if we don’t have to?
 
+When your form is backed by a model, use form_for(). When it’s not, use form_tag().
+
+Notice we modified our form_for() invocation to pass multipart: true. This option tells Rails to generate the <form> tag with an enctype attribute that will force the request to be encoded as multipart/form-data.
+
+Using a <fieldset> is great for things like address blocks and credit card blocks in e-commerce systems, not to mention grouping a series of checkboxes or radio buttons into a single input. We use <fieldset> to group related fields in our forms and rely on it for styling. Even when there’s one group of fields in a form, it’s a good habit to get into, so we’ll add it to our creation form, skip- ping the optional `<legend>`:
+
+Generic classes can cause nightmares for developers; CSS is hard to document clearly, and tracking down unexpected display behavior (someone else’s idea of how everyone else’s inline class should look) can be time-consuming and frustrating.
 
 
 

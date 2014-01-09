@@ -115,10 +115,138 @@ It would be better to do this:
 
 - This is good because we don't need to figure out a scheme for the ID attribute. Rails will select an ID.
 - It is also easier to read. We aren't putting a tag inside another tag, which sucks.
-- Java
+- JavaScript `data-` thingie.
+
+>app/helpers/creations_helper.rb
+
+	def switching_creation_tag_for(creation, &block)
+		content_tag_for(:li, creation, class: creation.file_type, &block)
+	end
+
+## Adding Cascading Style Sheets
+
+Avoid require_tree because it is alphabetically thingie. 
+
+The require_self directive takes the styles defined in the file itself and inserts them at this point. We can use this to add ad hoc styles to our application.css that we don’t necessarily want to rip out into a separate file. The fact that we can put require_self before or after the other directives gives us the flexibility to control in exactly what order the content is inserted, which is important when it comes to the precedence of the CSS rules.
+
+Rails ships with an assets:precompile Rake task that will handle generating static files for you.a You can either run this locally (if you don’t want to go through the bother of installing some dependencies on your server) and ship the files during deployment, or you can have the task run on the server immediately after deployment (e.g., for Capistrano, after "deploy:update_code").
+
+`&`: Instead of adding the selector as a child of the enclosing selector, it replaces the `&` with the name of the enclosing selector. `&.client` becomes `li.client`.
+
+Flexible mixins
+
+	@mixin popout($inside: #ccc, $surrounding: #ddd){
+		background-color: $inside;
+		border-top: lighten($inside, 80%) 1px solid;
+		border-bottom: darken($surrounding, 20%) 1px solid;
+	}
+
+#### Referencing Images from SCSS: Use image-path.
+
+	.notice{
+		background{
+			color: #006302;
+			image: url(image-path('notification_check.png'))
+		}
+	}
+
+##### Sprites: [TODO]
+
+## Adding JavaScript
+
+#### Using jQuery UJS
+
+>show.html.erb
+
+	<p>
+		<%= link_to "Remove Creation", @creation, method: 'delete',
+		confirm: "Are you sure you want to remove this creation?" %>
+	</p>
 
 
+<%= semantic_form_for [@creation, Comment.new] do |f| %> 
+	<%= f.inputs :body, label: false %>
+	<%= f.buttons do %>
+		<%= f.commit_button 'Add Comment' %> 
+	<% end %>
+<% end %>
 
+	<ul id='comments'>
+		<%= render @creation.comments %>
+	</ul>
+	<h3>Add Comment</h3>
+	<%= render 'comments/form' %>
+
+>artflow/js/app/views/comments/create.js.erb
+
+	$('#comments').append("<%=j raw(render(@comment)) %>");
+
+`j()` helper is a syntactic sugar for `escape_javascript()`, which takes the string and cleans it up so that it can be safely inserted into JS.
+
+#### Testing Ajax
+
+Together, Cucumber and Capybara make an impressive acceptance testing framework that will help us make sure all the pieces of our application work correctly for our users.
+
+	gem 'capybara'
+	gem 'cucumber-rails'
+	gem 'launchy'
+	gem 'database_cleaner'
+	gem 'factory_girl'
+
+	$ cucumber:install
+	$ rake cucumber #0 scenarios and 0 steps
+
+	Scenario: Designer can sign in
+	Given I am designer "Lindsay Bluth" with an account 
+	And I sign in
+	Then I should see "Welcome, Lindsay Bluth"
+
+>Opening and showing the actual page at that time
+
+	Then /^show me the page$/ 
+		do save_and_open_page
+	end
+
+#### Manual Testing with Selenium IDE
+
+One favorite of our quality assurance team is the Selenium IDE, which allows them to record the tests while browsing the site in Mozilla Firefox
+
+To install the Selenium IDE, we simply visit the Selenium website with Firefox and install the extension.
+
+When we click Add Creation, it calls a function called clickAndWait(), which does exactly what a user would do: it clicks a link and waits for it to load. The parameter of link= is what is called a locator, and it lets us select a block of text and act upon it, in this case, by clicking it.
+
+One of the other powers of Selenium is its ability to work with a third-party solution, like SauceLabs’ OnDemand offering,15 which uses Selenium Remote Control and Selenium Grid,16 to test multiple browsers at once. 
+
+__We don’t start with generalized CSS classes; we work toward them as we notice commonalities appear in various places throughout our application.__
+
+## Forms
+
+#### Building Custom Form Builders
+
+	<%= form_for @creation, html: {multipart: true} do |f| %>
+	<% end %>
+
+Meet ActionView::Helpers::FormBuilder. It might just be the best friend you never knew you had. 
+
+The FormBuilder instance yielded to our block knows all about the object the form is handling (in our case, @creation) and has access to the template so that it can generate and insert tags. It can check for errors, create labels and inputs for attributes, and even change a portion of a form to handle a com- pletely different object (using f.fields_for).
+
+	<%= text_area_tag 'comment[body]', @comment.body %> #form_tag
+	<%= f.text_area :body %> #form_for
+
+#### Defining a Form Builder
+
+>lib/application_form_builder.rb
+
+	class ApplicationFormBuilder < ActionView::Helpers::FormBuilder
+	end
+
+Autoloading is a facility that Rails uses to automatically require() files when it encounters a constant that it doesn’t recognize in an attempt to resolve the constant. It does this by a simple naming convention, looking under a whitelist of direc- tories.
+
+New in Rails 3, lib/ has been removed from that list. Since we’re going to conform to the naming conventions (putting modules in subdirectories, etc.), we’ll tell Rails it’s really okay to allow autoloading from lib/. We modify our config/application.rb and set the following:
+
+>artflow/forms/config/application.rb
+
+	config.autoload_paths += %W(#{config.root}/lib)
 
 
 
