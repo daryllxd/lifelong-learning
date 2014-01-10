@@ -228,7 +228,7 @@ __We don’t start with generalized CSS classes; we work toward them as we notic
 
 Meet ActionView::Helpers::FormBuilder. It might just be the best friend you never knew you had. 
 
-The FormBuilder instance yielded to our block knows all about the object the form is handling (in our case, @creation) and has access to the template so that it can generate and insert tags. It can check for errors, create labels and inputs for attributes, and even change a portion of a form to handle a com- pletely different object (using f.fields_for).
+The FormBuilder instance yielded to our block knows all about the object the form is handling (in our case, @creation) and has access to the template so that it can generate and insert tags. It can check for errors, create labels and inputs for attributes, and even change a portion of a form to handle a completely different object (using f.fields_for).
 
 	<%= text_area_tag 'comment[body]', @comment.body %> #form_tag
 	<%= f.text_area :body %> #form_for
@@ -247,6 +247,106 @@ New in Rails 3, lib/ has been removed from that list. Since we’re going to con
 >artflow/forms/config/application.rb
 
 	config.autoload_paths += %W(#{config.root}/lib)
+
+>_form.html.erb
+
+<%= f.field_item :name do %>
+	<%= f.text_field :name %>
+<% end %>
+
+[TODO] Read on the form helper construction thingie.
+
+Formtastic?
+
+## Using Presenters
+
+Presenters are custom classes that simplify access to a model or other aggregation of information and know how to get at (or build) the information we need to display.
+
+First we’ll look at how we can use presenters in templates to help us more easily display information about model records, and then we will see how we can use presenters from controllers for data serialization.
+
+Think of our presenter as a super-powered helper—a helper object.
+
+>lib/designer_status.rb
+
+	class DesignerStatus
+		def initialize(designer)
+			@designer = designer
+		end
+	end
+
+The data we need to pull together for the view is pulled from some associations on the designer.
+
+	def active_projects_count
+		active_projects.count
+	end
+
+	def pending_approvals_count
+		active_creationgs.pending_approval.count
+	end
+
+	def approved_count
+		active_creations.approved.count
+	end
+
+	def active_hours
+		active_projects.total_hours
+	end
+
+	def hours_per_project
+		active_projects.inject({}) do |memo, project|
+			memo[project] = project.total_hours
+			memo
+		end
+	end
+
+	private
+
+	def active_projects
+		@designer.projects.active
+	end
+
+	def active_creations
+		@designer.creations.active
+	end
+
+Our presenter only displays information on the active projects and creations for the designer, so we’ve created a couple of private methods, active_projects() and active_creations(), that handle getting that information for us. This way we won’t need to have the same method chaining repeated in the methods we’ll be calling from our template.
+
+[READ Presenters later when rearchitecting the shit.] 
+[TODO]
+
+## Handling Mobile Views [TODO]
+
+## Working with Email Templates [TODO]
+
+## Optimizing Performance
+
+Either __technical efficiency__ or __business interests__.
+
+#### A/B Testing with Vanity
+
+	$ brew install redis
+	gem 'vanity'
+	$ mkdir -p experiments/metrics
+
+[TODO]
+
+#### Performance Testing and Maintenance
+
+- Testing CSS Declarations: Firefox Dust Me Selectors. Also, Google's PageSpeed tool. Deadweight gem.
+- ImageOptim to optimize the file sizes. (ImageOptim saved us so much space by converting any image with under 256 colors to a PNG8+alpha format. Photoshop doesn’t support this format, so therefore “Save for Web” only gives us 24-bit when we want true alpha transparency.)
+- SVG Graphics?
+- Check if gzip compressed, and check for Google's mod_pagespeed.
+- Make sure everything is cached.
+	- Page caching [TODO]
+	- Action caching [TODO]
+	- Fragment caching [TODO]
+
+#### DevOps
+
+- Load balancing: Making sure the db servers replicate each other.
+- Query Times: Add indexes to the database tables or look at using `find_by_sql()` method and calling the data by hand. Or Memcached.
+- Static Assets and CDNs: Akamai and Cloudfront.
+- RAM caching:  Varnish cache
 
 
 
