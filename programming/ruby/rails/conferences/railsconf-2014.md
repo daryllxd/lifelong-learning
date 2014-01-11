@@ -95,7 +95,7 @@ Facebook app id: must be a constant somewhere. When the user does not want the u
 
 You can create test accounts if you want to. we can also use the FQL facebook query language.
 
-Error reporting: rescue Koala::Facebook::APIerror => e
+Error reporting: rescue Koala::Facebook::APIerror => e 
 
 
 
