@@ -325,6 +325,71 @@ Learn how to execute really fast, use data to learn from your experiences. If yo
 
 In a homepage, there are a million leaks. You want one goal to achieve. A standalone landing page won't let you do that. For campaigns it would really be good to have a 
 
+## GrowthHacker.tv: Jimmy Soni, Huffington Post
+
+You can't just be a good writer, you have to think about the other publishing thing.
+
+UV: Unique visitors and PV: page views. We want organic growth, and the best is social networks. UVs and PVs are a great metric, but it's like looking at the final score as opposed to why. We look at time on site. I'm studying about social because that's where our ideal audiences are. I've got tools: audience views for everywhere on the site, granular dashboard of the site in 15 minute intervals and 1 hour intervals.
+
+A lot of it is directing traffic. You can think of what I do as I want the articles that our audience likes and spread it to the other audiences. We're constantly refining that strategy.
+
+Because of Facebook, you have to write great, attention seeking headlines. How do you capture enough information on the headline? IF they're browsing through mobile, then we remove ppt and video.
+
+Our audience actually gets into trade policy, lol. If you can explain that in a simpler way, boom. Our audience loves to learn about 3-D printing. Things like this that if they study enough, they try it. The thing is though, we have to understand what people like our audience like.
+
+The content actually has to actually deliver. The post has to say something awe-inspiring, counter-intuitive, and make sense. The headline gets the click, the content gets the share. So yes, focus on audience dev, but make sure the article is actually something people want to read. Ask yourself "why would anyone share this article"?
+
+"If I had no context about this, is it enough to get me enough to care to click." It's also about choosing where to promote your content. At the end of the day I want each part of the piece is good that they like it and they share it. Earning 2 clicks from the user is a VERY HARD THING. It's a big thing, they are advertising themselves on FB. Nobody wants others to think that they read about Kim Kardashian, but they read it anyway.
+
+The thing where in you have to split an article into a lot of pages, it doesn't work on mobile phones. 
+
+The two biggest shifts were the rise of FB as everybody's newspaper, and the rapid increase of mobile. The thing about Google though is that you're capped by the number of people searching at a time. On FB though, the virality has a bigger reach than on Google. There is also going to come a time where your mobile traffic is going to overtake the web traffic. 
+
+We poured a lot of investment into our mobile app, while it is for the hardcore fans, I think it is better if you focus more on the mobile web. Most probably your app might be used just a few times, everyone wants to say they like are invested in online publishing, but they aren't actually using it.
+
+Huff web is not infinite scroll, just long. Huff mobile is an endless scroller. Part of thinking about content and social is making it so stupidly easy to share your content. We made our share buttons floating. Even persistent behaviors can help!
+
+To convince other people, use data as a feedback loop. Study your competitors' presences in the social web. Most FB pages are badly managed. We have to use the data to inform them on what they do. Try to be unsentimental when you look at information. You have to be honest with your staff in what they can or can't do.
+
+When you try to convince people who do creative work why focusing on traffic matters, the way to approach this is "do you want 100 people to read it or 100K people to read it." We've got to think about the possibility of the 100K or 100M people to see it. When is Twitter and Facebok traffic highest? To cut through the resistant, just say "we want to create good content, but we also want the content to be seen". We hire creative people who are also entrepreneurial, we want it. People who want to sell a book or something bla bla bla haha. Think that you are competing with people who share their photos of families, we have to compete with that.
+
+What I look for:
+
+- Are you someone who gets the bulk of your news from the web? If you check FB, Twitter for news, this means you have some knowledge of how people write for the web. You might not be consuming content in the way our audience it.
+- I like people who have had to build something. 
+- I need to find people who are exposed to social media and dissect this. (I can't go on FB anymore because I begin to think, how do I get people to click this thing.)
+
+Read good books about the creative process and psycholoy. The mediums have changed but the content we appeal to haven't changed. Tobias Wolff, "This boy's life", Jason Hirschorn. Robert Carrow (power broker). It's the sheer amount of discipline on this book. He "wears a suit every day to an office so he can do it.
+
+Behavioral psychology, awesome. Ask yourself a question: "When I share something, why did I share this? What does this say about me?"
+
+Rome's Last Citizen
+Trust Me I'm Lying Ryan Holiday
+Nudge
+Contagious
+
+## Justin Brooke, IMScalable
+
+Social + 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It seems like there is a movement to replace today’s startup culture of hope and curiosity with one of smug superiority.
+
+Why does this matter? Why should we care that the tone is tilting in the wrong direction? Why is it more important to find out what’s right about somebody’s company than what’s wrong?
+
+
 
 
 
