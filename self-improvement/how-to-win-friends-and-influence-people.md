@@ -2,12 +2,170 @@
 
 ## Nine Suggestions on How to Get the Most Out of This Book
 
-1. If you wish to get the most out of this book, there is one indispensable requirement, one essential infinitely more important than any rule or technique. Unless you have this one fundamental requisite, a thousand rules on how to study will avail little, And if you do have this cardinal endowment, then you can achieve wonders without reading any suggestions for getting the most out of a book.
+1. Most important: You need to have this deep, driving desire to learn, a vigoruous determination to increase your ability to deal with people.
+	
+	You develop this by constantly reminding yourself how important these principles are to you. Mastering this will aid you in leading a richer, fuller, happier and more fulfilling life.
+
+	"My popularity, my happiness and sense of worth depend on no small extend upon my skill in dealing with people."
+
+2. Reread each chapter.
+
+3. Stop frequently to think what you are reading about.
+
+4. Take down notes about the stuff you can use.
+
+5. It is super easy to forget stuff. Spend a few hours reviewing this book every month.
+
+6. Learning is an active process. So if you desire to master the principles in this book, do something about them. Apply these rules at every opportunity. If you don't, you will forget them quickly. __Only knowledge that is used sticks in the mind.__
+
+	It is super difficult to apply the suggestions all the time. You are attempting to form new habits. You are attempting a new way of life. You need time and persistence and daily application.
+
+7. Offer your spouse, your child, or some biz associate a dime or a dollar everytime you break the rules. Make a game out of mastering the rules.
+
+8. "For years I have kept an engagement book showing all the appointments I had during the day. My family never made any plans for me on Saturday night, for the family knew that I devoted a part of each Saturday evening to the illuminating process of self- examination and review and appraisal. After dinner I went off by myself, opened my engagement book, and thought over all the interviews, discussions and meetings that had taken place during the week."
+
+	I asked myself: 'What mistakes did I make that time?' 'What did I do that was right- and in what way could I have improved my performance?' 'What lessons can I learn from that experience?'
+
+	"I often found that this weekly review made me very unhappy. I was frequently astonished at my own blunders. Of course, as the years passed, these blunders became less frequent. Sometimes I was inclined to pat myself on the back a little after one of these sessions."
+
+	This system of self-analysis, self-education, continued year after year, did more for me than any other one thing I have ever attempted.
+
+	"It helped me improve my ability to make decisions - and it aided me enormously in all my contacts with people. I cannot recommend it too highly."
+
+9. You will find at the end of this book several blank pages on which you should record your triumphs in the application of these principles. Be specific. Give names, dates, results. Keeping such a record will inspire you to greater efforts; and how fascinating these entries will be when you chance upon them some evening years from now!
+
+## A Shortcut to Distinction by Lowell Thomas
+
+That survey revealed that the prime interest of adults is health. It also revealed that their second interest is in developing skill in human relationships - they want to learn the technique of getting along with and influencing other people. They don't want to become public speakers, and they don't want to listen to a lot of high sounding talk about psychology; they want suggestions they can use immediately in business, in social contacts and in the home.
+
+Back in high school and college, they had pored over books, believing that knowledge alone was the open sesame to financial - and professional rewards.
+
+They soon discovered that if one aspired to wear the captain's cap and navigate the ship of business, personality and the ability to talk are more important than a knowledge of Latin verbs or a sheepskin from Harvard.
+
+Dale Carnegie claimed that all people can talk when they get mad. He said that if you hit the most ignorant man in town on the jaw and knock him down, he would get on his feet and talk with an eloquence, heat and emphasis that would have rivaled that world famous orator William Jennings Bryan at the height of his career. He claimed that almost any person can speak acceptably in public if he or she has self-confidence and an idea that is boiling and stewing within.
+
+The way to develop self-confidence, he said, is to do the thing you fear to do and get a record of successful experiences behind you. So he forced each class member to talk at every session of the course. The audience is sympathetic. They are all in the same boat; and, by constant practice, they develop a courage, confidence and enthusiasm that carry over into their private speaking.
+
+# Part One - Fundamental Techniques In Handling People
+
+## 1 "If You Want To Gather Honey, Don't Kick Over The Beehive"
+
+Crowley was sentenced to the electric chair. When he arrived at the death house in Sing Sing, did he say, "This is what I get for killing people"? No, he said: "This is what I get for defending myself."
+
+The point of the story is this: "Two Gun" Crowley didn't blame himself for anything. 
+
+"I have spent the best years of my life giving people the lighter pleasures, helping them have a good time, and all I get is abuse, the existence of a hunted man." - Al Capone
+
+Capone didn't condemn himself. He actually regarded himself as a public benefactor - an unappreciated and misunderstood public benefactor.
 
 
+I have had some interesting correspondence with Lewis Lawes, who was warden of New York's infamous Sing Sing prison for many years, on this subject, and he declared that "few of the criminals in Sing Sing regard themselves as bad men. They are just as human as you and I. So they rationalize, they explain. They can tell you why they had to crack a safe or be quick on the trigger finger. Most of them attempt by a form of reasoning, fallacious or logical, to justify their antisocial acts even to themselves, consequently stoutly maintaining that they should never have been imprisoned at all."
 
+John Wanamaker, founder of the stores that bear his name, once confessed: "I learned thirty years ago that it is foolish to scold. I have enough trouble overcoming my own limitations without fretting over the fact that God has not seen fit to distribute evenly the gift of intelligence."
 
+Criticism is futile because it puts a person on the defensive and usually makes him strive to justify himself. Criticism is dangerous, because it wounds a person's precious pride, hurts his sense of importance, and arouses resentment.
 
+B. F. Skinner, the world-famous psychologist, proved through his experiments that an animal rewarded for good behavior will learn much more rapidly and retain what it learns far more effectively than an animal punished for bad behavior. Later studies have shown that the same applies to humans. By criticizing, we do not make lasting changes and often incur resentment.
+
+Hans Selye, another great psychologist, said, "As much as we thirst for approval, we dread condemnation,"
+
+He decided to try a different approach. The next time he found some of the workers not wearing their hard hat, he asked if the hats were uncomfortable or did not fit properly. Then he reminded the men in a pleasant tone of voice that the hat was designed to protect them from injury and suggested that it always be worn on the job. The result was increased compliance with the regulation with no resentment or emotional upset.
+
+There you are; human nature in action, wrongdoers, blaming everybody but themselves. We are all like that. So when you and I are tempted to criticize someone tomorrow, let's remember Al Capone, "Two Gun" Crowley and Albert Fall. Let's realize that criticisms are like homing pigeons. They always return home. Let's realize that the person we are going to correct and condemn will probably justify himself or herself, and condemn us in return; or, like the gentle Taft, will say: "I don't see how I could have done any differently from what I have."
+
+What was the secret of Lincoln's success in dealing with people? I studied the life of Abraham Lincoln for ten years and devoted all of three years to writing and rewriting a book entitled Lincoln the Unknown. Did he indulge in criticism? Oh, yes. Even after Lincoln had become a practicing lawyer in Springfield, Illinois, he attacked his opponents openly in letters published in the newspapers. But he did this just once too often. 
+
+That was the most lurid personal incident in Lincoln's life. It taught him an invaluable lesson in the art of dealing with people. Never again did he write an insulting letter. Never again did he ridicule anyone. And from that time on, he almost never criticized anybody for anything.
+
+Half the nation savagely condemned these incompetent generals, but Lincoln, "with malice toward none, with charity for all," held his peace. One of his favorite quotations was "Judge not, that ye be not judged."
+
+And when Mrs. Lincoln and others spoke harshly of the southern people, Lincoln replied: "Don't criticize them; they are just what we would be under similar circumstances."
+
+If you and I want to stir up a resentment tomorrow that may rankle across the decades and endure until death, just let us indulge in a little stinging criticism-no matter how certain we are that it is justified.
+
+When dealing with people, let us remember we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity.
+
+#### FATHER FORGETS W. Livingston Larned
+
+> Well, son, it was shortly afterwards that my paper slipped from my hands and a terrible sickening fear came over me. What has habit been doing to me? The habit of finding fault, of reprimanding - this was my reward to you for being a boy. It was not that I did not love you; it was that I expected too much of youth. I was measuring you by the yardstick of my own years.
+	
+> And there was so much that was good and fine and true in your character. The little heart of you was as big as the dawn itself over the wide hills. This was shown by your spontaneous impulse to rush in and kiss me good night. Nothing else matters tonight, son. I have come to your bed-side in the darkness, and I have knelt there, ashamed!
+
+> It is a feeble atonement; I know you would not understand these things if I told them to you during your waking hours. But tomorrow I will be a real daddy! I will chum with you, and suffer when you suffer, and laugh when you laugh. I will bite my tongue when impatient words come. I will keep saying as if it were a ritual: "He is nothing but a boy - a little boy!"
+
+Instead of condemning people, let's try to understand them. Let's try to figure out why they do what they do. That's a lot more profitable and intriguing than criticism; and it breeds sympathy, tolerance and kindness. "To know all is to forgive all."
+
+As Dr. Johnson said: "God himself, sir, does not propose to judge man until the end of his days."
+
+## 2 - The Big Secret Of Dealing With People
+
+__There is only one way under high heaven to get anybody to do anything. And that is by making the other person want to do it.__
+
+Of course, you can make someone want to give you his watch by sticking a revolver in his ribs. YOU can make your employees give you cooperation - until your back is turned - by threatening to fire them. You can make a child do what you want it to do by a whip or a threat. But these crude methods have sharply undesirable repercussions.
+
+__The only way I can get you to do anything is by giving you what you want.__
+
+Dr. Dewey said that the deepest urge in human nature is "the desire to be important." Remember that phrase: "the desire to be important." It is significant. You are going to hear a lot about it in this book.
+
+Lincoln once began a letter saying: "Everybody likes a compliment." William James said: "The deepest principle in human nature is the craving to be appreciated." He didn't speak, mind you, of the "wish" or the "desire" or the "longing" to be appreciated. He said the "craving" to be appreciated.
+
+Here is a gnawing and unfaltering human hunger, and the rare individual who honestly satisfies this heart hunger will hold people in the palm of his or her hand and "even the undertaker will be sorry when he dies."
+
+It was this desire for a feeling of importance that led an uneducated, poverty-stricken grocery clerk to study some law books he found in the bottom of a barrel of household plunder that he had bought for fifty cents. You have probably heard of this grocery clerk. His name was Lincoln.
+
+It was this desire for a feeling of importance that inspired Dickens to write his immortal novels. This desire inspired Sir Christoper Wren to design his symphonies in stone. This desire made Rockefeller amass millions that he never spent! And this same desire made the richest family in your town build a house far too large for its requirements.
+
+This desire makes you want to wear the latest styles, drive the latest cars, and talk about your brilliant children.
+
+It is this desire that lures many boys and girls into joining gangs and engaging in criminal activities. The average young criminal, according to E. P. Mulrooney, onetime police commissioner of New York, is filled with ego, and his first request after arrest is for those lurid newspapers that make him out a hero. The disagreeable prospect of serving time seems remote so long as he can gloat over his likeness sharing space with pictures of sports figures, movie and TV stars and politicians.
+
+__If you tell me how you get your feeling of importance, I'll tell you what you are. That determines your character.__ John D. Rockefeller got his feeling of importance by giving money to erect a modern hospital in Peking, China, to care for millions of poor people whom he had never seen and never would see. Dillinger, on the other hand, got his feeling of importance by being a bandit, a bank robber and killer.
+
+Our millionaires helped finance Admiral Byrd's expedition to the Antarctic in 1928 with the understanding that ranges of icy mountains would be named after them; and Victor Hugo aspired to have nothing less than the city of Paris renamed in his honor. Even Shakespeare, mightiest of the mighty, tried to add luster to his name by procuring a coat of arms for his family.
+
+If some people are so hungry for a feeling of importance that they actually go insane to get it, imagine what miracle you and I can achieve by giving people honest appreciation this side of insanity.
+
+Schwab says that he was paid this salary largely because of his ability to deal with people. I asked him how he did it. Here is his secret set down in his own words - words that ought to be cast in eternal bronze and hung in every home and school, every shop and office in the land - words that children ought to memorize instead of wasting their time memorizing the conjugation of Latin verbs or the amount of the annual rainfall in Brazil - words that will all but transform your life and mine if we will only live them:
+
+> "I consider my ability to arouse enthusiasm among my people," said Schwab, "the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement.
+
+> "There is nothing else that so kills the ambitions of a person as criticisms from superiors. I never criticize any-one. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise. "
+
+That is what Schwab did. But what do average people do? The exact opposite. If they don't like a thing, they bawl out their subordinates; if they do like it, they say nothing. As the old couplet says: "Once I did bad and that I heard ever/Twice I did good, but that I heard never ."
+
+> "In my wide association in life, meeting with many and great people in various parts of the world," Schwab declared, "I have yet to find the person, however great or exalted his station, who did not do better work and put forth greater effort under a spirit of approval than he would ever do under a spirit of criticism."
+
+Carnegie wanted to praise his assistants even on his tombstone. He wrote an epitaph for himself which read: "Here lies one who knew how to get around him men who were cleverer than himself:"
+
+When a study was made a few years ago on runaway wives, what do you think was discovered to be the main reason wives ran away? It was "lack of appreciation." And I'd bet that a similar study made of runaway husbands would come out the same way. We often take our spouses so much for granted that we never let them know we appreciate them.
+
+Florenz Ziegfeld, the most spectacular producer who ever dazzled Broadway, gained his reputation by his subtle ability to "glorify the American girl." Time after time, he took drab little creatures that no one ever looked at twice and transformed them on the stage into glamorous visions of mystery and seduction. Knowing the value of appreciation and confidence, he made women feel beautiful by the sheer power of his gallantry and consideration.
+
+When Alfred Lunt, one of the great actors of his time, played the leading role in Reunion in Vienna, he said, "There is nothing I need so much as nourishment for my self-esteem."
+
+We nourish the bodies of our children and friends and employees, but how seldom do we nourish their selfesteem? We provide them with roast beef and potatoes to build energy, but we neglect to give them kind words of appreciation that would sing in their memories for years like the music of the morning stars.
+
+Of course flattery seldom works with discerning people. It is shallow, selfish and insincere. It ought to fail and it usually does. True, some people are so hungry, so thirsty, for appreciation that they will swallow anything, just as a starving man will eat grass and fishworms.
+
+The difference between appreciation and flattery? That is simple. One is sincere and the other insincere. One comes from the heart out; the other from the teeth out. One is unselfish; the other selfish. One is universally admired; the other universally condemned.
+
+> "Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."
+
+King George V had a set of six maxims displayed on the walls of his study at Buckingham Palace. One of these maxims said: "Teach me neither to proffer nor receive cheap praise." That's all flattery is - cheap praise. I once read a definition of flattery that may be worth repeating: "Flattery is telling the other person precisely what he thinks about himself."
+
+One of the most neglected virtues of our daily existence is appreciation, Somehow, we neglect to praise our son or daughter when he or she brings home a good report card, and we fail to encourage our children when they first succeed in baking a cake or building a birdhouse.
+
+Nothing pleases children more than this kind of parental interest and approval.
+
+The next time you enjoy filet mignon at the club, send word to the chef that it was excellently prepared, and when a tired salesperson shows you unusual courtesy, please mention it.
+
+Without success, Pam tried various ways to motivate this person. She noticed that occasionally he did a particularly good piece of work. She made a point to praise him for it in front of the other people. Each day the job he did all around got better, and pretty soon he started doing all his work efficiently. Now he does an excellent job and other people give him appreciation and recognition. Honest appreciation got results where criticism and ridicule failed.
+
+Hurting people not only does not change them, it is never called for. There is an old saying that I have cut out and pasted on my mirror where I cannot help but see it every day:
+
+> I shall pass this way but once; any good, therefore, that I can do or any kindness that I can show to any human being, let me do it now. Let me not defer nor neglect it, for I shall not pass this way again.
+
+Let's try to figure out the other person's good points. Then forget flattery. Give honest, sincere appreciation. Be "hearty in your approbation and lavish in your praise," and people will cherish your words and treasure them and repeat them over a lifetime - repeat them years after you have forgotten them.
 
 
 
