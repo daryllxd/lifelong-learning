@@ -76,9 +76,7 @@ Analytics and measurement. You need to start narrowing in on your users.
 
 ## GrowthHacker.tv: Matt Ellsworth: VP Growth, Storefront
 
-We want to make it easy to have offline stores.
-
-We take professional photos too.
+We want to make it easy to have offline stores. We take professional photos of the stores too.
 
 At the start, it’s more of trusting the gut and rolling with it in the early-stage, you have to do things brute-force, especially when you’re a small team.
 
@@ -100,13 +98,9 @@ Often the cheapest videos are actually the best ones lol, it’s easy to hire so
 
 There was a time where Matt was just in meetings with brokers and landlords and whatever, while not scalable, it needed to have some content on there. Being in front of people and getting them to trust you personally is how you can establish credibility early on.
 
-Now that you have real listings, you don’t need to do that anymore. You have to learn when to transition from face-to-face to automated (sales to marketing).
+Now that you have real listings, you don’t need to do that anymore. You have to learn when to transition from face-to-face to automated (sales to marketing). When scaling up, the sales guys give way to marketing guys. The sales are usually the first ones to go lol.
 
-Sales guys convert to marketing guys. The sales are usually the first ones to go lol.
-
-People should be learning more skills so they protect themselves and they bring value to the company. It’s your responsibility to be employable. What are the assets I have, and what does the market look like?
-
-Now, it’s all about value, provide value to the company.
+People should be learning more skills so they protect themselves and they bring value to the company. It’s your responsibility to be employable. What are the assets I have, and what does the market look like? It’s all about value, provide value to the company.
 
 For us, the supply side (stores) is harder to seed. It’s easier to get attention at brick-and-mortar than online when everyone is online. At first, they found us organically, but then when you put money in people’s pockets and they come back.
 
@@ -126,7 +120,7 @@ MixRank data is legit but import.io, we need to learn how scrapers work.
 
 The problem is that we just rush into the build cycle and eventually we run into the scaling problem.
 
-I want to have that feeling that when I spend a significant amount of time and it is for naught, then I feel bad.
+I hate that feeling that when I spend a significant amount of time and it is for naught, then I feel bad.
 
 So I build a landing page just to get e-mails and see if I have an early market. To each of the e-mails I get, I send an e-mail to them asking why they would actually use this product. They provide me with the value proposition.
 
@@ -138,8 +132,7 @@ Too many ents are focused with the solution, but remember that what you want is 
 
 Nobody reads business plans, they start making up stuff, but it is a work of fiction at that point. The goal isn’t creating a perfect model or plan.
 
-There’s more information in the BMC than a business plan.
-Remember: It’s harder to make things short rather than long!!!!
+There’s more information in the BMC than a business plan Remember: It’s harder to make things short rather than long!!!!
 
 Interviewing the customers: The purpose is to go out there and talk with the customers.
 
@@ -147,7 +140,7 @@ One is physically talking with the customers. Second is to test them, and unders
 
 In a problem interview: gauge the problem and what they are currently doing to solve the problem. Ideally you want to filter the problems people have.
 
-When you do lean principle, it almost as if it’s cheating because the customer supplies you the information (lol).
+When you do lean principle, it almost as if it’s cheating because the customer supplies you with the information (lol).
 
 Product launch: Have you built something that a customer actually wants now?
 
@@ -173,11 +166,11 @@ Metrics: Baseline, cohort (not aggregate), have to know how to run experiments (
 
 Big data is used in Etsy to produce a recommender system and for search ranking.
 
-Client-facing, everyone does experiments.
+All client-facing engineeers do experiments.
 
-Checkout: You don’t want to see the ratio, you want to see the value.
+Checkout: You don’t want to see the ratio of who did, you want to see the value of the transactions.
 
-Seller back-end is more engaged than the buyers.
+The seller back-end has more engagement than the buyers.
 
 There are some features that have never been used before. “Our first stab at everything is not working out.”
 
@@ -205,7 +198,7 @@ The same with shops, we realzie that shops added to item results wouldn’t work
 
 Experiment with minimal versions of your idea, plan on being wrong (don’t be surprised if you’re wrong a lot).
 
-Users hate opening things up in new tabs (unlike developers).
+__Users hate opening things up in new tabs (unlike developers).__
 
 Infinite scroll, users bought less from searching.
 
@@ -243,7 +236,7 @@ Growth is a lot of small things that are chained together. Need to instrument an
 
 Bad: Forced immediate registration. Your lucky to actually have a company that discovers your company at first. But this registration thing is like creating a wall. It's like going to a restaurant and you're asked for a registration when nobody's here. Don't do it up front. It doesn't have to be the first thing ever, though.
 
-You probably won't want to register immediately. So why would you ask another person to do it?
+You probably won't want to register for stuff immediately. So why would you ask another person to do it?
 
 We want to make it very easy for people to share things. Just click random stuff! "Click to Tweet" XD.
 
@@ -368,9 +361,43 @@ Trust Me I'm Lying Ryan Holiday
 Nudge
 Contagious
 
-## Justin Brooke, IMScalable
+## Nir Eyal
 
-Social + 
+__The buckets of metrics are: Growth, engagement, revenue.__ All are necessary but not sufficient.
+
+I see virality and engagement axes. __Viral without engagement sucks.__ There are plenty of businesses that are not viral but are engaging. The once in a decade companies do both.
+
+Growth hacks are easily discoverable. There aren't that many secrets, but pretty soon everyone jumps on it because it closes up because the channel owner clamps down. Whereas engagement is different. There are secrets that you can get with engagement that your competition CANNOT COPY, because you understand your user.
+
+I think the pendulum has changed from virality. Ex: Games are very tricky to predict engagement for, so it is hard to invest in.
+
+Lean startup asks us to find painkillers over vitamins. But the companies (FB, Pin, Tw, Ig) all started as meh and "a toy" but it became huge! In fact Kodak was marketed as a toy to begin with. These products all started as toys and were dismissed as nice-to-haves, but their habit-forming potentials become bigger. 
+
+Think of all the technology toys you have today, some people hate it at some point but They Have To Use It (such as email). FB, Tw, SMS becomes that.
+
+Take something that is done offline and bring it online (Snapchat chatting privately, Facebook conversations).
+
+Another axis: Whether the prediction of your future is consensus/not, or its correct. What you need to have is a non-consensus, correct opinion of the future. You want to think of an idea that people think are crap, and it becomes successful. (This is about network effects.)
+
+Hooked is a design pattern. We had a penchant for building first. It's build-measure-learn, but why is build the first part? Isn't building the most expensive part of the three? We should probably start with learning and understanding our customers. We want to deeply understand our customers. We also want to understand what they can tell us.
+
+Not only do we talk to cx and watch them, but we want to watch what they are doing offline. We get to authenticate what they are actually doing. If you cannot see the offline analog, then you have to do something better online.
+
+The information for within the trigger is inside the emotion or routine that you have done. It might be something that they have done already, or whatever they are thinking already.
+
+Remember that we hate feeling bad. Habit forming products latch onto these feelings. We turn on to the different devices: when we feel lonesome, we go on Facebook, when we are bored, we go on Pinterest, when we want information, we go to Google.
+
+I'm a fan of authentic entrepreneurs because they feel the pain. They are scratching their own itch because they make their own narrative.
+
+We want to go through the hook as many times as we can to get through the cycles. Simplest actions: Logging in and stuff. I actually prefer if users don't need to sign up, so they see the product immediately.
+
+To form a habit with a technology, we have to invest in it. We have to put in something: data, time, preferably something that improves with use. Better with tech because our technology gets better with use. The more followers on Twitter, the better the product is. Higher reputation on Airbnb. More content in Instagram. Harder to leave!
+
+When is a startup failing at that engagement phase? It's not that complicated, basically. When you design a product, how often do you expect users to come back?
+
+What percentage of your new users are sticking around?
+
+Two factors for flossing: The ones who did it more often, and the people who changed your product. Also, figure out if your product needs to be habit-forming. If your product requires habits, then it would behoove you to understand the pattern that has appeared time and time again, which is to create user habits.
 
 
 
