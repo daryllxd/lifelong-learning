@@ -1,0 +1,41 @@
+## How This Book Was Written-And Why
+
+## Nine Suggestions on How to Get the Most Out of This Book
+
+1. If you wish to get the most out of this book, there is one indispensable requirement, one essential infinitely more important than any rule or technique. Unless you have this one fundamental requisite, a thousand rules on how to study will avail little, And if you do have this cardinal endowment, then you can achieve wonders without reading any suggestions for getting the most out of a book.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
