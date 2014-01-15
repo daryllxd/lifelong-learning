@@ -290,6 +290,111 @@ You didn't discover a new truth, Mr. Knaphle, for a long time ago, a hundred yea
 
 __If you want others to like you, if you want to develop real friendships, if you want to help others at the same time as you help yourself, keep this principle in mind: Become genuinely interested in other people.__
 
+## 2 - A Simple Way To Make A Good First Impression
+
+She didn't realize what everyone knows: namely, that the expression one wears on one's face is far more important than the clothes one wears on one's back.
+
+Actions speak louder than words, and a smile says, "I like you, You make me happy. I am glad to see you." That is why dogs make such a hit. They are so glad to see us that they almost jump out of their skins. So, naturally, we are glad to see them.
+
+An insincere grin? No. That doesn't fool anybody. We know it is mechanical and we resent it. I am talking about a real smile, a heartwarming smile, a smile that comes from within, the kind of smile that will bring a good price in the marketplace.
+
+"People who smile," he said, "tend to manage teach and sell more effectively, and to raise happier children. There's far more information in a smile than a frown. That's why encouragement is a much more effective teaching device than punishment."
+
+People rarely succeed at anything unless they have fun doing it. This industrial leader doesn't put much faith in the old adage that hard work alone is the magic key that will unlock the door to our desires, "I have known people," he said, "who succeeded because they had a rip-roaring good time conducting their business. Later, I saw those people change as the fun became work. The business had grown dull, They lost all joy in it, and they failed."
+
+"I share my office with another broker. One of his clerks is a likable young chap, and I was so elated about the results I was getting that I told him recently about my new philosophy of human relations. He then confessed that when I first came to share my office with his firm he thought me a terrible grouch - and only recently changed his mind. He said I was really human when I smiled.
+
+You don't feel like smiling? Then what? Two things. First, force yourself to smile. If you are alone, force yourself to whistle or hum a tune or sing. Act as if you were already happy, and that will tend to make you happy.
+
+Every body in the world is seeking happiness - and there is one sure way to find it. That is by controlling your thoughts. Happiness doesn't depend on outward conditions. It depends on inner conditions.
+
+>Whenever you go out-of-doors, draw the chin in, carry the crown of the head high, and fill the lungs to the utmost; drink in the sunshine; greet your friends with a smile, and put soul into every handclasp. Do not fear being misunderstood and do not waste a minute thinking about your enemies. Try to fix firmly in your mind what you would like to do; and then, without veering off direction, you will move straight to the goal. Keep your mind on the great and splendid things you would like to do, and then, as the days go gliding away, you will find yourself unconsciously seizing upon the opportunities that are required for the fulfillment of your desire, just as the coral insect takes from the running tide the element it needs. Picture in your mind the able, earnest, useful person you desire to be, and the thought you hold is hourly transforming you into that particular individual.. . . Thought is supreme. Preserve a right mental attitude - the attitude of courage, frankness, and good cheer. To think rightly is to create. All things come through desire and every sincere prayer is answered. We become like that on which our hearts are fixed. Carry your chin in and the crown of your head high. We are gods in the chrysalis.
+
+>The ancient Chinese were a wise lot - wise in the ways of the world; and they had a proverb that you and I ought to cut out and paste inside our hats. It goes like this: "A man without a smiling face must not open a shop."
+
+Your smile is a messenger of your good will. Your smile brightens the lives of all who see it. To someone who has seen a dozen people frown, scowl or turn their faces away, your smile is like the sun breaking through the clouds. Especially when that someone is under pressure from his bosses, his customers, his teachers or parents or children, a smile can help him realize that all is not hopeless - that there is joy in the world.
+
+## 3 - If You Don't Do This, You Are Headed For Trouble
+
+What was the reason for Andrew Carnegie's success? By the time he was ten, he too had discovered the astounding importance people place on their own name. And he used that discovery to win cooperation. To illustrate: When he was a boy back in Scotland, he got hold of a rabbit, a mother rabbit. Presto! He soon had a whole nest of little rabbits - and nothing to feed them. But he had a brilliant idea. He told the boys and girls in the neighborhood that if they would go out and pull enough clover and dandelions to feed the rabbits, he would name the bunnies in their honor.
+
+This policy of remembering and honoring the names of his friends and business associates was one of the secrets of Andrew Carnegie's leadership. He was proud of the fact that he could call many of his factory workers by their first names, and he boasted that while he was personally in charge, no strike ever disturbed his flaming steel mills.
+
+One way to warm it up," he said, "is to remember people's names. The executive who tells me he can't remember names is at the same time telling me he can't remember a significant part of his business and is operating on quicksand."
+
+People are so proud of their names that they strive to perpetuate them at any cost. For many centuries, nobles and magnates supported artists, musicians and authors so that their creative works would be dedicated to them. Libraries and museums owe their richest collections to people who cannot bear to think that their names might perish from the memory of the race. The New York Public Library has its Astor and Lenox collections. The Metropolitan Museum perpetuates the names of Benjamin Altman and J. P. Morgan. And nearly every church is beautified by stained-glass windows commemorating the names of their donors. Many of the buildings on the campus of most universities bear the names of donors who contributed large sums of money for this honor.
+
+One of the first lessons a politician learns is this: "To recall a voter's name is statesmanship. To forget it is oblivion."
+
+During the conversation, he took the trouble to repeat the name several times, and tried to associate it in his mind with the person's features, expression and general appearance. "Good manners," said Emerson, "are made up of petty sacrifices."
+
+We should be aware of the magic contained in a name and realize that this single item is wholly and completely owned by the person with whom we are dealing and nobody else. The name sets the individual apart; it makes him or her unique among all others. The information we are imparting or the request we are making takes on a special importance when we approach the situation with the name of the individual. From the waitress to the senior executive, the name will work magic as we deal with others.
+
+Principle 3 - Remember that a person's name is to that person the sweetest and most important sound in any language.
+
+## Principle 3 - Remember that a person's name is to that person the sweetest and most important sound in any language.
+
+That kept her talking for forty-five minutes. She never again asked me where I had been or what I had seen. She didn't want to hear me talk about my travels. All she wanted was an interested listener, so she could expand her ego and tell about where she had been.
+
+Was she unusual? No. Many people are like that.
+
+But I had done this: I had listened intently. I had listened because I was genuinely interested. And he felt it. Naturally that pleased him. That kind of listening is one of the highest compliments we can pay anyone. "Few human beings," wrote Jack Woodford in Strangers in Love, "few human beings are proof against the implied flattery of rapt attention." I went even further than giving him rapt attention. I was "hearty in my approbation and lavish in my praise."
+
+I told him that I had been immensely entertained and instructed - and I had. I told him I wished I had his knoledge - and I did. I told him that I should love to wander the fields with him - and I have. I told him I must see him again - and I did.
+
+>"Dr. Eliot's listening was not mere silence, but a form of activity. Sitting very erect on the end of his spine with hands joined in his lap, making no movement except that he revolved his thumbs around each other faster or slower, he faced his interlocutor and seemed to be hearing with his eyes as well as his ears. He listened with his mind and attentively considered what you had to say while you said it. ... At the end of an interview the person who had talked to him felt that he had had his say."
+
+Doubtless Mr. ----- had considered himself a holy crusader, defending the public rights against callous exploitation. But in reality, what he had really wanted was a feeling of importance. He got this feeling of importance at first by kicking and complaining. But as soon as he got his feeling of importance from a representative of the company, his imagined grievances vanished into thin air.
+
+>"I told him that I understood exactly how he felt and that, if I were in his shoes, I should undoubtedly feel precisely as he did. Since he wasn't going to buy from us anymore, I recommended some other woolen houses.
+
+Isaac F. Marcosson, a journalist who interviewed hundreds of celebrities, declared that many people fail to make a favorable impression because they don't listen attentively. "They have been so much concerned with what they are going to say next that they do not keep their ears open. ... Very important people have told me that they prefer good listeners to good talkers, but the ability to listen seems rarer than almost any other good trait ."
+
+And not only important personages crave a good listener, but ordinary folk do too. As the Reader's Digest once said: "Many persons call a doctor when all they want is an audience,"
+
+If you want to know how to make people shun you and laugh at you behind your back and even despise you, here is the recipe: Never listen to anyone for long. Talk incessantly about yourself. If you have an idea while the other person is talking, don't wait for him or her to finish: bust right in and interrupt in the middle of a sentence.
+
+People who talk only of themselves think only of themselves. And "those people who think only of themselves," Dr. Nicholas Murray Butler, longtime president of Columbia University, said, "are hopelessly uneducated. They are not educated," said Dr. Butler, "no matter how instructed they may be."
+
+So if you aspire to be a good conversationalist, be an attentive listener. To be interesting, be interested. Ask questions that other persons will enjoy answering. Encourage them to talk about themselves and their accomplishments.
+
+Remember that the people you are talking to are a hundred times more interested in themselves and their wants and problems than they are in you and your problems. A person's toothache means more to that person than a famine in China which kills a million people. A boil on one's neck interests one more than forty earthquakes in Africa. Think of that the next time you start a conversation.
+
+## 5 - How To Interest People
+
+And how was it done? The answer was simple. Whenever Roosevelt expected a visitor, he sat up late the night before, reading up on the subject in which he knew his guest was particularly interested.
+
+For Roosevelt knew, as all leaders know, that the royal road to a person's heart is to talk about the things he or she treasures most.
+
+Principle 5 - Talk in terms of the other person's interests.
+
+## 6 - How To Make People Like You Instantly
+
+So while he was weighing my envelope, I remarked with enthusiasm: "I certainly wish I had your head of hair." He looked up, half-startled, his face beaming with smiles. "Well, it isn't as good as it used to be," he said modestly. I assured him that although it might have lost some of its pristine glory, nevertheless it was still magnificent. He was immensely pleased. We carried on a pleasant little conversation and the last thing he said to me was: "Many people have admired my hair."
+
+If we are so contemptibly selfish that we can't radiate a little happiness and pass on a bit of honest appreciation without trying to get something out of the other person in return - if our souls are no bigger than sour crab apples, we shall meet with the failure we so richly deserve. Oh yes, I did want something out of that chap. I wanted something priceless. And I got it. I got the feeling that I had done something for him without his being able to do anything whatever in return for me. That is a feeling that flows and sings in your memory lung after the incident is past.
+
+There is one all-important law of human conduct. If we obey that law, we shall almost never get into trouble. In fact, that law, if obeyed, will bring us countless friends and constant happiness. But the very instant we break the law, we shall get into endless trouble. The law is this: Always make the other person feel important. John Dewey, as we have already noted, said that the desire to be important is the deepest urge in human nature; and William James said: "The deepest principle in human nature is the craving to be appreciated." As I have already pointed out, it is this urge that differentiates us from the animals. It is this urge that has been responsible for civilization itself.
+
+Philosophers have been speculating on the rules of human relationships for thousands of years, and out of all that speculation, there has evolved only one important precept. It is not new. It is as old as history. Zoroaster taught it to his followers in Persia twenty- five hundred years ago. Confucius preached it in China twenty-four centuries ago. Lao-tse, the founder of Taoism, taught it to his disciples in the Valley of the Han. Buddha preached it on the bank of the Holy Ganges five hundred years before Christ. The sacred books of Hinduism taught it a thousand years before that. Jesus taught it among the stony hills of Judea nineteen centuries ago. Jesus summed it up in one thought -probably the most important rule in the world: __"Do unto others as you would have others do unto you."__
+
+So let's obey the Golden Rule, and give unto others what we would have others give unto us, How? When? Where? The answer is: All the time, everywhere.
+
+Little phrases such as "I'm sorry to trouble you," "Would you be so kind as to ----? " "Won't you please?" " Would you mind?" "Thank you" - little courtesies like these oil the cogs of the monotonous grind of everyday life- and, incidentally, they are the hallmark of good breeding.
+
+The life of many a person could probably be changed if only someone would make him feel important. Chris taught me a lesson I will never forget-our deep desire to feel important. To help me never forget this rule, I made a sign which reads "YOU ARE IMPORTANT." This sign hangs in the front of the classroom for all to see and to remind me that each student I face is equally important.
+
+The unvarnished truth is that almost all the people you meet feel themselves superior to you in some way, and a sure way to their hearts is to let them realize in some subtle way that you recognize their importance, and recognize it sincerely.
+
+Principle 6 - Make the other person feel important-and do it sincerely.
+
+
+
+
+
+
+
+
 
 
 
