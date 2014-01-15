@@ -1,5 +1,5 @@
-http://online.wsj.com/news/articles/SB10001424053111903480904576512250915629460
-MARC ANDREESSEN
+## [Why Software is Eating the World](http://online.wsj.com/news/articles/SB10001424053111903480904576512250915629460)
+
 
 This week, Hewlett-Packard (where I am on the board) announced that it is exploring jettisoning its struggling PC business in favor of investing more heavily in software, where it sees better potential for growth. Meanwhile, Google plans to buy up the cellphone handset maker Motorola Mobility. Both moves surprised the tech world. But both moves are also in line with a trend I've observed, one that makes me optimistic about the future growth of the American and world economies, despite the recent turmoil in the stock market.
 
@@ -94,3 +94,19 @@ Instead of constantly questioning their valuations, let's seek to understand how
 That's the big opportunity. I know where I'm putting my money.
 
 —Mr. Andreessen is co-founder and general partner of the venture capital firm Andreessen-Horowitz. He also co-founded Netscape, one of the first browser companies.
+
+## [Can Do vs. Can’t Do Cultures](http://bhorowitz.com/2014/01/02/can-do-vs-cant-do-cultures/)
+
+Lately, it’s become in vogue to write articles, comments and tweets about everything that’s wrong with young technology companies. Why does this matter? Why should we care that the tone is tilting in the wrong direction? Why is it more important to find out what’s right about somebody’s company than what’s wrong? 
+
+The word technology means “a better way of doing things.” This is easy to say, but extremely difficult to do. Making a better way of storing information, a better currency, or a better way of making friends means improving on thousands of years of human experience and is therefore extraordinarily difficult. 
+
+At some level, it would seem logically impossible that anybody could ever improve anything. I mean if nobody from bible days until 2014 has thought of it, what makes you think you are so smart? From a psychological standpoint, in order to achieve a great breakthrough, you must be able to suspend disbelief indefinitely. The technology startup world is where brilliant people come to imagine the impossible.
+
+Big companies have plenty of great ideas, but they do not innovate because they need a whole hierarchy of people to agree that a new idea is good in order to pursue it. If one smart person figures out something wrong with an idea–often to show off or to consolidate power–that’s usually enough to kill it. This leads to a Can’t Do Culture.
+
+The trouble with innovation is that truly innovative ideas often look like bad ideas at the time. That’s why they are innovative – until now, nobody ever figured out that they were good ideas. Creative big companies like Amazon and Google tend to be run by their innovators. Larry Page will unilaterally fund a good idea that looks like a bad idea and dismiss the reasons why it can’t be done. In this way, he creates a Can Do Culture.
+
+Who does the Can’t Do Culture hurt the most? Ironically, it hurts the haters. The people who focus on what’s wrong with an idea or a company will be the ones too fearful to try something that other people find stupid. They will be too jealous to learn from the great innovators. They will be too pig headed to discover the brilliant young engineer who changes the world before she does. They will be too cynical to inspire anybody to do anything great. They will be the ones who history ridicules.
+
+Don’t hate, create.

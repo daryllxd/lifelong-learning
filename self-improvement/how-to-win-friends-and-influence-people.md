@@ -58,7 +58,6 @@ The point of the story is this: "Two Gun" Crowley didn't blame himself for anyth
 
 Capone didn't condemn himself. He actually regarded himself as a public benefactor - an unappreciated and misunderstood public benefactor.
 
-
 I have had some interesting correspondence with Lewis Lawes, who was warden of New York's infamous Sing Sing prison for many years, on this subject, and he declared that "few of the criminals in Sing Sing regard themselves as bad men. They are just as human as you and I. So they rationalize, they explain. They can tell you why they had to crack a safe or be quick on the trigger finger. Most of them attempt by a form of reasoning, fallacious or logical, to justify their antisocial acts even to themselves, consequently stoutly maintaining that they should never have been imprisoned at all."
 
 John Wanamaker, founder of the stores that bear his name, once confessed: "I learned thirty years ago that it is foolish to scold. I have enough trouble overcoming my own limitations without fretting over the fact that God has not seen fit to distribute evenly the gift of intelligence."
@@ -166,6 +165,97 @@ Hurting people not only does not change them, it is never called for. There is a
 > I shall pass this way but once; any good, therefore, that I can do or any kindness that I can show to any human being, let me do it now. Let me not defer nor neglect it, for I shall not pass this way again.
 
 Let's try to figure out the other person's good points. Then forget flattery. Give honest, sincere appreciation. Be "hearty in your approbation and lavish in your praise," and people will cherish your words and treasure them and repeat them over a lifetime - repeat them years after you have forgotten them.
+
+## 3 - "He Who Can Do This Has The Whole World With Him. He Who Cannot Walks A Lonely Way"
+
+o when I went fishing, I didn't think about what I wanted. I thought about what they wanted. I didn't bait the hook with strawberries and cream. Rather, I dangled a worm or a grasshopper in front of the fish and said: "Wouldn't you like to have that?"
+
+Why not use the same common sense when fishing for people?
+
+Why talk about what we want? That is childish. Absurd. Of course, you are interested in what you want. You are eternally interested in it. But no one else is. The rest of us are just like you: we are interested in what we want.
+
+Remember that tomorrow when you are trying to get somebody to do something. If, for example, you don't want your children to smoke, don't preach at them, and don't talk about what you want; but show them that cigarettes may keep them from making the basketball team or winning the hundred-yard dash.
+
+Every act you have ever performed since the day you were born was performed because you wanted something. How about the time you gave a large contribution to the Red Cross? Yes, that is no exception to the rule. You gave the Red Cross the donation because you wanted to lend a helping hand; you wanted to do a beautiful, unselfish, divine act. " Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
+
+If you hadn't wanted that feeling more than you wanted your money, you would not have made the contribution. Of course, you might have made the contribution because you were ashamed to refuse or because a customer asked you to do it. But one thing is certain. You made the contribution because you wanted something.
+
+Andrew Carnegie, the poverty-stricken Scotch lad who started to work at two cents an hour and finally gave away $365 million, learned early in life that the only way to influence people is to talk in terms of what the other person wants.
+
+Stan sat down and thought, "If I were Tim, why would I be excited about going to kindergarten?" He and his wife made a list of all the fun things Tim would do such as finger painting, singing songs, making new friends. "We all started finger-painting on the kitchen table-my wife, Lil, my other son Bob, and myself, all having fun. Soon Tim was peeping around the corner. Next he was begging to participate. 'Oh, no! You have to go to kindergarten first to learn how to finger-paint.'
+
+__Tomorrow you may want to persuade somebody to do something. Before you speak, pause and ask yourself: "How can I make this person want to do it?"__
+
+That question will stop us from rushing into a situation heedlessly, with futile chatter about our desires.
+
+>At the beginning of one season, I was suddenly informed that I should have to pay almost three times as much rent as formerly. 
+
+>Naturally, I didn't want to pay the increase, but what was the use of talking to the hotel about what I wanted? They were interested only in what they wanted. So a couple of days later I went to see the manager .
+
+>"I was a bit shocked when I got your letter," I said, "but I don't blame you at all. If I had been in your position, I should probably have written a similar letter myself. Your duty as the manager of the hotel is to make all the profit possible. If you don't do that, you will be fired and you ought to be fired. Now, let's take a piece of paper and write down the advantages and the disadvantages that will accrue to you, if you insist on this increase in rent."
+
+>"Advantages" these words: "Ballroom free." Then I went on to say: "You will have the advantage of having the ballroom free to rent for dances and conventions. That is a big advantage, for affairs like that will pay you much more than you can get for a series of lectures. If I tie your ballroom up for twenty nights during the course of the season, it is sure to mean a loss of some very profitable business to you.
+
+> "Now, let's 'consider the disadvantages. First, instead of increasing your income from me, you are going to decrease it. In fact, you are going to wipe it out because I cannot pay the rent you are asking. I shall be forced to hold these lectures at some other place.
+
+>"There's another disadvantage to you also. These lectures attract crowds of educated and cultured people to your hotel. That is good advertising for you, isn't it? In fact, if you spent five thousand dollars advertising in the newspapers, you couldn't bring as many people to look at your hotel as I can bring by these lectures. That is worth a lot to a hotel, isn't it?"
+
+>I received a letter the next day, informing me that my rent would be increased only 50 percent instead of 300 percent.
+
+Here is one of the best bits of advice ever given about the fine art of human relationships. "If there is any one secret of success," said Henry Ford, "it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own."
+
+That is so good, I want to repeat it: "If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own."
+
+That is so simple, so obvious, that anyone ought to see the truth of it at a glance; yet 90 percent of the people on this earth ignore it 90 percent of the time.
+
+Good letter means it is about their needs, not yours.
+
+	Your company has been one of our good customers for fourteen years. Naturally, we are very grateful for your patronage and are eager to give you the speedy, efficient service you deserve. However, we regret to say that it isn't possible for us to do that when your trucks bring us a large shipment late in the afternoon, as they did on November 10. Why? Because many other customers make late afternoon deliveries also. Naturally, that causes congestion. That means your trucks are held up unavoidably at the pier and sometimes even your freight is delayed.
+
+	That's bad, but it can be avoided. If you make your deliveries at the pier in the morning when possible, your trucks will be able to keep moving, your freight will get immediate attention, and our workers will get home early at night to enjoy a dinner of the delicious macaroni and noodles that you manufacture.
+
+	Regardless of when your shipments arrive, we shall always cheerfully do all in our power to serve you promptly. You are busy. Please don't trouble to answer this note.
+
+Barbara Anderson letter:
+
+	My ten years of bank experience should be of interest to a rapidly growing bank like yours.
+
+	In various capacities in bank operations with the Bankers Trust Company in New York, leading to my present assignment as Branch Manager, I have acquired skills in all phases of banking including depositor relations, credits, loans and administration.
+
+	I will be relocating to Phoenix in May and I am sure I can contribute to your growth and profit. I will be in Phoenix the week of April 3 and would appreciate the opportunity to show you how I can help your bank meet its goals.
+
+Eleven of the twelve banks invited her to be interviewed, and she had a choice of which bank's offer to accept. Why? Mrs. Anderson did not state what she wanted, but wrote in the letter how she could help them, and focused on their wants, not her own.
+
+Thousands of salespeople are pounding the pavements today, tired, discouraged and underpaid. Why? Because they are always thinking only of what they want. They don't realize that neither you nor I want to buy anything. If we did, we would go out and buy it. But both of us are eternally interested in solving our problems. And if salespeople can show us how their services or merchandise will help us solve our problems, they won't need to sell us. We'll buy. And customers like to feel that they are buying - not being sold.
+
+The world is full of people who are grabbing and self-seeking. So the rare individual who unselfishly tries to serve others has an enormous advantage. He has little competition. Owen D. Young, a noted lawyer and one of America's great business leaders, once said: "People who can put themselves in the place of other people who can understand the workings of their minds, need never worry about what the future has in store for them."
+
+If out of reading this book you get just one thing - an increased tendency to think always in terms of other people's point of view, and see things from their angle - if you get that one thing out of this book, it may easily prove to be one of the building blocks of your career .
+
+Looking at the other person's point of view and arousing in him an eager want for something is not to be construed as manipulating that person so that he will do something that is only for your benefit and his detriment. Each party should gain from the negotiation.
+
+To repeat Professor Overstreet's wise advice: First, arouse in the other person an eager want He who can do this has the whole world with him. He who cannot walks a lonely way.
+
+No one with a trace of horse sense would expect a child three years old to react to the viewpoint of a father thirty years old. Yet that was precisely what that father had expected. It was absurd. He finally saw that. So he said to himself: "What does that boy want? How can I tie up what I want to what he wants?"
+
+What did the little boy want? It didn't take a Sherlock Holmes to answer that one. His pride, his anger, his desire for a feeling of importance - all the strongest emotions in his makeup - goaded him to get revenge, to smash the bully in the nose. And when his father explained that the boy would be able to wallop the daylights out of the bigger kid someday if he would only eat the things his mother wanted him to eat - when his father promised him that - there was no longer any problem of dietetics. That boy would have eaten spinach, sauerkraut, salt mackerel - anything in order to be big enough to whip the bully who had humiliated him so often.
+
+>"You are not going to wet this bed, are you?" the father said. " Oh, no, no! I am not going to wet this bed." The boy kept his promise, for his pride was involved. That was his bed. He and he alone had bought it. And he was wearing pajamas now like a little man. He wanted to act like a man. And he did.
+
+>The little girl loved to imitate her mother, to feel big and grown up; so one morning they put her on a chair and let her make the breakfast food. At just the psychological moment, Father drifted into the kitchen while she was stirring the cereal and she said: "Oh, look, Daddy, I am making the cereal this morning."
+
+>She ate two helpings of the cereal without any coaxing, because she was interested in it. She had achieved a feeling of importance; she had found in making the cereal an avenue of self-expression.
+
+William Winter once remarked that "self-expression is the dominant necessity of human nature." Why can't we adapt this same psychology to business dealings? When we have a brilliant idea, instead of making others think it is ours, why not let them cook and stir the idea themselves. They will then regard it as their own; they will like it and maybe eat a couple of helpings of it.
+
+__Remember: "First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way."__
+
+Principle 3 - Arouse in the other person an eager want.
+
+
+
+
+
 
 
 

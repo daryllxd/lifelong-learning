@@ -412,19 +412,6 @@ Two factors for flossing: The ones who did it more often, and the people who cha
 
 
 
-It seems like there is a movement to replace today’s startup culture of hope and curiosity with one of smug superiority.
-
-Why does this matter? Why should we care that the tone is tilting in the wrong direction? Why is it more important to find out what’s right about somebody’s company than what’s wrong?
-
-
-
-
-
-
-
-
-
-
 
 
 
