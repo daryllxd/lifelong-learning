@@ -110,6 +110,73 @@ Using the fat arrow instead of the thin arrow ensures that the function context 
 	words = ["rattled", "roudy", "rebbles", "ranks"]
 	alert "Stop wagging me" if "ranks" in words
 
+## Aliases and the Existential Operator
+
+	JS's `this` is `@` in CS.
+
+	praise if brian?
+	velocity = southern ? 40 # || operator
+	blackKnight.getLegs()?.kick() # if has legs, kick.
+
+# CoffeeScript Classes
+
+Behind the scenes, CoffeeScript is using JavaScript’s native prototype to create classes; adding a bit of syntactic sugar for static property inheritance and context persistence.
+
+	class Animal
+	  constructor: (name) ->
+	    @name = name
+
+>Shortcut
+
+  	class Animal
+	  constructor: (@name) ->
+	animal = new Animal("Parrot")
+
+>Instance vars
+
+	class Animal 
+	  price: 5
+	  sell: (customer) ->
+
+	animal = new Animal
+	animal.sell(new Customer)
+
+__Fat arrow, use for methods for callbacks.__
+
+#### Inheritance and Super
+
+	class Parrot extends Animal
+	  constructor: ->
+	    super("Parrot")
+
+[TODO]
+
+## Mixins
+
+	extend = (obj, mixin) ->
+	  obj[name] = method for name, method of mixin
+	  obj
+
+	include = (klass, mixin) ->
+	  extend klass.prototype, mixin
+
+	include Parrot,
+	  isDeceased: true
+
+Mixins are a great pattern for sharing common logic between modules when inheritance is not suitable. The advantage of mixins is that you can include multiple ones, compared to inheritance where only one class can be inherited from.
+
+## CoffeeScript Idioms
+
+
+
+
+
+
+
+
+
+
+
 
 
 
