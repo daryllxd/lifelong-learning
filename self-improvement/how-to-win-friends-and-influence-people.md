@@ -252,8 +252,43 @@ __Remember: "First, arouse in the other person an eager want. He who can do this
 
 Principle 3 - Arouse in the other person an eager want.
 
+# Part Two - Ways To Make People Like You
 
+## 1 Do This And You'll Be Welcome Anywhere
 
+Did you ever stop to think that a dog is the only animal that doesn't have to work for a living? A hen has to lay eggs, a cow has to give milk, and a canary has to sing. But a dog makes his living by giving you nothing but love.
+
+You never read a book on psychology, Tippy. You didn't need to. You knew by some divine instinct that you can make more friends in two months by becoming genuinely interested in other people than you can in two years by trying to get other people interested in you. Let me repeat that. You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.
+
+Yet I know and you know people who blunder through life trying to wigwag other people into becoming interested in them. Of course, it doesn't work. People are not interested in you. They are not interested in me. They are interested in themselves - morning, noon and after dinner.
+
+The New York Telephone Company made a detailed study of telephone conversations to find out which word is the most frequently used. You have guessed it: it is the personal pronoun "I." "I." I." It was used 3,900 times in 500 telephone conversations. "I." "I." "I." "I." When you see a group photograph that you are in, whose picture do you look for first?
+
+If we merely try to impress people and get people interested in us, we will never have many true, sincere friends. Friends, real friends, are not made that way.
+
+>"It is the individual who is not interested in his fellow men who has the greatest difficulties in life and provides the greatest injury to others. It is from among such individuals that all human failures spring." - Alfred Adler
+
+>"If the author doesn't like people," he said, "people won't like his or her stories."
+
+>"I am telling you," he said, "the same things your preacher would tell you, but remember, you have to be interested in people if you want to be a successful writer of stories."
+
+If that is true of writing fiction, you can be sure it is true of dealing with people face-to-face.
+
+Did he have a superior knowledge of magic? No, he told me hundreds of books had been written about legerdemain and scores of people knew as much about it as he did. But he had two things that the others didn't have. First, he had the ability to put his personality across the footlights. He was a master showman. He knew human nature. Everything he did, every gesture, every intonation of his voice, every lifting of an eyebrow had been carefully rehearsed in advance, and his actions were timed to split seconds.
+
+But, in addition to that, Thurston had a genuine interest in people. He told me that many magicians would look at the audience and say to themselves, "Well, there is a bunch of suckers out there, a bunch of hicks; I'll fool them all right." But Thurston's method was totally different. He told me that every time he went on stage he said to himself: "I am grateful because these people come to see me, They make it possible for me to make my living in a very agreeable way. I'm going to give them the very best I possibly can."
+
+Although he was not a great fiddler himself, he made many friends in this pursuit. He attended competitions and soon became known to the country music fans in the eastern part of the United States as "Uncle George, the Fiddle Scraper from Kinzua County." When we heard Uncle George, he was seventy-two and enjoying every minute of his life. By having a sustained interest in other people, he created a new life for himself at a time when most people consider their productive years over.
+
+>"I never forgot that to be genuinely interested in other people is a most important quality for a sales-person to possess - for any person, for that matter."
+
+If we want to make friends, let's put ourselves out to do things for other people - things that require time, energy, unselfishness and thoughtfulness. When the Duke of Windsor was Prince of Wales, he was scheduled to tour South America, and before he started out on that tour he spent months studying Spanish so that he could make public talks in the language of the country; and the South Americans loved him for it.
+
+>I had asked this man for precisely one minute of his time. It was with that understanding that he consented to see me. After I had stated my case, he motioned me to a chair and talked to me for exactly one hour and forty-seven minutes. He called in another executive who had written a book on chain stores. He wrote to the National Chain Store Association and secured for me a copy of a debate on the subject. He feels that the chain store is rendering a real service to humanity. He is proud of what he is doing for hundreds of communities. His eyes fairly glowed as he talked, and I must confess that he opened my eyes to things I had never even dreamed of. He changed my whole mental attitude. As I was leaving, he walked with me to the door, put his arm around my shoulder, wished me well in my debate, and asked me to stop in and see him again and let him know how I made out.
+
+You didn't discover a new truth, Mr. Knaphle, for a long time ago, a hundred years before Christ was born a famous old Roman poet, Publilius Syrus, remarked; "We are interested in others when they are interested in us."
+
+__If you want others to like you, if you want to develop real friendships, if you want to help others at the same time as you help yourself, keep this principle in mind: Become genuinely interested in other people.__
 
 
 
