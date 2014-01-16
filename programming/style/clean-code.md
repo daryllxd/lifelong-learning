@@ -91,9 +91,96 @@ Each cell on the board is represented by a simple array. We further find that th
 		List<int[]> flaggedCells = new ArrayList<int[]>(); 
 		for (int[] cell : gameBoard)
 			if (cell[STATUS_VALUE] == FLAGGED)
-				flaggCells.add(cell);
+				flaggedCells.add(cell);
 		return flaggedCells; 
 	}
+
+We can go further and write a simple class for cells instead of using an array of ints. It can include an intention-revealing function (call it isFlagged) to hide the magic num- bers. It results in a new version of the function:
+
+	public List<Cell> getFlaggedCells() {
+		List<Cell> flaggedCells = new ArrayList<Cell>(); 
+		for (Cell cell : gameBoard)
+			if (cell.isFlagged())
+				flaggedCells.add(cell);
+		return flaggedCells; 
+	}
+
+#### Avoid Disinformation
+
+Programmers must avoid leaving false clues that obscure the meaning of code. We should avoid words whose entrenched meanings vary from our intended meaning. For example, hp, aix, and sco would be poor variable names because they are the names of Unix plat- forms or variants. Even if you are coding a hypotenuse and hp looks like a good abbrevia- tion, it could be disinformative.
+
+Do not refer to a grouping of accounts as an accountList unless it’s actually a List. The word list means something specific to programmers. If the container holding the accounts is not actually a List, it may lead to false conclusions.1 So accountGroup or bunchOfAccounts or just plain accounts would be better.
+
+Beware of using names which vary in small ways. How long does it take to spot the subtle difference between a XYZControllerForEfficientHandlingOfStrings in one module and, somewhere a little more distant, XYZControllerForEfficientStorageOfStrings? The words have frightfully similar shapes.
+
+Spelling similar concepts similarly is information. Using inconsistent spellings is dis- information. With modern Java environments we enjoy automatic code completion. We write a few characters of a name and press some hotkey combination (if that) and are rewarded with a list of possible completions for that name. It is very helpful if names for very similar things sort together alphabetically and if the differences are very obvious, because the developer is likely to pick an object by name without seeing your copious comments or even the list of methods supplied by that class.
+
+A truly awful example of disinformative names would be the use of lower-case L or uppercase O as variable names, especially in combination. The problem, of course, is that they look almost entirely like the constants one and zero, respectively.
+
+#### Make Meaningful Distinctions
+
+It is not sufficient to add number series or noise words, even though the compiler is satisfied. If names must be different, then they should also mean something different.
+
+	public static void copyChars(char a1[], char a2[]) {
+		for (int i = 0; i < a1.length; i++) {
+			a2[i] = a1[i];
+		}
+	}
+
+This function reads much better when source and destination are used for the argument names.
+
+Noise words are another meaningless distinction. Imagine that you have a Product class. If you have another called ProductInfo or ProductData, you have made the names dif- ferent without making them mean anything different. Info and Data are indistinct noise words like a, an, and the.
+
+Note that there is nothing wrong with using prefix conventions like a and the so long as they make a meaningful distinction. For example you might use a for all local variables and the for all function arguments.3 The problem comes in when you decide to call a vari- able theZork because you already have another variable named zork.
+
+Noise words are redundant. The word variable should never appear in a variable name. The word table should never appear in a table name. How is NameString better than Name? Would a Name ever be a floating point number? If so, it breaks an earlier rule about disinformation. Imagine finding one class named Customer and another named CustomerObject. What should you understand as the distinction? Which one will represent the best path to a customer’s payment history?
+
+	getActiveAccount();
+	getActiveAccounts();
+	getActiveAccountInfo();
+
+How are the programmers in this project supposed to know which of these functions to call?
+
+#### Use Searchable Names
+
+One might easily grep for MAX_CLASSES_PER_STUDENT, but the number 7 could be more troublesome. Searches may turn up the digit as part of file names, other constant defini- tions, and in various expressions where the value is used with different intent
+
+Likewise, the name e is a poor choice for any variable for which a programmer might need to search. It is the most common letter in the English language and likely to show up in every passage of text in every program. In this regard, longer names trump shorter names, and any searchable name trumps a constant in code.
+
+My personal preference is that single-letter names can ONLY be used as local vari- ables inside short methods. The length of a name should correspond to the size of its scope.
+
+One difference between a smart programmer and a professional programmer is that the professional understands that clarity is king. Professionals use their powers for good and write code that others can understand.
+
+#### Class Names and Method Names
+
+Classes and objects should have noun or noun phrase names like Customer, WikiPage, Account, and AddressParser. Avoid words like Manager, Processor, Data, or Info in the name of a class. A class name should not be a verb.
+
+Methods should have verb or verb phrase names like postPayment, deletePage, or save. Accessors, mutators, and predicates should be named for their value and prefixed with get, set, and is according to the javabean standard.4
+
+#### Pick One Word per Concept
+
+Pick one word for one abstract concept and stick with it. For instance, it’s confusing to have fetch, retrieve, and get as equivalent methods of different classes. How do you remember which method name goes with which class? Sadly, you often have to remember which company, group, or individual wrote the library or class in order to remember which term was used. Otherwise, you spend an awful lot of time browsing through headers and previous code samples.
+
+Likewise, it’s confusing to have a controller and a manager and a driver in the same code base. What is the essential difference between a DeviceManager and a Protocol- Controller? Why are both not controllers or both not managers? Are they both Drivers really? The name leads you to expect two objects that have very different type as well as having different classes.
+
+##### Add Meaningful Context
+
+Imagine that you have variables named firstName, lastName, street, houseNumber, city, state, and zipcode. Taken together it’s pretty clear that they form an address. But what if you just saw the state variable being used alone in a method? Would you automatically infer that it was part of an address?
+
+Consider the method in Listing 2-1. Do the variables need a more meaningful con- text? The function name provides only part of the context; the algorithm provides the rest. Once you read through the function, you see that the three variables, number, verb, and pluralModifier, are part of the “guess statistics” message. Unfortunately, the context must be inferred. When you first look at the method, the meanings of the variables are opaque.
+
+## Functions
+
+
+
+
+
+
+
+
+
+
+
 
 
 
