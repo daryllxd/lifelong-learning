@@ -56,36 +56,21 @@ more difficult and stressful to run
 
 #### Workaholism
 
-Working more doesn't mean 
-you care more or get more done. It just means you work more Q
+Working more doesn't mean you care more or get more done. It just means you work more. First off, working like that just isn't sustainable over time. When the burnout crash comes--and it will--it'll hit that much harder.
 
-. First off, working 
-like that just isn't sustainable over time. When the burnout crash comes--and it will--it'll 
-hit that much harder.
+They try to fix problems by throwing sheer hours at them. They try to make up for intellectual laziness with brute force. This results in inelegant solutions.
 
-They try to fix problems by throwing sheer hours 
-at them. They try to make up for intellectual laziness with brute force. This results in 
-inelegant solutions.
+They create problems (often unwittingly) just so they can get off on working more.
 
-They create 
-problems (often unwittingly) just so they can get off on working more
+Workaholics make the people who don't stay late feel inadequate for "merely" working reasonable hours. That leads to guilt and poor morale all around. Plus, it leads to an ass-in-seat mentality--people stay late out of obligation, even if they aren't really being productive.
 
-Workaholics make the people who don't stay late feel inadequate for "merely" 
-working reasonable hours. That leads to guilt and poor morale all around. Plus, it leads to 
-an ass-in-seat mentality--people stay late out of obligation, even if they aren't really being 
-productive
-
-Workaholics aren't heroes. They don't save the day, they just use it up. The real 
-hero is already home because she figured out a faster way to get things done.
+Workaholics aren't heroes. They don't save the day, they just use it up. The real hero is already home because she figured out a faster way to get things done.
 
 ####  Make a dent in the universe 
 
-To do great work, you need to feel that you're making a difference. That you're 
-putting a meaningful dent in the universe. That you're part of something important.
+To do great work, you need to feel that you're making a difference. That you're putting a meaningful dent in the universe. That you're part of something important.
 
-This doesn't mean you need to find the cure for cancer. It's just that your efforts 
-need to feel valuable. You want your customers to say, "This makes my life better." You 
-want to feel that if you stopped doing what you do, people would notice.
+This doesn't mean you need to find the cure for cancer. It's just that your efforts need to feel valuable. You want your customers to say, "This makes my life better." You want to feel that if you stopped doing what you do, people would notice.
 
 You should feel an urgency about this too. You don't have forever. This is y life's work. Do you want to build just another me-too product or do you want to shake 
 things up? What you do is your legacy. Don't sit around and wait for someone else to 
@@ -109,334 +94,160 @@ substitute for that. After all, you'll (hopefully) be working on this for years 
 
 ####  Draw a line in the sand 
 
-Great 
-businesses have a point of view, not just a product or service. You have to believe in 
-something. You need to have a backbone. You need to know what you're willing to fight 
-for. And then you need to show the world. 
- A strong stand is how you attract superfans. They point to you and defend you. 
-And they spread the word further, wider, and more passionately than any advertising 
-could
+Great businesses have a point of view, not just a product or service. You have to believe in something. You need to have a backbone. You need to know what you're willing to fight for. And then you need to show the world. A strong stand is how you attract superfans. They point to you and defend you. And they spread the word further, wider, and more passionately than any advertising could.
 
-Strong opinions aren't free. You'll turn some people off. They'll accuse you of 
-being arrogant and aloof. That's life. For everyone who loves you, there will be others 
-who hate you. If no one's upset by what you're saying, you're probably not pushing hard 
-enough. (And you're probably boring, too.) 
+Strong opinions aren't free. You'll turn some people off. They'll accuse you of being arrogant and aloof. That's life. For everyone who loves you, there will be others who hate you. If no one's upset by what you're saying, you're probably not pushing hard enough. (And you're probably boring, too.) 
 
-We're willing to lose 
-some customers if it means that others love our products intensely. That's our line in the 
-sand.
+We're willing to lose some customers if it means that others love our products intensely. That's our line in the sand.
 
 ####  Outside money is Plan Z 
 
-We're in a service economy now. Service businesses (e.g., consultants, software 
-companies, wedding planners, graphic designers, and hundreds of others) don't require 
-much to get going. If you're running a business like that, avoid outside funding.
+We're in a service economy now. Service businesses (e.g., consultants, software companies, wedding planners, graphic designers, and hundreds of others) don't require much to get going. If you're running a business like that, avoid outside funding.
 
-In fact, no matter what kind of business you're starting, take on as little outside 
-cash as you can. Spending other people's money may sound great, but there's a noose 
-attached. Here's why:You give up control. When you turn to outsiders for funding, you have to answer to them too. That's fine at first, when everyone agrees. But what happens 
-down the road? Are you starting your own business to take orders from someone else? 
-Raise money and that's what you'll wind up doing. "Cashing out" begins to trump 
-building a quality business
+In fact, no matter what kind of business you're starting, take on as little outside cash as you can. Spending other people's money may sound great, but there's a noose attached. Here's why:You give up control. When you turn to outsiders for funding, you have to answer to them too. That's fine at first, when everyone agrees. But what happens down the road? Are you starting your own business to take orders from someone else? Raise money and that's what you'll wind up doing. "Cashing out" begins to trump building a quality business.
 
-Spending other people's money is addictive. 
-There's nothing easier than spending other people's money. But then you run out and need 
-to go back for more. And every time you go back, they take more of your company. It's 
-usually a bad deal. When you're just beginning, you have no leverage. That's a terrible 
-time to enter into any financial transaction. Customers move down the totem pole. You 
-wind up building what investors want instead of what customers want. Raising money is 
-incredibly distracting. Seeking funding is difficult and draining. It takes months of pitch 
-meetings, legal maneuvering, contracts, etc. That's an enormous distraction when you 
-should really be focused on building something great.
+Spending other people's money is addictive. There's nothing easier than spending other people's money. But then you run out and need to go back for more. And every time you go back, they take more of your company. It's usually a bad deal. When you're just beginning, you have no leverage. That's a terrible time to enter into any financial transaction. Customers move down the totem pole. You wind up building what investors want instead of what customers want. Raising money is incredibly distracting. Seeking funding is difficult and draining. It takes months of pitch meetings, legal maneuvering, contracts, etc. That's an enormous distraction when you should really be focused on building something great.
 
 #### You need less than you think 
 
-Do you really need ten people or will two or three do for now? 
- Do you really need $500,000 or is $50,000 (or $5,000) enough for now? 
- Do you really need six months or can you make something in two? 
- Do you really need a big office or can you share office space (or work from 
-home) for a while? 
- Do you really need a warehouse or can you rent a small storage space (or use your 
-garage or basement) or outsource it completely? 
- Do you really need to buy advertising and hire a PR firm or are there other ways 
-to get noticed? 
- Do you really need to build a factory or can you hire someone else to manufacture 
-your products?
+Do you really need ten people or will two or three do for now? Do you really need $500,000 or is $50,000 (or $5,000) enough for now? Do you really need six months or can you make something in two? Do you really need a big office or can you share office space (or work from home) for a while? Do you really need a warehouse or can you rent a small storage space (or use your garage or basement) or outsource it completely? Do you really need to buy advertising and hire a PR firm or are there other ways to get noticed? Do you really need to build a factory or can you hire someone else to manufacture your products?
 
-Do you really need an accountant or can you use Quicken and do it yourself? 
- Do you really need an IT department or can you outsource it? 
- Do you really need a full-time support person or can you handle inquiries on your 
-own? 
- Do you really need to open a retail store or can you sell your product online? 
- Do you really need fancy business cards, letterhead, and brochures or can you 
-forego that stuff? 
- You get the point. Maybe eventually you'll need to go the bigger, more expensive 
-route, but not right now. 
- There's nothing wrong with being frugal. When we launched our first product, we 
-did it on the cheap. We didn't get our own office; we shared space with another company. 
-We didn't get a bank of servers; we had only one. We didn't advertise; we promoted by 
-sharing our experiences online. We didn't hire someone to answer customer e-mails; the 
-company founder answered them himself. And everything worked out just fine. 
- Great companies start in garages all the time. Yours can too. 
+Do you really need an accountant or can you use Quicken and do it yourself? Do you really need an IT department or can you outsource it? Do you really need a full-time support person or can you handle inquiries on your own? Do you really need to open a retail store or can you sell your product online? Do you really need fancy business cards, letterhead, and brochures or can you forego that stuff? 
+
+You get the point. Maybe eventually you'll need to go the bigger, more expensive route, but not right now. 
+
+There's nothing wrong with being frugal. When we launched our first product, we did it on the cheap. We didn't get our own office; we shared space with another company. We didn't get a bank of servers; we had only one. We didn't advertise; we promoted by sharing our experiences online. We didn't hire someone to answer customer e-mails; the company founder answered them himself. And everything worked out just fine.
+
+Great companies start in garages all the time. Yours can too. 
 
 ####  Building to flip is building to flop 
 
-You need a commitment strategy, not an exit strategy. You should be thinking 
-about how to make your project grow and succeed, not how you're going to jump ship. If 
-your whole strategy is based on leaving, chances are you won't get far in the first place
+You need a commitment strategy, not an exit strategy. You should be thinking about how to make your project grow and succeed, not how you're going to jump ship. If your whole strategy is based on leaving, chances are you won't get far in the first place.
 
-You see so many aspiring businesspeople pinning their hopes on selling out. But 
-the odds of getting acquired are so tiny. There's only a slim chance that some big suitor 
-will come along and make it all worthwhile. Maybe 1 in 1,000? Or 1 in 10,000? 
+You see so many aspiring businesspeople pinning their hopes on selling out. But the odds of getting acquired are so tiny. There's only a slim chance that some big suitor will come along and make it all worthwhile. Maybe 1 in 1,000? Or 1 in 10,000? 
 
-And let's say you ignore this advice and do pull off a flip. You build your 
-business, sell it, and get a nice payday. Then what? Move to an island and sip pina 
-coladas all day? Will that really satisfy you? Will money alone truly make you happy? 
-Are you sure you'll like that more than running a business you actually enjoy and believe 
-in? 
+And let's say you ignore this advice and do pull off a flip. You build your business, sell it, and get a nice payday. Then what? Move to an island and sip pina coladas all day? Will that really satisfy you? Will money alone truly make you happy? Are you sure you'll like that more than running a business you actually enjoy and believe in? 
 
-That's why you often hear about business owners who sell out, retire for six 
-months, and then get back in the game. They miss the thing they gave away. And usually, 
-they're back with a business that isn't nearly as good as their first.
+That's why you often hear about business owners who sell out, retire for six months, and then get back in the game. They miss the thing they gave away. And usually, they're back with a business that isn't nearly as good as their first.
 
 ####  Less mass
 
-Embrace the idea of having less mass. Right now, you're the smallest, the leanest, 
-and the fastest you'll ever be. From here on out, you'll start accumulating mass. And the 
-more massive an object, the more energy required to change its direction. It's as true in 
-the business world as it is in the physical world.
+Embrace the idea of having less mass. Right now, you're the smallest, the leanest, and the fastest you'll ever be. From here on out, you'll start accumulating mass. And the more massive an object, the more energy required to change its direction. It's as true in the business world as it is in the physical world.
 
-Long-term contracts 
- Excess staff 
- Permanent decisions 
- Meetings 
- Thick process 
- Inventory (physical or mental) 
- Hardware, software, and technology lock-ins 
- Long-term road maps 
- Office politics
+Long-term contracts, excess staff, permanent decisions, meetings, thick process, inventory (physical or mental), hardware, software, and technology lock-ins, long-term road maps, office politics.
 
-Avoid these things whenever you can. That way, you'll be able to change 
-direction easily. The more expensive it is to make a change, the less likely you are to 
-make it.
+Avoid these things whenever you can. That way, you'll be able to change direction easily. The more expensive it is to make a change, the less likely you are to make it.
 
 ## Less is a Good Thing
 
-Embrace constraints. "I don't have enough time/money/people/experience." Stop whining. Less is a 
-good thing. Constraints are advantages in disguise. Limited resources force you to make 
-do with what you've got. There's no room for waste. And that forces you to be creative.
+Embrace constraints. "I don't have enough time/money/people/experience." Stop whining. Less is a good thing. Constraints are advantages in disguise. Limited resources force you to make do with what you've got. There's no room for waste. And that forces you to be creative.
 
-Writers use constraints to force creativity all the time. Shakespeare reveled in the 
-limitations of sonnets (fourteen-line lyric poems in iambic pentameter with a specific 
-rhyme scheme). Haiku and limericks also have strict rules that lead to creative results. 
-Writers like Ernest Hemingway and Raymond Carver found that forcing themselves to 
+Writers use constraints to force creativity all the time. Shakespeare reveled in the limitations of sonnets (fourteen-line lyric poems in iambic pentameter with a specific rhyme scheme). Haiku and limericks also have strict rules that lead to creative results. Writers like Ernest Hemingway and Raymond Carver found that forcing themselves to 
 use simple, clear language helped them deliver maximum impact.
 
-The Price Is Right, the longest-running game show in history, is also a great 
-example of creativity born from embracing constraints. The show has more than a 
-hundred games, and each one is based on the question "How much does this item cost?" 
+The Price Is Right, the longest-running game show in history, is also a great example of creativity born from embracing constraints. The show has more than a hundred games, and each one is based on the question "How much does this item cost?" 
 
-When we were building Basecamp, we had plenty of limitations. We had a design 
-firm to run with existing client work, a seven-hour time difference between principals 
-(David was doing the programming in Denmark, the rest of us were in the States), a small 
-team, and no outside funding. These constraints forced us to keep the product simple
+When we were building Basecamp, we had plenty of limitations. We had a design firm to run with existing client work, a seven-hour time difference between principals (David was doing the programming in Denmark, the rest of us were in the States), a small team, and no outside funding. These constraints forced us to keep the product simple.
 
-These days, we have more resources and people, but we still force constraints. We 
-make sure to have only one or two people working on a product at a time. And we always 
-keep features to a minimum
+These days, we have more resources and people, but we still force constraints. We make sure to have only one or two people working on a product at a time. And we always keep features to a minimum.
 
 ####  Build half a product, not a half-assed product 
 
-You can turn a bunch of great ideas into a crappy product real fast by trying to do 
-them all at once. You just can't do everything you want to do and do it well. You have 
-limited time, resources, ability, and focus. It's hard enough to do one thing right. Trying 
-to do ten things well at the same time? Forget about it.
+You can turn a bunch of great ideas into a crappy product real fast by trying to do them all at once. You just can't do everything you want to do and do it well. You have limited time, resources, ability, and focus. It's hard enough to do one thing right. Trying to do ten things well at the same time? Forget about it.
 
-Most of your great ideas won't seem all that great once you get some perspective, 
-anyway. And if they truly are that fantastic, you can always do them later. 
+Most of your great ideas won't seem all that great once you get some perspective, anyway. And if they truly are that fantastic, you can always do them later. 
 
 ####  Start at the epicenter 
 
-When you start anything new, there are forces pulling you in a variety of 
-directions. There's the stuff you could do, the stuff you want to do, and the stuff you have 
-to do. The stuff you have to do is where you should begin. Start at the epicenter.
+When you start anything new, there are forces pulling you in a variety of directions. There's the stuff you could do, the stuff you want to do, and the stuff you have to do. The stuff you have to do is where you should begin. Start at the epicenter.
 
-#### Ignore the details early on 
+So ignore the details--for a while. Nail the basics first and worry about the specifics later.
 
-So ignore the details--for a while. Nail the basics first and worry about 
-the specifics later.
-
-Besides, you often can't recognize the details that matter most until after you start 
-building. That's when you see what needs more attention. You feel what's missing. And 
-that's when you need to pay attention, not sooner.
+Besides, you often can't recognize the details that matter most until after you start building. That's when you see what needs more attention. You feel what's missing. And that's when you need to pay attention, not sooner.
 
 ####  Making the call is making progress 
 
-When you put off decisions, they pile up. And piles end up ignored, dealt with in 
-haste, or thrown out. As a result, the individual problems in those piles stay unresolved. 
- Whenever you can, swap "Let's think about it" for "Let's decide on it." Commit to 
-making decisions. Don't wait for the perfect solution. Decide and move forward.
+When you put off decisions, they pile up. And piles end up ignored, dealt with in haste, or thrown out. As a result, the individual problems in those piles stay unresolved. Whenever you can, swap "Let's think about it" for "Let's decide on it." Commit to making decisions. Don't wait for the perfect solution. Decide and move forward.
 
-Decisions are 
-progress. Each one you make is a brick in your foundation. You can't build on top of 
-"We'll decide later," but you can build on top of "Done." 
+Decisions are progress. Each one you make is a brick in your foundation. You can't build on top of "We'll decide later," but you can build on top of "Done." 
 
-An example from our world: For a long time, we avoided creating an affiliate 
-program for our products because the "perfect" solution seemed way too complicated: 
-We'd have to automate payments, mail out checks, figure out foreign tax laws for 
-overseas affiliates, etc. The breakthrough came when we asked, "What can we easily do 
-right now that's good enough?" The answer: Pay affiliates in credit instead of cash. So 
-that's what we did.
+An example from our world: For a long time, we avoided creating an affiliate program for our products because the "perfect" solution seemed way too complicated: We'd have to automate payments, mail out checks, figure out foreign tax laws for overseas affiliates, etc. The breakthrough came when we asked, "What can we easily do right now that's good enough?" The answer: Pay affiliates in credit instead of cash. So that's what we did.
 
-We stuck with that approach for a while and then eventually implemented a 
-system that pays cash. And that's a big part of this: You don't have to live with a decision 
-forever. If you make a mistake, you can correct it later. 
+We stuck with that approach for a while and then eventually implemented a system that pays cash. And that's a big part of this: You don't have to live with a decision forever. If you make a mistake, you can correct it later. 
 
-Long projects zap morale. The longer it takes to develop, the less likely it is to 
-launch. Make the call, make progress, and get something out now--while you've got the 
-motivation and momentum to do so.
+Long projects zap morale. The longer it takes to develop, the less likely it is to launch. Make the call, make progress, and get something out now--while you've got the motivation and momentum to do so.
 
 ####  Be a curator 
 
-You don't make a great museum by putting all the art in the world into a single 
-room. That's a warehouse. What makes a museum great is the stuff that's not on the walls. 
-Someone says no. A curator is involved, making conscious decisions about what should 
-stay and what should go. There's an editing process. There's a lot more stuff off the walls 
-than on the walls. The best is a sub-sub-subset of all the possibilities. 
+You don't make a great museum by putting all the art in the world into a single room. That's a warehouse. What makes a museum great is the stuff that's not on the walls. Someone says no. A curator is involved, making conscious decisions about what should stay and what should go. There's an editing process. There's a lot more stuff off the walls than on the walls. The best is a sub-sub-subset of all the possibilities. 
 
-It's the stuff you leave out that matters. So constantly look for things to remove, 
-simplify, and streamline. Be a curator. Stick to what's truly essential. Pare things down 
-until you're left with only the most important stuff. Then do it again. You can always add 
-stuff back in later if you need to.
+It's the stuff you leave out that matters. So constantly look for things to remove, simplify, and streamline. Be a curator. Stick to what's truly essential. Pare things down until you're left with only the most important stuff. Then do it again. You can always add stuff back in later if you need to.
 
-The owner actually tried the oil and chooses to carry it based on its taste. It's not 
-about packaging, marketing, or price. It's about quality. He tried it and knew his store had 
-to carry it. That's the approach you should take too. 
+The owner actually tried the oil and chooses to carry it based on its taste. It's not about packaging, marketing, or price. It's about quality. He tried it and knew his store had to carry it. That's the approach you should take too. 
 
 ####  Throw less at the problem 
 
-Watch chef Gordon Ramsay's Kitchen Nightmares and you'll see a pattern. The 
-menus at failing restaurants offer too many dishes. The owners think making every dish 
-under the sun will broaden the appeal of the restaurant. Instead it makes for crappy food 
-(and creates inventory headaches).
+Watch chef Gordon Ramsay's Kitchen Nightmares and you'll see a pattern. The menus at failing restaurants offer too many dishes. The owners think making every dish under the sun will broaden the appeal of the restaurant. Instead it makes for crappy food (and creates inventory headaches).
 
-That's why Ramsay's first step is nearly always to trim the menu, usually from 
-thirty-plus dishes to around ten. Think about that. Improving the current menu doesn't 
-come first. Trimming it down comes first. Then he polishes what's left.
+That's why Ramsay's first step is nearly always to trim the menu, usually from thirty-plus dishes to around ten. Think about that. Improving the current menu doesn't come first. Trimming it down comes first. Then he polishes what's left.
 
-When things aren't working, the natural inclination is to throw more at the 
-problem. More people, time, and money. All that ends up doing is making the problem 
-bigger. The right way to go is the opposite direction: Cut back.
+When things aren't working, the natural inclination is to throw more at the problem. More people, time, and money. All that ends up doing is making the problem bigger. The right way to go is the opposite direction: Cut back.
 
-That's a fool's path. You start focusing on fashion instead of substance. You start 
-paying attention to things that are constantly changing instead of things that last.
+That's a fool's path. You start focusing on fashion instead of substance. You start paying attention to things that are constantly changing instead of things that last.
 
-The core of your business should be built around things that won't change. Things 
-that people are going to want today and ten years from now. Those are the things you 
-should invest in.
+The core of your business should be built around things that won't change. Things that people are going to want today and ten years from now. Those are the things you should invest in.
 
 Amazon.com focuses on fast (or free) shipping, great selection, friendly return policies, and affordable prices. These things will always be in high demand. 
 
-Japanese automakers also focus on core principles that don't change: reliability, 
-affordability, and practicality. People wanted those things thirty years ago, they want 
-them today, and they'll want them thirty years from now
+Japanese automakers also focus on core principles that don't change: reliability, affordability, and practicality. People wanted those things thirty years ago, they want them today, and they'll want them thirty years from now.
 
-For 37signals, things like speed, simplicity, ease of use, and clarity are our focus. 
-Those are timeless desires. People aren't going to wake up in ten years and say, "Man, I 
-wish software was harder to use." They won't say, "I wish this application was slower." 
+For 37signals, things like speed, simplicity, ease of use, and clarity are our focus. Those are timeless desires. People aren't going to wake up in ten years and say, "Man, I wish software was harder to use." They won't say, "I wish this application was slower." 
 
 ####  Tone is in your fingers 
 
-e truth is your tone comes from you. 
- It's tempting for people to obsess over tools instead of what they're going to do 
-with those tools. You know the type: Designers who use an avalanche of funky typefaces 
-and fancy Photoshop filters but don't have anything to say. 
+The truth is your tone comes from you. It's tempting for people to obsess over tools instead of what they're going to do with those tools. You know the type: Designers who use an avalanche of funky typefaces and fancy Photoshop filters but don't have anything to say. 
 
-People use equipment as a crutch. They don't want to put in the hours on the 
-driving range so they spend a ton in the pro shop. They're looking for a shortcut. But you 
-just don't need the best gear in the world to be good. And you definitely don't need it to 
-get started.
+People use equipment as a crutch. They don't want to put in the hours on the driving range so they spend a ton in the pro shop. They're looking for a shortcut. But you just don't need the best gear in the world to be good. And you definitely don't need it to get started.
 
-In business, too many people obsess over tools, software tricks, scaling issues, 
-fancy office space, lavish furniture, and other frivolities instead of what really matters. 
-And what really matters is how to actually get customers and make money.
-
+In business, too many people obsess over tools, software tricks, scaling issues, fancy office space, lavish furniture, and other frivolities instead of what really matters. And what really matters is how to actually get customers and make money.
 
 ####  Sell your by-products 
 
-When you make something, you always make something else. You can't make 
-just one thing. Everything has a by-product. Observant and creative business minds spot 
-these by-products and see opportunities.
+When you make something, you always make something else. You can't make just one thing. Everything has a by-product. Observant and creative business minds spot these by-products and see opportunities.
 
-The lumber industry sells what used to be waste--sawdust, chips, and shredded 
-wood--for a pretty profit. You'll find these by-products in synthetic fireplace logs, 
-concrete, ice strengtheners, mulch, particleboard, fuel, and more.
+The lumber industry sells what used to be waste--sawdust, chips, and shredded wood--for a pretty profit. You'll find these by-products in synthetic fireplace logs, concrete, ice strengtheners, mulch, particleboard, fuel, and more.
 
-Our last book, Getting Real, was a by-product. We wrote that book without even knowing it. The experience that came from building a company and building software 
-was the waste from actually doing the work. Book earned money.
+Our last book, Getting Real, was a by-product. We wrote that book without even knowing it. The experience that came from building a company and building software was the waste from actually doing the work. Book earned money.
 
-Software companies don't usually think about writing books. Bands don't usually 
-think about filming the recording process. Car manufacturers don't usually think about 
-selling charcoal. There's probably something you haven't thought about that you could 
-sell too
+Software companies don't usually think about writing books. Bands don't usually think about filming the recording process. Car manufacturers don't usually think about selling charcoal. There's probably something you haven't thought about that you could sell too.
 
 ####  Launch now 
 
-Just because you've still got a list of things to do doesn't mean it's not done. Don't 
-hold everything else up because of a few leftovers. You can do them later. And doing 
-them later may mean doing them better, too.
+Just because you've still got a list of things to do doesn't mean it's not done. Don't hold everything else up because of a few leftovers. You can do them later. And doing them later may mean doing them better, too.
 
-If you had to launch your business in two weeks, what 
-would you cut out? Funny how a question like that forces you to focus. You suddenly 
-realize there's a lot of stuff you don't need. And what you do need seems obvious. When 
-you impose a deadline, you gain clarity. It's the best way to get to that gut instinct that 
-tells you, "We don't need this."
+If you had to launch your business in two weeks, what would you cut out? Funny how a question like that forces you to focus. You suddenly realize there's a lot of stuff you don't need. And what you do need seems obvious. When you impose a deadline, you gain clarity. It's the best way to get to that gut instinct that tells you, "We don't need this."
 
-When we launched Basecamp, we didn't even have the ability to bill customers! 
-Because the product billed in monthly cycles, we knew we had a thirty-day gap to figure 
-it out. So we used the time before launch to solve more urgent problems that actually 
-mattered on day one. Day 30 could wait.
+When we launched Basecamp, we didn't even have the ability to bill customers! Because the product billed in monthly cycles, we knew we had a thirty-day gap to figure it out. So we used the time before launch to solve more urgent problems that actually mattered on day one. Day 30 could wait.
 
-Camper, a brand of shoes, opened a store in San Francisco before construction 
-was even finished and called it a Walk in Progress. Customers could draw on the walls of 
-the empty store. Camper displayed shoes on cheap plywood laid over dozens of shoe 
-boxes. The most popular message written by customers on the walls: "Keep the store just 
-the way it is."*
+Camper, a brand of shoes, opened a store in San Francisco before construction was even finished and called it a Walk in Progress. Customers could draw on the walls of the empty store. Camper displayed shoes on cheap plywood laid over dozens of shoe boxes. The most popular message written by customers on the walls: "Keep the store just the way it is."*
 
-Don't mistake this approach for skimping on quality, either. You still want to 
-make something great. This approach just recognizes that the best way to get there is 
-through iterations. Stop imagining what's going to work. Find out for real.
+Don't mistake this approach for skimping on quality, either. You still want to make something great. This approach just recognizes that the best way to get there is through iterations. Stop imagining what's going to work. Find out for real.
 
 ## PRODUCTIVITY
 
 ####  Illusions of agreement 
 
-The business world is littered with dead documents that do nothing but waste 
-people's time. Reports no one reads, diagrams no one looks at, and specs that never 
-resemble the finished product. These things take forever to make but only seconds to 
-forget.
+The business world is littered with dead documents that do nothing but waste people's time. Reports no one reads, diagrams no one looks at, and specs that never resemble the finished product. These things take forever to make but only seconds to forget.
 
-If you need to explain something, try getting real with it. Instead of describing 
-what something looks like, draw it. Instead of explaining what something sounds like, 
-hum it. Do everything you can to remove layers of abstraction.
+If you need to explain something, try getting real with it. Instead of describing what something looks like, draw it. Instead of explaining what something sounds like, hum it. Do everything you can to remove layers of abstraction.
 
-The problem with abstractions (like reports and documents) is that they create 
-illusions of agreement. A hundred people can read the same words, but in their heads, 
-they're imagining a hundred different things.
+The problem with abstractions (like reports and documents) is that they create illusions of agreement. A hundred people can read the same words, but in their heads, they're imagining a hundred different things.
 
- That's why you want to get to something real right away. That's when you get true understanding. It's like when we read about characters in a book--we each picture them 
-differently in our heads. But when we actually see people, we all know exactly what they 
-look like.
+That's why you want to get to something real right away. That's when you get true understanding. It's like when we read about characters in a book--we each picture them differently in our heads. But when we actually see people, we all know exactly what they look like.
 
-When the team at Alaska Airlines wanted to build a new Airport of the Future, 
-they didn't rely on blueprints and sketches. They got a warehouse and built mock-ups 
-using cardboard boxes for podiums, kiosks, and belts. The team then built a small 
-prototype in Anchorage to test systems with real passengers and employees. The design 
-that resulted from this getting-real process has significantly reduced wait times and 
-increased agent productivity.*
+When the team at Alaska Airlines wanted to build a new Airport of the Future, they didn't rely on blueprints and sketches. They got a warehouse and built mock-ups using cardboard boxes for podiums, kiosks, and belts. The team then built a small prototype in Anchorage to test systems with real passengers and employees. The design that resulted from this getting-real process has significantly reduced wait times and increased agent productivity.*
 
-That's the path we all should take. Get the chisel out and start making something 
-real. Anything else is just a distraction.
+That's the path we all should take. Get the chisel out and start making something real. Anything else is just a distraction.
 
 ####  Reasons to quit: Ask yourself these questions:
 
@@ -451,347 +262,185 @@ real. Anything else is just a distraction.
 
 #### Interruption is the enemy of productivity
 
-If you're constantly staying late and working weekends, it's not because there's too 
-much work to be done. It's because you're not getting enough done at work. And the 
-reason is interruptions.
+If you're constantly staying late and working weekends, it's not because there's too much work to be done. It's because you're not getting enough done at work. And the reason is interruptions.
 
-When do you get most of your work done? If you're like most 
-people, it's at night or early in the morning. It's no coincidence that these are the times 
-when nobody else is around.
+When do you get most of your work done? If you're like most people, it's at night or early in the morning. It's no coincidence that these are the times when nobody else is around.
 
-At 2 p.m., people are usually in a meeting or answering e-mail or chatting with 
-colleagues. Those taps on the shoulder and little impromptu get-togethers may seem 
-harmless, but they're actually corrosive to productivity. Interruption is not collaboration, 
-it's just interruption. And when you're interrupted, you're not getting work done.
+At 2 p.m., people are usually in a meeting or answering e-mail or chatting with colleagues. Those taps on the shoulder and little impromptu get-togethers may seem harmless, but they're actually corrosive to productivity. Interruption is not collaboration, it's just interruption. And when you're interrupted, you're not getting work done.
 
-Interruptions break your workday into a series of work moments. Forty-five 
-minutes and then you have a call. Fifteen minutes and then you have lunch. An hour later, 
-you have an afternoon meeting. Before you know it, it's five o'clock, and you've only had 
-a couple uninterrupted hours to get your work done. You can't get meaningful things 
-done when you're constantly going start, stop, start, stop.
+Interruptions break your workday into a series of work moments. Forty-five minutes and then you have a call. Fifteen minutes and then you have lunch. An hour later, you have an afternoon meeting. Before you know it, it's five o'clock, and you've only had a couple uninterrupted hours to get your work done. You can't get meaningful things done when you're constantly going start, stop, start, stop.
 
-Getting into that zone takes time and requires avoiding interruptions. It's like 
-REM sleep: You don't just go directly into REM sleep. You go to sleep first and then 
-make your way to REM. Any interruptions force you to start over. And just as REM is 
-when the real sleep magic happens, the alone zone is where the real productivity magic 
-happens
+Getting into that zone takes time and requires avoiding interruptions. It's like REM sleep: You don't just go directly into REM sleep. You go to sleep first and then make your way to REM. Any interruptions force you to start over. And just as REM is when the real sleep magic happens, the alone zone is where the real productivity magic happens.
 
-Your alone zone doesn't have to be in the wee hours, though. You can set up a 
-rule at work that half the day is set aside for alone time. Decree that from 10 a.m. to 2 
-p.m., people can't talk to each other (except during lunch). Or make the first or last half of 
-the day your alone-time period. Or instead of casual Fridays, try no-talk Thursdays. Just 
-make sure this period is unbroken in order to avoid productivity-zapping interruptions.
+Your alone zone doesn't have to be in the wee hours, though. You can set up a rule at work that half the day is set aside for alone time. Decree that from 10 a.m. to 2 p.m., people can't talk to each other (except during lunch). Or make the first or last half of the day your alone-time period. Or instead of casual Fridays, try no-talk Thursdays. Just make sure this period is unbroken in order to avoid productivity-zapping interruptions.
 
-Or make the first or last half of 
-the day your alone-time period. Or instead of casual Fridays, try no-talk Thursdays. Just 
-make sure this period is unbroken in order to avoid productivity-zapping interruptions.
+Or make the first or last half of the day your alone-time period. Or instead of casual Fridays, try no-talk Thursdays. Just make sure this period is unbroken in order to avoid productivity-zapping interruptions.
 
 Better to use non-interruptive stuff like email rather than interruptive ones like phone calls and face-to-face meetings.
 
 ####  Meetings are toxic 
 
 The worst interruptions of all are meetings. Here's why: 
- They're usually about words and abstract concepts, not real things. 
- They usually convey an abysmally small amount of information per minute. 
- They drift off-subject easier than a Chicago cab in a snowstorm. 
- They require thorough preparation that most people don't have time for. 
- They frequently have agendas so vague that nobody is really sure of the goal. 
- They often include at least one moron who inevitably gets his turn to waste 
-everyone's time with nonsense. 
- Meetings procreate. One meeting leads to another meeting leads to another ... 
- It's also unfortunate that meetings are typically scheduled like TV shows. You set 
-aside thirty minutes or an hour because that's how scheduling software works (you'll 
-never see anyone schedule a seven-minute meeting with Outlook). Too bad. If it only 
-takes seven minutes to accomplish a meeting's goal, then that's all the time you should 
-spend. Don't stretch seven into thirty
 
-When you think about it, the true cost of meetings is staggering. Let's say you're 
-going to schedule a meeting that lasts one hour, and you invite ten people to attend. 
-That's actually a ten-hour meeting, not a one-hour meeting. You're trading ten hours of 
-productivity for one hour of meeting time. And it's probably more like fifteen hours, because there are mental switching costs that come with stopping what you're doing, 
-going somewhere else to meet, and then resuming what you were doing beforehand.
+- They're usually about words and abstract concepts, not real things. 
+- They usually convey an abysmally small amount of information per minute.
+- They drift off-subject easier than a Chicago cab in a snowstorm. 
+- They require thorough preparation that most people don't have time for. 
+- They frequently have agendas so vague that nobody is really sure of the goal. 
+- They often include at least one moron who inevitably gets his turn to waste everyone's time with nonsense. 
+ 
+Meetings procreate. One meeting leads to another meeting leads to another ... It's also unfortunate that meetings are typically scheduled like TV shows. You set aside thirty minutes or an hour because that's how scheduling software works (you'll never see anyone schedule a seven-minute meeting with Outlook). Too bad. If it only takes seven minutes to accomplish a meeting's goal, then that's all the time you should spend. Don't stretch seven into thirty.
 
-Is it ever OK to trade ten or fifteen hours of productivity for one hour of meeting? 
-Sometimes, maybe. But that's a pretty hefty price to pay. Judged on a pure cost basis, 
-meetings of this size quickly become liabilities, not assets. Think about the time you're 
-actually losing and ask yourself if it's really worth it. 
- If you decide you absolutely must get together, try to make your meeting a 
-productive one by sticking to these simple rules:
+When you think about it, the true cost of meetings is staggering. Let's say you're going to schedule a meeting that lasts one hour, and you invite ten people to attend. That's actually a ten-hour meeting, not a one-hour meeting. You're trading ten hours of productivity for one hour of meeting time. And it's probably more like fifteen hours, because there are mental switching costs that come with stopping what you're doing, going somewhere else to meet, and then resuming what you were doing beforehand.
 
-Set a timer. When it rings, meeting's over. Period. 
- Invite as few people as possible. 
- Always have a clear agenda. 
- Begin with a specific problem. 
- Meet at the site of the problem instead of a conference room. Point to real things 
-and suggest real changes. 
- End with a solution and make someone responsible for implementing it. 
+Is it ever OK to trade ten or fifteen hours of productivity for one hour of meeting? Sometimes, maybe. But that's a pretty hefty price to pay. Judged on a pure cost basis, meetings of this size quickly become liabilities, not assets. Think about the time you're actually losing and ask yourself if it's really worth it. If you decide you absolutely must get together, try to make your meeting a productive one by sticking to these simple rules:
+
+- Set a timer. When it rings, meeting's over. Period. 
+- Invite as few people as possible. 
+- Always have a clear agenda. 
+- Begin with a specific problem. 
+- Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes. 
+- End with a solution and make someone responsible for implementing it. 
 
 ## Good enough is fine 
 
-A lot of people get off on solving problems with complicated solutions. Flexing 
-your intellectual muscles can be intoxicating. Then you start looking for another big 
-challenge that gives you that same rush, regardless of whether it's a good idea or not.
+A lot of people get off on solving problems with complicated solutions. Flexing your intellectual muscles can be intoxicating. Then you start looking for another big challenge that gives you that same rush, regardless of whether it's a good idea or not.
 
-A better idea: Find a judo solution, one that delivers maximum efficiency with minimum effort. Judo solutions are all about getting the most out of doing the least. 
-Whenever you face an obstacle, look for a way to judo it.
+A better idea: Find a judo solution, one that delivers maximum efficiency with minimum effort. Judo solutions are all about getting the most out of doing the least. Whenever you face an obstacle, look for a way to judo it.
 
- Problems can usually be solved with simple, mundane solutions. That means 
-there's no glamorous work. You don't get to show off your amazing skills. You just build 
-something that gets the job done and then move on. This approach may not earn you oohs 
-and aahs, but it lets you get on with it. 
+Problems can usually be solved with simple, mundane solutions. That means there's no glamorous work. You don't get to show off your amazing skills. You just build something that gets the job done and then move on. This approach may not earn you oohs and aahs, but it lets you get on with it. 
 
-
-When good enough gets the job done, go for it. It's way better than wasting 
-resources or, even worse, doing nothing because you can't afford the complex solution. 
-And remember, you can usually turn good enough into great later. 
+When good enough gets the job done, go for it. It's way better than wasting resources or, even worse, doing nothing because you can't afford the complex solution. And remember, you can usually turn good enough into great later. 
 
 ####  Quick wins 
 
-Momentum fuels motivation. It keeps you going. It drives you. Without it, you 
-can't go anywhere. If you aren't motivated by what you're working on, it won't be very 
-good
+Momentum fuels motivation. It keeps you going. It drives you. Without it, you can't go anywhere. If you aren't motivated by what you're working on, it won't be very good.
 
-The way you build momentum is by getting something done and then moving on 
-to the next thing. No one likes to be stuck on an endless project with no finish line in 
-sight. Being in the trenches for nine months and not having anything to show for it is a 
-real buzzkill. Eventually it just burns you out. To keep your momentum and motivation 
-up, get in the habit of accomplishing small victories along the way. Even a tiny 
-improvement can give you a good jolt of momentum
+The way you build momentum is by getting something done and then moving on to the next thing. No one likes to be stuck on an endless project with no finish line in sight. Being in the trenches for nine months and not having anything to show for it is a real buzzkill. Eventually it just burns you out. To keep your momentum and motivation up, get in the habit of accomplishing small victories along the way. Even a tiny improvement can give you a good jolt of momentum.
 
- The longer something takes, the less likely it is that you're going to finish it. 
+__The longer something takes, the less likely it is that you're going to finish it.__
 
-If you absolutely have to work on long-term projects, try to dedicate one day a 
-week (or every two weeks) to small victories that generate enthusiasm. Small victories let 
-you celebrate and release good news. And you want a steady stream of good news. When 
-there's something new to announce every two weeks, you energize your team and give 
-your customers something to be excited about. 
- So ask yourself, "What can we do in two weeks?" And then do it. Get it out there 
-and let people use it, taste it, play it, or whatever. The quicker it's in the hands of 
-customers, the better off you'll be
+If you absolutely have to work on long-term projects, try to dedicate one day a week (or every two weeks) to small victories that generate enthusiasm. Small victories let you celebrate and release good news. And you want a steady stream of good news. When there's something new to announce every two weeks, you energize your team and give your customers something to be excited about. So ask yourself, "What can we do in two weeks?" And then do it. Get it out there and let people use it, taste it, play it, or whatever. The quicker it's in the hands of customers, the better off you'll be.
 
 ####  Don't be a hero 
 
-A lot of times it's better to be a quitter than a hero. 
- For example, let's say you think a task can be done in two hours. But four hours 
-into it, you're still only a quarter of the way done. The natural instinct is to think, "But I 
-can't give up now, I've already spent four hours on this!"
+A lot of times it's better to be a quitter than a hero. For example, let's say you think a task can be done in two hours. But four hours into it, you're still only a quarter of the way done. The natural instinct is to think, "But I can't give up now, I've already spent four hours on this!"
 
-give up now, I've already spent four hours on this!" 
- So you go into hero mode. You're determined to make it work (and slightly 
-embarrassed that it isn't already working). You grab your cape and shut yourself off from 
-the world. 
- And sometimes that kind of sheer effort overload works. But is it worth it? 
-Probably not. The task was worth it when you thought it would cost two hours, not 
-sixteen. In those sixteen hours, you could have gotten a bunch of other things done. Plus, 
-you cut yourself off from feedback, which can lead you even further down the wrong 
-path. Even heroes need a fresh pair of eyes sometimes--someone else to give them a 
-reality check.
+So you go into hero mode. You're determined to make it work (and slightly embarrassed that it isn't already working). You grab your cape and shut yourself off from the world. 
 
-So we decided that if anything takes one of us longer than two weeks, we've got to bring other people in to take a look. They 
-might not do any work on the task, but at least they can review it quickly and give their 
-two cents. Sometimes an obvious solution is staring you right in the face, but you can't 
-even see it
+And sometimes that kind of sheer effort overload works. But is it worth it? Probably not. The task was worth it when you thought it would cost two hours, not sixteen. In those sixteen hours, you could have gotten a bunch of other things done. Plus, you cut yourself off from feedback, which can lead you even further down the wrong path. Even heroes need a fresh pair of eyes sometimes--someone else to give them a reality check.
 
-Keep in mind that the obvious solution might very well be quitting. People 
-automatically associate quitting with failure, but sometimes that's exactly what you 
-should do. If you already spent too much time on something that wasn't worth it, walk 
-away. You can't get that time back. The worst thing you can do now is waste even more 
-time. 
+So we decided that if anything takes one of us longer than two weeks, we've got to bring other people in to take a look. They might not do any work on the task, but at least they can review it quickly and give their two cents. Sometimes an obvious solution is staring you right in the face, but you can't even see it.
+
+Keep in mind that the obvious solution might very well be quitting. People automatically associate quitting with failure, but sometimes that's exactly what you should do. If you already spent too much time on something that wasn't worth it, walk away. You can't get that time back. The worst thing you can do now is waste even more time. 
 
 ####  Go to sleep 
 
- Forgoing sleep is a bad idea. Sure, you get those extra hours right now, but you pay in spades later: You destroy your creativity, morale, and attitude. 
+Forgoing sleep is a bad idea. Sure, you get those extra hours right now, but you pay in spades later: You destroy your creativity, morale, and attitude. 
 
-Once in a while, you can pull an all-nighter if you fully understand the 
-consequences. Just don't make it a habit. If it becomes a constant, the costs start to 
-mount:Stubbornness: When you're really tired, it always seems easier to plow down 
-whatever bad path you happen to be on instead of reconsidering the route. The finish line 
-is a constant mirage and you wind up walking in the desert way too long. Lack of 
-creativity: Creativity is one of the first things to go when you lose sleep. What 
-distinguishes people who are ten times more effective than the norm is not that they work 
-ten times as hard; it's that they use their creativity to come up with solutions that require 
-one-tenth of the effort. Without sleep, you stop coming up with those one-tenth solutions. 
-Diminished morale: When your brain isn't firing on all cylinders, it loves to feed on less 
-demanding tasks. Like reading yet another article about stuff that doesn't matter. When 
-you're tired, you lose motivation to attack the big problems. Irritability: Your ability to 
-remain patient and tolerant is severely reduced when you're tired. If you encounter 
-someone who's acting like a fool, there's a good chance that person is suffering from 
-sleep deprivation
+Once in a while, you can pull an all-nighter if you fully understand the consequences. Just don't make it a habit. If it becomes a constant, the costs start to mount.
+
+Stubbornness: When you're really tired, it always seems easier to plow down whatever bad path you happen to be on instead of reconsidering the route. The finish line is a constant mirage and you wind up walking in the desert way too long.
+
+Lack of creativity: Creativity is one of the first things to go when you lose sleep. What distinguishes people who are ten times more effective than the norm is not that they work ten times as hard; it's that they use their creativity to come up with solutions that require one-tenth of the effort. Without sleep, you stop coming up with those one-tenth solutions. 
+
+Diminished morale: When your brain isn't firing on all cylinders, it loves to feed on less demanding tasks. Like reading yet another article about stuff that doesn't matter. When you're tired, you lose motivation to attack the big problems.
+
+Irritability: Your ability to remain patient and tolerant is severely reduced when you're tired. If you encounter someone who's acting like a fool, there's a good chance that person is suffering from sleep deprivation.
 
 ####  Your estimates suck 
 
-We're all terrible estimators. We think we can guess how long something will 
-take, when we really have no idea. We see everything going according to a best-case 
-scenario, without the delays that inevitably pop up. Reality never sticks to best-case 
-scenarios.
+We're all terrible estimators. We think we can guess how long something will take, when we really have no idea. We see everything going according to a best-case scenario, without the delays that inevitably pop up. Reality never sticks to best-case scenarios.
 
-That's why estimates that stretch weeks, months, and years into the future are 
-fantasies. The truth is you just don't know what's going to happen that far in advance.
+That's why estimates that stretch weeks, months, and years into the future are fantasies. The truth is you just don't know what's going to happen that far in advance.
 
-Even with these simple tasks, our estimates are often off by a factor of two or 
-more. If we can't be accurate when estimating a few hours, how can we expect to 
-accurately predict the length of a "six-month project"? 
+Even with these simple tasks, our estimates are often off by a factor of two or more. If we can't be accurate when estimating a few hours, how can we expect to accurately predict the length of a "six-month project"? 
 
-The solution: Break the big thing into smaller things. The smaller it is, the easier 
-it is to estimate. You're probably still going to get it wrong, but you'll be a lot less wrong 
-than if you estimated a big project. If something takes twice as long as you expected, 
-better to have it be a small project that's a couple weeks over rather than a long one that's 
-a couple months over.
+The solution: Break the big thing into smaller things. The smaller it is, the easier it is to estimate. You're probably still going to get it wrong, but you'll be a lot less wrong than if you estimated a big project. If something takes twice as long as you expected, better to have it be a small project that's a couple weeks over rather than a long one that's a couple months over.
 
 ####  Long lists don't get done 
 
-Start making smaller to-do lists too. Long lists collect dust. When's the last time 
-you finished a long list of things? You might have knocked off the first few, but chances 
-are you eventually abandoned it (or blindly checked off items that weren't really done 
-properly).
+Start making smaller to-do lists too. Long lists collect dust. When's the last time you finished a long list of things? You might have knocked off the first few, but chances are you eventually abandoned it (or blindly checked off items that weren't really done properly).
 
-Long lists are guilt trips. The longer the list of unfinished items, the worse you 
-feel about it. And at a certain point, you just stop looking at it because it makes you feel 
-bad. Then you stress out and the whole thing turns into a big mess.
+Long lists are guilt trips. The longer the list of unfinished items, the worse you feel about it. And at a certain point, you just stop looking at it because it makes you feel bad. Then you stress out and the whole thing turns into a big mess.
 
-For 
-example, break a single list of a hundred items into ten lists of ten items. That means 
-when you finish an item on a list, you've completed 10 percent of that list, instead of 1 
-percent.
+For example, break a single list of a hundred items into ten lists of ten items. That means when you finish an item on a list, you've completed 10 percent of that list, instead of 1 percent.
 
-Yes, you still have the same amount of stuff left to do. But now you can look at 
-the small picture and find satisfaction, motivation, and progress. That's a lot better than 
-staring at the huge picture and being terrified and demoralized. 
- Whenever you can, divide problems into smaller and smaller pieces until you're 
-able to deal with them completely and quickly. Simply rearranging your tasks this way 
-can have an amazing impact on your productivity and motivation.
+Yes, you still have the same amount of stuff left to do. But now you can look at the small picture and find satisfaction, motivation, and progress. That's a lot better than staring at the huge picture and being terrified and demoralized. 
 
-Instead, prioritize visually. Put the most important thing at the top. When you're 
-done with that, the next thing on the list becomes the next most important thing. That way 
-you'll only have a single next most important thing to do at a time. And that's enough. 
+Whenever you can, divide problems into smaller and smaller pieces until you're able to deal with them completely and quickly. Simply rearranging your tasks this way can have an amazing impact on your productivity and motivation.
+
+Instead, prioritize visually. Put the most important thing at the top. When you're done with that, the next thing on the list becomes the next most important thing. That way you'll only have a single next most important thing to do at a time. And that's enough. 
 
 ####  Make tiny decisions
 
-Big decisions are hard to make and hard to change. And once you make one, the 
-tendency is to continue believing you made the right decision, even if you didn't. You 
-stop being objective. 
+Big decisions are hard to make and hard to change. And once you make one, the tendency is to continue believing you made the right decision, even if you didn't. You stop being objective. 
 
-Instead, make choices that are small enough that they're effectively temporary. 
-When you make tiny decisions, you can't make big mistakes. These small decisions mean 
-you can afford to change. There's no big penalty if you mess up. You just fix it.
+Instead, make choices that are small enough that they're effectively temporary. When you make tiny decisions, you can't make big mistakes. These small decisions mean you can afford to change. There's no big penalty if you mess up. You just fix it.
 
-Polar explorer Ben Saunders said that during his solo North Pole expedition 
-(thirty-one marathons back-to-back, seventy-two days alone) the "huge decision" was 
-often so horrifically overwhelming to contemplate that his day-to-day decision making 
-rarely extended beyond "getting to that bit of ice a few yards in front of me."
+Polar explorer Ben Saunders said that during his solo North Pole expedition (thirty-one marathons back-to-back, seventy-two days alone) the "huge decision" was often so horrifically overwhelming to contemplate that his day-to-day decision making rarely extended beyond "getting to that bit of ice a few yards in front of me."
 
-Attainable goals like that are the best ones to have. Ones you can actually 
-accomplish and build on. You get to say, "We nailed it. Done!" Then you get going on 
-the next one. That's a lot more satisfying than some pie-in-the-sky fantasy goal you never 
-meet.
+Attainable goals like that are the best ones to have. Ones you can actually accomplish and build on. You get to say, "We nailed it. Done!" Then you get going on the next one. That's a lot more satisfying than some pie-in-the-sky fantasy goal you never meet.
 
 ## COMPETITORS 
 
 ####  Don't copy 
 
-You can steal someone's 
-words, images, or code instantly. And that means it's tempting to try to build a business 
-by being a copycat. That's a formula for failure, though. The problem with this sort of copying is it 
-skips understanding--and understanding is how you grow. You have to understand why 
-something works or why something is the way it is. When you just copy and paste, you 
-miss that. You just repurpose the last layer instead of understanding all the layers 
-underneath.
+You can steal someone's words, images, or code instantly. And that means it's tempting to try to build a business by being a copycat. That's a formula for failure, though. The problem with this sort of copying is it skips understanding--and understanding is how you grow. You have to understand why something works or why something is the way it is. When you just copy and paste, you miss that. You just repurpose the last layer instead of understanding all the layers underneath.
 
-So much of the work an original creator puts into something is invisible. It's 
-buried beneath the surface. The copycat doesn't really know why something looks the way it looks or feels the way it feels or reads the way it reads. The copy is a faux finish. It 
-delivers no substance, no understanding, and nothing to base future decisions on.
+So much of the work an original creator puts into something is invisible. It's buried beneath the surface. The copycat doesn't really know why something looks the way it looks or feels the way it feels or reads the way it reads. The copy is a faux finish. It delivers no substance, no understanding, and nothing to base future decisions on.
 
-Plus, if you're a copycat, you can never keep up. You're always in a passive 
-position. You never lead; you always follow. You give birth to something that's already 
-behind the times--just a knockoff, an inferior version of the original. That's no way to 
-live. 
- How do you know if you're copying someone? If someone else is doing the bulk 
-of the work, you're copying. Be influenced, but don't steal.
+Plus, if you're a copycat, you can never keep up. You're always in a passive position. You never lead; you always follow. You give birth to something that's already behind the times--just a knockoff, an inferior version of the original. That's no way to live. 
+
+How do you know if you're copying someone? If someone else is doing the bulk of the work, you're copying. Be influenced, but don't steal.
 
 ####  Decommoditize your product 
 
-But 
-there's a great way to protect yourself from copycats: Make you part of your product or 
-service. Inject what's unique about the way you think into what you sell. Decommoditize your product. Make it something no one else can offer.
+But there's a great way to protect yourself from copycats: Make you part of your product or service. Inject what's unique about the way you think into what you sell. Decommoditize your product. Make it something no one else can offer.
 
-Look at Zappos.com, a billion-dollar online shoe retailer. A pair of sneakers from 
-Zappos is the same as a pair from Foot Locker or any other retailer. But Zappos sets itself 
-apart by injecting CEO Tony Hsieh's obsession with customer service into everything it 
-does.
+Look at Zappos.com, a billion-dollar online shoe retailer. A pair of sneakers from Zappos is the same as a pair from Foot Locker or any other retailer. But Zappos sets itself apart by injecting CEO Tony Hsieh's obsession with customer service into everything it does.
 
-Pour yourself into your product and everything around your product too: how you 
-sell it, how you support it, how you explain it, and how you deliver it. Competitors can 
-never copy the you in your product. 
+Pour yourself into your product and everything around your product too: how you sell it, how you support it, how you explain it, and how you deliver it. Competitors can never copy the you in your product. 
 
 ####  Pick a fight 
 
-If you think a competitor sucks, say so. When you do that, you'll find that others 
-who agree with you will rally to your side. Being the anti-______ is a great way to 
-differentiate yourself and attract followers.
+If you think a competitor sucks, say so. When you do that, you'll find that others who agree with you will rally to your side. Being the anti-______ is a great way to differentiate yourself and attract followers.
 
-For example, Dunkin' Donuts likes to position itself as the anti-Starbucks. Its ads 
-mock Starbucks for using "Fritalian" terms instead of small, medium, and large. Another 
-Dunkin' campaign is centered on a taste test in which it beat Starbucks. There's even a 
-site called DunkinBeatStarbucks.com where visitors can send e-cards with statements 
-like "Friends don't let friends drink Starbucks."
+For example, Dunkin' Donuts likes to position itself as the anti-Starbucks. Its ads mock Starbucks for using "Fritalian" terms instead of small, medium, and large. Another Dunkin' campaign is centered on a taste test in which it beat Starbucks. There's even a site called DunkinBeatStarbucks.com where visitors can send e-cards with statements like "Friends don't let friends drink Starbucks."
 
-Having an enemy gives you a great story to tell customers, too. Taking a stand 
-always stands out. People get stoked by conflict. They take sides. Passions are ignited. 
-And that's a good way to get people to take notice. 
+Having an enemy gives you a great story to tell customers, too. Taking a stand always stands out. People get stoked by conflict. They take sides. Passions are ignited. And that's a good way to get people to take notice. 
 
 #### Underdo your competition. 
 
-Conventional wisdom says that to beat your competitors, you need to one-up 
-them. If they have four features, you need five (or fifteen, or twenty-five). If they're 
-spending $20,000, you need to spend $30,000. If they have fifty employees, you need a 
-hundred.
+Conventional wisdom says that to beat your competitors, you need to one-up them. If they have four features, you need five (or fifteen, or twenty-five). If they're spending $20,000, you need to spend $30,000. If they have fifty employees, you need a hundred.
 
-When you get 
-suckered into an arms race, you wind up in a never-ending battle that costs you massive 
-amounts of money, time, and drive. And it forces you to constantly be on the defensive, 
-too. Defensive companies can't think ahead; they can only think behind. They don't lead; 
-they follow.
+When you get suckered into an arms race, you wind up in a never-ending battle that costs you massive amounts of money, time, and drive. And it forces you to constantly be on the defensive, too. Defensive companies can't think ahead; they can only think behind. They don't lead; they follow.
 
-So what do you do instead? Do less than your competitors to beat them. Solve the 
-simple problems and leave the hairy, difficult, nasty problems to the competition. Instead 
-of one-upping, try one-downing. Instead of outdoing, try underdoing.
+So what do you do instead? Do less than your competitors to beat them. Solve the simple problems and leave the hairy, difficult, nasty problems to the competition. Instead of one-upping, try one-downing. Instead of outdoing, try underdoing.
 
-Don't shy away from the fact that your product or service does less. Highlight it. 
-Be proud of it. Sell it as aggressively as competitors sell their extensive feature lists. 
+Don't shy away from the fact that your product or service does less. Highlight it. Be proud of it. Sell it as aggressively as competitors sell their extensive feature lists. 
 
 ####  Who cares what they're doing? 
 
-In the end, it's not worth paying much attention to the competition anyway. Why 
-not? Because worrying about the competition quickly turns into an obsession. 
+In the end, it's not worth paying much attention to the competition anyway. Why not? Because worrying about the competition quickly turns into an obsession. 
 
 It's a terrible mindset that leads to stress and anxiety. That state of mind is bad soil for growing anything.
 
-It's a pointless exercise anyway. The competitive landscape changes all the time. 
-Your competitor tomorrow may be completely different from your competitor today. It's 
-out of your control. What's the point of worrying about things you can't control? 
+It's a pointless exercise anyway. The competitive landscape changes all the time. Your competitor tomorrow may be completely different from your competitor today. It's out of your control. What's the point of worrying about things you can't control? 
 
-Focus on yourself instead. What's going on in here is way more important than 
-what's going on out there. When you spend time worrying about someone else, you can't 
-spend that time improving yourself.
+Focus on yourself instead. What's going on in here is way more important than what's going on out there. When you spend time worrying about someone else, you can't spend that time improving yourself.
 
-Don't ask yourself whether you're "beating" Apple (or whoever the big boy is in 
-your industry). That's the wrong question to ask. It's not a win-or-lose battle. Their profits 
-and costs are theirs. Yours are yours.
+Don't ask yourself whether you're "beating" Apple (or whoever the big boy is in your industry). That's the wrong question to ask. It's not a win-or-lose battle. Their profits and costs are theirs. Yours are yours.
 
 ## EVOLUTION
 
-#### Say no by defaultI 
+#### Say no by default
 
-Start getting into the habit of saying no--even to many of your best ideas. Use the 
-power of no to get your priorities straight. You rarely regret saying no. But you often 
-wind up regretting saying yes. 
+Start getting into the habit of saying no--even to many of your best ideas. Use the power of no to get your priorities straight. You rarely regret saying no. But you often wind up regretting saying yes. 
 
-People avoid saying no because confrontation makes them uncomfortable. But the 
-alternative is even worse. You drag things out, make things complicated, and work on 
-ideas you don't believe in.
+People avoid saying no because confrontation makes them uncomfortable. But the alternative is even worse. You drag things out, make things complicated, and work on ideas you don't believe in.
 
-It's like a relationship: Breaking one up is hard to do, but staying in it just because 
-you're too chicken to drop the ax is even worse. Deal with the brief discomfort of 
+It's like a relationship: Breaking one up is hard to do, but staying in it just because you're too chicken to drop the ax is even worse. Deal with the brief discomfort of 
 confrontation up front and avoid the long-term regret
 
 Don't believe that "customer is always right" stuff, either. Let's say you're a chef. 

@@ -461,6 +461,66 @@ Master programmers think of systems as stories to be told rather than programs t
 
 This chapter has been about the mechanics of writing functions well. If you follow the rules herein, your functions will be short, well named, and nicely organized. But never forget that your real goal is to tell the story of the system, and that the functions you write need to fit cleanly together into a clear and precise language to help you with that telling.
 
+## Comments
+
+Comments are not like Schindler’s List. They are not “pure good.” Indeed, comments are, at best, a necessary evil. If our programming languages were expressive enough, or if we had the talent to subtly wield those languages to express our intent, we would not need
+comments very much—perhaps not at all.
+
+he proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures. We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration.
+
+So when you find yourself in a position where you need to write a comment, think it through and see whether there isn’t some way to turn the tables and express yourself in code. Every time you express yourself in code, you should pat yourself on the back. Every time you write a comment, you should grimace and feel the failure of your ability of expression.
+
+Inaccurate comments are far worse than no comments at all. They delude and mislead. They set expectations that will never be fulfilled. They lay down old rules that need not, or should not, be followed any longer.
+
+Truth can only be found in one place: the code. Only the code can truly tell you what it does. It is the only source of truly accurate information. Therefore, though comments are sometimes necessary, we will expend significant energy to minimize them.
+
+Clear and expressive code with few comments is far superior to cluttered and complex code with lots of comments. Rather than spend your time writing the comments that explain the mess you’ve made, spend it cleaning that mess.
+
+	// Check to see if the employee is eligible for full benefits
+	if ((employee.flags & HOURLY_FLAG) && (employee.age > 65))
+
+or
+
+	if (employee.isEligibleForFullBenefits())
+
+It takes only a few seconds of thought to explain most of your intent in code. In many cases it’s simply a matter of creating a function that says the same thing as the comment you want to write.
+
+#### Good Comments
+
+- Legal Comments (Copyright)
+- Informative Comments 
+
+		// Returns an instance of the Responder being tested.
+		protected abstract Responder responderInstance();
+
+	Better to just use a good function name here.
+
+		// format matched kk:mm:ss EEE, MMM dd, yyyy 
+		Pattern timeMatcher = Pattern.compile(
+		"\\d*:\\d*:\\d* \\w*, \\w* \\d*, \\d*");
+
+	In this case the comment lets us know that the regular expression is intended to match a time and date that were formatted with the SimpleDateFormat.format function using the specified format string. Still, it might have been better, and clearer, if this code had been moved to a special class that converted the formats of dates and times. Then the comment would likely have been superfluous.
+
+- Explanation of Intent
+- Warning of Consequences: `# bla bla is not thread safe...`
+- TODO Comments
+
+#### Bad Comments
+
+- Mumbling: If you decide to write a comment, then spend the time necessary to make sure it is the best comment you can write. 
+- Redundant Comments
+- Mandated Comments: It is just plain silly to have a rule that says that every function must have a javadoc, or every variable must have a comment. Comments like this just clutter up the code, propa- gate lies, and lend to general confusion and disorganization.
+- Journal Comments
+- Noise Comments: `Default constructor`, `The day of the month`, 
+
+Don’t Use a Comment When You Can Use a Function or a Variable.
+
+Closing Brace Comments: Sometimes programmers will put special comments on closing braces. Although this might make sense for long functions with deeply nested structures, it serves only to clutter the kind of small and encapsulated functions that we prefer. So if you find yourself wanting to mark your closing braces, try to shorten your functions instead.
+
+#### Commented-Out Code
+
+Few practices are as odious as commenting-out code. Don’t do this! There was a time, back in the sixties, when commenting-out code might have been useful. But we’ve had good source code control systems for a very long time now. Those systems will remember the code for us. We don’t have to comment it out any more. Just delete the code. We won’t lose it. Promise.
+
 
 
 
