@@ -388,13 +388,87 @@ The unvarnished truth is that almost all the people you meet feel themselves sup
 
 Principle 6 - Make the other person feel important-and do it sincerely.
 
+# Part Three - How To Win People To Your Way Of Thinking
 
+## 1 You Can't Win An Argument
 
+"Yes, of course," he replied, "Hamlet, Act Five, Scene Two. But we were guests at a festive occasion, my dear Dale. Why prove to a man he is wrong? Is that going to make him like you? Why not let him save his face? He didn't ask for your opinion. He didn't want it. Why argue with him? Always avoid the acute angle." The man who said that taught me a lesson I'll never forget. I not only had made the storyteller uncomfortable, but had put my friend in an embarrassing situation. How much better it would have been had I not become argumentative.
 
+It was a sorely needed lesson because I had been an inveterate arguer. During my youth, I had argued with my brother about everything under the Milky Way. When I went to college, I studied logic and argumentation and went in for debating contests. Talk about being from Missouri, I was born there. I had to be shown. Later, I taught debating and argumentation in New York; and once, I am ashamed to admit, I planned to write a book on the subject. Since then, I have listened to, engaged in, and watched the effect of thousands of arguments. As a result of all this, I have come to the conclusion that there is only one way under high heaven to get the best of an argument - and that is to avoid it .
 
+Nine times out of ten, an argument ends with each of the contestants more firmly convinced than ever that he is absolutely right. 
 
+You can't win an argument. You can't because if you lose it, you lose it; and if you win it, you lose it. Why? Well, suppose you triumph over the other man and shoot his argument full of holes and prove that he is non compos mentis. Then what? You will feel fine. But what about him? You have made him feel inferior. You have hurt his pride. He will resent your triumph. And -
 
+If you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an empty victory because you will never get your opponent's good will.
 
+You may be right, dead right, as you speed along in your argument; but as far as changing another's mind is concerned, you will probably be just as futile as if you were wrong.
+
+This tax inspector was demonstrating one of the most common of human frailties. He wanted a feeling of importance; and as long as Mr. Parsons argued with him, he got his feeling of importance by loudly asserting his authority. But as soon as his importance was admitted and the argument stopped and he was permitted to expand his ego, he became a sympathetic and kindly human being.
+
+Buddha said: "Hatred is never ended by hatred but by love," and a misunderstanding is never ended by an argument but by tact, diplomacy, conciliation and a sympathetic desire to see the other person's viewpoint.
+
+> Lincoln once reprimanded a young army officer for indulging in a violent controversy with an associate. "No man who is resolved to make the most of himself," said Lincoln, "can spare time for personal contention. Still less can he afford to take the consequences, including the vitiation of his temper and the loss of self-control. Yield larger things to which you show no more than equal rights; and yield lesser ones though clearly your own. Better give your path to a dog than be bitten by him in contesting for the right. Even killing the dog would not cure the bite."
+
+#### How to keep a disagreement from becoming an argument:
+
+Welcome the disagreement. Remember the slogan, "When two partners always agree, one of them is not necessary." If there is some point you haven't thought about, be thankful if it is brought to your attention. Perhaps this disagreement is your opportunity to be corrected before you make a serious mistake.
+
+Distrust your first instinctive impression. Our first natural reaction in a disagreeable situation is to be defensive. Be careful. Keep calm and watch out for your first reaction. It may be you at your worst, not your best.
+
+Control your temper. Remember, you can measure the size of a person by what makes him or her angry.
+
+Listen first. Give your opponents a chance to talk. Let them finish. Do not resist, defend or debate. This only raises barriers. Try to build bridges of understanding. Don't build higher barriers of misunderstanding.
+
+Look for areas of agreement. When you have heard your opponents out, dwell first on the points and areas on which you agree.
+
+Be honest, Look for areas where you can admit error and say so. Apologize for your mistakes. It will help disarm your opponents and reduce defensiveness.
+
+Promise to think over your opponents' ideas and study them carefully. And mean it. Your opponents may be right. It is a lot easier at this stage to agree to think about their points than to move rapidly ahead and find yourself in a position where your opponents can say: "We tried to tell you, but you wouldn't listen."
+
+Thank your opponents sincerely for their interest. Anyone who takes the time to disagree with you is interested in the same things you are. Think of them as people who really want to help you, and you may turn your opponents into friends.
+
+Postpone action to give both sides time to think through the problem. Suggest that a new meeting be held later that day or the next day, when all the facts may be brought to bear. In preparation for this meeting, ask yourself some hard questions:
+
+Could my opponents be right? Partly right? Is there truth or merit in their position or argument? Is my reaction one that will relieve the problem, or will it just relieve any frustration? Will my reaction drive my opponents further away or draw them closer to me? Will my reaction elevate the estimation good people have of me? Will I win or lose? What price will I have to pay if I win? If I am quiet about it, will the disagreement blow over? Is this difficult situation an opportunity for me?
+
+## 2 - A Sure Way Of Making Enemies -And How To Avoid It
+
+If you can be sure of being right only 55 percent of the time, you can go down to Wall Street and make a million dollars a day. If you can't be sure of being right even 55 percent of the time, why should you tell other people they are wrong?
+
+You can tell people they are wrong by a look or an intonation or a gesture just as eloquently as you can in words - and if you tell them they are wrong, do you make them want to agree with you? Never! For you have struck a direct blow at their intelligence, judgment, pride and self-respect. That will make them want to strike back. But it will never make them want to change their minds. You may then hurl at them all the logic of a Plato or an Immanuel Kant, but you will not alter their opinions, for you have hurt their feelings.
+
+Never begin by announcing "I am going to prove so-and-so to you." That's bad. That's tantamount to saying: "I'm smarter than you are, I'm going to tell you a thing or two and make you change your mind."
+
+That is a challenge. It arouses opposition and makes the listener want to battle with you before you even start.
+
+It is difficult, under even the most benign conditions, to change people's minds. So why make it harder? Why handicap yourself?
+
+> Men must be taught as if you taught them not And things unknown proposed as things forgot. - Alexander Pope
+
+> You cannot teach a man anything; you can only help him to find it within himself. - Galileo
+
+> Be wiser than other people if you can; but do not tell them so. - Lord Chesterfield
+
+> One thing only I know, and that is that I know nothing. - Socrates
+
+If a person makes a statement that you think is wrong - yes, even that you know is wrong - isn't it better to begin by saying: "Well, now, look, I thought otherwise, but I may be wrong. I frequently am. And if I am wrong, I want to be put right. Let's examine the facts."
+
+__"Let's examine the facts."__
+
+Nobody in the heavens above or on earth beneath or in the waters under the earth will ever object to your saying: "I may be wrong. Let's examine the facts."
+
+You will never get into trouble by admitting that you may be wrong. That will stop all argument and inspire your opponent to be just as fair and open and broad-minded as you are. It will make him want to admit that he, too, may be wrong.
+
+Few people are logical. Most of us are prejudiced and biased. Most of us are blighted with preconceived notions, with jealousy, suspicion, fear, envy and pride. And most citizens don't want to change their minds about their religion or their haircut or communism or their favorite movie star.
+
+>We sometimes find ourselves changing our minds without any resistance or heavy emotion, but if we are told we are wrong, we resent the imputation and harden our hearts. We are incredibly heedless in the formation of our beliefs, but find ourselves filled with an illicit passion for them when anyone proposes to rob us of their companionship. It is obviously not the ideas themselves that are dear to us, but our self-esteem which is threatened. ... The little word "my" is the most important one in human affairs, and properly to reckon with it is the beginning of wisdom. It has the same force whether it is "my" dinner, "my" dog, and "my" house, or "my" father, "my" country, and "my" God. We not only resent the imputation that our watch is wrong, or our car shabby, but that our conception of the canals of Mars, of the pronunciation of "Epictetus," of the medicinal value of salicin, or of the date of Sargon I is subject to revision. We like to continue to believe what we have been accustomed to accept as true, and the resentment aroused when doubt is cast upon any of our assumptions leads us to seek every manner of excuse for clinging to it. The result is that most of our so- called reasoning consists in finding arguments for going on believing as we already do.
+
+When we are wrong, we may admit it to ourselves. And if we are handled gently and tactfully, we may admit it to others and even take pride in our frankness and broad-mindedness. But not if someone else is trying to ram the unpalatable fact down our esophagus.
+
+But did all this bitterness make Lincoln agree with Greeley? Not at all. Ridicule and abuse never do. 
+
+> "I am convinced now that nothing good is accomplished and a lot of damage can be done if you tell a person straight out that he or she is wrong. You only succeed in stripping that person of self-dignity and making yourself an unwelcome part of any discussion."
 
 
 
