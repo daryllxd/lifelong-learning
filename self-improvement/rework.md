@@ -1,70 +1,36 @@
 ## REWORK  
 
-We started out in 1999 as a three-person Web-design consulting firm. In 2004, we 
-weren't happy with the project-management software used by the rest of the industry, so 
-we created our own: Basecamp. When we showed the online tool to clients and 
-colleagues, they all said the same thing: "We need this for our business too." Five years 
-later, Basecamp generates millions of dollars a year in profits.
+We started out in 1999 as a three-person Web-design consulting firm. In 2004, we weren't happy with the project-management software used by the rest of the industry, so we created our own: Basecamp. When we showed the online tool to clients and colleagues, they all said the same thing: "We need this for our business too." Five years later, Basecamp generates millions of dollars a year in profits.
 
-Some people consider us an Internet company, but that makes us cringe. Internet 
-companies are known for hiring compulsively, spending wildly, and failing spectacularly. 
-That's not us. We're small (sixteen people as this book goes to press), frugal, and 
-profitable.
+Some people consider us an Internet company, but that makes us cringe. Internet companies are known for hiring compulsively, spending wildly, and failing spectacularly. That's not us. We're small (sixteen people as this book goes to press), frugal, and profitable.
 
 ####  Ignore the real world 
 
-This real world sounds like an awfully depressing place to live. It's a place where 
-new ideas, unfamiliar approaches, and foreign concepts always lose. The only things that 
-win are what people already know and do, even if those things are flawed and inefficient.
+This real world sounds like an awfully depressing place to live. It's a place where new ideas, unfamiliar approaches, and foreign concepts always lose. The only things that win are what people already know and do, even if those things are flawed and inefficient.
 
-The real world isn't a place, it's an excuse. It's a justification for not trying. It has 
-nothing to do with you.
+The real world isn't a place, it's an excuse. It's a justification for not trying. It has nothing to do with you.
 
 ####  Learning from mistakes is overrated 
 
-Don't inhale. Don't 
-get fooled by the stats. Other people's failures are just that: other people's failures. If other people can't market their product, it has nothing to do with you. If other 
-people can't build a team, it has nothing to do with you. If other people can't price their 
-services properly, it has nothing to do with you. If other people can't earn more than they 
-spend ... well, you get it
+Don't inhale. Don't get fooled by the stats. Other people's failures are just that: other people's failures. If other people can't market their product, it has nothing to do with you. If other people can't build a team, it has nothing to do with you. If other people can't price their services properly, it has nothing to do with you. If other people can't earn more than they spend ... well, you get it.
 
-You need to learn from your mistakes. What do 
-you really learn from mistakes? You might learn what not to do again, but how valuable 
-is that? You still don't know what you should do next.
+You need to learn from your mistakes. What do you really learn from mistakes? You might learn what not to do again, but how valuable is that? You still don't know what you should do next.
 
-. Success gives you real 
-ammunition. When something succeeds, you know what worked--and you can do it 
-again. And the next time, you'll probably do it even better
+Success gives you real ammunition. When something succeeds, you know what worked--and you can do it again. And the next time, you'll probably do it even better.
 
-Failure is not a prerequisite for success. A Harvard Business School study found 
-already-successful entrepreneurs are far more likely to succeed again (the success rate for 
-their future companies is 34 percent). But entrepreneurs whose companies failed the first 
-time had almost the same follow-on success rate as people starting a company for the first 
-time: just 23 percent. People who failed before have the same amount of success as 
-people who have never tried at all.* Success is the experience that actually counts. 
- That shouldn't be a surprise: It's exactly how nature works. Evolution doesn't 
-linger on past failures, it's always building upon what worked. So should you.
+Failure is not a prerequisite for success. A Harvard Business School study found already-successful entrepreneurs are far more likely to succeed again (the success rate for their future companies is 34 percent). But entrepreneurs whose companies failed the first time had almost the same follow-on success rate as people starting a company for the first time: just 23 percent. People who failed before have the same amount of success as people who have never tried at all.
+
+Success is the experience that actually counts. That shouldn't be a surprise: It's exactly how nature works. Evolution doesn't linger on past failures, it's always building upon what worked. So should you.
 
 ####  Planning is guessing 
 
-Why don't we just call plans what they really are: guesses. Start referring to your 
-business plans as business guesses, your financial plans as financial guesses, and your 
-strategic plans as strategic guesses. Now you can stop worrying about them as much. 
-They just aren't worth the stress
+Why don't we just call plans what they really are: guesses. Start referring to your business plans as business guesses, your financial plans as financial guesses, and your strategic plans as strategic guesses. Now you can stop worrying about them as much. They just aren't worth the stress.
 
-When you turn guesses into plans, you enter a danger zone. Plans let the past 
-drive the future. They put blinders on you. "This is where we're going because, well, 
-that's where we said we were going." And that's the problem: Plans are inconsistent with 
-improvisation.
+When you turn guesses into plans, you enter a danger zone. Plans let the past drive the future. They put blinders on you. "This is where we're going because, well, that's where we said we were going." And that's the problem: Plans are inconsistent with improvisation.
 
-The timing of long-range plans is screwed up too. You have the most information 
-when you're doing something, not before you've done it. Yet when do you write a plan? 
-Usually it's before you've even begun. That's the worst time to make a big decision.
+The timing of long-range plans is screwed up too. You have the most information when you're doing something, not before you've done it. Yet when do you write a plan? Usually it's before you've even begun. That's the worst time to make a big decision.
 
-It's OK to wing it. Just get on the plane and go. You can pick up a nicer shirt, 
-shaving cream, and a toothbrush once you get there. 
- Working without a plan may seem scary. But blindly following a plan that has no 
-relationship with reality is even scarier.
+It's OK to wing it. Just get on the plane and go. You can pick up a nicer shirt, shaving cream, and a toothbrush once you get there. Working without a plan may seem scary. But blindly following a plan that has no relationship with reality is even scarier.
 
 ####  Why grow? 
 
