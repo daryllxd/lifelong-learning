@@ -399,12 +399,35 @@ What percentage of your new users are sticking around?
 
 Two factors for flossing: The ones who did it more often, and the people who changed your product. Also, figure out if your product needs to be habit-forming. If your product requires habits, then it would behoove you to understand the pattern that has appeared time and time again, which is to create user habits.
 
+## Ankur Nagpal, Largest Individual Developer in the History of the Facebook Platform
 
+When you think about growth, Facebook was a strong era for viral shit, one of the first apps I made was a gifting app, not that good, but we were using hte default Facebook inviter which is a rookie mistake. Inviting people was via alphabetical. You have to choose friends, and we made this algorithm.
 
+When they recognized the people who they invited, the sent invites were sent less but there was a higher acceptance rate (200-400%). "Your Real Friends" were based on photo tags + him posting on the wall.
 
+We want to imitate the GHs, but you just want to make sure that your invites are high quality. See what you can do on the receive side. Optimize acceptance rates.
 
+Artificial scarcity: Economics: Buy stuff to make something scarce. We believe anything that is scarce even if it is not authentic. When I put a hard cap on the invite sending amount, they actually send better. To give visual credit, we have to give them visual feedback. People tend to believe a visual indicator. If you have a time limit or invite limit of something, everyone wants it.
 
+Multiple points of entry: Try to break down your product into two small products. Sometimes specific applications are more appealing ("give xmas tree" vs "give a gift" on xmas time). We can also personalize the landing pages, create a landing page for their friends image and conversion will go up.
 
+Leveraging user-generated content: Meetup, Kickstarter, it would be in the best interest of people to promote your product. If they can make money off of it, even better.
+
+Pacman: We wanted to give out a Pacman machine, a ton of increase! People really referred to the app. The stuff that you get the biggest wins cannot be optimized. Macro-optimize first before micro-optimize.
+
+Our bread and butter was friend quizzes, to get answers you pay or take more quizzes. We had a teenager market, and we created this app wherein people rated "who has the best profile picture" and it blew up, we actually needed to slow things down. We added ads so we made money both.
+
+Start thinking about how anything could be a viral channel. Think of the products existing in the vertical and leverage the audience there. Ex: Coursera has 4M users, if I'm an educ company, how can I get some of these users. Ex: In StudyRoom, they encourage people in Coursera to build around a community in their Coursera classes. Ex: When building GH, Bronson went to the meetup.com, they went accounts and promo codes which they can send to their groups."Who has a service with our audience that already exists? How can we leverage it?"
+
+For mobile, most growth still happens in the real world, not specific viral channels. When you're on your computer, you're not really in a social setting, while a phone is with you 24 hours a day, you can show people stuff. Next, there is no killer communication channel for apps, just the App Store. You have to milk it FWIW.
+
+If the app store is important, what do we do? Apple is just unsophisticated because the biggest indicator of rankings of success is the download velocity (not total downloads). In Google, they have velocity, but have some optimizations (older sites are better, reviews matter). Google tries to put a quality score on.
+
+In Android, just make sure people don't uninstall it. In the iOS App store you can buy traffic, but in Google it's bad. In my data, iOS reviews don't matter that much, but in Google it matters. When wanting to get a review, ask the user to rank the app, when they like the app, ask them to review the app, but when they hate it, tell them sorry.
+
+Horizontal distribution: Separating your applications. From a search perspective "are the keywords in your title". For Udemy, they became competitive on multiple points of entry because each course has their own keyword. Take advantage on how search is so powerful but we built an algorithmic way of scraping apps, random
+
+So many companies die because of a lot of growth, and so many people are so hesitant of being aggressive. It's always easier to ask for forgiveness rather than for permission. You are in a very low probability area anyway. Take risks and push boundaries. There are ethical lines you can't cross, legal lines you can't cross, but if you'll be doing something that you can tell your parents about, then do it!
 
 
 
