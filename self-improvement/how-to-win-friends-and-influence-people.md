@@ -470,6 +470,92 @@ But did all this bitterness make Lincoln agree with Greeley? Not at all. Ridicul
 
 > "I am convinced now that nothing good is accomplished and a lot of damage can be done if you tell a person straight out that he or she is wrong. You only succeed in stripping that person of self-dignity and making yourself an unwelcome part of any discussion."
 
+"When I arrived at the plant, I found the purchasing agent and the lumber inspector in a wicked humor, both set for an argument and a fight. We walked out to the car that was being unloaded, and I requested that they continue to unload so that I could see how things were going. I asked the inspector to go right ahead and lay out the rejects, as he had been doing, and to put the good pieces in another pile.
+
+Martin Luther King was asked how, as a pacifist, he could be an admirer of Air Force General Daniel "Chappie" James, then the nation's highest-ranking black officer. Dr. King replied, "I judge people by their own principles - not by my own."
+
+By the way, I am not revealing anything new in this chapter. Two thousand years ago, Jesus said: "Agree with thine adversary quickly."
+
+In other words, don't argue with your customer or your spouse or your adversary. Don't tell them they are wrong, don't get them stirred up. Use a little diplomacy.
+
+## 3 - If You're Wrong, Admit It
+
+That policeman, being human, wanted a feeling of importance; so when I began to condemn myself, the only way he could nourish his self-esteem was to take the magnanimous attitude of showing mercy.
+
+But instead of breaking lances with him, I admitted that he was absolutely right and I was absolutely wrong; I admitted it quickly, openly, and with enthusiasm. The affair terminated graciously in my taking his side and his taking my side. 
+
+If we know we are going to be rebuked anyhow, isn't it far better to beat the other person to it and do it ourselves? Isn't it much easier to listen to self-criticism than to bear condemnation from alien lips?
+
+Say about yourself all the derogatory things you know the other person is thinking or wants to say or intends to say - and say them before that person has a chance to say them. The chances are a hundred to one that a generous, forgiving attitude will be taken and your mistakes will be minimized just as the mounted policeman did with me and Rex.
+
+There is a certain degree of satisfaction in having the courage to admit one's errors. It not only clears the air of guilt and defensiveness, but often helps solve the problem created by the error .
+
+Any fool can try to defend his or her mistakes - and most fools do - but it raises one above the herd and gives one a feeling of nobility and exultation to admit one's mistakes.
+
+Michael Cheung, who teaches our course in Hong Kong, told of how the Chinese culture presents some special problems and how sometimes it is necessary to recognize that the benefit of applying a principle may be more advantageous than maintaining an old tradition. He had one middle-aged class member who had been estranged from his son for many years. The father had been an opium addict, but was now cured.
+
+When we are right, let's try to win people gently and tactfully to our way of thinking, and when we are wrong - and that will be surprisingly often, if we are honest with ourselves - let's admit our mistakes quickly and with enthusiasm. Not only will that technique produce astonishing results; but, believe it or not, it is a lot more fun, under the circumstances, than trying to defend oneself.
+
+Remember the old proverb: "By fighting you never get enough, but by yielding you get more than you expected."
+
+## 4 - A Drop Of Honey
+
+If your temper is aroused and you tell 'em a thing or two, you will have a fine time unloading your feelings. But what about the other person? Will he share your pleasure? Will your belligerent tones, your hostile attitude, make it easy for him to agree with you?
+
+If a man's heart is rankling with discord and ill feeling toward you, you can't win him to your way of thinking with all the logic in Christendom. Scolding parents and domineering bosses and husbands and nagging wives ought to realize that people don't want to change their minds. They can't he forced or driven to agree with you or me. But they may possibly be led to, if we are gentle and friendly, ever so gentle and ever so friendly.
+
+It is an old and true maxim that "a drop of honey catches more flies than a gallon of gall." So with men, if you would win a man to you cause, first convince him that you are his sincere friend. Therein is a drop of honey that catches his heart; which, say what you will, is the great high road to his reason.
+
+Business executives have learned that it pays to be friendly to strikers. For example, when 2,500 employees in the White Motor Company's plant struck for higher wages and a union shop, Robert F. Black, then president of the company, didn't lose his temper and condemn and threaten and talk of tryanny and Communists. He actually praised the strikers. He published an advertisement in the Cleveland papers, complimenting them on "the peaceful way in which they laid down their tools." Finding the strike pickets idle, he bought them a couple of dozen baseball bats and gloves and invited them to play ball on vacant lots. For those who preferred bowling, he rented a bowling alley.
+
+This friendliness on Mr. Black's part did what friendliness always does: it begot friendliness. So the strikers borrowed brooms, shovels, and rubbish carts, and began picking up matches, papers, cigarette stubs, and cigar butts around the factory. Imagine it! Imagine strikers tidying up the factory grounds while battling for higher wages and recognition of the union. Such an event had never been heard of before in the long, tempestuous history of American labor wars. That strike ended with a compromise settlement within a week-ended without any ill feeling or rancor.
+
+Aesop was a Greek slave who lived at the court of Croesus and spun immortal fables six hundred years before Christ. Yet the truths he taught about human nature are just as true in Boston and Birmingham now as they were twenty-six centuries ago in Athens. The sun can make you take off your coat more quickly than the wind; and kindliness, the friendly approach and appreciation can make people change their minds more readily than all the bluster and storming in the world.
+
+Remember what Lincoln said: "A drop of honey catches more flies than a gallon of gall."
+
+## 5 - The Secret Of Socrates
+
+In talking with people, don't begin by discussing the things on which you differ. Begin by emphasizing - and keep on emphasizing - the things on which you agree. Keep emphasizing, if possible, that you are both striving for the same end and that your only difference is one of method and not of purpose.
+
+> Get the other person saying "Yes, yes" at the outset. Keep your opponent, if possible, from saying "No." A "No" response, according to Professor Overstreet, (*) is a most difficult handicap to overcome. When you have said "No," all your pride of personality demands that you remain consistent with yourself. You may later feel that the "No" was ill-advised; nevertheless, there is your precious pride to consider! Once having said a thing, you feel you must stick to it. Hence it is of the very greatest importance that a person be started in the affirmative direction.
+
+The skillful speaker gets, at the outset, a number of "Yes" responses. This sets the psychological process of the listeners moving in the affirmative direction. It is like the movement of a billiard ball. Propel in one direction, and it takes some force to deflect it; far more force to send it back in the opposite direction.
+
+The psychological patterns here are quite clear. When a person says "No" and really means it, he or she is doing far more than saying a word of two letters. The entire organism - glandular, nervous, muscular -gathers itself together into a condition of rejection. There is, usually in minute but sometimes in observable degree, a physical withdrawal or readiness for withdrawal. The whole neuromuscular system, in short, sets itself on guard against acceptance. When, to the contrary, a person says "Yes," none of the withdrawal activities takes place. The organism is in a forward - moving, accepting, openattitude. Hence the more "Yeses" we can, at the very outset, induce, the more likely we are to succeed in capturing the attention for our ultimate proposal.
+
+I resolved this morning to use a little horse sense. I resolved not to talk about what the bank wanted but about what the customer wanted. And above all else, I was determined to get him saying 'yes, yes' from the very start. So I agreed with him. I told him the information he refused to give was not absolutely necessary.
+
+The young man's attitude softened and changed when he realized that we weren't asking for this information for our sake but for his sake.
+
+"I found that by getting him to say 'yes, yes' from the outset, he forgot the issue at stake and was happy to do all the things I suggested."
+
+"It took me years and cost me countless thousands of dollars in lost business before I finally learned that it doesn't pay to argue, that it is much more profitable and much more interesting to look at things from the other person's viewpoint and try to get that person saying 'yes, yes.' "
+
+Socrates, "the gadfly of Athens," was one of the greatest philosophers the world has ever known. He did something that only a handful of men in all history have been able to do: he sharply changed the whole course of human thought; and now, twenty-four centuries after his death, he is honored as one of the wisest persuaders who ever influenced this wrangling world.
+
+His method? Did he tell people they were wrong? Oh, no, not Socrates. He was far too adroit for that. His whole technique, now called the "Socratic method," was based upon getting a "yes, yes" response. He asked questions with which his opponent would have to agree. He kept on winning one admission after another until he had an armful of yeses. He kept on asking questions until finally, almost without realizing it, his opponents found themselves embracing a conclusion they would have bitterly denied a few minutes previously.
+
+The next time we are tempted to tell someone he or she is wrong, let's remember old Socrates and ask a gentle question - a question that will get the "yes, yes" response.
+
+The Chinese have a proverb pregnant with the age-old wisdom of the Orient: "He who treads softly goes far."
+
+They have spent five thousand years studying human nature, those cultured Chinese, and they have garnered a lot of perspicacity: "He who treads softly goes far."
+
+## 6 - The Safety Valve In Handling Complaints
+
+Must people trying to win others to their way of thinking do too much talking themselves. Let the other people talk themselves out. They know more about their business and problems than you do. So ask them questions. Let them tell you a few things.
+
+If you disagree with them you may be tempted to interrupt. But don't. It is dangerous. They won't pay attention to you while they still have a lot of ideas of their own crying for expression. So listen patiently and with an open mind. Be sincere about it. Encourage them to express their ideas fully.
+
+"I know I would have lost the contract if I hadn't lost my voice, because I had the wrong idea about the whole proposition. I discovered, quite by accident, how richly it sometimes pays to let the other person do the talking.'
+
+"From that time on I let her do all the talking she wanted. She tells me what is on her mind, and our relationship has improved immeasurably. She is again a cooperative person."
+
+
+
+
+
 
 
 
