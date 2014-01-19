@@ -92,6 +92,96 @@ To begin, you must have a far deeper understanding of that audience. One that go
 
 If it's boring, or delivered at work when they only have time to read it later on on the bus, or at home, when they want to be with their kids, they won't look at it at all.
 
+## It's Not Smart if It's Not Strategic
+
+It's tempting to put your energies into turning out lots of content that matters to you. But it's not smart, and it's not strategic.
+
+Well, if people are going to pay attention to your content, you have to give up sending out too many messages, non-strategic messages.
+
+You really want people to care about all of the things you think are important, but once again. Remember the pressures on their time and the fact that just because you created content, and put it out there doesn't mean they will really engage it.
+
+Whether you like it or not, target audiences you want to reach will only give you the smallest amount of time and attention. So, if your organization's strategic goals are going to be met, your content should only be sent if it is a central part of those priorities.
+
+That's the only way to win. So what is the strategy part of content strategy?
+
+In its simplest, most straightforward form, strategy refers to the direction and the goals that people, often leaders, have, when they're thinking about where the organization should be going.
+
+Whether it's a formal plan or not, you need to find out what your organization's top goals and priorities are for the next one to three years, or if you're in a department or division, What are its top goals that can support the organizations?
+
+Top goals are priorities. Every organization has things it wants to do if it's going to make progress. Those goals are strategies, whether it calls them strategies or not.
+
+## Intro to Audience an Experiences
+
+There are two steps that will greatly strengthen the likelihood of people engaging with the messages you want them to consider.
+
+We just covered the first one, learn the strategicals of the organization and your role or department in it and focus on those goals and not a lot of other things.
+
+What does it mean that you must understand far more about your audience?
+
+__It starts with learning with what matters to them in their work and personal lives.__
+
+The first imperative is to deliver value to empower customers. Think about what they value and how they behave.
+
+How effectively can you develop content that truly meets your audiences needs and simultaneously conveys information that enhances your organizations goals?
+
+For example, did you know that the more content you give people that they want, the more time they will spend on content that matters to you? Sadly, most content creators think that the message that is important to them should be carefully considered by everyone in the organization.
+
+Well, there are two flaws in this approach. As we learned a moment ago, the content the organization wants to deliver should have value for the intended audience.
+
+And it has to be told in an engaging way, where, when, and how the audience wants it. If this doesn't happen, the audience won't pay attention.
+
+Further, for all but the most extraordinary events, only a fairly narrow set of people are likely to have interest and take time with the content you present.
+
+So the more specifically you can describe and understand that narrow set of people, the better you'll be able to provide content that's meaningful to them.
+
+So in summary, then, to be successful, you must understand the audience you're trying to reach. Make what you say valuable and engaging to them. That's the secret. 
+
+And next, let me talk about a powerful way for your content to enhance engagement.
+
+Pretend for a moment that you're walking down the street and there's an old 1950s coffee or tea shop. It's noisy, plainly furnished with old chairs and tables, but it has a good cup of coffee. Now, one block further down the street, there's another coffee shop. It, too, sells good coffee, but it's got comfortable chairs clustered around tables in a way that invites conversation. Has wi-fi and connections so people can work on their computers while they sip their beverage. It gives off an inviting setup and people really do meet there to work or to talk or to see their friends.
+
+What's interesting for this discussion is why people choose the first shop instead of the second, or vice versa. If you interview a 100 people and asked why they decided to go to the old, 1950s, simple shop, they would say things like, Mm, it's convenient, it's on the way to work, it's fast. If you ask others why they chose the other shop, the one with the soft chairs and the wi-fi, they would say things like That shop wants me to come in. Or, I meet interesting people. Or, it's my office away from work.
+
+Now think back over those responses, and they're pretty literal. A couple of things stand out. The first is that none of the respondents said anything about coffee. What they did say many times with the words I, and my, and me.
+
+What this example showed us is actually a penetrating look at how every human being makes decisions about using their time for making a purchase for goods or services. 
+
+__The first thing each of us considers is ourselves and our time.__ For the coffee shop example, they talked about convenience, speed, socializing, getting work done. When we did research and engaged thousands of people with written, spoken, and video content, they responded exactly the same way. Their first consideration was them.
+
+Using sophisticated research and new methodology we determine what experiences motivated them, to be most engaged with the content they saw. When we tested our research in the Americas, Europe Asia and Africa, there were of course cultural differences. There are different ways to tell a story. Yet we suspected that how people decide to spend their time with content is not a function of culture. And that's exactly what we found. You will easily understand this when you see the list of experiences that prompted people to spend more time with content and become more engaged by it.
+
+__Some of the key examples where the content makes me smarter, gives me something talk about, looks out for my interest, has the element of surprise or humor, it inspires me.__
+
+But you always need to bear in mind the context, whose receiving the content and where are they when they want to access it? That's a package, all of those things operate together. It's important to also think about two other experiences, context and convenience.
+
+As each day passes the impact of convenience rises. The more convenience you make access to the content you want people to pay attention to, the higher the likelihood they'll give you some of that essential resource, their time.
+
+Think about your own life, and you'll understand the importance of convenience. If someone sends you something to read, but it arrives when you're driving a car, or riding a bicycle, you'll pay no attention to it.
+
+If the message you get is a video, even a terrific and interesting one, you may not open it because you were doing something which was more important to you. It's inconvenient to view it at that time. If any of these situations apply, it's as if the content you care so much about does not exist.
+
+The point is, you have to understand your audience, and once again, where, when, and how they want to take in the information you send.
+
+And then there is context. When we began in truth one, when we discussed the rising tidal wave of information, and some of the technologies that frame the context around content strategy, Here's a deeper summary of what, that context is, and what it means to every organization.
+
+First, the rise of social media, has changed how fast information flows. The communications landscape is awash with information. And then engagement, which driven by content. And it's now critical to communications really having an impact.
+
+Companies and organizations are fast becoming publishers, broadcasters, innovators, and content influencers, and so are you. And then the time is now to bring all that power of content forward.
+
+Of course the challenge, is to simultaneously, make it engaging. If content then is everything, how do you make it magnetic, attracting and lifting audiences?
+
+Content must be story driven, useful, findable, current, engaging, flexible, and sharable. And the biggest word there is story. We think in stories, we react in stories, whether it's data or any other kind of content.
+
+What's the story? And then as listed on the right, it also needs to be available in the most appropriate formats and channels, that matter most.
+
+Not to you, but to the audience. And don't overlook in all of this the use of gaming. If they are well done, games are a powerful way to tell complex stories. They're also the story form that younger people often prefer.
+
+Yes, content is king. If it is strategic and tells a story that's valued by the audience. In this course, you will learn to develop and distribute your content, and drive engagement with audiences that you want to reach. In the following weeks, we'll look at how you can not only understand that audience more deeply but how you can take whatever content you strategically select and present it in such a way that the audience gives it more time.
+
+Because it says to them, and they will say in themselves, that makes me smarter. It gives me something to talk about.
+
+
+
 
 
 
