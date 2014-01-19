@@ -552,6 +552,19 @@ If you disagree with them you may be tempted to interrupt. But don't. It is dang
 
 "From that time on I let her do all the talking she wanted. She tells me what is on her mind, and our relationship has improved immeasurably. She is again a cooperative person."
 
+Almost every successful person likes to reminisce about his early struggles. This man was no exception. He talked for a long time about how he had started with $450 in cash and an original idea. He told how he had fought against discouragement and battled against ridicule, working Sundays and holidays, twelve to sixteen hours a day; how he had finally won against all odds until now the most important executives on Wall Street were coming to him for information and guidance. He was proud of such a record. He had a right to be, and he had a splendid time telling about it. Finally, he questioned Mr. Cubellis briefly about his experience, then called in one of his vice presidents and said: "I think this is the person we are looking for."
+
+Mr. Cubellis had taken the trouble to find out about the accomplishments of his prospective employer. He showed an interest in the other person and his problems. He encouraged the other person to do most of the talking - and made a favorable impression.
+
+Even our friends would much rather talk to us about their achievements than listen to us boast about ours. La Rochefoucauld, the French philosopher, said: "If you want enemies, excel your friends; but if you want friends, let your friends excel you."
+
+Why is that true? Because when our friends excel us, they feel important; but when we excel them, they - or at least some of them - will feel inferior and envious.
+
+>"I was good at my work and proud of it," Henrietta told one of our classes. " But instead of my colleagues sharing my triumphs, they seemed to resent them. I wanted to be liked by these people. I really wanted them to be my friends. After listening to some of the suggestions made in this course, I started to talk about myself less and listen more to my associates. They also had things to boast about and were more excited about telling me about their accomplishments than about listening to my boasting. Now, when we have some time to chat, I ask them to share their joys with me, and I only mention my achievements when they ask."
+
+## 7 - How To Get Cooperation
+
+Don't you have much more faith in ideas that you discover for yourself than in ideas that are handed to you on a silver platter? If so, isn't it bad judgment to try to ram your opinions down the throats of other people? Isn't it wiser to make suggestions - and let the other person think out the conclusion?
 
 
 
