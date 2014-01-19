@@ -566,6 +566,364 @@ Why is that true? Because when our friends excel us, they feel important; but wh
 
 Don't you have much more faith in ideas that you discover for yourself than in ideas that are handed to you on a silver platter? If so, isn't it bad judgment to try to ram your opinions down the throats of other people? Isn't it wiser to make suggestions - and let the other person think out the conclusion?
 
+"The people had made a sort of moral bargain with me, " said Mr. Seltz, "and as long as I lived up to my part in it, they were determined to live up to theirs. Consulting them about their wishes and desires was just the shot in the arm they needed."
+
+No one likes to feel that he or she is being sold some-thing or told to do a thing. We much prefer to feel that we are buying of our own accord or acting on our own ideas. We like to be consulted about our wishes, our wants, our thoughts.
+
+He decided on this new approach. With half a dozen unfinished artists' sketches under his arm, he rushed over to the buyer's office. "I want you to do me a little favor, if you will," he said. "'Here are some uncompleted sketches. Won't you please tell me how we could finish them up in such a way that you could use them?"
+
+"I realized why I had failed for years to sell him," said Mr. Wesson. " I had urged him to buy what I thought he ought to have. Then I changed my approach completely. I urged him to give me his ideas. This made him feel that he was creating the designs. And he was. I didn't have to sell him. He bought."
+
+Ralph Waldo Emerson in his essay "Self-Reliance" stated: "In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."
+
+" 'After I got to know the President,' House said, 'I learned the best way to convert him to an idea was to plant it in his mind casually, but so as to interest him in it - so as to get him thinking about it on his own account. 
+
+• Principle 7 - Let the other person feel that the idea is his or hers.
+
+## 8 - A Formula That Will Work Wonders For You
+
+Remember that other people may be totally wrong. But they don't think so. Don't condemn them. Any fool can do that. Try to understand them. Only wise, tolerant, exceptional people even try to do that.
+
+There is a reason why the other man thinks and acts as he does. Ferret out that reason - and you have the key to his actions, perhaps to his personality. Try honestly to put yourself in his place.
+
+"Stop a minute," says Kenneth M. Goode in his book How to Turn People Into Gold, "stop a minute to contrast your keen interest in your own affairs with your mild concern about anything else. Realize then, that everybody else in the world feels exactly the same way! Then, along with Lincoln and Roosevelt, you will have grasped the only solid foundation for interpersonal relationships; namely, that success in dealing with people depends on a sympathetic grasp of the other persons' viewpoint."
+
+In his book Getting Through to People, Dr. Gerald S. Nirenberg commented: "Cooperativeeness in conversation is achieved when you show that you consider the other person's ideas and feelings as important as your own. Starting your conversation by giving the other person the purpose or direction of your conversation, governing what you say by what you would want to hear if you were the listener, and accepting his or her viewpoint will encourage the listener to have an open mind to your ideas." 
+
+Tomorrow, before asking anyone to put out a fire or buy your product or contribute to your favorite charity, why not pause and close your eyes and try to think the whole thing through from another person's point of view? Ask yourself: "Why should he or she want to do it?" True, this will take time, but it will avoid making enemies and will get better results - and with less friction and less shoe leather.
+
+"I would rather walk the sidewalk in front of a person's office for two hours before an interview," said Dean Donham of the Harvard business school, "than step into that office without a perfectly clear idea of what I was going to say and what that person - from my knowledge of his or her interests and motives - was likely to answer."
+
+If, as a result of reading this book, you get only one thing - an increased tendency to think always in terms of the other person's point of view, and see things from that person's angle as well as your own - if you get only that one thing from this book, it may easily prove to be one of the stepping - stones of your career.
+
+## 9 - What Everybody Wants
+
+Wouldn't you like to have a magic phrase that would stop arguments, eliminate ill feeling, create good will, and make the other person listen attentively?
+
+>Yes? All right. Here it is: "I don't blame you one iota for feeling as you do. If I were you I would undoubtedly feel just as you do."
+
+You deserve very little credit for being what you are - and remember, the people who come to you irritated, bigoted, unreasoning, deserve very little discredit for being what they are. Feel sorry for the poor devils. Pity them. Sympathize with them. Say to yourself: "There, but for the grace of God, go I."
+
+Three-fourths of the people you will ever meet are hungering and thirsting for sympathy. Give it to them, and they will love you.
+
+So, because I had apologized and sympathized with her point of view, she began apologizing and sympathizing with my point of view, I had the satisfaction of controlling my temper, the satisfaction of returning kindness for an insult.
+
+Sol Hurok was probably America's number one impresario. For almost half a century he handled artists - such world-famous artists as Chaliapin, Isadora Duncan, and Pavlova. Mr. Hurok told me that one of the first lessons he had learned in dealing with his temperamental stars was the' necessity for sympathy, sympathy and more sympathy with their idiosyncrasies.
+
+Dr. Arthur I. Gates said in his splendid book Educational Psychology: "Sympathy the human species universally craves. The child eagerly displays his injury; or even inflicts a cut or bruise in order to reap abundant sympathy. For the same purpose adults ... show their bruises, relate their accidents, illness, especially details of surgical operations. 'Self-pity' for misfortunes real or imaginary is in some measure, practically a universal practice."
+
+## 10 - An Appeal That Everybody Likes
+
+Jesse James probably regarded himself as an idealist at heart, just as Dutch Schultz, "Two Gun" Crowley, Al Capone and many other organized crime "godfathers" did generations later. The fact is that all people you meet have a high regard for themselves and like to be fine and unselfish in their own estimation.
+
+J. Pierpont Morgan observed, in one of his analytical interludes, that a person usually has two reasons for doing a thing: one that sounds good and a real one.
+
+The person himself will think of the real reason. You don't need to emphasize that. But all of us, being idealists at heart, like to think of motives that sound good. So, in order to change people, appeal to the nobler motives.
+
+When John D. Rockefeller, Jr., wished to stop newspaper photographers from snapping pictures of his children, he too appealed to the nobler motives. He didn't, say: "I don't want their pictures published." No, he appealed to the desire, deep in all of us, to refrain from harming children. He said: "You know how it is, boys. You've got children yourselves, some of you. And you know it's not good for youngsters to get too much publicity."
+
+When Cyrus H. K. Curtis, the poor boy from Maine, was starting on his meteoric career, which was destined to make him millions as owner of The Saturday Evening Post and the Ladies' Home Journal, he couldn't afford to pay his contributors the prices that other magazines paid. He couldn't afford to hire first-class authors to write for money alone. So he appealed to their nobler motives. For example, he persuaded even Louisa May Alcott, the immortal author of Little Women, to write for him when she was at the flood tide of her fame; and he did it by offering to send a check for a hundred dollars, not to her, but to her favorite charity.
+
+"Experience has taught me," says Mr. Thomas, "that when no information can be secured about the customer, the only sound basis on which to proceed is to assume that he or she is sincere, honest, truthful and willing and anxious to pay the charges, once convinced they are correct. To put it differently and perhaps mare clearly, people are honest and want to discharge their obligations. The exceptions to that rule are comparatively few, and I am convinced that the individuals who are inclined to chisel will in most cases react favorably if you make them feel that you consider them honest, upright and fair."
+
+## 11 - The Movies Do It. Tv Does It. Why Don't You Do It?
+
+This is the day of dramatization. Merely stating a truth isn't enough. The truth has to be made vivid, interesting, dramatic. You have to use showmanship. The movies do it. Television does it. And you will have to do it if you want attention.
+
+Experts in window display know the power of dramazation. For example, the manufacturers of a new rat poison gave dealers a window display that included two live rats. The week the rats were shown, sales zoomed to five times their normal rate.
+
+"I was presenting the same facts this time that I had presented previously. But this time I was using dramatization, showmanship - and what a difference it made."
+
+## 12 - When Nothing Else Works, Try This
+
+Let Charles Schwab say it in his own words: "The way to get things done," say Schwab, "is to stimulate competition. I do not mean in a sordid, money-getting way, but in the desire to excel."
+
+The desire to excel! The challenge! Throwing down the gauntlet! An infallible way of appealing to people of spirit.
+
+Without a challenge, Theodore Roosevelt would never have been President of the United States. The Rough Rider, just back from Cuba, was picked for governor of New York State. The opposition discovered he was no longer a legal resident of the state, and Roosevelt, frightened, wished to withdraw. Then Thomas Collier Platt, then U.S. Senator from New York, threw down the challenge. Turning suddenly on Theodore Roosevelt, he cried in a ringing voice: "Is the hero of San Juan Hill a coward?"
+
+"I have never found," said Harvey S. Firestone, founder of the great Firestone Tire and Rubber Company, "that pay and pay alone would either bring together or hold good people. I think it was the game itself."
+
+Frederic Herzberg, one of the great behavorial scientists, concurred. He studied in depth the work attitudes of thousands of people ranging from factory workers to senior executives. What do you think he found to be the most motivating factor - the one facet of the jobs that was most stimulating? Money? Good working conditions? Fringe benefits? No - not any of those. The one major factor that motivated people was the work itself. If the work was exciting and interesting, the worker looked forward to doing it and was motivated to do a good job.
+
+That is what every successful person loves: the game. The chance for self-expression. The chance to prove his or her worth, to excel, to win. That is what makes foot-races and hog-calling and pie-eating contests. The desire to excel. The desire for a feeling of importance.
+
+# Part Four - Be a Leader: How to Change People Without Giving Offense or Arousing Resentment
+
+## 1 - If You Must Find Fault, This Is The Way To Begin
+
+It is always easier to listen to unpleasant things after we have heard some praise of our good points.Beginning with praise is like the dentist who begins his work with Novocain. The patient still gets a drilling, but the Novocain is pain- killing. A leader will use ...
+
+## 2 - How To Criticize-And Not Be Hated For It
+
+Did Schwab point to the sign and say, "Can't you read.? Oh, no not Schwab. He walked over to the men, handed each one a cigar, and said, "I'll appreciate it, boys, if you will smoke these on the outside." They knew that he knew that they had broken a rule - and they admired him because he said nothing about it and gave them a little present and made them feel important. Couldn't keep from loving a man like that, could you?
+
+Many people begin their criticism with sincere praise followed by the word "but" and ending with a critical statement. For example, in trying to change a child's careless attitude toward studies, we might say, "We're really proud of you, Johnnie, for raising your grades this term. But if you had worked harder on your algebra, the results would have been better."
+
+In this case, Johnnie might feel encouraged until he heard the word "but." He might then question the sincerity of the original praise. To him, the praise seemed only to be a contrived lead-in to a critical inference of failure. Credibility would be strained, and we probably would not achieve our objectives of changing Johnnie's attitude toward his studies.
+
+This could be easily overcome by changing the word "but" to "and." "We're really proud of you, Johnnie, for raiseing your grades this term, and by continuing the same conscientious efforts next term, your algebra grade can be up with all the others."
+
+Calling attention to one's mistakes indirectly works wonders with sensitive people who may resent bitterly any direct criticism.
+
+"Gentlemen," he started, "you are leaders. You will be most effective when you lead by example. You must be the example for your men to follow. You know what the army regulations say about haircuts. I am going to get my hair cut today, although it is still much shorter than some of yours. You look at yourself in the mirror, and if you feel you need a haircut to be a good example, we'll arrange time for you to visit the post barbership."
+
+The result was predictable. Several of the candidates did look in the mirror and went to the barbershop that afternoon and received "regulation" haircuts. Sergeant Kaiser commented the next morning that he already could see the development of leadership qualities in some of the members of the squad.
+
+## 3 - Talk About Your Own Mistakes First
+
+One day when I started to criticize her, I said to myself: "Just a minute, Dale Carnegie; just a minute. You are twice as old as Josephine. You have had ten thousand times as much business experience. How can you possibly expect her to have your viewpoint, your judgment, your initiative - mediocre though they may be? And just a minute, Dale, what were you doing at nineteen? Remember the asinine mistakes and blunders you made? Remember the time you did this ... and that ... ?"
+
+I used to begin by saying, "You have made a mistake, Josephine, but the Lord knows, it's no worse than many I have made. You were not born with judgment. That comes only with experience, and you are better than I was at your age. I have been guilty of so many stupid, silly things myself, I have very little incliion to criticize you or anyone. But don't you think it would have been wiser if you had done so and so?"
+
+Principle 3 - Talk about your own mistakes before criticizing the other person.
+
+## 4 - No One Likes To Take Orders
+
+Owen D. Young never said, for example, "Do this or do that," or "Don't do this or don't do that." He would say, "You might consider this," or "Do you think that would work?" Frequently he would say, after he had dictated a letter, "What do you think of this?" In looking over a letter of one of his assistants, he would say, "Maybe if we were to phrase it this way it would be better." He always gave people the opportunity to do things themselves; he never told his assistants to do things; he let them do them, let them learn from their mistakes.
+
+## 5 - Let The Other Person Save Face
+
+Years ago the General Electric Company was faced with the delicate task of removing Charles Steinmetz from the head of a department. Steinmetz, a genius of the first magnitude when it came to electricity, was a failure as the head of the calculating department. Yet the company didn't dare offend the man. He was indispensable - and highly sensitive. So they gave him a new title. They made him Consulting Engineer of the General Electric Company - a new title for work he was already doing -and let someone else head up the department.
+
+"Firing employees is not much fun. Getting fired is even less fun." (I'm quoting now from a letter written me by Marshall A. Granger, a certified public accountant.) "Our business is mostly seasonal. Therefore we have to let a lot of people go after the income tax rush is over.
+
+## 6 - How To Spur People On To Success
+
+I noticed that the moment a dog showed the slightest improvement, Pete patted and praised him and gave him meat and made a great to-do about it. Why, I wonder, don't we use the same common sense when trying to change people that we use when trying to change dogs? Why don't we use meat instead of a whip? Why don't we use praise instead of condemnation? Let us praise even the slightest improvement. That inspires the other person to keep on improving.
+
+In his book I Ain't Much, Baby-But I'm All I Got, the psychologist Jess Lair comments: "Praise is like sunlight to the warm human spirit; we cannot flower and grow without it. And yet, while most of us are only too ready to apply to others the cold wind of criticism, we are somehow reluctant to give our fellow the warm sunshine of praise."
+
+Use of praise instead of criticism is the basic concept of B.F. Skinner's teachings. This great contemporary psychologist has shown by experiments with animals and with humans that when criticism is minimized and praise emphasized, the good things people do will be reinforced and the poorer things will atrophy for lack of attention.
+
+John Ringelspaugh of Rocky Mount, North Carolina, used this in dealing with his children. It seemed that, as in so many families, mother and dad's chief form of communication with the children was yelling at them. And, as in so many cases, the children became a little worse rather than better after each such session - and so did the parents. There seemed to be no end in sight for this problem.
+
+What Mr. Roper did was not just flatter the young printer and say "You're good." He specifically pointed out how his work was superior. Because he had singled out a specific accomplishment, rather than just making general flattering remarks, his praise became much more meaningful to the person to whom it was given. Everybody likes to be praised, but when praise is specific, it comes across as sincere - not something the other person may be saying just to make one feel good.
+
+__Remember, we all crave appreciation and recognition, and will do almost anything to get it. But nobody wants insincerity. Nobody wants flattery.__
+
+Let me repeat: The principles taught in this book will work only when they come from the heart. I am not advocating a bag of tricks. I am talking about a new way of life.
+
+Talk about changing people. If you and I will inspire the people with whom we come in contact to a realization of the hidden treasures they possess, we can do far more than change people. We can literally transform them.
+
+> Compared with what we ought to be, we are only half awake. We are making use of only a small part of our physical and mental resources. Stating the thing broadly, the human individual thus lives far within his limits. He possesses powers of various sorts which he habitually fails to use. - William James
+
+## 7 - Give A Dog A Good Name
+
+What do you do when a person who has been a good worker begins to turn in shoddy work? You can fire him or her, but that really doesn't solve anything. You can berate the worker, but this usually causes resentment.
+
+Bill responded that he hadn't realized he had been falling down in his duties and assured his boss that the work he was getting was not out of his range of expertise and he would try to improve in the future.
+
+"The average person," said Samuel Vauclain, then president of the Baldwin Locomotive Works, "can be led readily if you have his or her respect and if you show that you respect that person for some kind of ability."
+
+In short, if you want to improve a person in a certain spect, act as though that particular trait were already one of his or her outstanding characteristics. Shakespeare said "Assume a virtue, if you have it not." And it might be well to assume and state openly that other people have the virtue you want them to develop. Give them a fine reputation to live up to, and they will make prodigious efforts rather than see you disillusioned.
+
+Georgette Leblanc had given "Marie the Dishwasher" a reputation to live up to - and that reputation had transformed her.
+
+"Jack," he said, "since I left this morning I realized I hadn't given you the entire picture of our new line, and I would appreciate some of your time to tell you about the points I omitted. I have respected the fact that you are always willing to listen and are big enough to change your mind when the facts warrant a change."
+
+There is an old saying: "Give a dog a bad name and you may as well hang him." But give him a good name - and see what happens!
+
+When she came to Tommy, she looked him straight in the eyes and said, "Tommy, I understand you are a natural leader. I'm going to depend on you to help me make this class the best class in the fourth grade this year." She reinforced this over the first few days by complimenting Tommy on everything he did and commenting on how this showed what a good student he was. With that reputation to live up to, even a nine-year-old couldn't let her down - and he didn't.
+
+• Principle 7 - Give the other person a fine reputation to live up to.
+
+## 8 - Make The Fault Seem Easy To Correct
+
+"The next teacher may have been lying, but I liked it. She said nonchalantly that my dancing was a bit old-fashioned perhaps, but the fundamentals were all right, and she assured me I wouldn't have any trouble learning a few new steps. The first teacher had discouraged me by emphasizing my mistakes. This new teacher did the opposite. She kept praising the things I did right and minimizing my errors. 'You have a natural sense of rhythm,' she assured me. 'You really are a natural-born dancer.' Now my common sense tells me that I always have been and always will be a fourth-rate dancer; yet, deep in my heart, I still like to think that maybe she meant it. To be sure, I was paying her to say it; but why bring that up?
+
+"At any rate, I know I am a better dancer than I would have been if she hadn't told me I had a natural sense of rhythm. That encouraged me. That gave me hope. That made me want to improve."
+
+Tell your child, your spouse, or your employee that he or she is stupid or dumb at a certain thing, has no gift for it, and is doing it all wrong, and you have destroyed almost every incentive to try to improve. But use the opposite technique - be liberal with your encouragement, make the thing seem easy to do, let the other person know that you have faith in his ability to do it, that he has an undeveloped flair for it - and he will practice until the dawn comes in the window in order to excel.
+
+"That did it. Here was a kid who had flunked two grades, who had been told he was 'brain-damaged,' who had been called 'Frankenstein' by his classmates and told his brains must have leaked out of the cut on his head. Suddenly he discovered he could really learn and accomplish things. The result? From the last quarter of the eighth grade all the way through high school, he never failed to make the honor roll; in high school he was elected to the national honor society. Once he found learning was easy, his whole life changed."
+
+## 9 - Making People Glad To Do What You Want
+
+I knew a man who had to refuse many invitations to speak, invitations extended by friends, invitations coming from people to whom he was obligated; and yet he did it so adroitly that the other person was at least contented with his refusal. How did he do it? Not by merely talking about the fact that he was too busy and too-this and too-that. No, after expressing his appreciation of the invitation and regretting his inability to accept it, he suggested a substitute speaker. In other words, he didn't give the other person any time to feel unhappy about the refusal, He immediately changed the other person's thoughts to some other speaker who could accept the invitation.
+
+This technique of giving titles and authority worked for Napoleon and it will work for you. For example, a friend of mine, Mrs. Ernest Gent of Scarsdale, New York, was troubled by boys running across and destroying her lawn. She tried criticism. She tried coaxing. Neither worked. Then she tried giving the worst sinner in the gang a title and a feeling of authority. She made him her "detective" and put him in charge of keeping all trespassers off her lawn. That solved her problem. Her "detective" built a bonfire in the backyard, heated an iron red hot, and threatened to brand any boy who stepped on the lawn.
+
+The effective leader should keep the following guidelines in mind when it is necessary to change attitudes or behavior:
+
+1. Be sincere. Do not promise anything that you cannot deliver. Forget about the benefits to yourself and concentrate on the benefits to the other person.
+2. Know exactly what it is you want the other person to do.
+3. Be empathetic. Ask yourself what is it the other person really wants.
+4. Consider the benefits that person will receive from doing what you suggest.
+5. Match those benefits to the other person's wants.
+6. When you make your request, put it in a form that will convey to the other person the idea that he personally will benefit.
+
+## Part 5 - Letters That Produced Miraculous Results
+
+Well, I like sceptical people. I spent the first twenty years of my life in Missouri—and I like people who have to be shown. Almost all the progress ever made in human thought has been made by the Doubting Thomases, the questioners, the challengers, the show-me crowd.
+
+#### Letter
+
+> Dear Mr Blank:
+
+> I wonder if you would mind helping me out of a little difficulty?
+
+(Let's get the picture clear. Imagine a lumber dealer in Indiana receiving a letter from an executive of the Johns-Manville Company; and in the first line of the letter, this high-priced executive in New York asks the other fellow to help him out of a difficulty. I can imagine the dealer in Indiana saying to himself something like this: "Well, if this chap in New York is in trouble, he has certainly come to the right person. I always try to be generous and help people. Let's see what's wrong with him!")
+
+> Last year, I succeeded in convincing our company that what our dealers needed most to help increase their re-roofing sales was a year 'round direct-mail campaign paid for entirely by Johns-Manville.
+
+(The dealer out in Indiana probably says, "Naturally, they ought to pay for it. They're hogging most of the profit as it is. They're making millions while I'm having hard scratchin' to pay the rent. ... Now what is this fellow in trouble about?")
+
+> Recently I mailed a questionnaire to the 1,600 dealers who had used the plan and certainly was very much pleased with the hundreds of replies which showed that they appreciated this form of co-operation and found it most helpful.
+
+> On the strength of this, we have just released our new direct-mail plan which I know you'll like still better.
+
+> But this morning our president discussed with me my report of last year's plan and, as presidents will, asked me how much business I could trace to it. Naturally, I must come to you to help me answer him.
+
+(That's a good phrase: "I must come to you to help me answer him." The big shot in New York is telling the truth, and he is giving the Johns-Manville dealer in Indiana honest, sincere recognition. Note that Ken Dyke doesn't waste any time talking about how important his company is. Instead, he immediately shows the other fellow how much he has to lean on him. Ken Dyke admits that he can't even make a report to the president of Johns-Manville without the dealer's help. Naturally, the dealer out in Indiana, being human, likes that kind of talk.)
+
+> What I'd like you to do is (1) to tell me, on the enclosed postcard, how many roofing and re-roofing jobs you feel last year's direct-mail plan helped you secure, and (2) give me, as nearly as you can, their total estimated value in dollars and cents (based on the total cost of the jobs applied).
+
+> If you'll do this, I'll surely appreciate it and thank you for your kindness in giving me this information.
+
+> Sincerely, KEN R. DYKE, Sales Promotion Manager
+
+(Note how, in the last paragraph, he whispers "I" and shouts "You." Note how generous he is in his praise: "Surely appreciate," "thank you," "your kindness.")
+
+Simple letter, isn't it? But it produced "miracles" by asking the other person to do a small favour—the performing of which gave him a feeling of importance.
+
+Try this yourself. The next time you are in a strange city, stop someone who is below you in the economic and social scale and say: "I wonder if you would mind helping me out of a little difficulty. Won't you please tell me how to get to such and such a place?"
+
+Ben Franklin has been dead now for a hundred and fifty years, but the psychology that he used, the psychology of asking the other man to do you a favour, goes marching right on.
+
+Another word of warning. I know from experience that some men, reading this letter, will try to use the same psychology mechanically. They will try to boost the other man's ego, not through genuine, real appreciation, but through flattery and insincerity. And their technique won't work.
+
+Remember, we all crave appreciation and recognition, and will do almost anything to get it. But nobody wants insincerity. Nobody wants flattery.
+
+# Part VI: Seven Rules for Making Your Home Life Happier
+
+## 1 - How To Dig Your Marital Grave In The Quickest Possible Way
+
+True, she sat on the throne of France. True, she was the most beautiful woman in the world. But neither royalty nor beauty can keep love alive amidst the poisonous fumes of nagging. Eugenic could have raised her voice like Job of old and have wailed: "The thing which I greatly feared is come upon me." Come upon her? She brought it upon herself, poor woman, by her jealousy and her nagging. Of all the sure-fire, infernal devices ever invented by all the devils in hell for destroying love, nagging is the deadliest. It never fails. Like the bite of the king cobra, it always destroys, always kills.
+
+The wife of Count Leo Tolstoi discovered that—after it was too late. Before she passed away, she confessed to her daughters: "I was the cause of your father's death." Her daughters didn't reply. They were both crying. They knew their mother was telling the truth. They knew she had killed him with her constant complaining, her eternal criticisms, and her eternal nagging. 
+
+In addition to fame, Tolstoi and his wife had wealth, social position, children. No marriage ever blossomed under softer skies. In the beginning, their happiness seemed too perfect, too intense, to endure. So kneeling together, they prayed to Almighty God to continue the ecstasy that was theirs. Then an astonishing thing happened. Tolstoi gradually changed. He became a totally different person. He became ashamed of the great books that he had written, and from that time on he devoted his life to writing pamphlets preaching peace and the abolition of war and poverty.
+
+This man who had once confessed that in his youth he had committed every sin imaginable—even murder—tried to follow literally the teachings of Jesus. He gave all his lands away and lived a life of poverty. He worked in the fields, chopping wood and pitching hay. He made his own shoes, swept his own room, ate out of a wooden bowl, and tried to love his enemies.
+
+Leo Tolstoi's life was a tragedy, and the cause of his tragedy was his marriage. His wife loved luxury, but he despised it. She craved fame and the plaudits of society, but these frivolous things meant nothing whatever to him. She longed for money and riches, but he believed that wealth and private property were a sin. For years, she nagged and scolded and screamed because he insisted on giving away the right to publish his books freely without paying him any royalties whatever. She wanted the money those books would produce. When he opposed her, she threw herself into fits of hysteria, rolling on the floor with a bottle of opium at her lips, swearing that she was going to kill herself and threatening to jump down the well.
+
+There is one event in their lives that to me is one of the most pathetic scenes in history. As I have already, said, they were gloriously happy when they were first married; but now, forty-eight years later, he could hardly bear the sight of her. Sometimes of an evening, this old and heartbroken wife, starving for affection, came and knelt at his knees and begged him to read aloud to her the exquisite love passages that he had written about her in his diary fifty years previously. And as he read of those beautiful, happy days that were now gone forever, both of them wept. How different, how sharply different, the realities of life were from the romantic dreams they had once dreamed in the long ago.
+
+Finally, when he was eighty-two years old, Tolstoi was unable to endure the tragic unhappiness of his home any longer so he fled from his wife on a snowy October night in 1910—fled into the cold and darkness, not knowing where he was going.
+
+Eleven days later, he died of pneumonia in a railway station. And his dying request was that she should not be permitted to come into his presence. Such was the price Countess Tolstoi paid for her nagging and complaining and hysteria.
+
+The reader may feel that she had much to nag about. Granted. But that is beside the point. The question is: did nagging help her, or did it make a bad matter infinitely worse? "I really think I was insane." That is what Countess Tolstoi herself thought about it—after it was too late.
+
+So, if you want to keep your home life happy, Rule 1 is: Don't, don't nag!!!
+
+## 2 - Love And Let Live
+
+"I May Commit many follies in life," Disraeli said, "but I never intend to marry for love." And he didn't. He stayed single until he was thirty-five, and then he proposed to a rich widow, a widow fifteen years his senior; a widow whose hair was white with the passing of fifty winters. Love? Oh, no. She knew he didn't love her. She knew he was marrying her for her money! So she made just one request: she asked him to wait a year to give her the opportunity to study his character. And at the end of that time, she married him.
+
+She didn't attempt to set up her intellect against Disraeli's. When he came home bored and exhausted after an afternoon of matching repartee with witty duchesses, Mary Anne's frivolous patter permitted him to relax. Home, to his increasing delight, was a place where he could ease into his mental slippers and bask in the warmth of Mary Anne's adoration. These hours he spent at home with his ageing wife were the happiest of his life. She was his helpmate, his confidante, his advisor. Every night he hurried home from the House of Commons to tell her the day's news. And—this is important— whatever he undertook, Mary Anne simply did not believe he could fail.
+
+No matter how silly or scatterbrained she might appear in public, he never criticized her; he never uttered a word of reproach; and if anyone dared to ridicule her, he sprang to her defence with ferocious loyalty. Mary Anne wasn't perfect, yet for three decades she never tired of talking" about her husband, praising him, admiring him. Result? "We have been married thirty years," Disraeli said, "and I have never been bored by her." (Yet some people thought because Mary Anne didn't know history, she must be stupid!)
+
+For his part, Disraeli never made it any secret that Mary Anne was the most important thing in his life. Result? "Thanks to his kindness," Mary Anne used to tell their friends, "my life has been simply one long scene of happiness." Between them, they had a little joke. "You know," Disraeli would say, "I only married you for your money anyhow." And Mary Anne, smiling, would reply, "Yes, but if you had it to do over again, you'd marry me for love, wouldn't you?" And he admitted it was true. 
+
+That's important enough to repeat: "The first thing to learn in intercourse with others is noninterference with their own peculiar ways of being happy ..."
+
+Or, as Leland Foster Wood in his book, Growing Together in the Family, has observed: "Success in marriage is much more than a matter of finding the right person; it is also a matter of being the right person."
+
+So, if you want your home life to be happy, Rule 2 is: Don't try to make your partner over.
+
+## 3 - Do This And You'll Be Looking Up The Time-Tables To Reno
+
+Gladstone, a formidable enemy in public, never criticized at home. When he came down to breakfast in the morning, only to discover that the rest of his family was still sleeping, he had a gentle way of registering his reproach. He raised his voice and filled the house with a mysterious chant that reminded the other members that England's busiest man was waiting downstairs for his breakfast, all alone. Diplomatic, considerate, he rigorously refrained from domestic criticism.
+
+And so, often, did Catherine the Great. Catherine ruled one of the largest empires the world has ever known. Over millions of her subjects she held the power of life and death. Politically, she was often a cruel tyrant, waging useless wars and sentencing scores of her enemies to be cut down by firing squads. Yet if the cook burned the meat, she said nothing. She smiled and ate it with a tolerance that the average American husband would do well to emulate.
+
+Dorothy Dix, America's premier authority on the causes of marital unhappiness, declares that more than fifty per cent of all marriages are failures; and she knows that one of the reasons why so many romantic dreams break up on the rocks of Reno is criticism—futile, heartbreaking criticism.
+
+So, if you want to keep your home life happy, remember Rule 3: Don't criticize.
+
+## 4 - A Quick Way To Make Everybody Happy
+
+"Most Men when seeking wives," says Paul Popenoe, Director of the Institute of Family Relations in Los Angeles, "are not looking for executives but for someone with allure and willingness to flatter their vanity and make them feel superior. Hence the woman office manager may be invited to luncheon, once. But she quite possibly dishes out warmed-over remnants of her college courses on 'main currents in contemporary philosophy,' and may even insist on paying her own bill. Result: she thereafter lunches alone.
+
+"In contrast, the noncollegiate typist, when invited to luncheon, fixes an incandescent gaze on her escort and says yearningly, 'Now tell me some more about yourself.' Result: he tells the other fellows that 'she's no raving beauty, but I have never met a better talker.'"
+
+Men should express their appreciation of a woman's effort to look well and dress becomingly. All men forget, if they have ever realized it, how profoundly women are interested in clothes. For example, if a man and woman meet another man and woman on the street, the woman seldom looks at the other man; she usually looks to see how well the other woman is dressed.Q
+
+Why not have as much consideration for your wife? The next time the fried chicken is done to a tender turn, tell her so. Let her know that you appreciate the fact that you're not just eating hay. Or, as Texas Guinan used to say, "Give the little girl a great big hand."
+
+"I owe more to my wife," says Eddie Cantor, "than to anyone else in the world. She was my best pal as a boy; she helped me to go straight. And after we married she saved every dollar, and invested it, and reinvested it. She built up a fortune for me. We have five lovely children. And she's made a wonderful home for me always. If I've gotten anywhere, give her the credit."
+
+Out in Hollywood, where marriage is a risk that even Lloyd's of London wouldn't take a gamble on, one of the few outstandingly happy marriages is that of the Warner Baxters. Mrs Baxter, the former Winifred Bryson, gave up a brilliant stage career when she married. Yet her sacrifice has never been permitted to mar their happiness. "She missed the applause of stage success," Warner Baxter says, "but I have tried to see that she is entirely aware of my applause. If a woman is to find happiness at all in her husband, she is to find it in his appreciation, and devotion. If that appreciation and devotion is actual, there is the answer to his happiness also."
+
+## 5 - They Mean So Much To A Woman
+
+Why wait until your wife goes to the hospital to give her a few flowers? Why not bring her a few roses tomorrow night? You like to experiment. Try it. See what happens.
+
+Judge Joseph Sabbath of Chicago, who has reviewed 40,000 marital disputes and reconciled 2,000 couples, says: "Trivialities are at the bottom of most marital unhappiness. Such a simple thing as a wife's waving good-bye to her husband when he goes to work in the morning would avert a good many divorces."
+
+Too many men underestimate the value of these small, everyday attentions. As Gaynor Maddox said in an article in the Pictorial Review: "The American home really needs a few new vices. Breakfast in bed, for instance, is one of those amiable dissipations a greater number of women should be indulged in. Breakfast in bed to a woman does much the same thing as a private club for a man."
+
+__That's what marriage is in the long run—a series of trivial incidents.__
+
+Take your pocket knife now and cut out this quotation. Paste it inside your hat or paste it on the mirror, where you will see it every morning when you shave:
+
+_"I shall pass this way but once; any good, therefore, that I can do or any kindness that I can show to any human being, let me do it now. Let me not defer nor neglect it, for I shall not pass this way again."_
+
+So, if you want to keep your home life happy, Rule 5 is: Pay little attentions.
+
+## 6 - If You Want To Be Happy, Don't Neglect This One
+
+Rudeness is the cancer that devours love. Everyone knows this, yet it's notorious that we are more polite to strangers than we are to our own relatives. We wouldn't dream of interrupting strangers to say, "Good heavens, are you going to tell that old story again!" We wouldn't dream of opening our friends' mail without permission, or prying into their personal secrets. And it's only the members of our own family, those who are nearest and dearest to us, that we dare insult for their trivial faults.
+
+Again to quote Dorothy Dix: "It is an amazing but true thing that practically the only people who ever say mean, insulting, wounding things to us are those of our own households."
+
+"Courtesy," says Henry Clay Risner, "is that quality of heart that overlooks the broken gate and calls attention to the flowers in the yard beyond the gate." Courtesy is just as important to marriage as oil is to your motor.
+
+Oliver Wendell Holmes, the beloved "Autocrat of the Breakfast Table," was anything but an autocrat in his own home. In fact, he carried his consideration so far that when he felt melancholy and depressed, he tried to conceal his blues from the rest of his family. It was bad enough for him to have to bear them himself, he said, without inflicting them on the others as well.
+
+In Holland you leave your shoes outside on the doorstep before you enter the house. By the Lord Harry, we could learn a lesson from the Dutch and shed our workaday troubles before we enter our homes.
+
+__"The blindness with which we all are afflicted." Many men who wouldn't dream of speaking sharply to a customer, or even to their partners in business, think nothing of barking at their wives. Yet, for their personal happiness, marriage is far more important to them, far more vital, than business.__
+
+The average man who is happily married is happier by far than the genius who lives in solitude. Turgenev, the great Russian novelist, was acclaimed all over the civilized world. Yet he said: "I would give up all my genius, and all my books, if there were only some woman, somewhere, who cared whether or not I came home late for dinner."
+
+What are the chances of happiness in marriage anyway? Dorothy Dix, as we have already said, believes that more than half of them are failures; but Dr Paul Popenoe thinks otherwise. He says: "A man has a better chance of succeeding in marriage than in any other enterprise he may go into. Of all the men that go into the grocery business, 70 per cent fail. Of the men and women who enter matrimony, 70 per cent succeed."
+
+"But, although to have a contented wife and a peaceful and happy home means more to a man than to make a million dollars, not one man in a hundred ever gives any real serious thought or makes any honest effort to make his marriage a success. He leaves the most important thing in his life to chance, and he wins out or loses, according to whether fortune is with him or not. Women can never understand why their husbands refuse to handle them diplomatically, when it would be money in their pockets to use the velvet glove instead of the strong-arm method.
+
+"Every man knows that he can jolly his wife into doing anything, and doing without anything. He knows that if he hands her a few cheap compliments about what a wonderful manager she is, and how she helps him, she will squeeze every nickel. Every man knows that if he tells his wife how beautiful and lovely she looks in her last year's dress, she wouldn't trade it for the latest Paris importation. Every man knows that he can kiss his wife's eyes shut until she will be blind as a bat, and that he has only to give her a warm smack on the lips to make her dumb as an oyster.
+
+So, if you want to keep your home life happy. Rule 6 is: Be courteous.
+
+## 7 - Don't Be A "Marriage Illiterate"
+
+Dr Katherine Bement Davis, general secretary of the Bureau of Social Hygiene, once induced a thousand married women to reply very frankly to a set of intimate questions. The result was shocking—an incredibly shocking comment upon the sexual unhappiness of the average American adult. After perusing the answers she received from these thousand married women, Dr Davis published without hesitation her conviction that one of the chief causes of divorce in this country is physical mismating.
+
+According to Dr Popenoe, failure in marriage is usually due to four causes. He lists them in this order:
+
+1. Sexual maladjustment.
+2. Difference of opinion as to the way of spending leisure time.
+3. Financial difficulties.
+4. Mental, physical, or emotional abnormalities.
+
+All authorities on divorce agree upon the absolute necessity for sexual compatibility. For example, a few years ago Judge Hoffman of the Domestic Relations Court of Cincinnati—a man who has listened to thousands of domestic tragedies—announced: "Nine out of ten divorces are caused by sexual troubles."
+
+"Sex," says the famous psychologist, John B. Watson, "is admittedly the most important subject in life. It is admittedly the thing which causes the most ship-wrecks in the happiness of men and women." And I have heard a number of practicing physicians in speeches before my own classes say practically the same thing. Isn't it pitiful, then, that in the twentieth century, with all of our books and all of our education, marriages should be destroyed and lives wrecked by ignorance concerning this most primal and natural instinct?
+
+"Happy marriages," says Dr Butterfield, "are rarely the product of chance: they are architectural in that they are intelligently and deliberately planned."
+
+To assist in this planning, Dr Butterfield has for years insisted that any couple he marries must discuss with him frankly their plans for the future. And it was as a result of these discussions that he came to the conclusion that so many of the high contracting parties were "matrimonial illiterates."
+
+"Sex," says Dr Butterfield, "is but one of the many satisfactions in married life, but unless this relationship is right, nothing else can be right."
+
+"Sentimental reticence"—I'm still quoting Dr Butterfield—"must be replaced by an ability to discuss objectively and with detachment attitudes and practices of married life. There is no way in which this ability can be better acquired than through a book of sound learning and good taste. I keep on hand several of these books in addition to a supply of my own booklet, Marriage and Sexual Harmony.
+
+Rule 7 of "How to Make Your Home Life Happier" is: 'Read a good book on the sexual side of marriage.
+
 
 
 
