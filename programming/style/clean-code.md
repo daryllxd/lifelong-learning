@@ -517,11 +517,165 @@ Don’t Use a Comment When You Can Use a Function or a Variable.
 
 Closing Brace Comments: Sometimes programmers will put special comments on closing braces. Although this might make sense for long functions with deeply nested structures, it serves only to clutter the kind of small and encapsulated functions that we prefer. So if you find yourself wanting to mark your closing braces, try to shorten your functions instead.
 
-#### Commented-Out Code
+Commented-out code: We have source control to remember this shit.
 
-Few practices are as odious as commenting-out code. Don’t do this! There was a time, back in the sixties, when commenting-out code might have been useful. But we’ve had good source code control systems for a very long time now. Those systems will remember the code for us. We don’t have to comment it out any more. Just delete the code. We won’t lose it. Promise.
+HTML Comments: Suck ass.
 
+Nonlocal Information: If you must write a comment, then make sure it describes the code it appears near. Don’t offer systemwide information in the context of a local comment.
 
+Inobvious Connection: The connection between a comment and the code it describes should be obvious. If you are going to the trouble to write a comment, then at least you’d like the reader to be able to look at the comment and the code and understand what the comment is talking about.
+
+	/*
+	* start with an array that is big enough to hold all the pixels * (plus filter bytes), and an extra 200 bytes for header info */
+	this.pngBytes = new byte[((this.width + 1) * this.height * 3) + 200];
+
+What is a filter byte? Does it relate to the +1? Or to the *3? Both? Is a pixel a byte? Why 200? The purpose of a comment is to explain code that does not explain itself.
+
+Function Headers: Short functions don’t need much description. A well-chosen name for a small function that does one thing is usually better than a comment header.
+
+#### Ugly Code for a Prime Generator
+
+	/**
+	* This class Generates prime numbers up to a user specified
+	* maximum. The algorithm used is the Sieve of Eratosthenes.
+	* <p>
+	* Eratosthenes of Cyrene, b. c. 276 BC, Cyrene, Libya --
+	* d. c. 194, Alexandria. The first man to calculate the
+	* circumference of the Earth. Also known for working on
+	* calendars with leap years and ran the library at Alexandria.
+	* <p>
+	* The algorithm is quite simple. Given an array of integers
+	* starting at 2. Cross out all multiples of 2. Find the next
+	* uncrossed integer, and cross out all of its multiples.
+	* Repeat untilyou have passed the square root of the maximum
+	* value. *
+	* @author Alphonse
+	* @version 13 Feb 2002 atp */
+
+	import java.util.*;
+
+	public class GeneratePrimes {
+	/**
+	* @param maxValue is the generation limit. */
+
+	public static int[] generatePrimes(int maxValue) {
+		if (maxValue >= 2) // the only valid case {
+			// declarations
+			int s = maxValue + 1; // size of array boolean[] f = new boolean[s];
+			int i;
+
+			// initialize array to true. for (i = 0; i < s; i++)
+			f[i] = true;
+
+			// get rid of known non-primes 
+			f[0] = f[1] = false;
+
+			// sieve
+			int j;
+			for (i = 2; i < Math.sqrt(s) + 1; i++) {
+				if (f[i]) // if i is uncrossed, cross its multiples.{
+					for (j = 2 * i; j < s; j += i)
+						f[j] = false; // multiple is not prime
+				} 
+			}
+
+			// how many primes are there? int count = 0;
+			for (i = 0; i < s; i++) {
+				if (f[i])
+				count++; // bump count.
+			}
+
+			int[] primes = new int[count];
+
+			// move the primes into the result
+			for (i = 0, j = 0; i < s; i++){
+				if (f[i]) 
+					primes[j++] = i;
+			}
+
+			// if prime
+			return primes; // return the primes 
+			}
+			else // maxValue < 2
+			return new int[0]; // return null array if bad input.
+		} 
+	}
+
+#### Refactored Version
+
+	/**
+	 * This class Generates prime numbers up to a user specified
+	 * maximum. The algorithm used is the Sieve of Eratosthenes. 
+	 * Given an array of integers starting at 2:
+	 * Find the first uncrossed integer, and cross out all its
+	 * multiples. Repeat until there are no more multiples 
+	 * in the array.
+	 */
+
+ 	public class PrimeGenerator {
+		private static boolean[] crossedOut;
+		private static int[] result;
+
+		public static int[] generatePrimes(int maxValue) {
+			if (maxValue < 2)
+				return new int[0];
+			else {
+				uncrossIntegersUpTo(maxValue); 
+				crossOutMultiples(); 
+				putUncrossedIntegersIntoResult(); 
+				return result;
+			}
+	 	}
+
+	 	private static void uncrossIntegersUpTo(int maxValue) {
+			crossedOut = new boolean[maxValue + 1];
+			for (int i = 2; i < crossedOut.length; i++)
+				crossedOut[i] = false; 
+		}
+
+		private static void crossOutMultiples() {
+			int limit = determineIterationLimit(); 
+			for (int i = 2; i <= limit; i++)
+				if (notCrossed(i))
+					crossOutMultiplesOf(i);
+		}
+
+		private static int determineIterationLimit() {
+			// Every multiple in the array has a prime factor that 
+			// is less than or equal to the root of the array size, 
+			// so we don't have to cross out multiples of numbers 
+			// larger than that root.
+			double iterationLimit = Math.sqrt(crossedOut.length);
+			return (int) iterationLimit; 
+		}
+
+		private static void crossOutMultiplesOf(int i) {
+			for (int multiple = 2*i; multiple < crossedOut.length; multiple += i)
+				crossedOut[multiple] = true; 
+		}
+
+		private static boolean notCrossed(int i) {
+			return crossedOut[i] == false; 
+		}
+
+		private static void putUncrossedIntegersIntoResult() {
+			result = new int[numberOfUncrossedIntegers()];
+				for (int j = 0, i = 2; i < crossedOut.length; i++)
+					if (notCrossed(i))
+						result[j++] = i;
+		}
+
+		private static int numberOfUncrossedIntegers() {
+			int count = 0;
+			for (int i = 2; i < crossedOut.length; i++)
+				if (notCrossed(i)) 
+					count++;
+			
+			return count; 
+		}
+	}
+
+## Formatting
 
 
 
