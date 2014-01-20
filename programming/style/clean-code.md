@@ -807,6 +807,137 @@ This confusion sometimes leads to unfortunate hybrid structures that are half ob
 
 ## Error Handling
 
+[TODO]
+
+## Boundaries
+
+## Unit Tests
+
+## Classes
+
+We like to keep our variables and utility functions private, but we’re not fanatic about it. Sometimes we need to make a variable or utility function protected so that it can be accessed by a test. For us, tests rule. If a test in the same package needs to call a function or access a variable, we’ll make it protected or package scope. However, we’ll first look for a way to maintain privacy. Loosening encapsulation is always a last resort.
+
+The first rule of classes is that they should be small. The second rule of classes is that they should be smaller than that. With classes we use a different measure. We count responsibilities.
+
+The name of a class should describe what responsibilities it fulfills. In fact, naming is probably the first way of helping determine class size. If we cannot derive a concise name for a class, then it’s likely too large. The more ambiguous the class name, the more likely it has too many responsibilities. For example, class names including weasel words like Processor or Manager or Super often hint at unfortunate aggregation of responsibilities.
+
+We should also be able to write a brief description of the class in about 25 words, without using the words “if,” “and,” “or,” or “but.” How would we describe the SuperDashboard? “The SuperDashboard provides access to the component that last held the focus, and it also allows us to track the version and build numbers.” The first “and” is a hint that SuperDashboard has too many responsibilities.
+
+#### The Single Responsibility Principle
+
+The Single Responsibility Principle (SRP)2 states that a class or module should have one, and only one, reason to change. This principle gives us both a definition of responsibility, and a guidelines for class size. Classes should have one responsibility—one reason to change.
+
+The seemingly small SuperDashboard class in Listing 10-2 has two reasons to change. First, it tracks version information that would seemingly need to be updated every time the software gets shipped. Second, it manages Java Swing components (it is a derivative of JFrame, the Swing representation of a top-level GUI window). No doubt we’ll want to update the version number if we change any of the Swing code, but the converse isn’t nec- essarily true: We might change the version information based on changes to other code in the system.
+
+Trying to identify responsibilities (reasons to change) often helps us recognize and create better abstractions in our code. We can easily extract all three SuperDashboard methods that deal with version information into a separate class named Version.
+
+	public class Version {
+		public int getMajorVersionNumber() 
+		public int getMinorVersionNumber() 
+		public int getBuildNumber()
+	}
+
+The problem is that too many of us think that we are done once the program works. We fail to switch to the other concern of organization and cleanliness. We move on to the next problem rather than going back and breaking the overstuffed classes into decoupled units with single responsibilities.
+
+At the same time, many developers fear that a large number of small, single-purpose classes makes it more difficult to understand the bigger picture. They are concerned that they must navigate from class to class in order to figure out how a larger piece of work gets accomplished.
+
+#### Cohesion
+
+Classes should have a small number of instance variables. Each of the methods of a class should manipulate one or more of those variables. In general the more variables a method manipulates the more cohesive that method is to its class. A class in which each variable is used by each method is maximally cohesive.
+
+The strategy of keeping functions small and keeping parameter lists short can some- times lead to a proliferation of instance variables that are used by a subset of methods. When this happens, it almost always means that there is at least one other class trying to get out of the larger class. You should try to separate the variables and methods into two or more classes such that the new classes are more cohesive.
+
+#### Maintaining Cohesion Results in Many Small Classes
+
+Just the act of breaking large functions into smaller functions causes a proliferation of classes. Consider a large function with many variables declared within it. Let’s say you want to extract one small part of that function into a separate function. However, the code you want to extract uses four of the variables declared in the function. Must you pass all four of those variables into the new function as arguments?
+
+Not at all! If we promoted those four variables to instance variables of the class, then we could extract the code without passing any variables at all. It would be easy to break the function up into small pieces.
+
+Unfortunately, this also means that our classes lose cohesion because they accumulate more and more instance variables that exist solely to allow a few functions to share them. But wait! If there are a few functions that want to share certain variables, doesn’t that make them a class in their own right? Of course it does. When classes lose cohesion, split them!
+
+So breaking a large function into many smaller functions often gives us the opportu- nity to split several smaller classes out as well. This gives our program a much better orga- nization and a more transparent structure.
+
+(Code Sample)
+
+Program is longer.
+
+- Refactored program used longer, more descriptive variable names.
+- The refactored program used function and class declarations as a way to add commentary to the code.
+- Whitespace/formatting
+
+Three Responsibilities
+
+- Main program is contained in the PrimePrinter class all by itself. Its responsibility is to handle the execution environment. It will change if the method of invocation changes.
+- `RowColumnPagePrinter` knows all about to format a list of numbers into pages with a certain number of rows and columns. If formatting is changed, then this is the class that would be affected.
+- `PrimeGenerator` class knows how to generate a list of prime numbers. It is not be meant to be instantiated. It is just a useful scope in which its variables can be declared and kept hidden.
+
+#### Organizing for Change
+
+	abstract public class Sql {
+		public Sql(String table, Column[] columns)
+		abstract public String generate();
+	}
+
+	public class CreateSql extends Sql {
+		public CreateSql(String table, Column[] columns) 
+		@Override public String generate()
+	}
+
+	public class SelectSql extends Sql {
+		public SelectSql(String table, Column[] columns) 
+		@Override public String generate()
+	}
+
+	public class InsertSql extends Sql {
+		public InsertSql(String table, Column[] columns, Object[] fields) 
+		@Override public String generate()
+		private String valuesList(Object[] fields, final Column[] columns)
+	}
+
+The code in each class becomes excruciatingly simple. Our required comprehension time to understand any class decreases to almost nothing. The risk that one function could break another becomes vanishingly small. From a test standpoint, it becomes an easier task to prove all bits of logic in this solution, as the classes are all isolated from one another.
+
+Equally important, when it’s time to add the update statements, none of the existing classes need change! We code the logic to build update statements in a new subclass of Sql named UpdateSql. No other code in the system will break because of this change.
+
+#### Isolating from Change
+
+Dependencies upon concrete details create challenges for testing our system. If we’re building a Portfolio class and it depends upon an external TokyoStockExchange API to derive the portfolio’s value, our test cases are impacted by the volatility of such a lookup. It’s hard to write a test when we get a different answer every five minutes!
+
+Instead of designing Portfolio so that it directly depends upon TokyoStockExchange, we create an interface, StockExchange, that declares a single method:
+
+	public interface StockExchange { 
+		Money currentPrice(String symbol);
+	}
+
+We design TokyoStockExchange to implement this interface. We also make sure that the constructor of Portfolio takes a StockExchange reference as an argument:
+
+	public Portfolio {
+		private StockExchange exchange;
+		public Portfolio(StockExchange exchange) {
+			this.exchange = exchange; 
+		}
+		...
+	}
+
+Now our test can create a testable implementation of the StockExchange interface that emulates the TokyoStockExchange. This test implementation will fix the current value for any symbol we use in testing. If our test demonstrates purchasing five shares of Microsoft for our portfolio, we code the test implementation to always return $100 per share of Microsoft. Our test implementation of the StockExchange interface reduces to a simple table lookup.
+
+If a system is decoupled enough to be tested in this way, it will also be more flexible and promote more reuse. The lack of coupling means that the elements of our system are better isolated from each other and from change. This isolation makes it easier to under- stand each element of the system.
+
+By minimizing coupling in this way, our classes adhere to another class design princi- ple known as the Dependency Inversion Principle (DIP).5 In essence, the DIP says that our classes should depend upon abstractions, not on concrete details.
+
+__Instead of being dependent upon the implementation details of the TokyoStock- Exchange class, our Portfolio class is now dependent upon the StockExchange interface.__
+
+## Systems
+
+
+
+
+
+
+
+
+
+
+
 
 
 
