@@ -721,14 +721,91 @@ Don't break the indentation for short `if`, `while`, or short functions, you pro
 
 ## Objects and Data Structures
 
+#### Data Abstraction
 
+> Concrete Point
+	
+	public class Point{
+		public double x;
+		public double y;
+	}
 
+> Abstract Point
 
+	public interface Point {
+		double getX();
+		double getY();
+		void setCartesian(double x, double y);
+		double getR();
+		double getTheta();
+		double setPolar(double r, double theta);
+	}
 
+The beautiful thing about Listing 6-2 is that there is no way you can tell whether the implementation is in rectangular or polar coordinates. It might be neither! And yet the interface still unmistakably represents a data structure.
 
+Listing 6-1, on the other hand, is very clearly implemented in rectangular coordinates, and it forces us to manipulate those coordinates independently. This exposes implementa- tion. Indeed, it would expose implementation even if the variables were private and we were using single variable getters and setters.
 
+Hiding implementation is not just a matter of putting a layer of functions between the variables. Hiding implementation is about abstractions! A class does not simply push its variables out through getters and setters. Rather it exposes abstract interfaces that allow its users to manipulate the essence of the data, without having to know its implementation.
 
+Consider Listing 6-3 and Listing 6-4. The first uses concrete terms to communicate the fuel level of a vehicle, whereas the second does so with the abstraction of percentage. In the concrete case you can be pretty sure that these are just accessors of variables. In the abstract case you have no clue at all about the form of the data.
 
+> Concrete Vehicle
+
+	public interface Vehicle {
+		double getFuelTankCapacityInGallons(); 
+		double getGallonsOfGasoline();
+	}
+
+> Abstract Vehicle
+
+	public interface Vehicle {
+		double getPercentFuelRemaining();
+	}
+
+In both of the above cases the second option is preferable. We do not want to expose the details of our data. Rather we want to express our data in abstract terms. This is not merely accomplished by using interfaces and/or getters and setters. Serious thought needs to be put into the best way to represent the data that an object contains. The worst option is to blithely add getters and setters.
+
+#### Data/Object Anti-Symmetry
+
+These two examples show the difference between objects and data structures. __Objects hide their data behind abstractions and expose functions that operate on that data. Data struc- ture expose their data and have no meaningful functions.__ Go back and read that again. Notice the complimentary nature of the two definitions. They are virtual opposites.
+
+> Procedural code (code using data structures) makes it easy to add new functions without changing the existing data structures. OO code, on the other hand, makes it easy to add new classes without changing existing functions.
+
+> Procedural code makes it hard to add new data structures because all the functions must change. OO code makes it hard to add new functions because all the classes must change.
+
+In any complex system there are going to be times when we want to add new data types rather than new functions. For these cases objects and OO are most appropriate. On the other hand, there will also be times when we’ll want to add new functions as opposed to data types. In that case procedural code and data structures will be more appropriate.
+
+Mature programmers know that the idea that everything is an object is a myth. Some- times you really do want simple data structures with procedures operating on them.
+
+#### The Law of Demeter
+
+There is a well-known heuristic called the Law of Demeter2 that says a module should not know about the innards of the objects it manipulates. As we saw in the last section, objects hide their data and expose operations. This means that an object should not expose its internal structure through accessors because to do so is to expose, rather than to hide, its internal structure.
+
+More precisely, the Law of Demeter says that a method f of a class C should only call the methods of these:
+
+- C
+- An object created by f
+- An object passed as an argument to f
+- An object held in an instance variable of C
+
+The method should not invoke methods on objects that are returned by any of the allowed functions. In other words, talk to friends, not to strangers.
+
+The following code3 appears to violate the Law of Demeter (among other things) because it calls the getScratchDir() function on the return value of getOptions() and then calls getAbsolutePath() on the return value of getScratchDir().
+
+	final String outputDir = ctxt.getOptions().getScratchDir().getAbsolutePath();
+
+Chains of calls like this are generally considered to be sloppy style and should be avoided [G36]. It is usually best to split them up as follows:
+
+	Options opts = ctxt.getOptions();
+	File scratchDir = opts.getScratchDir();
+	final String outputDir = scratchDir.getAbsolutePath();
+
+Whether this is a violation of Demeter depends on whether or not ctxt, Options, and ScratchDir are objects or data structures. If they are objects, then their internal structure should be hidden rather than exposed, and so knowledge of their innards is a clear viola- tion of the Law of Demeter. On the other hand, if ctxt, Options, and ScratchDir are just data structures with no behavior, then they naturally expose their internal structure, and so Demeter does not apply.
+
+This confusion sometimes leads to unfortunate hybrid structures that are half object and half data structure. They have functions that do significant things, and they also have either public variables or public accessors and mutators that, for all intents and purposes, make the private variables public, tempting other external functions to use those variables the way a procedural program would use a data structure.
+
+[TODO]
+
+## Error Handling
 
 
 
