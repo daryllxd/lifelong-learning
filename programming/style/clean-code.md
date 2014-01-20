@@ -928,6 +928,45 @@ __Instead of being dependent upon the implementation details of the TokyoStock- 
 
 ## Systems
 
+First, consider that construction is a very different process from use. 
+
+_Software systems should separate the startup process, when the application objects are constructed and the dependencies are “wired” together, from the runtime logic that takes over after startup._
+
+Unfortunately, most applications don’t separate this concern. The code for the startup process is ad hoc and it is mixed in with the runtime logic. Here is a typical example:
+
+	public Service getService() { 
+		if (service == null)
+			service = new MyServiceImpl(...); // Good enough default for most cases?
+		return service;
+	}
+
+This is the LAZY INITIALIZATION/EVALUATION idiom, and it has several merits. We don’t incur the overhead of construction unless we actually use the object, and our startup times can be faster as a result. We also ensure that null is never returned.
+
+#### Factories
+
+Sometimes, of course, we need to make the application responsible for when an object gets created. For example, in an order processing system the application must create the LineItem instances to add to an Order. In this case we can use the ABSTRACT FACTORY2 pattern to give the application control of when to build the LineItems, but keep the details of that construction separate from the application code.
+
+#### Dependency Injection
+
+In the context of dependency management, an object should not take responsibility for instantiating depen- dencies itself. Instead, it should pass this responsibility to another “authoritative” mecha- nism, thereby inverting the control. Because setup is a global concern, this authoritative mechanism will usually be either the “main” routine or a special-purpose container.
+
+JNDI lookups are a “partial” implementation of DI, where an object asks a directory server to provide a “service” matching a particular name.
+
+	MyService myService = (MyService)(jndiContext.lookup(“NameOfMyService”));
+
+The invoking object doesn’t control what kind of object is actually returned (as long it implements the appropriate interface, of course), but the invoking object still actively resolves the dependency.
+
+True Dependency Injection goes one step further. The class takes no direct steps to resolve its dependencies; it is completely passive. Instead, it provides setter methods or constructor arguments (or both) that are used to inject the dependencies.
+
+#### Scaling Up
+
+It is a myth that we can get systems “right the first time.” Instead, we should imple- ment only today’s stories, then refactor and expand the system to implement new stories tomorrow. This is the essence of iterative and incremental agility. Test-driven develop- ment, refactoring, and the clean code they produce make this work at the code level.
+
+But what about at the system level? Doesn’t the system architecture require preplan- ning? Certainly, it can’t grow incrementally from simple to complex, can it?
+
+> Software systems are unique compared to physical systems. Their architectures can grow incrementally, if we maintain the proper separation of concerns.
+
+[TODO]
 
 
 
