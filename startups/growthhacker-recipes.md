@@ -7,9 +7,6 @@ It always sucks when a user wants out of a relationship with you and your produc
 3. When you cancel your $49/month account then they ask you if you'd like to purchase their $19/month "essentials" account instead of canceling all together. This is kind of like deciding that you'll stay friends, even if you're not seriously dating anymore. If the down-sell doesn't work then you can move on to the next tactic. Send them a funny breakup email.
 4. Delinquent credit card:  "As a Growth Hacker TV member, I wanted to give you free access to my new e-book: ($79) Growth Robot - A guide to automatically growing your startup while you sleep, by Bronson Taylor. The only problem is that it looks like the credit card on your account is not working, so I can't send you any of the member perks. All you have to do is click here to give us an up to date credit card, and I'll send you a copy of Growth Robot for free, which is normally $79, so it's a pretty sweet offer :) "
 
-
-
-
 ## 11: Hubmetrics Hijacker
 
 HubSpot and KISSmetrics have something in common; they both have a killer inbound strategy.

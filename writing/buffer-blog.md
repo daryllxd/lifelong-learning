@@ -1,3 +1,29 @@
+## [What makes content spread: The anatomy of a post that got over 500,000 likes](http://blog.bufferapp.com/what-makes-content-go-viral-the-anatomy-of-a-post-that-got-over-500000-likes)
+
+“30 Things to Stop Doing to Yourself”. Why did this post go so viral?, is what I asked Marc and Angel. We discussed a lot of different things they learnt from writing it and hundreds of other articles over the past 7 years.
+
+1. __The science of persuasion: Nailing the fear of “missing out”.__ In my chat with Marc and Angel, one key thing they mentioned to me is that they wrote two posts. One was titled “30 Things to Start Doing for Yourself” and “30 Things to Stop Doing to Yourself”. Interestingly, the second one, using a negative “stop” or “avoid”, “don’t” and similar in other posts always performed better.
+	
+	If you are writing something that’s unique and people might have a feeling of otherwise missing out on, then this is a fantastic trigger to get people interested in your content.
+
+2. __We only read 20% of web pages – make your content easy to skim read.__ we all love bite-sized information on the web. Now, a list article is the perfect format for this. A post that gives you “30 Things” is very powerful. On the one hand, you know that you can just pick out a few of the 30 things, so it is easy to skim. On the other, if all of those individual 30 points are very interesting and useful, just reading one of the 30, can be all it takes to share it with a friend.
+
+3. __We all want to learn something and get smarter – it’s science!__ Practical utility trumps "interesting" and "surprising" when determining what is most likely to be shared.
+4. __Sharing buttons make content 7 times more likely to spread.__ Prominently feature sharing buttons both before and after each post.
+5. __Length of content and virality go hand in hand.__ Make sure that if you write a “30 things” list post, that your 1st point provides as much value to the reader as your 30th.
+6. __Consistency and Authority – Marc and Angel have been blogging since 2006.__ This strict consistency of writing more than 1000 articles is also deeply routed in our human understanding of how we build trust. The fact that their readers can expect a high quality article every few days, makes all the difference, says science.
+s
+Especially the comment section is extremely insightful to see what people have taken away from the article.
+
+
+## [10 Years of Silence: How long it took Mozart, Picasso and Kobe Bryant to be Successful](http://blog.bufferapp.com/lessons-on-success-and-deliberate-practice-from-mozart-picasso-and-kobe-bryant)
+
+What he discovered was that virtually every single “masterwork” was written after year ten of the composer’s career. (Out of 500 pieces there were only three exceptions, which were written in years eight and nine.) Not a single person produced incredible work without putting in a decade of practice first. Even a genius like Mozart had to work for at least ten years before he produced something that became popular. Professor Hayes began to refer to this period, which was filled with hard work and little recognition, as the “ten years of silence.”
+
+Kobe isn’t merely showing up and practicing a lot. He is practicing with purpose. When most people talk about working hard, they use the amount of time they worked as an indicator of how hard they worked. (i.e. “I worked 60 hours this week!”) The best artists, musicians, athletes, CEOs, and entrepreneurs don’t merely work a lot, they work a lot on developing specific skills.
+
+I don’t have the natural talent of Kobe Bryant or the sheer brilliance of Mozart, but I’m willing to put in my “10 years of silence.” I’ve only been writing on this site for 9 months, but I see this as the beginning of a 30–year project for me. And because I’m in this for good, I can win with commitment, grit, and unwavering consistency.
+
 ## [8 simple scientifically proven ways to improve your writing](http://www.fastcompany.com/3023616/work-smart/8-simple-scientifically-proven-ways-to-improve-your-writing)
 
 1. __Create a curiosity gap.__ The headline needs to be tantalizing enough to get a reader to click through, but mustn’t give away the whole story.

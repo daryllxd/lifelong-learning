@@ -148,7 +148,7 @@ What this example showed us is actually a penetrating look at how every human be
 
 __The first thing each of us considers is ourselves and our time.__ For the coffee shop example, they talked about convenience, speed, socializing, getting work done. When we did research and engaged thousands of people with written, spoken, and video content, they responded exactly the same way. Their first consideration was them.
 
-Using sophisticated research and new methodology we determine what experiences motivated them, to be most engaged with the content they saw. When we tested our research in the Americas, Europe Asia and Africa, there were of course cultural differences. There are different ways to tell a story. Yet we suspected that how people decide to spend their time with content is not a function of culture. And that's exactly what we found. You will easily understand this when you see the list of experiences that prompted people to spend more time with content and become more engaged by it.
+Using sophisticatedk research and new methodology we determine what experiences motivated them, to be most engaged with the content they saw. When we tested our research in the Americas, Europe Asia and Africa, there were of course cultural differences. There are different ways to tell a story. Yet we suspected that how people decide to spend their time with content is not a function of culture. And that's exactly what we found. You will easily understand this when you see the list of experiences that prompted people to spend more time with content and become more engaged by it.
 
 __Some of the key examples where the content makes me smarter, gives me something talk about, looks out for my interest, has the element of surprise or humor, it inspires me.__
 
