@@ -159,24 +159,143 @@ When multiple ActiveRecord models might be updated by a single form submission, 
 	end
 
 
+[TODO]
 
+## [Rethinking Rails Models](http://happybearsoftware.com/rethinking-rails-models.html)
 
+In your rails web application, the primary location your model gets used is in your controllers. The prevailing wisdom is to keep your controllers quite 'skinny' and contain as little domain logic as possible.
 
+In controllers we want high level touch-points to our domain-model code. The more declarative these touch-points are, the better. We want as little umming and aahing as possible. "Tell don't ask" and all that.
 
+Patterns:
 
+1. Find a domain resource and call a method on it 
 
+		class PersonController < ApplicationController
+		  def discombobulate
+		    @person = Person.find(params[:id]) 
+		    @person.confuse
+		  end
+		end
 
+2. Call a method on a class or module
 
+		class BusinessController < ApplicationController
+		  def aww_yeah
+		    BagOMethods.business_time!(params)
+		  end
+		end
 
+In practice it usually involves dealing with response headers, authentication and a host of junk that isn't related to your model.
 
+__Models are not necessarily subclasses of ActiveRecord::Base.__
 
+Typical Model
 
+	class Person < ActiveRecord::Base
+	  belongs_to :account
+	  has_many :addresses
+	  has_many :friends, through: :friendships
 
+	  validates :first_name, presence: true
+	  validates :last_name, presence: true
+	  validates :date_of_birth, presence: true
+	  validates :some_other_field do
+	    # some custom validation code
+	  end
 
+	  attr_accessible :first_name, :last_name, :date_of_birth, :some_other_field, :upvote_count
 
+	  scope :public   ->    { where(registration_complete: true) }
+	  scope :confused ->    { where(status: 'confused') }
+	  scope :enlightened -> { where('my_models.status != ?', 'confused') }
+	end
 
+Config file-ish. As a config file, it's great! DSL for relations, validations, AR stuff. But when you add the domain-logic methods, it blows up.
 
+	def confuse
+		self.status = 'confused'
+	end
 
+	def confuse!
+	confuse
+		save
+	end
+
+Not that cool. While you can see everything in one file, and there is less thought involved, __you can't test separate concerns in isolation__ and __there is no clear structure__.
+
+Proposed solution: Keep the scopes and shit, but the operations get moved to another file.
+
+> app/models/complex_person_operations
+
+	module ComplexPersonOperations
+	  def complex_operation
+	    if friends.some_complex_domain_condition?
+	      do_something_complicated
+	    else
+	      do_something_else
+	    end
+	  end
+
+	  def do_something_complicated
+	    SomeOtherClass.new(foo: 'bar', bar: 'baz', baz: 'foo').new.delegate_complication
+	  end
+
+	  def do_something_else
+	    3.times { clap_hands }
+	  end
+
+	  def clap_hands
+	    %w(clap)
+	  end
+	end
+
+> app/models/confused_person
+
+	module ConfusedPerson
+	  def confuse
+	    self.status = 'confused'
+	  end
+
+	  def confuse!
+	    confuse
+	    save
+	  end
+
+	  def confused_friends
+	    friends.confused
+	  end
+	end
+
+#### Gains
+
+- Person is still a config file, the include directives up at the top fit right in and we've removed clutter at the bottom.
+- Our controller is unchanged, `person.confuse` still works as expected.
+- We've separated different concerns into separate files, so it's easy to see how a given concern works in one place.
+- __In this case, methods that rely on the underlying ActiveRecord super class are separated from methods that do arbitrary domain logic.__
+- Each module is testable individually. Mocks that extend it just need to respond to any required API for the module to function.
+
+Another important benefit we get here (that doesn't quite fit into a bullet point) is that any modules that we delegate to can in turn delegate to a different set of domain-level classes and modules that perform arbitrary logic for you. In this way, the included modules act as a gateway between your actual domain-logic and your ActiveRecord::Base subclasses.
+
+It's a given that if you start to build up an unmanageable number of modules in your app/models directory that you break out some namespaces and start putting them in relevant subdirectories.
+
+#### More Complex Operations
+
+	class BusinessController < ApplicationController
+	  def aww_yeah
+	    BagOMethods.business_time!(params)
+	  end
+	end
+
+	module BagOMethods
+	  def self.business_time!(parameters)
+	    a = Person.find(parameters[:a][:id])
+	    b = Person.find(parameters[:b][:id])
+	    a.do_some_business_with(b)
+	  end
+	end
+
+Possible to separate that shit out too.
 
 
 
