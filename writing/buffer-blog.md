@@ -12,9 +12,8 @@
 4. __Sharing buttons make content 7 times more likely to spread.__ Prominently feature sharing buttons both before and after each post.
 5. __Length of content and virality go hand in hand.__ Make sure that if you write a “30 things” list post, that your 1st point provides as much value to the reader as your 30th.
 6. __Consistency and Authority – Marc and Angel have been blogging since 2006.__ This strict consistency of writing more than 1000 articles is also deeply routed in our human understanding of how we build trust. The fact that their readers can expect a high quality article every few days, makes all the difference, says science.
-s
-Especially the comment section is extremely insightful to see what people have taken away from the article.
 
+Especially the comment section is extremely insightful to see what people have taken away from the article.
 
 ## [10 Years of Silence: How long it took Mozart, Picasso and Kobe Bryant to be Successful](http://blog.bufferapp.com/lessons-on-success-and-deliberate-practice-from-mozart-picasso-and-kobe-bryant)
 
