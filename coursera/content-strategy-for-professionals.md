@@ -341,130 +341,209 @@ And remember that the process begins with an organization having a brand for it'
 
 It will then create content that focuses on a common set of experiences. The content engages consumers by creating the experiences, which in turn reinforces the product brand in the mind of the consumer.
 
+## 3.1: What are Experiences?
+
+Experiences are the way people feel about things. It's how content or a consumer product makes them feel, particularly with content.
+
+Does it make me feel smarter? Does it make me feel good about myself? Does it make me want to take action on what I read or heard or saw? It goes well beyond the utility of the content, or the utility of the consumer product.
+
+Certainly we use content for the utility it gives us. We buy consumer products for the utility they give us, but we have choices in content, and we have choices in consumer products, and we pick the ones that tap into emotional responses.
+
+If I've driven to the market in a Mercedes or other luxury car it's going to make me feel prestigious, or important. If I make that same trip in a high mileage car, like a Fiat for example, it's going to make me feel frugal, and like I've done well with my money. If I make that very same trip in a hybrid or an electric car, something like a Prius, it's going to make me feel like I did something good for the environment.
+
+So the tool, served the same purpose, no matter which one I had, but each of them would make me feel different, and we consume content for the same reasons. We pick content that gives us experiences and makes us feel certain ways. All products and all content create user experiences.
+
+The first thing we ask is what do we want people to feel. That's what experience is all about. So what's the relationship between audience experiences and audience engagement?
+
+Engagement is something that's been studied for more than 50 years. And it's been defined a lot of different ways. But typically it's been defined by how much a person uses content.
+
+How often they come to it? How much time they spend with it? But that's really an outcome. It's really not a definition of engagement.
+
+Engagement is really the collective set of these emotional experiences that people have with your content or with your consumer product. It's how they see your brand in their head. It's not what you think about your brand. It's what they think about your brand.
+
+## 3.2 - Why Do Experiences Matter
+
+Experiences matter for three reasons.First, all content will create user experiences. It's going to make your readers, users certain some things, act certain ways, take action on things. It's inescapable. You can not make experience free content, even if you tried. 
+
+Second, years of research show that experience drives usage. If people have positive experiences with your content, they will come back to it more frequently. They'll spend more time with it. If they have negative experiences with your content. They're going to use it less, they're going to come to it less.
+
+Third, you as the content strategist have the ability to shape those experiences to make them positive or negative, to make them stronger or weaker. So you have control.
+
+Experience contributes to usage and you can control those experiences. So how do you determine which experiences are right? By that I mean, which experiences are most likely to drive engagement?
+
+Media management center research identified more than 40 experiences across all media. Some of those were positive and drove increased usage of content. Some of them were negative and inhibited usage of content.
+
+For this program, we've selected four that we think are the most powerful, and that you should really be focused on using. 
+
+- It makes me smarter about things that I care about.
+- The second is that it looks out for my interests.
+- The third is that it's convenient (easily accessible).
+- It gives me something to talk about and share with others, what we call the social experience.
+
+
 ## 3.3 - Understanding the Experiences
 
-So whether it's the four experiences we just teed up or the two for
-the case study, how do I understand those
-labels so that I can really use them?
->> Our understanding of experiences
-came out of research with real people.
-We started out with hundreds of
-interviews,
-one on one, to learn about people's lives
-and how content fit into it, what their
-needs were, what their lives were like.
-During those one on
-one interviews, we found that there were
-hundreds
-of common themes, common statements that
-people made.
-So we took those statements and we put
-them
-into surveys and gave those to thousands
-more people.
-From that, we were able to find these
-common
-experiences that went across all media,
-and all people.
-If you want to understand the labels a
-little better,
-in the appendix to the Medill on Media
-engagement book,
-we've listed all the experiences and
-underneath those we've given
-the actual consumer statements, that came
-out of these one
-on one interviews, that we wound up using
-in the surveys.
-Those will give you a strong idea of what
-each experience means.
-But to give you one example to break
-down, let's take a look at the social
-experience.
-It gives me something to talk about.
-Here are the consumer comments that
-underlie that particular experience.
->> So what's the process for creating a
-powerful experience?
->> As with all things in content
-strategy, the process starts with
-understanding your audience.
-Who are they?
-What are their lives like?
-What are their goals?
-What are their aspirations?
-Once you understand
-that, then you create a concept for your
-content.
-And in the case of our case study,
-Shenshi, also a concept for your product
-itself.
-So in this case study, it's not about what
-we do, it's not we make affordable trendy
-clothing.
-It's about our service to the audience and
-that's built into the concept statement.
-In the
-case study where it says, we're for
-younger
-men who dream of a brighter future, the
-Shenshi
-brand of trendy but affordable fashion
-makes men feel
-and appear more successful to others than
-they are.
-Know how this concept statement, does
-three
-things that all concept statements have to
-do.
-It describes the target audience, in this
-case young men.
-It categorizes the
-product, trendy but affordable, and it
-describes
-the point of difference from similar
-products.
-It makes men feel successful.
-The concept guides the organization's
-creation
-of all its contacts with its audience.
-And contacts are everything: publications,
-websites, mobile data, tweets,
-advertising,
-packaging, marketing, customer service.
-Once the concept is defined and
-you're delivering on those contacts, that
-builds the audience's idea of the concept.
-It builds the experience, how they feel
-about it.
-How they feel about it then reinforces
-what they think about you.
-It becomes a two-way street.
-Consider one of the great global sports
-empires, ESPN.
-They operate seven US sports channels, an
-industry leading website
-that has editions for four countries, US,
-Australia, Brazil, UK.
-You got a magazine, they've got global
-sites for cricket
-and soccer and rugby and formula one
-racing and more.
-They're into mobile, radio, print, digital
-applications.
-So look at their concept statement.
-To serve sports fans wherever sports
-are watched, listened to, discussed,
-debated, read about.
-We're played.
-That concept statement is all about the
-talk about
-it and share experience that we mentioned
-a little earlier.
-And everything they do is in service to
-delivering that experience.
-[MUSIC]
-[BLANK_AUDIO]
+During those one on one interviews, we found that there were hundreds of common themes, common statements that people made. So we took those statements and we put them into surveys and gave those to thousands more people.
+
+From that, we were able to find these common experiences that went across all media, and all people.  Here are the consumer comments that underlie that particular experience.
+
+So what's the process for creating a powerful experience? As with all things in content strategy, the process starts with understanding your audience.
+
+Who are they? What are their lives like? What are their goals? What are their aspirations? Once you understand that, then you create a concept for your content.
+
+So in this case study, it's not about what we do, it's not if we make affordable trendy clothing. It's about our service to the audience and that's built into the concept statement. In the case study where it says, we're for younger men who dream of a brighter future, the Shenshi brand of trendy but affordable fashion makes men feel and appear more successful to others than they are.
+
+Know how this concept statement, does three things that all concept statements have to do. It describes the target audience, in this case young men.
+
+It categorizes the product, trendy but affordable, and it describes the point of difference from similar products. It makes men feel successful. The concept guides the organization's creation of all its contacts with its audience.
+
+And contacts are everything: publications, websites, mobile data, tweets, advertising, packaging, marketing, customer service. Once the concept is defined and you're delivering on those contacts, that builds the audience's idea of the concept.
+
+How they feel about it then reinforces what they think about you. It becomes a two-way street. Consider one of the great global sports empires, ESPN. They operate seven US sports channels, an industry leading website that has editions for four countries, US, Australia, Brazil, UK.  So look at their concept statement. To serve sports fans wherever sports are watched, listened to, discussed, debated, read about. We're played.
+
+And everything they do is in service to delivering that experience.
+
+## 3.4 - How Experiences Apply to Content
+
+Experiences are applied at three levels. The message level, the distribution level, and the strategic level.
+
+The goal is to be strategic. An application at the message and the distribution level reinforce the overall strategic approach.
+
+For the content strategist, the first thing you want to think about is, what stories am I going to tell, and what stories am I not going to tell?
+
+If we think about our case study, an expanding company that's building lots of new plants, and is proud of that fact, nonetheless, telling a story about opening a new plant is probably not going to drive the experiences that you want for your audience.
+
+But, if you've got a customer who's recently gotten a promotion, in part because he now dresses well using your fashions, now that's a story that you do want to tell, because it reinforces this inspiration, aspiration experience that you're trying to drive.
+
+You can tell it is a just plain facts case or you can enhance it with story telling arts. You can make some simple choices, are we going to tell this story in text or are we going to use something like a photo montage?
+
+When you move up to the distribution level you're now thinking about how all these messages, all these stories come together.
+
+On any given channel, as a content strategist, you're not going to do this just one way. You're going to have a Twitter account, you're going to have a YouTube channel, you're going to put out press releases, you're going to send customer emails. You might have a magazine or a brochure. And what you have to do is make sure that all the messages, all the stories, on each of these individual channels matches the experience you're trying to deliver.
+
+What experience matters for the audience, that has no meaning. What does have meaning is a story about someone rising in the organization, who is a young men, wearing our clothes.
+
+And tell it then at the distribution level, where, when and how, that young man and other young man will be.
+
+The strategic level is where it all comes together. This is where you want to make sure that all of your channels are delivering the same message in the same way.
+
+First at the message level. Let's take a look at these two Canadian newspapers. This was in 2006. It was the day that the Canadian hockey team had lost all chance of getting a medal in the 2006 Olympics. And on that very same day, the women skaters and the women skiers took two golds and two silver medals.
+
+The newspaper on the left took a real just  the facts ma'am approach as you can see. Serious, somber, not particularly engaging. The newspaper on the right clearly they were thinking they wanted to drive that talk about it and share experience. That headline is a headline to debate over, to talk about over at the water cooler.
+
+They focused on their message. We want our readers to talk about the things we write about. And they stayed on it, now that's at the message level. The editors at both papers had exactly the same material to work with and chose two different ways to do it.
+
+We saw Apple's ad, we know that they focus on simplicity, so let's look at all the ways they do it. The message level in content would be comparable to, the individual, design elements in their products and everything is simple.
+
+If we compare product components to the message level, they do it with every component. Look at the way the power cord plugs into a Mac book. It's a magnet. You just slap it on there. You don't have to fuss around trying to stick prongs into a slot. It's kind of a message level. The product itself is comparable to the distribution level in the content world.
+
+So if we look at one of their products The iPad. It's so easy it doesn't even come with an owners manual. Even a two year old can learn how to use it. Then at the strategic level Apple pulls that all together, every element of design, every product, every customer contact walking into one of their stores.
+
+Looking at their ads. They're all simple. Everything makes it easy. And this differentiates them from their more complicated competitiors. 
+
+I think I hear you saying one more thing, and the one more thing is, that's the sort of recipe, those are the steps, but the powerful message is, content strategy is by itself prioritized and important. But if you really wanted to have impact.
+
+If you want to engage your audience with it, at the beginning you said, you create experiences whether you want to or not. So plan 'em. Understand that audience. Create an experience which makes them want more and makes them want to come back. And if you do that, then you'll have great content and an experience. And the audience will give you more time and come back more often. 
+
+## 3.5: Development of Tone and Voice
+
+Well, John, professional writing doesn't have to be dry. In fact, in most cases it should not be. Don Fry, an editor and writing coach who has worked with thousands of writers, puts it this way. He says that voice is how the author creates the illusion that the writer is speaking directly to the reader from the page. Or, I would add, the screen.
+
+Like most writing coaches, Fry emphasizes the importance of speaking in a natural way to readers. In order to hold the attention and interest of an audience, the writer needs to speak in a voice the audience will recognize as someone like them.
+
+Another way to put this, voice is the equivalent of a phone call from a trusted friend. You immediately tune in to what this person is saying to you.
+
+People face a title wave of content, and they don't have one more minute in their day. People tune out a lot of this information because it's boring, it's uninteresting, it's not valuable to them.
+
+So first you need to win their time and attention. What is it about your content that makes them want to read it? The voice that readers hear in your content should be a kind of personality.
+
+Who is that personality? What is the tone of that communication? Voice conveys the persona of the writer. We also talk about tone in professional writing.
+
+Tone is the mood of the writer's voice, tone gives a writing voice nuance, depth and color.
+
+Ask yourself what is important about this information? Why do people need it? What is your relationship to the content? And to the target audience who will read it. Are you an expert, informing them about something new? Or perhaps, are you a member of a community of usersof a product or service, commenting for those in the know.
+
+So, what about the Shenshi case? Perhaps you want to create content about affordable vacations in places attractive to middle class young people. Or maybe create a website covering entertainment news of interest to the Shenshi customer.
+
+Each of these excerpts has distincitve voice and tone. The New York Times editorial voice is firm, measured, and harbors not an ounce of doubt. The Page Six voice, on the other hand, is the snide, cliche-ridden tabloid. The celebrity chaser. Intentionally disrespectful.
+
+Tone and voice are core identifiers. When writing for your business colleagues, the same principles apply. Be yourself. Be direct. Be specific. Your voice conveys your personality and authority. Your tone conveys emotion, attitude. Do you sound like someone who knows what she or he is talking about? Does your writing voice make them want to hear what you have to say?
+
+
+## 3.6 - Importane of a Unique Content Voice
+
+Focus on how it is valuable to your audience because people will give you their time if you give them something they value. Will it help them keep up with information in their field? Will it help them get ahead in their careers? Will it give them something to talk about with their friends, colleagues, their bosses? Or is it their personal time out? Is your content what is missing in their lives?
+
+You also need to consider and know your defining value. Could your competitive edge be convenience for example? Is one competitor perhaps reliable but only available once a week? Can you deliver updates more often via cellphone or email? Does your content make you stand out from your competitors?
+
+For example, if your organization conducts research on a topic of particular interest, you could write about it on your organizations internal website and eventually publish it for external audiences. Your competitive advantage is your deep knowledge of the issue.
+
+Look at this graphic that summarizes what I've been saying. You want your content to be in the upper right hand quadrant: Convenient, accessible, colorful, readable. 
+
+Start with, what is the best media window in your reader's day to engage with your content? Is your idea best delivered as a business-to-business publication, a mobile app, an email newsletter, a podcast, a tablet feed, maybe mobile alerts? Or should you think about a portfolio strategy?
+
+Your audience uses many information devices during the day. Mobile in the morning and all day long. Smartphone or tablet on the train or bus. Laptop or tablet in meetings and at lunch. And always, mobile during dinner. You need to make sure to leverage this information, to truly engage your audience with your important stories and content. So then, what do you need to know about your audience's information use?
+
+Consider the top three markets for smartphones. In China a Google survey estimates that half of all urban Chinese use smartphones. People use them during often lengthly commutes for checking on news, participating in social media. And reading email. Now this is content prime time for this audience. This is the media window you want to hit. India is rapidly converting to smartphones. Projections are that 100 million smartphones will be sold in India over the next three years. And in the US, nearly two thirds of adults already use smartphones.
+
+So then how do you think about the best points of contact with the content you're providing? You want to list and then prioritize all of the connections your audience finds useful.
+
+Does your audience want your information on multiple platforms? Would your readers appreciate email alerts, mobile updates? Perhaps documents or media they can download from the cloud. You need to ask yourself, does your strategy differentiate your content? Are your points of contact the most convenient for your audience? Understanding your audience and how they take in information is the key.
+
+## 3.7: Best Practices for Professional Writing
+
+The prime rule says internationally known authors Stephen King is write a lot and read a lot. Sound simple?
+It's effective. When King was asked what he reads, he answered everything I can get my hands on. King offers lots of good advice in his memoir on writing.
+
+So be like Stephen King, read every day, feed your ear. Don't limit yourself to business documents and news publications. Read good writing of various kinds. Consume fine craft. Your vocabulary will improve as you read. Your writing will become more fluid. It's true what they say about what it takes to perform on a great stage. you gotta practice, and practice, and practice some more. Write often. Like any other skill, with attention and hard work, writing improves.
+
+Be direct and clear. You want busy people to pay attention to you and read what you are working so hard to write. Get to the point. Just tell me. Don't adopt a different vocabulary or tone or voice when you write. Do not overwrite, William Strunk advised us 95 years ago in the Elements of Style. Just tell me what you want to say. Tell a story the way you would tell it to your friend or a colleague. You always know how to tell a story to someone you know.
+
+As best-selling novelist Elmore Leonard made a really important point. Try to leave out the part that readers tend to skip. Use active sentences, not passive. Most of us talk this way in normal conversation. Someone did something, someone said something, someone felt something. The active voice sweeps up the reader and takes her along for the ride. The passive voice just buries the momentum under a rock.
+
+Write with nouns and verbs, Strunk said. Use adjectives and adverbs sparingly. Eliminate unnecessary language, or as Strunk said 95 years ago, omit needless words. Keep it simple. Focus on one idea per sentence.\ Make your content easy to consume. Voltaire put it this way: the best way to be boring is to leave nothing out.
+
+Write for scannability. Everything should work to welcome the reader. Headlines, captions, pull quotes, every word on the page or screen should enhance the reader's experience. Whether the content is in a newspaper or a magazine, On the website, a tablet, or a phone, readers will first scan then zero in on what catches their interest.
+
+Invite action. In internal documents, keep recommendations crisp and to the point. On the web, provide searchable data, links to useful information, social media links.
+
+Revise. The first draft is rarely the best. Writing is mostly about editing. Author James Michener noted, I'm not a very good writer, but I'm an excellent rewriter. The reader benefits from all of that work. What is written without effort is, in general, read without pleasure, said Samuel Johnson.
+
+And know when to violate these rules. The best writers can use descriptive language to illuminate elegantly. Writers who follow these rules still manage to speak in distinctive voices, but when strain from these norms, know why and be sure your method is effective. Mark Twain put it in his classic way, when you catch an adjective kill it. No, I don't mean utterly, but kill most of them. Then the rest will be valuable.
+
+## 3.8 - Use a Story Arc with Content
+
+Whether the work is a business analysis a novel or a long forum magazine feature, it usually has a shape like a small heel. 
+
+In the beginning a business report might state the problem being examined, during which the story begins to gain momentum. Then there's the middle, the history and analysis section during which the story moves smoothly through the chronology, description or other structure of the piece. In the end, the work will gain speed as it approaches a conclusion.
+
+When you are writing a long piece, finish your first draft before stopping to revise it. If you stop part way through the piece you will often loose your way. Your pacing will suffer. You may start to write about details you'll just have to remove later. 
+
+You will lose your focus, and sometimes you lose your control of the piece. The truth is that, as you become a more experienced writer and take on more challenging tasks, you're able to write longer and more complex reports or stories without a lot of pausing and reorienting.
+
+The great novelist William Faulkner said something terrific about this moment, when a writer stops to tinker and then loses momentum. He said, when my horse is running good, I don't stop to give him sugar. You will know better than to stop your story and give it sugar.
+
+Author Ian Banks said about this process, writing is like everything else, the more you do it, the better you get. Don't try to perfect as you go along. Just get to the end of the damn thing. Accept imperfections. Get it finished, and then you can go back. If you try to polish every sentence along the way, there's a chance you'll never get passed the first chapter.
+
+And after all, you know the job of the opening section. Depending on the nature of the work, it is to state the problem and suggest the motive examination. Or to state the question being answered, or the problem to be analyzed.
+
+Don't allow yourself to become bogged down polishing the opening of your project. If you do, the rest of the project, which it probably organized itself in your head, will begin to unravel.
+
+Every writer, myself included, has had the experience of launching a big piece with all the zest and confidence in the world, and then feeling it begin to go off the rails as distractions hampered our progress. Sometimes, you just can't get it back. You have to start over.
+
+One of my mentors, who wrote more major stories than anybody else at the magazine where I worked, was so adept at structure and speed, that he told me sometimes he would just skip the first section entirely, so that he could speedily get the rest of it down on paper.
+
+He had it in his head. He needed to capture it on paper. Now, I'm not advising you to do that, at least not until you're much more experienced than I am. Get the story, the book, the white paper, report, or study, down in the first draft before you go back to revise it. Once you know what it looks like, you can analysis its flaws, polish its gems, and rewrite at will.
+
+I find that if I read it aloud it's a powerful tool. You must read your work aloud. You will hear what's wrong with it. What's missing, what needs to be cut. You may not want to do this in a cubicle with 47 other people listening, but often you can do it there very quietly, or go out in the hallway, or go outside, or do it in the privacy of your home, but do it. You will reap the benefits from the first time you try it. It's like having a terrific editor. You can hear the holes in the piece, the false notes, the rambling that needs to be trimmed.
+
+Revise. The best draft is never the first one. Almost a hundred years ago, a writer named Sir Arthur Quiller-Couch, gave writers everywhere some very tough-minded advice. He said, whenever you feel an impulse to perpetrate a piece of exceptionally fine writing, obey it, wholeheartedly and then delete it before sending your manuscripts to press. Murder your darlings.
+
+That phrase, murder your darlings, morphed over the years to kill your darlings. This is a phrase familiar to generations of professional writers. Revising, after all, is about brutal honesty.
+
+Those three paragraphs may have taken you half a day to write, and you may find them absolutely stunning, but they've got to go. Revising can be painful. So is working out in a gym for three hours per day and going without food and water. Stephen King maintains that only brutal cutting and revising can produce the sound finished draft you are capable of producing.
+
+Lillian Hellman said, nothing you write, if you hope to be any good, will ever come out as you first hoped. At least in the first draft. Yes, it can be painful and tedious. No, even the best writers have to revise and revise. Johann Sebastian Bach said, analysis, reflection, much writing, ceaseless correction, there is all my secret.
 
 
 
