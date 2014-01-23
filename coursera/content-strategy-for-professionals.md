@@ -92,7 +92,7 @@ To begin, you must have a far deeper understanding of that audience. One that go
 
 If it's boring, or delivered at work when they only have time to read it later on on the bus, or at home, when they want to be with their kids, they won't look at it at all.
 
-## It's Not Smart if It's Not Strategic
+## 1.4 It's Not Smart if It's Not Strategic
 
 It's tempting to put your energies into turning out lots of content that matters to you. But it's not smart, and it's not strategic.
 
@@ -110,7 +110,7 @@ Whether it's a formal plan or not, you need to find out what your organization's
 
 Top goals are priorities. Every organization has things it wants to do if it's going to make progress. Those goals are strategies, whether it calls them strategies or not.
 
-## Intro to Audience an Experiences
+## 1.5 Intro to Audience an Experiences
 
 There are two steps that will greatly strengthen the likelihood of people engaging with the messages you want them to consider.
 
@@ -179,6 +179,301 @@ Not to you, but to the audience. And don't overlook in all of this the use of ga
 Yes, content is king. If it is strategic and tells a story that's valued by the audience. In this course, you will learn to develop and distribute your content, and drive engagement with audiences that you want to reach. In the following weeks, we'll look at how you can not only understand that audience more deeply but how you can take whatever content you strategically select and present it in such a way that the audience gives it more time.
 
 Because it says to them, and they will say in themselves, that makes me smarter. It gives me something to talk about.
+
+## 2.1
+
+You know, taking up people's time with non-strategic content is not only wasteful, it teaches the important audiences that you want to reach to pay no attention to everything you say.
+
+What we know is that people will only learn about things that they're motivated to learn about. That is to say, people will accept what they need to know from an organization that delivers what they want to know.
+
+You compounded blowing up the first by saying there really are no more mass audiences. For most people in organizations, they want everybody inside or everybody outside, to take in their message. They can't.
+
+The organizations we see being particularly successful at reaching mass audiences are doing it because they aggregate a number of targeted audiences. So think about something as ubiquitous as Facebook. Facebook has a large mass audience, if you will, because it serves a number of different smaller audiences with a variety of needs. High schoolers are on there for a very different reason, John, than you and I are on there. And ultimately Facebook success in the marketplace is being able to aggregate all those targets into one product. And that's really where organizations need to be focusing if they want scale.
+
+There really is science behind this. People's emotional and cognitive limitations are real. They can only attend to a certain number of topics deeply at one time. So people only pay attention to topics when they're motivated to do so, and there are things that precede motivation, and that's what's most important to organizations.
+
+The idea that self-interest and social identification precede motivation. So organizations have to understand their audiences' social identifications and self-interest needs, so they can craft messages that serve them where they are.
+
+Not only do I have to understand you and what you're interested in, I have to understand you, your lifestyle, your needs, and behaviors, so well, that I can predict what you need even if you don't know you need it.
+
+One of the biggest mistakes organizations make is asking someone, what do you need? No one knew they needed an iPhone until iPhones were invented.
+
+Organizations that are most successful are going to get ahead of that curve by understanding people's lifestyles, behaviors, attitudes, and crafting their messages to serve them where they are and advance their lifestyle in some significant way.
+
+First, you gotta give me something that you just know I want. Because like my favorite newspaper, or magazine, or TV show, I'm going to come there because I know I'm going to get it. That's number one. And then you're going to anticipate a need cause you know so much about me and you're going to meet that need.
+
+Exactly. And it may not be the message that I thought my organization initially wanted to deliver. It becomes something of a blend where the organization is serving its needs by understanding the audience better.
+
+## 2.1 Creating Personas
+
+There are a number of steps we go through to develop personas, but the key for organizations to understand is they're based on research.
+
+They're not based on intuition. So it's about interviewing people in the target market. Following them and seeing what their daytime experiences are.
+
+Learning about the target market from external stakeholders. Learning about the target market from secondary research that's been done. Crafting a real understanding of who the target user is. 
+
+A major drug store here in the United States has used personas to help understand the aging population in the United States and how their shelving needs to be recrafted to serve an older American. So they're using actually, a suit that mimics aging.
+
+The arthritis in your hands, what it's like to stand up, your ability to see the signs. And they've lowered the signs. They've made the shelves so it's easy to reach without asking for assistance. And they've increased the size of the type on the sign placard, so that people could see them as they continue to age. And their goal is really to appeal to that target market.
+
+I think it's really important for us to stop looking at media as old and new media and start looking at media that meets people where they are. So if you think about communities where mass transportation is the primary way that people circulate throughout the community, we start to see print media work quite well, if it's available through mass transportation outlets.
+
+However, if you think about a community where people primarily move around through cars, we certainly don't want people reading while they're driving a vehicle, Then all of a sudden, we have to think about iPods, music, something that's more audible, something that's read at home after the commute, as a way to communicate with people.
+
+## Segmenting Your Audience
+
+I think the one key to understanding segments is the harder it is to measure something the better it is in understanding an audience.
+
+Geographic measurement, where someone lives, what block they're on, or demographic measurement, how old they are, how many children they have, those are weak measures of segmentation because ultimately, two 35 year olds may look very similar but have very different needs.
+
+Something like psycho-graphic measurement. Who they are? What they need?
+
+Segmenting based on those needs, values, motivations to consume information, those are going to be most successful for organizations. So again, the more difficult something is to measure, the more successful it is going to be as a segment in the market.
+
+What's really important to keep in mind, especially if you're with a small organization, you think because you only have 12 employees, they must all be similar. 
+
+But if you have some people in sales, and you have some people in product management, and you have other people who are handling your media components, ultimately, all those people have different psychographic needs as it relates to your organization. You have to understand the psychographic bend those people bring to the table to effectively communicate with them.
+
+If you run a larger organization, your goal is to understand the subsets in your organization's marketplace, so that you have several buckets of people, if you will. So I'm not suggesting you have to follow 1200 people around to understand what their individual needs are, but I am saying understanding your communication base in a different way can help you craft better messages.
+
+What I encourage organizations to do, like radio and television stations that are really looking at day parting in a significant way, is to understand what's happening in someone's life in the morning that's different than the afternoon, that's different from the evening.
+
+When you're in the morning looking at a television station or listening to the radio, you're interested in the weather and what it takes for you to be successful that day at work or whatever you're going to do throughout your day.
+
+At noontime, you're looking for something totally different. Updates on the news. Maybe. But something that's kind of light and helps you get through your day.
+
+At the end of the day, you don't need a repeat for what you've already seen. So dayparting is sort of the beginning to understanding that. But deep understanding really comes from understanding the target market. In a way that you've never really thought about them before.
+
+## Targeting an Audience with Experiences
+
+Many people are interested in giving to service organizations that communicate a message about how it's going to affect their particular community.
+
+But effects in communities can mean very different things. You may be interested in, for instance, how it's going to affect what's happening on your block.
+
+I may be interested in how it's going to affect my children, and ultimately understanding the difference between what you and I value in our lives, allows those messages to be more thoughtful.
+
+Should you be at the center of the target or should I be at the center of the target?
+
+So service organizations really need to understand that self interest, the social identification pieces of audiences.
+
+But we've talked about the first week and we certainly implied here That there's that, all that emotional, internal self I bring to the message you provide.
+
+So I think the experience work is very important to understanding audiences, because when you start to look at some of the experiences and how it creates an emotional reaction to material.
+
+So one particular example of say the time out experience. When we look at people who are consuming some kind of media messages because they enjoy a release from their regular life.
+
+It's one of the reasons we see the success of reality television in America today. But also think about this is particularly attractive to women. We see women creating time out experiences especially if they're raising children. Working and then have a moment in the evening where they can curl up with a cup of coffee and now we even say the iPad, and consume material.
+
+Time out experiences are not going to be fueled by you throwing information at them.
+
+It's going to be a soft touch that really understands that moment in a woman's day. What kind of information she's looking for and make her more interested in your company's message.
+
+And then the last big question, we began the MOOC saying it looks like, and we're finding more and more, that people dream in stories.
+
+Think in stories, even when they get data and spreadsheets and information, They sort of take it and turned it into a story.
+
+We see narrative storytelling as a huge piece of this. Stories really illuminate things for people, but the important thing to keep in mind when you're working for an organization is, Your definition of story may be different than mine.
+
+So you really have to, again, that's why the target audience really matters. You have to understand the target's definition of storytelling, so that your company can achieve a successful relationship through the narrative it wants to share.
+
+## 2.5 Marketing - Branding Your Content
+
+In general, marketing is about understanding consumers and designing products and services to meet their needs and wants and, and communicating this to consumers that you've done this.
+
+Marketing is relevant to content strategy in two ways. First, any content you produce is aproduct that you should market. To engage the people you want to reach, you must understand them.
+
+Second, the content strategy needs to benefit the services or product that your organization creates.
+
+Part of your content strategy is to be meaningful and relevant to the products your organization makes. That's true no matter what type of organization you're in, for-profit, not-profit, or government. In short, it should help to brand your products or services.
+
+Strong brands relate to experiences that marketers know are important to the consumer segment that they're trying to target. We define experiences as the thoughts or feelings that consumers have about how the product helps them achieve some goal in their life.
+
+If you look at Coke's advertising, it doesn't emphasize the product, brown fizzy liquid, at all. Instead, it links Coke with the experience of feeling happy. Then, when consumers want to feel happy they drink Coke and are taken to the Coke experience of happiness. By speaking to these experiences, they can engage the consumers in the brand.
+
+
+## 2.6 Marketing - Branding Your Content Part 2
+
+The most important thing is that in thinking about content strategy, you really make it clear in your own mind what the concept of brand is all about, and how you want to be relevant.
+
+The best tool for doing this is to write a positioning statement that specifies who the target segment is, what the core concept of the brand is and how this is different from your competitors. You use this positioning statement to make sure that your content is relevant to the same experiences the brand speaks to.
+
+The positioning statement is central to a content strategy because it is what keeps the content on strategy.
+
+Ex: The company is Shenshi, a Chinese clothing retailer. It's not really their real name, but the case is based on the real company. The company wants to expand its brand of clothing internationally. They've already had a fair amount of success in China.
+
+The brand has been very successful at creating three experiences for its
+consumers. The first experience is inspiration. Which is about making people believe that they can accomplish things in their own lives.
+
+Many brands have been successful because they inspire their users. A famous example is Nike, which challenges its customers to just do it.
+
+A media brand that creates inspirational experiences for readers is Better Homes and Gardens. To understand how they create inspiration,
+consider their regular column, I Did It, which usually features normal people who just did something special to their home or garden.
+
+The focus of this column is not on how they did it, which would be much more of a utilitarian experience, but on the fact that they were able to do it.
+
+The second experience is identity. Which is, seeing oneself as being a
+successful person. Many fashion brands help their users by projecting a certain image. Just think about the image that wearing a Rolex watch or carrying a Gucci hand bag creates.
+
+The brand, North Face, projects a different kind of image. But is also creating an identity experience.
+
+The third experience that Senchu wants to create is utilitarian, which is all about giving useful advice and tips on how to use clothes to appear successful. One contact point is a sales person coming up to you in the store and recommending a certain shirt or tie to go with some suit that you're buying.
+
+So in their positioning statement, Shenshi makes it clear that the segment targeted is men who dream of a brighter future, and the concept is that Shenshi makes you feel and appear more successful than you currently are.
+
+This means that our strategy should be to make sure that our content is also associated with these three experiences. And the content should have these three experiences in common so that when someone encounters
+the content, they have the same experiences that they have with the brand, and vice versa.
+
+## 2.7 - Creating a Core Creative Concept
+
+It's true that over time and every organization, you'll produce many different pieces of content, most likely even across different platforms. The key is that all of them should be tied to the experiences that your content strategy calls for.
+
+This consists of having the general thematic storyline that is relevant to the experiences.
+
+For example, with Coca Cola, the storyline is that Coca Cola is about enabling people to make themselves and others happier.
+
+The idea is more familiar than it may sound. Think about things like Harry Potter. Its story line began as a book, that was then turned into movies, audio presentations, rides at theme parks, and all sorts of other content.
+
+The story line at an abstract level has been told many times before. There is this bad guy Voldemort who wants to conquer death and rule the world. Harry Potter is the chosen one, who must stop him and save the world. One of the themes that comes up often is that Potter has to choose between doing what's right and what's easy. The task of fighting Voldemort seems impossible. And the audience is inspired by the courage he shows to do the right thing despite how futile the effort seems.
+
+Participants can propose a thematic storyline for Shenshi. As you saw in the Coca Cola and Harry Potter examples, keep it general enough to that any individual piece of content will tell its own story, but rich enough to hold all the pieces together to make sure that they're relevant to the brand and experiences it's associated with.
+
+And remember that the process begins with an organization having a brand for it's product or service that's based on creating certain experiences.
+
+It will then create content that focuses on a common set of experiences. The content engages consumers by creating the experiences, which in turn reinforces the product brand in the mind of the consumer.
+
+## 3.3 - Understanding the Experiences
+
+So whether it's the four experiences we just teed up or the two for
+the case study, how do I understand those
+labels so that I can really use them?
+>> Our understanding of experiences
+came out of research with real people.
+We started out with hundreds of
+interviews,
+one on one, to learn about people's lives
+and how content fit into it, what their
+needs were, what their lives were like.
+During those one on
+one interviews, we found that there were
+hundreds
+of common themes, common statements that
+people made.
+So we took those statements and we put
+them
+into surveys and gave those to thousands
+more people.
+From that, we were able to find these
+common
+experiences that went across all media,
+and all people.
+If you want to understand the labels a
+little better,
+in the appendix to the Medill on Media
+engagement book,
+we've listed all the experiences and
+underneath those we've given
+the actual consumer statements, that came
+out of these one
+on one interviews, that we wound up using
+in the surveys.
+Those will give you a strong idea of what
+each experience means.
+But to give you one example to break
+down, let's take a look at the social
+experience.
+It gives me something to talk about.
+Here are the consumer comments that
+underlie that particular experience.
+>> So what's the process for creating a
+powerful experience?
+>> As with all things in content
+strategy, the process starts with
+understanding your audience.
+Who are they?
+What are their lives like?
+What are their goals?
+What are their aspirations?
+Once you understand
+that, then you create a concept for your
+content.
+And in the case of our case study,
+Shenshi, also a concept for your product
+itself.
+So in this case study, it's not about what
+we do, it's not we make affordable trendy
+clothing.
+It's about our service to the audience and
+that's built into the concept statement.
+In the
+case study where it says, we're for
+younger
+men who dream of a brighter future, the
+Shenshi
+brand of trendy but affordable fashion
+makes men feel
+and appear more successful to others than
+they are.
+Know how this concept statement, does
+three
+things that all concept statements have to
+do.
+It describes the target audience, in this
+case young men.
+It categorizes the
+product, trendy but affordable, and it
+describes
+the point of difference from similar
+products.
+It makes men feel successful.
+The concept guides the organization's
+creation
+of all its contacts with its audience.
+And contacts are everything: publications,
+websites, mobile data, tweets,
+advertising,
+packaging, marketing, customer service.
+Once the concept is defined and
+you're delivering on those contacts, that
+builds the audience's idea of the concept.
+It builds the experience, how they feel
+about it.
+How they feel about it then reinforces
+what they think about you.
+It becomes a two-way street.
+Consider one of the great global sports
+empires, ESPN.
+They operate seven US sports channels, an
+industry leading website
+that has editions for four countries, US,
+Australia, Brazil, UK.
+You got a magazine, they've got global
+sites for cricket
+and soccer and rugby and formula one
+racing and more.
+They're into mobile, radio, print, digital
+applications.
+So look at their concept statement.
+To serve sports fans wherever sports
+are watched, listened to, discussed,
+debated, read about.
+We're played.
+That concept statement is all about the
+talk about
+it and share experience that we mentioned
+a little earlier.
+And everything they do is in service to
+delivering that experience.
+[MUSIC]
+[BLANK_AUDIO]
+
+
+
+
+
+
+
+
+
 
 
 

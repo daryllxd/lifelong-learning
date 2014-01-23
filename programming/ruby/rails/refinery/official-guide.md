@@ -75,7 +75,7 @@ Think of a Refinery extension as a miniature Rails application running in your v
 
 	$ rails generate refinery:engine singular_model_name attribute:type [attribute:type ...]
 
-	
+
 
 
 
