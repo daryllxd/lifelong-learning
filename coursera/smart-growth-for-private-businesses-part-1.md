@@ -197,6 +197,164 @@ Do I have a financial safety net if I'm wrong on my projections? I have never, e
 
 Do I have daily information? Do I have daily information to monitor them? How do I know if it's happening? Who is going to help me? Who is going to monitor, manage, and correct? 
 
+## 1.7 (Eyebobs Interview)
+
+Julie: Well, I think the first thing that comes to mind is do you want to own the entire grape or do you want to own a slice of the watermelon? If you want to own the entire grape it's not about raising capital. It's not about having investors. It's about focusing on the business and living and dying by your own sword. But I think you have to know what you're looking for when you start a business with regard to funding. 
+
+Well to trust yourself. think one of the interesting that, sitting here trying to give advice, is don't take anybody's advice. Listen to what everybody has to say but be able to take that down and simmer it down yourself and follow your own instincts because if you're chasing somebody else's advice, you're always following this guy's advice and that woman's advice and that person's advice. You start to lose touch with what your true belief system is about your product or your service. 
+
+The best people to listen to really are your customers. Not other people that have done it. But go and listen to your customers. If you think you have a niche product and something to sell, go and find out from people that are buying it. 
+
+Well, I think my employees are really my greatest asset at this point. They know so much more about their, their jobs and our business. I couldn't possibly do it all myself. And they're really the experts at it. 
+
+And you have to like and trust them. I think trust is a, is a big word because 
+they're running your business. You're not in that customer service chair. You're not always in that shipping area. You're not always in that design phase by yourself. And you've got to have good people around you. 
+
+And I think probably the hardest thing for me is some of those people that are really good at helping you start is as you get on your feet and you're growing and you get bigger, they're not always the right people to take you to the next level. 
+
+It took me a long time to adjust to those ideas because I'm really loyal to my employees because I feel like I owe them a lot of Eyebob's success. But I, I really I try to surround myself with people that I like and trust. 
+
+I think business is fun. So, I, I, I think it's it's the game of business. And I try to include them. We're trying to move more towards open book management in, in parts of our business so that they aren't just a cog in the wheel. 
+
+And I think there's all sorts of fun in getting to know the business. And then there's, there are the social aspects of it. You know, for the first two years that I, I had Eyebobs open and was working at Eyebobs, I was by myself. And I really didn't enjoy working by myself. I am an extrovert. I need to bounce ideas off of people. 
+
+And it's that kind of inclusion, I think, that makes the workplace more fun. get people to contribute in ways that maybe their jobs specifically doesn't ask for. 
+
+And then, they kind of take it after that, you know, from, you can talk about casadia day and baked potato day.  People bringing in brownies and all those types of things, because that happens around here. 
+
+I, I remember from the case and everything you, you told me when we were doing the case that I remember when you started out, it was, it was so lonely that you went to lunch a couple times a week with the mailman. 
+
+What, what message does that send to your people if you're willing to share numbers with them? Alright, we're just starting to open that up right now. And I'm learning, that's something that I'm learning to do. 
+
+These are the people I like and trust with my business. So, it's taking it to that next level. And you, you talked about the challenge and it's a difficult And that most entrepreneurs face and this is this, as you grow, it's what I call the upgrading problem. 
+
+As you grow, you need better processes, better systems, and sometimes people that can take you to the next level but you've got very loyal people who got you to where, you know, to the level before and it's a, it's a real traumatic time for a lot, I mean for most entrepreneurs. And have you been able to basically, I'll use my friend, Jim Collins' terminology, have you been able to find them another seat on the bus? 
+
+But I mean, how do you, how do you stay, how do you stay on the edge? Well, I think there are several things that feed my soul. One is travel and seeing how other people are running their businesses. Mm-hm. They're doing this, you know, at another company, and how does that idea fit in at Eyebobs, and that's where I get my energy from. Is trying to see what else is happening in the other, in other parts of the world. I don't look at other eyewear companies. I don't care what they're doing. It's how, how is the world moving? How are my customers moving? What are their expectations? What do they need? And that keeps my energy going. 
+
+## 2.1
+
+Because what I want you to think is Susan Feller, this nice woman, this retired guidance councellor, okay, who's built this little business and now is sort of overwhelmed with all her growth choices has come to you, John, Bob, Jane, Sue, all of you and said, I need your help. 
+
+The unknown is scary, alright? Many times when you're building a business, you don't have all the answers. Things are uncertain, okay? And the first thing you do when you do that is, is what do I know? Then, the second question you ask yourself is, what do I really know?
+
+Susan was a guidance counselor, a helper, but she loved cooking. And she loved making desserts. In the end, later in life, she contracted Celiac desease, which made it, made it impossible for her, without getting sick, to eat certain types of grains and flours. 
+
+Why is that flour mixture so important? Because that's what she's got that's truly unique. That's what differentiates, she thinks her cakes and pastries and cookies from other gluten-free products. 
+
+Because she bought all those in the stores and said, this is not as good as stuff I used to make. Her goal was to make the best gluten-free tasty desserts, pastries, cookies, etc. Alright. She made it. 
+ 
+Now, the reason I'm going into to the details about Susan's story, ladies and gentlemen, it is a classic best practices of how one starts a business. You don't quit your day job, in most cases to start a business. You start your business small and you know what's the most important thing to do? 
+
+Is to try and find customers who like what you're selling and then figure out where there's enough of them. She started baking in her home and Susan went out and went to grocery stores, natural foods grocery stores in the beginning. 
+
+It took her almost a year to get approval to get into Whole Foods. Then, she makes the move to basically, why don't I go get a small space and she rented 2,400 square feet and she grew. She grew in order to meet the demand in the grocery store and she opened up a little retail bakery. 
+
+And I was down there one morning about 10:00 and I'll tell you, ladies and gentlemen, everything looked so pretty. And Susan goes through and she picks up the German chocolate cake, the carrot cake, the cookies, okay, the lemon tart sand everything. 
+
+She was what we used to call in the business the chief cook, bottle washer, and everything. She did all the accounts payable. She did all the accounts receivable. She bought all the products. She had part-time workers, okay? She built up to where, in the case, when we got to the end of the case, she had seven part-time bakers, okay, and helpers. She did the delivery. She was the salesperson. She's the one that went to each grocery to get customers. She delivered. She did everything.
+
+You should have just said Julie because Susan believed in paying my bills with cash. Don't borrow money. When my bills come in, pay them very soon. 
+
+It's going to make the point as to how you as a strategy consultant working with Susan have got in to get into the granular details because Susan didn't know what the real cost, per-unit cost were. 
+
+What does that mean? What does per-unit cost mean? She didn't know whether that little lemon cake, which sells for 3.50, she didn't know whether it cost her $1.00 to make, $1.50 to make or $4.00 to make. She didn't know. 
+
+Now, the Whole Foods' situation, basically, got her into the big leagues. And the case told you, she was operating currently at 70% capacity. 
+
+Now, she made a couple of different kinds of products, didn't she? She made frozen cookie doughs, okay? She made, if you will, real-life pastries, cakes, and everything that have shelf lives. Why is this important? 
+
+Susan, the entrepreneur. What are her strengths and weaknesses? What is she good at? What are her personal and business goals? What are her priorities?
+
+Why, when you're making your growth decision for your business, do you need to sit back and do the same. What am I good at? What am I not good at? What do I enjoy doing? What do I not enjoy doing? What's my end-game? End-game, gain, what do I mean by that? 
+
+What do I mean by end-game? Is it your ultimate goal? Do you want to be a large public company? Or do you want to earn so much money to live on? Do you want to have 50 employees? Do you want to be the number one provider of your product in your community in which you live? What's the end-game, why are you doing this? Now, most people want to grow a business because they think they have to. 
+
+All you got to do is outcompete the competition. And you learned you don't have to grow, unless you want to grow. And understanding why you want to grow is critical to this whole analysis as what she should do. It's interesting. 
+
+## 2.2
+
+In many cases, entrepreneurs are trying to do good. But Susan had, in the back of her mind, a couple of primary reasons. Help people to build something that my sons could work together and build and make it into the dominant big gluten-free, all natural, certified bakery, okay? Helping people enjoy foods when they have celiac disease. An honorable, good goal. 
+
+What was her strengths and weaknesses? She was an artist and a guidance counselor. What did she say she loved in the case? She loved baking beautiful desserts, cakes and she loved making them for. Weddings, birthdays. She said to me, when the joys in her life was one of the first birthday cakes she baked for a little boy who was celiac. It puts together her love of art and creativity, her love of giving as a guidance counselor and her love of solving the celiac problem. 
+
+So what was her weaknesses? She didn't know accounting, she didn't know how to create business processes. Right? She didn't even know what her cost per unit was. And she really, didn't want to manage a big business. So she was sort of in a quandry, where her personal goals, were propelling her to get bigger and grow But, as she grew the business, she was playing not to her strengths, but to her weaknesses. And the other thing is, as she grew her business, and she was the lead sales person, okay. She grew her business, The more the business grew, the less time she had for making her beautiful cakes for weddings and birthdays which was her love, her passion. 
+
+Did Susan have strategic focus? What do you think, she has strategic focus?  Should she have focused on frozen cookie doughs, because of long shelf life. Should she just focus on certain types of cakes, certain types of cookies. Or maybe should she just do the big cakes for the weddings, birthdays, that she likes to do every once in a while. And should she just make many individual serve deserts? This is what you'll face as you try to grow a business, lots of decisions. 
+
+Did she have operational excellence? I put a question mark by this. Well, it depends how you define operational excellence, doesn't it? That's why she got, stayed in new crops. That's why she got into whole foods. She can make a good product, but what we don't know is, was she making those product's individually profitably. Because she didn't have processes that measured her per unit cost's. She didn't have real, an accounting system. 
+
+Alright? She just had a file folder with accounts payable, accounts receivable. Okay. She didn't have sales strategy or sales process, she didn't have processes that she could basically used to teach other people. So, she was weak on process. 
+
+So, she was weak on strategic focus, she was weak on operational excellence. Did she, was she customer centric? So she had customer centricity and she had high employee engagement. She had an issue of strategic focus, and she had an issue of operational assets. 
+
+So, we, we talked about her strengths and weaknesses. We just talked about the businesses' strengths and weaknesses.
+
+So what were her alternatives? Keep doing what she's doing. Improve and grow slowly. Number 2, expand into more Whole Foods stores. And expand the product lines in Whole Foods. 3, remember in the case, you had the idea. 
+
+I make more money by selling retail than selling wholesale. But it's easier to sell wholesale. And grow a business, because that person can sell lots of pot. You're leveraging yourself. So she could have a wholesale distributor sell and deliver her products. 
+
+And what we know is, successful entrepreneurs take small steps, not big risk. They do this, they don't do that, why? Because, when you face the unknown and you face uncertainty. You take small steps, and you learn as you go. 
+
+## 2.3
+
+When you're in unknown, uncertain situations don't bet the ranch or, putting another way, don't bet your house. Don't bet your family's well-being. Don't bet all your assets, small bets. Learning, we called it learning lunches here. 
+
+Reject alternatives that are too risky and premature. You assess that by, what's two ways? What's the likelihood of it succeeding, probability of success, probability of success. And how big is the financial risk compared to your, your net worth. 
+
+Premature alternatives. What does that mean? Well if you go back to the conversation we had. And what I'm trying to basically make the point. Are you ready to grow? What does Susan have to do before she can grow? What are the preconditions to growth? 
+
+Well, Susan needs to determine the cost of per-unit production. She didn't know which of her products are profitable. She needs to make sure she's got control processes, quality and financial in place before. She needs some software to help her manage the business. Now these are not big things. And she needs more information from the customers about what they will buy. Focus on this, make small bets. Not this, not this pace growth, and prioritize.
+
+Mike (MBA son) joined the biz. Mike sat back and the first thing he did was figure out what were our per-unit costs. He put in some accounting controls. He put in some inventory controls. He put in some quality controls. He went and talked to whole foods. He went and talked to wholesalers. He started exploring. 
+
+And he decided the first thing we're going to do is expand throughout the Mid-Atlantic states in whole foods. And then he thought about, I can manufacture and expand manufacturing. In the current facility fact I can even add on but how do I expand distribution. So then he basically found out who distributed food, who was the distribution company, who had the trucks, who had the delivery people, who made deliveries to Whole Foods, to Ukrops to people he was selling to. 
+
+And he hired them to deliver his products. So that just means that he and his people, his employees had to focus on production. And customer service. Going to see the buyer. Putting on displays in the stores. Alright? Getting new stores. So he basically outsourced or had someone else do the actual delivery.
+
+He has moved deliberately, iteratively, and incrementally has grown the business; has increased the number of employees, has put in more processes while keeping family control of the business. 
+
+Not doing the joint venture while keeping the family brand, Free Fellers, okay? And a couple of weeks ago I was in Whole Foods and I saw the little lemon tarts, the little chocolate tarts, the little pecan tarts and everything. My wife loves lemon tarts and chocolate tarts so I took home each one of them. 
+
+She saw the brand and she said that's Susan and Mike. I said yes it is, and. As when I tasted them years ago, they were delicious. But there they are right there on that shelf, eye level in whole foods. Prime place. And Mike is working those relationships. So they are continuing to grow within their means while they are putting in place. 
+
+People, processes, and controls; they'd been thinking strategically, disciplined, focused thinking. They used the growth risk toolbox. They had focused on scaling, manufacturing, sales, service; but distribution they outsourced. With their employees they have outsourced HR type processing. They now have software. They are going up the chain, ladies and gentleman. 
+
+Growing a business is much more than just strategy. It's much more than just money. It's like helping Susan achieve her dreams. It's helping Mike. It's helping the customers have beautiful, tasty, wonderful food that doesn't cause their disease to act up. 
+
+It's doing good, helping people achieve their dreams; and if you talk to entrepreneurs as to why they want to grow, what I found in my study is the following point. So many of them said to me. Money is not enough. There has to be more, because at some point, you have enough, but you still want to grow, and there's got to be a reason. 
+
+Four P's. Planning for growth. Processes. Prioritization and pace. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
