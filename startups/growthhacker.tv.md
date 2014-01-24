@@ -427,8 +427,7 @@ In Android, just make sure people don't uninstall it. In the iOS App store you c
 
 Horizontal distribution: Separating your applications. From a search perspective "are the keywords in your title". For Udemy, they became competitive on multiple points of entry because each course has their own keyword. Take advantage on how search is so powerful but we built an algorithmic way of scraping apps, random
 
-So many companies die because of a lot of growth, and so many people are so hesitant of being aggressive. It's always easier to ask for forgiveness rather than for permission. You are in a very low probability area anyway. Take risks and push boundaries. There are ethical lines you can't cross, legal lines you can't cross, but if you'll be doing something that you can tell your parents about, then do it!
-
+So many companies die because of a lack of growth, and so many people are so hesitant of being aggressive. It's always easier to ask for forgiveness rather than for permission. You are in a very low probability area anyway. Take risks and push boundaries. There are ethical lines you can't cross, legal lines you can't cross, but if you'll be doing something that you can tell your parents about, then do it!
 
 
 
