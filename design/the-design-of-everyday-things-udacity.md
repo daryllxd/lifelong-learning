@@ -50,17 +50,39 @@ Chelsey's External Fixator: She can't see the adjustments that she has to do wit
 
 Home Heating System: It's possible that you have to set it to the highest level ever, so that it'd heat things faster, but most heaters are at the max anyway already, so better to leave it at 73F and wait for it to get there. :)
 
+Box: Tail = affordance for grabbing. Story = affordance for checking out stuff.
 
+Function is only part of the product, there's meaning, usable, and delightful. Combine them!
 
+## 3: Gulfs of Evaluation & Execution
 
+Affordances, signifiers, conceptual models, system images.
 
+Gulf of execution (how do I know what I can do) vs. gulf of evaluation (what happened).
 
+Car is cool because you can kick (?) or sensor thing at the back of the car to open the boot that opens the car. "I'm supposed to kick somewhere, but where do I kick, or wave? What am I supposed to do?"
 
+Knowing what to do -> Gulf of execution -> what happened? This is about discoverability.
 
+Assess state -> Gulf of evaluation -> Does this match the initial goal? This is about feedback.
 
+The role of the designer is to help bridge the two gulfs.
 
+Crossing involves asking the user a series of questions: 
 
+#### The 7 Stages of Action (not all are linked)
 
+- What do I want to accomplish? Goal.
+- What are my alternatives? Execution.
+- What can I do now? Execution.
+- How do I do it? Execution.
+- What happened? Evaluation.
+- What does it mean? Evaluation.
+- Is this OK? Have I accomplished that goal? Evaluation.
+
+A label or post-it note on something is a sign that something was designed incorrectly. Ex: "Don't go out of this door because the alarm might sound." "Red light means off while no light means on."
+
+Good designers empathize with the people they are designing for. Your job is to make sure that you understand the people you design your product for.
 
 
 

@@ -206,6 +206,95 @@ Which invites us then to focus on the mechanism of reputation, to ask us about t
 
 And what it suggests is well, one of the things we need to think very carefully about is this question of reputation, trust, and incentive. What kinds of reputational, trust, and incentive mechanisms are we putting in place in our organization in order to optimize outcomes?
 
+## 2.1: Weighing the Method
+
+We see a market that is characterized by persistent informational uncertainty. And a market that doesn't have the information that it needs is a market that we would predict cannot function.
+
+The problem is that when we have an entrepreneurial driven market, so in other words when we have individual intermediaries in the market, the result is unacceptably high transaction costs.
+
+The mechanism that we use to control for transaction cost, and I suggested the Coaseian framework from 1937, elegant then, elegant now. Is that a firm, the nature of the firm is simply an organizationally efficient response to a transaction cost problem.
+
+It's cheaper in the end, to use the market by domesting, domesticating those transaction costs, under the umbrella of a single organization. That solves for the cost problems.
+
+Romans had a robust legal frame work, which allows them to sign contracts in triplicate. They also have QC mechanisms. But most importantly, they had a mechanism of slavery. This solved the problem of agency.
+
+The enabling condition for the firm is that you have sufficient velocity of information to enable a hierarchical, managerial structure. That's when firms exist. Romans didn't have this.
+
+How do we control for agency costs, how we, in a management context, talk about
+agency.
+
+Forced distribution ranking: Stack/rank, rank/yank. Evaluation periods. Promotions. Alternative career choices. Everyone, including the F 500 and the Big Four, does this. Curved evaluation scheme the forced the forced distribution ranking scheme.
+
+Firms do this for the performance incentive. It keeps from being sued when they fire someone. It is a transparent monitoring scheme.
+
+Because of the constant evaluation, you're always identifying talent and people who are holding you back. Because of the competitive environment, they are motivated to work a little harder.
+
+Does that send a good signal to the cx? Yes, because  "I want to sign a contract with these guys, because they promote that kind of talent, they have that kind of excellence." 
+
+Transparent information flows + knowing the rules of the game + promoting a kind of higher productivity and competitivity amongst your workforce +  sending positive signals to the market means it makes sent to have a curved employee evaluation scheme.
+
+Employees hate this. But while employees feel that this is undue pressue, isn't the firm about optimizing its own outcomes and earning money? If the employees are not happy, then they will make the firm suffer at the end.
+
+Boosting productivity, constantly promoting talent, creating informational transparency, creating informational flows, and sending positive signals to the market. That's or those all sound like pretty good things. And if a firm can achieve those things or something like the forced ranking scheme, they should do it.
+
+## 2.2: FDRS Some Drawback
+
+Where would we expect the primary incentive in the aggregate to be located? To seek promotion? Or to avoid being fired, to avoid termination?
+
+Your Incentives are always going to be selfish. They're not going to be the same as the firm's incentives. Economics teaches us that we are inherently selfish beings only looking out for us, that's true.
+
+You need to not get fired first before you get promoted. And sometimes, by being given a crappy evaluation, you can find good alternatives in life. But people usually hate change. It makes you look bad. It entails reputation risk, and reduces your market value. So the primary motivated will be not to get fired.
+
+This makes people choose low risk decisions. It systematically and structurally disincentives the taking of risk. It diminishes collaboration, because you don't want to be part of the bottom 2, because it's a zero-sum game. You can also reduce the level of output of the company as a whole, because everyone is just working to be better than the two worst. Worst, you can enhance your own position by pushing other people down.
+
+And when talents are clumped, it's a great opportunity to learn, but you have to compete with them. But if you're surrounded by mediocre people, you think you're probably safe this quarter.
+
+A scheme that inherently and necessarily introduces punitive measures would discourage talent clustering. Because it would make essentially the fulfillment of that primary incentive, that primary obligation harder. And so if it makes it harder, you would avoid it. If it's harder to avoid being fired by working under a condition A or a condition B, you're going to avoid it. And that means then that we would predict systemic avoidance of talent clustering in a firm.
+
+## 2.3: Outcomes and Contrasting Evidence
+
+Management needs to control for agency costs within the organization. And no manager wants an environment where people in the firm don't collaborate, have a bare minimum and don't do much more, and are always pissed off.
+
+Why do firms have this scheme (firing)? Jack Welsh (GE) said they have a scheme like that, and he said it's fundamental to our firm's success. They are looking at it from a results-driven perspective. Tons of companies do this, even though the literature hates the concept of employee appraisal.
+
+There are no real world examples that demonstrate optimal firm outcomes using a forced ranked distribution scheme. And even though studies which based on models predict perhaps a boost of productivity in firm performance, find it that boost, of that productivity boost is limited, last maybe a year or two years.
+
+Firms have a network effect: once one firm starts to do it, many firms do it too. But the Roman grain trade case suggests you don't need that kind of coercive monitoring mechanism. Instead you want mechanisms that foster trust and reputation amongst your employees, because that's the best way to align incentives.
+
+If you compare firms that do employ stack and rank like Microsoft, and you put them up against companies that don't, like Google, it's not clear, I think, to any of us, that we're necessarily seeing unambiguous better performance in one than the other.
+
+If we simply do something because it seems like a good idea without considering why it's a good idea from every possible angle, and only implementing it after we have made that consideration, we are not engaging in good management practice. That is an example of management failure. And this is what we need to avoid, this is what firms need to avoid, they need to avoid that kind of failure, and you avoid that kind of failure by coming at the questions, at the problems that you need to solve, in the widest and most informed way possible.
+
+If you simply look at something from the top down, and you forget to consider it from other perspectives, you are unlikely to be able to project all of the potential consequences for the decisions that you're taking. And yet that is the role of a good management.
+
+## 2.4: Concluding Lessons from the Roman Grain Market
+
+And it's worth noting that the Rome that disappears in the third century. When Roman authority is reestablished at the end of the third century, at the beginning of the fourth century, after the reforms of Diocletian, the center of Rome, the Roman empire, is no longer in Rome, in Italy, but rather in Constantinople in what is now Turkey. And the whole system that supported the Roman Metropolis for that period of time never really gets restored.
+
+What might explain how a complex system that's organized itself in such a way so as to be sustainable over a very long period of time. Why would it suddenly fail?
+
+Having witnessed it with our own eyes, we know what it looks like. What is it that the system needs in order to continue functioning? What disappeared September 2008 when Lehman Brothers collapsed, what disappeared that didn't let the market continue?
+
+Trust. When the market loses confidence it can no longer function.  When the Roman Empire was no longer at peace is partly true that the empire breaks up into three, there's civil war, there's strife and so. So there are these exogenous factors that seems to contribute to the erosion of confidence.
+
+Rome had an increasd military expenditure, because its territory was so big. And Rome was under a fixed gold standard, the only money available to the Roman economy was what they could dig out of the ground in gold and silver. You have expanding military costs and fixed money supply.
+
+First, you try to get taxes. But when you don't have revenue, we just print cash. (The Romans just diluted their gold from 100% to 5%.) So you make money out of nothing. And Roman coinage began to debase over the next 50 years. And there's a tipping point, a moment at which the market simply stops to function.
+
+The reason why the Romans needed to debase their currency in the first place was because of constant growth and expansion. More costs which the state was not able to bear. Now growth is a major benchmark of managerial success today. Why is no or little growth a bad thing to say?  
+
+What kinds of consequences are there for firms operating in an environment where the only benchmark for success is that model of growth? Is that sustainable? Can firms actually generate good long-term outcomes if that's the only benchmark of success that we know? Or should we instead consider offering ourselves the latitude to expand the benchmarks of success?
+
+We see that Rome essentially moves out of an equilibrium and as a result ends up destroyed. Or at least the market ends up destroyed. If it's not good for Rome, it's not good for a firm. Firms need to be able, managers of firms need to be able to identify and then try to achieve equilibrium with their market. And that should be a benchmark of success. And we need to give ourselves that piece of vocabulary back when we think about what good management practice is.
+
+Since the 1930s The average life expectancy of a firm has fallen by more than half. Could it be that the management principles that inform the direction of those firms are no longer serving the interests of the firm itself? And that that divergence of management principle and firm outcome has actually led to the diminution of their life expectancy.
+
+It's a critical question for our general capitalist economy, and it's a critical question that we'll be considering over the rest of this class, indeed.
+
+
+
+
+
 
 
 
