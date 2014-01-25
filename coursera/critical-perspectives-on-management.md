@@ -291,7 +291,7 @@ Since the 1930s The average life expectancy of a firm has fallen by more than ha
 
 It's a critical question for our general capitalist economy, and it's a critical question that we'll be considering over the rest of this class, indeed.
 
-
+Agency cost: 
 
 
 

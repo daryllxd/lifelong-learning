@@ -142,24 +142,81 @@ When you are asked to make a decision, make questions that are about what you co
 
 List your head and heart reasons and think if there are conflicts.
 
+## Look at it This Way
 
+You need to know what to capture and why. You need to find out the right subject and a right perspective.
 
+Trap: Others make you see something from their perspective. Advertisers love this. Thrown frame.
 
+Selective perception: We only see what we expect to see.
 
+Engineers recommend faster motors. Design firm recommended putting a mirror and potted plant so people can change your perception.
 
+Anchoring: When you cling too tightly to one piece of information or get stuck on one point of view.
 
+Often, what we see is what we expect to see.
 
+## Size it Up
 
+Not all decisions are worth stressing out. Just think of the different possible outcomes of a decision.
 
+__H.I.P. Formula__
 
+- H: How will things change?
+- I: Impact on me? Others?
+- P: Permanent or reversible?
 
+Subjectivity: People have different interpretations of the same thing/event.
 
+## Carl Spetzler on Framing
 
+Framing is the most common mistake. Clear purpose, defined scope, conscious perspective. Approach it the right way with the right people involved.
 
+Decisions don't come nicely packaged. The decisions we should be making depend on your pont of view are things we struggle with.
 
+Decision hiearchy for the house:
 
+- Take as given. (We'll be in this area for at least another 5-10 years.)
+- Decide now (What do we want in a house for the next 5-10 years? Stay/remodel/move? Where?)
+- Decide later (Painting, financing, contractors.)
 
+## What's your problem?
 
+Purpose/scope as an essential step in framing your decision.
+
+Purpose: Make the room a nicer place to hang out and a better places to study. Scope: What's in and what's out? Moving isn't in scope.
+
+What's been decided, what needs to be decided now, what needs to be designed in the future?
+
+- Decided: Not moving to another apartment. No huge renovations. $200 budget.
+- What can be easily changed?
+- Future: What to do  
+
+Another trap: Sunk cost. THE MONEY IS ALREADY GONE.
+
+HIP: Not that big. Impact is on me. Not really permanent. Head-heart: Head is cost and investment of time, heart is happiness.
+
+## What do I really want?
+
+Be clear about your values, in order to have the best chance of getting what you really want.
+
+Use your values for your decisions! Don't just allow people to talk you into what they want, not what they want.
+
+Want: Afford, gas mileage, cute, safe, good size, comfortable for friends, won't break down.
+
+To know what is most important, you can eliminate what is less important.
+
+Use trade-offs, math, etc.
+
+## Frame and Values
+
+I wasn't enjoying my job anymore and when I was thinking about what I was going to do with my live, I decided to reprioritize. I quit my job.
+
+I was losing my friendships, I hadn't talked to my friends in a very long time and I wanted to build those back again. My parents, they are just 20 minutes away and I haven't talked to them in months.
+
+We want to make a useful frame, write down stuff. The key thing is my health. I have to be healthy to make the rest of my life work. If I was as healthy as I can, I can spend more time with the relationships that I miss. What I did was to do something healthy with my dad to get both things at once.
+
+I know I can accomplish goals so I have hope moving forward.
 
 
 

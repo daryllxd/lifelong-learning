@@ -1,18 +1,8 @@
 ## Introduction to the Course
 
-My research is, focuses on different areas, including the science of pleasure, of religion and especially morality, and I do scientific experiments that get written up in scientific journals.
+Kindiness: altruism or pro-social behavior. As when, with no obvious payoff, we're nice to another individual. Without prompting, a toddler opens a cabinet when the adult can't get it opened.
 
-But I also am interested in presenting the fruits of this research and the fruits of other people's research to a broad audience. So, I, I publish articles in popular magazines, and I also write books.
-
-Put more generally, this course is about good and evil, and to illustrate in more detail what I'm talking. But I'll giving 3 short examples of the sorts of things we'll be looking at in this course.
-
-Kindiness: altruism or pro-social behavior. As when, with no obvious payoff, we're nice to another individual. I'm primarily a developmental psychologist and a lot of my examples are going to be with children, so I'll give you an example of this with children, and this is from the work of Felix Barnigan and Michael Thomasello.
-
-So they set up an experiment where you have a toddler, and the toddler's sitting in a room, and then somebody needs help. And the question is, without anybody prompting the toddler. What does the toddler do? Toddler opens a cabinet when the adult can't get it opened.
-
-There's kindness, but there's also cruelty. There's evil. There's viciousness. Cat woman thrower: She says, at one point she says, it was a split second of madness. I thought it would be funny. And, it's just a cat. And people were not pleased by these excuses.
-
-They were not pleased by her behavior. And she was attacked by the press. And, the, then she needed police protection, because people wanted to kill her for throwing the cat in the bin.Why would strangers be enraged at what the woman did? They weren't involved. They weren't harmed.
+There's kindness, but there's also cruelty. There's evil. There's viciousness. Think of the woman who threw the cat in the garbage can. Strangers were mad at her. They weren't involved. They weren't harmed.
 
 And I think this sort of incident tells us something interesting about morality. Which is that morality matters. When I see something evil being done, even if I'm not involved in it, there's often a punitive impulse. There's an impulse that. The perpetrator should be punished. Justice should be done. And the question of where that comes from, how the system evolved.
 
@@ -42,7 +32,7 @@ I think this is a question of, both, great intellectual importance, and also gre
 
 So one such foundational issue, is attention between. Moral reasoning. Deliberative conscious thought, decision making thinking things through, the head, and your gut feelings. Your compassion, your emotion, your love, your disgust, your anger, your shame, the heart. And psychologists and philosophers along with theologians and legal scholars and many others Have long tried to address the question of the relative roles of reason and the emotion. In how we le, lead our moral lives and how we come to our moral ideas.
 
-Even more generally than that, we will address the tension between what we en call humanistic views. Our humanistic conception of humanity. Which deals with notions like free will. That sees people as, as agents that can make decisions. That can be blamed, that can be praised, that can be guilty. That, that, that, that can warrant punishment or warrant reward.
+Even more generally than that, we will address the tension between what we call humanistic views. Our humanistic conception of humanity. Which deals with notions like free will. That sees people as, as agents that can make decisions. That can be blamed, that can be praised, that can be guilty. That, that, that, that can warrant punishment or warrant reward.
 
 A view that might see us as almost as spiritual beings. Not reducible to the physical or, or mechanistic world. Beings with, be beings with souls. Creatures capable not only of wrongness, but also capable of sin. You have that and you have that humanistic view.
 
@@ -64,7 +54,7 @@ Why my politics is this and my religion is that And my belief about charity is t
 
 The first is there's no definition of morality that people agree on. So the philosopher Stephen Stich points out that philosophers have deep differences over what morality is.
 
-There was a book published in 1970 called Definitions of Morality. And in that book. 13 of the best philosopherss in the world. Philosophers like Elizabeth Anscombe, Peter Strawson and Philippa Foot. Provided their definitions of what morality is. And Stich points out these definitions had very little in common. People had very different views. It doesn't get any different when you look at psychologists.
+There was a book published in 1970 called Definitions of Morality. And in that book. 13 of the best philosopherss in the world. Philosophers like Elizabeth Anscombe, Peter Strawson and Philippa Foot provided their definitions of what morality is. And Stich points out these definitions had very little in common. People had very different views. It doesn't get any different when you look at psychologists.
 
 So the very prominent psychologist, Elliot Turiel, who's done significant work in the psychology of morality, defines morality in a pretty narrow way in terms of justice, rights, and harm. For him, something only counts as immoral if there's a victim, if someone suffers.
 
@@ -78,9 +68,7 @@ Rather what you do is you begin with a rough idea of what you're talking about, 
 
 I think if we ever get a definition of morality, it means we're kind of finished, the study of it. And we're nowhere near that point now. We're just beginning. Still, in order to study anything, you need a rough idea what you're studying and so I want to begin with, by talking about what counts as a moral violation. What counts as something wrong?
 
-It's related to notions of reward and punishment. Good things are rewarded and bad things are punished and it's related to emotion such as guilt, shame anger and gratitude. the, the person taking the film makes a comment that suggests he is full of moral indignation. He says dickhead. And if you go to the Youtube video, you'll see much worse comments about these people's behavior.
-
-The behavior strikes us in a sort of significant way as wrong. And because it strikes us as wrong, It, it evokes certain emotional responses. Now, this is a simple example of moral violation. Obviously not the worst thing you could imagine, but a sort of simple and direct. But, there are other moral violations that don't quite fit this mould.
+It's related to notions of reward and punishment. Good things are rewarded and bad things are punished and it's related to emotion such as guilt, shame anger and gratitude. Wrong behavior evokes certain emotional responses. Now, this is a simple example of moral violation. Obviously not the worst thing you could imagine, but a sort of simple and direct. But, there are other moral violations that don't quite fit this mould.
 
 So for one thing, you don't have to, make physical contact to somebody, in order to do something wrong. Most of us would believe it's wrong to shout a racist insult at somebody, or threaten to kill them, or spread lies about them. You could harm people in ways that aren't physical.
 
@@ -154,112 +142,50 @@ And throughout this course we're going to deal with both questions. We're mostly
 
 ## 1.2: Philosophical Approaches
 
-What is it to be good? What distinguishes good from, from evil? Right from wrong? And it turns out there are two very general approaches that most philosophers and most scholars, fall into.
+What is it to be good? What distinguishes good from, from evil? Right from wrong?
 
 #### Consequentialism
 
-And one is consequentialism. Consequentialist approaches are a dominant way of thinking about morality. Traditional philosophers include David Hume and John Stuart Mill. But most of all, Jeremy Bentham. Who can be taken as the great champion of this approach.
+- David Hume, John Stuart Mill, Jeremy Bentham.
+- Results matter. Consequences matter. You should always act in a way that's going to promote the best consequences, that's going to make the world better. What it is to do good, is to make the world better. What it is to do bad, is to make the world worse.
+- Pleasure and pain. Add everything up for one option, and you add everything up for your other options. And then you choose the action that's going to produce the greatest overall amount of good.
+- Bentham thinks torture is justifiable if the tortured person can set of a bomb or something which will hurt more people.
+- Homosexuality, they get pleasure anyway. And these are private acts.
+- Nothing was said about God. It gives up what a lot of people think is central to morality.
 
-And so for, Bentham argued that when it comes to morality, when it comes to being a good person. Comes to, to being moral. Results matter. They call, that is why they call consequentialism. Consequences matter. And what you should do is, you should always act in a way That's going to promote the best consequences, that's going to make the world better. What it is to do good, is to make the world better. What it is to do bad, is to make the world worse.
+#### Critics of C
 
-For Bentham it reduced to pleasure and pain. So Bentham summarizes his view as follows. He says, nature has placed mankind under the governance of two sovereign masters. Pain and pleasure. It is for them alone to point out what we ought to do. What you're supposed to do is calculate, how many people or how many animals are going to be affected by what you do? Both negatively and positively? How intensely are they affected? And you kind of add everything up for one option, and you add everything up for your other options. And then you choose the action that's going to produce the greatest overall amount of good.
- 
-So does, to see real examples of this, take some cases with people have argued about through
-history and argue about now. Should torture be illegal, always? Or are there ever cases where torture is okay? Bentham thinks torture is justifiable if the tortured person can set of a bomb or something which will hurt more people.
-
-Homosexuality: He said, what's the problem? He said, look if, if people's private acts, being permitted to privately engage in romance and love and sex with someone of the same gender. If that gives pleasure, then it's good. And if it's private, who could it harm?
-
-Now you could talk about the pain that people who are exposed to it, forced to see it, or whatever. But if these are, since these are private acts. It, it, it seems, it seems there's no reason to preclude' em.
-
-And so Bentham was actually very progressive, when it came to matters of sexuality. In part, it's very radical. Because, it's you notice, there's nothing to be said about God here. Or divine rules. There's nothing to be said about abstract moral laws and moral principles. it, it, it gives up what a lot of people think is central to morality.
-
-But it has its problems. And I, I want to be clear about some of its problems. There's no philosophical theory and morality that, that, that seems to work for everybody. They all have subtle problems and complexities.
-
-So, critics of consenquentialism point out that it often forces us to accept as moral, things that intuitively in our gut, just awful. So for a consenquentialist for instance it is perfectly, it is a good thing to torture a child to death.
-
-If by doing so, you raise the happiness level of other people. Because the math works out. Over all, torturing leaves the world a better place than without the torturing. But, that seems wrong. Consequentialists give no special credit to bonds of family and friendship. And in that way as well, their account. It, it's a counter intuitive theory. My son needs an operation. And it's an expensive operation, so I save my money. And, without this operation, he'll go blind. Save's his money my money. And I give him the operation.
-
-And most people would say, yeah, that's a good thing to do. That's what you're supposed to do. But for the consequentialist, that's awful. What I should be doing instead is taking that same money, and giving to the poor people of the world. Because the same money that could save my child's sight, could save the lives of a dozen, a hundred people.
-
-well what about, sending a child to an expensive school? Buying him books, buying him toys, or games, is awful. Because that same money could be used for far greater benefit, for suffering strangers. And those are unintuitive consequences. Now, some consequentialists would say, you know, that really is true.
-
-But many people, including me, find these consequences of consequentialists, so outlandish that it's hard to accept it fully as a moral theory. Then there's another problem. It's that consequentialism might, in some way, miss the point of morality. So, why is rape wrong?
-
-Consequentialists agree that violent rape, that rape is wrong, morally wrong. But here's why they think it's wrong. They think it's wrong because typically in an act of rape, the suffering of the victim. The person who is raped, outweighs the pleasure of the rapist. And so it's wrong. But, if you think about it, that seems absurd. That implies, for instance, that as a rapist gets more and more pleasure, rape would become more and more okay. It implies that if there are multiple rapists who got great pleasure from the act. And the victim, perhaps was unconscious and didn't suffer that much, Then rape would be okay.
-
-And this isn't an outlandish circum, an outlandish conclusion. Because it seems to miss the point. Which is what's wrong about, about a crime like rape or, or, or murder or torture. It's that people have a right not to be harmed. It, it's that, it's, there's a wrongness to assaulting somebody, that transcends the balance of pain and pleasure.
-
-And so, so, it, the critics of consequentialism say that although it maybe, to some extent, a reasonable guide to how to live your life. It fails as a moral theory, because it captures what's most important about morality.
+- It often forces us to accept as moral, things that intuitively in our gut, just awful. If torturing a child makes other people happy, then it's okay.
+- There is nothing about family and friendship. If your son needs an operation to save his life, it is better to give the money to poor people to save their lives.
+- It may just miss the point of morality. Cs think rape is wrong because of the suffering of the victim. But they might think that if multiple people got happy, or the victim did not feel anything, that rape is okay. This misses the point about rape or murder or torture. The point is people have a right not to be harmed. There's a wrongness to assaulting somebody, that transcends the balance of pain and pleasure.
 
 #### Deontology
 
-What they share is the idea that there are moral constraints in some actions, regardless of the consequences. That is there are moral rules that apply. regardless, you know? There are moral rules that apply, even if it turned out an action causes more pleasure than pain, still, some of those actions are just plain wrong.
+- There has to be some moral rules. Even if an action causes more pain than pleasure. 
+- Immanuel Kant tried to ground his approach to morality on pure reason. He argued to forget about gut feelings and emotion.
+- Hypothetical imperative: Our desires. If you want water, drink it.
+- Categorical imperative: Grounded on reason. Act as if you action would become a universal law.
+- Universal law: So when you decide to do, to do this versus do that. You should ask yourself, if everybody did this versus that? How would the world be? Would it demolish our way of living?
+- Ex: Lying. Cs say lie only dependin on the consequence. K says you should never lie, because if everyone lied it would suck. This means you won't lie to a murderer when he asks you where his victim is.
+- D theory gives you clean answers. Torture becomes wrong, even if you are able to save 100 people. So D has some sort of better moral compass than C.
 
-And of course, the great champion of deontological approaches is the philosopher Immanuel Kant. And Kant expanded at great length, in great subtlety, on morality. And tried to ground his approach to morality on pure reason.
+#### Critics of D
 
-Arguing, let's forget about gut feelings or emotion. We can figure out what the right thing to do just through our intelligence and our rationality.
-
-And the way he did it was, he introduced the idea of the categorical imperative. So a lot of what we do is grounded on our desires. So if you want to see a movie, which is a desire, what you should do is go buy a ticket. If you want to drink some water, go to the sink and pour some water. And those are a hypothetical imperatives for Kant. They are if, then given a desire, do such and so.
-
-But Kant argued there are also categorical imperatives. And categorical imperatives are grounded solely on reason. Any rational being would arrive at a categorical imperative. And so the, in particular, the idea is that any rational being will appreciate that what you should do, is act as if your action would become a universal law.
-
-So when you decide to do, to do this versus do that. You should ask yourself, if everybody did this versus that? How would the world be? Would it demolish our way of living? So, one of Kant's great examples was lying.
-
-If you're a consequentialist, and you're asked, should you lie? The answer is, well, it depends on the consequences. Kant has none of that. Kant says you should never lie. Never. And the reason for that is that, what if everybody lied? Well, if everybody lied, communication would fall apart. Language would fall apart. And our way of living would be destroyed.
-
-But suppose I have Smith. And Smith is in my, in my my living room. And there's a knock on the door. And I open up the door and it's an insane murderer with an axe. And he says, I want to kill Smith. Is Smith in your house? For a consequentialist, you say no. He went that away, and then you call the police. For Kant, you say, yeah, back there. Because you shouldn't lie, regardless of the consequences.
-
-When you fix yourself on a certain deontological theory, your theory will give you clean answers. So many philosophers and many people, actually. Think there's something wrong with torture. There's something wrong with intentionally inflicting pain on another person. And it's a sort of wrong that transcends the consequences.
-
-So even if torturing one person, would save 100 other people. You shouldn't do it. Because it's just not the sort of thing you do. Some people feel, with regard to homosexuality and, and, and other forms of sex. They're just wrong. It doesn't matter whether on the whole they make the world, people happier, or they don't make the world, people happier.
-
-It's not the issue. The issue is, these things are intrinsically wrong. Now, one of the merits, one of the strengths of, deontological approaches. Is that, unlike the consequentialist approach, they really do sort of have the flavor of morality. They, they capture the idea that some things are wrong, intrinsically.
-
-You don't just add up pain and pleasure. But there are several problems with these deotological approaches. So one problem is these, these categorical rules that, that people like Kant propose. Often seem crazy. The one about never lying under any circumstances, seems insane. Why couldn't the principle be you shouldn't lie unless by lying, you save somebody's life.
-
-And this sort of objection, this category of objection, speaks to a more general problem. Which is, where do all these moral rules come from? So someone like Kant would insist, they come from pure reason. They come from pure rationality.
-
-But, it turns out that when you look at them. The critics of Kant, and the critics of deotological philosophers say, you know, these aren't grounded in rationality. These are actually grounded in your own prejudices and biases and, and, and emotions. So, for instance, Kant thought homosexuality was wrong. Kant also thought masturbation was wrong. And, you know, he's not a consequentialist. He doesn't care how much pleasure is involved in these things. What he said of both of these is, they're violations of ones duty to ones self, not to succumb to animal desires.
-
-And he found that convincing. But many people don't find it convincing. And it's not clear that there is a way to convince somebody who doesn't think that, that these things are wrong, that they are. And so, so the consequentialist starts with an intuitive place. The goodness of pleasure and the badness of pain. The deontological philosopher, struggles a little bit more trying to find a way to ground these abstract rules. 
+- It's crazy.
+- Where do the rules come from? K says reason, and critics say it's not. It's grounded on prejudices and biases. K thought homosexuality and pornography was wrong, for instance.
 
 ## 1.3: Reason vs. Emotions
 
-At the idea of framing the psychological question in terms of they philosophical question. So, one way to think about people is that we're, sort of, common sense moral philosophers. We, we think about morality.  We have a, a unconscience, perhaps, an unconscience theory of what's right and wrong.
-
-And then the question is, what kind of moral philosophers are we? One way to explore this, and this has launched dozens, hundreds of experiments, is in terms of a famous thought experiment.
-
-Most people think it's okay to throw the switch for the switch case. Most people think that, that maybe, you know, it's not 100% you throw the switch it's the right thing to do. You save five and one die. But most people think it's wrong to push the man. Most people think you shouldn't do that. So, what does this tell us?
-
-Well, the people that do this research will, will tell you that, one thing it suggests is that we're not consequentialists. because notice these cases are, kind of similar. One theory is that we have in our brains unconsciously usually, a rather subtle philosophical principle and this principle is sometimes called the Doctrine of Double Effect.
-
-And the Doctrine of Double Effect says there's a distinction between doing something bad, like killing or harming somebody as an unintended consequence of causing greater good to happen, and that could be the right thing to do, versus doing something bad, like killing or harming somebody in order to bring about a greater good, and that you shouldn't do. The consequences are identical. But the difference is that in one case, the bad thing is a regrettable byproduct. I'm sorry, in the good case, the bad thing is a regrettable byproduct.
-
-Well, in the bad case, it's an instrument through which you act. So, this often comes up, in case, cases of just war. Or, or, or in philosophical debates and political debates over, over what's permissible in war time.
-
-And people who talk about a Doctrine of Double Effects say, consider two examples. In one example there's a munition's factory. If you bomb it, there's good reason to believe it would, defeat the enemy and the war would come to an end and millions of lives would be saved. But if you bomb it, there's people who work in the factory who are innocent, and they will die. Should you bomb it?
-
-Well, that's a hard question. But many people would argue if the benefit is great enough, having some innocent people die as a byproduct is permissible. Now compare to another case, there innocent people and if you blow them up, if you kill them, that will terrorize the enemy population. They'll know you're serious and then the war will end, saving millions of lives and so on. In fact, you can make these case so that they have identical consequences so that the same number of people die in the same way.
-
-And the Doctrine of Double Effect says, the difference is, in the case where you may do it, the innocents are collateral damage, but you don't want them to die. They're just a regrettable byproduct. But here, you're killing people in order to bring about an effect and you shouldn't do that.
-
-And the connection to trolley problem, is pretty clear. This, this could explain, some people
-believe, why we think so differently about these two cases. In the switch case, one person dies but their death is an accident and their death does nothing. If they were to leave the track, you'd be happy.
-
-They don't have to die and it's wonderful. In the bridge case, the person's death is necessary. If they were to leave the bridge, it doesn't work any more, the five will die. You need them.
-
-So, this way of looking at things where we take these abstract philosophical theories, we use the philosophical examples, we test people on them, and then we try to explain people's intuitions based on, on these philosophical approaches, is one way to do moral psychhology.
-
-And in fact, I think its fair to say that in the last decade or so there's been a backlash. And in this backlash people have said this is entirely the wrong way to study moral psychology. We should not think of people as, as these philosophical creatures doing these abstract rules, rather moral, morality is driven to a large extent by gut feelings.
-
-Think of what happens when you put a new food into your mouth. You don't have to decide if it's disgusting. You just know. You don't have to decide if a landscape is beautiful. You just know.
-
-Moral judgments are like that. They are rapid intuitive decisions and involve the emotional-processing parts of the brain. Most of us make snap moral judgments about what feels fair or not or what feels good or not. We start doing this when we are babies, before we have language, and even as adults, we don't, we often can't explain to ourselves why something feels wrong.  A lot of our morality is driven by our gut.
-
-The idea is that if we think reason is important, we are mistaking the tail for the dog. It's, it's the motion that counts. Haidt writes, moral judge, reasoning does
+- Trolley problem. Most peopel think okay to switch, but not to push the man. This means we aren't Cs. 5 > 1 in both but we don't do the same thing in both.
+- Doctrine of Double Effect: There's a distinction between doing something bad, like killing or harming somebody as an unintended consequence of causing greater good to happen, and that could be the right thing to do, versus doing something bad, like killing or harming somebody in order to bring about a greater good, and that you shouldn't do. The consequences are identical. But the difference is that in one case, the bad thing is a __regrettable byproduct__. In the bad case, it's an instrument through which you act. So, this often comes up, in case, cases of just war. Or, or, or in philosophical debates and political debates over, over what's permissible in war time.
+- Ex: Bomb a munitions factory to defeat the enemy, end the war, but kill the innocent workers in the factory? DoDE says that they are collateral damage. But you should do it.
+- This is why we think so differently about these two cases. In the switch case, one person dies but their death is an accident and their death does nothing. In the bridge case, the person's death is necessary.
+- There has been a backlash in the last decade: We should not think of people as, as these philosophical creatures doing these abstract rules, rather moral, morality is driven to a large extent by gut feelings.
+- In the same way that you just know if something is disgusting or beautiful, moral judgments are rapid intuitive decisions and involve the emotional-processing parts of the brain. 
+- A lot of our morality is driven by our gut.
+- The idea is that if we think reason is important, we are mistaking the tail for the dog. It's, it's the motion that counts. Haidt writes, moral judge, reasoning does
 not cause moral judgment; rather moral reasoning is usually a post hoc construction generated after a judgment has been reached.
-
-David Hume talking about moral reasoning says, look, our moral decisions, our moral understanding is not driven by reason. Rather, he says, reason is, and ought only to be, the slave of the passions.
+- David Hume talking about moral reasoning says, look, our moral decisions, our moral understanding is not driven by reason. Rather, he says, reason is, and ought only to be, the slave of the passions.
 
 ## 1.4: The Case of Disgust
 
