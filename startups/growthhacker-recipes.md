@@ -52,7 +52,7 @@ The email you send your students should thank them for taking your course (or re
 
 ## 5: Email Sniper
 
-2. Rapprotive extension for Gmail, to know if target is valid.
+2. Rapportive extension for Gmail, to know if target is valid.
 3. Canned responses within Gmail/settings.
 4. Post-send strategy: Toutapp, RightInbox to see when the messages are read.
 5. Follow up emails, send it, Check Followup.cc
