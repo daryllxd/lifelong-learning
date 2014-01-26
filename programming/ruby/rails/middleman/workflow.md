@@ -10,3 +10,5 @@ Set up .gitignore
 Change remote 
 
 	$ git remote add origin git@github.com:daryllxd/thingie.git
+
+	$ bundle install

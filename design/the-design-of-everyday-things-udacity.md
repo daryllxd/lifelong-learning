@@ -46,7 +46,7 @@ A conceptual model is an explanation of how something works. Sometimes they are 
 
 The system image is everything combined: affordances, signifiers, conceptual models, and instruction manuals (lol).
 
-Chelsey's External Fixator: She can't see the adjustments that she has to do without a mirror. 
+Chelsey's External Fixator: She can't see the adjustments that she has to do without a mirror.
 
 Home Heating System: It's possible that you have to set it to the highest level ever, so that it'd heat things faster, but most heaters are at the max anyway already, so better to leave it at 73F and wait for it to get there. :)
 
@@ -68,7 +68,7 @@ Assess state -> Gulf of evaluation -> Does this match the initial goal? This is 
 
 The role of the designer is to help bridge the two gulfs.
 
-Crossing involves asking the user a series of questions: 
+Crossing involves asking the user a series of questions:
 
 #### The 7 Stages of Action (not all are linked)
 
@@ -86,7 +86,7 @@ Good designers empathize with the people they are designing for. Your job is to 
 
 
 
-
+The quick brown fox jumps over the lazy dog.
 
 
 

@@ -38,7 +38,7 @@ Code, without tests, is not clean. No matter how elegant it is, no matter how re
 
 > After years of doing this work, it seems to me that all programs are made up of very similar elements. I can implement the functionality now with something simple, say a hash map, but since now all the references to that search are covered by my little abstraction, I can change the implementation any time I want. I can go forward quickly while preserving my ability to change later.
 
-Here, in a few short paragraphs, Ron has summarized the contents of this book. No duplication, one thing, expressiveness, tiny abstractions. 
+Here, in a few short paragraphs, Ron has summarized the contents of this book. No duplication, one thing, expressiveness, tiny abstractions.
 
 > You know you are working on clean code when each routine you read turns out to be pretty much what you expected. You can call it beautiful code when the code also makes it look like the language was made for the problem. - Ward Cunningham, inventor of Wiki, inventor of Fit, coinventor of eXtreme Programming.
 
@@ -69,11 +69,11 @@ Can you imagine working on a project where the code simply got better as time pa
 #### Use Intention-Revealing Names
 
 	public List<int[]> getThem() {
-		List<int[]> list1 = new ArrayList<int[]>(); 
+		List<int[]> list1 = new ArrayList<int[]>();
 		for (int[] x : theList)
 			if (x[0] == 4)
 				list1.add(x);
-		return list1; 
+		return list1;
 	}
 
 hy is it hard to tell what this code is doing? There are no complex expressions. Spacing and indentation are reasonable. There are only three variables and two constants mentioned. There aren’t even any fancy classes or polymorphic methods, just a list of arrays (or so it seems).
@@ -88,21 +88,21 @@ The problem isn’t the simplicity of the code but the implicity of the code (to
 Each cell on the board is represented by a simple array. We further find that the zeroth subscript is the location of a status value and that a status value of 4 means “flagged.” Just by giving these concepts names we can improve the code considerably:
 
 	public List<int[]> getFlaggedCells() {
-		List<int[]> flaggedCells = new ArrayList<int[]>(); 
+		List<int[]> flaggedCells = new ArrayList<int[]>();
 		for (int[] cell : gameBoard)
 			if (cell[STATUS_VALUE] == FLAGGED)
 				flaggedCells.add(cell);
-		return flaggedCells; 
+		return flaggedCells;
 	}
 
 We can go further and write a simple class for cells instead of using an array of ints. It can include an intention-revealing function (call it isFlagged) to hide the magic num- bers. It results in a new version of the function:
 
 	public List<Cell> getFlaggedCells() {
-		List<Cell> flaggedCells = new ArrayList<Cell>(); 
+		List<Cell> flaggedCells = new ArrayList<Cell>();
 		for (Cell cell : gameBoard)
 			if (cell.isFlagged())
 				flaggedCells.add(cell);
-		return flaggedCells; 
+		return flaggedCells;
 	}
 
 #### Avoid Disinformation
@@ -180,7 +180,7 @@ public static String testableHtml(
 	WikiPage wikiPage = pageData.getWikiPage();
 	StringBuffer buffer = new StringBuffer();
 	if (pageData.hasAttribute("Test")) {
-		if (includeSuiteSetup) { 
+		if (includeSuiteSetup) {
 			WikiPage suiteSetup =
 				PageCrawlerImpl.getInheritedPage( SuiteResponder.SUITE_SETUP_NAME, wikiPage
 			);
@@ -188,16 +188,16 @@ public static String testableHtml(
 			WikiPagePath pagePath = suiteSetup.getPageCrawler().getFullPath(suiteSetup);
 			String pagePathName = PathParser.render(pagePath);
 			buffer.append("!include -setup .").append(pagePathName) .append("\n");
-		} 
+		}
 	}
 	WikiPage setup = PageCrawlerImpl.getInheritedPage("SetUp", wikiPage);
-	
+
 
 Clusterfuck.
 
 >Refactored
 
-	public static String renderPageWithSetupsAndTeardowns( 
+	public static String renderPageWithSetupsAndTeardowns(
 		PageData pageData, boolean isSuite
 	) throws Exception {
 		boolean isTestPage = pageData.hasAttribute("Test");
@@ -209,10 +209,10 @@ Clusterfuck.
 			includeTeardownPages(testPage, newPageContent, isSuite);
 			pageData.setContent(newPageContent.toString());
 		}
-		return pageData.getHtml(); 
+		return pageData.getHtml();
 	}
 
-Unless you are a student of FitNesse, you probably don’t understand all the details. Still, you probably understand that this function performs the inclusion of some setup and teardown pages into a test page and then renders that page into HTML. If you are familiar with JUnit,2 you probably realize that this function belongs to some kind of Web-based testing framework. And, of course, that is correct. 
+Unless you are a student of FitNesse, you probably don’t understand all the details. Still, you probably understand that this function performs the inclusion of some setup and teardown pages into a test page and then renders that page into HTML. If you are familiar with JUnit,2 you probably realize that this function belongs to some kind of Web-based testing framework. And, of course, that is correct.
 
 #### Small!
 
@@ -268,7 +268,7 @@ My general rule for switch statements is that they can be tolerated if they appe
 					return new SalariedEmploye(r);
 				default:
 					throw new InvalidEmployeeType(r.type);
-			} 
+			}
 		}
 	}
 
@@ -293,7 +293,7 @@ Output arguments are harder to understand than input arguments. When we read a f
 2 Reasons:
 
 - Asking a question: `boolean fileExists("myFile")`.
-- Operating on that argument, transforming it into something else and returning it. Ex: `InputStream fileOpen("MyFile")` transforms a file name `String` into an `InputStream` return value. 
+- Operating on that argument, transforming it into something else and returning it. Ex: `InputStream fileOpen("MyFile")` transforms a file name `String` into an `InputStream` return value.
 
 Choose names that make the distinction clear, and always use the two forms in a consistent context.
 
@@ -305,7 +305,7 @@ Split `render(boolean isSuite)` into `renderForSuite()` and `renderForSingleTest
 
 #### Dyadic Functions
 
-`writeField(name)` is easier to understand than `writeField(output-Stream, name)`. 
+`writeField(name)` is easier to understand than `writeField(output-Stream, name)`.
 
 Though the meaning of both is clear, the first glides past the eye, easily depositing its meaning. The second requires a short pause until we learn to ignore the first parameter. And that, of course, eventually results in problems because we should never ignore any part of code. The parts we ignore are where the bugs will hide.
 
@@ -372,7 +372,7 @@ Imagine this from the point of view of the reader. What does it mean? Is it aski
 
 The author intended set to be a verb, but in the context of the if statement it feels like an adjective. So the statement reads as “If the username attribute was previously set to unclebob” and not “set the username attribute to unclebob and if that worked then. . . .” We could try to resolve this by renaming the set function to setAndCheckIfExists, but that doesn’t much help the readability of the if statement. The real solution is to separate the command from the query so that the ambiguity cannot occur.
 
-	if (attributeExists("username")) { 
+	if (attributeExists("username")) {
 		setAttribute("username", "unclebob");
 	}
 
@@ -390,18 +390,18 @@ On the other hand, if you use exceptions instead of returned error codes, then t
 		configKeys.deleteKey(page.name.makeKey());
 	}
 	catch (Exception e) {
-		logger.log(e.getMessage()); 
+		logger.log(e.getMessage());
 	}
 
 #### Extract Try/Catch Blocks
 
-	public void delete(Page page) { 
+	public void delete(Page page) {
 		try {
-			deletePageAndAllReferences(page); 
+			deletePageAndAllReferences(page);
 		}
-		catch (Exception e) { 
+		catch (Exception e) {
 			logError(e);
-		} 
+		}
 	}
 
 	private void deletePageAndAllReferences(Page page) throws Exception {
@@ -488,14 +488,14 @@ It takes only a few seconds of thought to explain most of your intent in code. I
 #### Good Comments
 
 - Legal Comments (Copyright)
-- Informative Comments 
+- Informative Comments
 
 		// Returns an instance of the Responder being tested.
 		protected abstract Responder responderInstance();
 
 	Better to just use a good function name here.
 
-		// format matched kk:mm:ss EEE, MMM dd, yyyy 
+		// format matched kk:mm:ss EEE, MMM dd, yyyy
 		Pattern timeMatcher = Pattern.compile(
 		"\\d*:\\d*:\\d* \\w*, \\w* \\d*, \\d*");
 
@@ -507,11 +507,11 @@ It takes only a few seconds of thought to explain most of your intent in code. I
 
 #### Bad Comments
 
-- Mumbling: If you decide to write a comment, then spend the time necessary to make sure it is the best comment you can write. 
+- Mumbling: If you decide to write a comment, then spend the time necessary to make sure it is the best comment you can write.
 - Redundant Comments
 - Mandated Comments: It is just plain silly to have a rule that says that every function must have a javadoc, or every variable must have a comment. Comments like this just clutter up the code, propa- gate lies, and lend to general confusion and disorganization.
 - Journal Comments
-- Noise Comments: `Default constructor`, `The day of the month`, 
+- Noise Comments: `Default constructor`, `The day of the month`,
 
 Don’t Use a Comment When You Can Use a Function or a Variable.
 
@@ -567,7 +567,7 @@ Function Headers: Short functions don’t need much description. A well-chosen n
 			// initialize array to true. for (i = 0; i < s; i++)
 			f[i] = true;
 
-			// get rid of known non-primes 
+			// get rid of known non-primes
 			f[0] = f[1] = false;
 
 			// sieve
@@ -576,7 +576,7 @@ Function Headers: Short functions don’t need much description. A well-chosen n
 				if (f[i]) // if i is uncrossed, cross its multiples.{
 					for (j = 2 * i; j < s; j += i)
 						f[j] = false; // multiple is not prime
-				} 
+				}
 			}
 
 			// how many primes are there? int count = 0;
@@ -589,26 +589,26 @@ Function Headers: Short functions don’t need much description. A well-chosen n
 
 			// move the primes into the result
 			for (i = 0, j = 0; i < s; i++){
-				if (f[i]) 
+				if (f[i])
 					primes[j++] = i;
 			}
 
 			// if prime
-			return primes; // return the primes 
+			return primes; // return the primes
 			}
 			else // maxValue < 2
 			return new int[0]; // return null array if bad input.
-		} 
+		}
 	}
 
 #### Refactored Version
 
 	/**
 	 * This class Generates prime numbers up to a user specified
-	 * maximum. The algorithm used is the Sieve of Eratosthenes. 
+	 * maximum. The algorithm used is the Sieve of Eratosthenes.
 	 * Given an array of integers starting at 2:
 	 * Find the first uncrossed integer, and cross out all its
-	 * multiples. Repeat until there are no more multiples 
+	 * multiples. Repeat until there are no more multiples
 	 * in the array.
 	 */
 
@@ -620,9 +620,9 @@ Function Headers: Short functions don’t need much description. A well-chosen n
 			if (maxValue < 2)
 				return new int[0];
 			else {
-				uncrossIntegersUpTo(maxValue); 
-				crossOutMultiples(); 
-				putUncrossedIntegersIntoResult(); 
+				uncrossIntegersUpTo(maxValue);
+				crossOutMultiples();
+				putUncrossedIntegersIntoResult();
 				return result;
 			}
 	 	}
@@ -630,32 +630,32 @@ Function Headers: Short functions don’t need much description. A well-chosen n
 	 	private static void uncrossIntegersUpTo(int maxValue) {
 			crossedOut = new boolean[maxValue + 1];
 			for (int i = 2; i < crossedOut.length; i++)
-				crossedOut[i] = false; 
+				crossedOut[i] = false;
 		}
 
 		private static void crossOutMultiples() {
-			int limit = determineIterationLimit(); 
+			int limit = determineIterationLimit();
 			for (int i = 2; i <= limit; i++)
 				if (notCrossed(i))
 					crossOutMultiplesOf(i);
 		}
 
 		private static int determineIterationLimit() {
-			// Every multiple in the array has a prime factor that 
-			// is less than or equal to the root of the array size, 
-			// so we don't have to cross out multiples of numbers 
+			// Every multiple in the array has a prime factor that
+			// is less than or equal to the root of the array size,
+			// so we don't have to cross out multiples of numbers
 			// larger than that root.
 			double iterationLimit = Math.sqrt(crossedOut.length);
-			return (int) iterationLimit; 
+			return (int) iterationLimit;
 		}
 
 		private static void crossOutMultiplesOf(int i) {
 			for (int multiple = 2*i; multiple < crossedOut.length; multiple += i)
-				crossedOut[multiple] = true; 
+				crossedOut[multiple] = true;
 		}
 
 		private static boolean notCrossed(int i) {
-			return crossedOut[i] == false; 
+			return crossedOut[i] == false;
 		}
 
 		private static void putUncrossedIntegersIntoResult() {
@@ -668,10 +668,10 @@ Function Headers: Short functions don’t need much description. A well-chosen n
 		private static int numberOfUncrossedIntegers() {
 			int count = 0;
 			for (int i = 2; i < crossedOut.length; i++)
-				if (notCrossed(i)) 
+				if (notCrossed(i))
 					count++;
-			
-			return count; 
+
+			return count;
 		}
 	}
 
@@ -697,7 +697,7 @@ A newspaper is composed of many articles; most are very small. Some are a bit la
 
 #### Variable Declarations
 
-Variables should be declared as close to their usage as possi- ble. In rare cases a variable might be declared at the top of a block or just before a loop in a long-ish function. 
+Variables should be declared as close to their usage as possi- ble. In rare cases a variable might be declared at the top of a block or just before a loop in a long-ish function.
 
 Instance variables, on the other hand, should be declared at the top of the class. This should not increase the vertical distance of these variables, because in a well-designed class, they are used by many, if not all, of the methods of the class.
 
@@ -724,7 +724,7 @@ Don't break the indentation for short `if`, `while`, or short functions, you pro
 #### Data Abstraction
 
 > Concrete Point
-	
+
 	public class Point{
 		public double x;
 		public double y;
@@ -752,7 +752,7 @@ Consider Listing 6-3 and Listing 6-4. The first uses concrete terms to communica
 > Concrete Vehicle
 
 	public interface Vehicle {
-		double getFuelTankCapacityInGallons(); 
+		double getFuelTankCapacityInGallons();
 		double getGallonsOfGasoline();
 	}
 
@@ -832,8 +832,8 @@ The seemingly small SuperDashboard class in Listing 10-2 has two reasons to chan
 Trying to identify responsibilities (reasons to change) often helps us recognize and create better abstractions in our code. We can easily extract all three SuperDashboard methods that deal with version information into a separate class named Version.
 
 	public class Version {
-		public int getMajorVersionNumber() 
-		public int getMinorVersionNumber() 
+		public int getMajorVersionNumber()
+		public int getMinorVersionNumber()
 		public int getBuildNumber()
 	}
 
@@ -879,17 +879,17 @@ Three Responsibilities
 	}
 
 	public class CreateSql extends Sql {
-		public CreateSql(String table, Column[] columns) 
+		public CreateSql(String table, Column[] columns)
 		@Override public String generate()
 	}
 
 	public class SelectSql extends Sql {
-		public SelectSql(String table, Column[] columns) 
+		public SelectSql(String table, Column[] columns)
 		@Override public String generate()
 	}
 
 	public class InsertSql extends Sql {
-		public InsertSql(String table, Column[] columns, Object[] fields) 
+		public InsertSql(String table, Column[] columns, Object[] fields)
 		@Override public String generate()
 		private String valuesList(Object[] fields, final Column[] columns)
 	}
@@ -904,7 +904,7 @@ Dependencies upon concrete details create challenges for testing our system. If 
 
 Instead of designing Portfolio so that it directly depends upon TokyoStockExchange, we create an interface, StockExchange, that declares a single method:
 
-	public interface StockExchange { 
+	public interface StockExchange {
 		Money currentPrice(String symbol);
 	}
 
@@ -913,7 +913,7 @@ We design TokyoStockExchange to implement this interface. We also make sure that
 	public Portfolio {
 		private StockExchange exchange;
 		public Portfolio(StockExchange exchange) {
-			this.exchange = exchange; 
+			this.exchange = exchange;
 		}
 		...
 	}
@@ -928,13 +928,13 @@ __Instead of being dependent upon the implementation details of the TokyoStock- 
 
 ## Systems
 
-First, consider that construction is a very different process from use. 
+First, consider that construction is a very different process from use.
 
 _Software systems should separate the startup process, when the application objects are constructed and the dependencies are “wired” together, from the runtime logic that takes over after startup._
 
 Unfortunately, most applications don’t separate this concern. The code for the startup process is ad hoc and it is mixed in with the runtime logic. Here is a typical example:
 
-	public Service getService() { 
+	public Service getService() {
 		if (service == null)
 			service = new MyServiceImpl(...); // Good enough default for most cases?
 		return service;
