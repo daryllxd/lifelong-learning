@@ -169,11 +169,11 @@ In controllers we want high level touch-points to our domain-model code. The mor
 
 Patterns:
 
-1. Find a domain resource and call a method on it 
+1. Find a domain resource and call a method on it
 
 		class PersonController < ApplicationController
 		  def discombobulate
-		    @person = Person.find(params[:id]) 
+		    @person = Person.find(params[:id])
 		    @person.confuse
 		  end
 		end
@@ -296,6 +296,89 @@ It's a given that if you start to build up an unmanageable number of modules in 
 	end
 
 Possible to separate that shit out too.
+
+
+
+
+
+
+## [Put chubby models on a diet with concerns](http://37signals.com/svn/posts/3372-put-chubby-models-on-a-diet-with-concerns)
+
+Different models in your Rails application will often share a set of cross-cutting concerns. In Basecamp, we have almost forty such concerns with names like Trashable, Searchable, Visible, Movable, Taggable.
+
+These concerns encapsulate both data access and domain logic about a certain slice of responsibility.Q
+
+		module Taggable
+		  extend ActiveSupport::Concern
+
+		  included do
+		    has_many :taggings, as: :taggable, dependent: :destroy
+		    has_many :tags, through: :taggings
+		  end
+
+		  def tag_names
+		    tags.map(&:name)
+		  end
+		end
+
+		# current_account.posts.visible_to(current_user)
+		module Visible
+		  extend ActiveSupport::Concern
+
+		  module ClassMethods
+		    def visible_to(person)
+		      where \
+		        "(#{table_name}.bucket_id IN (?) AND
+		          #{table_name}.bucket_type = 'Project') OR
+		         (#{table_name}.bucket_id IN (?) AND
+		          #{table_name}.bucket_type = 'Calendar')",
+		        person.projects.pluck('projects.id'),
+		        calendar_scope.pluck('calendars.id')
+		    end
+		  end
+		end
+
+Concerns are also a helpful way of extracting a slice of model that doesn’t seem part of its essence (what is and isn’t in the essence of a model is a fuzzy line and a longer discussion) without going full-bore Single Responsibility Principle and running the risk of ballooning your object inventory.
+
+		module Dropboxed
+		  extend ActiveSupport::Concern
+
+		  included do
+		    before_create :generate_dropbox_key
+		  end
+
+		  def rekey_dropbox
+		    generate_dropbox_key
+		    save!
+		  end
+
+		  private
+		    def generate_dropbox_key
+		      self.dropbox_key = SignalId::Token.unique(24) do |key|
+		        self.class.find_by_dropbox_key(key)
+		      end
+		    end
+		end
+
+This approach to breaking up domain logic into concerns is similar in some ways to the DCI notion of Roles. It doesn’t have the run-time mixin acrobatics nor does it have the “thy models shall be completely devoid of logic themselves” prescription, but other than that, it’ll often result in similar logic extracted using similar names.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
