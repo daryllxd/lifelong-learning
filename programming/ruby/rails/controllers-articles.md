@@ -1,19 +1,50 @@
 ## [So What, Exactly, Is the Purpose of a Rails Controller?](http://techiferous.com/2013/04/so-what-exactly-is-the-purpose-of-a-rails-controller/)
 
-The Controller Is a Translator.
+Receive and HTTP request, translate it to something the app understands. Not your job to make the HTML. You just make the HTTP.
 
-To fully understand this, it helps to have a good grasp on what the model layer in a Rails app actually is. It’s not just a collection of classes that interface with the database. It’s the entire brains of your application. All of the domain concepts, logic and behavior live in the model layer.
+Controller/view are interfaces to the app. Model layer has domain concepts, logic, behavior. Just call commands on the model layer.
 
-In fact, I find it useful to sometimes refer to the model layer as “the application”. This emphasizes the fact that everything that your application does happens there. Controllers and views simply serve as an interface to “the application”.
+## [Object Oriented Rails – Writing better controllers](http://pivotallabs.com/object-oriented-rails-writing-better-controllers/)
 
-So the controller doesn’t actually do the work; it delegates. It receives an HTTP request (in a convenient Ruby form, of course) and translates it into a command the application can understand.
 
-For example, if a POST request comes in with some parameters, a controller will translate this into the language of the application by creating a new ActiveRecord object and calling save on it.
+> Horrible
 
-Often, controllers will try to do too much. But a controller should pretty much only be calling one command on the model layer. It shouldn’t be instantiating two or three different ActiveRecord objects and orchestrating them.
+    class RegistrationController < ApplicationController
+      def create
+        user = User.where(username: params[:username]).first
+        user ||= User.new.tap do |new_user|
+          new_user.username = params[:username]
+          new_user.save!
+        end
+        render json: user
+      end
+    end
 
-The controller also translates the results of your application to the language of HTTP. Often this is simply a 200 OK with HTML. Notice that it’s not the responsibility of the controller to construct the HTML, just the HTTP.
+    class User
+      validates_uniqueness_of :username
+    end
 
-The Controller Is a Security Guard. 
 
-The second responsibility of a controller is authorization. Based on the incoming HTTP request, it decides whether to pass the action on to the model layer or deny the request.
+> Logic does not belong to a controller. Nearly impossible to test this without having a ton of stubs and mocks. Good indicator of doing it wrong: `User.any_instance` in your specs.
+
+    class User
+      validates_uniqueness_of :username
+
+      def self.register(username)
+        user = User.where(username: username).first
+        user ||= User.new.tap do |new_user|
+          new_user.username = username
+          new_user.save!
+        end
+      end
+    end
+
+    class RegistrationController < ApplicationController
+      def create
+        user = User.register(params[:username])
+        render json: user
+      end
+    end
+
+
+
