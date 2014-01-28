@@ -17,14 +17,13 @@ Easier to test because of the entry point thingie.
 
 
 ## DHH
-
-I was interested in buulding something. The fact that I need to builded to build something and I don't have a tool for it. We build these applications and we see "which of these are things I would like to not do again."
+ We build these applications and we see "which of these are things I would like to not do again."
 
 Good frameworks are extractions, not inventions.
 
 "What would someone, somewhere, might want to do?" This development style sucks. We can't just "build tools." I didn't want something to be built by somebody who was asked to build tools for me. This often doesn't match the real world.
 
-I'll just focus on making Rails as the perfect framework for making Basecamp. Even though the stuff that Basecamp does can also be done with other stuff. WHen I'm super fucking annoyed, that's when I have to make it.
+I'll just focus on making Rails as the perfect framework for making Basecamp. Even though the stuff that Basecamp does can also be done with other stuff. When I'm super fucking annoyed by something though, that's when I have to make it.
 
 I've been working in Rails for 10 years now. The Rails code I'm looking at today is very similar to the Rails code I had when I was making it.
 

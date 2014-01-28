@@ -19,17 +19,6 @@
 
 ## [21 Ruby Tricks You Should Be Using In Your Code](http://www.rubyinside.com/21-ruby-tricks-902.html)
 
-1. Extract Regex matches quickly: Instead of `email.match`, try `email[]`.
-
-2. Shortcut for Array#join: When given a string as an argument, Array#* does a join! `#w{this is a test} * ", "`
-
-3. Format decimal amounts quickly: Use a formatting interpolation (`"$.2f" % money`).
-
-4. Fast interpolate
-
-		x = %w{p hello p}
-		"<%s\>%s</%s\>" % x => "<p\>hello</p\>"
-
 5. Use 'and' and 'or' to group operators.
 
 		queue = []

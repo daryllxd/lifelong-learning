@@ -1,5 +1,3 @@
-
-
 Helper - single unit of display. Partial - Complex unit of display (grid or menu).
 
 Partial: View fragment, useful in many places and is pulled out to remove duplication.

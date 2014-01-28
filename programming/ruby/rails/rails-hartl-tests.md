@@ -138,6 +138,35 @@
       it { should_not have_link('Sign in', href: signin_path) }
     end
 
+> Make sure flash works over the next page.
+
+    describe "after visiting another page" do
+      before { click_link "Home" }
+      it { should_not have_selector('div.alert.alert-error') }
+    end
+
+## Remember token
+
+> spec/models/user_spec.rb
+
+    describe User do
+
+      before do
+        @user = User.new(name: "Example User", email: "user@example.com",
+                         password: "foobar", password_confirmation: "foobar")
+      end
+
+      subject { @user }
+
+      describe "remember token" do
+        before { @user.save }
+        its(:remember_token) { should_not be_blank }
+      end
+    end
+
+    # Keyword its
+    its(:remember_token) { should_not be_blank }
+    it { expect(@user.remember_token).not_to be_blank }
 
 
 

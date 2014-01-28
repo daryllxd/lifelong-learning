@@ -47,9 +47,14 @@ Paperclip or carrierwave.
 		match '/signin',  to: 'sessions#new',         via: 'get'
 		match '/signout', to: 'sessions#destroy',     via: 'delete' # via delete so DELETE request
 
+By default, all helpers are available in the views but not in the controllers.
 
+Cool helperz.
+		
+		5.years.from.now
+		5.megabytes
 
-
+Assignment functions - read!
 
 
 

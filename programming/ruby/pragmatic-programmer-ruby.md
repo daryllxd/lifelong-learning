@@ -376,87 +376,76 @@ Read this shit later.
 
 ## Chapter 6: More about Methods
 
-?: for querying
+Starts with a small letter. If you start with a big letter Ruby will first guess that it is a constant.
 
-!: dangerous, or modify the receiver.
+`?`: for querying
 
-Variable length argument lists have *
-def varargs(arg1, *rest)
-	“Got #{arg1} and #{rest.join(‘, ‘)}”
-end
+`!`: dangerous, or modify the receiver. `chop!` edits in place, `chop` returns a new string.
 
-If the last parameter in a method definition is prefixed with an ampersand, any associated block is converted to a Proc, and that object is assigned to the parameter.
+#### Variable length argument lists have *
 
-  class TaxCalculator
-    def initialize(name, &block)
-      @name, @block = name, block 
+    def varargs(arg1, *rest)
+    	“Got #{arg1} and #{rest.join(‘, ‘)}”
     end
 
-    def get_tax(amount) 
-      "#@name on #{amount} = #{ @block.call(amount) }"
-    end 
-  end
+#### Convert last arg to block with the `&` symbol.
 
-tc = TaxCalculator.new("Sales tax") {|amt| amt * 0.075 } tc.get_tax(100) → "Sales tax on 100 = 7.5"
-tc.get_tax(250) → "Sales tax on 250 = 18.75"
+    class TaxCalculator
+      def initialize(name, &block)
+        @name, @block = name, block 
+      end
 
-Possible to return multiple parameters
-def meth_three
-     100.times do |num|
-       square = num*num
-return num, square if square > 1000 
-end
-end 
-meth_three → [32, 1024]
-num, square = meth_three 
-num → 32 square → 1024
+      def get_tax(amount) 
+        "#@name on #{amount} = #{ @block.call(amount) }"
+      end 
+    end
 
-Expanding arrays, possible using the * operator
-five(1, 2, 3, *[‘a’, ‘b’]) -> “1 2 3 a b”
+    tc = TaxCalculator.new("Sales tax") {|amt| amt * 0.075 } tc.get_tax(100) → "Sales tax on 100 = 7.5"
+    tc.get_tax(250) → "Sales tax on 250 = 18.75"
 
-Lambda arguments to make the code cleaner
-print "(t)imes or (p)lus: "
-times = gets
-print "number: "
-number = Integer(gets)
-if times =~ /^t/
-calc = lambda {|n| n*number }
-else
-      	calc = lambda {|n| n+number }
-end 
-puts((1..10).collect(&calc).join(", "))
-Chapter 7: Expressions
+#### Calling a method
 
-Modify indexing operator:
-class Song
-def [](from_time, to_time) result = Song.new(self.title + " [extract]",
-                          self.artist,
-                          to_time - from_time)
-        result.set_start_time(from_time)
-result end
-end
-Assignment
+> Receiver, name, (optionaL) params, (optional) block
 
-An assignment sets the value of the variable or the attribute on the left to refer to the variable or the attribute to the right.
-a=b=1+2+3 
-a→6 b→6 
-a = (b = 1 + 2) + 3 a→6 b→3
+    connection.download_MP3("jitterbug") {|p| show_progress(p) }
 
-If assigning to a variable or constant, no worries.
+Omitting the receiver defaults to `self`.
+
+## Lambda arguments to make the code cleaner
+
+    print "(t)imes or (p)lus: "
+    times = gets
+    print "number: "
+    number = Integer(gets)
+
+    if times =~ /^t/
+      calc = lambda {|n| n*number }
+    else
+      calc = lambda {|n| n+number }
+    end 
+
+    puts((1..10).collect(&calc).join(", "))
+
+## Chapter 7: Expressions
+
+#### Assignment
 
 If assigning to an object or element reference, the forms are special because they are methods, and they can be overridden.
-class Amplifier
-      def volume=(new_volume)
-self.left_channel = self.right_channel = new_volume 
-end
-end
+
+    class Amplifier
+        def volume=(new_volume)
+          self.left_channel = self.right_channel = new_volume 
+        end
+    end
 
 Ruby assignments are effectively performed in parallel, so the values assigned are not affected by the assignment itself.
-a, b = b, a
+    
+    a, b = b, a
 
 The values on the right are evaluated first in the order by which they appear.
-x=0 →0 
-a,b,c = x,(x+=1),(x+=1) → [0,1,2]
+
+    x=0 →0 
+    a,b,c = x,(x+=1),(x+=1) → [0,1,2]
  
  
 
