@@ -38,3 +38,4 @@
     $ rake tmp:clear            # Clear cache?
 
 Custom Rake Tasks: Add a `.rake` extension and place them in `Rails.root/lib/tasks`.
+k

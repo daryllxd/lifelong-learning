@@ -20,4 +20,45 @@
 	config.ru				Used for Rack middleware
 
 
+	$ rails new sample_app --skip-test-unit
+
+> Asset pipeline compatibility. `config/application.rb`
+
+		module SampleApp
+		  class Application < Rails::Application
+		    .
+		    .
+		    .
+		    config.assets.precompile += %w(*.png *.jpg *.jpeg *.gif)
+		  end
+		end
+
+Uniqueness caveat: When you click twice at the same time, you can careate 2 user records. You have to create database indices on the email column, then require that te
+
+Password digest - due to `bcrypt-ruby`.
+
+`debug(params)` if Rails.env.development? for debug goodies.
+
+Paperclip or carrierwave.
+
+		$ rails generate controller Sessions --no-test-framework
+		$ rails generate integration_test authentication_pages
+
+		match '/signin',  to: 'sessions#new',         via: 'get'
+		match '/signout', to: 'sessions#destroy',     via: 'delete' # via delete so DELETE request
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
