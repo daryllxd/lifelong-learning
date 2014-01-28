@@ -1,33 +1,21 @@
 ## Introduction
 
-Test-Driven Development is a developer practice that involves writing tests before writing the code being tested. Begin by writing a very small test for code that does not yet exist. Run the test, and, naturally, it fails. Now write just enough code to make that test pass. 
-
-Once the test passes, observe the resulting design, and refactor any duplication you see.
-
-As a code base increases in size, we find that more attention is con- sumed by the refactoring step. The design is constantly evolving and under constant review, though it is not predetermined. This is emergent design at a granular level and is one of the most significant by-products of Test-Driven Development.
-
-The problem with testing an object’s internal structure is that we’re testing what an object is instead of what it does. What an object does is significantly more important.
-
-Stakeholders don’t usually care that data is being persisted in an ANSI-compliant, relational data- base. They care that it’s in “the database,” but even then, they generally mean is that it’s stored somewhere and they can get it back.
+Bigger code, more time spent on refactoring.
 
 BDD puts the focus on behavior instead of structure, and it does so at every level of development. Whether we’re talking about an object calculating the distance between two cities, another object delegating a search off to a third-party service, or a user-facing screen providing feedback when we provide invalid input, it’s all behavior!
 
-Given, When, Then, the BDD triad, are simple words that we use whether we’re talking about application behavior or object behavior.
-
-RSpec was created by Steven Baker in 2005. Steven had heard about BDD from Aslak Hellesøy, who had been working on a project with Dan North when the idea first came to light. Steven was already inter- ested in the idea when Dave Astels suggested that with languages like Smalltalk and Ruby, we could more freely explore new TDD frameworks that could encourage focus on behavior. And RSpec was born.
-
-We use RSpec to write exe- cutable examples of the expected behavior of a small bit of code in a controlled context. Here’s how that might look:
+`Given`, `When`, `Then`, the BDD triad, are simple words that we use whether we’re talking about application behavior or object behavior.
 
 	describe MovieList do
-        context "when first created" do
-          it "is empty" do
-            movie_list = MovieList.new
-            movie_list.should be_empty
-		end 
-	end
+      context "when first created" do
+        it "is empty" do
+          movie_list = MovieList.new
+          movie_list.should be_empty
+				end
+			end
 	end
 
-The it( ) method creates an example of the behavior of a MovieList, with the context being that the MovieList was just created.
+The `it( )` method creates an example of the behavior of a MovieList, with the context being that the MovieList was just created.
 
 BDD is a full-stack agile methodology. It takes some of its cues from Extreme Programming, including a variation of Accep- tance Test–Driven Development called Acceptance Test–Driven Plan- ning (ATDP).
 

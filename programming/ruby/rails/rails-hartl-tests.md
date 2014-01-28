@@ -168,6 +168,16 @@
     its(:remember_token) { should_not be_blank }
     it { expect(@user.remember_token).not_to be_blank }
 
+## Signing out
+
+> spec/requests/authentication_pages_spec.rb
+
+    describe "followed by signout" do
+      before { click_link "Sign out" }
+      it { should have_link('Sign in') }
+    end
+
+
 
 
 
