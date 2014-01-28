@@ -204,128 +204,128 @@ str * integer -> new_str: returns a new String containing integer copies of the 
  str[regexp, capture]
  str[match_str]
 
-a = "hello there"
-a[] => same as slice. .slice! for in-place editing
-a[2..3] = "ll"
-a[7..-2] = "her"
-a[-4..-2] = "her"
+  a = "hello there"
+  a[] => same as slice. .slice! for in-place editing
+  a[2..3] = "ll"
+  a[7..-2] = "her"
+  a[-4..-2] = "her"
 
-bytezize -> returns length of str in bytes
-"hello".bytesize = 5
+  bytezize -> returns length of str in bytes
+  "hello".bytesize = 5
 
-capitalize, capitalize! = first char to upper case
+  capitalize, capitalize! = first char to upper case
 
-casecmp(other_str): case-insensitive <=>
-"abc".cascmp("ABC") = 0
+  casecmp(other_str): case-insensitive <=>
+  "abc".cascmp("ABC") = 0
 
-str.chars -> returns char array
+  str.chars -> returns char array
 
-str.chomp, str.chomp! -> remove record separators such as newline (at the end of the string)
-"hello\n".chomp => "hello"
-"hello".chomp("llo") => "he"
+  str.chomp, str.chomp! -> remove record separators such as newline (at the end of the string)
+  "hello\n".chomp => "hello"
+  "hello".chomp("llo") => "he"
 
-str.chop!, chop => last char removed
-str.chr => first char of string
-str.clear => empty the string
-str.codepoints => array of the Integer ordinals of the characters in str
+  str.chop!, chop => last char removed
+  str.chr => first char of string
+  str.clear => empty the string
+  str.codepoints => array of the Integer ordinals of the characters in str
 
-alphabet: ("a".."z").to_a * ""
+  alphabet: ("a".."z").to_a * ""
 
-delete: remove all characters in the intersection of the arugments
+  delete: remove all characters in the intersection of the arugments
 
-alphabet = "abcdefghijklmnopqrstuvwxyz"
-alphabet.delete "aeiou" -> removes all vowels
-alphabet.delete "a-g" -> removes a-g
-alphabet.delete! -> in-place deletion
+  alphabet = "abcdefghijklmnopqrstuvwxyz"
+  alphabet.delete "aeiou" -> removes all vowels
+  alphabet.delete "a-g" -> removes a-g
+  alphabet.delete! -> in-place deletion
 
-a.downcase
-a.dump all non-printing characters are replaced
+  a.downcase
+  a.dump all non-printing characters are replaced
 
-a.each_char {|cstr| block} iterate over array
-a.each_codepoint {|c| block} iterate over ascii values
-a.empty? return true if length 0
+  a.each_char {|cstr| block} iterate over array
+  a.each_codepoint {|c| block} iterate over ascii values
+  a.empty? return true if length 0
 
-end_with?
-eql? same length and content
+  end_with?
+  eql? same length and content
 
-gsub(pattern, replacement)
-gsub(pattern, hash)
-gsub(pattern), {|match| block}
-gsub(pattern) -> enumberator
+  gsub(pattern, replacement)
+  gsub(pattern, hash)
+  gsub(pattern), {|match| block}
+  gsub(pattern) -> enumberator
 
-All occurences of pattern are substituted for the second argument
-pwede rin: gsub! (in-place)
+  All occurences of pattern are substituted for the second argument
+  pwede rin: gsub! (in-place)
 
-"hello".gsub(/[aeiou]/, '*')                  #=> "h*ll*"
-"hello".gsub(/([aeiou])/, '<\1>')             #=> "h<e>ll<o>"
-"hello".gsub(/./) {|s| s.ord.to_s + ' '}      #=> "104 101 108 108 111 "
-"hello".gsub(/(?<foo>[aeiou])/, '{\k<foo>}')  #=> "h{e}ll{o}"
-'hello'.gsub(/[eo]/, 'e' => 3, 'o' => '*')    #=> "h3ll*"
+  "hello".gsub(/[aeiou]/, '*')                  #=> "h*ll*"
+  "hello".gsub(/([aeiou])/, '<\1>')             #=> "h<e>ll<o>"
+  "hello".gsub(/./) {|s| s.ord.to_s + ' '}      #=> "104 101 108 108 111 "
+  "hello".gsub(/(?<foo>[aeiou])/, '{\k<foo>}')  #=> "h{e}ll{o}"
+  'hello'.gsub(/[eo]/, 'e' => 3, 'o' => '*')    #=> "h3ll*"
 
-include? check if it's there
-index(substring, offset), index(regexp, offset)
-replace => complete replacement
+  include? check if it's there
+  index(substring, offset), index(regexp, offset)
+  replace => complete replacement
 
-insert(index, other_str), modifies str
-inspect
-intern -> becomes a symbol
-str.lines(separator = $/) -> an array
+  insert(index, other_str), modifies str
+  inspect
+  intern -> becomes a symbol
+  str.lines(separator = $/) -> an array
 
-ljust(int, padstr ='')
-"hello".ljust(4)            #=> "hello"
-"hello".ljust(20)           #=> "hello               "
-"hello".ljust(20, '1234')   #=> "hello123412341234123"
+  ljust(int, padstr ='')
+  "hello".ljust(4)            #=> "hello"
+  "hello".ljust(20)           #=> "hello               "
+  "hello".ljust(20, '1234')   #=> "hello123412341234123"
 
-str.lstrip -> remove the leading whitespace
-str.match(regexp, pos)
-str.succ, str.next => "abc" becomes "abd", etc
-str.oct => treat as octical
-str.ord => convert to Integer
+  str.lstrip -> remove the leading whitespace
+  str.match(regexp, pos)
+  str.succ, str.next => "abc" becomes "abd", etc
+  str.oct => treat as octical
+  str.ord => convert to Integer
 
-str.partition(sep), str.partition(regexp) => [head, sep, tail]
+  str.partition(sep), str.partition(regexp) => [head, sep, tail]
 
-"hello".partition("l")         #=> ["he", "l", "lo"]
-"hello".partition("x")         #=> ["hello", "", ""]
-"hello".partition(/.l/)        #=> ["h", "el", "lo"]
+  "hello".partition("l")         #=> ["he", "l", "lo"]
+  "hello".partition("x")         #=> ["hello", "", ""]
+  "hello".partition(/.l/)        #=> ["h", "el", "lo"]
 
-str.prepend => in-place editing and adding before
-str.reverse => yun
-str.rindex => return last occurence
-str.rjust => justify right
-str.rpartition => start from right yung looking for first occur
-str.rstrip
-str.scan(pattern), str.scan(pattern){|match| block} => str
+  str.prepend => in-place editing and adding before
+  str.reverse => yun
+  str.rindex => return last occurence
+  str.rjust => justify right
+  str.rpartition => start from right yung looking for first occur
+  str.rstrip
+  str.scan(pattern), str.scan(pattern){|match| block} => str
 
-a = "cruel world"
-a.scan(/\w+/)        #=> ["cruel", "world"]
-a.scan(/.../)        #=> ["cru", "el ", "wor"]
-a.scan(/(...)/)      #=> [["cru"], ["el "], ["wor"]]
-a.scan(/(..)(..)/)   #=> [["cr", "ue"], ["l ", "wo"]]
+  a = "cruel world"
+  a.scan(/\w+/)        #=> ["cruel", "world"]
+  a.scan(/.../)        #=> ["cru", "el ", "wor"]
+  a.scan(/(...)/)      #=> [["cru"], ["el "], ["wor"]]
+  a.scan(/(..)(..)/)   #=> [["cr", "ue"], ["l ", "wo"]]
 
-str.squeeze([other_str]), str.squeeze! => returns a new string where runs of the same character are replaced by a single character.
+  str.squeeze([other_str]), str.squeeze! => returns a new string where runs of the same character are replaced by a single character.
 
-"yellow moon".squeeze                  #=> "yelow mon"
-"  now   is  the".squeeze(" ")         #=> " now is the"
-"putters shoot balls".squeeze("m-z")   #=> "puters shot balls"
+  "yellow moon".squeeze                  #=> "yelow mon"
+  "  now   is  the".squeeze(" ")         #=> " now is the"
+  "putters shoot balls".squeeze("m-z")   #=> "puters shot balls"
 
-str.start_with
-str.strip, str.strip!
+  str.start_with
+  str.strip, str.strip!
 
-str.sub(pattern) => replace the first occurence of the pattern 
+  str.sub(pattern) => replace the first occurence of the pattern 
 
-str.swapcase(!) (change cases)
-str.to_c => to complex number
-str.to_f => to float
-str.to_i(base = 10) => to base
-str.to_sym => to symbol
+  str.swapcase(!) (change cases)
+  str.to_c => to complex number
+  str.to_f => to float
+  str.to_i(base = 10) => to base
+  str.to_sym => to symbol
 
-str.tr(!)(from_str, to_str): replace and shit
+  str.tr(!)(from_str, to_str): replace and shit
 
-"hello".tr('el', 'ip')      #=> "hippo"
-"hello".tr('aeiou', '*')    #=> "h*ll*"
-"hello".tr('aeiou', 'AA*')  #=> "hAll*"
-"hello".tr('a-y', 'b-z')    #=> "ifmmp"
-"hello".tr('^aeiou', '*')   #=> "*e**o"
+  "hello".tr('el', 'ip')      #=> "hippo"
+  "hello".tr('aeiou', '*')    #=> "h*ll*"
+  "hello".tr('aeiou', 'AA*')  #=> "hAll*"
+  "hello".tr('a-y', 'b-z')    #=> "ifmmp"
+  "hello".tr('^aeiou', '*')   #=> "*e**o"
 
 str.tr_s(!)(from_str, to_str): drop duplicates
 
@@ -447,140 +447,72 @@ The values on the right are evaluated first in the order by which they appear.
     x=0 →0 
     a,b,c = x,(x+=1),(x+=1) → [0,1,2]
  
- 
+> No auto-increment and auto-decrement operators in Ruby, you have to use the += and == forms instead.
 
-No auto-increment and auto-decrement operators!
-Booleans and If-then
+#### Booleans and If-then
 
-Any value that is not nil or false is true. The number zero, or a zero-length string, is not interpreted as false!
+> Any value that is not nil or false is true. The number zero, or a zero-length string, is not interpreted as false!
 
-Last value is returned, but there are rules
-nil and true → nil
-false and true → false
+    $ nil and true → nil
+    false and true → false
+    99 and false → false
+    99 and nil → nil
+    99 and "cat" → “cat”
+    99 or false → 99
 
-## 99 and false → false
-
-## 99 and nil → nil
-
-## 99 and "cat" → “cat”
+    words[key] ||= []
 
 If and case statements can be super terse:
-if song.artist == "Gillespie": handle = "Dizzy"
 
-leap = case
-       when year % 400 == 0: true
-       when year % 100 == 0: false
-       else year % 4   == 0: true
-	 else			     false
-       end
-
-Range can be a boolean: exp1..exp2 evaluates as false until exp1 becomes true.
-Writing If
-if song.artist == "Gillespie"
-      handle = "Dizzy"
-    elsif song.artist == "Parker"
-      handle = "Bird"
-    else
-      handle = "unknown"
-end
-
-if song.artist == "Gillespie" then handle = "Dizzy"
- elsif song.artist == "Parker" then handle = "Bird"
- else handle = "unknown" 
-end
-
-if song.artist == "Gillespie": handle = "Dizzy" 
-elsif song.artist == "Parker": handle = "Bird" else 
-handle = "unknown"
-end
-
-
-Case Expressions
+    if song.artist == "Gillespie": handle = "Dizzy"
+    elsif song.artist == "Parker": handle = "Bird" 
+    else handle = "unknown"
+    end
 
 Tests are done as: comparison === target.
-leap = case
- when year % 400 == 0: true
- when year % 100 == 0: false
- else year%4 ==0
-end
 
-kind = case year
-       when 1850..1889 then "Blues"
- when 1890..1909 then "Ragtime"
- when 1910..1929 then "New Orleans Jazz"
- when 1930..1939 then "Swing"
- when 1940..1950 then "Bebop"
- else "Jazz"
-end
-
-case 	shape #Polymorphism
-when Square, Rectangle # ...
-when Circle # ...
-when Triangle # ... 
-else # ...
-end
-Loops
-a =1 
-a *= 2 while a<100 
-a -= 10 until a < 100 
-a → 98
-
-Ex: A file has 10 ordinal numbers but prints only the lines starting with the one thatm matches “thirds” and ending with the one that matches “fifth”.
-file = File.open("ordinal")
-while line = file.gets
-puts(line) if line =~ /third/ .. line =~ /fifth/
-end
-
-Syntactic sugar:
-For song in songlist
-	song.play
-end # translates to each
-
-As long as you have an each method that makes sense, you can use a for loop to traverse its objects.
-class Periods
-      def each
-        yield "Classical"
-        yield "Jazz"
-        yield "Rock"
-end 
-end
-
-periods = Periods.new
-    for genre in periods
-      print genre, " "
+    leap = case
+      when year % 400 == 0: true
+      when year % 100 == 0: false
+      else year%4 ==0
     end
-Examples
 
-## 3.times {print “Ho!”}
+#### Case Ranges
+    kind = case year
+            when 1850..1889 then "Blues"
+            when 1890..1909 then "Ragtime"
+             when 1910..1929 then "New Orleans Jazz"
+            when 1930..1939 then "Swing"
+             when 1940..1950 then "Bebop"
+            else "Jazz"
+          end
 
-## 0.upto(9) {|x| print x, “ “}
+#### Case Polymorphism
 
-## 0.step(12, 3) {|x| print x, “ “}
-[1, 1, 2, 3, 5].each {|val| print val, “ “}
-#break terminates the immediately enclosing loop
-#redo = repeats the loop from the start
-#next skips to the end of the loop, starting the next iteration
-Variable Scope, Loops, Blocks
+    case shape 
+      when Square, Rectangle # ...
+      when Circle # ...
+      when Triangle # ... 
+      else # ...
+    end
 
-Normally, the local variables created in these blocks are not accessible outside the block.
+#### Variable Scope, Loops, Blocks
 
-If at the time the block executes a local variable already exists with the same name as that of a variable in the block, the existing local variable will be used in the block. The Ruby interpreter just needs to have seen it.
-if false 
-a=1
-end
-    3.times {|i| a = i }
-a→2
- 
+`loop` and `each`: Normally, the local variables created in these blocks are not accessible outside the block.
+
+If at the time the block executes a local variable already exists with the same name as that of a variable in the block, _the existing local variable will be used in the block_. The Ruby interpreter just needs to have seen it.
+
+    x = nil
+    y = nil
+    [ 1, 2, 3].each do |x|
+      y = x + 1
+    end
+    [ x, y ] -> [ 3, 4 ]
 
 ## 8.1: Exceptions, Catch and Throw
 
-
-
-
-
- 
-
 ## 9.1: Modules
+
 Namespaces
 
 Modules define a namespace, a sandbox in which your methods and constants can play without having to worry about being stepped on by other methods and constants.
