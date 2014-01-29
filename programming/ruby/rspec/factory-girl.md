@@ -3,7 +3,7 @@
     gem "factory_girl_rails", "~> 4.0"
     gem "factory_girl", "~> 4.0"
 
-> Set it up on rspec and cucumber, so no more `FactoryGirl.something`.
+#### Set it up on rspec and cucumber, so no more `FactoryGirl.something`.
 
     # rspec
     RSpec.configure do |config|
@@ -13,7 +13,9 @@
     # Cucumber (Just paste this in the env.rb file)
     World(FactoryGirl::Syntax::Methods)
 
-> Defining factories: Each factory has a name and set of attributes. The name is used to guess the class of the object by default, but it's possible to explicitly specify it.
+#### Defining factories.
+
+Each factory has a name and set of attributes. The name is used to guess the class of the object by default, but it's possible to explicitly specify it.
 
     # This will guess the User class
     FactoryGirl.define do
@@ -31,7 +33,7 @@
       end
     end
 
-> Using factories
+#### Using factories
 
     # Returns a User instance that's not saved
     user = build(:user)
@@ -50,7 +52,7 @@
       user.posts.create(attributes_for(:post))
     end
 
-> Lazy attributes: By default, the attrs are static. Dynamically generated attributes need values assigned by passing a block in.
+#### Lazy attributes: By default, the attrs are static. Dynamically generated attributes need values assigned by passing a block in.
 
     factory :user do
       # ...
@@ -58,7 +60,12 @@
       date_of_birth   { 21.years.ago }
     end
 
+## Rails Testing — Factory Girl
 
+#### Why use Factory Girl?
+
+- Tests become easier to maintain when you can request a model instance that is always current.
+- 
 
 
 

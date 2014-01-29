@@ -658,15 +658,112 @@ Exploratory testing is a practice in which we discover the behavior of an applic
 
 Perhaps you’re wondering why we’d want to do exploratory testing if we’ve already tested the app. Well, we haven’t. Remember that BDD is a design practice, not a testing practice. We’re using executable exam- ples of how we want the application to behave. But just as Big Design Up Front fails to allow for discovery of features and designs that nat- urally emerge through iterative development, driving out behavior with examples fails to unearth all of the corner cases that we’ll naturally discover by simply using the software.
 
-## Feeding Back What We’ve Learned
+# Part II - Behaviour-Driven Development
 
-One issue you may have encountered is the way in which the Marker handles duplicate matches. If the secret code is 1234 and the guess is 1155, we get a mark of +-.
+## The Case for BDD
 
-t’s tempting, when this sort of question comes up, to make assump- tions about how things should work. Fight that temptation! This is exactly what Cucumber is for. We can sit down with the customer and sketch out some scenarios and talk about them. Cucumber’s simple use of Given, When, Then is a great facilitator for this sort of conversa- tion. And in our case, our use of Cucumber’s scenario outlines makes it even easier.
+> The Agile Manifesto
 
-We could modify the design such that we keep track of each number in the secret code and disqualify it for future matches once it’s been matched, but that would require returning to the more procedural approach we left behind in the previous chapter.
+> We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 
-Algorithmically, we can just start from the end and work backwards. So we count the total matches and get less the exact match count.
+> 
+  - Individuals and interactions over processes and tools
+  - Working software over comprehensive documentation 
+  - Customer collaboration over contract negotiation
+  - Responding to change over following a plan
+	
+Tiny, one- or two-week iterations or mini-projects, using a small, fixed-size team. It would be easy to calculate the project budget then.
+
+We need: Reasonable guess on project size and feature (not module) prioritization.
+
+Because we have stuff coming every 2 weeks, we don't have 'database schema iteration' or 'middleware iteration.'
+
+Client sees new features coming in, and changes are still fresh in the devs' minds.
+
+No longer unstable in production, because we deliver every iteration. App servers are configured, initialized; database schemas are automatically updated; code is automatically built, assembled, and deployed; tests are automatically exectured.
+
+After the first iteration, the team is in maintenance mode.
+
+#### Challenges of Agile
+
+- We need to accept that the fine details of the requirements are bound to change, and that's okay.
+- Instead of one-shot, requirements have to be streamlined.
+- Design and existing code is bound to change. The Agile process requries us to keep revisiting the same code as we evolve it to do new things.
+- Integration test/continuous integration.
+- Continuous regression testing.
+- Everyone sits beside each other.
+
+## Writing Software that Matters
+
+> Behaviour-Driven Development is about implementing an application by describing its behavior from the perspective of its stakeholders.
+
+#### Three principles of BDD:
+
+1. __Enough is enough.__ Don't automate everything.
+2. __Deliver stakeholder value.__ Stop doing stuff that doesn't have value.
+3. __It’s all behavior.__ Whether at the code level, the application level, or beyond, we can use the same thinking and the same linguistic constructs to describe behavior at any level of granularity.
+
+#### SMART outcomes
+
+1. __Specfic.__ There is enough detail to know that something is done.
+2. __Measurable.__ You can determine whether the objective was reached.
+3. __Achievable.__ You reduce unrealistic expectations.
+4. __Relevant.__ Clear, concise reporting.
+5. __Timeboxed.__ We know when to call time if we haven't achieved a routine.
+
+#### Stories vs. Features
+
+A feature is somethign that delivers cohesive value to a stakeholder. A story is a piece of demonstrable functionality that shouldn't take a few days to implement.
+
+We can separate the "edge cases" out with a different story. Ex: Verifying email addresses, maybe you don't have time to test EVERY. SINGLE. THING.
+
+#### The Cycle of Delivery
+
+1. Stakeholder discusses requirements with business analysts. Use features and stories.
+2. Create stories for the users. What does _done_ look like?
+3. Devs will code enough to satisfy the agreed scenarios, and _no more_.
+3. Automate the scenarios where it makes sense to do so. Cuke helps here.
+4. A handful of stories (1 week) is an _iteration_.
+
+#### What's in a Story?
+
+- __A title__ so we know which story we are talking about.
+- __A narrative__ that tells us what this story is about. It shold have _a stakeholder_, a description of the _feature_ they want, and the reason they want it--the _benefit_ they expect to gain.
+
+	_As a [stakeholder], I want [feature] so that [benefit]._
+
+- __Acceptance criteria__ so we know when we are done. This takes the form of a number of _scenarios_ made up of individual _steps_.
+
+# Part III - RSpec
+
+## Code Examples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
