@@ -326,6 +326,195 @@ It's doing good, helping people achieve their dreams; and if you talk to entrepr
 
 Four P's. Planning for growth. Processes. Prioritization and pace. 
 
+## 3.1
+
+Planning, prioritization, pace and processes.
+
+You learned that to basically be very good in business, you've gotta take care of customers and have operational excellence, and have high employee engagement. It's not just about money. Money is the result of lots of other things.
+
+Smart growth emphasizes what, ladies and gentleman? That you need to respect
+the power of growth, and you need to grow smartly.
+
+You have to, basically, approach growth with planning and thinking about, what do I need to do? How do I control it? How do I make sure my customers are not going to experience disruption?
+
+What you do when you're growing a business, you, as the entrepreneur, have to got to figure out, what mistakes do I focus on, and how do I teach, not punish? Because in order for people not to make the same mistakes again and again and again, they have to do what? They have to learn.
+
+Running a business is a lot like farming. The research show entrepreneurs, and you know this if you're an entrepreneur, you work longer hours in your own business then you worked when you were working for someone else, because, you can't leave it. 
+
+Managing an entreprenuerial business is constantly choosing which fires to fight, and after you put the fire out, leaving a fire extinguisher behind.
+
+We set up as if we were a large company from the start. If you're planning, ultimately, to get big, maybe you have to do some things in the beginning.
+
+Everyday I take out my piece of paper and I write my to do list, top priority, everyday. The first thing I do everyday, is the thing on the list that I dread the most or don't enjoy the most, or that's the hardest for me to do.
+
+Give yourself an afternoon weekly, sometime, to think about the five critical things going on in your business, and make sure you're focused on the big opportunities or the big problems. I call that firehouse time.
+
+Prioritization. I think this is mission-critical. And you learned, that with Susan Feller, the first thing she had to do was to prioritize her goals. Her goals, her values. And then that allows her to prioritize her growth alternatives.
+
+Don't get involved in all the brush fires. Focused on the thing with the biggest impact, the biggest fire that could do the most harm.
+
+_I do not pay you to get everything done everyday. I pay you to get the most important things done._
+
+Here's the focus statement that we've had before, be two inches wide and two miles deep. Two inches wide, two miles deep. In a high-growth business, it's easy to get spread too thin, trying to be too many things to too many people.
+
+Focus on the one thing you can do better than anyone else, and focus on a way to make it appealing to a big market. Lots of customers. Lots of customers. The big market. 
+
+#### Process
+
+Process is, is the how. So, I get 99% defect-free, on time, quality delivery. as the goal, and I reach it many days.
+
+Processes are what you put in place to prevent errors, mistakes, variance. Okay? Variance. Processes is how you reduce mistakes. 
+
+I do not want a single point of failure. What's that mean? That means, and this entreprenuer who said it, he said, every person, okay, must train someone else to do their job. 
+
+The fire extinguisher. No single point of failure. Trust but verify. The more we focused and said no, the more we grew. Focus on doing one thing very, very well that's got a big market.
+
+## 3.2
+
+Interesting story. 1998. Dave starts his own business, uses $30,000 of his personal savings, and he goes through a process, over the last 23 years, of building a business today, which this year will do $400 million of revenue. 
+
+And Dave concluded, as he looks back on it all, that businesses don't grow unless the people grow. And Dave also concluded, a business doesn't grow unless the entrepreneur grows. What do i mean by that? 
+
+Growth takes more people. More people takes processes and controls. It sort of builds upon each other, okay? And when you have more people, then the entrepreur has to delegate.
+
+So I go from entrepreneur, to manager, to leader, and ultimately, you get to where Dave is now, is you get to be coach and mentor.
+
+Dave learned basically, the principle, alright, of wow, I need to have a repeatable system, that Dave called McDonaldized.
+
+Building a business is like a giant jigsaw puzzle. I gotta have the right processes. I gotta have the right employees. I gotta have the right attitude about customers. I gotta care about customers.
+
+That's what all this process is about. Because he's trained his people in the kitchen, and he's trained his waiters and waitresses, what are the critical things to say and do with every customer. So when they leave they feel that way, that's why this process stuff's important. We call it in business school, operations. Because it all comes in to play about how your costumer feels and whether your customer keeps coming back.
+
+- The entrepreneur's job is to create the process.
+- The manager's job is to ensure the process is used, and used correctly.
+- And the technician, the doer, the employee, the installer in this case, job is to follow the process and use it.
+
+We always remind ourselves, it's not okay to put in place a mom and pop system in place, because that's just going to keep us small forever. A big business is just a small business that got big.
+
+And Dave is saying, put in place the processes that are going to allow you to grow if you choose to grow. Put in good processes, and you're constantly improving processes. And who is the person that will most likely come up with the ideas of how to improve the process and make it better? Your employees.
+
+So make it part of their job descriptions, not only to use the process but to constantly improve the process. Because if you're constantly getting better, faster, and more efficient, you will outrun the bear.
+
+The next thing Dave had to do, was he reached the point where he had to start prioritizing. He had to define his business. Why is this important? Because when you define who you are, that helps you determine what to focus on, and most importantly, what not to do.
+
+Focus is critical in it all. So he had to define himself, so his employees knew, and he defined himself as a home installation product company.
+
+By defining himself as the home installation, he said, I'm not going to do commercial or business installations. I'm going to the residential home owner. And that allowed him, as you read in the case to limit his products, to his limit his spare parts, to limit what his installers had to learn, so that they became very, very good.
+
+Today we still have only 13 part numbers in our inventory room, the same 13 we had ten years ago. We have not added things. Wee kept doing more of the same, better, trying to McDonaldize it. We understood focus as the goal early on, constantly using an A, B, C format to prioritize. 
+
+And at the top of the circle, the circle of life starts with marketing. You gotta do marketing to get sales. Okay? Then once you have sales, you've gotta install. Once you install, you gotta bill and collect. And then you start over.
+
+In Dave's model, everything starts with marketing, and Dave used a bottle-neck priority approach to managing. Where is the bottle-neck? If it's in marketing, Dave is going into marketing, and overseeing it.
+
+What's going on in sales? If I sell a lot, if I get a bottle-neck in installation, you remember in the case, he says they knew where the bottle-neck was by where I showed up everyday.
+
+So everybody understood that everybody is dependent and interdependent on each other. Sales can't sell until they have leads from marketing. Installers can't install until sales are made. Billing and accounts payable and working with the customer, can't happen until it's installed. And unless it's all working, there's no
+money coming in. 
+
+And in order to do this, he also built an infrastructure, on the Defender Advantage, what he called, his culture. And you saw, basically, his whole cultural multi-year program of training and education.
+
+And the sad point that Dave talks about in the case is, as you grow, sometimes your people can't take on more responsibility and they have to stay in the same position, okay? That's difficult in a business, especially when those employees are loyal employees who were there from the beginning and helped build your business, but it's one of the things you're going to have to face as you grow a business.
+
+## 3.3
+
+One of the key things in thinking about and planning your business and planning your growth is visualizing what your company will look like and visualizing the infrastructure.
+
+And by that, what I mean by that is how much spac, what type of furniture, what type of supplies, what type of people? Alright? How you're going to do each business function? How you going to produce whatever you do? How you going to display it? How you going to deliver it? How you going to bill? How you going to collect? How you going to process your money? How you going to keep track of your money?
+
+
+Every little detail, because as you build your business, you'll be building processes which is the infastructure, the wiring, the plumbing of your house, your business. Because, without the right infrastructure, at some point in time, the building will crumble.
+
+If you've got 25 employees I would suggest to you, you've got some managers or team leaders or project leaders, people that are responsible for a group. And usually, as I say, usually organizations are built upon seven to nine people is the most someone can basically manage.
+
+If you build your business big like Dave did, 1500 employees, okay? The direct reports that Dave should have is no more than seven.
+
+Dave, he could manage a sales person, another sales person, he could have one installer, an installer's assistant, and then an admin and an accountant person. That's a simple start-up structure. 
+
+The first one was structure, what I look like? The second one is, what do I need? The third is, what do I do myself versus what do I hire other people to do for me? Most entrepreneurs when they grow business, outsource, hire other people to do it for them.
+
+Payroll processing, accounting, doing the taxes, they outsource HR benefit processing. There's companies that do this. Some people outsource manufacturing. Okay? And we saw, that's what Julie did, but, she figured out how to manage quality control.
+
+In the beginning, Defender Direct outsourced the selling to the telemarketing company. They ended up selling and then the vendor just installed, that ultimately was brought in-house. You can outsource delivery.
+
+Okay? So the questions you got are, whats my structure look like, and what is it? How many people can I manage before I need managers? How do I basically put in place the flexibility, stub my house? And what do I do I do directly versus what I outsource? 
+
+## 3.4
+
+The key question about strategic prioritization is your answer to the 3 W's.
+
+__What am I going to sell?__ Okay? And Dave, remember, kept defining that. He's going to sell stuff that he can install in the home, because he's the worlds best installer in the house.
+
+__To whom?__ Homeowners was Dave's answer. Julie's answer was people over 40 who are losing, if you will, their ability to read without having reading glasses.
+
+__Why is someone going to buy from me?__ Why are they going to buy from me? Is it because of price? Is it because of quality? Is it because they are my brother or sister and they love me? Price, quality or maybe it's the customer
+experience. 
+
+Too many entrepreneurs think it's because I've got the best product or it's the greatest product.
+
+Trash cans are full of good products or good software that people didn't want to buy, that they didn't need compellingly enough, because the entire purpose of your product of service is to solve somebody's problem, to make life easier for them, to meet a specific need, to reduce what the marketing people say, a customer pain point.
+
+What fire do you put out first? Critical decision.
+
+How do you prioritize? What can do the most damage to your business, to your brand, to your reputation, to your customers, and again, we're not talking about health, life, safety.
+
+You don't eat if you don't sell. You don't sell if you don't have a customer. You don't have a customer unless you offer a good service or product. Now, that was her circle of life and that's pretty good.
+
+Yeah, it comes out to the quality. service and product for her, because if I don't have that, I don't have the customer. If I don't have the customer, I don't eat. 
+
+Another entrepreneur said it this way. Set up three or four priorities that take precedence over everything else. Ladies and gentlemen, manage cash flow, focus on customers and quality service, accelerate revenue growth, and all the rest, unless something is on fire, can wait.
+
+So that entrepreneur said, I gotta make sure I can keep the doors open and pay my bills and pay my employees, focus every day on cash flow, know where my cash is. If I don't have happy customers and quality service, I don't have money, right? Revenue growth is more happy customer. Unless something's on fire, it can wait. 
+
+Huddles, daily prioritization. Every day in every Ritz-Carlton Hotel in every city in the world, every shift, there is a huddle. And a huddle is when all the team members come together, all the employees, and every day, there's a discussion, a short discussion of a key principle, or value, or cultural point and they have 30 key points.
+
+Many entrepreneurs have a morning huddle and set priorities. Some entrepreneurs have a morning huddle and an afternoon huddle. Here are the priorities for the day and the afternoon huddle is what worked, what didn't work, what got done, we need to do first thing tomorrow.
+
+Many entrepreneurs, as they grow their business, post daily key performance metrics, so everyone knows what their company or business is doing, what their function is doing, if it's different teams, different production teams, what each team's doing.
+
+## 3.5
+
+What is that checklist? It's a process. You should have checklists for key processes, key actions, key to-dos, key ways of doing things in your business that people can check off.
+
+And yes, you start out as the entrepreneur writing them, because you've already done that, but as you grow, you get your employees engaged and it's part of their job description.
+
+## 3.6
+
+Most entrepreneurs did not have good hiring processes, good onboarding processes, good review and firing processes, which means, what I found is, they hire too quickly and fire too slowly.
+
+And every time you lose an employee in your small business, it creates real disruption, because it's hard to have relationships with customers, to have your employees have relationships with customers when your employees have high turnover.
+
+## 3.7
+
+Focus equals growth. And we are very cognizant of that at the vendor and that was the key to our growth. It's all about prioritization.
+
+We've focused on a very limited number of hard numbers in our security business. Customers. And it's always Getting more specific and going deeper than it is going wide. And sometimes when we first get success we think it's an opportunity to go wide.
+
+The second one, we get into strategy with businesses. We always talk about know thyself. A lot of times we get into these strategic planning meetings we get a little bit of success we have a couple good ideas.
+
+Instead of talking about what we could do, what we should do, what we want to do, we need to talk about what are we good at already. What are we really good at and how do we just do a lot more of that and bless more people?
+
+Businesses don't grow, people do and I remind every entrepreneur in the end its going to be about you people growing your people its more important than strategy we do forecast we write strategies, It seems like, as quick as we walk out the room, they quickly become extinct.
+
+The who that we want to choose in our fast growing businesses, are people that want to grow. If you don't want to grow. Why would you work at a company that wants to grow? there's actually a barter that we've made with our employees over the years.
+
+You want to grow, I want to grow. You want to become more marketable, I want to create your skills. I have nothing but your best interest in mind than to grow you. And, I'm going to create that kind of an environment. I know when I do that, you will grow my business.
+
+And we have countless stories in Defender. Personal growth, that when someone grows their job becomes easier, they become better able to lead others.
+
+And that leads to promoting from within, building a culture, this idea of always remember, the business isn't what grows. 
+
+Another snippet I love to share with entrepreneurs is never pay anybody more than $100,000 a year without a personal referral. We don't spend a lot of time on Monster or whatever the current search engines are to hire people. For our big time jobs, those come to us through personal referrals.
+
+We want to promote from within, when we need to go outside. I found that high performance people of big salaries , they don't have to look for jobs.
+
+I learned this after awhile was to really look at bringing on people as an investment instead of an expense. And when you really do the math, we start talking about these $100,000 a year people or, or You know it's not a $100,000 investment to hire that kind of person. It's really a $30,000 investment right?
+
+When you change your mentality, and it becomes an investment game, that's where you really grow. This investment in leaders is an investment.
+
+
+
+
 
 
 
