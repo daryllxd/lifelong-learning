@@ -937,7 +937,89 @@ Order precedence: Outer before -> Inner before -> Thingies -> Inner after -> Out
     list.should respond_to(:length)
     lambda { Object.new.explode! }.should raise_error(NameError)
 
+#### Equality
 
+    a.should == b
+    a.should === b
+    a.should eql(b)
+    a.should equal(b)
+
+`should == ` means we're concerned with value equality, not object identity.
+
+    (3 * 5).should == 15
+    person = Person.new(:given_name => "Yukihiro", :family_name => "Matsumoto")
+    person.full_name.should == "Yukihiro Matsumoto"
+    person.nickname.should == "Matz"
+
+`equal()` means same object.
+
+Floating-Point Calculations (bitch): Use `be_close()`.
+
+    result.should be_close(5.25, 0.005)
+
+Match regex
+
+    result.should match(/this expression/)
+    result.should =~ /this expression/
+
+#### Expecting Errors
+
+    expect { do_something_risky }.to raise_error
+
+#### Expecting a Throw [TODO]
+
+#### Predicate Matchers
+
+    array.empty?.should == true # This is replaceable with
+    array.should be_empty
+    user.should be_in_role("admin") # This will pass as long as user.in_role?("admin") returns true.
+
+If the missing method begins with "be," RSpec strips off the "be" and appends “?”; then it sends the resulting message to the given object.
+
+    instance_of?(type) # be_instance_of
+    be_a_kind_of(Player) # kind_of?
+
+    request_parameters.has_key?(:id).should == true
+    request_parameters.should have_key(:id)
+
+    field.players.select {|p| p.team == home_team }.length.should == 9
+    home_team.should have(9).players_on(field)
+
+    collection.should have(37).items
+
+    day.should have_exactly(24).hours
+    dozen_bagels.should have_at_least(12).bagels
+    internet.should have_at_most(2037).killer_social_networking_apps
+
+#### Operator Expressions
+
+We want to be precise in our operators: 2 + 2 = 4, not 2 + 2 > 3. Writing random numbers, if randomizing 1-10, we want 1 to appear 1,000 in 10,000 tries, +- 2%.
+
+    result.should == 3
+    result.should =~ /some regexp/
+    result.should be < 7
+    result.should be <= 7
+    result.should be >= 7
+    result.should be > 7
+
+#### Subjectivity
+
+The _subject_ of an example is the object being described.
+
+Explicit means it's delegated. `it` is understood to be `subject`.
+
+    describe Person do
+      subject { Person.new(:birthdate => 19.years.ago) }
+      it { should be_eligible_to_vote }
+    end
+
+Implicit: Concise ass fuck. (The object has to be instantiated without any arguments, though.)
+
+    describe RSpecUser do
+      it { should be_happy }
+    end
+
+## RSpec::Mocks
 
 
 
