@@ -1021,12 +1021,24 @@ Implicit: Concise ass fuck. (The object has to be instantiated without any argum
 
 ## RSpec::Mocks
 
+A _test double_ stands in for a collaborator in an example. If we want the CheckingAccount object to log messages somewhere but we have yet to develop a logger, we can use a double in its place. We often refer to them by names like mock objects, test stubs, fakes.
 
+#### Method Stubs
 
+__A _method stub_ is a method that we can program to return predefined responses during the execution of a code example.__
 
+    describe Statement do
+      it "uses the customer's name in the header" do
+        customer = double('customer')
+        customer.stub(:name).and_return('Aslak')
+        statement = Statement.new(customer)
+        statement.generate.should =~ /^Statement for Aslak/
+      end 
+    end
 
+This example specifies that a statement uses its customer’s name to generate part of the statement. The customer double stands in for a real `Customer`.
 
-
+k
 
 
 

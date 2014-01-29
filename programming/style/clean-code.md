@@ -107,7 +107,7 @@ We can go further and write a simple class for cells instead of using an array o
 
 #### Avoid Disinformation
 
-Programmers must avoid leaving false clues that obscure the meaning of code. We should avoid words whose entrenched meanings vary from our intended meaning. For example, hp, aix, and sco would be poor variable names because they are the names of Unix plat- forms or variants. Even if you are coding a hypotenuse and hp looks like a good abbrevia- tion, it could be disinformative.
+Programmers must avoid leaving false clues that obscure the meaning of code. We should avoid words whose entrenched meanings vary from our intended meaning. For example, hp, aix, and sco would be poor variable names because they are the names of Unix plat- forms or variants. Even if you are coding a hypotenuse and hp looks like a good abbreviation, it could be disinformative.
 
 Do not refer to a grouping of accounts as an accountList unless it’s actually a List. The word list means something specific to programmers. If the container holding the accounts is not actually a List, it may lead to false conclusions.1 So accountGroup or bunchOfAccounts or just plain accounts would be better.
 
@@ -216,13 +216,13 @@ Unless you are a student of FitNesse, you probably don’t understand all the de
 
 #### Small!
 
-The first rule of functions is that they should be small. The second rule of functions is that they should be smaller than that. This is not an assertion that I can justify. I can’t provide any references to research that shows that very small functions are better. What I can tell you is that for nearly four decades I have written functions of all different sizes. I’ve writ- ten several nasty 3,000-line abominations. I’ve written scads of functions in the 100 to 300 line range. And I’ve written functions that were 20 to 30 lines long. What this experience has taught me, through long trial and error, is that functions should be very small.
+The first rule of functions is that they should be small. The second rule of functions is that they should be smaller than that. This is not an assertion that I can justify. I can’t provide any references to research that shows that very small functions are better. What I can tell you is that for nearly four decades I have written functions of all different sizes. I’ve written several nasty 3,000-line abominations. I’ve written scads of functions in the 100 to 300 line range. And I’ve written functions that were 20 to 30 lines long. What this experience has taught me, through long trial and error, is that functions should be very small.
 
 In the eighties we used to say that a function should be no bigger than a screen-full. Of course we said that at a time when VT100 screens were 24 lines by 80 columns, and our editors used 4 lines for administrative purposes. Nowadays with a cranked-down font and a nice big monitor, you can fit 150 characters on a line and a 100 lines or more on a screen. Lines should not be 150 characters long. Functions should not be 100 lines long. Functions should hardly ever be 20 lines long.
 
 This implies that the blocks within if statements, else statements, while statements, and so on should be one line long. Probably that line should be a function call. Not only does this keep the enclosing function small, but it also adds documentary value because the function called within the block can have a nicely descriptive name.
 
->FUNCTIONS SHOULD DO ONE THING. THEY SHOULD DO IT WELL. THEY SHOULD DO IT ONLY.
+> FUNCTIONS SHOULD DO ONE THING. THEY SHOULD DO IT WELL. THEY SHOULD DO IT ONLY.
 
 The problem with this statement is that it is hard to know what “one thing” is. Does Listing 3-3 do one thing? It’s easy to make the case that it’s doing three things:
 
@@ -232,7 +232,7 @@ The problem with this statement is that it is hard to know what “one thing” 
 
 So which is it? Is the function doing one thing or three things? Notice that the three steps of the function are one level of abstraction below the stated name of the function. We can describe the function by describing it as a brief TO4 paragraph:
 
->TO RenderPageWithSetupsAndTeardowns, we check to see whether the page is a test page and if so, we include the setups and teardowns. In either case we render the page in HTML.
+> TO RenderPageWithSetupsAndTeardowns, we check to see whether the page is a test page and if so, we include the setups and teardowns. In either case we render the page in HTML.
 
 After all, the reason we write functions is to decompose a larger concept (in other words, the name of the function) into a set of steps at the next level of abstraction.
 
@@ -282,7 +282,7 @@ Don’t be afraid to make a name long. A long descriptive name is better than a 
 
 The ideal number of arguments for a function is zero (niladic). Next comes one (monadic), followed closely by two (dyadic). Three arguments (triadic) should be avoided where possible. More than three (polyadic) requires very special justification—and then shouldn’t be used anyway.
 
-Arguments are hard. They take a lot of conceptual power.When you are reading the story told by the module, includeSetupPage() is easier to understand than includeSetupPageInto(newPageContent). The argument is at a different level of abstraction than the function name and forces you to know a detail (in other words, StringBuffer) that isn’t particularly important at that point.
+Arguments are hard. They take a lot of conceptual power. When you are reading the story told by the module, includeSetupPage() is easier to understand than includeSetupPageInto(newPageContent). The argument is at a different level of abstraction than the function name and forces you to know a detail (in other words, StringBuffer) that isn’t particularly important at that point.
 
 Arguments are even harder from a testing point of view. Imagine the difficulty of writing all the test cases to ensure that all the various combinations of arguments work properly. If there are no arguments, this is trivial. If there’s one argument, it’s not too hard. With two arguments the problem gets a bit more challenging. With more than two argu- ments, testing every combination of appropriate values can be daunting.
 
@@ -338,9 +338,9 @@ This last is an example of the keyword form of a function name. Using this form 
 
 Side effects are lies. Your function promises to do one thing, but it also does other hidden things. Sometimes it will make unexpected changes to the variables of its own class. Sometimes it will make them to the parameters passed into the function or to system glo- bals. In either case they are devious and damaging mistruths that often result in strange temporal couplings and order dependencies.
 
-The `checkPassword` function, by its name, says that it checks the password. The name does not imply that it initial- izes the session. So a caller who believes what the name of the function says runs the risk of erasing the existing session data when he or she decides to check the validity of the user.
+__The `checkPassword` function, by its name, says that it checks the password. The name does not imply that it initial- izes the session.__ So a caller who believes what the name of the function says runs the risk of erasing the existing session data when he or she decides to check the validity of the user.
 
-This side effect creates a temporal coupling. That is, checkPassword can only be called at certain times (in other words, when it is safe to initialize the session). If it is called out of order, session data may be inadvertently lost. Temporal couplings are con- fusing, especially when hidden as a side effect. If you must have a temporal coupling, you should make it clear in the name of the function. In this case we might rename the function checkPasswordAndInitializeSession, though that certainly violates “Do one thing.”
+__This side effect creates a temporal coupling.__ That is, checkPassword can only be called at certain times (in other words, when it is safe to initialize the session). If it is called out of order, session data may be inadvertently lost. Temporal couplings are confusing, especially when hidden as a side effect. If you must have a temporal coupling, you should make it clear in the name of the function. In this case we might rename the function `checkPasswordAndInitializeSession`, though that certainly violates “Do one thing.”
 
 #### Output Arguments
 
@@ -437,15 +437,21 @@ When you use exceptions rather than error codes, then new exceptions are derivat
 
 #### Don’t Repeat Yourself
 
-Duplication may be the root of all evil in software. Many principles and practices have been created for the purpose of controlling or eliminating it. Consider, for example, that all of Codd’s database normal forms serve to eliminate duplication in data. Consider also how object-oriented programming serves to concentrate code into base classes that would otherwise be redundant. Structured programming, Aspect Oriented Programming, Compo- nent Oriented Programming, are all, in part, strategies for eliminating duplication. It would appear that since the invention of the subroutine, innovations in software develop- ment have been an ongoing attempt to eliminate duplication from our source code.
+Duplication may be the root of all evil in software. Many principles and practices have been created for the purpose of controlling or eliminating it. 
+
+- Normalization serves to eliminate duplication in data. 
+- OOP serves to concentrate code into base classes that would otherwise be redundant.
+- Structured programming, Aspect Oriented Programming, Compo- nent Oriented Programming, are all, in part, strategies for eliminating duplication.
+
+It would appear that since the invention of the subroutine, innovations in software development have been an ongoing attempt to eliminate duplication from our source code.
 
 #### Structured Programming
 
-Dijkstra said that every function, and every block within a function, should have one entry and one exit. Following these rules means that there should only be one return statement in a func- tion, no break or continue statements in a loop, and never, ever, any goto statements.
+__Dijkstra said that every function, and every block within a function, should have one entry and one exit.__ Following these rules means that there should only be one return statement in a function, no break or continue statements in a loop, and never, ever, any goto statements.
 
 While we are sympathetic to the goals and disciplines of structured programming, those rules serve little benefit when functions are very small. It is only in larger functions that such rules provide significant benefit.
 
-So if you keep your functions small, then the occasional multiple return, break, or continue statement does no harm and can sometimes even be more expressive than the sin- gle-entry, single-exit rule. On the other hand, goto only makes sense in large functions, so it should be avoided.
+If you keep your functions small, then the occasional multiple return, break, or continue statement does no harm and can sometimes even be more expressive than the single-entry, single-exit rule. On the other hand, goto only makes sense in large functions, so it should be avoided.
 
 #### How Do You Write Functions Like This?
 
@@ -455,18 +461,19 @@ In the end, I wind up with functions that follow the rules I’ve laid down in t
 
 #### Conclusion
 
-Every system is built from a domain-specific language designed by the programmers to describe that system. Functions are the verbs of that language, and classes are the nouns. This is not some throwback to the hideous old notion that the nouns and verbs in a require- ments document are the first guess of the classes and functions of a system. Rather, this is a much older truth. The art of programming is, and has always been, the art of language design.
+Every system is built from a domain-specific language designed by the programmers to describe that system. 
 
-Master programmers think of systems as stories to be told rather than programs to be written. They use the facilities of their chosen programming language to construct a much richer and more expressive language that can be used to tell that story. Part of that domain-specific language is the hierarchy of functions that describe all the actions that take place within that system. In an artful act of recursion those actions are written to use the very domain-specific language they define to tell their own small part of the story.
+Functions are the verbs of that language, and classes are the nouns. This is not some throwback to the hideous old notion that the nouns and verbs in a require- ments document are the first guess of the classes and functions of a system. Rather, this is a much older truth. The art of programming is, and has always been, the art of language design.
 
-This chapter has been about the mechanics of writing functions well. If you follow the rules herein, your functions will be short, well named, and nicely organized. But never forget that your real goal is to tell the story of the system, and that the functions you write need to fit cleanly together into a clear and precise language to help you with that telling.
+__Master programmers think of systems as stories to be told rather than programs to be written.__ They use the facilities of their chosen programming language to construct a much richer and more expressive language that can be used to tell that story. Part of that domain-specific language is the hierarchy of functions that describe all the actions that take place within that system. In an artful act of recursion those actions are written to use the very domain-specific language they define to tell their own small part of the story.
+
+Bever forget that your real goal is to tell the story of the system, and that the functions you write need to fit cleanly together into a clear and precise language to help you with that telling.
 
 ## Comments
 
-Comments are not like Schindler’s List. They are not “pure good.” Indeed, comments are, at best, a necessary evil. If our programming languages were expressive enough, or if we had the talent to subtly wield those languages to express our intent, we would not need
-comments very much—perhaps not at all.
+__If our programming languages were expressive enough, or if we had the talent to subtly wield those languages to express our intent, we would not need comments very much—perhaps not at all.__
 
-he proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures. We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration.
+The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures. We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration.
 
 So when you find yourself in a position where you need to write a comment, think it through and see whether there isn’t some way to turn the tables and express yourself in code. Every time you express yourself in code, you should pat yourself on the back. Every time you write a comment, you should grimace and feel the failure of your ability of expression.
 
@@ -513,17 +520,13 @@ It takes only a few seconds of thought to explain most of your intent in code. I
 - Journal Comments
 - Noise Comments: `Default constructor`, `The day of the month`,
 
-Don’t Use a Comment When You Can Use a Function or a Variable.
+__Don’t use a comment when you can use a function or a variable.__
 
-Closing Brace Comments: Sometimes programmers will put special comments on closing braces. Although this might make sense for long functions with deeply nested structures, it serves only to clutter the kind of small and encapsulated functions that we prefer. So if you find yourself wanting to mark your closing braces, try to shorten your functions instead.
-
-Commented-out code: We have source control to remember this shit.
-
-HTML Comments: Suck ass.
-
-Nonlocal Information: If you must write a comment, then make sure it describes the code it appears near. Don’t offer systemwide information in the context of a local comment.
-
-Inobvious Connection: The connection between a comment and the code it describes should be obvious. If you are going to the trouble to write a comment, then at least you’d like the reader to be able to look at the comment and the code and understand what the comment is talking about.
+- Closing Brace Comments: Clutter.
+- Commented-out code: We have source control to remember this shit.
+- HTML Comments: Suck ass.
+- Nonlocal Information: If you must write a comment, then make sure it describes the code it appears near. Don’t offer systemwide information in the context of a local comment.
+- Inobvious Connection: The connection between a comment and the code it describes should be obvious. If you are going to the trouble to write a comment, then at least you’d like the reader to be able to look at the comment and the code and understand what the comment is talking about.
 
 	/*
 	* start with an array that is big enough to hold all the pixels * (plus filter bytes), and an extra 200 bytes for header info */
@@ -697,7 +700,7 @@ A newspaper is composed of many articles; most are very small. Some are a bit la
 
 #### Variable Declarations
 
-Variables should be declared as close to their usage as possi- ble. In rare cases a variable might be declared at the top of a block or just before a loop in a long-ish function.
+Variables should be declared as close to their usage as possible. In rare cases a variable might be declared at the top of a block or just before a loop in a long-ish function.
 
 Instance variables, on the other hand, should be declared at the top of the class. This should not increase the vertical distance of these variables, because in a well-designed class, they are used by many, if not all, of the methods of the class.
 
@@ -969,8 +972,62 @@ But what about at the system level? Doesn’t the system architecture require pr
 [TODO]
 
 
+## Smells and Heuristics
 
+#### Comments
 
+- __Inappropriate Information__: Change histories clutter up files. Authors, last modified-date, not supposed to be there.
+- __Redundant Comment__: `i++; // increment i`.
+- __Commented-Out Code__: Source code control still remembers it anyway. If anyone really needs it, they can check out a previous version.
+
+#### Environment
+
+- __Build Requires More Than One Step__: One command only.
+- __Tests Require More Than One Step__
+
+#### General
+
+- __Multiple Languages in One Source File__: Confusing at best.
+- __Obvious Behavior Is Unimplemented__.
+- __Incorrect Behavior at the Boundaries__: Just make the edge cases work.
+- __Duplication__: Every time you see duplication in the code, it represents a missed opportunity for abstraction. That duplication could probably become a subroutine or perhaps another class outright. More abstraction means coding is faster.
+	+ "Stuff that looks copied and pasted."
+	+ Repeated switch/case and if/else chains.
+	+ Figure out _template method_ and _strategy_.
+- __Code at Wrong Level of Abstraction__: Lower level concepts must be in the derivatives, and higher level concepts are in the base class.
+
+			public interface Stack {
+				Object pop() throws EmptyException;
+				void push(Object o) throws FullException;
+				double percentFull();
+			}
+
+	The `percentFull` function is at the wrong level of abstraction. Although there are many implementations of Stack where the concept of fullness is reasonable, there are other implementations that simply could not know how full they are. So the function would be better placed in a derivative interface such as `BoundedStack`.
+
+- __Base Classes Depending on Their Derivatives__: In general, base classes should know nothing about their derivatives.
+- __Too Much Information__: Good software developers learn to limit what they expose at the interfaces of their classes and modules. The fewer methods a class has, the better. The fewer variables a func- tion knows about, the better. The fewer instance variables a class has, the better. 
+
+	Hide your data. Hide your utility functions. Hide your constants and your temporaries. Don’t create classes with lots of methods or lots of instance variables. Don’t create lots of protected variables and functions for your subclasses. Concentrate on keeping interfaces very tight and very small. Help keep coupling low by limiting information.
+
+- __Inconsistency__: If within a particular function you use a variable named response to hold an `HttpServletResponse`, then use the same variable name consistently in the other functions that use `HttpServletResponse` objects. If you name a method `processVerificationRequest`, then use a similar name, such as `processDeletionRequest`, for the methods that process other kinds of requests.
+- __Artificial Coupling__: In general an artificial coupling is a coupling between two modules that serves no direct purpose. It is a result of putting a variable, constant, or function in a temporarily convenient, though inappropriate, location. This is lazy and careless.
+- __Feature Envy__: The methods of a class should be interested in the variables and functions of the class they belong to, and not the variables and functions of other classes. When a method uses accessors and mutators of some other object to manipulate the data within that object, then it envies the scope of the class of that other object.
+
+			public class HourlyPayCalculator {
+				public Money calculateWeeklyPay(HourlyEmployee e) {
+				int tenthRate = e.getTenthRate().getPennies();
+				int tenthsWorked = e.getTenthsWorked();
+				int straightTime = Math.min(400, tenthsWorked);
+				int overTime = Math.max(0, tenthsWorked - straightTime);
+				int straightPay = straightTime * tenthRate;
+				int overtimePay = (int)Math.round(overTime*tenthRate*1.5);
+				return new Money(straightPay + overtimePay); 
+				}
+			}
+
+	The `calculateWeeklyPay` method reaches into the `HourlyEmployee` object to get the data on which it operates. The `calculateWeeklyPay` method envies the scope of `HourlyEmployee`. It “wishes” that it could be inside `HourlyEmployee`.
+
+- 
 
 
 
