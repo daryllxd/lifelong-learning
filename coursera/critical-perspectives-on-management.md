@@ -291,7 +291,120 @@ Since the 1930s The average life expectancy of a firm has fallen by more than ha
 
 It's a critical question for our general capitalist economy, and it's a critical question that we'll be considering over the rest of this class, indeed.
 
-Agency cost: 
+## 3.1: Innovation
+
+Growth. Value. Competitive advantage. Survival. Companies that can't solve their problems, companies that can't grow, companies that can't retain their competitive advantage are companies that will die.
+
+Improvement or revolutionary? Evolutionary or incremental? Disruptive, or what you know? Random, or deliberate?
+
+Innovation is about the right environment, creating disruptive ideas, in a task-driven environment which is sensitive to the market in order to retain competitive advantage and that's three of 'em.
+
+Or you say, no, no, it's about, randomness and creativity and simplicity, with an acceptance for risk in order to create, development.
+
+Or you say, no, no, no, no, no. It's about, a constant sense of improvement with, giving the freedom to the people that you work with, the idea of rule breaking driven by customer need in order to drive great profits and that's Apple.
+
+
+__What it tells us is a lot of what we read about innovation is in fact merely the reverse engineering of success stories in the marketplace, which is another way of saying," Do what these guys did and let's call that innovation".__
+
+The limitations of a reverse engineered success tells us, that the concept of innovation itself remains very elusive. We know it's not invention, because it's not called invention. We know it can't just be improvement, because if it were, we would call it
+
+## 3.2: The Box: Explaining its Introduction
+
+Why does it make sense to internationalize, globalize management where in this, in todays world? I think the answer to that is because a global economy needs a global manager.
+
+It's only the rise then of the global economy that we have now the need for an international manager, somebody who can speak a kind of international language of management.
+
+How did the shipping container made the world a smaller place? Why was the, why were the 1950s and the 1960s the right time, the right place, for what is, after all, a very old idea.
+
+The Romans had their own version of the container, the amphori. Why so long before the shipping container?
+
+Random + environment. Random event: The person who came up with the idea. Environment: The shipping industry was in a crisis. They were also looking how to cut the costs and compete in a better way.
+
+We could also look at the competition that existed during this period. Need good transpo system to bring US goods to market in Europe. Labor scarcity? Government intervention?
+
+Trade was also a good diplomatic move. Build close trading relationships, from close economic relationships come strong political friendships.
+
+I think someone from outside the industry has to make the change, because anybody within the industry couldn't, imagine, such a radical change and couldn't, and saw all the problems that could be caused by it.
+
+McLean: Outside perspective, relentlessly focused on cost-cutting, and someone whose capacity or appetite for risk is huge.
+
+## 3.3: The Box: Conditions for Success
+
+He has the ability to take risk, he has the ability to solve problems, he has the ability to look at old problems in a new way.
+
+He just needed money to create an entirely new global infrastructure from the ground up. You need new ports, new infrastructure. We can change the things we don't want (climate change) but we "don't have cash". We know it's not great but, it's good enough.
+
+So, we accept that it's actually just better than to stick with the system that we have rather than expose our self to the tremendous expenditure to change it.
+
+Is this a problem of cost or a problem from seeing the benefits? Politicans, because they want to get re-elected, also don't want to take risks on bond issuances.
+
+Does it create competitive disadvantage this, this market as it existed prior to the introduction of the container. Were firms that needed to ship goods at a competitive disadvantage because of the nature of the marketplace?
+
+It's very expensive to use the market. This creates a demand for change. Labor is expensive, high costs, and there is a chance for theft. The theft means the two firms are not at a competitive advantage to each other because they're both facing the same issues. They also factor the price of shipping the good into the price of the good itself.
+
+If it's expensive to use the market, many goods are simply not going to travel that far and so the market has kind of natural boundaries built around the constraints of using the market itself, which may not be ideal.
+
+There's a definition to my market and one of the constraints, is simply the cost of shipping my goods. And once it gets too expensive, I don't have a market there.
+
+## The Box: The Story of Failure
+
+Costs have always been there. Why not the 40s, 30s, 20s, so on? McLean's great insight was that the business of shipping was moving cargo and not sailing ships. 
+
+Malcom McLean's great insight was that the problem of shipping was the people you needed to move the good from point a to point b. If you get rid of the people, you get rid of the problem.
+
+He didn't really care how you did it. He thought maybe I can drive trucks directly onto ships or whatever. The point being, he was simply looking for a solution that eradicated the people because the people were the problem.
+
+Get rid of the people, you have gotten rid of the problem. What was the problem of the people, these dock workers? If it's not cost, and they'd always introduce high cost, high theft.
+
+What they introduced was not high cost, but far worse, unpredictability. How did they make the market unpredictable? By striking. Work stoppages.
+
+The market in the 1950s and 60s characterized by expanding trade, increasing importance of trade, a market that was looking for more productivity and more predictability, what did it get from the dock worker unions?
+
+Less productivity, less predictability; in other words, the unions gave the market exactly the opposite of what it needed.
+
+And the animating principal of what was new, was let's get rid of this factor, which is provoking the unpredictability.
+
+There's an equally interesting and perhaps a more important story of failure happening here, who failed? The dockworkers, the dockworker unions failed. They failed organizationally. They failed as an institution.
+
+Why did they fail? Because they did not give the market what it needed. When the market was asking for more predictability and more productivity they gave the market less predictability and less productivity and moreover they did so in a local way.
+
+## 3.5: Thinking Beyond Innovation
+
+The unions did not innovate. When you think of innovation, do you think unions? No. The purpose of a union is to secure under the circumstances the best possible condition for its membership, right? That's the purpose of a union.
+
+In the context of a changing environment, what's the best way to deal with that? Adapt. Why then, in the context of managerial culture, don't we have this as our concept for how firms should deal with a dynamic competitive environment?
+
+Why don't we say firms need to learn how to adapt? Why have we substituted innovation over adaptation? Why do we tell firms, no, no, don't forget about adaptation. You need to innovate, innovate to success, innovate to value, innovate to grow, innovate to retain your competitive advantage. Why don't we say adapt?
+
+- Not comfortable, it's not taking the next step forward, but just conforming to the change in society rather thatn being the changer.
+- To innovate basically the same thing would mean that you know you are who's in control, you are who's setting these conditions.
+- The current managerial culture fails to address a fundamental concern that we have driven into the idea of what good management is. Growth and doing better.
+- Innovation prescribes; adaptation is agnostic and it doesn't care.
+
+
+Sometimes growing is not the right answer. Sometimes looking to grow is not the right answer. Sometimes the best corporate strategy in order to tain, attain long term optimal results is the reverse. Get smaller.
+
+Blackberry: The marketplace has moved on. Not much market left for their devices. BB should say that "we're very good at building enterprise solutions, so let's try and focus on that string." Maybe we'll lose half of our market cap, maybe we'll lose a lot of our market our market presence. But that's where our strengths now exist in this kind of a market place. That's where we should be moving.
+
+Innovation doesn't give you that as a managerial option. Adaptation is a much more powerful tool because of its agnosticism. It doesn't try to prescribe a right answer. It simply says look at your surroundings and do what you need to do in order to optimize your position within those surroundings, and sometimes that means accepting getting smaller, accepting poor results, accepting shrinking profit margins.
+
+It's a Darwinian environment and as the competitive forces get sharper and stronger, some firms simply deserve to succumb to those market forces. That's the purpose of a strategy, to ensure your own survival. 
+
+Instead of innovate or die, adapt or die. Sometimes the right way to adapt, is to innovate. Undoubtedly, but it's not the only way. Some firms want drastic change, or R&D.
+
+What you don't find or only much more rarely are firms that are capable of refashioning themselves, changing their focus to become something else.
+
+And letting go of something even if it means profound altering their size, their profitability and other KPIs that we identified as key to the success.
+
+And that shouldn't surprise us, because in a managerial culture where the only benchmark of success is growth.
+
+It's a failure of management if you can't give yourself the widest range of options in order to secure optimal results for your firm. Which means, we need to change the conversation and we need to think about management in a new way.
+
+Another example of a critical perspective on management that invites us to take the assumptions that we've held and actually challenge the basis upon which we hold them.
+
+
+
+
 
 
 
