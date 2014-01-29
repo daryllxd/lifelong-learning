@@ -60,12 +60,6 @@ Each factory has a name and set of attributes. The name is used to guess the cla
       date_of_birth   { 21.years.ago }
     end
 
-## Rails Testing — Factory Girl
-
-#### Why use Factory Girl?
-
-- Tests become easier to maintain when you can request a model instance that is always current.
-- 
 
 
 

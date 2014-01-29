@@ -1,3 +1,9 @@
+## RSpec switches
+
+    -- color
+    -- drb # for BASED SPORK
+    -- format documentation # for specification like thingie
+
 ## Introduction
 
 Bigger code, more time spent on refactoring.
@@ -6,14 +12,14 @@ BDD puts the focus on behavior instead of structure, and it does so at every lev
 
 `Given`, `When`, `Then`, the BDD triad, are simple words that we use whether we’re talking about application behavior or object behavior.
 
-	describe MovieList do
+  describe MovieList do
       context "when first created" do
         it "is empty" do
           movie_list = MovieList.new
           movie_list.should be_empty
-				end
-			end
-	end
+        end
+      end
+  end
 
 The `it( )` method creates an example of the behavior of a MovieList, with the context being that the MovieList was just created.
 
@@ -23,18 +29,18 @@ In ATDP, we use customer acceptance tests to drive the development of code. Idea
 
 Cucumber reads plain-text descriptions of application features with example scenarios and uses the scenario steps to automate interaction with the code being developed.
 
-	Feature: pay bill on-line
-	  In order to reduce the time I spend paying bills
-	  As a bank customer with a checking account
-	  I want to pay my bills on-line
+  Feature: pay bill on-line
+    In order to reduce the time I spend paying bills
+    As a bank customer with a checking account
+    I want to pay my bills on-line
 
-	  Scenario: pay a bill
-	    Given checking account with $50
-	    And a payee named Acme
-	    And an Acme bill for $37
-	    When I pay the Acme bill
-	    Then I should have $13 remaining in my checking account
-	    And the payment of $37 to Acme should be listed in Recent Payments
+    Scenario: pay a bill
+      Given checking account with $50
+      And a payee named Acme
+      And an Acme bill for $37
+      When I pay the Acme bill
+      Then I should have $13 remaining in my checking account
+      And the payment of $37 to Acme should be listed in Recent Payments
 
 We use Cucumber to describe the behavior of applications and use RSpec to describe the behavior of objects. Both cycles involve taking small steps and listening to the feedback you get from the tools. We start with a failing step (red) in Cucumber (the outer cycle). To get that step to pass, we’ll drop down to RSpec (the inner cycle) and drive out the underlying code at a granular level (red/green/refactor).
 
@@ -43,18 +49,18 @@ Cucumber step.
 
 ## Hello
 
-	$ rspec [options] [files or directories]
-	$ cucumber [options] [ [FILE|DIR|URL][:LINE[:LINE]*] ]+
+  $ rspec [options] [files or directories]
+  $ cucumber [options] [ [FILE|DIR|URL][:LINE[:LINE]*] ]+
 
 >greeter_spec.rb
 
-	describe "RSpec Greeter" do
-		it "should say 'Hello RSpec!' when it receives the greet() message" do
-		    greeter = RSpecGreeter.new
-		    greeting = greeter.greet
-		    greeting.should == "Hello RSpec!"
-		end 
-	end
+  describe "RSpec Greeter" do
+    it "should say 'Hello RSpec!' when it receives the greet() message" do
+        greeter = RSpecGreeter.new
+        greeting = greeter.greet
+        greeting.should == "Hello RSpec!"
+    end 
+  end
 
 - `describe`: declaring an example group.
 - `it()`: creating an example.
@@ -64,77 +70,77 @@ Cucumber step.
 
 Just add the RspecGreeter
 
-	class RSpecGreeter
-		def greet
-	    "Hello RSpec!"
-		end 
-	end
+  class RSpecGreeter
+    def greet
+      "Hello RSpec!"
+    end 
+  end
 
 Output:
 
-	.								# represents that the test passes
-	Finished in 0.00075 seconds
-	1 example, 0 failures
+  .               # represents that the test passes
+  Finished in 0.00075 seconds
+  1 example, 0 failures
 
 #### Cucumbah
 
 >Directory structure
 
-	- root
-		- spec
-			- greeter_spec.rb
-		- features
-			- greeter_says_hello.feature
+  - root
+    - spec
+      - greeter_spec.rb
+    - features
+      - greeter_says_hello.feature
 
 > greeter_says_hello.feature
 
-	Feature: greeter says hello
+  Feature: greeter says hello
 
-	  In order to start learning RSpec and Cucumber
-	  As a reader of The RSpec Book
-	  I want a greeter to say Hello
+    In order to start learning RSpec and Cucumber
+    As a reader of The RSpec Book
+    I want a greeter to say Hello
 
-	  Scenario: greeter says hello
-	  Given a greeter
-	  When I send it the greet message
-	  Then I should see "Hello Cucumber!"
+    Scenario: greeter says hello
+    Given a greeter
+    When I send it the greet message
+    Then I should see "Hello Cucumber!"
 
 > Running the thing: Run it in the root!
 
-	root$ cucumber features
+  root$ cucumber features
 
-	Feature: greeter says hello
-	  
-	  In order to start learning RSpec and Cucumber
-	  As a reader of The RSpec Book
-	  I want a greeter to say Hello
+  Feature: greeter says hello
+    
+    In order to start learning RSpec and Cucumber
+    As a reader of The RSpec Book
+    I want a greeter to say Hello
 
-	  Scenario: greeter says hello          # features/greeter_says_hello.feature:7
-	    Given a greeter                     # features/greeter_says_hello.feature:8
-	    When I send it the greet message    # features/greeter_says_hello.feature:9
-	    Then I should see "Hello Cucumber!" # features/greeter_says_hello.feature:10
+    Scenario: greeter says hello          # features/greeter_says_hello.feature:7
+      Given a greeter                     # features/greeter_says_hello.feature:8
+      When I send it the greet message    # features/greeter_says_hello.feature:9
+      Then I should see "Hello Cucumber!" # features/greeter_says_hello.feature:10
 
-	1 scenario (1 undefined)
-	3 steps (3 undefined)
-	0m0.002s
+  1 scenario (1 undefined)
+  3 steps (3 undefined)
+  0m0.002s
 
-	You can implement step definitions for undefined steps with these snippets:
+  You can implement step definitions for undefined steps with these snippets:
 
-	Given(/^a greeter$/) do
-	  pending # express the regexp above with the code you wish you had
-	end
+  Given(/^a greeter$/) do
+    pending # express the regexp above with the code you wish you had
+  end
 
-	When(/^I send it the greet message$/) do
-	  pending # express the regexp above with the code you wish you had
-	end
+  When(/^I send it the greet message$/) do
+    pending # express the regexp above with the code you wish you had
+  end
 
-	Then(/^I should see "(.*?)"$/) do |arg1|
-	  pending # express the regexp above with the code you wish you had
-	end
+  Then(/^I should see "(.*?)"$/) do |arg1|
+    pending # express the regexp above with the code you wish you had
+  end
 
-	If you want snippets in a different programming language,
-	just make sure a file with the appropriate file extension
-	exists where cucumber looks for step definitions.
+  If you want snippets in a different programming language,
+  just make sure a file with the appropriate file extension
+  exists where cucumber looks for step definitions.
 
 Here, we use the `Given()`, `When()`, and `Then()` to write step definitions, each of which takes a `Regexp` and a block. Cucumber reads the first step, looks for a step def'n whose Regex matches that step, and then executes that step definition's block.
 
@@ -142,45 +148,45 @@ In order for these to pass, you have to create the `step definitions`.
 
 >Directory structure
 
-	- root
-		- spec
-			- greeter_spec.rb
-		- features
-			- step_definitions
-				- greeter_steps.rb
-			- greeter_says_hello.feature
+  - root
+    - spec
+      - greeter_spec.rb
+    - features
+      - step_definitions
+        - greeter_steps.rb
+      - greeter_says_hello.feature
 
 >greeter_steps.rb
 
-	Given /^a greeter$/ do
-	  @greeter = CucumberGreeter.new
-	end
+  Given /^a greeter$/ do
+    @greeter = CucumberGreeter.new
+  end
 
-	When /^I send it the greet message$/ do
-	  @message = @greeter.greet
-	end
+  When /^I send it the greet message$/ do
+    @message = @greeter.greet
+  end
 
-	Then /^I should see "([^"]*)"$/ do |greeting|
-	  @message.should == greeting
-	end
+  Then /^I should see "([^"]*)"$/ do |greeting|
+    @message.should == greeting
+  end
 
 You get a failing step because you don't have a `CucumberGreeter` defined yet.
 
 >greeter_steps.rb
 
-	class CucumberGreeter
-	  def greet
-	    "Hello Cucumber!"
-	  end
-	end
+  class CucumberGreeter
+    def greet
+      "Hello Cucumber!"
+    end
+  end
 
-	...
-	Given /^a greeter$/ do
-	  @greeter = CucumberGreeter.new
-	end
+  ...
+  Given /^a greeter$/ do
+    @greeter = CucumberGreeter.new
+  end
 
 ## Describing Features
-	
+  
 One of the three principles of BDD is “Enough is enough.” We want to avoid the pitfalls of the Big Design Up Front,2 but we also want to do enough planning to know we’re heading in the right direction.
 
 For the first release, we simply want to be able to play the game. We should be able to type a command in a shell to start it up, submit guesses, and see the mark for each of our guesses until we crack the code.
@@ -225,18 +231,18 @@ Cucumber lets us describe application features in a simple plain-text format and
 
 >Start of code
 
-	Feature: code-breaker starts game
+  Feature: code-breaker starts game
 
         As a code-breaker
         I want to start a game
         So that I can break the code
 
-	Scenario: start game
+  Scenario: start game
 
-	    Given I am not yet playing
-	    When I start a new game
-	    Then I should see "Welcome to Codebreaker!"
-	    And I should see "Enter guess:"
+      Given I am not yet playing
+      When I start a new game
+      Then I should see "Welcome to Codebreaker!"
+      And I should see "Enter guess:"
 
 The Scenario keyword is followed by a string and then a series of steps. __Each step begins with any of five keywords: Given, When, Then, And, and But.__
 
@@ -249,113 +255,113 @@ We choose the first-person form because it makes the narrative feel more compell
 
 >Directory structure
 
-	- root
-		- features
-			- support
-				- env.rb
-			- codebreaker_starts_game.feature
+  - root
+    - features
+      - support
+        - env.rb
+      - codebreaker_starts_game.feature
 
 `env.rb` just to tell Cucumber that we're in Ruby.
 
 >codebreaker_starts_game.feature
 
-	Feature: code-breaker starts game
+  Feature: code-breaker starts game
 
-		As a code-breaker
-		I want to start a game
-		So that I can break the code
+    As a code-breaker
+    I want to start a game
+    So that I can break the code
 
-		Scenario: start game
-			Given I am not yet playing
-			When I start a new game
-			Then I should see "Welcome to Codebreaker!"
-			And I should see "Enter guess:"
+    Scenario: start game
+      Given I am not yet playing
+      When I start a new game
+      Then I should see "Welcome to Codebreaker!"
+      And I should see "Enter guess:"
 
 Next, we want submit a guess.
 
 >codebreaker_submits_guess.feature
 
-	Feature: code-breaker submits guess
+  Feature: code-breaker submits guess
 
-		The code-breaker submits a guess of four numbers. The game marks the guess with + and - signs.
+    The code-breaker submits a guess of four numbers. The game marks the guess with + and - signs.
 
-		For each number in the guess that matches the number and position of a number in the secret code, the mark includes one + sign. For each number in the guess that matches the number but not the position of an umber in the secret code, the mark includes one - sign.
+    For each number in the guess that matches the number and position of a number in the secret code, the mark includes one + sign. For each number in the guess that matches the number but not the position of an umber in the secret code, the mark includes one - sign.
 
 (non Connextra format)
 
 >code_breaker_submits_guess.feature (Connextra)
 
-	Feature: code-breaker submits guess
+  Feature: code-breaker submits guess
 
-		As a code-breaker
-		I want to submit a guess
-		So that I can try to break the code
+    As a code-breaker
+    I want to submit a guess
+    So that I can try to break the code
 
-		Scenario: all exact matches
-			Given the secret code is "1234"
-			When I guess "1234"
-			Then the mark should be "++++"
+    Scenario: all exact matches
+      Given the secret code is "1234"
+      When I guess "1234"
+      Then the mark should be "++++"
 
 Not that detailed. But you have multiple tools to use, either Connextra or free-form prose.
 
 Other scenarios (need all) (not scalable that much).
 
-	Scenario: all exact matches
-	  Given the secret code is "1234"
-	  When I guess "1234"
-	  Then the mark should be "++++"
+  Scenario: all exact matches
+    Given the secret code is "1234"
+    When I guess "1234"
+    Then the mark should be "++++"
 
-	Scenario: 2 exact matches and 2 number matches
-	  Given the secret code is "1234"
-	  When I guess "1243"
-	  Then the mark should be "++--"
+  Scenario: 2 exact matches and 2 number matches
+    Given the secret code is "1234"
+    When I guess "1243"
+    Then the mark should be "++--"
 
-	Scenario: 1 exact match and 3 number matches
-	  Given the secret code is "1234"
-	  When I guess "1342"
-	  Then the mark should be "+---"
+  Scenario: 1 exact match and 3 number matches
+    Given the secret code is "1234"
+    When I guess "1342"
+    Then the mark should be "+---"
 
-	Scenario: 4 number matches
-	  Given the secret code is "1234"
-	  When I guess "4321"
-	  Then the mark should be "----"
+  Scenario: 4 number matches
+    Given the secret code is "1234"
+    When I guess "4321"
+    Then the mark should be "----"
 
 #### Scenario Outlines
 
 This is a way to make a more scalable scenario flow.
 
-	Scenario Outline: submit guess
-	  Given the secret code is "<code>"
-	  When I guess "<guess>"
-	  Then the mark should be "<mark>"
+  Scenario Outline: submit guess
+    Given the secret code is "<code>"
+    When I guess "<guess>"
+    Then the mark should be "<mark>"
 
-	Scenarios: all numbers correct
-	| code | guess | mark |
-	| 1234 | 1234  | ++++ |
-	| 1234 | 1243  | ++-- |
-	| 1234 | 1423  | +--- |
-	| 1234 | 4321  | ---- |
+  Scenarios: all numbers correct
+  | code | guess | mark |
+  | 1234 | 1234  | ++++ |
+  | 1234 | 1243  | ++-- |
+  | 1234 | 1423  | +--- |
+  | 1234 | 4321  | ---- |
 
 Following convention, we’ve named the columns using the same names that are in angle brackets in the scenario outline, but the placeholders and columns are bound by position, not name.
 
 The entire feature:
 
-  	Scenario Outline: submit guess
+    Scenario Outline: submit guess
 
-	    Given the secret code is "<code>"
-	    When I guess "<guess>"
-	    Then the mark should be "<mark>"
+      Given the secret code is "<code>"
+      When I guess "<guess>"
+      Then the mark should be "<mark>"
 
-	    Scenarios: no matches
-	      | code | guess | mark |
-	      | 1234 | 5555  |      |
+      Scenarios: no matches
+        | code | guess | mark |
+        | 1234 | 5555  |      |
 
-	    Scenarios: 1 number correct
-	      | code | guess | mark |
-	      | 1234 | 1555  | +    |
-	      | 1234 | 2555  | -    |
+      Scenarios: 1 number correct
+        | code | guess | mark |
+        | 1234 | 1555  | +    |
+        | 1234 | 2555  | -    |
 
-	      ...
+        ...
 
 ## Automating Features with Cucumber
 
@@ -367,48 +373,48 @@ We leave /^I am not yet playing$/ blank because it isn't supposed to do anything
 
 >step_definitions/codebreaker_steps.rb
 
-	Given /^I am not yet playing$/  do
-	  
-	end
+  Given /^I am not yet playing$/  do
+    
+  end
 
-	When /^I start a new game$/ do
-	  Codebreaker::Game.new.start
-	end
+  When /^I start a new game$/ do
+    Codebreaker::Game.new.start
+  end
 
 We totally get an error on 'starting a new game' because we haven't written the code yet. Write the code you wish you had!
 
 >Directory structure to fix the thing
 
-	- root
-		- features
-			- step_definitions
-				- codebreaker_steps.rb
-			- support
-				- env.rb
-			- codebreaker_starts_game.feature
-			- codebreaker_submits_guess.feature
-		- lib
-			- codebreaker
-				- game.rb
-			- codebreaker.rb
+  - root
+    - features
+      - step_definitions
+        - codebreaker_steps.rb
+      - support
+        - env.rb
+      - codebreaker_starts_game.feature
+      - codebreaker_submits_guess.feature
+    - lib
+      - codebreaker
+        - game.rb
+      - codebreaker.rb
 
 >game.rb
 
-	module Codebreaker
-		class Game
-			def start
-			end 
-		end
-	end
+  module Codebreaker
+    class Game
+      def start
+      end 
+    end
+  end
 
 >codebreaker.rb # bootstrapping thingie
 
-	require 'codebreaker/game'
+  require 'codebreaker/game'
 
 >env.rb # you now require the 'codebreaker' lib
 
-	$LOAD_PATH << File.expand_path('../../../lib', __FILE__) 
-	require 'codebreaker'	
+  $LOAD_PATH << File.expand_path('../../../lib', __FILE__) 
+  require 'codebreaker' 
 
 #### Test Doubles
 
@@ -416,59 +422,59 @@ We need a fake object that the `Game` thinks is STDOUT, but it really just captu
 
 >codebreaker_steps.rb
 
-	Then /^I should see "[^"]*)$/ do |message|
-		output.messages.should include(message)
-	end
+  Then /^I should see "[^"]*)$/ do |message|
+    output.messages.should include(message)
+  end
 
 This means test will fail because we don't have the mock stuff yet. Add mock:
 
 >codebreaker_steps.rb
 
-	class Output
-	  def messages
-	    @messages ||= []
-	  end
+  class Output
+    def messages
+      @messages ||= []
+    end
 
-	  def puts(message)
-	    messages << message
-	  end
-	end
+    def puts(message)
+      messages << message
+    end
+  end
 
-	# memoization: the first time it is called, it creates an @output and stores it in the @output variable.
+  # memoization: the first time it is called, it creates an @output and stores it in the @output variable.
 
-	def output
-		@output ||= Output.new
-	end
-	
+  def output
+    @output ||= Output.new
+  end
+  
 You should also update the `lib` itself:
 
 >game.rb
 
-	class Game
+  class Game
 
-		def initialize(output)
-		  @output = output
-		end
+    def initialize(output)
+      @output = output
+    end
 
-		def start
-		end
+    def start
+    end
 
-	end
+  end
 
 ## Describing Code with RSpec
 
 > spec/codebreaker/game_spec.rb
 
-	require 'spec_helper'
+  require 'spec_helper'
 
-	module Codebreaker
-	  describe Game do
-	    describe '#start' do
-	      it 'sends a welcome message'
-	      it 'prompts for a first guess'
-	    end
-	  end
-	end
+  module Codebreaker
+    describe Game do
+      describe '#start' do
+        it 'sends a welcome message'
+        it 'prompts for a first guess'
+      end
+    end
+  end
 
 `describe` hooks into RSpec's API to create a subclass of class `Rspec::Core::ExampleGroup`. This is a group of examples of the expected behavior of an object.
 
@@ -478,30 +484,30 @@ To get this to work, you should create the spec helper.
 
 >spec/spec_helper.rb
 
-	require 'codebreaker'
+  require 'codebreaker'
 
 And run the thing
 
-	$ rspec spec/codebreaker/game_spec.rb --format doc --color
+  $ rspec spec/codebreaker/game_spec.rb --format doc --color
 
 We get "PENDING: Not Yet Implemented`. To make it work, we pass a block to the `it()` method. Without the block, the example is considered pending.
 
 #### Red
 
-	describe '#start' do
-		it 'sends a welcome message' do
-			output = double('output')
-			game = Game.new(output)
+  describe '#start' do
+    it 'sends a welcome message' do
+      output = double('output')
+      game = Game.new(output)
 
-			output.should_receive(:puts)
-			.with('Welcome to Codebreaker!')
+      output.should_receive(:puts)
+      .with('Welcome to Codebreaker!')
 
-		end
+    end
 
-		it 'prompts for a first guess' do
+    it 'prompts for a first guess' do
 
-		end
-	      
+    end
+        
     end
 
 Mocks were created by `Rspec::Mocks` to create a dynamic test double framework.
@@ -522,9 +528,9 @@ The first call to `let()` defines a memoized output() that returns a double obje
 
 >codebreaker_steps.rb (Regex shit to see the thingies)
 
-	Then /^I should see "([^\"]*)"$/ do |message|
-	  output.messages.should include(message)
-	end
+  Then /^I should see "([^\"]*)"$/ do |message|
+    output.messages.should include(message)
+  end
 
 Not enough, we have to create the guess methods because this will fail:
 
@@ -542,20 +548,20 @@ One of the benefits of progressing in small steps is that when we intro- duce a 
 
 ## Refactoring with Confidence
 
-	def guess(guess)
-		mark = ""
-		(0..3).each do |index|
-			if exact_match? guess, index
-				mark << "+"
-			end
-		end
+  def guess(guess)
+    mark = ""
+    (0..3).each do |index|
+      if exact_match? guess, index
+        mark << "+"
+      end
+    end
 
-		(0..3).each do |index|
-			if number_match? guess, index
-				mark << "+"
-			end
-		end
-	end
+    (0..3).each do |index|
+      if number_match? guess, index
+        mark << "+"
+      end
+    end
+  end
 
 Code smells: Temporary Variable and Long Method. Both of them are related to procedural methods like this.
 
@@ -565,15 +571,15 @@ Temporary variables can be useful in the process of refactoring, but only tempor
 
 Extract Method refactoring: We create a new empty method with the name we want to use, move the code from the source method to the target method, and adjust as necessary.
 
-	$ rspec spec --backtrace # backtrace for each feature.
+  $ rspec spec --backtrace # backtrace for each feature.
 
 __First refactor: Make `guess` literally just output the guess, without any computations.__
 
 >game.rb
 
-	def guess(guess)
-		@output.puts '+'*exact_match_count(guess) + '-'*number_match_count(guess)
-	end
+  def guess(guess)
+    @output.puts '+'*exact_match_count(guess) + '-'*number_match_count(guess)
+  end
 
 __Second refactor: Move to `inject` instead of `each` to remove the temporary variable.__
 
@@ -619,30 +625,30 @@ __Fourth refactor: Pass everything to the Marker, instead of just the guess, so 
 
 >game.rb
 
-	def guess(guess)
-		marker = Marker.new
-		...
-	end
+  def guess(guess)
+    marker = Marker.new
+    ...
+  end
 
-	class Marker
-		def initialize(secret)
-			@secret = secret
-		end
-		...
-	end
+  class Marker
+    def initialize(secret)
+      @secret = secret
+    end
+    ...
+  end
 
 >Refactored
 
-	def guess(guess)
-		marker = Marker.new(@secret, guess)
-		...
-	end
+  def guess(guess)
+    marker = Marker.new(@secret, guess)
+    ...
+  end
 
-	class Marker
-		def initialize(secret, guess)
-			@secret, @guess = secret, guess
-		end
-	end
+  class Marker
+    def initialize(secret, guess)
+      @secret, @guess = secret, guess
+    end
+  end
 
 Instead of passing around guess through other methods, pass it through `initialize` as a method of abstraction. This makes `Marker` a more self-contained class with only one responsibility, which is to mark shit.
 
@@ -650,7 +656,7 @@ __Fifth refactor (?): Move to own file.__
 
 After the refactor, you should update the specs and shit. This is how you will know if the refactor was decent and your test structure is decent because the changes you should make should be as minimal as possible.
 
-	$ rspec spec --format nested # You will be able to see the test results for each of the classes XD.
+  $ rspec spec --format nested # You will be able to see the test results for each of the classes XD.
 
 #### Exploratory Testing
 
@@ -671,7 +677,7 @@ Perhaps you’re wondering why we’d want to do exploratory testing if we’ve 
   - Working software over comprehensive documentation 
   - Customer collaboration over contract negotiation
   - Responding to change over following a plan
-	
+  
 Tiny, one- or two-week iterations or mini-projects, using a small, fixed-size team. It would be easy to calculate the project budget then.
 
 We need: Reasonable guess on project size and feature (not module) prioritization.
@@ -730,7 +736,7 @@ We can separate the "edge cases" out with a different story. Ex: Verifying email
 - __A title__ so we know which story we are talking about.
 - __A narrative__ that tells us what this story is about. It shold have _a stakeholder_, a description of the _feature_ they want, and the reason they want it--the _benefit_ they expect to gain.
 
-	_As a [stakeholder], I want [feature] so that [benefit]._
+  _As a [stakeholder], I want [feature] so that [benefit]._
 
 - __Acceptance criteria__ so we know when we are done. This takes the form of a number of _scenarios_ made up of individual _steps_.
 
@@ -738,19 +744,198 @@ We can separate the "edge cases" out with a different story. Ex: Verifying email
 
 ## Code Examples
 
+- _subject code_: The code whose behavior we are specifying with RSpec.
+- _expectation_: An expression of how the subject code is expected to behave.
+- _code example_: An executable example of how the subject code can be used and its expected behavior in a given context.
 
+`describe()`: Defines an example group.
 
+`it()`: Defines a code example. The string passed to it describes the specific behavior we're interested in specifying about that facet. The block holds the example code.
 
+    describe "A new Account" do
+    it "should have a balance of 0" do
+               account = Account.new
+               account.balance.should == Money.new(0, :USD)
+    end end
 
+`describe()`/`context()` - Takes in an arbitrary # of arguments and returns a subclass of `RSpec::Core::ExampleGroup`. 
 
+    # We get Authentication::User with no roles assigned
+    module Authentication
+      describe User, "with no roles assigned" do
 
+`it()` - Takes a single string, an optional hash, and an optional block.
 
+#### Pending examples: When?
+- Add pending examples as you think of new examples.
+- Disable examples without losing track of them.
+- Wrap failing examples when you want to be notified that changes to the system cause them to pass.
 
+#### Hooks
 
+`before(:each)`: Recreates the context before each example and keeps state from leaking from ex to ex.
 
+    describe Stack do
+      context "when empty" do
+        before(:each) do
+          @stack = Stack.new
+        end
+      end
 
+      context "when almost empty (with one element)" do 
+        before(:each) do
+          @stack = Stack.new
+          @stack.push 1
+        end 
+      end
 
+      context "when almost full (with one element less than capacity)" do
+        before(:each) do
+          @stack = Stack.new
+          (1..9).each { |n| @stack.push n }
+        end
+      end
 
+      context "when full" do
+        before(:each) do
+          @stack = Stack.new
+          (1..10).each { |n| @stack.push n }
+        end
+      end
+    end
+
+Each of the contexts are isolated from each other.
+
+`before(:all)`: All instance variables are copied to each instance in which the examples are run. Rarely used.
+
+`after(:each)`: When maintaining global states. Not used much.
+
+`after(:all)`: Even rarer than the others. Used usually for closing browsers, database connections, closing sockets, etc.
+
+`around(:each)`: [TODO]
+
+#### Helper Methods
+
+Helper methods are defined in the example group, which are then accessible from all the examples in that group.
+  
+    describe Thing do
+      def create_thing(options)
+        thing = Thing.new
+        thing.set_status(options[:status])
+        thing
+      end
+
+      it "should do something when ok" do
+        thing = create_thing(:status => 'ok')
+        thing.do_fancy_stuff(1, true, :move => 'left', :obstacles => nil) ...
+      end
+
+      it "should do something else when not so good" do
+        thing = create_thing(:status => 'not so good') 
+        thing.do_fancy_stuff(1, true, :move => 'left', :obstacles => nil) ...
+      end 
+    end
+    
+#### Sharing Helper Methods
+
+> features/steps/shared.rb, spec/support.rb
+
+    module UserExampleHelpers
+      def create_valid_user
+        User.new(:email => 'email@example.com', :password => 'shhhhh')
+      end
+
+      def create_invalid_user 
+        User.new(:password => 'shhhhh')
+      end 
+
+    end
+
+> Share that shit. `spec_helper.rb` from Gitlab.
+
+    RSpec.configure do |config|
+      config.mock_with :rspec
+
+      config.include LoginHelpers, type: :feature
+      config.include LoginHelpers, type: :request
+      config.include FactoryGirl::Syntax::Methods
+      config.include Devise::TestHelpers, type: :controller
+
+      config.include TestEnv
+
+      # If you're not using ActiveRecord, or you'd prefer not to run each of your
+      # examples within a transaction, remove the following line or assign false
+      # instead of true.
+      config.use_transactional_fixtures = false
+
+      config.before(:suite) do
+        TestEnv.init(observers: false, init_repos: true, repos: false)
+      end
+      config.before(:each) do
+        TestEnv.setup_stubs
+      end
+    end
+
+#### Shared Examples
+
+When we expect instances of more than one class to behave in the same way, we can use a shared example group to describe it once and then include that example group in other example groups.
+
+    shared_examples_for "any pizza" do
+      it "tastes really good" do
+        @pizza.should taste_really_good
+      end
+
+      it "is available by the slice" do 
+        @pizza.should be_available_by_the_slice
+      end 
+    end
+
+Shared group stuff can be shared (lol) with the `it_behaves_like()` method.
+
+    describe "New York style thin crust pizza" do
+      before(:each) do
+        @pizza = Pizza.new(:region => 'New York', :style => 'thin crust')
+      end
+
+      it_behaves_like "any pizza"
+    
+    end
+
+    describe "Chicago style stuffed pizza" do 
+      before(:each) do
+          @pizza = Pizza.new(:region => 'Chicago', :style => 'stuffed')
+      end
+
+      it_behaves_like "any pizza"
+    
+    end
+
+#### Nested Example Groups
+
+Order precedence: Outer before -> Inner before -> Thingies -> Inner after -> Outer after.
+
+## RSpec::Expectations
+
+#### `should`, `should_not`, and `matchers`
+
+`should()` and `should_not()` both accept either a _matcher_ or a Ruby expression using a specific subset of Ruby operators. A matcher is an object that tries to match against an expected outcome.
+
+    result.should equal(5)
+
+- When the Ruby interpreter encounters this line, it begins by evaluating `equal(5)`. 
+- Behind the scenes, the `should()` calls `matcher.matches?`, passing `self` as the argument.
+- If `matches?(self)` returns `true`, move on.
+- If `false`, `should()` asks the matcher for a failure message and raises an `ExpectationNotMetError` with that message.
+
+#### Built-in Matchers
+
+    include(item)
+    respond_to(message)
+    raise_error(type)
+
+    prime_numbers.should_not include(8)
+    list.should respond_to(:length)
+    lambda { Object.new.explode! }.should raise_error(NameError)
 
 
 
