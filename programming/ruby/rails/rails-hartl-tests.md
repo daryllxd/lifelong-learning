@@ -176,15 +176,3 @@
       before { click_link "Sign out" }
       it { should have_link('Sign in') }
     end
-
-
-
-
-
-
-
-
-
-
-
-

@@ -55,15 +55,3 @@ Cool helperz.
 		5.megabytes
 
 Assignment functions - read!
-
-
-
-
-
-
-
-
-
-
-
-

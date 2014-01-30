@@ -33,20 +33,3 @@
     Capybara is a great piece of software, but it's hard to get working 100% of the time. Tests are often unreliable and brittle against updates to the underlying driver (e.g. poltergeist or selenium). Plus, they're dog slow. Like, if you thought ActiveRecord tests that hit the DB were slow, capybara is at a whole other level.
 
     Use cucumber only if you've got engineers who have used it enough to know how to stop and think, "hey, someone else must have selected a date from a date picker before, let's see if they created some step definitions for it before we write a new one." If your team doesn't do that, your features/step_definitions directory will become a hot mess.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 

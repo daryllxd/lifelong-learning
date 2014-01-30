@@ -59,19 +59,3 @@ Each factory has a name and set of attributes. The name is used to guess the cla
       activation_code { User.generate_activation_code }
       date_of_birth   { 21.years.ago }
     end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
