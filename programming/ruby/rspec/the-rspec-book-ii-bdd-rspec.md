@@ -448,6 +448,8 @@ Passing the test. We are making a fake `customer` with a fake method named `name
 
 #### Test-Specific Extensions
 
+##### Partial Stubbing
+
 A test-specific extension is an extension of an object that is specific to a particular test, or example in our case.
 
 Consider a case in Ruby on Rails where we want to disconnect the system we are working on from the database. We can use real objects but stub the find( ) and save( ) methods that we expect to be invoked.
@@ -482,6 +484,130 @@ _Validation rules will not have any impact on this example._  As long as the con
 
 _No explicit dependency on the database in this example._ Rails will try to load up the schema for the widgets table, but there are no DB interactions.
 
+##### Partial Mocking
+
+In the WidgetsController example, it is possible to get it to pass without ever actually finding a widget or updating its attributes. __As long as the controller method redirects to the widgets_path, that example passes.__
+
+So we separate examples that specify these details. We can set message expectations on the Widget class and instance instead of methods stubs. This is called _partial mocking._
+
+> By splitting the checks you are able to cover both stuff.
+
+    describe WidgetsController do
+      describe "PUT update with valid attributes"
+        it "finds the widget"
+          widget = Widget.new() 
+          widget.stub(:update_attributes).and_return(true)
+
+          Widget.should_receive(:find).with("37").and_return(widget)
+
+          put :update, :id => 37
+        end
+
+        it "updates the widget's attributes" do 
+          widget = Widget.new() 
+          Widget.stub(:find).and_return(widget)
+
+          widget.should_receive(:update_attributes).and_return(true)
+
+          put :update, :id => 37
+        end 
+      end
+    end
+
+The first example specifies that the WidgetsController finds the widget, _so we set an expectation that the Widget class should receive the find() method_. We need to program the widget to return true for update_attributes( ), but we’re not specifying that it is called in this example, so we just use a method stub.
+
+    WidgetsController
+      PUT update with valid attributes
+        finds the widget
+        updates the widget's attributes
+        redirects to the list of widgets
+
+(This is exactly what the heck happens.)
+
+#### One-Line Shortcut
+
+> This 
+
+    customer = double('customer', :name => 'Bryan')
+
+> Is syntactic sugar for this:
+
+    customer = double('customer')
+    customer.stub(:name).and_return('Bryan')  
+
+#### Implementation Injection
+
+> Differing returns based on the arguments
+
+    ages = double('ages') 
+    ages.stub(:age_for) do |what|
+      if what == 'drinking' 21
+      elsif what == 'voting' 18
+      end 
+    end
+
+#### Stub Chain
+
+> Custom AR implementation
+
+    Article.recent.published.authored_by(params[:author_id])
+
+> Instead of
+
+    recent      = double()
+    published   = double()
+    authored_by = double()
+    article     = double()
+    Article.stub(:recent).and_return(recent)
+    recent.stub(:published).and_return(published)
+    published.stub(:authored_by).and_return(article)
+
+> We do stub chain, which is 
+
+    article = double()
+    Article.stub_chain(:recent, :published, :authored_by).and_return(article)
+
+#### More on Message Expectations
+
+__Counts__: If you can only receive a message once, use this:
+
+    mock_account.should_receive(:withdraw).exactly(1).times.
+
+__Negative Expectation__: If we want to only attempt to make connections after pinging a server, here's how you do it: 
+
+     network_double.should_receive(:open_connection).never
+
+[TODO]
+
+#### When to Use Test Doubles and Test-Specific Extensions
+
+- __Isolation from Dependencies__: The problematic dependencies are the ones that are expensive to con- struct, involve external systems (network, servers, even the file system), have dependencies on other expensive objects, or function slowly. We want to isolate our examples from these dependencies because they complicate setup, slow down runtimes, and increase potential points of failure.
+
+- __Isolation from Nondeterminism__: Files get corrupted, disks fail, networks time out, and servers go down in the middle of running specs. This can lead to inconsistent and surprising results when we run our specs.
+
+    Local stuff such as random generators can have pseudo-random sequence tailored for the behavior being supplied.
+
+- __Making Progress Without Implemented Dependencies__: If another team hasn't finished whatever, you use stubs so you can focus on the task at hand.
+
+- __Interface Discovery__: We are able to find hidden stuff, this is known as interface discovery and is the cornerstone of mock objects. In cases like these, we can introduce a mock object, as an interface. This is a very powerful approach to writing OOP software.
+
+- __Focus on Role__: _We should think of roles rather than specific objects when we’re using mocks to discover interfaces._
+
+    In the logging example, the logger could be called a logger, a messenger, a recorder, a reporter, and so on. What the object is doesn’t matter in that example. The only thing that matters is that it represents an object that will act out the role of a logger at runtime. Based on that example, in order to act like a logger, the object has to respond to the log( ) method.
+
+    Focusing on roles rather than objects frees us up to assign roles to different objects as they come into existence.
+
+- __Focus on Interaction Rather Than State__: Object-oriented systems are all about interfaces and interactions. As such, it is more subject to change than the object’s interface. We can therefore keep specs more flexible and less brittle by avoiding reference to the internal state of an object.
+
+    Consider the logger example earlier this chapter. That is a perfect case for a message expectation, because we’re specifying an interaction with a collaborator, not an outcome.
+
+#### Risks and Trade-Offs
+
+- __Nested Doubles__: Doubles should be simple to set up and shallow as well. When we are nesting doubles, we are working with a preexisting design that may have some coupling problems.
+
+- __Absence of Coverage__: When we’re using mock objects in dynamic languages like Ruby, it is possible to change an object’s API and forget to change the examples that mock that same API.
+
+- __Brittle Examples__: The biggest pitfall of over-use of mocks is that examples can become brittle. The more we specify about interactions with dependencies in an example, the more likely that example will be impacted by changes to other code in the system. This is the same impact that any highly coupled code has on a system.
 
 ## Tools and Integration
 
