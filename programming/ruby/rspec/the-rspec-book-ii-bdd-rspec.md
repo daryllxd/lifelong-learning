@@ -362,7 +362,16 @@ Implicit: Concise ass fuck. (The object has to be instantiated without any argum
 
 ## RSpec::Mocks
 
+__Both mock and stub are aliases of the more generic double.__ WTF.
+
 A _test double_ stands in for a collaborator in an example. If we want the CheckingAccount object to log messages somewhere but we have yet to develop a logger, we can use a double in its place. We often refer to them by names like mock objects, test stubs, fakes.
+
+> Object double
+    thingamajig_double = double('thinagmajig')
+> New stub (method)
+    stub_thingamajig = stub('thingamajig')
+> New mock ()
+    mock_thingamajig = mock('thingamajig')
 
 #### Method Stubs
 
@@ -371,18 +380,19 @@ __A _method stub_ is a method that we can program to return predefined responses
     describe Statement do
       it "uses the customer's name in the header" do
 
-> Create a test double. The customer double stands in for a real Customer.
+> Create a test double. The customer double stands in for a real Customer. This is a "Customer".
+
         customer = double('customer')
 
-        # Method stub: First argument is symbol of the name of the mthod we want to stub.
-        # and_return tells the double to return 'Aslak' in response to the name() message.
+> Method stub: This is a method `name` that we are making, and calling this fake method means you return 'Aslak'.
+
         customer.stub(:name).and_return('Aslak')
         statement = Statement.new(customer)
         statement.generate.should =~ /^Statement for Aslak/
       end 
     end
 
-Passing the test. (Written after the test lol)
+Passing the test. We are making a fake `customer` with a fake method named `name`.
 
     class Statement
       def initialize(customer)
@@ -400,18 +410,78 @@ Passing the test. (Written after the test lol)
       "Statement for Aslak"
     end
 
-Message Expectations: A message expectation, aka mock expectation, is a method stub that will raise an error if it is never called.
+#### Message Expectations: A message expectation, aka mock expectation, is a method stub that will raise an error if it is never called.
 
     describe Statement do
       it "uses the customer's name in the header" do
       customer = double('customer') 
+
+> Using `should_receive` instead of `stub()` sets an expectation that the cx double should receive the `name()` message.
+
       customer.should_receive(:name).and_return('Aslak') 
       statement = Statement.new(customer) 
       statement.generate.should =~ /^Statement for Aslak/
       end 
     end
 
-[TODO]
+#### Mixing Method Stubs and Message Expectations
+
+    describe Statement do
+      it "logs a message on generate()" do
+
+> Create a dummy customer with a dummy method.
+
+        customer = stub('customer')
+        customer.stub(:name).and_return('Aslak')
+
+> Create a dummy logger.
+
+        logger   = mock('logger')
+        statement = Statement.new(customer, logger)
+
+> We test both logger and generate at the same time because logger depends on generate.
+
+        logger.should_receive(:log).with(/Statement generated for Aslak/)
+        statement.generate
+      end 
+    end
+
+#### Test-Specific Extensions
+
+A test-specific extension is an extension of an object that is specific to a particular test, or example in our case.
+
+Consider a case in Ruby on Rails where we want to disconnect the system we are working on from the database. We can use real objects but stub the find( ) and save( ) methods that we expect to be invoked.
+
+    describe WidgetsController do
+      describe "PUT update with valid attributes"
+        it "redirects to the list of widgets"
+          widget = Widget.new()
+
+> We stub the class-level find() method to return a known value. We get teh widge.
+
+          Widget.stub(:find).and_return(widget)
+
+> We stub the update_attributes() value to return true.
+
+          widget.stub(:update_attributes).and_return(true)
+
+> We invoke put() from the Rails functional testing API.
+
+          put :update, :id => 37
+
+> The response should redirect to the list of widgets.
+
+          response.should redirect_to(widgets_path)
+        end
+      end 
+    end
+
+We don’t really need to know what constitutes valid attributes in order to specify the controller’s behavior in response to them. __We just program the Widget to pretend it has valid attributes.__
+
+_Validation rules will not have any impact on this example._  As long as the controller's responsibility does not change, this example won't need to change, nor will the controller itself.
+
+_No explicit dependency on the database in this example._ Rails will try to load up the schema for the widgets table, but there are no DB interactions.
+
 
 ## Tools and Integration
 
