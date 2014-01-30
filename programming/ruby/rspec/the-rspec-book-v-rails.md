@@ -246,4 +246,66 @@ Need Selenium when the app has rich client-side interactions built with JavaScri
 
 ## Rails Views
 
-#### Writing View Specs
+A view spec is a collection of code examples fro a particular view template. View examples are inherently state-based.
+
+In most cases, we're interested in the semantic content only, except for forms, we need these to be rendered correctly.
+
+> spec/views/messages/show.html.erb_spec.rb
+
+    require 'spec_helper'
+    describe "messages/show.html.erb" do
+      it "displays the text attribute of the message" do render
+          rendered.should contain("Hello world!")
+      end
+    end
+
+#### `render(), rendered(), and contain()`
+
+- `render`: Render the file passes to the outermost describe() block.
+- `rendered()`: Return rendered content.
+- `contain()`: SE bitch.
+
+At this point there is no controller yet, so the responsibility is on the view spec itself.
+
+Use `assign()` to provide data (mock) to the view.
+
+    it "displays the text attribute of the message" do
+        assign(:message, double("Message", :text => "Hello world!"))
+        render
+        rendered.should contain("Hello world!")
+    end
+
+#### Shit to glean
+
+- __Directory organization__: The structure for view specs mimics the structure in `app/views`. `specs/views/messages/` will be for view templates found in `app/views/messages/`.
+- __File naming__: View specs are named after the template they provide examples for with an `_spec.rb` appended to the filename. `index.html.erb` has a corresponding `index.html.erb_spec.rb`.
+- __Always require spec_helper.rb__: Every view spec will need to require the `spec_helper.rb` file.
+- __Describing view specs__: The `describe()` is important, because it uses the path to the view minus the `app/views/` portion. DRY.
+
+#### Mocking Models
+
+[TODO]
+
+## Rails Controllers
+
+A controller spec is a collection of examples of the expected behavior of actions on a single controller. Whereas views are inherently state- based, controllers are naturally interaction-based.
+
+We can test controllers by themeselves since controllers don't render views and we have mocks/stubs to simulate a model.
+
+__A simple guideline for a controller is that it should know what to do but not how to do it. Controllers that know too much about the how become responsible for too many things and as a result become bloated, messy, and hard to understand.__
+
+    describe MessagesController do 
+      describe "POST create" do
+        it "creates a new message"
+        it "saves the message" end
+    end
+
+    it "creates a new message" do 
+
+      # Message controller receives
+      Message.should_receive(:new).with("text" => "a quick brown fox") 
+
+      # Create a message with the text
+      post :create, :message => { "text" => "a quick brown fox" }
+    end
+

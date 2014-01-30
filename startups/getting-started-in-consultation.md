@@ -4,12 +4,12 @@ The Quick Start -- Running at Full Speed
 Before you start
 ----------------
 
-	⁃	Have a minimum of six months of basic living and professional expenses put aside,
-	⁃	Full-time focus on entering the profession with minimum distractions.
-	⁃	Access to resources (designers, printers, equipment suppliers, lawyers, etc.)
-	⁃	Risk takers: Move forward when 80% ready and fine-tune the remaining 20% when needed.
-	⁃	A willingness to step out of traditional comfort zones and work hard at using new skills and behaviours.
-	⁃	The belief that they have value that can improve other people's work and lives.
+*	Have a minimum of six months of basic living and professional expenses put aside,
+*	Full-time focus on entering the profession with minimum distractions.
+*	Access to resources (designers, printers, equipment suppliers, lawyers, etc.)
+*	Risk takers: Move forward when 80% ready and fine-tune the remaining 20% when needed.
+*	A willingness to step out of traditional comfort zones and work hard at using new skills and behaviours.
+*	The belief that they have value that can improve other people's work and lives.
 
 First Dimension: Creating Infrastructure
 ----------------------------------------
@@ -75,28 +75,28 @@ Recipient: American Press Institute Lifetime Achievement Award Recipient: Ne
 Second Dimension: Reaching Out for Business
 -------------------------------------------
 
-	⁃	This is the marketing business more than it is the consulting business.
-	⁃	Quality trumps quantity.
-	⁃	Rejection is the by-product of marketing.
-	⁃	You must schedule and implement your marketing on a disciplined basis.
-	⁃	You always need a definitive next step.
-	⁃	Call everyone!!! When in doubt, include people, do not exclude them.
-	⁃	Target 12: Choose 12 organisations within a reasonable distance of your home.
-	⁃	Get organisations which can actually pay.
-	⁃	Make an educated guess as to who the likely buyer would be.
+*	This is the marketing business more than it is the consulting business.
+*	Quality trumps quantity.
+*	Rejection is the by-product of marketing.
+*	You must schedule and implement your marketing on a *isciplined basis.
+*	You always need a definitive next step.
+*	Call everyone!!! When in doubt, include people, do not exclude them.
+*	Target 12: Choose 12 organisations within a reasonable distance of your home.
+*	Get organisations which can actually pay.
+*	Make an educated guess as to who the likely buyer would be.
 
-Ten Areas to Examine If You Lack Traction
+#### Ten Areas to Examine If You Lack Traction
 
-	⁃	You have overestimated the market need.
-	⁃	You aren't good enough.
-	⁃	You take rejection too personally.
-	⁃	Your support system isn't helping.
-	⁃	You're spending too much.
-	⁃	You are too restricted geographically.
-	⁃	You have insufficient contacts or business acumen.
-	⁃	The timing is really poor.
-	⁃	You're in this for the wrong reasons.
-	⁃	You have no differentiation.
+*	You have overestimated the market need.
+*	You aren't good enough.
+*	You take rejection too personally.
+*	Your support system isn't helping.
+*	You're spending too much.
+*	You are too restricted geographically.
+*	You have insufficient contacts or business acumen.
+*	The timing is really poor.
+*	You're in this for the wrong reasons.
+*	You have no differentiation.
 
 Attracting Investment
 
@@ -498,4 +498,3 @@ Celebrity Status
 	⁃	Speak on your topic or field at major public forums, conventions, and meetings.
 	⁃	Offer your services in the field.
 	⁃	Establish a course at your local school or extension program.
-
