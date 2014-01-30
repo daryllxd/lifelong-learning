@@ -2,6 +2,7 @@ Sublime
 
 ## Views
 
+	C-R							Show outline (!)
 	C-M-2						2 views
 	Ct-1 or Ct-2 		Focus on view
 	S-Ct-#					Move file to specified view
@@ -9,19 +10,27 @@ Sublime
 	C-M-1						One view only
 	Ct-tab					Cycle
 
-## Moving
+## Moving/Editing
 
+	C-S-D						Duplicate selected
 	Ct-K						Delete to end of line
 	Ct-A						Move to beginning of line
 	Ct-E						Move to end of line
 	Ct-P						Move up
 
+	C-M-.						Close Tag
+	Ct-S-W					Wrap selection with tag
+	F5							Sort lines
+	C-L							Center screen on cursor
+
 ## Selection
 
 	Ct-C-G					Select all instances of the word (!)
+	M-LClick				Select column					
 	C-D							Select a word
 	C-L							Select a line
 	Ct-C-M					Select everyting inside the bracket
+	C-U							Unselect
 
 ## Inserting Stuff
 

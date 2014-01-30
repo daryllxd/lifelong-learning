@@ -1103,21 +1103,3 @@ RCov is a code coverage tool. The idea is that you run your specs, and RCov obse
     end
 
 ## Extending RSpec [TODO]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
