@@ -48,33 +48,3 @@ Do this shit.
 #### Writing View Specs
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

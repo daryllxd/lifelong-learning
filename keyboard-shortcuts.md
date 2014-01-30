@@ -9,6 +9,13 @@ Sublime
 	C-M-1						One view only
 	Ct-tab					Cycle
 
+## Moving
+
+	Ct-K						Delete to end of line
+	Ct-A						Move to beginning of line
+	Ct-E						Move to end of line
+	Ct-P						Move up
+
 ## Selection
 
 	Ct-C-G					Select all instances of the word (!)

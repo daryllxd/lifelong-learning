@@ -1029,19 +1029,80 @@ __A _method stub_ is a method that we can program to return predefined responses
 
     describe Statement do
       it "uses the customer's name in the header" do
+
+        # Create a test double. The customer double stands in for a real Customer.
         customer = double('customer')
+
+        # Method stub: First argument is symbol of the name of the mthod we want to stub.
+        # and_return tells the double to return 'Aslak' in response to the name() message.
         customer.stub(:name).and_return('Aslak')
         statement = Statement.new(customer)
         statement.generate.should =~ /^Statement for Aslak/
       end 
     end
 
-This example specifies that a statement uses its customer’s name to generate part of the statement. The customer double stands in for a real `Customer`.
+Passing the test. (Written after the test lol)
 
-k
+    class Statement
+      def initialize(customer)
+          @customer = customer
+      end
 
+      def generate
+        "Statement for #{@customer.name}"
+      end 
 
+    end
 
+    # Simplest code to pass the test.
+    def generate
+      "Statement for Aslak"
+    end
+
+Message Expectations: A message expectation, aka mock expectation, is a method stub that will raise an error if it is never called.
+
+    describe Statement do
+      it "uses the customer's name in the header" do
+      customer = double('customer') 
+      customer.should_receive(:name).and_return('Aslak') 
+      statement = Statement.new(customer) 
+      statement.generate.should =~ /^Statement for Aslak/
+      end 
+    end
+
+[TODO]
+
+## Tools and Integration
+
+    $ rspec simple_math_spec.rb
+    # Rails
+    $ bundle exec rspec spec
+    $ rspec path/to/my/specs --format documentation
+    # Format to HTML
+    $ rspec path/to/my/specs --format html:path/to/my/report.html
+
+#### Rake: `rspec-rails`
+
+    rake spec             # Run all specs in spec directory
+    rake spec:controllers # Run the code examples in spec/controllers
+    rake spec:helpers     # Run the code examples in spec/helpers
+    rake spec:models      # Run the code examples in spec/models
+    rake spec:requests    # Run the code examples in spec/requests
+    rake spec:routing     # Run the code examples in spec/routing
+    rake spec:views       # Run the code examples in spec/views
+    
+#### RCov
+
+RCov is a code coverage tool. The idea is that you run your specs, and RCov observes what code in your application is executed and what is not. It then provides a report listing all the lines of code that were never executed when you ran your specs and a summary identifying the per- centage of your code base that is covered by specs.
+
+#### Guard
+
+    guard 'rspec', :version => 2, :cli => '--drb --color --format doc' do
+      watch(%r{^spec/.+_spec\.rb$})
+      ...
+    end
+
+## Extending RSpec [TODO]
 
 
 
