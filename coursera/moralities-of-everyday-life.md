@@ -476,36 +476,3 @@ There are many other issues for which we are too quick to hit the moralization b
 And nowhere is moralization more of a hazard than in our greatest global challenge. The threat of human-induced climate change has become the occasion for a moralistic revival meeting. In many discussions, the cause of climate change is overindulgence (too many S.U.V.’s) and defilement (sullying the atmosphere), and the solution is temperance (conservation) and expiation (buying carbon offset coupons). Yet the experts agree that these numbers don’t add up: even if every last American became conscientious about his or her carbon emissions, the effects on climate change would be trifling, if for no other reason than that two billion Indians and Chinese are unlikely to copy our born-again abstemiousness. Though voluntary conservation may be one wedge in an effective carbon-reduction pie, the other wedges will have to be morally boring, like a carbon tax and new energy technologies, or even taboo, like nuclear power and deliberate manipulation of the ocean and atmosphere. Our habit of moralizing problems, merging them with intuitions of purity and contamination, and resting content when we feel the right feelings, can get in the way of doing the right thing.
 
 Far from debunking morality, then, the science of the moral sense can advance it, by allowing us to see through the illusions that evolution and culture have saddled us with and to focus on goals we can share and defend. As Anton Chekhov wrote, “Man will become better when you show him what he is like.”
-
-Steven Pinker is the Johnstone Family Professor of Psychology at Harvard University and the author of “The Language Instinct” and “The Stuff of
-Thought: Language as a Window Into Human Nature.”
-
-
-Copyright 2008 The New York Times Company
-Privacy Policy Search Corrections RSS First Look Help Contact Us Work for Us Site Map
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

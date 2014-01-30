@@ -5,27 +5,3 @@ I have a very specific method to be better. One of the best ways is through read
 I think C++ is overrated in saying that it is faster because it's a bad thing for things such as User Experience which needs to be iterative.
 
 There is also a push back and they say it is a crap language because it's easy to make errors and hard to debug. It's not just the only thing that justifies what a good language is. In game engines I think it is extremely powerful. I think people overrate and underrate technologies based on ignorance.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

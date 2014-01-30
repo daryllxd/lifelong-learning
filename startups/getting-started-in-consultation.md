@@ -170,45 +170,45 @@ Financial Needs
 10 Traits
 ---------
 
-	•	Humor and perspective. You shouldn't be as high as the last victory or as low as the last defeat. Humor is also a sign of high intelligence and mental agility.
-	•	Influence. You have to be able to speak in such a way that you can command a room or persuade an individual.
-	•	Confidence and self-esteem.
-	•	Fearlessness. Walk away from the business you don't want and the buyers you don't like.
-	•	Rapid framing. You can quickly summarize the issues and articulate what the client wants.
-	•	Value generation. You are able to create real value for the client.
-	•	Intellectual firepower. Powerful people tend to hire powerful people, and powerful people are the ones with large sums to invest.
-	•	Active listening. Demonstrate that you are able to listen to the other people correctly, and that you understand what they are saying.
-	•	Instantiation. You are able to make abstract examples and concepts tangible.
-	•	Bang-bang responsiveness. GET BACK TO CX AS SOON AS POSSIBLE!
+	* Humor and perspective. You shouldn't be as high as the last victory or as low as the last defeat. Humor is also a sign of high intelligence and mental agility.
+	* Influence. You have to be able to speak in such a way that you can command a room or persuade an individual.
+	* Confidence and self-esteem.
+	* Fearlessness. Walk away from the business you don't want and the buyers you don't like.
+	* Rapid framing. You can quickly summarize the issues and articulate what the client wants.
+	* Value generation. You are able to create real value for the client.
+	* Intellectual firepower. Powerful people tend to hire powerful people, and powerful people are the ones with large sums to invest.
+	* Active listening. Demonstrate that you are able to listen to the other people correctly, and that you understand what they are saying.
+	* Instantiation. You are able to make abstract examples and concepts tangible.
+	* Bang-bang responsiveness. GET BACK TO CX AS SOON AS POSSIBLE!
 
 Time Use
 
-	•	Create lists and folders of what to do, paper lists are usually better than computer ones.
-	•	Find advisors whom you trust, for stuff like accounting, paying yourself a salary, how to get clients, how to position the biz…
-	•	Find a mentor who will teach you what to do and who has been in your place before.
-	•	Find specialists who know how you can incorporate a company or how to structure the finances and payroll.
+	* Create lists and folders of what to do, paper lists are usually better than computer ones.
+	* Find advisors whom you trust, for stuff like accounting, paying yourself a salary, how to get clients, how to position the biz…
+	* Find a mentor who will teach you what to do and who has been in your place before.
+	* Find specialists who know how you can incorporate a company or how to structure the finances and payroll.
 
 Time Investment Tips
 
-	•	Integrate your professional life and your personal life.
-	•	Use lists to create forward progress (daily, weekly, and monthly todo list).
-	•	Don't do things which you aren't skilled in. Hire a graphic designer to do your letterhead and logo. Hire a lawyer to incorporate, an accountant to do your taxes.
-	•	Don't dally over low-priority decisions. Think of things which can be change immediately after anyway.
-	•	Do what feels right at the time.
-	•	Maintain a sanctum sanctorum. You have to have a designated workplace as a private office. This has to have all your equipment and have minimum distractions.
-	•	Be selfish with personal time, tell people you are busy anyway. Schedule repairs and maintenance around your convenience, not the vendors.
-	•	Plan your long-term investment.
-	•	GO WHEN YOU ARE 80% READY
+	* Integrate your professional life and your personal life.
+	* Use lists to create forward progress (daily, weekly, and monthly todo list).
+	* Don't do things which you aren't skilled in. Hire a graphic designer to do your letterhead and logo. Hire a lawyer to incorporate, an accountant to do your taxes.
+	* Don't dally over low-priority decisions. Think of things which can be change immediately after anyway.
+	* Do what feels right at the time.
+	* Maintain a sanctum sanctorum. You have to have a designated workplace as a private office. This has to have all your equipment and have minimum distractions.
+	* Be selfish with personal time, tell people you are busy anyway. Schedule repairs and maintenance around your convenience, not the vendors.
+	* Plan your long-term investment.
+	* GO WHEN YOU ARE 80% READY
 
 Why do some people obtain biz faster?
 
-	•	Larger contact base.
-	•	Business from a former employer.
-	•	Bolder in pursuing networking and leads.
-	•	Higher confidence and self-esteem.
-	•	Luck and serendipity.
-	•	Fater with publicity, web presence, promotion.
-	•	IF YOU CANNOT ACQUIRE BUSINESS WITHIN A YEAR, EXIT.
+	* Larger contact base.
+	* Business from a former employer.
+	* Bolder in pursuing networking and leads.
+	* Higher confidence and self-esteem.
+	* Luck and serendipity.
+	* Fater with publicity, web presence, promotion.
+	* IF YOU CANNOT ACQUIRE BUSINESS WITHIN A YEAR, EXIT.
 
 You have to see your bookkeeper, accountant, and attorney in the eye. You also have to be near your printer.
 
@@ -219,22 +219,22 @@ Chapter Two -- Physical Space
 
 Office at Home
 
-	•	Enclosed, private area with a door.
-	•	Sufficient space for a computer, a printer, a phone, a postage meter, and a desk.
-	•	Phone line
-	•	Air conditioning
-	•	Enough storage for frequently needed files, support materials, and supplies
-	•	Natural lighting from outdoors
-	•	Large, spacious desk and chair
-	•	You can charge rent to yourself
-	•	As big a monitor as you can
-	•	A laser printer with the fastest printing you can afford.
+	* Enclosed, private area with a door.
+	* Sufficient space for a computer, a printer, a phone, a postage meter, and a desk.
+	* Phone line
+	* Air conditioning
+	* Enough storage for frequently needed files, support materials, and supplies
+	* Natural lighting from outdoors
+	* Large, spacious desk and chair
+	* You can charge rent to yourself
+	* As big a monitor as you can
+	* A laser printer with the fastest printing you can afford.
 
 Keys
 
-	•	Let go of what you already know. Your professional arrogance might kill you.
-	•	Find people smarter than you. Success is not accident and most leave clues. Find a mentor who will tell it to you like it is, won't do it for you but can give solid advice.
-	•	Own your value or stay employed. You are an expert. Your expertise enhances the quality of human life, by giving people access to information they didn't have before.
+	* Let go of what you already know. Your professional arrogance might kill you.
+	* Find people smarter than you. Success is not accident and most leave clues. Find a mentor who will tell it to you like it is, won't do it for you but can give solid advice.
+	* Own your value or stay employed. You are an expert. Your expertise enhances the quality of human life, by giving people access to information they didn't have before.
 
 Chapter Three
 =============
@@ -246,11 +246,11 @@ Marketing: The act of creating and accentuating need among potential buyers of y
 
 Spokes
 
-	•	Press kit : Flyers/presentation folder of your portfolio.
-	•	Stationary and related image products: Letterhead, matching second sheets, envelopes, labels, business cards
-	•	Networking: Testimonials, references.
-	•	Pro bono work.
-	•	Listing, ads, and other passive sources.
+	* Press kit : Flyers/presentation folder of your portfolio.
+	* Stationary and related image products: Letterhead, matching second sheets, envelopes, labels, business cards
+	* Networking: Testimonials, references.
+	* Pro bono work.
+	* Listing, ads, and other passive sources.
 
 Business cards are not for marketing, they are for people to contact you. Name, title, organisation, phone, fax.
 
@@ -258,10 +258,10 @@ Networking: You want to provide value to others so they will be moved to recipro
 
 Pro Bono Work
 
-	•	You are legitimately contributing to a worthy cause.
-	•	You are honing your skills in an appreciative environment.
-	•	Potential buyers are seeing you in the best possible light.
-	•	Don't make sales pitches, attempt to create good relationships.
+	* You are legitimately contributing to a worthy cause.
+	* You are honing your skills in an appreciative environment.
+	* Potential buyers are seeing you in the best possible light.
+	* Don't make sales pitches, attempt to create good relationships.
 
 Electronic consulting: Make relationships, no corporate buyer looks for services over the Internet. Better to try to get articles and columns published in online publications to enhance the reach of your expertise and differentiate you.
 
@@ -272,58 +272,58 @@ Chapter Five -- Advanced Marketing: Creating a Brand
 
 Web site
 
-	•	A web site is a credibility site, not a sales site. Execs might get to your site after they meet or hear from you, and they should know that you know your stuff.
-	•	You want to have an enduring connection.
-	•	You want to increase credibility of yourself.
-	•	Personal contact number.
+	* A web site is a credibility site, not a sales site. Execs might get to your site after they meet or hear from you, and they should know that you know your stuff.
+	* You want to have an enduring connection.
+	* You want to increase credibility of yourself.
+	* Personal contact number.
 
 What they look for in a web designer
 
-	•	Get references about the designer's reliability.
-	•	Establisj costs clearly, both for setup, ongoing charges, and yearly fees.
-	•	Make sure the chemistry is right.
-	•	Agree to a test site before going live.
-	•	Figure out who secures the domains, you or them.
+	* Get references about the designer's reliability.
+	* Establisj costs clearly, both for setup, ongoing charges, and yearly fees.
+	* Make sure the chemistry is right.
+	* Agree to a test site before going live.
+	* Figure out who secures the domains, you or them.
 
 Trade Show Presentations
 
-	•	Begin with a hook (story, statistic, illustration, humour).
-	•	Middle of the speech: "I have x points".
-	•	The end should be a brief summary and call to action.
-	•	Use a professional introduction and ask the introducer to read it verbatim.
-	•	Practice in the room before you speak.
-	•	Use visuals that can be seen.
-	•	Tape your presentations.
+	* Begin with a hook (story, statistic, illustration, humour).
+	* Middle of the speech: "I have x points".
+	* The end should be a brief summary and call to action.
+	* Use a professional introduction and ask the introducer to read it verbatim.
+	* Practice in the room before you speak.
+	* Use visuals that can be seen.
+	* Tape your presentations.
 
 Notes
 
-	•	A criminal will find you anyway, so don't be afraid to put your home address out there.
-	•	You learn from books, so don't duel them.
-	•	Writing a book: Have something to say.
-	•	No, do not do podcasts on other sites.
+	* A criminal will find you anyway, so don't be afraid to put your home address out there.
+	* You learn from books, so don't duel them.
+	* Writing a book: Have something to say.
+	* No, do not do podcasts on other sites.
 
 Best Practices in Leverage
 
-	•	Use a signature file. "Alan Weiss, Ph. D. President, Summit Consulting Group, Inc. Box 1009 East Greenwich RI 02818 summitconsulting.com alan@summitconsulting .com
-	•	Align contacts in groups.
-	•	Spread testimonials around, if you can cycle the different testimonials, why not.
-	•	Use form macros if you can.
-	•	Press release
-	•	Create a professional voice mail response.
-	•	Promote the brand
-	•	Provide downloadable material
-	•	Maximize web presence (SEO will come later once you build up your brand).
-	•	Google Alerts to know where things come from.
+	* Use a signature file. "Alan Weiss, Ph. D. President, Summit Consulting Group, Inc. Box 1009 East Greenwich RI 02818 summitconsulting.com alan@summitconsulting .com
+	* Align contacts in groups.
+	* Spread testimonials around, if you can cycle the different testimonials, why not.
+	* Use form macros if you can.
+	* Press release
+	* Create a professional voice mail response.
+	* Promote the brand
+	* Provide downloadable material
+	* Maximize web presence (SEO will come later once you build up your brand).
+	* Google Alerts to know where things come from.
 
 
 Chapter Six -- Process and Acquiring Business
 =============================================
 
-	•	Acquiring consulting clients is totally dependent on building solid relationships, not making sales.
-	•	Relationships are built with specific people, not with organisations or legal entities.
-	•	The best way to build relationships is by placing yourself in the buyer's shoes and thinking from the outside in.
-	•	The buyer doesn't care how good you are; the buyer only cares what's in it for the buyer, so finish on business outcomes.
-	•	Providing value early is the key to trust and engagement.
+	* Acquiring consulting clients is totally dependent on building solid relationships, not making sales.
+	* Relationships are built with specific people, not with organisations or legal entities.
+	* The best way to build relationships is by placing yourself in the buyer's shoes and thinking from the outside in.
+	* The buyer doesn't care how good you are; the buyer only cares what's in it for the buyer, so finish on business outcomes.
+	* Providing value early is the key to trust and engagement.
 
 The Right Buyer
 

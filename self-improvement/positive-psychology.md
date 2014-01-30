@@ -45,11 +45,11 @@ lecture 3 basic premises
 education - building on a spiral as you move along
 happiness is ultimately determined by the internal 
 Schools of thought
-•	bridge building vs division and serparation
-•	change is possible vs change is illusive
-•	internal factors determine happiness vs external circumstances
-•	human nature must be obeyed vs human nature is perfected
-•	pursuit of happiness is good or pursuit of happiness is narcissistic
+* bridge building vs division and serparation
+* change is possible vs change is illusive
+* internal factors determine happiness vs external circumstances
+* human nature must be obeyed vs human nature is perfected
+* pursuit of happiness is good or pursuit of happiness is narcissistic
 ivory tower vs main street - very few people are actually able to talk and learn about optimizing happiness
 celibacy does not suit universities - they must share their knowledge and actions
 stereotype - misconception is that we dont evaluate our selves adequately
@@ -366,11 +366,11 @@ preparation, immersion = foreplay is impt
 there are many eurekas out there but not everything gets transferred to something useful
 immersing in yourself
 The creative process
-•	Preparation
-•	Incubation
-•	Eureka
-•	Evaluation
-•	Elaboration/execution
+* Preparation
+* Incubation
+* Eureka
+* Evaluation
+* Elaboration/execution
 pennybaker 1997 - people who wrote their traumas in a journal, at first they were very anxious but after that it became lower and remained that way consistently
 people who wrote random shit (control group) had no change
 immune system, overall health was better
@@ -530,10 +530,10 @@ The straight-line schema would cause us to lose motivation easier because there'
 Politicians - skilled at creating opportunities, create self-fulfilling prophecies by raising expectations, change from bad luck to good luck
 Tal reviews his lecture notes 4 times before going out
 4 tips for being lucky
-•	Listen to your instincts
-•	Be open to new experiences and break the normal routine
-•	Spend a few moments each day remembering things that went well. Focus on the full part of the glass
-•	Visualize yourself being lucky before an impt meeting or telephone call
+* Listen to your instincts
+* Be open to new experiences and break the normal routine
+* Spend a few moments each day remembering things that went well. Focus on the full part of the glass
+* Visualize yourself being lucky before an impt meeting or telephone call
 Pareto's 80/20 rule
 Think about your productive hours if its in the morning, afternoon, or night
 In our society, success is highly overrated and failure is highly underrated. We aret trained to celebrate the A and the destinations as opposed to the journey. We get this from our teachers, our parents, who got it from their parents.
@@ -558,8 +558,8 @@ Stay with your failures because always, the pain of the fear of failure is alway
 Just make some sort of plan but have a  rough draft every time.
 Compassion means compassion for others and for one's self. PERMISSION TO BE HUMAN!
 How to help others who are perfectionists?
-•	It's difficult to help others because 1) it has to be a desire to change one's self
-•	Lead by example
+* It's difficult to help others because 1) it has to be a desire to change one's self
+* Lead by example
 Positive psych should actually be realistic psych. Just tell yourself that failure exists, you learn from failure, give yourself permission to be human, focus on the journey, and live life. Most of our life is the here and now.
 Nature, to be commanded, must be obeyed.
  
@@ -577,9 +577,9 @@ There's no such thing as good or bad meditation. It's about the process.
 We cannot thrive psychologically if we're constantly living in the future.
 Meeting with  different people from the West and from the East
 Lama Oser - experienced meditator and was tested on various parameters.
-•	Left-to-right ratio in prefrontal cortex. Happier people have a higher ratio in terms of brain activity. More neural activity. Also predicts your physical immune system and 
-•	High ability in recognizing emotions in others (super-quick facial signals) - high level of empathy - more than any other person measured.  Extremely fast cognitive functioning.
-•	The startle response - everyone gets startled except  for this guy, who can suppress startled response. He is so relaxed and focus that nothing startles him. First time in recorded history.
+* Left-to-right ratio in prefrontal cortex. Happier people have a higher ratio in terms of brain activity. More neural activity. Also predicts your physical immune system and 
+* High ability in recognizing emotions in others (super-quick facial signals) - high level of empathy - more than any other person measured.  Extremely fast cognitive functioning.
+* The startle response - everyone gets startled except  for this guy, who can suppress startled response. He is so relaxed and focus that nothing startles him. First time in recorded history.
 o	"Given the larger a person startled, the more intensely that person tends to experiened upsetting emotions, Oser's perf had tantalizing implications, suggesting a remarkable level of emotional equanimity." - Daniel Goleman
 o	He influences other people on controversial topics such as being a monk vs being a scientist and reincarnation.
 o	People can't  be confrontational and there was some sort of aura where they couldn't be aggressive.
@@ -608,8 +608,8 @@ Just being in a room with people laughing gets people to have a higher physiolog
 Humor is a way  of mindfully perceiving the world where an individual is aware of the potentialities in a situation or environment
 That things are better now compared to alternatives, or there is an alternative.
 Philosophy
-•	Freud - Humor as "psychological release" - model consciousness - we can't hit people when they offend us but we can make jokes to make it socially acceptable. We often joke about physicality before we can be physical. Same with political figures (we can't do much but we  can at least mock them)
-•	Bergson - Social blunders, etc are funny because they're a form of social correction
+* Freud - Humor as "psychological release" - model consciousness - we can't hit people when they offend us but we can make jokes to make it socially acceptable. We often joke about physicality before we can be physical. Same with political figures (we can't do much but we  can at least mock them)
+* Bergson - Social blunders, etc are funny because they're a form of social correction
 Humor is a cognitive approach of seeing the world in a way that transcends its monotony and boringness
 Why are some people more humourous than others?
 Experiment about breaking social  norms
@@ -620,12 +620,12 @@ Why would we date someone with a sense of humor? Hypothesis: We experience the h
 Most of the problems that we have with our leaders is attributed to their lack of humor
 A lot of our political problems/relationship problems are because of the inflexibility of our ideologies.
 Steps to Increase our Humor
-•	Write stories that are funny to you
-•	Watch funny people
-•	Two questions - "Why am I so funny and why don't others recognize me?"
-•	Permission to be subhuman - "we're all in this together"
-•	Finding a balance (where should I be funny?)
-•	Go 100% (Do it all out and timing is important)
+* Write stories that are funny to you
+* Watch funny people
+* Two questions - "Why am I so funny and why don't others recognize me?"
+* Permission to be subhuman - "we're all in this together"
+* Finding a balance (where should I be funny?)
+* Go 100% (Do it all out and timing is important)
 After 9-11 comedians had a hard time making humor but John Stewart says that it's a privilege and not a burden to make people laugh even if things are sad
 Attempt to make things human
 Humor also demands extraordinary amounts of courage to make things better
@@ -648,51 +648,51 @@ Problem: You're an introvert but you want an extrovert type of job or vice versa
 You pay a price the first time you try to get out of your nature. Introversion/extroversion is SOMETHING INNATE. Fight it!
 Most important component of a fulfilled life = intimate relationship
 Romantic Relationship
-•	Physical intimacy - sex - at highest sex is love made concrete
-•	Mutual respect and admiration
-•	Deep friendship
-•	Spiritual connection
-•	Equality
-•	Intimacy, passion, commitment (Sternberg, 1988)
+* Physical intimacy - sex - at highest sex is love made concrete
+* Mutual respect and admiration
+* Deep friendship
+* Spiritual connection
+* Equality
+* Intimacy, passion, commitment (Sternberg, 1988)
  
 Self-sacrifice vs Self-Interest - Do I love because I'm selfish or not
-•	The case of teaching
+* The case of teaching
 o	"I hate teaching but I drag myself and I talk to the class but I do it because I think positive psych is important and I feel a sense of duty to share this. I don't like it but I do it"
 o	Vs "I love positive psych, prepare my class, I can't wait to teach it"
 o	Would you like the teacher who does it for a sense of duty, or the teacher who wants to do it because they like to
 o	The prereq to teaching is you have to do it more than anything else in the world. - This is actually a selfish reason because you derive pleasure from it. But it's not a bad thing that they like to teach! 
-•	This applies also to relationships. It's not in "it's our duty to be with each other" or "I'd like to be with you". 
-•	The healthiest rels are ones with the need for perceived equity. They should get stuff from each other (not money but in the currency of happiness). We are better off because of this relationship.
-•	It's about compromise and standing by your partner. Love expands to another. Our self-interest expands to encompass our partner.
+* This applies also to relationships. It's not in "it's our duty to be with each other" or "I'd like to be with you". 
+* The healthiest rels are ones with the need for perceived equity. They should get stuff from each other (not money but in the currency of happiness). We are better off because of this relationship.
+* It's about compromise and standing by your partner. Love expands to another. Our self-interest expands to encompass our partner.
 Looking at relationships in movies makes us see larger than life people in a larger than life screen. Movies are literature and they show us what life CAN be.
 Fiction vs Reality
-•	Does true love really exist?
-•	To be a lover requires the subtlety of the wise, the flexibility of the child, the sensitivity of the artist, the understanding of the philosopher, the acceptance of the saint, the tolerance of the scholar and the fortitude of the certain
-•	Perfect love does not exist, not anywhere. If we think it exists we would search for it and we would experience frustration and disappointment. Being on the receiving end of such expectations is not a good idea. We are human beings and make mistakes.
-•	True love does exist. You're more likely to be extremely happy if you're in a relationship or you're in a marriage.
+* Does true love really exist?
+* To be a lover requires the subtlety of the wise, the flexibility of the child, the sensitivity of the artist, the understanding of the philosopher, the acceptance of the saint, the tolerance of the scholar and the fortitude of the certain
+* Perfect love does not exist, not anywhere. If we think it exists we would search for it and we would experience frustration and disappointment. Being on the receiving end of such expectations is not a good idea. We are human beings and make mistakes.
+* True love does exist. You're more likely to be extremely happy if you're in a relationship or you're in a marriage.
 Love Wanes Versus Love Grows
-•	It's true. The 67% divorces prove this.
-•	We get to confuse lust versus love.
-•	Who is the fairest of them all? Men = Brad Pitt, Women = Halle Berry
-•	You have an idea of a perfect man/woman. And yet when you get to a perfect relationship, you get to see them.
-•	We seek novelty. Novelty produces heightened arousal.
-•	Exotic becomes erotic. Relationships shift from being passionate to being companionate.
-•	Sex life can improve over time and it does improve over the years (science)
-•	For many people, love grows over time. How?
-•	The more independent we are, the more interdependent can be and the better relationships we can have.
-•	Love at its best usually comes when you're 50-60 years old, because love and sex is for grown-ups.
-•	We have to learn to differentiate ourselves to become more independent and knowing what we want to do. Our concordant goals.
-•	We don't hear this! We hear that love necessarily wanes over time because people fail to distinguish love and lust.
+* It's true. The 67% divorces prove this.
+* We get to confuse lust versus love.
+* Who is the fairest of them all? Men = Brad Pitt, Women = Halle Berry
+* You have an idea of a perfect man/woman. And yet when you get to a perfect relationship, you get to see them.
+* We seek novelty. Novelty produces heightened arousal.
+* Exotic becomes erotic. Relationships shift from being passionate to being companionate.
+* Sex life can improve over time and it does improve over the years (science)
+* For many people, love grows over time. How?
+* The more independent we are, the more interdependent can be and the better relationships we can have.
+* Love at its best usually comes when you're 50-60 years old, because love and sex is for grown-ups.
+* We have to learn to differentiate ourselves to become more independent and knowing what we want to do. Our concordant goals.
+* We don't hear this! We hear that love necessarily wanes over time because people fail to distinguish love and lust.
 Finding Versus Cultivating
-•	Problem with movie model = movies end where love begins
-•	The "one right person" theory is simply not true. No initial conditions promise a relationship that is sustainable and happy. There is always more than one right person for each and every one of us.
-•	Living happily ever is the difficult part
-•	Cultivating the one chosen relationship is whats needed
-•	By observing partners interact, psychologists see which would work and which won't. 94% accuracy
+* Problem with movie model = movies end where love begins
+* The "one right person" theory is simply not true. No initial conditions promise a relationship that is sustainable and happy. There is always more than one right person for each and every one of us.
+* Living happily ever is the difficult part
+* Cultivating the one chosen relationship is whats needed
+* By observing partners interact, psychologists see which would work and which won't. 94% accuracy
 Conflict-free vs Conflict is healthy
-•	There are no one right relationships. Either passive-aggressive or screaming and shit. All rels have conflicts!
-•	Ratio is 5 positive : 1 negative. Too high or too low = not good
-•	Conflict immunizes and makes relationships stronger
+* There are no one right relationships. Either passive-aggressive or screaming and shit. All rels have conflicts!
+* Ratio is 5 positive : 1 negative. Too high or too low = not good
+* Conflict immunizes and makes relationships stronger
 
  
 Lesson 19 - Love 2 - Attracting Love
@@ -710,10 +710,10 @@ One of the causes of stress within a relationship is people's perceptions, and w
 The lack of respect in women and same-sex marriage has affected how we think
 Positive psych is about studying the tip of the stem and applying them to the average population
 Being Together by Doing Together
-•	Superordinate goal
-•	Mutually meaningful love
-•	Invest in someone else with your love. Study who they are, really. Be constantly studying your partner. Little things such as what hurts them, how does their mind work, etc.
-•	Being known rather than being validated
+* Superordinate goal
+* Mutually meaningful love
+* Invest in someone else with your love. Study who they are, really. Be constantly studying your partner. Little things such as what hurts them, how does their mind work, etc.
+* Being known rather than being validated
 Lust cannot sustain itself over a period of time.
 What is the most personal is the most general
 Change from telling to sharing
@@ -783,11 +783,11 @@ It's about living the purposeful life
 Se cannot attained by itself or something
 Sometimes people have low SE and they feel that they do but because their life seems good then other people praise them and they think if they have SE or not
 3 components
-•	Dependent SE - based on other people would say about you, they like activities where they can  judge
+* Dependent SE - based on other people would say about you, they like activities where they can  judge
 o	Worthiness - pakisama, fame
 o	Competence - we want to compete vs others, courses are curved
 o	Everyone has dependent SE, give yourself the permission to know that you care about what other people think
-•	Independent SE - based on yourself
+* Independent SE - based on yourself
 o	Worthiness - self-declaring, what do I care about and what am I passionate about
 o	Competence - am I a better ____ today than before? am I improving and am I better?
 o	To get cultivating the independent SE, you have to get the dependent SE first
@@ -820,7 +820,7 @@ People have some moments with temporary change and then go back to their normal 
 High SE - assertive
 
 To enhance
-•	Stay calm - reciprocalish
+* Stay calm - reciprocalish
 From now on nobody will think of what you do for the rest of your life. No one will know how many people you've helped. No one will know the inventions or how wealthy you are. No one will know what org you started or ppls lives you've changed or houses you own. You  only will know about the wonderful things that you will do in the world. What would you do?
 Would I do things if I knew that no one would see it?
 Behavior -> Attitude once again and vice-versa
@@ -842,21 +842,21 @@ Teach people how to bounce back - pick yourself up and try again
 The ability to rebound is part of the process but it's not magically pain-free or instantaneous.
 If you want to see people climbing upward, start at rock bottom.
 Someone who tried to put a gun to his head said "I'm not going to die because of what someone else did to me."
-•	There is no timeline, no set period, for finding strength, resilient behaviors and coping skills.
-•	About 1/3 of poor neglected abused children are capably building better lives by the time they are teenagrs.
-•	Faith - in the future, in the world, in a higher power - is an essential ingredient.
-•	Most Resilient people dont do it alone. A strong family support system is needed.
-•	Setting goals and planning for the future is a strong factor in dealing with adversity.
-•	Believeing in oneself and recognizing one's strengths is important. Pick yourself up and give yourself value. If you can't change a bad situation, at least nurture yourself.
-•	It's equally impt to actually recognize one's own strengths. Many people don't. Teaching them self-recognition is a major part of the approach that psychs use.
+* There is no timeline, no set period, for finding strength, resilient behaviors and coping skills.
+* About 1/3 of poor neglected abused children are capably building better lives by the time they are teenagrs.
+* Faith - in the future, in the world, in a higher power - is an essential ingredient.
+* Most Resilient people dont do it alone. A strong family support system is needed.
+* Setting goals and planning for the future is a strong factor in dealing with adversity.
+* Believeing in oneself and recognizing one's strengths is important. Pick yourself up and give yourself value. If you can't change a bad situation, at least nurture yourself.
+* It's equally impt to actually recognize one's own strengths. Many people don't. Teaching them self-recognition is a major part of the approach that psychs use.
 Survivor's pride - Reframe how people see you. Instead of telling you're an idiot, say that you're of value. You are an accomplished strategist.
-•	I am (a person who has faith)
-•	I have (strong relationships, structure, role models)
-•	I can (ability to communicate, solve problems)
+* I am (a person who has faith)
+* I have (strong relationships, structure, role models)
+* I can (ability to communicate, solve problems)
 Emmy Werner study - 505 sugar plantation workers, super poor, guaranteed poverty
-•	Victim theory would have predicted that they would have crime and umeployed
-•	A third never sinked - they did well in school and they defined themselves as capable and competent adults
-•	One's upbringing does not build a lifelong prison. There are those who are determined not to repeat their parents' lives. Abused chidlren do not necessarily become abusers.
+* Victim theory would have predicted that they would have crime and umeployed
+* A third never sinked - they did well in school and they defined themselves as capable and competent adults
+* One's upbringing does not build a lifelong prison. There are those who are determined not to repeat their parents' lives. Abused chidlren do not necessarily become abusers.
 There are indivuiduals who have an extraordinary will to transcend
 You can teach people to understand consequences. You can teach them ways to find strength. Someone else - parents, teachers, friends - is always needed to transcend trouble. the "we're here to help". the magic is that there is no magic.
 Supportive homes are needed and children from them have a great ability to build extended networks
@@ -874,16 +874,16 @@ Perfectionists are more vulnerable to depression when stressful events occur
 Many perfectionists grew up with parents who either directly or indirectly communicated that they were not good enough. Where praise and criticisms were given simultaneously.
 "Just get it right this time and I will approve of you." Some psych theories suggest over time that the child's need to please her parents becomes internalized
 Perfectionists are...
-•	May be good or not be good but insits on doing things by themselves
-•	Tend to think there is a right way and wrong way to do things
-•	Have trouble making decisions - I don't want to make the wrong one!
-•	Have trouble takings risks espeically if their reputations are on the line.
+* May be good or not be good but insits on doing things by themselves
+* Tend to think there is a right way and wrong way to do things
+* Have trouble making decisions - I don't want to make the wrong one!
+* Have trouble takings risks espeically if their reputations are on the line.
 Breaking free
-•	Each of us has a set of central beliefs about ourselves, other people and the world in general. Under each perfectionist schema is a hidden fantasy that some really good thing will come from being perfect
-•	Change your schema to  more existential goals like self-acceptance, fulfillment, or inner peace
-•	Ask yourself what are the things toyu would like to change about yourself
-•	Change "I must have perfection before I have peace of mind" to "I need to give myself credit for what I do well, even if it is not perfect
-•	If your schema is that other people's opinions of you is a mirror of your self worth, then you must ask yourself if you know when you have done something well. If you're capable of evaluating yourself, you do not really need approval from others.
+* Each of us has a set of central beliefs about ourselves, other people and the world in general. Under each perfectionist schema is a hidden fantasy that some really good thing will come from being perfect
+* Change your schema to  more existential goals like self-acceptance, fulfillment, or inner peace
+* Ask yourself what are the things toyu would like to change about yourself
+* Change "I must have perfection before I have peace of mind" to "I need to give myself credit for what I do well, even if it is not perfect
+* If your schema is that other people's opinions of you is a mirror of your self worth, then you must ask yourself if you know when you have done something well. If you're capable of evaluating yourself, you do not really need approval from others.
  
 Article - Implicit Theories of Intelligence Predict Achievement Across an Adolescent Transition: A Longitudinal Study and an Intervention
 
@@ -898,9 +898,9 @@ Incremental - focuses more on learning goals
 It was discovered that students who believed in the incremental view had an advantage over those who believed in the entity view - higher grades
 Theories of intel can be manipulated in real-world contexts and have a positive impact on achievement outcomes
 Limitations of such studies
-•	Are students' theories related to their achievement trajectory? Can't be sure if stuff changes over the years
-•	Why is the theory of intel related to grades? 
-•	Does teaching an incremental theory provide an added benefit over a similar academic intervention?
+* Are students' theories related to their achievement trajectory? Can't be sure if stuff changes over the years
+* Why is the theory of intel related to grades? 
+* Does teaching an incremental theory provide an added benefit over a similar academic intervention?
 Study 1
 We studied four waves of enterring jhs students, measured their theories and other achievement related beliefs and then assessed their achievement outcomes. We then integrated a model of the processes linking achievement related beliefs to strategies and output over the jhs transition.
 Students were relatively high performing.

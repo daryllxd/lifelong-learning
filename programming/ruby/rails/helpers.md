@@ -34,5 +34,3 @@ Good:
     <% end %>
 
 Helpers are useful when they hide implementation details that are irrelevant to your template, or when they allow you to abstract common template code to avoid repetition. If you find yourself generating a lot of HTML in a helper, think twice and try to keep as much HTML in your template as possible.
-
-

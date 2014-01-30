@@ -38,32 +38,3 @@ Filters
 		:markdown (:css, :javascript, :sass... implemented via tilt)
 			# Greetings
 			Hello, *world*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

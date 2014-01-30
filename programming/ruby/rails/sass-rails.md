@@ -38,5 +38,3 @@ You shouldn't use the asset pipeline to include all your sass files. Instead you
 	 *= require editor
 	 *= require style
 	 */
-
- 

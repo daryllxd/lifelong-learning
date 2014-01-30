@@ -401,34 +401,3 @@ And that shouldn't surprise us, because in a managerial culture where the only b
 It's a failure of management if you can't give yourself the widest range of options in order to secure optimal results for your firm. Which means, we need to change the conversation and we need to think about management in a new way.
 
 Another example of a critical perspective on management that invites us to take the assumptions that we've held and actually challenge the basis upon which we hold them.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

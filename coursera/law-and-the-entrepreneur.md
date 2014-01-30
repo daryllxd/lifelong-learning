@@ -609,23 +609,3 @@ Amazon/Gap: They explain how shopping works, how payments work, and so on. They 
 Facebook: They explain how games work, if premium subscriptions are available, cx contracts.
 
 Coach Curiosity: How billing works, disclaimer of warranties, limitation of liability.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
