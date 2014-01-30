@@ -191,7 +191,7 @@ Helper methods are defined in the example group, which are then accessible from 
 
     end
 
-> Share that shit. `spec_helper.rb` from Gitlab.
+> Share that shit. spec_helper.rb from Gitlab.
 
     RSpec.configure do |config|
       config.mock_with :rspec
@@ -358,6 +358,7 @@ Implicit: Concise ass fuck. (The object has to be instantiated without any argum
     describe RSpecUser do
       it { should be_happy }
     end
+
 
 ## RSpec::Mocks
 

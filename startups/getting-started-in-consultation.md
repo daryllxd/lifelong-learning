@@ -272,35 +272,35 @@ Chapter Five -- Advanced Marketing: Creating a Brand
 
 Web site
 
-	* A web site is a credibility site, not a sales site. Execs might get to your site after they meet or hear from you, and they should know that you know your stuff.
-	* You want to have an enduring connection.
-	* You want to increase credibility of yourself.
-	* Personal contact number.
+* A web site is a credibility site, not a sales site. Execs might get to your site after they meet or hear from you, and they should know that you know your stuff.
+* You want to have an enduring connection.
+* You want to increase credibility of yourself.
+* Personal contact number.
 
 What they look for in a web designer
 
-	* Get references about the designer's reliability.
-	* Establisj costs clearly, both for setup, ongoing charges, and yearly fees.
-	* Make sure the chemistry is right.
-	* Agree to a test site before going live.
-	* Figure out who secures the domains, you or them.
+* Get references about the designer's reliability.
+* Establisj costs clearly, both for setup, ongoing charges, and yearly fees.
+* Make sure the chemistry is right.
+* Agree to a test site before going live.
+* Figure out who secures the domains, you or them.
 
 Trade Show Presentations
 
-	* Begin with a hook (story, statistic, illustration, humour).
-	* Middle of the speech: "I have x points".
-	* The end should be a brief summary and call to action.
-	* Use a professional introduction and ask the introducer to read it verbatim.
-	* Practice in the room before you speak.
-	* Use visuals that can be seen.
-	* Tape your presentations.
+* Begin with a hook (story, statistic, illustration, humour).
+* Middle of the speech: "I have x points".
+* The end should be a brief summary and call to action.
+* Use a professional introduction and ask the introducer to read it verbatim.
+* Practice in the room before you speak.
+* Use visuals that can be seen.
+* Tape your presentations.
 
 Notes
 
-	* A criminal will find you anyway, so don't be afraid to put your home address out there.
-	* You learn from books, so don't duel them.
-	* Writing a book: Have something to say.
-	* No, do not do podcasts on other sites.
+* A criminal will find you anyway, so don't be afraid to put your home address out there.
+* You learn from books, so don't duel them.
+* Writing a book: Have something to say.
+* No, do not do podcasts on other sites.
 
 Best Practices in Leverage
 
@@ -469,32 +469,32 @@ Characteristics of a Successful Consulting Practice
 Creating Passive Income
 -----------------------
 
-	⁃	Design from the buyer's perspective, surely you have something that they might want to get.
-	⁃	Provide choices
-	⁃	Be contrarian, make your points in an opposite context.
-	⁃	Accept credit cards.
-	⁃	Take pains to create and maintain timeless products.
-	⁃	Keep abreast of what the competition is offering. 
+*	Design from the buyer's perspective, surely you have something that they might want to get.
+*	Provide choices
+*	Be contrarian, make your points in an opposite context.
+*	Accept credit cards.
+*	Take pains to create and maintain timeless products.
+*	Keep abreast of what the competition is offering. 
 
 Generating International Business
 ---------------------------------
 
-	⁃	Use the Internet. Produce a web site, use articles, tips, references that have a global appeal.
-	⁃	Stay culturally neutral.
-	⁃	Develop overseas contacts.
-	⁃	Market to trade associations.
-	⁃	Build your international and cultural knowledge.
-	⁃	Seek out consultants who have worked successfully overseas.
-	⁃	Focus on a single country or locale.
-	⁃	Focus on strongly developing economies.
+*	Use the Internet. Produce a web site, use articles, tips, references that have a global appeal.
+*	Stay culturally neutral.
+*	Develop overseas contacts.
+*	Market to trade associations.
+*	Build your international and cultural knowledge.
+*	Seek out consultants who have worked successfully overseas.
+*	Focus on a single country or locale.
+*	Focus on strongly developing economies.
 
 Celebrity Status
 ----------------
 
-	⁃	Have a presence on the Internet in all forums and discussions that touch upon your chosen field.
-	⁃	Publish articles that are contrarian, innovative, and different.
-	⁃	Write letters to the editor.
-	⁃	Solicit testimonials.
-	⁃	Speak on your topic or field at major public forums, conventions, and meetings.
-	⁃	Offer your services in the field.
-	⁃	Establish a course at your local school or extension program.
+⁃	Have a presence on the Internet in all forums and discussions that touch upon your chosen field.
+⁃	Publish articles that are contrarian, innovative, and different.
+⁃	Write letters to the editor.
+⁃	Solicit testimonials.
+⁃	Speak on your topic or field at major public forums, conventions, and meetings.
+⁃	Offer your services in the field.
+⁃	Establish a course at your local school or extension program.
