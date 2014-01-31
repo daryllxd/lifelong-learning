@@ -288,7 +288,7 @@ Use `assign()` to provide data (mock) to the view.
 
 ## Rails Controllers
 
-A controller spec is a collection of examples of the expected behavior of actions on a single controller. Whereas views are inherently state- based, controllers are naturally interaction-based.
+A controller spec is a collection of examples of the expected behavior of actions on a single controller. Whereas views are inherently state-based, controllers are naturally interaction-based.
 
 We can test controllers by themeselves since controllers don't render views and we have mocks/stubs to simulate a model.
 
@@ -296,16 +296,150 @@ __A simple guideline for a controller is that it should know what to do but not 
 
     describe MessagesController do 
       describe "POST create" do
-        it "creates a new message"
-        it "saves the message" end
+
+> Test for controller is divided into 3 parts: making the POST create do creating a new message, saving the message, and redirecting to the index. Assign :message as the "mock model".
+
+        let(:message) { mock_model(Message).as_null_object }
+
+> Make a new model and put it into the message variable
+
+        before do
+          Message.stub(:new).and_return(message)
+        end
+
+> Why is should_receive and post :create duplicated here? One has a message and one doesn't. My assumption is that the tests are each `it` is done independently of each other. So "creates" tests the sending of the create request and "saves" tests the saving????
+
+        it "creates a new message" do 
+          Message.should_receive(:new).with("text" => "a quick brown fox").and_return(message)
+          post :create, :message => { "text" => "a quick brown fox" }
+        end
+
+        it "saves the message" do 
+          message.should_receive(:save) 
+          post :create
+        end
+
+> Assuming a post request gets through, the response should redirect.
+
+        it "redirects to the Messages index" do
+          post :create
+          response.should redirect_to(:action => "index")
+        end 
+      end
     end
 
-    it "creates a new message" do 
+#### Context paths
 
-      # Message controller receives
-      Message.should_receive(:new).with("text" => "a quick brown fox") 
+    context "when the message saves successfully" do
+      it "sets a flash[:notice] message" do
+        post :create
 
-      # Create a message with the text
-      post :create, :message => { "text" => "a quick brown fox" }
+> Test to confirm that a flash message shows up.
+
+        flash[:notice].should eq "The message was saved successfully."
+      end
+
+      it "redirects to the Messages index" ...
     end
+
+#### When save() fails
+
+    context "when the message fails to save" do 
+      it "assigns @message" do
+        message.stub(:save).and_return(false)
+        post :create
+        assigns[:message].should eq(message)
+      end
+
+      it "renders the new template"
+    end
+
+[TODO]
+
+#### What We Just Did
+
+The `create()` action we just implemented is typical in Rails apps. The controller passes the params it receives to the model, delegating the real work.
+
+By specifying the interactions with the model instead of the result of the model’s work, we are able to keep the spec and the implementation simple and readable.
+
+__Directory organization__: The directory structure for controller specs parallels the directory structure found in `app/controllers/`.
+
+__File naming__: Each controller spec is named after the controller it provides examples for, with `_spec.rb` appended to the filename. `sessions_controller_spec.rb` = `sessions_controller.rb`.
+
+__Always require spec_helper.rb__.
+
+__Example group names__: The docstring passed to the outermost describe() block in a controller spec typically includes the type of request and the action the examples are for.
+
+Focus on one example at a time. Once each examples passed, we looked for and extracted any duplication to a `before` block, allowing each example to stay focused, clear, and DRY.
+
+#### ActionController::TestCase
+
+- __`assigns()`__: We use assigns to access a hash.
+- __`flash()`__: We use flash to access a hash, which we use to specify messages we expect to be stored in the flash.
+- __`post()`__: We use the post method to simulate a POST request. 1st: Name of action. 2nd: K-V pairs for the params, 3rd: K-V pairs for the session.
+
+        # no params or session data
+        post :create
+
+        # with params
+        post :create, :id => 2
+
+        # with params and session data
+        post :create, { :id => 2 }, { :user_id => 99 }
+
+- __`xml_http_request() and xhr()`__: Another argument, the type of request to make.
+
+        # no params or session data
+        xhr :get, :index
+
+        # with params
+        xhr :get, :show, :id => 2
+
+        # with params and session data
+        xhr :get, :show, { :id => 2 }, { :user_id => 99 }
+
+- __`render_template`__: We use the `render_template()` method to specify the template we expect a controller action to render.
+
+      # this will expand to "messages/new" in a MessagesController spec
+      response.should render_template("new").
+
+- __`redirect_to`__.
+      
+      # relying on route helpers
+      response.should redirect_to(messages_path)
+
+      # relying on ActiveRecord conventions
+      response.should redirect_to(@message)
+
+      # being specific
+      response.should redirect_to(:controller => "messages", :action => "new")
+
+#### Isolation from View Templates
+
+By default, controller specs do not render view templates. 
+
+When we stub out the model layer as well, we can drive out controllers in complete isolation from the code in our views and models. 
+
+This keeps the controller specs lean and reduces the noise involved with managing a web of dependencies in the view or the model.
+
+It also provides quick fault isolation. You’ll always know that a failing controller spec means that the controller is not behaving correctly.
+
+__The one slight rub is that the view templates do need to exist even though we don’t render them.__
+
+#### Specifying ApplicationController
+
+Do this for stuff that needs to happen every request.
+
+> spec/controllers/application_controller_spec.rb
+
+    require 'spec_helper'
+      describe ApplicationController do
+        describe "handling AccessDenied exceptions" do
+          it "redirects to the /401.html (access denied) page" do 
+            get :index
+            response.should redirect_to('/401.html')
+          end 
+
+        end
+      end
 
