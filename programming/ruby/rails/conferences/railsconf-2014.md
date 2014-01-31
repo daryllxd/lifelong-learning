@@ -17,7 +17,7 @@ Easier to test because of the entry point thingie.
 
 
 ## DHH
- We build these applications and we see "which of these are things I would like to not do again."
+We build these applications and we see "which of these are things I would like to not do again."
 
 Good frameworks are extractions, not inventions.
 
@@ -33,25 +33,25 @@ The pinoneering spirit is what the Ruby developer community unique. There's a lo
 
 Problem, solution, context. You can encounter the same problem from two contexts and there are two solutions for that. If you think about it, the shit you do is to just make HTML documents. But this is a representation of what the web is. You can make lots of software but make it just a delivery mechanism. 
 
-Ee can think of web as moving in document presentation (wikipedia) or GUI-type (spotify). And I feel like I'm trying to make more document-oriented things. Rails is not much for Google Maps or GUI, but for the documetns. Just like Basecamp and GIthub, the essence is the document itself. And sometimes we need a constraint to liberate because it's hard to start from scratch. Sometimes you don't want "you can draw wahterver your want!!!".
+Ee can think of web as moving in document presentation (wikipedia) or GUI-type (spotify). And I feel like I'm trying to make more document-oriented things. Rails is not much for Google Maps or GUI, but for the documetns. Just like Basecamp and Github, the essence is the document itself. And sometimes we need a constraint to liberate because it's hard to start from scratch. Sometimes you don't want "you can draw wahterver your want!!!".
 
 The pitch for Silverlight was that they want to remove the constraints of HTML, but actually it was already what took off! Think Java Applets and Flash and Silverlight, what happened? Even in IOS, most of the popular apps are games.
 
 What I wanted to do was to evolve the document. And people want speed.
 
 - Key-based cache expiration: "The two hardest things in CS is caching and naming things."
-	- Rails cache key: It has a key of knowing when the key of . As the person evolves the cache key changes, it just doesn't get exchanged.
-	- Memcache/Redis: "Throw out old caches that I don't need"
+- Rails cache key: It has a key of knowing when the key of . As the person evolves the cache key changes, it just doesn't get exchanged.
+- Memcache/Redis: "Throw out old caches that I don't need"
 
 We solve the problem and once we solve the problem we can build something on top of it.
 
-- Russian Doll nested caching. Now we can nest caches on each other. You want to cache something small anyway, right? Check out
+Russian Doll nested caching. Now we can nest caches on each other. You want to cache something small anyway, right? Check out
 
 		class Comment < AR::Base
 			belongs_to :post, touch: true
 		end
 
-	Now I don't have to maintain how the caches are maintained ffs. Every single item in a todo list has a cache. The box has a cache. And so on and so forth. We can make a nested leveling thing.
+Now I don't have to maintain how the caches are maintained ffs. Every single item in a todo list has a cache. The box has a cache. And so on and so forth. We can make a nested leveling thing.
 
 	In the view, this looks:
 
@@ -76,6 +76,9 @@ We solve the problem and once we solve the problem we can build something on top
 - Recreating the AJAX send: We have <% page_updates do %>, <% local_page_updates do %>, <% remote_page_edits do %>. No to polling.  We are able to run 100K requests/minute on 6 Rainbow workers and 1 redis instance. Polling sounds inefficient, but it's only inefficient in terms of the cost if you really think of it.
 - Why don't we be wasteful in terms of our programming cycles as long as it doesn't matter?
 
+"Good software takes 10 years. get used to it."
+
+
 
 Omniauth facebook gem into the facebook app.
 Koala gem to communicate in ruby. We can use x.facebook.get_conection or x.facebook.get_object
@@ -95,33 +98,3 @@ Facebook app id: must be a constant somewhere. When the user does not want the u
 You can create test accounts if you want to. we can also use the FQL facebook query language.
 
 Error reporting: rescue Koala::Facebook::APIerror => e 
-
-
-
-"Good software takes 10 years. get used to it."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

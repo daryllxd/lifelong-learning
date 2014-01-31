@@ -443,3 +443,207 @@ Do this for stuff that needs to happen every request.
         end
       end
 
+[TODO]
+
+#### What We’ve Learned
+
+- Controllers coordinate the interaction between the user and the
+application and should know what to do but not how to do it.
+- Specifying the desired interaction helps us to discover objects with well-named methods to encapsulate the real work.
+- Controller specs use a custom example group provided by the `rspec-rails` library.
+- Controller specs live in a directory tree parallel to the controllers themselves, there is a naming convention: `spec/controllers/my_controller_spec.rb`.
+- Use `redirect_to()` to confirm redirects.
+- Use `render_template()` to confirm the template being rendered.
+- Use the `assigns()` method to confirm the instance variables assigned for the view.
+- Use the `flash()` method to confirm the flash messages.
+- Use `mock_model()` and `stub_model()` to isolate controller specs from the database and underlying business logic of your models.
+
+## Rails Models
+
+When we work outside in, we discover model interfaces in Cucumber step definitions, view specs and views, and controller specs and con- trollers. These are the places we write the code we wish we had, and letting them guide us results in model interfaces that best suit the needs of the application.
+
+RSpec offers a specialized ExampleGroup for specifying models.
+
+> spec/models/message_spec.rb
+
+    require 'spec_helper'
+
+    describe Message do 
+      before(:each) do
+        @message = Message.new(:title => "foo", :text => "bar", :recipient => mock_model("User"))
+      end
+
+      it "is valid with valid attributes" do 
+        @message.should be_valid
+      end
+
+      it "is not valid without a title" do 
+        @message.title = nil 
+        @message.should_not be_valid
+      end
+
+      it "is not valid without a recipient" do 
+        @message.recipient = nil 
+        @message.should_not be_valid
+      end
+
+#### Should I Spec Associations?
+
+Generally speaking, no. Associations should not be added unless they are serving the needs of some behavior. 
+
+Consider an Order that calculates its total value from the sum of the cost of its Items. We might introduce a has_many :items association to satisfy the relevant examples. Since the association is being added to support the calculation that is being specified, there is no need to spec it directly.
+
+The same applies to association options. The :foreign_key or the :class_name options are structural, not behavioral. They’re just part of wiring up the association, and an association that requires them won’t work correctly without them, so there is no need to spec them directly either.
+
+#### What We Just DId
+
+__Directory organization__: Specs in `spec/models/` will be for models in `app/models/`.
+
+__File naming__: `message_spec.rb` for model `Message`.
+
+__`require 'spec helper'`__.
+
+#### Specifying Business Rules
+
+When thinking about models, it’s tempting to jump ahead and think of all of the relationships and functionality we just know they’re going to need. Developing models this way can lead to inconsistent APIs with far too many public methods and relationships, which then become hard to maintain.
+
+Focusing on the behavior first leads to clean, cohesive models, so that’s what we’re going to do. Create a spec for the User model, which describes the behavior of send_message.
+
+> user_spec.rb
+    
+    describe User do
+      describe "#send_message" do
+        context "when the user is under their subscription limit" do 
+          it "sends a message to another user" do 
+            zach = User.create!
+            david = User.create!
+            msg = zach.send_message(
+                :title => "Book Update",
+                :text => "Beta 11 includes great stuff!",
+                :recipient => david
+              )
+            david.received_messages.should == [msg]
+            msg.title.should == "Book Update"
+            msg.text.should == "Beta 11 includes great stuff!"
+          end
+        end
+      end 
+    end
+
+> user.rb
+
+    class User < ActiveRecord::Base
+      has_many :received_messages, :class_name => Message.name, :foreign_key => "recipient_id" 
+      def send_message(message_attrs)
+        Message.create! message_attrs
+      end 
+    end
+
+#### Other outcomes
+
+    context "when the user is under their subscription limit" do
+      it "adds the message to the sender's sent messages" do
+        zach = User.create!
+        david = User.create!
+        msg = zach.send_message(
+                  :title => "Book Update",
+                  :text => "Beta 11 includes great stuff!",
+                  :recipient => david
+        )
+      
+      zach.sent_messages.should == [msg] (!!!)
+      end
+    end
+
+    class User < ActiveRecord::Base
+      has_many :received_messages, :class_name => Message.name, :foreign_key => "recipient_id"
+      has_many :sent_messages, :class_name => Message.name, :foreign_key => "sender_id" (!!!) some AR jutsu.
+
+      def send_message(message_attrs) 
+        sent_messages.create! message_attrs
+      end 
+    end
+
+#### Tidying up
+
+1. Consolidate the creation of zach and david in one spot.
+2. Make them instance variables.
+3. Add test to make sure a message is created.
+
+Spec should be green!
+
+    describe "#send_message" do 
+      before(:each) do
+          @zach = User.create!
+          @david = User.create!
+      end
+
+      it "creates a new message with the submitted attributes" do 
+        msg = @zach.send_message(
+            :title => "Book Update",
+            :text => "Beta 11 includes great stuff!",
+            :recipient => @david
+          )
+        msg.title.should == "Book Update"
+        msg.text.should == "Beta 11 includes great stuff!"
+      end
+
+#### Edge Cases
+
+Add case for when the user is over their subscription limit.
+
+    context "when the user is over their subscription limit" do 
+      it "does not create a message" do
+
+> The act of sending the message should not change the message count
+
+        lambda {
+          @zach.send_message(
+            :title => "Book Update",
+            :text => "Beta 11 includes great stuff!",
+            :recipient => @david
+          )
+        }.should_not change(Message, :count)
+      end 
+    end
+
+    def send_message(message_attrs)
+      if subscription.can_send_message?
+          sent_messages.create message_attrs
+      end 
+    end
+
+Introduce a before(:each) block inside the context that utilizes a stub to ensure a user can’t send a message.
+
+    context "when the user is over their subscription limit" do 
+      before(:each) do
+        @zach.subscription = Subscription.new
+        @zach.subscription.stub(:can_send_message?).and_return false 
+      end
+
+      it "does not create a message" do ...
+
+To solve this, we need to create a Subscription model. Rake db:migrate and rake db:test:prepare, then add a Subscription association (`belongs_to :subscription`).
+
+#### Useful Tidbits
+
+- We can remove the DB hit when we test models. Check `UnitRecord` and `NullDb`.
+- Test data buildes: FactoryGirl, Machinist, ObjectDaddy.
+- Custom macros
+
+#### Matchers
+
+- be_valid()
+- errors_on (`model.should have(:no).errors_on(:title)`, `model.should have(1).error_on(:body)`)
+- record and records (`ModelClass.should have(:no).records`)
+
+#### What we learned
+
+- Models refelect the problem domain for which you're providing a software solution.
+- Models house the domain logic for an application.
+- Models in Rails refer to AR models, though you can create models that are POROs.
+- Model specs use a custom example group provided by `rspec-rails`.
+- `spec/model/my_model_spec.rb` for testing `app/models/my_model.rb`.
+- Focusing on model behavior can save time and effort.
+- Use `mock_model` and `stub_model` to isolate controller specs.
+- Macros/matchers to extract duplicated shit.
