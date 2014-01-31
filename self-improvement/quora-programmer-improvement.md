@@ -198,41 +198,30 @@ Finally, keep asking questions. Even if you write a trivial program, u should as
 
 You are going to work with people who mostly talk about nothing but computer science. When they are in a restaurant, they will talk about the latest mobile phone application that they developed. They live and breathe computer science. If you are not as passionate as they are, you will find it hard. Any notions of work life balance is generally frowned upon. Most companies will pitch you by saying "We are going to make you work your ass off but hey, we will pay you, give you free food and more importantly you get to learn so many things. We will even have hackathons so that after work, you can still code". The people who study computer science are among the smartest, so they will be really arrogant. You will hear things like "Just Google it" or "Have you tried the obvious solution". Obviously not all of them are like that, but a lot of them will be. People are less interesting and have inferior social skills. So, if your passion for computer science is so great that you can look past and maybe even appreciate some of the things I said above, then go for it. A recruiter once told me that you should be so passionate about what you so that you should have no problem working 12 hours a day. True story. You will work with some really smart people and watching the results of the code you write may feel like magic at times. It is just a question of what price you are willing to pay. I am a good student who has done internships at one of the big 5 tech companies, but I am not super passionate about coding. It is interesting, thats all. And I wish I had chosen another major. You will find it easier than others to get jobs and will get paid handsomely. In my opinion though, you are more likely to lead a very one dimensional life. Or you will not like it. All the best!
 
+## GOOGLE from reddit
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---- [begin excerpt] ----
+Algorithm Complexity: You need to know Big-O. If you struggle with basic big-O complexity analysis, then you are almost guaranteed not to get hired.
+Sorting: Know how to sort. Don't do bubble-sort. You should know the details of at least one n*log(n) sorting algorithm, preferably two (say, quicksort and merge sort). Merge sort can be highly useful in situations where quicksort is impractical, so take a look at it.
+Hashtables: Arguably the single most important data structure known to mankind. You absolutely should know how they work. Be able to implement one using only arrays in your favorite language, in about the space of one interview.
+Trees: Know about trees; basic tree construction, traversal and manipulation algorithms. Familiarise yourself with binary trees, n-ary trees, and trie-trees. Be familiar with at least one type of balanced binary tree, whether it's ared/black tree, a splay tree or an AVL tree, and know how it's implemented. Understand tree traversal algorithms: BFS and DFS, and know the difference between inorder, postorder and preorder.
+Graphs: Graphs are really important at Google. There are 3 basic ways to represent a graph in memory (objects and pointers, matrix, and adjacency list); familiarize yourself with each representation and its pros & cons. You should know the basic graph traversal algorithms: breadth-first search and depth-first search. Know their computational complexity, their tradeoffs, and how to implement them in real code. If you get a chance, try to study up on fancier algorithms, such as Dijkstra and A*.
+Other data structures: You should study up on as many other data structures and algorithms as possible. You should especially know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem, and be able to recognize them when an interviewer asks you them in disguise. Find out what NP-complete means.
+Mathematics: Some interviewers ask basic discrete math questions. This is more prevalent at Google than at other companies because we are surrounded by counting problems, probability problems, and other Discrete Math 101 situations. Spend some time before the interview refreshing your memory on (or teaching yourself) the essentials of combinatorics and probability. You should be familiar with n-choose-k problems and their ilk – the more the better.
+Operating Systems: Know about processes, threads and concurrency issues. Know about locks and mutexes and semaphores and monitors and how they work. Know about deadlock and livelock and how to avoid them. Know what resources a processes needs, and a thread needs, and how context switching works, and how it's initiated by the operating system and underlying hardware. Know a little about scheduling. The world is rapidly moving towards multi-core, so know the fundamentals of "modern" concurrency constructs.
+Coding: You should know at least one programming language really well, and it should preferably be C, C++ or Java. C# is OK too, since it's pretty similar to Java. You will be expected to write some code in at least some of your interviews. You will be expected to know a fair amount of detail about your favorite programming language.
+---- [end excerpt] -----
+There were some other things that I felt like I was sort of expected to know that aren't mentioned above.
+String algorithms, like Rabin-Karp substring search and the whole battery of algorithms that comes along with suffix trees (e.g., what's the longest palindromic substring?).
+Dynamic programming problems. Backtracking problems (e.g., eight queens).
+Mathematical tricks (e.g., choose uniformly random element from list without knowing its length; compute nth Fibonacci number in logarithmic time using matrix exponentiation, etc.).
+Interval arithmetic (including interval trees and segment trees).
+Heaps and priority queues.
+Median-of-medians and the quickselect algorithm.
+Linear-time majority element selection.
+Bloom filters.
+Regular expressions (be able to actually implement a pattern matcher for very simple regexes).
+Object-oriented design.
+Test-driven development.
+Unix (e.g., are you proficient in a terminal, can you find the most common email in a log file with a one-liner, etc.).
+Scaling the above algorithms to the point where their memory constraints are violated (e.g., sorting a list too big to contain in memory; finding the most common character in a string too big to contain in memory; etc.).
