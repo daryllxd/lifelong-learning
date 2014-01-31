@@ -36,7 +36,7 @@ In its plain form, pro- ductivity looks so weird that it seems to a lot of peopl
 
 _PayPal went public in early 2002 and was acquired later that year by eBay for $1.5 billion. PayPal was started during the Internet Bubble, but it was in no sense a Bubble startup. Its success was a direct reflection of the intelligence of the people who built it. In large part, PayPal succeeded because it could deal with fraud—and its competitors couldn’t._
 
-Focus in college: security. He hd founded 3 companies in college. He just wanted to write the code and recruit the coders. Peter Thiel became the CEO and he was the CTO.
+Focus in college: security. He founded 3 companies in college. He just wanted to write the code and recruit the coders. Peter Thiel became the CEO and he was the CTO.
 
 Authentication devices at that time were little cards with numbers. Once he reverse-engineered them, he wrote an emulator for every card for a Palm Pilot. Then they thought of just storing money in the handheld devices.
 
@@ -121,7 +121,7 @@ Talks with Microsoft started after our first anniversary, which was July 1997. I
 
 They called us to meet with Bill on October 13, 1997, and we were shown the Microsoft campus, headquarters, the whole works. We were taken to Bill’s office, met with him, and then we were taken to a room with a gigantic table, and there were about 15 Microsoft negotiators sitting on the other side: business development people, lawyers, accountants, all of them. They gave a presentation about how much they liked the company and this and that, and they said they wanted to buy us and placed an offer of $160 mil- lion. I said, “Thank you very much for making an offer. We really, really like your company and like the fact that you like us so much. We’ll go back to our board and discuss this and get back to you.”
 
-What drove you to keep on negotiating until you got the $400 million? Once you’ve got a lead in terms of a subscriber base, that is unassail- able. It can’t be replicated easily. So I knew even if they started developing the product—I have no doubt in my mind that they could have developed it, so many engineers and smart people in Microsoft. At that time they had some- thing like 16,000 engineers, and I had a total of 60 people in the company, only 14 engineers, so it would have been easy to pick 15 guys from 16,000 and build this product. But I knew we had that momentum behind us and that is very hard to replicate.
+What drove you to keep on negotiating until you got the $400 million? Once you’ve got a lead in terms of a subscriber base, that is unassailable. It can’t be replicated easily. So I knew even if they started developing the product—I have no doubt in my mind that they could have developed it, so many engineers and smart people in Microsoft. At that time they had some- thing like 16,000 engineers, and I had a total of 60 people in the company, only 14 engineers, so it would have been easy to pick 15 guys from 16,000 and build this product. But I knew we had that momentum behind us and that is very hard to replicate.
 
 Once you have tasted this kind of success, once you’ve tasted that it works, that you’ve got subscribers who are telling you it’s good, you know you are going to get there. In fact, that’s exactly what’s happened. That 6-month lead that we had already over any of our competitors today has translated into about a 50 to 100 million–user lead. Seeing how they did a lousy job of providing email to their 2.5 million sub- scribers, I also knew that they didn’t have the technology in house. Because if they did, they wouldn’t have been asking to license this from us. 
 
@@ -440,8 +440,7 @@ veryone knows that one reason you go to work and do what you do is the hope that
 
 ## Evan Williams Cofounder, Pyra Labs (Blogger.com)
 
-_Evan Williams cofounded Pyra Labs in 1999. Origi- nally, Pyra intended to build a web-based project management tool. Williams developed Blogger to manage his personal weblog, and it quickly became an important mechanism for sharing ideas internally at Pyra. Once launched publicly, Blogger grew rapidly, and Pyra Labs decided to focus on it full-time. But Blogger.com did not generate a lot of revenue at first, and as the Bubble deflated in 2001, Pyra seemed near death. Williams remained as the only employee and
-managed to bring the company back from the brink. By 2003, Blogger had one million registered users. That attracted the attention of Google, who made Pyra their first acquisition. Williams left Google in 2004 to cofound a podcasting company called Odeo._
+_Evan Williams cofounded Pyra Labs in 1999. Origi- nally, Pyra intended to build a web-based project management tool. Williams developed Blogger to manage his personal weblog, and it quickly became an important mechanism for sharing ideas internally at Pyra. Once launched publicly, Blogger grew rapidly, and Pyra Labs decided to focus on it full-time. But Blogger.com did not generate a lot of revenue at first, and as the Bubble deflated in 2001, Pyra seemed near death. Williams remained as the only employee and managed to bring the company back from the brink. By 2003, Blogger had one million registered users. That attracted the attention of Google, who made Pyra their first acquisition. Williams left Google in 2004 to cofound a podcasting company called Odeo._
 
 I had never even really worked anywhere. I was just totally self-taught tech- nically, but I started a company and kind of ran it into the ground over 3 years or so, and it was a very educational, painful experience. But I knew I was going to do that again. I just always knew I was going to start my own thing.
 
@@ -546,9 +545,11 @@ I think I was also surprised by the success of something so simple. That’s a m
 
 ## Tim Brady First Non-Founding Employee, Yahoo
 
-_Yahoo began in 1994 as a collection of links to research papers maintained by two Stanford grad students, Jerry Yang and David Filo. They gradually added links to new types of information, and the site grew rapidly in popularity. By the end of 1994, Yang and Filo were considering turning the site into a startup, and they asked Tim Brady to write a business plan for it.
-Brady had been Yang’s college roommate and was by this time getting his MBA at Harvard Business School. Brady initially expected to be able to finish the semester, but as Yahoo’s potential grew, it became clear that he couldn’t wait. He turned in the company’s business plan as his final assignment in the courses he still needed to pass, and jumped on a plane west to become Yahoo’s first actual employee.
-Brady’s title during his 8 years at Yahoo was VP of Production. His respon- sibility, as he puts it, was “product.” He was effectively the editor of Yahoo’s site. Yahoo went public in April 1996, and for nearly all the period since has been the most popular network of websites in the world. Ultimately, Yahoo won the portal wars because it was a better site, and it was the site it was largely because of Tim Brady._
+_Yahoo began in 1994 as a collection of links to research papers maintained by two Stanford grad students, Jerry Yang and David Filo. They gradually added links to new types of information, and the site grew rapidly in popularity. By the end of 1994, Yang and Filo were considering turning the site into a startup, and they asked Tim Brady to write a business plan for it._
+
+_Brady had been Yang’s college roommate and was by this time getting his MBA at Harvard Business School. Brady initially expected to be able to finish the semester, but as Yahoo’s potential grew, it became clear that he couldn’t wait. He turned in the company’s business plan as his final assignment in the courses he still needed to pass, and jumped on a plane west to become Yahoo’s first actual employee._
+
+_Brady’s title during his 8 years at Yahoo was VP of Production. His respon- sibility, as he puts it, was “product.” He was effectively the editor of Yahoo’s site. Yahoo went public in April 1996, and for nearly all the period since has been the most popular network of websites in the world. Ultimately, Yahoo won the portal wars because it was a better site, and it was the site it was largely because of Tim Brady._
 
 So Jerry gives me a call in the beginning of my second year of B-school and says, “My trailer mate and I started this thing, and it’s really starting to ramp up. I’ll have you take a look at it.” He wasn’t looking for advice; he was just telling me what he was up to. I looked at it and was blown away—the whole Web thing. I had been on AOL, I knew a bit about the Internet, but nothing about the Web. It was still pretty early then.
 
@@ -2076,7 +2077,7 @@ In short, I’m nervous about everything. If you’re doing a startup and you’
 
 One thing I didn’t know was how tightly connected everyone is in the Valley. We’ll meet someone, and then we’ll meet someone who I would never expect to even know that person, and they’ll say, “I heard you met Tony last week.” It’s such a small industry, and so much business is done through the net- work circuit, which is kind of upsetting, because I’d rather the good companies get the good deals and the bad ones don’t get deals at all. Instead, it’s more like, “Who do you know?”
 
-## MenaTrott Cofounder, Six Apart
+## Mena Trott Cofounder, Six Apart
 
 _Husband-and-wife cofounders Mena and Ben Trott started Six Apart (named for the number of days between their birthdays) in their apartment in 2001. Trott’s personal blog, Dollarshort, was growing in popularity, and she was dissatisfied with the blogging software available at the time. So she and Ben decided to develop their own and share it with some friends. Movable Type became popular almost imme- diately on its launch in October 2001.
 
@@ -2342,45 +2343,3 @@ We’ve found the dinners are really good for the founders’ morale. Paul used 
 This all leads up to the most important day, Demo Day. This is when the startups present to investors. They each have about 7 minutes, so they have to be good. A week before Demo Day, we have Rehearsal Day, which is basically a dress rehearsal for the next week. We give them feedback on the content of their presentations as well as the delivery. Hackers aren’t usually the best when it comes to presentation skills, but we work really hard with them to make sure they are impressive. I am always so proud of how much effort the founders put in. You can tell they care a lot. As they should, since it’s their introduction to pretty much the whole investment community.
 
 Have you gotten better at recognizing which founders are likely to succeed? We have learned that determination matters a lot more than founders’ resumes or where they went to college. I’d say that determination is the most important quality in a startup founder, because we’ve seen so many of the start- ups hit difficult times, and some of them quit and some of them don’t. It’s hard to keep going.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

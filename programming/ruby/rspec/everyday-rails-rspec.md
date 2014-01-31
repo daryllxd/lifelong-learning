@@ -213,6 +213,95 @@ Regarding DRYness, optimize for readability. If you find yourself scrolling up a
 - __Test for edge cases.__
 - __Organize your specs for good readability.__
 
+## Generating test
 
+Out of the box, Rails provides a means of quickly generating sample data called _fixtures_. This is a YAML file.
+
+Problem: Fixtures can be easily broken, and Rails bypasses Active Record when it loads fixture data into your test database. This means that validations are ignored. Bad!
+
+Factories are simple, flexible, building blocks for testing data. Con: Even DHH said that factories are a primary cause of slow test suites.
+
+> spec/factories/contacts.rb
+
+    FactoryGirl.define do
+      factory :contact do
+        firstname "John"
+        lastname "Doe"
+        sequence(:email) { |n| "johndoe#{n}@example.com" }
+      end
+    end
+
+Filenames for factories aren't as particular as for specs, just store them in `spec/factories/`. Convention is: `spec/factories/contacts.rb` for the Contact model.
+
+Update the code. (The created contact doesn't persist.)
+
+    describe Contact do
+      it "has a valid factory" do
+        expect(FactoryGirl.build(:contact)).to be_valid
+      end
+
+      it "is invalid without a firstname" do
+        contact = FactoryGirl.build(:contact, firstname: nil)
+        expect(contact).to have(1).errors_on(:firstname)
+      end
+
+#### Association and Inheritance in Factories
+
+> spec/factories/phones.rb
+
+    FactoryGirl.define do
+      factory :phone do
+        association :contact
+        phone { '123-555-1234' }
+        phone_type 'home'
+
+        factory :home_phone do
+          phone_type 'home'
+        end
+
+        factory :work_phone do
+          phone_type 'work'
+        end
+
+        factory :mobile_phone do
+          phone_type 'mobile'
+        end
+
+      end
+    end
+
+> spec/models/phones_spec.rb
+
+    describe Phone do
+      it "does not allow duplicate phone numbers per contact" do
+        contact = create(:contact)
+
+> You have to explicitly tell the phone to share the same contact.
+
+        create(:home_phone, contact: contact, phone: "785-555-1234")
+        mobile_phone = build(:mobile_phone, contact: contact, phone: "785-555-1234")
+
+        expect(mobile_phone).to have(1).errors_on(:phone)
+      end
+
+      it "allows two contacts to share a phone number" do
+        create(:home_phone, phone: "785-555-1234")
+        expect(build(:home_phone, phone: "785-555-1234")).to be_valid
+      end
+    end
+
+#### Generating more realistic fake data
+
+> spec/factories/contacts.rb
+
+    require 'faker'
+
+    FactoryGirl.define do
+      factory :contact do
+        firstname { Faker::Name.first_name }
+        lastname { Faker::Name.last_name }
+        sequence(:email) { Faker::Internet.email }
+      end
+    end
 
 
