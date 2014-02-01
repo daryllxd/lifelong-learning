@@ -290,7 +290,7 @@ Update the code. (The created contact doesn't persist.)
       end
     end
 
-#### Generating more realistic fake data
+#### Generating more realistic fake data + Advanced associations/ Factory Girl callbacks
 
 > spec/factories/contacts.rb
 
@@ -298,10 +298,35 @@ Update the code. (The created contact doesn't persist.)
 
     FactoryGirl.define do
       factory :contact do
+
+> User ffaker to generate fake data
+
         firstname { Faker::Name.first_name }
         lastname { Faker::Name.last_name }
         sequence(:email) { Faker::Internet.email }
+
+> After build callback to populate stuff
+
+        after(:build) do |contact|
+          [:home_phone, :work_phone, :mobile_phone].each do |phone|
+            contact.phones << FactoryGirl.build(:phone, phone_type: phone, contact: contact)
+          end
+        end
       end
     end
+
+> Test if they have 3 phone numbers. spec/models/contact_spec.rb.
+
+    it "has three phone numbers" do
+      expect(create(:contact).phones.count).to eq 3
+    end
+
+> Add a verification to the number of phones. app/models/contact.rb
+
+    validates :phones, length: { is: 3 }
+
+While generating associations with factorires is an easy way to ramp up tests, it's also an easy feature to abuse and often a culprit when test suites' runnign times slow to a crawl. When that happens, it's better to remove associations from factories and build up test data manually, or do PORO.
+
+
 
 
