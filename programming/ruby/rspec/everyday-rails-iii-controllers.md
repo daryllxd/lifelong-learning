@@ -11,6 +11,7 @@
 - One feature spec can accomplish the work of multiple controller specs.
 
 #### Controller testing basics
+
 Scaffolds, when done correctly, are a great way to learn coding techniques.
 
 A controller spec is broken down by controller method-each example is based of a single actions and, optionally, any parameters passed to it. Here's a simple example:
@@ -26,7 +27,8 @@ Similiarities to earlier specs:
 - _The example only expects one thing:_ After the post request is processed, a redirect should be returned to the browser.
 - _A factory generates test data to pass to the controller method._
 
-####New things to look at:
+New things to look at:
+
 - _The basic syntax of a controller spec_-its HTTP method (post), controller method(:create), and, optionally, parameters being passed to the method.
 - `sttributes_for`: Generates a hash of attributes, not an object.
 
@@ -126,80 +128,3 @@ Similiarities to earlier specs:
 - The basic DSL for interacting with controller methods: Each HTTP verb has its own method which expects the controller method name as a symbol (her, `:show`), followed by any params (`id: contact`).
 - Variables instantiated by the controller method can be evaluated using `assigns(:variable_name)`.
 - The finished product returned from the controller method can be evaluated through response.
-
-#### Index method
-
-> spec/controllers/contacts_controller_spec.rb
-
-    describe 'GET #index' do
-      context 'witj params[:letter]' do
-
-> Make sure an array of contacts matching the first-letter search is created and assigned to @contacts.
-
-        it "populates an array of contacts starting with the letter" do
-          smith = create(:contact, lastname: 'Smith')
-          jones = create(:contact, lastname: 'Jones')
-          get :index, letter: 'S'
-
-> match_array looks for an array's contents, but not their order.
-
-          expect(assigns(:contacts)).to match_array([smith])
-        end
-
-        it "renders the :index template" do
-          get :index, letter: 'S'
-          expect(response).to render_template :index
-        end
-      end
-
-      context 'without params[:letter]' do
-        it "populates an array of all contacts" do
-          smith = create(:contact, lastname: 'Smith')
-          jones = create(:contact, lastname: 'Jones')
-          get :index
-          expect(assigns(:contacts)).to match_array([smith, jones])
-        end
-
-        it "renders the :index template" do
-          get :index
-          expect(response).to render_template :index
-        end
-      end
-    end
-
-> GET new and GET edit are sort of the same:
-
-    describe 'GET #new' do
-      it "assigns a new Contact to @contact" do
-        get :new
-        expect(assigns(:contact)).to be_a_new(Contact)
-      end
-
-      it "renders the :new template" do
-        get :new
-        expect(response).to render_template :new
-      end
-    end
-
-    describe 'GET #edit' do
-      it "assigns the requested contact to @contact" do
-        contact = create(:contact)
-        get :edit, id: contact
-        expect(assigns(:contact)).to eq contact
-      end
-
-      it "renders the :edit template" do
-        contact = create(:contact)
-        get :edit, id: contact
-        expect(response).to render_template :edit
-      end
-    end
-
-#### Testing POST requests
-
-We need to pass the equivalent of params[:contact] or the contents of the form in which a user would enter a new contact.
-
-    it "does something upon post#create" do
-      post :create, contac: attributes_for(:contact)
-    end
-
