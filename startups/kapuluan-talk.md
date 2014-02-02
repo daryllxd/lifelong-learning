@@ -1,4 +1,4 @@
-It wasn't just corruption, Koera, Malaysia, HK was corrupt. Corruption does not explain economic backwardness. What explains economic backwardness was stupid economic policies.
+It wasn't just corruption, Korea, Malaysia, HK was corrupt. Corruption does not explain economic backwardness. What explains economic backwardness was stupid economic policies.
 
 "inward-looking Filipino first nationalist industrialization"
 
