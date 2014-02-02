@@ -218,20 +218,82 @@ We want to make a useful frame, write down stuff. The key thing is my health. I 
 
 I know I can accomplish goals so I have hope moving forward.
 
+## Introducing Creative Alternatives and Useful Information
 
+__Decisions are only as good as your best alternative.__
 
+Decision trap: _Either I go or I don't._ 
 
+Is it a date? Do I like this person? Do I trust this person? Will I have fun? What are the odds of a good outcome?
 
+My brain was rather "do I go to college", I did a "what is best to achieve my goals"?
 
+Everyone is creative, but not everyone was taught to systematically improve their creative process. So they reject stuff with "it will never work" and "we already tried that." Reframe stuff, too. "What do I do if I had a ton of money, or no money. What Would I do if I need to decide tomorrow, or one year from now." 
 
+Where to go to college? Instead of community->university, how about move->CC->univ? 
 
+What makes a decision complex is multiple values, multiple alternatives, and uncertainty. This is where the language of probability helps us to communicate clearly and think straight. This leads us to sound reasoning, and identify the sources of value.
 
+## IYC #10: Creative Alternatives
 
+Either-or trap: I want to go to grad school and I don't have money. I either get money from my parents or get stuck in my stupid job.
 
+Just think of creative alternatives, don't filter. Temp job in a different office, summer fellowship with a psychology professor, folow Bieber on his summer, sell paintings at the Art Show, apply for a waitress job, audition for a role with a summer theater company.
 
+#### Reality test: If you answer no to any of the three questions, the option fails.
 
+1. Is this likely to get me what I want?
+2. Is this reasonable?
+3. Would I actually do this?
 
+Sometimes knowing what you don't want is even better than what you want.
 
+#### Remove
+- No Bieber because it fails to get what I want.
+- I don't think selling paintings are reasonable.
+- I would not actually do the waitress job.
 
+> Was there something you failed to think?
 
++ Get job at summer arts camp.
++ Get job building sets at a summer theater company.
 
+## Professor Ron Howard on Creative Alternatives and Values
+
+Many decisions that we make are not ethically sensitive but there are decisions that you make wherein you have to take an ethical stance on it. 
+
+Most of these decisions are also made quickly. You better do some preparation in formulating decisions to know which ones are ethically sensitive.
+
+Physical harm, depriving them of property, truth-telling ("How do I look in my dress", "How am I doing?" (dying person)).
+
+Professionals say it's best to just tell the truth. People know if they are not doing well anyway. __Deciding to tell the truth is one thing, but determining what "the truth" is also important.__ We can say "people in your situation live x months or years, and we aren't sure what influences this."
+
+If you have things in your communication that are not accurate, then you lose the opportunity to deepen the conversation. Why would you want people in your life that are likely false people? 
+
+It's like training wheels on bicycles. You'll never learn how to ride a bike if you don't take the training wheels off. So telling the truth is the way to get accurate feedback.
+
+"My ethics is determined by what I do." (action-based ethics) or "My ethics is determined by the results of what I do." (consequence-based ethics) Decision skills are leaning to the consequence-based. It's not preferences, but it's about you.
+
+Even stuff such as cheating/overbilling is harder when you're telling the truth, it's more of determining what the truth is.
+
+__Buddha story: "Can you cut that tree's branch off?" Murderer did. "Can you put it back on?" The murderer became enlightened.__
+
+That's transforming. Buddha showed the murderer that there was a higher plane of thinking. That's the ultimate elevation.
+
+You don't suddenly become ethically aware all of a sudden. Usually you have to realize that "this is a way you want to be throughout your life." But when you're used to being that way, then there is no problem.
+
+Ex: In college, the idea of bribing a teacher to get a higher grade was unthinkable. __When we make things unthinkable, that's when we are transcendent.__ The unexamined life is not worth doing. If you don't examine what you do, when you look back on the past you'll feel bad.
+
+A good decision never becomes bad, and a bad decision never becomes good.
+
+## IYC #11: Information - Probability
+
+When buying stuff: How much faster, and how many flaws does the competitor have? Did you check reviews? Check for RELEVANT features XD.
+
+Wishful thinking decision trap: When we make decisions according to what we wnat to ahppen rather than rely on evidence or reality.
+
+Overconfidence decision trap: An excessive belief in the truth of your own beliefs. So you don't test your information to know if it's reliable.
+
+Just thinking of putting something on the line (money or dignity) makes you know what you want.
+
+Numbers: Even if things are uncertain, why not just add a number too? Instead of using "maybe", "might", why not just add a number to make your confidence level clearer?

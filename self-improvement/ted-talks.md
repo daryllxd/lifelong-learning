@@ -1,3 +1,17 @@
+## [Peter Singer: The why and how of effective altruism](https://www.youtube.com/watch?v=Diuv3XZQXyc)
+
+Does it really matter that you don't have to walk around these children as you walk down your street?
+
+Effective altruism: Combines both the heart and the head. Heart = you feel the child, head = what you do is well-directed. Reason helps us to understand that others are out there, like us, and parents grieve just like we do.
+
+I think reason isn't just a tool to get whatever you want, but it also puts us into perspective.
+
+#### Four questions people ask:
+1. What difference can I make? He calculated that his earnings can help 8K people and still live a comfortable life.
+2. Am I expected to abandom my career? 80,000 hours (expected hours in a career), he suggests go to Banking/Finance so you can give a lot of money for aid workers.
+3. Isn't charity bureaucratic and ineffective? Some charities are 1000s more helpful. It costs $40K to train a guard dog. It costs the same amount to cure 400-2000 people of blindness. So you think of the cost-effectiveness given scarcity.
+4. Isn't it a burden to give up too much? Sisyphus problem. Isn't this like consumer goods, though? You spend shit on stuff but you don't really like whatever?
+
 ## [Jonathan Haidt: The moral roots of liberals and conservatives](http://www.ted.com/talks/jonathan_haidt_on_the_moral_mind.html)
 
 It really is a fact that liberals are much higher than conservatives on a major personality trait called openness to experience. People who are high in openness to experience just crave novelty, variety, diversity, new ideas, travel. People low on it like things that are familiar, that are safe and dependable.

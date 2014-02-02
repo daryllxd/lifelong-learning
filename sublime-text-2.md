@@ -1,4 +1,6 @@
-Sublime
+# Sublime
+
+Open Dash: Ct-H 
 
 ## Views
 
@@ -49,6 +51,8 @@ Sublime
 
 ## Deleting Stuff
 
+	Fn+Del					Forward delete
+	Fn+C+Del				Forward delete word 
 	C-S-k						Delete line without highlighting it first
 	C-K							Delete line
 	Ct-Del					Backspace word
