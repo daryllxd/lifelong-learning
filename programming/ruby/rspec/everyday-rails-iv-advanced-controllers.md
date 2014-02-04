@@ -213,3 +213,163 @@ Then include them in any describe or contact block.
         expect(response).to require_login
       end
     end
+
+## Feature specs
+
+Dependencies: `faker`, `capybara`, `database_cleaner`, `launchy`.
+
+> spec/features/uses_spec.rb
+
+    feature "User management" do
+      scenario "adds a new user" do
+        admin = create(:admin)
+
+        visit_root_path
+        click_link "Log In"
+        fill_in "Email" with admin.email
+        fill_in "Password" with admin.password
+        click_button "Log In"
+
+        visit root_path
+        expect{
+          click_link "Users"
+          click_link "New User"
+          fill_in "Email", with: "newuser@example.com"
+          find("#password").fill_in "Password", with: "secret123"
+          find("#password_confirmation").fill_in "Password confirmation", with: "secret123"
+          click_button "Create User"
+        }.to change (User, :count).by(1)
+
+        expect(current_path).to eq users_path
+        expect(page).to have_content "New user created"
+        within "h1" do
+          expect(page).to have_content "Users"
+        end
+        expect(page).to have_content "newuser@example.com"
+      end
+    end
+
+#### Refactoring
+
+> spec/support/login_macros.rb
+
+    module LoginMacros
+      def sign_in(user)
+        visit_root_path
+        click_link "Log In"
+        fill_in "Email" with admin.email
+        fill_in "Password" with admin.password
+        click_button "Log In"
+      end
+    end
+
+> spec/features/users_spec.rb
+  
+    feature "User management" do
+      scenario "adds a new user" do
+        admin = create(:admin)
+        sign_in :admin
+        ...
+      end
+    end
+
+### Including JS implementations
+
+> spec/features/about_us_spec.rb. Include Selenium for JS stuff.
+
+    feature "About BigCo modal" do
+
+> add js: true
+
+      scenario "toggles display of the modal about display", js: true do
+        ...
+
+> Simulate a modal
+
+        click_link "About Us"
+        expect(page).to have_content "About BigCo"
+        expect(pag).to have_content "BigCo bla bla"
+
+        within "#about_us" do
+          click_button "Close"
+        end
+
+        expect(page).to_not have_content "About BigCo"
+        expect(page).to_not have_content "BigCo bla bla"
+
+      end
+    end
+
+Fix Database using Database cleaner and AR [TODO].
+
+Capybara drivers: Poltergeist, capybara-webkit.
+
+## Speeding up specs
+
+#### let() and it()
+
+`let()` caches the value without assigning it to an instance variable, and it is lazily evaluated (doesn't get assigned until a spec calls upon it.)
+
+> spec/controllers/contacts_controllers_spec.rb
+
+    describe ContactsController do
+      let (:contact) do
+        create(:contact, firstname: "Lawrench", lastname: "Smith")
+      end
+      ...
+
+`let!` also forces contact to be assigned to each example.
+
+`subject {}` and `it {} ` and `specify {} ` lets you declare a subject to reuse implicitly.
+
+    subject { build(:user, firstname: "John", lastname: "Doe") }
+    is { should_be_named "John Doe" }
+
+#### Shoulda
+
+Use `shoulda-matchers` gem in the `:test` group of the Gemfile, you get new matchers.
+
+    subject { Contact.new }
+    specify { should validate_presence_of :firstname }
+
+#### Mocks and stubs
+
+A __mock__ is a some object that represents a real objet, for testing purposes. Test doubles. They are like Factory Girl, except they don't touch the DB.
+
+A __stub__ overrides a method call on a given object and returns a predetermined value for it. It is a fake method which will return a real result for the tests.
+
+[TODO]
+
+#### Automation with Guard and Spork
+
+Guard is a filewatcher `bundle exec guard init rspec` to set it up.
+
+- `notification: false`. Specs run on a terminal window instead of receiving pop-ups.
+- `all_on_start: false` and `all_on_pass: false`. Run tests before committing changes.
+- Run feature specs upon changes to views.
+- `bundle exec guard` to start Guard.
+
+> Guardfile
+
+    guard 'rspec', version: 2, cli: '--color --format documentation', all_on_start: false, all_after_pass: false
+
+Guard is not just for watching and running your specs. It can streamline CSS compilation, run Cucumber features, run code metrics, reboot dev servers.
+
+Gemz: Guard, Spork, Zeus, Commands, Spring.
+
+#### Tags
+
+    it "processes a credit card", focus: true do
+      ...
+    end
+
+    $ bundle exec rspec . --tag focus
+
+> spec_helper
+
+    RSpec.configure do |c|
+      c.filter_run focus: true
+      c.filter_run_excluding_slow: true
+    end
+
+Other speedy solution: Mark a test as `pending` instead of commenting it.
