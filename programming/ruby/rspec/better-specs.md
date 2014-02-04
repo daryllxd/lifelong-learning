@@ -113,4 +113,3 @@ Sometimes you need to access external services. In these cases you can't rely on
         expect(page).to have_content 'Access denied'
       end
     end
-
