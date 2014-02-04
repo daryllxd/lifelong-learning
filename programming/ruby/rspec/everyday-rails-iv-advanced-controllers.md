@@ -373,3 +373,108 @@ Gemz: Guard, Spork, Zeus, Commands, Spring.
     end
 
 Other speedy solution: Mark a test as `pending` instead of commenting it.
+
+## Testing the Rest
+
+#### Email Delivery: `emailspec`
+
+> spec_helper
+
+    require "email_spec"
+    config.include(EmailSpec::Helpers)
+    config.include(EmailSpec::Matchers)
+
+    expect(open_last_email).to be_delivered_from sender.email
+    expect(open_last_email).to have_reply_to sender.email
+    expect(open_last_email).to be_delivered_to recipient.email
+    expect(open_last_email).to have_subject message.subject
+    expect(open_last_email).to have_body_text message.message
+
+#### File uploads
+
+Rails provides a means of uploading files from `fixtures`, but you can place a dummy file into the `spec/factories` directory.
+
+    FactoryGirl.define do
+      factory :user do
+        sequence(:username) { |n| "user#{n}" }
+        password "secret"
+        avatar { File.new("#{Rails.root}/spec/factories/avatar.png") }
+      end
+    end
+
+[TODO]
+
+##### Testing the time: `timecop` [TODO]
+
+#### Testing web services: Railscasts Fakeweb/VCR
+
+#### Testing rake [TODO]
+
+## Towards TDD
+
+#### Defining a feature: scenarios
+- As a user, I want to add a news release so that the world can see how great our company is.
+- As a site visitor (guest), I want to read news articles so I can learn more about the company.
+
+> spec/features/news_releases_spec.rb
+
+    feature "News releases" do
+      context "as a user" do
+        scenario "adds a news release"
+      end
+
+      context "as a guest" do
+        scenario "reads a news release"
+      end
+    end
+
+Add content.
+
+> spec/features/news_releases_spec.rb
+
+    feature "News releases" do
+      context "as a user" do
+        scenario "adds a news release" do
+          ... sign in
+
+          expect(page).to_not have_content "BigCo switches to Rails"
+          click_link "Add News Release"
+          fill_in "Date", with: "2013-07-29"
+          fill_in "Title", with "BigCo switches to Rails"
+          fill_in "Body", with "BigCo has released ..."
+          click_button "Create News Release"
+
+          expect(current_path).to eq news_release _path
+          expect(page).to have_content "Successfully created news release."
+          expect(page).to have_content "2013-07-29: BigCo switches to Rails"
+
+        end
+      end
+
+Then, you can edit spec_helper to run only the focused tests.
+
+    Spork.prefork do
+      RSpec.configure do |config|
+        config.filter_run focus: true
+      end
+    end
+
+    feature "News releases", focus: true do
+
+Rails should then complain about not having the path. Better to go with a `scaffold` if you know you add to write a ton of shit later.
+
+    $ rails g scaffold news_release title released_on:data body:text
+    $ rake db:migrate db:test:clone
+
+Write the shit first to make the tests pass.
+
+Refactor model and add testing expectations in it.
+
+## Parting Advice
+- Practice testing the small things. Test low hanging fruit first.
+- Be aware of what you're doing.
+- Short spikes are ok: Write production code only after you've written the specs.
+- Write a little, test a little is also ok.
+- Feature specs first then move to the inner levels.
+- Make time for testing
+- Use tests to make the code better via the Refactor phase.
