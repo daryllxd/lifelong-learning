@@ -753,3 +753,1661 @@ How much we care vs. magnitude of the problem doesn't matter. It's all about act
 American cancer society: The word "cancer." The word "survivor." People are asked to recruit friends and families, so people get connected.
 
 __The key to action is not thoughtful deliberation, it's emotion.__ If we think in a calculated manner, we will be selfish. The activation of emotion will get us to care about the problems.
+
+## 3 - 1 - 3.1 - Moral Diversity - 9_32
+
+Now in this third lecture, we're going to start at the origins of morality. The origins of moral rules and moral principes and moral feelings. Where do they come from? How is it that we have them? 
+
+So, in this first lecture, I'm going to spend the rest of the lecture talking about moral diversity, that it's differences in moral feeling and moral judgments. The second lecture we'll talk about moral universals that is aspects of morality that are shared across all humans. The third and fourth lectures we'll deal with evolution and morality. Looking at morality from a biological, Darwinian perspective. Asking how the amoral force of natural selection could give rise to creatures like us, which have moral capacity for moral judgements, altruistic behavior and all sort of other directive, all sorts of sweeter kinder emotions and feelings. The fifth lecture is a guest lecture by professor Lori Santos, who's a colleague and a friend of mine. And she'll be talking about primate morality. Then we'll go back and the sixth lecture will be about morality in babies. And, finally we'll end with some open questions, some puzzles, some things that honestly we have not, solved yet, and maybe we, we're not ready to solve. 
+
+But, I want to be honest in this course and sort of lay out what we know and sometimes what we don't know. So, diversity, many people are skeptical of moral universes. So, when you say I'm interested in morality, one, one, one reasonable response is, well, morality differs all over the place. There's nothing universal about morality. We have one moral system, but people in another country might have another, and people at another time might have another. And, this idea of moral diversity, is something which has been in the air a long time. 
+
+One classic example is, from, comes from Heredades who wrote in his histories about 2,400 hundred years ago. And, Heredades tells a story of Darius, King of Persia. So, to make a point, Darius brings in a bunch of Greeks. And he says to them, so how much would I have to pay you to eat the dead bodies of your fathers? And, the Greeks are horrified. They would never do such a thing. What a, what a grotesque proposal! How wrong can you be? And then, in a Presidents of the Greeks, Darius brought in some members of an Indian tribe, but a very different custom. And, ask them, how much would I have to give you to burn the bodies of your fathers? And, the Indians were horrified. How could we do such a thing? The only thing you do to respect one's dead father would be to eat him. You don't burn him. And, and the point that Darius is making to his audience was, that what seems natural to one is unnatural to another. What seems right to one is wrong to another. Haradus goes on to write, if anyone were given the opportunity from choosing amongst all of the nations in the world, the set of beliefs which he thought best, he would inevitably, after careful consideration of irrelative merits, choose that of his own country. Everyone without exception believes his own native customs and the religion he was brought in to be the best. 
+
+Now, many contemporary psychologists, philosophers, anthropologist would agree with the point that Horradis is making, which is that there's significant variation And morality around the world. And, my favorite example here is from the University of Chicago anthropologist Richard Shweder, who provides a very nice list. So, he's talking about moral attitudes and moral feelings. And, he notices that people have found it quite naturally to be spontaneously appalled, outraged, indignant, proud, disgusted, guilty, ashamed of all sorts of things. And he has this list that you could see. Masturbation, homosexuality, democracy, capitalism, meat eating, divorce, romantic love, marriage, long hair, women being allowed to work, women not being allowed to work, and the range is dazzling and it's correct. For each of these items you could find some people in the world who find it monstrous and other people in the world who find it important, and significant, and valuable. 
+
+One could see these differences, without going to an anthropological text or without reading history books, is open up the newspaper. So, one story, that, that I found in the New York Times as I was thinking about these issues and writing about these issues, was, was this, this very sad case in Afghanistan. So, you have two teenagers, and they're of different ethnicities, different groups, and they fall in love. And they, they start to date, they start to talk to each other. One day, in the middle of the day, they're sitting in a car together and their talking, and a group of men see them and approach them and demand to know what their doing there. What's up with them, are they involved, what's happening here? And, pretty soon people gather and 300 people gathered, and they decide that these 2 teenagers are adulterers. They're, they're, they're involved in a, in a sexual relationship outside of marriage. And they decide to, to kill them, to kill them through stoning. And, then security forces come, the police comes and there's a riot. Police come, they rescue the teens, they put them in custody for their own protection and there's a riot and one person dies. Now, after the event all sorts of people came and express their moral attitudes. But, their moral attitudes weren't necessarily what one would expect. so, the father of the girl says, well, this is terrible, this is a horrible thing, both people should be killed. Both the teenagers should be killed for what they did. the, the, the family members of the man who was killed in the riot says, it's the teenage girls responsibility, and here's what she can do to make good, what she can do is, marry one of their remaining sons, and then the debt will be paid. 
+
+Now, from how I was raised, I, you know, I was raised in Montreal, Canada. I was, I now, now, now live in the United states. These are very alien moral sentiments. I was raised in a, in, in a community in a world where romantic love was prized. Romantic love was seen as a, as a precious and important thing. One might object to it in some case and not others, but nothing inherently wrong with it. And, so it's shocking to me to see how people are different. In fact and contemporary Western society, many could argue we are going to opposite extreme where there are sort of a celebration of sexual debotury, hardcore pornography is rampance. Some would argue that the objectification of women as sexual objects is rampant. And, and this is which, and, and these are, are, things that are viewed as morally okay in the West but shocking and repellent to many people around the world. So, it's clear enough that people at different places in different times have very different moral views. This leads the question, what if anything, do we have in common? And that's the topic of the next lecture.
+
+## 3 - 2 - 3.2 - Moral Universals - 13_23
+
+So we ended in the last lecture by talking about diversity, the sort of diversity pointed out by Herodotus, the sort of diversity cataloged by Richard Shweder and other anthropologists. But, now we can kind of shift gears a bit and think about things in a different way, looking now at what places and people have in common. And the first thing to realize is that the examples provided by Herodotus and by Shweder and others actually illustrate a sort of commonality. 
+
+Because, although cultures have different attitudes about how to treat the dead, about how parents should interact with their kids, about romantic love, about sexuality. Although they have different attitudes, there are no cultures that don't care. These are all examples of, of moral differences, but they're also examples of moral commonalities, and these are the very domains which are imbued with morality. So, so, you know, you might have to. You, you. The right thing might be to eat your dead father. The right thing might be to burn your dead father. It might be to, as in our culture, many of us, to bury your dead father. But you're not going to find anybody who says, I don't care. Whatever, you know? Dead bodies? Who cares. Humans care about dead bodies. Humans care deeply about the moral status of dead bodies, of loved ones, and what one should do about them. 
+
+You may find societies that treasure romantic love. That view this as a high moral ideal. Others that view it as very disturbing and wrong. Well, you're not going to find cultures that say love, that doesn't really matter from a moral point of view, couldn't care. These are things that matter. More to the point. It's not the case that everything's up for grabs. 
+
+So, we're naturally fascinated by moral differences. And we're actually fascinated by these in part because they matter to us as we travel and as we interact with other people. When I go to a foreign land, I'm very interested in in how they think, and I'm particularly interested in how they think that's different from how I think. Is the way I raise my kids going to be shocking to them? Are they going to be offended by something I do? Are our customs different? Are our, you know, rules for interaction different? We want to know that because we're people, and when we're interacting with other people it's the differences that matter. I don't want to open up a travel guide and say, you know this far away place you're going? The people there, they have noses, and they age over time. Well. And they often have two arms and two legs. I don't want to hear that. That's not humanly interesting because I know it's true. It's just obvious. 
+
+Arguably, you see the same thing with language. So, the linguist, Noam Chomsky, has pointed out that the thing that captivates us with languages are their differences. If I go to a foreign land, and they're speaking French or Thai or Choctaw or Russian, or what have you, I don't understand any of those languages. And the difference between what they're doing and what I do, speaking English, barely, is, is, is, is it humanly relevant? And Chomsky points out though, that it turns out languages have deep universals. The deep universals underline language and may in some way be the sort of much more important from a scientific point of view than their superficial differences. But it's not the universals we focus on. It's the differences, and you might say the same thing with morality. So, there are moral universals that show up culture after culture after culture. We tend not to think of them or talk about them because they aren't as humanly relevant. In some sense they aren't as exotic. They aren't as interesting. 
+
+But what am I talking about, when I talk about human universals? Well, here we could draw upon the work of scholars like, like Shweder himself. Like his his student and a psychologist, Jonathan Haidt. Psychologists like Pinker and, and, and anthros, anthropologists like Fisk who have, who have sort of broken up the moral the moral world into different parts, and without putting too much weight onto this I want to suggest you can think about five categories when it comes to morality. 
+
+So one category is harm. Harm is a critical universal aspect of our moral systems, and in particular, wherever you go, there's the belief in the wrongness of intentional assault. You gotta have a reason. To put it differently. Wherever you travel, anywhere on this planet, if you walk up to somebody and punched them in the face, you better have a good reason. You better, you better, you better have an excuse. There better be a justification. Because otherwise the people are not going to stand for that. You will have done something wrong. 
+
+There's reciprocity. Humans are social beings. We find ourselves in, in, in relationships where we share, where we cooperate, and there are norms of sharing and cooperation saying how you should do it, who you should do it with and so on. 
+
+There's also corta, correspondingly a universal notion that it's wrong to cheat. It's wrong to say you'll do something and not do it. It's wrong to to, to, you know, weasel out of things. It's wrong to free-ride. Well, free-ride is a bit of a, a technical term. To, to be a free-rider means you mooch off the hard work of others. There is a hunt, for instance, and everybody in the community is doing the hunting. And you're sitting back. And when the food comes you eat as much of it as everybody else. Well, there is no place on earth where if they notice, people notice this, they won't think that you're a jerk. That sort of free riding is universally disapproved of. 
+
+There's hierarchy, and this is actually a domain which we probably know a little bit less about than some of these other domains. But the idea is, wherever you look, there's some respect for authority, some notion of honor and dignity and respect. And, now this could be very rich. So in a society where I live in, there is all sorts of hierarchies. I'm supposed to respect the president, I'm supposed to respect my boss. My, my students are supposed to respect me to varying degrees. but, but everywhere, there's something like this. At minimum, within the family. Where our sort of expectations and requirements about how a child is supposed to deal with his or her parents, and the parents are supposed to deal with his or her children. 
+
+There's purity. Purity is extremely interesting and, and, and one way to put this, and this actually comes from, from Shweder, to some extent. Is that wherever you are you find it morally important to protect yourself and others from contamination, physical or spiritual. I know it's a little bit vague. And, and this is something which I find interesting enough I want to devote more time to it later but now just, just to, to sort of zoom in a little bit. Wherever you go there's going to be moral restrictions having to do with food and sex and death. It's not just like oh, we like to eat this and not that or, or we think this sexual position is particularly fantastic or, you know, don't step on the corpse. Rather, it's. It is wrong to eat this. It is right to eat that, or it's wrong to eat this on that day of the week or that time of the year. This sort of sex is forbidden. This sort of sex is morally out of bounds. When somebody dies you should do this and that and this and that, and not do this and that and this and that. The details, of course, as we've discussed differ but there are to my knowledge from anything I've read, there are no societies who are indifferent about these matters of purity. 
+
+And finally, there's some issue, there's always a morality of community. We make a moral, we make a distinction between in-groups and out-groups, between us and them. And this isn't just a psychological distinction, this isn't just that we notice it, but rather this distinction has moral significance. There's a value given to loyalty to your group. We condemn people who betray their group. We condemn heretics. We condemn people who, who defect to the other group. And a lot of our sort of group dynamics, a lot, a lot of the way the world works. Turns on the critical and natural moral distinctions they make between themselves and other people. 
+
+So, you have these universals and in, in fact we, we could now, just, just to look at in a somewhat different way, forget about the categories and, and think of specific examples. So these are specific examples, which I would suggest are true everywhere. There's a ban on arbitrary assaults. No punching somebody wihtout a good reason. You should keep promises. When you make a, a promise to someone, you say you'll do something, you should. If you just, you know, don't do it, then something's gone wrong. Some degree of sexual modesty. Now this of course, varies hugely. There are parts of the world where a man, you know, if, if he's not going out with a vest and a nice jacket and a tie, he, you know, he's doing something horribly wrong. There's other parts of the world where he just has to have a penis pouch, and that's it. 
+
+But, there's always rules. There's rules on some degree of, of modesty. Regarding how much of your body you show, and also regarding where you urinate and defecate, and where you have sexual intercourse. It doesn't, you're not going to find any people for whom this doesn't matter. Some obligation to share. At least share with those with your children. With, with your friends. Anger towards cheaters and free-riders. Anger towards those who for whatever reason have chosen to violate the moral rule that you would hoped that they would do. And they don't share. Protection of children. Just like there's no society, where you can't punch somebody just at will, there's no society where it's fine to kill children. A taboo on incest. So, there's a particular sexual taboo, that gets sketched out in different ways, but but wherever you go for instance brother-sister incest is considered morally wrong. It's not just oh we don't like that, we don't typically do it but rather it, there's something wrong with it. If, if, if it was believed, if you came into this country and you said, oh this is what I do all the time I have intercourse with my siblings, people would look down on you. There are rules about appropriate foods. There's obligation to family, and finally, to go back to Herodotus, there's special treatment of the dead. 
+
+Now, you have these universal moral principles, these universal moral ideas and it might be very tempting to say wow, so that must be hardwired. That must be innate. That must be a part of how our brains work. That must be the product of natural selection, of biological evolution. But it doesn't necessarily follow. All sorts of things that are universal could arise in the course of cultural evolution, not biological evolution. That is, they could be cultural solutions to universal problems. So take the, the restriction against hitting. It might be an effect, I think I will argue that, that, that it is. That there's some built in mechanism that, that, that kicks in when you see one person arbitrarily assault another one. 
+
+But, to be fair, there are other theories for why all societies have some sort of ban on hitting. The idea being that even if you didn't start off with any instinctive desire not to be hit or not to have somebody hit another person, still the culture couldn't survive if you would just hit each other. So imagine two societies side by side. One society, people just smacked each other whenever they felt like it. The other society, where it was viewed as wrong to do so. It's clear the society which views it wrong to do so would be a better society will, will, will work better, will be better at, at battle, will be better at everything. Then a society where people were just simply smacking each other. 
+
+The philosopher Jesse Prinz, put this quite nicely, quite succinctly, when he wrote how would society work if you could punch your neighbor regularly? __Well, not very well. so, we should, as we consider the origins of these universals, we should have on the table that some of this morality might arise as cultural solutions to universal problems.__ At the same time, though, what I want to suggest is that some of morality has a different origin. In particular, some of morality may have evolved through natural selection. And how this can happen, how this can work, is going to be the topic of the next couple of lectures.
+
+## 3 - 3 - 3.3 - Evolution of Morality - 20_19
+
+So I want to turn now and talk about morality from a evolutionary perspective. Now I'd like to assume some familiarity with the theory of natural selection. And if people want to get more of a background, as part of the supplementary readings I linked to an excellent video that outlines the logic and, and, and some examples of how natural selection works. If you're not familiar with the evolutionary theory behind it, it's absolutely fascinating and you should delve into it. I would actually also recommend reading Origin of Species. Actually the first edition, Darwin's first edition. Darwin was among so many other things, a lovely writer. And he wrote for a broad audience. And this is an accessible and interesting book. 
+
+If you want something more contemporary, I would suggest Richard Dawkins's wonderful book, The Blind Watchmaker. I think this is the British cover. I read this when I was much younger and it actually totally entranced me. And largely transformed my intellectual life, getting me to take very seriously evolution and evolutionary theory, later on influencing my own work as a psychologist. It just, it's just a, a wonderful read. 
+
+But in case, in case, you don't have the background. A very short summary of the theory which has a sort of surprising simplicity and surprising elegance goes like this. It involves three parts. There are three three conditions that are needed for natural selection to take place. You have to have variation. You have to have differential reproduction, meaning that some of the variants do better at reproducing than others. And you have to have heredity, where the offspring resemble their parents. 
+
+And Darwin's extraordinary insight is, you take these three simple facts when they occur. __Variation, differential reproduction and heredity.__ And under those conditions such things can give rise to the most complicated and extraordinary systems in the universe. It could give rise to biological life. It could give rise to animals, and parts of animals and organs and all sorts of good things like that. 
+
+So, a very simple example, a sort of toy example, would be like this, which is, you could say you could ask yourself, Why is it that all? Imagine, it turns out to be the case, that the beetles are brown, and, and birds don't eat brown beetles. They can't see them, or whatever. Say, wow, how did that work out? How did that happen? Well, one argument would be, one, one explanation is that maybe beetles started off both green and brown, so you get this variation, some are green, some are brown. But, there is differential reproduction, there is differential reproduction because birds eat the green beetles. And so the green beetles leave behind fewer offspring than the brown beetles. Now there is also, as a third component, heredity. So the brown beetles give rise to offspring that tend to be brown. They resemble their parents. If you iterate this over and over again, and this is actually simple example, you're not going to need a computer model to, you to see it. Pretty soon all the beetles going to be brown. Pretty soon in a condition where there's variant x and variant y, and x does better than y, leaves more offspring. Pretty soon, x will win and the whole population will be, will be x. 
+
+And this is a screamingly simple example, but, you know, the project, so much of the project of evolutionary biology is wrapping this up. So forget now about a single color difference and think about camouflage. And and, and the same evolutionary explanation can explain why animals, why some animals are so extraordinarily good at blending into their environments. They're good at blending into their environments because, variants, you go back into the past. Variants that were better off at blending in got eaten less by predators. And then, and so on and so forth and so on, until through, you gradually converge on animals that are almost invisible, because they got to be invisible because those invisible variants, those variants that perfectly blended in reproduced the most. And then you get to, to, to sort of detailed analyses of how this sort of increasing, step by step by step, each step leading to some, perhaps a minuscule, but a real advantage in reproductive success. Leads to a, a, a new stage of development. 
+
+And then so they're biological theories well grounded in data on how the eye could evolve. How the how the leg of a horse could evolve. How whole animals could evolve, how the spine could evolve. And and so this is all the biological part. But it slides into psychology because one of the, the, the organs that have evolved, that has evolved through natural selection is of course, the brain and in particular, organ we are most interested is the human brai, human brain. And if you see the human brain as a biological adaptation, as something which has risen through natural selection. That's just quite a new way of looking at things. And this was something Darwin himself was sensitive to. 
+
+So one point he writes, that as a result of evolutionary theory, psychology will be based on a new foundation. That of the necessary acquirement via evolution of each mental power and capacity by gradation. That is, you look at the cluster of mental capacities we have and each one we can see as an adaptation that has sort of gradually developed through increased reproductive success. 
+
+Now this is a certain view of the mind. It doesn't say the mind is a huge all purpose computer or the mind is a general associative network as many philosophers would argue. And some modern day computational theorists would argue. But rather, the mind is a cluster of different capacities. Each one has evolved for a different purpose. Also, they've evolved to work in concert with one another. This is, again, an old idea. The most one of the most famous psychologists of all, William James, expressed it quite nicely. William James wrote. It is often said that man is distinguished from the lower animals by having a much smaller assortment of native instincts and impulses than they, but this is a great mistake. 
+
+James's point is it's very tempting just to say, oh, animals are the product of biological evolution. There's a bunch of instincts that they possess that guide them to, to various behaviors. But humans are special. Humans, we don't have instincts anymore, we're just very smart. We're cultural creatures, say. And to some extent we are very smart and to some extent we are cultural creatures. But the approach that Darwin and James recommend, an approach which is pursued by many evolutionary psychologists. An approach which, you know, guides my own research is that in addition to any general smartness any cultural proclivities that we posses, we also have an assortment of, of instincts, call them mental organs, call them modules. For language, for mate selection, for rudiment, rudimentary mathematics, for social interaction. These may be in different parts of the brain. They may be re, re. They are clearly related to one another and they each have their own evolutionary history shaped by natural selection. 
+
+So, you, you, you think of the human brain now as a product of natural selection as a set of instincts or organs. And, and, and, and it's easy enough to explain, to see how this approach can explain certain appetites, like food and sex. So why do we get hungry. Well, you get hungry because it motivates us to eat, and any ancestors we had that was that weren't motivated to eat would die and wouldn't reproduce, this is why animals get hungry. Why do we eat this and not that? Well that gets a little bit more interesting. We can kind learn about the details of our appetites. Details of what we like to eat and what we like to drink by looking at evolutionary benefits that, that exist when we eat this and not that. 
+
+What turns us on? What about sex? Well, same thing. Any animal that wasn't actively involved in the project of reproduction, wouldn't reproduce. And it for the most part for the most there's a lot of competition for reproductive resources. Either getting to reproduce at all, or getting to reproduce with the best possible mate to get the best possible genes. And so, and this is not the topic of this course but it would be a great other course. So any serious inquiry into the psychology of human sexuality will be guided, at least in part, by a clear headed look at how evolution would have shaped us sexually. How it would have shaped our desires, our strategies, and our behaviors. But, you might worry, and through history a lot of people have worried, that this evolutionary approach is perfectly good when it comes to sort of so-called selfish desires. 
+
+You know eating, and having sex, and protecting yourself and so on. But morality isn't about the self primarily. Morality is about the welfare of others. And how could a evolutionary process driven by survival and reproduction lead to caring about the welfare of others? So some people say about, about animals that according to natural selection, according to evolutionary theory, we're survival machines. And it's hard to think of anything more amoral than that. Or well, okay, how about survival of the fittest? Which is, which is you know, a sort of savage, amoral, perhaps immoral doctrine. Nature red in tooth and claw. An idea here is that if you think about human nature from a, you know, a clear headed, cold-blooded biological, natural selection point of view, there's no place for morality. So to the extent that we are moral creatures, to the extent we can do right and wrong, we can think about right and wrong, that has to be separate from morality. 
+
+Maybe it was instilled within us by God. Maybe, it was a cultural invention that we came up with with our powerful intelligence, but it cannot be natural. Now, I don't think these worries are entirely mistaken. I think certain claims about our moral nature, certain idealistic views about what morality could be. As part of us, are really precluded by the facts of biological evolution. So, imagine genes that gave rise to an indiscriminate altruist. 
+
+So I'll describe my terms. I'll define my terms. Altruism is the act of giving to somebody at a cost to yourself. An indiscriminate altruist is someone who gives to everybody. Doesn't care, just gives to anybody. How would this indiscriminate altruist do? Well, if there's a community of indiscriminate altruists, we all just give indiscriminately to everybody else, we could do pretty well actually. There's all sorts of things in life where you could use somebody's help watching over a child. Moving something that's heavy, collecting food. And if everybody helps everybody else, it's really to the sort of mutual benefit of the whole society. 
+
+But here's the problem. Imagine such a society of indiscriminate altruists and now imagine a mutant. Imagine another creature pops in who receives but never gives. So, takes any food anybody gives to it you want to watch your kids that's fine, but itself is not implying to, to do anything to help other people. To help other members of its species. It's not hard to see that this mutant would have a huge advantage. Suppose every time, suppose take a, take a concrete example warning cries. So some animals give warning cries when a predator approaches, so a predator's in the distance, I see it and I scream warning, warning. I don't scream warning warning, I scream some sort, I can't, I can't imitate a warning cry that any animal would do. A human warning cry. Hey, warning. Suppose I'm an indiscriminate altruist. So I just do this no matter what, whoever is around me. Now, imagine this mutant. And everybody benefits from me. Even though when I shout out the warning cry, it raises my own risk because it calls my attention to the predator. So, the benefit to everybody is great, but there's some risks, risks to myself. And, if everybody was like me, the trade off would work out well. But now again, a mutant comes in, who gets all the benefit. He listens to warning cries and runs away. But, when he sees a predator, he just runs away. Doesn't do a warning cry at all. He would do better. He would live longer. He would reproduce more. Which means is nice guys finish last. Pure kindness of an indiscriminate sort can't evolve. 
+Okay but now we get a little bit more subtle. What about genes that give rise to a discriminate altruist? A discriminate altruist is somebody who, who acts in a way to help others, and takes cost to help others. But is discriminating, helps some but not everybody. 
+
+Well we actually know that discriminate altruists. exist. We know animals are discriminate altruists. Take the simplest case of caring for your children. So animals, mammals, for instance, take care of their offspring. Sometimes female mammals will feed their offspring from their own bodies. Mammals will watch over them, will take care of them, will, will, provide them with food once they're born, before they're born and so on. And this is, they don't do this to everybody. They do this to, to their offspring. So you know, one example is as everyone uses cute animals but one example is vampire bats. So vampire bats, when a vampire bat will fly out of its cave, find a horse or something, bite the horse get in a lot of blood. More blood then itself needs. Fly back to the cave and then regurgitate this blood into the mouths of its baby vampire bats. And, and you could see this sort of altruism being beneficial and, and it's a kindness, but it's not the sort of pure, indiscriminate kindness. 
+
+One way to think about this, the term people use to describe the phenomenon that I've been introducing is kin selection. And the idea is this, you have a specific gene for something, what's going to make that gene a winner? What's going to make the gene such that it's going to spread through a population. And before you know it everyone's going to have the gene. Well one answer is, it might increase the chance that the bearer of that gene will survive and reproduce. If there is a gene that makes me resistant to a disease like malaria, and my next door neighbor does not have that gene I will do better. I will reproduce more. My neighbor will reproduce less. And over the fullness of time everybody will have this gene because this gene just leads to an advantage. 
+
+But a gene could also spread if it increases the chance that other individuals who possess that gene, genetic relatives, will survive and reproduce. So. Imagine gene A makes animals care for its siblings and gene B makes animals only care for itself. Since if you only care for your siblings, your gene A your siblings also have some chance of having gene A in them. And so by active sort of caring for your kin, genes get to replicate themselves. And so the, the logic of this was, was presented in a somewhat comical way by the biologist Haldane. Haldane was asked presumably, it's one of these stories that, that sounds apocryphal but may well have been true. He was asked in a bar, just casual conversation, would you lay down your life for your brother? Made a few quick calculations and responded, no, but I would gladly give my life for three brothers or five nephews or nine first cousins. 
+
+Now what he was doing in a whimsical way, we never do this consciously, was making reference to to the degree of genetic relatedness. So as you can see in this chart over here different relatives are related to you to different degrees. And related to you in this sense means what are the odds that for any gene you possess that they also possess that gene. So with me and my identical twin. If I were to have an identical twin, it'd go up to about 100%. For me and my sibling, about 50%, and so on. So we could unpack Haldane's answer. Would you lay down your life for your brother who has 50% of your genes? No. But, I would give my life for three brothers, because that's 150%. Or five nephews, 125%, or nine first cousins, 112.5%. Nobody actually, again, nobody does these calculations in their heads but the idea is that the logic here, the fact that these strategies. Lead the strategies of, of a certain form of discriminate altruism towards close genetically related kin, lead to greater success of genes has shaped our psychologies and it's this psy, these shape psychologies that leads to, sort of, moral sentiments. Towards people close to us. 
+
+This is if you defended, at great length again by Richard Dawkins in his wonderful book, The Selfish Gene. And The Selfish Gene is one of these books that people always misunderstand. And, and the people who misunderstand are often the people who simply look at the cover. And, and, and, and, and misread things. So often, they say, oh, Dawkins is saying people are selfish. But actually, Dawkins is actually saying exactly the opposite. He's saying genes are selfish, in the metaphorical sense, he's very clear it's a metaphor, that all they want to do, metaphor again, is make copies of themselves, replicate themselves, spread through the population. But, because genes are selfish people aren't selfish. That is to the extent that evolution operates at the level of the genes there's no hard and fast distinction between oneself and another. Before you think of things in terms of genes you might think you're one individual with its own interests. And everybody else is their own individual with their own interests. But from the genetic point of view, there's no sharp line. Your interests are, are the same, genetically, as two of your brothers'interests. Genes cross-cut things in different ways, and a genetic perspective on human nature, interestingly enough can provide our first understanding of where morality can come from.
+
+## 3 - 4 - 3.4 - Reciprocal Altruism - 18_56
+
+But, what about kindness to non-relatives? So... Humans at least, and probably other creatures. Are not only altruistic to those, who we're related to. We're also altruistic to those we aren't related to, those we hang out with. People we, we're in constant interaction with. arguably, this may be somewhat controversial. But vampire bats might do the same. So, the may not only regurgitate blood into the mouths of their offspring. But, also, in, in the mouths of other vampire bats who live in their cave. And then, they may get involved in a sort of reciprocal relationship. And this is, the, the explanation for where this kindness. To to others, others, who you aren't related to. Is sometimes described as reciprocal altruism. And this is a theory developed in it's most. by, by many scholars and including, Robert Trevors. 
+
+An idea is, if you scratch my back, I'll scratch yours. The idea is that we could all benefit, if we help one another. If we if for instance I would benefit if you watch my kids, when I go. In return, I'll watch your kids, when you're off. And, you could see, how in any society, any community, any group. Everybody is better off, if you form these cycles of mutual benefit. Now, there's, of course, a problem with this. And, it's a problem we saw in the last lecture. When we talked about indiscriminate altruists. Which is that, if we are just kind. Without recip, without expecting any reciprocation, without expecting anything back. This it will never work, because cheaters could emerge, free riders. People who will accept your help, but not help you. And, if the free riders have an advantage. Then, the genes that give rise to kindness, would get wiped out of the population. They'd be mal adaptive. They'd be beaten out, by individuals, who accept kindness but don't give it. 
+
+So, the project that needs to be explained then. Is how can, sense we know we get into these reciprocally altruistic relationships. We know we get along with people, we, we, we're kind to those around us. How could this evolve? How could this evolve, under the concern, that people could cheat and free ride? 
+
+Now, one way to think about this. Is through a classic game, a classic problem. It's known as the prisoner's dilemma. The prisoner's dilemma has been studied, a million times. By economists, by philosophers, by biologists, certainly, by psychologists. 
+
+Now, this might seem like a crazy and bizarre and arbitrary sort of example, with, with, all fixed up and everything. But, it turns out that prisoner's dilemma show up, all over daily life. All over interactions with other people. I'll give you a few examples, just to illustrate this. Divorce thing, hiring a lawyer = more expense. Countries investing in war over education. Buying drugs you can bring a gun to a meetup regardless if you're the dealer or the buyer.
+
+By the logic of the prisoners' dilemma. So, this seems terrible. It seems like a situation, which shows up over and over again, in the real world. Where brute logic, sort of, forces you to a conclusion that is less than optimal, for everybody. 
+
+What if individuals could play each other, over, and over, and over again? How would that change things? So, what if it's not life and death, but you gain something and lose something. But, you can play people over and over again? How would that change things? Well, it turns out that, one way to explore this was, was developed the 1980s. It was a famous competition. And, the idea would be, people would create computer programs. That play prisoner dilemma games. And, the prisoner dilemma games, would play against each other. I'm sorry, the programs would play against each other. And, the question is, who would be the winner. What strategy would lead to the most benefit, if you have to play prisoner dilemma games over, and over, and over, again, with other individuals? And, 63 programs competed. 
+
+And, the winner, was one developed by the scientist, Anatol Rapoport. And, it's called Tit-for-Tat. And, what was amazing about this is. Many of the programs were very complicated. Random strategies, all sorts of weird complexities. That the program that Rapoport presented was extremely simple. It, basically, had, just two rules. The first time you meet a new program, cooperate. After that, do on each trial, what a program did, on a previous trial. So, think about it, that a bit and see why this is smart. 
+
+The world's worst prisoners' dilemma program. Would always cooperate. because, then, people would just defect, and there would always be a sucker. This is not a sucker. But, it's forgiving. So, we're defecting. You know, you defect on me, I defect on you. Defect, defect defect. Then, you decide to be nice and you say, okay, I want to cooperate this time. Then, the next game, I'll be nice right back. And, it's transparent, what I'm doing is not rocket science. You can see what I'm doing. And, if you're a smart program or a smart person, you could figure out how to work together for mutual gain. 
+
+Now, a lot has happened since the 1980s. And, there are more clever and more complicated programs for. Playing the Prisoner's Dilemma and interacting. But, the insights of this sort of tit for tat logic seem to capture, in a rough sense, human psychology. And, the human psychology of how we interact with one another. So, we can think about now, some of the emotions. Including, the moral emotions. And, how their emotions might guide us to do an interaction. 
+
+Not unlike Tit for Tat, which could turn out for mutual gain. We feel gratitude and liking, for those who cooperate with us. Indeed, this feelings makes us want to cooperate with them. That's an, in a, in a, in an extremely simple way. A lot of what friendship is about. You're nice to me, I feel I want to be nice to you, and we get along. We have this mutual trading back and forth. We feel anger and distrust towards those who betray us. Which, motivates us to betray them, or avoid them in the future. You defect, you screw me, you, you put me in a bad position? The next time we play, I'm going to do that you. Or, in some other games, where, where, I would have the option, I won't play with you anymore. And, we feel guilt, when we betray somebody, who we cooperate with. And, that motivates us to behave better in the future. 
+
+So, this gets us a bit far from Tit for Tat. But, if I defected on you, and you were nice to me, I'd feel really bad. And, I would try to make amends in the future. And, and Trivers has argued, that the logic of the solution to the prisoner's dilemma game. The logic to how people can interact over multiple times and lead to mutual benefit, has led to the structuring of our moral emotions. That is, we are naturally inclined in our sentiments to act towards others, as if we are going to play repeated game of social interactions. And, our moral emotions are tailored. So as, so that... To guide us to behave in such a way. That these actions, will be mutually beneficial. But, also to have an eye out, so that we. We can be discriminate altruists. We are nice to those, who are nice to us. We are not nice to those, who are not nice to us. 
+
+In the last two lectures, we've talked a bit about evolution. And, we've talked about the, sort of, mainstream evolutionary theories. As to have some moral sentiments. Could, possibly, be wired into us. We talked about kin selection. And then, we talked about reciprocal altruism. But, at this point, we haven't actually argued it's true. We haven't given any evidence that people actually do have these sentiments wired into them. As opposed to having them emerge, through the course of development. And, we don't have any evidence from other sources, like looking at other creatures. So, the next two lectures are going to fill this gap. 
+
+The next lecture, which is a long one. And, a very, very good one. Is by my colleague and my friend Professor Laurie Santos. It is a classroom lecture, she presented, when I gave this morality course as as a class. At Yale. And so, you'll see her on the podium, giving her lecture. And, I you know. And, and the video was going to include my introduction to her, I wont repeat in here. But, what it is, is it will give you a feeling, for what we know. The strengths and limitations of morality in non human primates. Then, after this, my next lecture is going to to be a very different domain. It's going to ask to what extent are these moral sentiments and moral capacities present in human infants. And, this is a topic, which, I think, is also quite interesting.
+
+## 3 - 5 - 3.5 - Guest Lecture, Laurie Santos - 1_10_14
+
+I thought I'd start with a little bit of a historical perspective today. So imagine if you will with me, you are a resident of New Haven, but not a member of the modern day. Somebody who lived back, back in the days, so back about 350 years ago in a New Haven colony, back in the 1600s. Now, you'd find New Haven looking a lot like you expected to look today back when there were still the nine squares. There was still the New Haven Green that you could go visit and so on. But, you might find a few things that, from our modern perspective, seem a little bit out of place. So, imagine that on this fateful day, you happen to be walking along the Greens with friends of yours, maybe off to grab lunch and so on. You might have been surprised to see what was happening on the New Haven Green that day because the New Haven colony was actually taking part in a public execution of a few criminals who were actually on trial that day. 
+
+So, you know, not just people playing frisbee, there are actuallygallows out there, people being put to death. And on this particular fateful day it was especially exciting because it just wasn't one bad individual who was being put to death, they were actually putting to death nine diabolical conspirators who the report said had committed a wretched crime against God and man. So this sounds really bad. What did these folks do? 
+
+Well, you get a bit of a sense of what these folks did by looking at the individuals who were accused. So if you look to the records of what happened this day you see this list involved. This one guy who's enlabeled here as Mister. Potter. We're told that he's 50 years of age. Less information, though, about the other eight conspirators who were involved. They're just listed as a cow, two heifers, three sheep, and two sows. You might be thinking, what on earth crime did the set of nine conspirators commit, and then you look to the crime that's listed and you say oh, yep, makes a little bit of sense. But these are individuals who put on crime for the damnable crime of bestiality. Now, if you're like me with my modern eyes, you might be looking at this sort of crime and all the conspirators who are put to death. And you might look at the list and think you know, I bet of the nine conspirators there's sort of one mastermind of the whole bestiality thing. 
+
+Another set of individuals that went along for the ride, but you would in fact be wrong according to the records, because if you look at the records, they're very detailed about the lives of these individuals that were involved. And of Mr. Potter, they say the following things: he was a good dude, he was devout in worship, gifted in prayer, he was zealous in reforming the sins of other people, apparently not of other animals, but he was, you know, a totally honorable guy. It was the other eight conspirators who folks thought, that were an issue here. They, it is said, were of, they were unclean devils, and they were in fact diabolically possessed. So diabolically possessed it's thought that they used their, their demonic possession to sort of convince, and seduce and tempt this otherwise innocent guy who had to be put to the gallows because he went along with this damnable crime. 
+
+And so, this strikes our modern eyes as very, very funny. But it shouldn't, in part because you think this is some sort of rare event that I pulled out of the terrible annals of weird New Haven history. In fact, fact of the matter is, back in the 1600s, pre-Enlightenment, there were lots of odd cases of animals being put on trial. Put to death and so on. So this wasn't an unusual thing back 300 years ago. But it strikes us as really unusual. And so today, we want to contemplate why. What changed that made this feel really weird? 
+
+Well, I want to submit that it's, it's not the reason you might suspect. It's not because animals have all of a sudden become much more angelic, and less tempting, right? You know, they're, if you have a dog or cat at home, you know they're just as diabolical, perhaps, as, you know, animals 300 years ago. I also want to submit that it's not the other reason that you might think. Which is that we've become a little bit less barbaric in our ways of capital punishment. Because, as many of you know, in fact, at least in this country, this is not something that we've become less barbaric about. In fact, one of the current moralities of everyday life that I think folks struggle with is what to do with this and whether this is morally appropriate. And just as a sort of editor's note aside, if you're an undergraduate who cares about these issues, you might want to talk to the Yale democrats who are petitioning Connecticut to get rid of their death penalty which is still on the books. 
+
+But, that's just my my little aside. Getting back to the real matter at hand, what was it that changed that makes capital punishment of animals on the New Haven Green seem weird? Well, what I want to submit is that one of the things at least that's changed is that we seem to have a slightly different post enlightenment view of the moral status of animals. And, I want to submit that the view that we have is, in some ways, a little bit worse then what we had before.
+
+Because, the view that we have now is incredibly conflicted. At times we seem quite confused about what we think the moral status of animals really actually is. And when I speak about the moral status of animals, I'm actually not talking about one status that you might be thinking of, which is animals in the status of moral patients. Organisms to whom we might want to decide whether to give moral concerns. This is of course, a controversial and very conflicted issue for us, we can debate about whether it's okay and permissible to use animals as food, as experimental subjects, and so on, but that's not the confusing issue I'm going to deal with. 
+
+The confusing issue I am going to try to deal with is our perception of animals as moral agents, individuals not necessarily who can be punished or so on, but individuals like us who might have moral concerns. In particular who might have psychological maybe neuromechanisms to actually deal with questions of whether something is appropriate or good or permissible or punishable. And these are the kinds of concerns I'm going to ask about today, and the view that I'm going to develop is that we seem to today have a somewhat conflicted view about what we think animal's moral concerns are, if they have any. 
+
+And I'll start with this confusion by sort of turning to Charles Darwin, who was one of the first to sort of think about this issue, this idea of whether animals have moral concerns, and what they might look like, because he and his first writings on this sort of bears the hallmarks of some of these contradictions. 
+
+So he starts his treatise on this in The Decent of Man, by knowing that you have all the differences between man and the lower animals. The moral sense is by far the most important. I mean, Darwin was quick to submit that we are the only species who are doing, the kinds of things we're all doing right now. Right? Sitting in a school of law, that's trying to figure out, what the different moral concerns of society should be. Right? Hanging out in a classroom where we're talking about ethics and moral considerations. We are alone in the animal kingdom in doing these kinds of things. 
+
+And Darwin, of course, recognized that. But as Darwin would go on to say, it seems like if you look carefully, you might expect, you know, any old animal that had these well-marked social instincts, if you're a social creature, you might inevitably acquire something like a moral sense, or a conscience. 
+
+And here's the rub. We seem to think, of course, we're very different from other animals. But based on the fact that natural selection works in the same way in us as it does in other species, you might expect other species with social concerns to develop relatively similar moral senses. And the question, I think, gets even worse when you start looking at the natural behavior of animals, because what we see when we look to other animals are all these examples where it looks like the animals are paying attention to things that seem like moral concerns, where they're worried about other individuals getting harmed, helping other individuals, perhaps enforcing social norms. 
+
+It really raises this question of do other animals have moral concerns, are they a lot like our own and in particular for purposes of this class, what can we actually learn about the human moral sense from terming to the moral senses of other animals? And those are the kind of things I want to sort of submit to you today, and I'm going to try to do this in two different parts. Q
+
+First, I'm going to ask the question of whether or not non human animals share some of the kinds of moral concerns that you might think, are pretty hallmarks of our, our own species, and I'm going to focus specifically on some of the moral concerns you guys talked about a few weeks ago. These are ones that people like Jonathan Haidt and others have submitted that there might be some universal aspects of the human moral sphere. 
+
+And I'm going to focus on a couple different domains. Suffering and harm, domains of hierarchy and authority, and also this question of reciprocity and fairness. And what we're going to see is in all of these cases, we're going to see hallmarks of human-like moral concerns in non-human animals and also some important differences. And so that's going to be the bulk of the talk today but then I thought I would end with a sort of special section or a part two, where we really zoom in on the evolutionary tree and try to take a pick, a peek specifically at our closest living relatives and try to see what, what their moral lives actually say about our own moralities. And one of the things that we're going to see is that when we take that peek and sort of zoom in on our branch of closest related primates, we see some hints that the kinds of immoral actions humans are capable of, seem to be different than the rest of the animal kingdom, but similar to some of the immoral acts of other closely related species. And for that we'll turn to this issue of chimpanzee violence, and sort of what our own chimp legacy says about ourselves. 
+
+And finally if we have time we'll have some big sweeping conclusions, I'm sure we'll solve all the problems of human morality from this approach, you know, and so on. But, First, before jumping to that we're going to sort of start with these universal moral constraints.And I thought I'd start here with this idea of whether a non-human animals share concerns about issues related to the suffering and harm. And the reason for this is I think here's a spot where you might think that nature wouldn't build creatures that care about morality in the same way that we do, right? We have these lay notions of nature that in fact, nature's not at all concerned with suffering and harm. In fact, it kind of promotes it. Nature is sort of read in tooth and claw. We expect to kind of look out at the animal kingdom and see, you know, individuals going for the jugular, you know, sort of Chuck Norris-style, all over different taxa that we look at. But the fact of the matter is is that when you really look at the natural behavior of animals, you find strikingly little of this. Of course, you know, animals do eat each other, and they do eat other animals for food and so on, but so do we. If you actually look at how individuals interact within their own species with other con specifics, you find remarkably little aggression and violence. Or in cases where you do see it, it's rather checked. So it, turning to the kinds of species I wanted to talk about today consider the examples where you might expect to see the most kind of jugular, Chuck Norris style stuff. These are critters out there that have, have weapons that are built, seemingly specifically for the purpose of doing these kinds of aggressive acts. I've just picked, you know, out of a set of animals I could have chosen, these bull elk here, these guys, as you can see, have incredibly impressive weapons that natural selection devotes lots of effort to making sharp and scary and big. But if you look at how often bull elk actually, you know, literally rip each other to shreds with these weapons, what you find is that it's actually not very much. Instead if you look at their natural behavior you see a number of different behaviors that are aimed at showing restraint when using these kinds of weapons. So this, incident that you are seeing here is actually an escalation of about, a couple of different steps. Normally bull elk wouldn't even ever face each other with their weapons so poised to actually hurt each other. First, they do very sensitive things like assess each others' size by walking in parallel with each other. Then, they actually assess each others'strength through the use of vocalizations. Only if that doesn't work, do they escalate to actually measuring sort of antlers versus antlers who's of the right size. And it's only in very rare cases that those sort of attempt don't work, that they actually get to fighting. But even then you don't see them using these impressive weapons in the way that you might expect, through lethal levels of aggression. When natural selection builds in weapons, it often also builds in restraint in which to deal with them. This raises the question about, you know, is this just a funny feature of animal weaponry, or is it the case that animals really are trying to prevent unnecessary harm, perhaps even trying to help each other. And that's where we're going to go with this sort of question about suffering and harm. We're going to explore whether non-human animals actually care about the suffering of others. Do they feel pain when others feel pain? Do they actually feel a motivation to help others? And you've seen some of the stuff in the domain of sort of feeling the pain of others in the readings that you've done this week. Frans De Waal I think does a really good job of articulating these anecdotal cases in which you see animals doing things to each other that suggests they don't like it when a con-specific is feeling pain. So this is a case of, in chimpanzees, when you see individuals like this little guy here actually reaching out and trying to caress individuals who were involved in a fight. You see all kinds of post conflict behavior like this suggesting, at least anecdotally, animals don't like to see others in pain and will act to sort of remedy that. But is there any experimental evidence of something like this? Can you actually see this if you put animals into an experimental situation that will do things to help others. Well there's not much recent work on this topic, but there actually was a lot of early work on this back in the 1960's, I think when the ethics of doing studies with animals were a little bit different. But Rice and Gainer did a first study on this, actually looking at whether rats would be willing to help other rats. And the way they did this was to first train a novel rat on this sort of, weird contraption. The rat learns that every time he presses this he's actually able to lower this sort of rig up there, this sort of rope with a block hanging onto it. And the rat learned that actually at different times the lever would be differentially hard to do. So sometimes it was hard to do it. Sometimes it was easy. All this was, this was the prelude to the experiment in question, which was to ask if the rat would be more motivated to push the lever if it wasn't a block. But a very helpless little rat, sort of, you know, squeak, squeak, help, you know. But this is a question, this, you know, rat may or may not know this other rat in question. Is it motivated to work extra hard to actually help this other rat out? And what Rice and Gainer found was that, in fact, rats would do this. They worked much harder than when it was not a, another rat that was sort of harnessed up by this rig. And they actually seemed to need an actual other rat who was there squealing in pain. If you give them a situation which they can press a lever just to shut off an auditory version of a bunch of rat screams. Just the auditory information they were getting. What you find is that rat's won't normal do that. But seeing an actual other rat in distress caused them to take action. Question is what is the rat representing? How are they doing this? You don't know the answer to these kinds of questions. But you do see the same kinds of helping behavior to relieve stress in a bunch of other species. Masserman and colleagues did this with a famous set of experiments with rhesus monkeys, something very similar. They actually allowed rhesus monkeys to earn the food that they would get during the day by pulling a lever like this one. So a rhesus monkey learns every time he pulls this chain he gets food. But then again on the fateful day of the study the monkey comes in and realizes hey there's a conspecific there. I wonder what happens when I pull the lever. Turns out when he pulled the lever he also got food just as before, but this time every time he pulled the lever he would also shock the other monkey with a series of pretty awful electric shocks. A sort of Peter Gabriel, you know, sort of Shock the Monkey, you know, back in the 1960s. You guys don't know 80s music. It's okay. But anyway, the question is, what does this poor monkey do? He's getting his food from the act of pulling this lever. That's how he get's his food. Will he refrain, knowing that it's actually hurting a con-specific? And the answer trialed out to be, yes. What you find is that most of the monkeys that Masserman tested actually would refrain from pulling the chain that shocked another individual. And in some cases these researchers found that monkeys would forgo getting food for up to about 12 days, which is the point where they stopped the study. Just so long as they could avoid hurting another monkey in the study. And the problem with this work is that because it was done back in the day, I think we have little understanding of what was really going on in these monkey's minds. You know, what were they trying to achieve? Did they just not like the stimulus? Did they really empathetically feel for this other money who was being shocked? . But I think that it is important to point out how impressive this behavior is when you compare it with the kind of thing that humans would do in similar studies because as many of you who have taken Intro Pysch know, this exactly the kind of experiment that Milgrim and is colleagues did with human participants. And if there is a scary authority figure there, human participants are happy to shock another con-specific, sometimes to the point of giving pretend fatal shocks. So, especially impressive when you look at what other humans are doing. Now how about the question whether other animals are motivated to help other individuals. And here you've already seen that there are ways that we can ask non-verbal creatures whether they're willing to do this. The work of Felix Warneken that I think you've seen before has shown that very young human children are willing to do this. It turns out non human animals, particularly chimpanzees, are also willing to do this. [SOUND] Warneken also did a study where a human was trying to do something, namely scrub this block for some reason, and lost her sponge. And what you see is that chimpanzees are actually quite willing to help the human there. This is helping humans, how about helping other chimpanzees? Well, Warneken also did a set of studies where chimps could help other chimps. This is the chimp who's in need. He's actually trying to get into this side of the room because there's some food that he wants but the door is locked. And what Warneken found was that this other chimpanzee on this side will actually work to open the lock so that the second chimpanzee can get in and get the food. Incidentally, the chimpanzee who's helping isn't getting any food here, he seems to be just doing this out of a motivation to help others. So we seem like this helping behavior seems to be shared as well. How about cases of real sorts of helping, not just helping somebody achieve a goal but really giving other individuals sustenance as we do in the case of donating food. Well, this has been a long line of studies in primates with a little bit of mixed results, but there's some species that seem to show evidence of actually wanting to share and donate food to other individuals. And I'll tell you about one of the studies in this regard by Frans De Waal and colleagues in part because it involves as a co-author one of your TS for the class, my grad student Kristie Leimgruber back in her life, back with Frans. But what Christie's project tried to do is to ask, if you give capuchin monkeys the choice to something pro-social or to do something selfish, which do they do. And they gave capuchins the options to pick one of two tokens to trade with a human experimenter. One of the tokens was a selfish token. The capuchins learned that it meant that they were going to get food, and nobody else was going to get food. The second token though was a pro-social token. And what the capuchins learned was that every time they picked this, they actually get a piece of food themselves, but the same piece of food they got, was given to another individual. So it's certainly no skin off their back to go either way. They get food just the same. Are they willing to help another individual out? And when they're given the choice and another individual's standing in there with them, will they actually pick the pro-social token to hand back to the experimenter or will they go for the selfish one? This is just sort of science report showing cute capuchins chewing on tokens and stuff. But, here are the real data, right. What I'm plotting here is how often the capuchin picks the pro-social option so bigger bars equals more pro-social behavior. And what you find is that strikingly across a bunch of conditions when they're faced with their group mates and their kin, capuchins are actually incredibly pro-social, willing to give food to another individual, at least in cases where it's kind of no skin off their back. There were two conditions though in which the capuchins chose not to be pro-social. And I think those are interesting for what they say about the limitations of the moral sense in other animal. One of them is that capuchin monkeys did not act pro-socially when the other recipient was an individual that they didn't know. Somebody from a different group or a different enclosure. In that case what the capuchins did was just sort of choose at chance. They didn't necessarily give the good one. They didn't give the bad one. They just kind of didn't care. So it seems like the donation circle for the capuchins is relatively limited. Perhaps more-so than us, where we often times give food to strangers, perhaps more so than our own family in some cases. But there's a second case that I think is even more striking, which is the case of when the other individual is actually anonymous. In other words, you are playing in this game, but the other individual with whom you're playing can't actually see you, and they don't actually know which choice you're making. Here it's not that the capuchin monkeys were indifferent, they were actually statistically antisocial, so you notice that that bar is actually lower than you would expect by chance. This is capuchin monkeys strategically being a jerk as soon as they're in a position where other individuals don't know what they're doing. I think this suggests perhaps a striking limitation of what you see, at least in human kinds of economic games like you talked about last week, where people tend to be relatively pro-social in dictator games, at least to the extent they think they're anonymous, and we could quibble about whether folks think think that. But the upshot is that when we look at this domain of suffering and harm we see some similarities and some important differences between the human moral sense and that of other animals. In the domain of feeling others' pains, we do see that animals are sometimes motivated to reduce others' pain. You know, again, much more, much shocking from the perspective of thinking about animals as, sort of, being read in tooth and claw and so on, they seem to care about others' pain. But we don't yet know empirically whether they're really feeling others' pain in the way, introspectively, it feels like I might feel others' pain if I watched someone suffering and being harmed in this way. In the domain of kind of being motivated to help, we see lots of examples, at least within the order of primates, that non-human primates are motivated to help others, willing to do, to go out of their way to help another individual achieve the goal. But it also seems like there are important limitations on who they're going to do it for, not for strangers. And when they're going to do it, perhaps not in situations in which they're anonymous and they might not be able to get some positive feedback for it. So that's the domain of suffering and harm, and now I'll turn to the domain of hierarchy and authority. And here is a spot where our lay-intuitions might suggest that we're actually going to see some similarities. Because, as most of you know, human society is very hierarchical and we have status and so on. But the same is true for a number of different animals species. You can look out at, across a bunch of different tacks and see the sort of setup of the same kind of thing you see in human corporations and societies. You know, there's the guy on top, who's proverbially, you know, doing not as nice things to the guys on the bottom. Can poop on the guys on the bottom. That's the, that's the joke. But the act of studying these kinds of things in animals is not actually very new. Because it turns out that a lot of the organizational behavior work that studies how hierarchies work in humans and how hierarchies organizes themselves actually started through studies on animal behavior. And, in fact, they started with a set of Norwegian scientists who had worked out how things like pecking orders work in chickens. Those principles and dynamics worked out for chickens were then directly applied to cases of human hierarchies. So here's a spot where we might tend to see some really close similarities. Problem is that we still don't know, even though animals have these hierarchies. Do they moralize them in the same way that some cultures moralize human hierarchies and human status? Do they think it's a moral violation to not respect a high-ranking member of their group? And, and these are the things that are tricky to actually get at. The kinds of questions about whether animals care about status and dominance is a surreal moralizing sense. And whether they respect authority in these sort of moral terms. I think here's a spot where we don't have great answers in the domain of non- human animals. Nobody's done the right experiments to kind of get at this. But I'll tell you some of the stuff we do know. And what we do know suggests, again some important similarities that we might not have expected between humans and other animals. One of the things we do know is that there's lots of evidence that animals seem to care about status. But my favorite experiment on this is asking the question whether animals really pay to get information about other individuals who are of higher status. Now, we in our species do this all the time. You know, how often I've been at the airport and bought a stupid magazine so I can learn about the goings on of Will and Kate, you know, I don't like to admit in public company. But the fact of the matter is we care about high status individuals, we want information about them and we're willing to pay for it. And so Deaner and colleagues asked the same question. They asked are rhesus monkeys willing to pay for information about high status individuals? And here was the task they set up, so they gave rhesus monkeys the option to choose one of two different targets that would give them juice. So the rhesus monkeys started by kind of fixating here and then they get this choice between target one and target two. And rhesus monkeys get to learn that when they choose target one what would happen is that, after they make the choice they get some amount of juice as a reward. All well and good. Question is what happens when they pick target number two? And what they learn over time is that picking target number two gives them some other amount of juice that can vary over time. But they also get to see an image of another monkey. And the researchers varied whether the image was of a high ranking individual, someone of status, a kind of Will and Kate of the monkey world or someone of low status. Someone that they, they couldn't care about because they were under them in the hierarchy. And what they were able to measure, because they were changing amounts of juices, are there pictures that the monkeys will pay in juice to see. In other words, they'll choose less juice plus the picture over more juice. And there, there are other individuals that the monkeys would have to be paid to see? In other words, they would only choose the option with the picture if they got extra juice to see those individuals. So, that was sort of the set up and here are the data. It's a little bit complicated but what Deaner and colleagues are plotting here is this normalized amount of juice. So bars that go down from the zero, means the monkey has to be paid in juice to see those pictures, so there's negative juice. And the bars that go up are actually the ones that the monkeys were willing to pay in juice to see. In other words, they take less juice to see those pictures. And what you can already see is a trend where monkeys seem to care a lot about status, so all these green bars on the left here are cases where the monkeys had the option to see low ranking faces. And what you can see is that the monkeys had to be paid in juice to see some of these faces. And, some cases a real large amount of juice they had to take just to look at this face. In contrast, in the cases of some of the high status faces, the monkeys were actually willing to pay a lot in juice to actually look at this. They're to willing to take a cost just to see information. And just to put this cost in perspective, I didn't tell you about one other image that these researchers gave the monkeys. These are images of monkey perinea, which is a nice way of saying monkey pornography. These are images of monkey reproductive areas. And what you can see is, yes of course, those are the ones the monkeys are willing to pay a lot in juice for. [LAUGH] you know, they're no Different than some humans. But look, if you look at high status individuals, they're not all that different from this incredibly reproductively relevant stimulus for these monkeys. So it seems like, seeing high ranking faces is very, very important to them. They put a lot of effort into doing this. The other thing that we know is that monkeys actually also put a lot of effort into respecting the kinds of hierarchies they find themselves in. The monkeys that you see in the hot spring are just a small group of the monkeys in any group that's come upon the hot springs. Because the hot springs are kind of an exclusive club, only the high ranking individuals get to go in. And this means that the low ranking individuals have to stand out on the side in the cold, often in
+
+
+the snow, Waiting there, while the kind of
+relaxing, sort
+of, royalty of the monkey world gets to go
+in them.
+And the question is, why don't the low
+ranking
+individuals just kind of fight this or
+jump in?
+We don't know exactly the answer to that
+question, but what we see
+is tremendous respect for the hierarchy,
+even in cases where it could mean
+a low ranking individual could freeze in
+this sort of situation, or not
+get the kind of comforts to which it feels
+it should be accustomed.
+But it's hard to actually measure what
+this really means for the monkeys.
+How much do they think they need to toe
+the line when they're
+dealing with high ranking individuals who
+tell
+them what they should and shouldn't do.
+And Horner and colleagues tried to get at
+this in a
+slightly different way.
+What they were trying to do is to ask
+whether
+in this case chimpanzees, would be willing
+to actually toe
+the line when they saw information about
+how one is
+supposed to get food, in a sort of, simple
+tool task.
+And so I'll show you what this looks like.
+This work was actually conducted out at
+the
+Yurkey's Field Center, which looks
+something like this.
+So chimpanzees live all in this big group
+over here.
+And the way they were able to teach them
+about this new tool was to sort of,
+set up this sort of funny tool set up on
+the side of the cage over here.
+And chimpanzees in this tool setup were
+allowed to put
+different tokens into one of these objects
+to get out food.
+Now all of the, the objects that you could
+put tokens into would actually work.
+But the chimpanzees were given a choice of
+which one they wanted to use.
+And they varied, of course, the kind of
+object that you set up.
+Sort of the different look of the
+different objects.
+All of them are going to work just as well
+to get food out of.
+Question is, who did you see using each of
+the two objects before you came?
+And they varied the particular individuals
+that
+the, the chimpanzees got to have access
+to.
+One of the individuals was the highest
+ranking female, the alpha female of the
+group.
+She was using the weird object on the
+left, the black one.
+The other individual was a low ranking
+member of the group.
+She was actually using the object on the
+right.
+Question is, the subject knows both of
+them work.
+He gets to see these individuals
+use the objects, and the question is,
+which of
+the object is the subject himself choose
+to act on?
+They both give food, but what you find
+is that the chimpanzees don't treat them
+that way.
+What the chimpanzees do is about 90% of
+the time, they're imitating the other
+high-ranking individual.
+Suggesting they either feel that that
+one's more valuable,
+they're trying to be like the high-ranking
+members, maybe they
+think they're supposed to do it this way,
+maybe
+they think it's sort of the moral thing to
+do.
+We don't know
+exactly the reasons why, but what we do
+see is that in their behavior,
+the chimpanzees are paying a lot of
+attention to what the other individuals
+do.
+And they're conforming to what they see
+the high status individuals doing.
+In much, at least the same behavioral ways
+we see humans doing in a lot of societies.
+So that's what we know about hierarchy
+norms
+in, in nonhuman animals and what we've
+seen
+is of course, lots of individuals seem to
+care about hierarchy, this sort of pecking
+orders across
+all kinds of different taxa.
+And we also see that some individual
+species,
+in this case the rhesus monkeys, care
+about status.
+They're willing to pay for information
+about it and they
+also seem to act in ways that are like it.
+What we don't yet know if nonhuman animals
+also have some of the features that we
+have in our own society where they really
+moralize this authority structure.
+Not as something
+they sort of have to do because they'll
+get punished if not, but as
+something they, they think they ought to
+do and other individuals ought to do.
+These are really open questions in this
+domain,
+but the exciting thing is that researchers
+now have
+some methods where they can start tweaking
+these
+things apart and potentially asking some
+of these questions.
+And so, I'll turn to the last domain here.
+And this domain of fairness and
+reciprocity.
+And again, like suffering and harm, this
+might be one where you think,
+okay, this is a spot where
+humans are completely different than
+nonhuman animals.
+Of course, again, we're sitting here in a
+law school in a classroom.
+No other species are doing these kinds of
+things.
+Probably no other species would be willing
+to take
+the kinds of costs over equity that we
+see.
+This is the Occupy Wall Street folks that
+are off in New York right now.
+We're inside not in the rain, these guys
+are sitting outside in the rain over
+things
+that they perceive as violations of
+justice and
+equity that are going on in Wall Street.
+And no matter what you think about this
+you might think that humans
+are doing some pretty costly things when
+it
+comes to dealing with their own equity
+norms.
+Question is, do we see these kinds of
+things in other animals, too?
+Do animals even care about reciprocity?
+Do they have these intuitions about
+fairness and how it works?
+And perhaps most importantly, do, will
+they take a
+cost like we will to punish those who
+behave unfairly?
+And so you've already seen in the course a
+little bit about the fact that non-humans
+care about equity.
+I think that Professor Bloom
+talked before about the case of vampire
+bats who seem to
+reciprocate in their, sort of, blood
+barfing to one individual or another.
+I'm showing you this image to show that
+seems
+like these guys care a little bit about
+cheating.
+This is an individual diagram, which is
+showing a vampire bat
+behavior where one bat is actually rubbing
+the tummy of another bat.
+What he's doing is to check and see if the
+tummy is distended, because, you know, you
+might lie about what you ate for dinner,
+but
+your tummy doesn't, and so if the tummy's
+big,
+then there's some expectation that this
+guy's going to vomit.
+But clearly some, something like
+reciprocity going on behaviorally.
+Also see other asp, other examples of
+things like
+tit for tat and reciprocity in the animal
+kingdom.
+This is the case of the black hamlet fish.
+This is actually black hamlet fish in
+flagrante delicto.
+So if you're don't want to be looking at
+black hamlet fish porn you might turn
+away.
+It's even more a little bit scandalous in
+that
+these guys are actually hermaphrodites.
+So one of the problems when you're a black
+hamlet fish and you want to mate
+is that you have to decide who's going to
+be the male and who's going to be the
+female.
+It's not just a problem for sort of social
+reasons, it's actually more of a
+reproductive problem, because
+it's bad to be the female in the sense
+that your reproductive effort is giving up
+an egg.
+Which is very large, it's very
+reproductively costly.
+It's much easier to be a male and just
+give up a single sperm
+for your reproductive effort.
+So what black hamlet fish do is that they
+turn-take, they do
+a little bit of a tit-for-tat about who is
+the female first,
+and then the next one will do it, and then
+as soon
+as an individual defects, you can see that
+both individuals will swim away.
+And choose not to mate with each other in
+the future.
+So we see these kinds of cases of
+reciprocity in
+animals, but can we really see examples of
+true fairness empirically.
+Not just the kind of anecdotes of
+behavior, but real cases where we ask
+animals about fairness.
+And again Franz De Waal and his colleagues
+were able to ask
+this in the species that I work with here
+at Yale, capuchin monkeys.
+They were able to capitalize on a
+phenomenon in which
+capuchins are actually somewhat willing to
+share food with each other.
+So, if one individual has this kind of,
+whoops, this
+big bowl of food there, and there's
+another individual without food,
+sometimes that individual will choose to
+kind of eat next to
+the other guy sort of dropping crumbs of
+food so that
+the other guy can take it.
+Again, rather than sort of sit all the way
+on the
+other side of the enclosure so that you're
+not near another individual.
+What Frans said is, well, maybe we can
+capitalize on this food
+sharing to ask if the monkeys really care
+about fair payment for labor.
+And they did that by setting up this
+sort of bar pulling task that was slightly
+tricky.
+Both capuchins had to work together to get
+access to food, but only one of
+the individuals, the guy on this side, was
+going to get any food in his little bowl.
+And so he set up
+two different kinds of conditions to see
+whether these capuchin
+monkeys first would share and whether they
+would share fairly.
+One of the situations was cooperative.
+So in one of these cases the two capuchin
+monkeys had to work together.
+The subject monkey who got the food got
+helped by the other guy.
+The other condition was solo.
+The other guy didn't help at all, he just
+kind of
+sat there and the first guy did all the
+work.
+The question is does the capuchin monkey
+take that
+into account when he decided how much food
+to share.
+And the answer is in fact that he does.
+These red bars are cases where the two
+capuchins worked together, and
+then what I'm plotting is the number of
+food pieces that got shared.
+What you can see is that in both cases,
+even over trials capuchin monkeys
+were wiling to share more in cases where
+the other guy helped them out.
+The sort of sense of perhaps something
+like fair payment for labor.
+De Waal and colleagues also actually
+looked
+at whether or not capuchin monkeys, an
+individual
+capuchin monkey might expect that he's
+going to get pair, paid fairly.
+And this is in a series of studies by
+Brosnan and De Waal trying
+to look at whether monkeys expect to get
+paid the same amount as another monkey.
+In this setup, they did something similar
+to Christy's experiment that I showed you
+before.
+The monkeys are actually going to be
+trading tokens for
+pieces of food but they are going to in
+different amounts.
+One of the monkeys, this monkey who's the
+stooge, who's not the subject of interest
+is actually
+going to get paid something yummy.
+He's going to get a grape or something
+delicious.
+The other monkeys going to get paid
+something
+that's worthy, something he would
+ordinarily find okay.
+But it's just kind of okay.
+It's not like super great.
+It's something like a green pepper, a
+piece of cucumber or a monkey biscuit.
+And the question is, even though we know
+ordinarily monkeys would find these kind
+of meh
+foods okay, do they react negatively to
+them
+when they know another individual is
+getting paid more?
+And what Sarah Brosnan and
+colleagues found, I'm going to sort of
+skip this slightly weird video here, but
+what they found is that capuchin monkeys
+do care about this a lot.
+In the cases where they got the lower
+award, when another
+individual got more, you saw situations in
+which monkeys actually refused
+to exchange, so they just through the
+token they were supposed
+to trade out and wouldn't trade it with
+the other experimenter.
+You also saw situations in which they
+refuse to accept the reward.
+This is an otherwise good
+piece of food that a capuchin won't like,
+but
+as you can see in this picture the monkey
+sort
+of throwing it on the floor because it's
+not
+nearly as good as what the other guy got
+before.
+It seems that monkeys care about cases
+in which they get less than another
+individual.
+But it seems that this is true not just
+of, capuchin monkeys, it
+seems to extend broader, more broadly
+across
+the taxon than we might have, thought.
+In fact, Range and colleagues actually
+looked at whether pet
+dogs were able to show the same kind of
+aversion to inequity.
+And they did it for, by paying the dogs
+not to trade But to do this,
+sort of, simple kind of handshakey gesture
+that,
+maybe many of your dogs know how to do.
+First they did the handshakey gesture with
+this border collie,
+who is the subject, she got paid a very
+low reward.
+Then the dog to the right did the
+handshakey
+gesture and she gets a very good piece of
+food.
+You can see this border collie on the left
+is looking like, wait a minute, what's
+going on?
+Question is, do we see the same kind of
+thing, a refusal to
+participate, or a refusal to eat their
+rewards, and in fact you do.
+I won't show you the data I'll just
+show you this lovely picture of a border
+collie,
+like aw, like that is like the biggest
+border
+collie dis in the history of border collie
+disses.
+But the upshot is that you see these
+kinds of behaviors where within the animal
+kingdom, you
+see an aversion to at least one kind of
+inequity, kind of inequity I'll call here
+disadvantageous inequity.
+These are cases where you yourself, the
+subject, are
+getting worse than someone else and you
+react negatively.
+But this is the limit of it.
+It turns out, if you look across the
+animal kingdom, you don't
+see cases of a different kind of inequity
+aversion that you might expect.
+And that's a case that you might call
+advantageous inequity aversion.
+This is a case where there is inequity,
+but you are benefiting.
+Somebody else is getting less than you,
+but it's not fair.
+And this is the kind of thing we do all
+the time.
+I mean, these are what
+the folks who are out at Occupy Wall
+Street are worried about.
+Many of them are people like Cornell West
+or Russell Simmons.
+you know, they're not hurting and getting
+their houses foreclosed on, but they still
+think
+something's unfair, even though they might
+potentially
+be benefiting from the folks on Wall
+Street.
+They're still willing to protest.
+And this, it turns out is something it
+turns out we don't see in other animals.
+If you look at the two cases I showed you,
+you can get hints of this right here.
+you know, check out the dog who is getting
+the bigger
+one, you know this other dog is reacting
+in horror but he,
+the second dog's kind of like well I'll
+trade with you, if you're willing.
+you know, he's not sort of stomping off
+and starting a protest, he's totally
+happy to go along with the situation where
+he's getting more of a reward.
+Sarah Brosnan reports the same kind of
+thing in capuchin monkeys.
+She reports that sometimes when this
+monkey throws the reward
+away, the second monkey will reach down
+and take it.
+you know, like well, if you're not taking
+the scraps, you know, I'll take them
+myself.
+Right.
+These aren't the hallmarks of advantageous
+inequity aversion
+like we'd expect to see in humans.
+And so this seems to be a big difference
+between
+what we see in our own species and other
+species.
+But there's another difference in the
+domain of
+equity and fairness that I think is really
+important.
+And that's cases of whether animals are
+willing to punish these violations of
+equity.
+And you've already seen, I mean, of course
+you know
+from lay behavior that humans do this all
+the time.
+You've seen cases experimentally in which
+humans are willing to do this.
+Like in the case of the Ultimatum Game.
+So if Professor Bloom was pan, playing
+this game with
+you guys in class, and your partner had
+all this
+money, and he was only giving you two
+bucks of
+all that wad of cash, you might reject the
+offer.
+And say you won't take it.
+You'll take a cost, to deliver this
+punishment to another individual.
+And a group of researcher in Leipzig,
+Germany were
+able to do the same kind of thing with
+chimpanzees.
+The way he did it was with a similar sort
+of pulling setup.
+This guy over here would be the proposer
+chimpanzee.
+And he gets to make
+the first selection of a couple different,
+different reward distributions.
+So this one at the top looks like it's
+pretty fair for both individuals.
+you know, the proposer's going to get this
+one, the other guy gets this one.
+This one looks a little bit unfair, you
+know, he's only going to get two.
+But this guy makes the first selection.
+But he only gets to pull it a little bit.
+It gets stuck.
+At that point, the second guy has to chime
+in and do the complete pull.
+What this means is it's exactly like the
+setup of the
+ultimatum game you guys played.
+One of you is making an offer, but the
+other guy chooses to accept and reject.
+The capuchin, the chimpanzee in this case,
+can choose
+to reject just by not doing that second
+pull.
+So he could reject the offer if he chose
+to.
+The question is, does he do it, and under
+what situations does he accept?
+And what the critical cases in the study
+were, were cases
+where the proposer chimp had the option to
+do something fair.
+He could choose a distribution of raisins
+that
+was five or five Or he could do something
+unfair,
+he could choose eight and just give the
+other guy two.
+And the question is, which did the
+proposer choose?
+Turns out proposers in this case were
+relatively unfair, but
+the more interesting question is what did
+the receiver do?
+And what you find is that chimpanzees
+don't play like humans, they play like
+economists.
+Because what they do is that they actually
+never reject the unfair offer.
+As long as the other chimpanzee offered
+them something
+that was above zero, they were willing to
+accept it.
+They rejected the zero offers, but they
+took any amount of food that was
+there, suggesting they're not willing to
+inhibit this urge to take this bad payoff.
+They can't sort of stand up and punish the
+other individuals for their unfairness.
+In fact if you look across human
+populations, the chimpanzee performance
+looks only like one
+other population of humans, and that's
+populations
+of humans who have lesions in their brain.
+Fact Ernst Fair and his
+colleagues were able to study this by
+actually
+creating temporary lesions in normal human
+brains, so you'd
+bring undergrads into your lab, and you
+introduce them
+to this wonderful device Called a
+transcranial magnetic stimulator.
+I won't get into the details of how this
+works, but basically it creates
+a magnetic pulse that develops a small
+and temporary lesion wherever the coil is
+positioned.
+So you put the coil in front of this spot
+in undergraduates' frontal cortices,
+gave them an unfair offer in the ultimatum
+game, and what he found
+was that none of the folks he did this to
+actually showed any rejections.
+They could say, yeah, it was unfair, but
+they took the two bucks anyway.
+And, this is the hint that I think is
+really important
+from studying animals is we see maybe the
+spot where we
+start to see some differences in the
+behavior of animals and
+humans, maybe our inhibitory control in
+this is actually quite helpful.
+And so in terms of reciprocity and
+fairness what
+have we learned?
+Well we've seen lots of animals do things
+that
+are reciprocal, they perform actions that
+seem very tit-for-tat.
+Not always clear what the psychological
+mechanisms are.
+In the same case we see lots of examples
+of
+animals in this case rejecting some of
+these unfair payoffs.
+But little evidence that they care about
+advantagous inequity.
+They just care about their own stake in
+equitable situations.
+And we see strikingly little evidence of
+costly punishment
+across other animals.
+This might be something that's truly
+unique to our own species.
+So now I've gone through all these other
+cases,
+in the short time I have left I actually
+want to turn to these issues of what we
+can actually learn from studying our
+closest non human relatives.
+And when I was thinking about developing
+this lecture, I
+really wanted to stay true to the goals of
+the course.
+So I could've shown you more studies on
+different moral concerns in animals, but I
+thought I would sort of think more about
+at least some of the goals that were
+stated in the syllabus of this course.
+And if you look at the syllabus, hopefully
+some of you have, you
+know, looked at the syllabus, probably
+important to do, you would just see
+is that goals of thinking about morality
+in humans, of course, is to
+understand some aspects of transcending
+kindness and all the good things we do.
+But also these era, areas of unspeakable
+cruelty.
+And most of the time, when we're
+looking for moral concerns in animals,
+we're thinking
+about the kindness part, we're thinking
+about
+stopping harm and helping and all this
+stuff.
+But we really might get more insight into
+our own nature,
+or at least the part of our nature that we
+really
+need to come to grips with if we take
+seriously this
+idea of trying to study the principles
+that underlie unspeakable cruelty.
+And what I mean here are these cases where
+humans can
+be aggressive and violate the moral norms
+of, of societies in
+ways that are completely egregious and
+involved lots of lethal aggressive
+harm often to individuals who are a part
+of different out groups.
+you know, if I had to put my finger
+on the biggest moral atrocities of human
+culture they
+would all have this flavor of a large
+scale
+violence, group on group, often pretty
+aggressive and pretty lethal.
+And so if you want to take a look at where
+this
+stuff comes from, you might say okay,
+let's take a broad swash.
+We'll take the whole animal kingdom, and
+we'll ask,
+where do we see this stuff in other
+species?
+you know, it's in us, we do these awful
+immoral things, gotta be all over the
+place, right?
+No.
+If you look
+at all the species out there, the only two
+species in which
+you see lethal aggression are those two
+little red points over there.
+And if we scroll in, we see that it's
+just us, and one of our two closest living
+relatives.
+Not both of them, just one of the two.
+So here we can scroll in at a slightly
+different
+version of that tree, looking at the other
+ape relatives
+that we have, and we're really scrolling
+in on the
+branch that includes just us, and our two
+closest living relatives,
+chimpanzees and bonobos.
+And as you've seen from some of your
+readings,
+we can course unfortunately see lethal
+violence in us.
+We also see this sort of hallmark in
+chimpanzees, but we don't actually
+see it, in bonobos, who are equally
+closely related to us as the chimpanzees.
+So what's going on?
+I thought I'd end the lecture today by
+kind of
+scrolling in and seeing if we can get some
+insight.
+And the insight starts by sort of looking
+at chimpanzee society and what we know
+about it.
+And the great thing is that we know a lot
+about
+chimpanzee society, mostly from the
+starting
+pioneering work of Jane Goodall and
+colleagues.
+We start to look at what chimpanzee
+society was really
+like and they learned lots of great things
+about chimpanzee society.
+They learned lots of information about how
+chimpanzees use
+tools and were more cognitively
+sophisticated than we thought.
+But they also learned lots of negative
+things that chimpanzee society
+isn't the kind of idealic bliss that we
+might have thought.
+And I'll give you a little quick video to
+give
+you a sense of what what some of this
+actually involves.
+See if this works here.
+>> In the tree of life.
+>> Can you guys hear?
+>> Are often occupied by species that
+look poles apart.
+But sometimes, what separates species is
+more social than physical,
+as it is with our closest relatives,
+chimpanzees and bonobos.
+[MUSIC]
+[SOUND] Chimpanzees and bonobos live in
+similar jungles
+in equatorial Africa.
+They look alike, live in the same
+size communities and eat similar foods.
+Yet.
+[SOUND].
+Violence is a fact of life for
+chimpanzees.
+Battles between neighboring communities
+are common.
+[SOUND].
+So is the physical abuse of females.
+>> Oops.
+It got cut off.
+But you can basically get the point here.
+What we're dealing with is a species that,
+if you look at its natural behavior,
+of course it looks nice sometimes, but it
+bears a hallmark to a relatively violent
+species.
+Lots of intragroup violence.
+Individuals who are beating up on
+individual females.
+
+
+There's cases of infanticide.
+It doesn't look very pretty, but it
+actually gets worse if you look
+at how the intergroup violence among
+chimpanzees
+actually plays out, because we see lots
+of hallmarks of a species that cares a lot
+about what's going on
+in the other community and whether you
+can resources potentially from that other
+group.
+So what you're looking at here is a
+picture of chimpanzees who are giving pant
+hoots.
+These are vocalizations that are useful
+for keeping the chimpanzee communities
+together.
+And the idea that chimpanzee communities
+range over a big
+amount of space, as you saw in the Jane
+Goodall article.
+The goal is that they have to keep tabs on
+where everybody is, not because there
+are other predators for chimpanzees out
+there, although
+man is a pretty bad predator for
+chimpanzees.
+The biggest issue is potentially violence
+from other individuals, and the pan,
+who is, is worth hearing, I don't have a
+vocalization, but it goes something like
+this, is like, [SOUND] and so that's, you
+know, if you hear that, you're like,
+[SOUND] you know, this is a scary-ass
+thing, yeah, you're, yeah, this is good.
+[SOUND] But see, my pant hoot is not that
+good because if you were a
+community of chimpanzees that didn't know
+me, you
+would react, not with clapping but like
+this.
+If you were a male you would drop the food
+out of your mouth, literally,
+reach over and grab the penis of the guy
+next to you and just say,
+you know, are you with me man, because
+there's another chimpanzee over there,
+he's pant hooting so.
+[LAUGH] Maybe next year I'll get good
+enough.
+That, you know.
+But the point is is that
+inter-community, inter-community
+interactions are incredibly scary.
+Why?
+Why do they have mechanisms to sort
+of promote and worry about where everybody
+is?
+Well, the reason is because of what you've
+already seen, which is that
+the way that communities typically
+interact is one that involves a lot of
+lethal aggression.
+This is the case of chimpanzees being much
+more quiet than they're normally used to
+being.
+They're sort of hunched down and engaging
+in a border patrol, where they're
+leaving their own confines and going to an
+area that's outside their territory.
+Why are they doing that?
+Well, you know, there's lots of
+speculation but what do they
+do when they get there and they find a
+lone individual?
+They often do horrible things like this,
+where the individuals
+together will gang up on an individual
+chimpanzee, often one
+that's weaker and smaller than them, so
+it's
+not like they're doing this in self
+defense.
+And when they're done, you see images of
+chimpanzees that look like this.
+This is a little bit gory, so turn away if
+you're scared.
+But they look like chimpanzees that don't
+look very good when they're done.
+What you can see is this chimpanzee has
+gash wounds all over his body.
+If you look here, his testicles are
+actually missing.
+In this case of this chimpanzee, they were
+found down the road.
+So this doesn't result in very pretty
+things for chimpanzees.
+You can look
+back, the gory chimpanzee is gone.
+But in cases where this has been studied
+in detail, where you can document across
+communities how this plays out, we
+sometimes
+get very scary answers to what we've seen.
+And you guys read in the case of Jane
+Goodall's report, what
+happened in Gombei over the course of four
+years in the 1970's.
+Basically what happened was that there
+used to
+be two communities of chimpanzees, and
+over time
+if you look back four years later, it
+ended up just as one community of
+chimpanzees.
+What happened to the other communities?
+Well you guys saw it, I'll depict it a
+little bit here,
+not with, photos of the chimpanzees
+because we don't have them, but by,
+what I think is a really fabulous artistic
+exhibit by a photographer named
+Allison Raton who did a photography
+project on the four years at Gombei.
+And the way she did it was to depict what
+happened not with chimpanzees
+but with humans which I think is sort of
+far more compelling if only disturbing.
+But what Jane Goodall described as you saw
+as
+a case where these two communities used to
+be one.
+They used to all be kin and then they
+slowly split over time
+into being sort of separate communities
+that were a little bit more
+individualized.
+And this was all well and good, until the
+researchers started
+seeing more and more of these kinds of
+late night border patrols.
+Cases where individuals went over, and as
+they started seeing more and
+more of these border patrols, they also
+ended up finding more and
+more kahama Chimpanzees who were killed in
+often very, very brutal ways.
+And as time went on and the researchers
+paid more
+attention, they could actually see
+instances of what was actually happening.
+Where chimpanzees were, as I showed you,
+very quietly, in this
+border patrol getting together and
+seemingly ganging up on another
+individual.
+Often one that was less strong than them
+and less helpless.
+And as this happened over time, more and
+more members of the kahama community died
+until
+all the males in that community were in
+fact, dead.
+The females left and transferred into the
+northern
+community, and that was that for the
+kahama community.
+So I think we see it with human terms,
+that often feels more compelling.
+But what are the similarities here?
+We a lot of similarities in the chimpanzee
+legacy with what we see in human warfare.
+We see this lethal coalitionary
+aggression, what does this mean?
+This means deadly force on the part of
+bodies of individuals who
+leave their group and go to a neighboring
+group,
+seemingly for the purpose of causing
+warfare, or causing aggression.
+There's also the hallmark that happens not
+within the group but between groups of
+individuals.
+And it typically, as Richard Raynom often
+points
+out only involves males and that the
+targets
+of these things are mostly males or at
+least, they seem to be targeted towards
+individual males.
+And there also seems to be something like
+the spoils of
+war, where the victors in these cases get
+access to more
+land, more resources, in this case even
+more females.
+So, this is our legacy and it's a hallmark
+of something we should find very
+disturbing because there's
+a lot of similarities in terms of what's
+happening
+in chimpanzee lethal violence and what's
+happening in humans.
+But of course, there's this other case I
+was talking about, the case
+of the bonobo, our equally closely-related
+relative,
+who doesn't show any of these hallmarks.
+Can we figure it out if some sense what
+went okay with
+the bonobos to cause them not to have some
+of this stuff?
+And so for them, we sort of turn to bonobo
+social structure and
+bonobo social structure looks a lot more
+laid back than you see in chimpanzees.
+And its in part because they don't seem to
+have the
+kinds of violent society that we see in
+the chimpanzee society.
+You see no inter group violence.
+No lethal rating.
+In fact cases of inter group interactions
+are
+always quite pleasant with individuals
+behaving very socially.
+You see extremely little intragroup
+violence.
+Males just aren't as mean to females as
+they are in chimpanzees.
+And as I said finally, little male
+violence towards females, no
+evidence of infanticide, it just seems
+like a very chill, happy society.
+Well, what is going on?
+Well, it seems, as researchers have put
+forward,
+that if you study bonobo social behavior,
+the
+bonobos are in part, not violent because
+they seem to choose to make love not war.
+Seems that socio-sexual behavior
+in the bonobos seems to be a really
+important mechanism by
+which they get around a lot of these
+problems of violence.
+And I'll leave it to Amy Parish in this
+video to tell you a little more about
+that.
+>> For the past decade, Amy Parish has
+been
+observing bonobo behavior at the San Diego
+Wild Animal Park.
+She's seen them go at it in every way
+imaginable.
+[MUSIC]
+>> This gets a little dirty, so you can
+hide your eyes.
+>> [LAUGH]
+>> You get standard heterosexual
+interactions which are often
+face to face, the way they are in humans.
+You also see what we call ventral upright
+matings where a male and
+a female will hang together out of a tree
+suspended and have sex.
+Males have sex with other males in what we
+call
+rump-rump rubbing, where they stand and
+rub their scrotums together.
+We also see something
+among males called penis fencing, where
+males will suspend off of
+branches by their arms and rub their erect
+penises back and forth.
+[MUSIC]
+>> And then a very remarkable behavior
+in which two
+females rub their genital swellings
+together in rapid sideways motions.
+[NOISE]
+>> So, what's allowed bonobo females
+to establish such peaceful relations with
+males?
+[NOISE] Parish believes the answer is
+female solidarity.
+[NOISE]
+>> By cooperating with each other and
+solidifying
+their bonds and reducing any tension that
+does exist, they're
+able to form alliances with each other and
+cooperatively dominate males.
+And this changes the whole balance of
+power and the whole
+social dynamic in the group and makes it
+radically different from chimpanzees.
+>> And why bonobo females evolved this
+strategy when chimpan.
+>> Whoops, we'll get to that part
+later.
+But the upshot is that Paris's hypothesis,
+and
+the hypothesis of others, is that it seems
+like some of the violence gets cracked
+down
+upon in part because females have these
+strong bonds.
+The males can't co, form coalitions to
+get, against them because
+the females have their own sorts of bonds
+and coalitions themselves.
+And so this raises the kind of
+million-dollar question in the field of
+primatology right now, which is, why is
+it that female bonobos can develop these
+bonds,
+but bonobo why is it that bonobo females
+can develop these bonds but chimpanzee
+females cannot?
+And this leads to I think the ongoing
+hypothesis that Richard Wrangham has been
+pushing with, which has a book of
+the same title, called The Demonic Males
+Hypothesis.
+The idea is that something about the
+coalitionary
+behavior of males that's due to ecology
+drives
+these kind of patterns.
+And again, I'll leave it to Richard to
+tell you himself.
+>> And why have the noble females
+evolved a strategy and chimpanzee females
+haven't?
+>> It looks as though a relatively
+simple change in the feeding
+ecology is responsible for this dramatic
+difference in sexual
+behavior.
+They, the nobles live in an environment.
+Where you have herbs much more
+continuously on the ground.
+And there are chimpanzees that live in
+similar forests, but wherever
+those forest are occupied by chimpanzees,
+they're also occupied by gorillas.
+>> The gorillas eat the food on the
+ground, leaving the chimpanzees heavily
+dependent on fruit trees.
+To get their share, the female chimps
+forage alone.
+>> The mothers with babies ranging in
+age from one
+to about five, can't move as quickly as
+the males.
+I mean, one infant is up here playing in a
+tree, and a couple
+are nibbling slowly and the mom has had to
+sit and wait for them.
+So its absolutely typical that the males
+reach the big feeding ground first.
+And the males have finished all the food
+by the time
+the mothers arrive.
+So the mothers, disperse, away from each
+other and away from the males.
+And that means they can't have much
+opportunity to form bonds with each other.
+>> The simple fact that there was food
+available on the ground
+appears to have been the force that drove
+the evolution of bonobos.
+Wrangham believes the catalyst was a
+long-lasting drought
+two million years ago in what is now
+Zaire.
+The plants and the gorillas that depended
+on them died.
+It was tough on the chimpanzees, but they
+could live from the fruit in the trees.
+When the rains and the plants returned,
+the gorillas didn't.
+[MUSIC]
+Now the chimpanzees can get to the food on
+the ground.
+In time, they evolved into bonobos.
+It's been suggested that, that same
+drought forced our
+ancestors out of east Africa's forests and
+onto the plains.
+>> And once you had drying in
+a Savannah area, then conditions became
+quite harsh.
+It was impossible, for early humans to
+travel
+around in groups together in the ways the
+bonobos do, and therefore, for females to
+form
+alliances and dominate the males in the
+way that
+happens in bonobos.
+But a little bit different climatic
+history.
+A little bit different in our food history
+and we might of
+evolved to be a totally different,
+more peaceful, less violent, more sexual
+species.
+>> More sexual species is what he's
+ending on there.
+But, but this is the idea behind the
+demonic males hypothesis and it's one
+of the few reigning hypothesis that we
+do have for the difference between
+chimpanzees, bonobos
+and the idea here is that, because
+chimpanzee females
+weren't able to form bonds together, they
+develop psychological
+mechanisms that prevented them from sort
+of clamping down
+on the violence in the same way that
+bonobos can.
+And this has led to the kinds of violence,
+the kind of inner group violence you see
+among chimpanzees.
+The sort of run away selection on the
+coalitions between males
+that can't be clamped down by females
+because of feeding ecology.
+The claim is that the same kinds of
+mechanisms led to
+the kind of inner group violence that we
+see in humans.
+Something of the same kinds of mechanisms
+that led
+to the inner group violence that we see in
+chimpanzees are probably in us too to the
+extent
+that our feeding oncology was pretty to
+similar to chimpanzees.
+Question is what are the psychological
+mechanisms?
+And you know, how can we kind of deal with
+them or sort of clamp them down?
+And these are big questions that we don't
+have big answers
+to but we get good hints by studying the
+similarities and
+differences between us and our closely
+related primates.
+And folks are now trying to look at these
+sorts of issues.
+But, rather than talk about that, since we
+don't have good answers to these kinds of
+puzzles,
+I'll sort of talk a little bit about,
+well,
+what are some of the conclusions we can
+make?
+What are some of the moral insights we can
+get about humans from turning to animals?
+And I'll kind of return to where we
+started, which is this idea
+that even since Darwin, we've known that
+we have this conflicting view of animals
+as moral agents.
+This idea that like, of course we're
+different from the lower
+animals, of course our moral sense is the
+important thing that separates
+us, but on the other hand we expect
+animals to have something
+of a moral sense and the question is, what
+is that sense?
+And what we've learned is that, at least
+some of the
+universal hallmarks of human moral
+concerns, some of the universal domains
+in which we care about moral issues, we
+see those same
+kinds of domains cropping up in animals
+where they care about hierarchy.
+They care
+about helping others to feel better.
+They care about sharing inform, food and
+information, about where things are.
+And they care about actually doing nice
+things for others.
+We also see important limitations in all
+of these different domains.
+What we've seen is that, in the case of
+capuchin monkeys, it matters to
+whom you're doing these nice kinds of
+things, and to whom you care about equity.
+It matters what situations under which you
+show it.
+And in the case of equity specifically,
+we've seen that other animals care about
+equity, but only in
+these do, in, in the cases where it
+actually applies to themselves.
+They care about disadvantageous
+situations, but not advantageous ones.
+And finally, I think we've seen perhaps
+the
+most important difference which is that
+even though
+animals have all these hallmarks of what
+it
+means to have a moral concern, we see no
+evidence that they, step up to the plate
+when those moral concerns are violated and
+are
+willing to take a cost to punish other
+individuals, as in the case of the
+ultimatum game.
+Seems like we alone may do this, and
+we alone may do this for this interesting
+reasons.
+Which is that we have brains capable of
+inhibiting
+prepotent desires like, oh, just take the
+two bucks.
+Or oh, just do the easy thing.
+We can step up to the plate in part
+because we have these
+mechanisms that allow us to inhibit
+desires
+that we would normally want to fulfill.
+And in the second half we sort of switched
+gears from these
+universal moral concerns, all these
+aspects of kindness that we see to
+try to see if we could get some insight
+into the unspeakable cruelties that our
+species are capable of.
+And what we dealt with was that we really
+need to come to grips with the fact
+that we share a chimp legacy of
+inter-group
+violence, one that's not shared throughout
+the animal kingdom.
+But it is shared between us and
+chimpanzees.
+And what we realized is that we might be
+able to turn to cases of chimpanzee
+inter-group violence and to the
+evolutionary pressures that
+led to that, to get some insight into
+what's
+going on in our own inter-group violence.
+And the scary thing that I think we
+learned is
+that whatever those pressures were for
+chimpanzees, they seemed to
+most likely be the same pressures that led
+to our
+own psychological mechanisms and our own
+cases of inter-group violence.
+Again, we don't have great insight into
+what
+exactly those mechanisms are, but we know
+that they're
+the ones that are shared with chimpanzees
+and
+perhaps no other creature out there on the
+planet.
+And sort of that's where we are, and I
+want to
+end with sort of some of the implications
+of some of this
+stuff, because I think there's another
+worrying part of this evolutionary
+story that we need to deal with, which is
+that chimpanzees have
+all the psychological mechanisms, and, and
+devices that they have, their
+own strength and size, but we go beyond
+all of those things.
+Because part and parcel of our own human
+evolution is developing our own forms of
+weapons,
+and these weapons are way more awesome
+than
+weapons we see in the other animal
+kingdom.
+I mean, they are capable of real
+lethal coalitionary aggression.
+You know, in nuclear holocaust, we can do
+these things with the weapons that we have
+developed.
+The especially scary thing is that, unlike
+the weapons of the
+animal kingdom, we've developed these
+things really quickly in evolutionary
+time.
+Absolute blink in evolutionary time.
+And we've gone from just being humans with
+sticks to humans with nuclear weapons.
+And what that means is that we probably
+haven't
+done the evolutionary work that other
+animals with weapons
+have done to develop restraints through
+natural selection that
+deal with the behaviors under which we use
+these weapons.
+These bull elk aren't willing to use their
+weapons.
+They go through really careful
+trajectories to decide when they're
+appropriate, and they're always
+restraining from what they could do.
+It's not clear that humans have build the
+same evolutionary mechanisms to deal with
+our own weapons.
+And that I think is the scariest
+evolutionary message.
+The hopeful message though is that what
+we've seen is that some of
+the differences between the moral senses
+of us and
+other animals should be the ones that give
+us hope.
+Because what I'm telling you is that one
+of the things that
+we have that it seems like animals might
+not bring to their,
+on their own moral concerns, are really
+rich processes, we're inhibiting our
+own desires and sort of curbing what we'd
+really like to do.
+We also have a lot of cognitive
+flexibility that we can bring to bear.
+Basically, taking the old mechanisms that
+he
+have for kind of coalitionary aggression
+and maybe
+switching them around in positive ways.
+It's not clear what the policy messages
+are for these kinds of things.
+But I think a few quick things come to
+mind.
+One is we should use in our, our,
+inhibitory
+control to stop the proliferation of
+really bad weaponry.
+Given that we don't have the good bull elk
+skills of curving these things we
+might, use, need to use our frontal lobes
+to cut some of these things down.
+The other thing we should probably do is
+get creative with our coalitionary groups.
+One of the cool things about hum, being a
+human is that
+we form groups on the fly.
+We can be Americans or Red Sox fans or
+Yale Students, and so on.
+We can create these groups de novo.
+And one possibility is to start creating
+coalitionary groups that
+actually make sense from the perspective
+of limiting lethal inner-group violence.
+Making new kinds of coalitions across old
+separate groups that
+can actually promote, being a more
+peaceful, more moral species.
+And finally and this is Richard Wrangham
+and not
+exactly me, you ask Richard Wrangham what
+you would
+need, what we as a species need to do to
+develop a moral utopia, what he says is
+that
+you just have to get rid of all the males.
+And then we'll be a moral utopia.
+He's that, slippery slope about his
+species, but, I think that
+this isn't exactly the wrong kind of idea
+because perhaps thinking
+about ways to make political power a
+little bit more equal,
+not just across the sexes, but across
+different nations and so on,
+is probably a worthy goal, for an
+equitable species like
+us and hopefully can allow us to achieve
+our hallmark.
+Of being the true moral species that I
+know we can be.
+And with that I will shut up and just
+thank you guys for listening.
+But also, end with an advertisement
+because, if you want to learn more about
+all of these topics, I invite you to take
+my class in the spring.
+You'll see lots more of bonobos doing
+dirty things.
+And if you're interested
+in studying these topics yourself you can
+come join my lab where Christie and others
+are focusing on all these issues.
+Thank you so much.
+[SOUND]
+
