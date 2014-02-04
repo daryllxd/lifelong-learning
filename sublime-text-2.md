@@ -2,6 +2,8 @@
 
 Open Dash: Ct-H 
 
+Ctags: Ct-T-T
+
 ## Views
 
 	C-R							Show outline (!)
