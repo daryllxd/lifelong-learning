@@ -143,3 +143,30 @@ Delayed Job is a popular gem for running background tasks asynchronously.
         end
     end
 
+#### Synchronization by Sampling
+
+When it isn’t possible to listen to events from the system, the next best option is to repeatedly poll the system for the state change you’re expecting.
+
+Sampling can result in tests that are a little bit slower than listening, because of the polling interval. The more often you poll the system for changes, the quicker the tests can react and carry on when the system is working as expected. If you poll too frequently, however, you could put excessive load on the system.
+
+#### Implementing the New Architecture [TODO]
+
+## Databases
+
+Almost every system you’ll write Cucumber tests for will have a database of some kind, and it helps to know how to talk to it directly from your test code. You can use ActiveRecord to connect to almost any kind of database and set up or inspect its data from your tests. We’re going to show you how to use the ActiveRecord1 gem to connect to existing databases from just a few lines of Ruby code.
+
+#### Introducing ActiveRecord
+
+    class Account < ActiveRecord::Base 
+    end
+
+How does it know which table to look at? ActiveRecord espouses a principle of convention over configuration. This means that the expected name for the database table represented by the Account ActiveRecord class is accounts; if the table were named widgets, we’d call the class Widget. As long as we stick to those conventions, we get a lot of very useful behavior for very little code.
+
+#### Managing Schema Changes with Migrations
+
+ActiveRecord also provides a mechanism for dealing with changes to your database schema, which is great when you’re developing a database. Each incremental change to the schema is defined in a migration script. Each migration has a unique version number, and ActiveRecord stores these version numbers in a special table (schema_migrations) as they are applied to the database, meaning it can always tell which migrations need to be applied to bring a schema up-to-date.
+
+####Reading and Writing to the Database
+
+[TODO]
+
