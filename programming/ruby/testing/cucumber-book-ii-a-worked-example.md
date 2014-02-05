@@ -125,5 +125,21 @@ Adding asynchronous components into a system introduces a degree of ran- domness
 
 #### Synchronizing by Listening
 
-Listening for events is the fastest and most reliable way to synchronize your tests with an asynchronous system. For this technique to work, the system under test has to be designed to fire events when certain things happen. The tests subscribe to these events and can use them to create synchronization points in the scenario.
+Listening for events is the fastest and most reliable way to synchronize your tests with an asynchronous system. __For this technique to work, the system under test has to be designed to fire events when certain things happen.__ The tests subscribe to these events and can use them to create synchronization points in the scenario.
+
+#### Delayed Job
+
+Delayed Job is a popular gem for running background tasks asynchronously.
+
+    module DelayedJobSupport
+        def process_all_jobs
+
+> Tell DJ to process all of the jobs in its queue. This is normally done by a background task in production.
+
+            Delayed::Worker.new.work_off(Delayed::Job.count)
+            if ENV['FAIL_FAST']
+                raise Delayed::Job.first.last_error if Delayed::Job.count > 0
+            end
+        end
+    end
 
