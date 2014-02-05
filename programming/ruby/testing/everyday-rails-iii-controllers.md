@@ -11,7 +11,7 @@
 - One feature spec can accomplish the work of multiple controller specs.
 
 #### Controller testing basics
-
+``
 Scaffolds, when done correctly, are a great way to learn coding techniques.
 
 A controller spec is broken down by controller method-each example is based of a single actions and, optionally, any parameters passed to it. Here's a simple example:
@@ -30,7 +30,7 @@ Similiarities to earlier specs:
 New things to look at:
 
 - _The basic syntax of a controller spec_-its HTTP method (post), controller method(:create), and, optionally, parameters being passed to the method.
-- `sttributes_for`: Generates a hash of attributes, not an object.
+- `attributes_for`: Generates a hash of attributes, not an object.
 
 #### Organization
 
@@ -134,7 +134,7 @@ New things to look at:
 > spec/controllers/contacts_controller_spec.rb
 
     describe 'GET #index' do
-      context 'witj params[:letter]' do
+      context 'with params[:letter]' do
 
 > Test to make sure an array of contacts matching the first-letter search is created and assigned to @contacts. match_array looks for an array's contents, but not their order.
 

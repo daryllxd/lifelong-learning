@@ -155,4 +155,3 @@ When we did have to add JavaScript, we added it on top of the existing working H
 #### Taking Screenshots [TODO]
 
 ## Testing Command-Line Applications with Aruba [TODO]
-

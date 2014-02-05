@@ -1,0 +1,37 @@
+## andrewvos.com: Writing better Cucumber features
+[Link](http://andrewvos.com/2011/06/15/writing-better-cucumber-features/)
+
+__Scenarios should not automate the UI.__
+
+> Bad
+
+    Scenario: Invalid email address
+    When I fill in "Username" with "Username"
+    And I fill in "Password" with "password123"
+    And I fill in "Confirm Password" with "password123"
+    And I fill in "Email Address" with "invalid email address"
+    And click "Create User"
+    Then I should see "Please enter a valid email address"
+
+> Good
+
+    Scenario: Invalid email address
+    When I fill in an invalid email address
+    And click "Create User"
+    Then I should see "Please enter a valid email address"
+
+__Features should only contain information that the user sees__
+
+Element ids, CSS and XPath is only relevant to developers and should be kept in the step definitions or removed entirely.
+
+__Scenarios should not be dependant on other scenarios__
+
+__Use Background for setup when there's more than one scenario__
+
+__Feature names are features not processes__
+
+Feature names should describe actual features. An example of a bad feature name is "A user registers an account". This feature should probably be called "Registration" or "User Registration".
+
+__Don't use multiple 'thens'__
+
+Instead of multiple Thens use one Then and follow it up with Ands.
