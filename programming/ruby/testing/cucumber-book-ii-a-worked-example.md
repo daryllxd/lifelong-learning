@@ -169,4 +169,3 @@ ActiveRecord also provides a mechanism for dealing with changes to your database
 ####Reading and Writing to the Database
 
 [TODO]
-
