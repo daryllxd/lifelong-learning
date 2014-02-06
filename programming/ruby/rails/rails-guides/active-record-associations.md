@@ -1,7 +1,5 @@
 ## Why Associations?
 
-ecause they make common operations simpler and easier in your code. For example, consider a simple Rails application that includes a model for customers and a model for orders. Each customer can have many orders. Without associations, the model declarations would look like this:
-
 With Active Record associations, we can streamline these — and other — operations by declaratively telling Rails that there is a connection between the two models. Here's the revised code for setting up customers and orders:
 
 	class Customer < ActiveRecord::Base
