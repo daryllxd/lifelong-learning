@@ -67,4 +67,68 @@ __Join a table:__ There is also a generator which will produce join tables if Jo
       end
     end
 
+#### Supported Type Modifiers
 
+- `limit` Sets the maximum size of the string/text/binary/integer fields
+- `precision` Defines the precision for the decimal fields
+- `scale` Defines the scale for the decimal fields
+- `polymorphic` Adds a type column for belongs_to associations
+- `null` Allows or disallows NULL values in the column.
+
+## Writing a Migration
+
+#### Creating a Table. 
+
+ID is created by default.
+
+    create_table :products do |t|
+      t.string :name
+    end
+
+#### Creating a Join Table.
+
+This creates a HABTM (has and belongs to many) table.
+
+    create_join_table :products, :categories, table_name: :categorization
+
+By default, `create_join_table` will create two columns with no options, but you can specify these options using the :column_options option.
+
+> Make the columns nullablez
+
+    create_join_table :products, :categories, column_options: {null: true}
+
+> It accepts a block so you can add indices because they aren't there by default.
+
+    create_join_table :products, :categories do |t|
+      t.index :product_id
+      t.index :category_id
+    end
+
+#### Changing Tables
+
+> This removes the description and name columns, creates a part_number string column and adds an index on it. Finally it renames the upccode column.
+
+    change_table :products do |t|
+      t.remove :description, :name
+      t.string :part_number
+      t.index :part_number
+      t.rename :upccode, :upc_code
+    end
+
+#### Manual SQL
+
+    Products.connection.execute('UPDATE `products` SET `price`=`free` WHERE 1')
+
+## Running Migrations
+
+    $ rake db:migrate
+    $ rake db:rollback # Revert
+    $ rake db:rollback STEP =3 # Revert 3
+    $ rake db:migrate:redo STEP=3 # Revert 3 then migrate again.
+    $ rake db:reset # Drop db and recreate the current schema again.
+    $ rake db:migrate:up VERSION=20080906120000 # Run up method on version
+    $ rake db:migrate RAILS_ENV=test # Run on test env
+
+## Active Record and Referential Integrity
+
+The Active Record way claims that intelligence belongs in your models, not in the database. As such, features such as triggers or foreign key constraints, which push some of that intelligence back into the database, are not heavily used.
