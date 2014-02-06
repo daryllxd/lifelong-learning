@@ -8,11 +8,11 @@ Puma: Modern, concurrent web server for Ruby. Small footprint.
 
 ## Reddit
 
-Apache vs Nginx: Web servers. They serve static files but they can serve dynamic web apps. Apache has more features, Ngins is smaller and faster.
+__Apache vs Nginx:__ Web servers. They serve static files but they can serve dynamic web apps. Apache has more features, Ngins is smaller and faster.
 
 Apache/Nginx can server Ruby web apps out-of-the-box. You need to use Apache/Nginx in combination with some kind of add-on.
 
-Mongrel: Ruby app server: load your Ruby app and sets up a TCP socket. Mongrel: Ruby and C.
+__Mongrel:__ Ruby app server: load your Ruby app and sets up a TCP socket. Mongrel: Ruby and C.
 
 __WEBrick__ is not fit for production. Single threaded pure-ruby server. Easy to get running, but slow. Use it as a last resort.
 
@@ -30,4 +30,4 @@ __Redis/Memcache:__ Memcache/Redis = Key-value stores. Memcache in memory, redis
 
 Personally, I recommend Thin for development, Unicorn or Passenger for deployment on MRI, and I suspect Puma would be your weapon of choice under JRuby. Torquebox is also worth looking at for JRuby installs. Passenger will be easiest for you to start with, but you'll have to pay if you want some of their advanced features like rolling restarts and error-resistant deploys, which you get for free with Unicorn.
 
-I use Thin/Unicorn for development, and Unicorn for deployment.
+I use Thin/Unicorn for development, and Unicorn for deployment.``
