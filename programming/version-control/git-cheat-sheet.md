@@ -7,6 +7,7 @@ To git out of the vim thing (huehue): "q"
 	Check last 2 commits: git log -2
 	Check last 2 diffs: git log -p -2
 	Revert to last commit: git reset --hard HEAD
+  Remove untracked shit: git clean -fd
 
 Cloning from BB
 
