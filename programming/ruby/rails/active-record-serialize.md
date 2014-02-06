@@ -38,3 +38,32 @@ Rails provides the foundational structure for marshaling and storing arbitrary d
 
     irb(main):001:0> user = User.create
     irb(main):002:0> user.properties #=> nil
+
+## Reddit
+[Link](http://www.reddit.com/r/rails/comments/1x63o8/when_to_use_activerecords_serialize/)
+
+Serialize has the obvious disadvantage that you can't search by SQL on it. __So you will only want to use it for data that is mainly for display (or other purposes where you will read this single record anyway) and does not need to be searched and to some extend doesn't change that often.__
+
+Its advantage is that it can be very fast, especially if you have to handle rather complex structures.
+
+An example: We have about 12,000 products in our database. Each product is tagged with technical data that can be a bit complex. There is simple data like color, size, weight (but a lot of it, like 100 values for each item) and there is more complex data like items belong to certain car models (down to the build year level). Collecting this data and put it in a nice data structure is rather slow. While this data is still in tables whenever somebody edits it I write it in serialized form into the product table. So if I want to display it I have the whole tree structure immediately. 
+
+(Since we search with Apache Solr there is more of this moving around data between different systems and forms of storage anyway, so not much extra overhead, otherwise you want to avoid storing identical information in different places).
+
+So in your case the question is do you ever need to query the database for things like "Which Quiz contains a given question?", "Which QuizItem contains a given choice?". Chances are that you do not need to do this if your quiz app is simple and questions are not recycled too much between different quizzes. (Though you may run into issues when you want to store answers by user for a certain question).
+
+Depends a lot on size of this project and number of quizzes and users. And how much cross referencing is necessary. I would be tempted to say that serializing is most likely ok for your use case.
+
+If you want to remove it, then yes, you would need migrations in several steps. First create the new tables, then transfer all the data from the serialized fields to the tables (could be tricky keeping ids in place) and then remove the serialized fields (make sure your data is correct before you do this)
+
+Is it right when I say it gives you speed at the cost of integrity? Not necessarily. In your case the data isn't stored in two places, so no integrity issues here.
+
+__In my example where we actually have tables to hold the data and only use the serialized data this is in fact an issue (and having a third place in Apache Solr adds to that).__ But this is 'secondary' data storage and if it would ever run out of sync this would be only annoying and not critical. Plus we can run a update script once a week that force syncs everything.
+
+__With Rails another issue with those serialized fields is that it omits the association proxies__ (those little helpers that allow you to do stuff like quizz.question.create on associations). Though you could write the relevant methods yourself (rather common in Rails to do such things, sometimes even with some data hardcoded in the 'virtual' model).
+
+But really difficult to give advice, that's something where you won't get around creating some dummy tables fill them with a lot of data and then test the performance of the most important queries.
+
+Otherwise this is something you could change without too much effort whenever you think you need to do so. So I wouldn't actually worry too much about it.
+
+__See, this serialize thing is somehow storing a table in a column instead of giving it its own real table.__ This may seem strange, but if you do larger projects you will find many situations where you store data in very different places (like memcached, some search engine, some nosql, olap cubes). This sometimes is not exactly the super clean 'Rails Way', but Rails after all is only a framework that should guide and not force (a thing it does very well).
