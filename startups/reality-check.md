@@ -40,7 +40,7 @@ In five minutes, people decide if they are interested in your or not. It's not f
 
 ## Reality of Marketing
 
-1. Seize the high ground: "Making meaning", "doing good", "changing the world", "making people happy".
+1. __Seize the high ground: "Making meaning", "doing good", "changing the world", "making people happy".__
 2. Create one message: Stick with that message for a year.
 3. Frame or be framed: An online music-sharing service is either "piracy" or "music-listeners' revolution." Using the word revolution implies that record companies are unfairly ruling people who listen to music.
 	- Be true to yourself. A frame should represent what YOU stand for.
@@ -55,11 +55,11 @@ SALES FIX EVERYTHING. As long as cash is flowing:
 - Press won't say much
 - Investors will leave you alone
 
-#### Innovative Products
+#### Innovative Products are...
 
-- Deep. It doesn't run out of features and functionality after a few weeks of use.
+- __Deep. It doesn't run out of features and functionality after a few weeks of use.__
 - Intelligent. "FUCKING SMART BRAH."
-- Complete. A great product is more than a physical thing. Documentation counts. Cx service counts. Tech support counts.
+- __Complete. A great product is more than a physical thing. Documentation counts. Cx service counts. Tech support counts.__
 - Elegant. UI/UX that shit.
 - Emotive. It compels people to tell others about it.
 
@@ -95,7 +95,7 @@ SALES FIX EVERYTHING. As long as cash is flowing:
 - Hire better than yourself.
 - Double-check your intuition. Ask every candidate the same questiosn and take extensive ones.
 
-Firing
+#### Firing
 
 - Consult impartial people.
 - Get professional advice.
@@ -114,7 +114,7 @@ Intrusive and negative thoughts cause a load that interrupts and harms performan
 - Invoke positive stereotypes.
 - Frame, or reframe, yourself.
 
-Checklist:
+#### Checklist:
 
 1. Are you making meaning?
 2. Does your product jump to, or create, the next curve?
@@ -125,16 +125,4 @@ Checklist:
 7. Are you helping people who cannot help you?
 8. Can you blow away any audience with a demo of your product?
 9. Would you hire imperfect job candidates who love what you do, as well as people who are better than you are?
-10. Are you only asking peopel to do things that you would do too?
-
-
-
-
-
-
-
-
-
-
-
-
+10. Are you only asking people to do things that you would do too?
