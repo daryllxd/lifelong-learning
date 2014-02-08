@@ -645,3 +645,54 @@ And I'd say, the second the second biggest thing, maybe it was even mentioned in
 People need to interact with other managers, from different offices, across different time zones. They're working on projects together, and all of a soon all of a sudden, their skills have been completely challenged. to, to manage this, the, you know, to manage scale on a global level poses completely different challenges. And we've really started investing in training and up-skilling them. rather than just, sort of, giving them tasks and giving them projects and responsibilities to manage, we also give them skills to do that, because other, otherwise we realize we are setting people up to fail. 
 
 You know, you, you, you, you realize, at one point, you know, it's easy to answer, the question of whether someone is a fit or not. But then you sort of drag on, and, and you know, the worst thing is to carry baggage, and, and have people who, you know, might have been good when they, when you hired them, but then the changes of the company. And, sort of, the situation is completely different now, so I think we've also let go of people, that in the past, we would have, sort of, just kept in the system and really focused on, you know, who do we believe is in, in it, for the long term? Who do we believe is really on the bus? and, and who do we believe is just, the right fit for the company? And, sort of, let go of people who we felt that maybe in the past they were, but now they're not. 
+
+## Week 5 Lesson 1 (21.30)
+
+Growth had stalled. What do we mean? Growth had plateaued and in fact, it was going down. And Eric's father didn't like that and said, son, you got to either turn this business around or we going to shut it down, okay?
+
+__The product had become a commodity. A commodity is a product or service that basically, sells based on price. That means the product is not different. Eric's competition saying, sells the same thing he sells.__ So, what's the difference to the customer? The difference to the customer is price. If Eric is selling this, and I'm making up this number now, okay, at $1000, and the customer, I mean, his competition, is selling the same exact product at $800 or $900, who you going to buy from? Now, I'm assuming you're not married to Eric's sister, or you're not a relative, or there's not some other reason. I'm assuming you are an arm's length consumer, with no friendship, relationship, okay? You going to buy one of these. 
+
+That was Eric's problem. That was the problem I delivered to you, alright? You also learned there was __low brand recognition in the community__ and as I said before, alright, Eric Turn this around or we're shutting down. Now, what did he do that you found interesting? N
+
+- Software for JIT inventory and software for managing the timing of the processes from the order to the delivery and everything could be scheduled to maximize efficiencies and productivity. Software to automate production and supply schedules. He licensed this software eventually.
+- Creating standrds and complying with those standards to create a competitive advantage for himeself.
+- On-time delivery for the home/commercial builders who put his products on the ground, or free.
+- First mover because of incorporating new national standards. He put his company through rigorous certification processes and borught in experts.
+- Delivery people became cx service people. Their work had more meaning.
+- He strategicallyadvertised on interstate highway billboards, radio sports programs.
+- He participated in industry trade associations. He also wrote articles fro industry trade associations. He built a reputation as the expert in his part of the world in this product line. He also talked about community outreach publications.
+- He answerd questions for home owners.
+- He added 12 more states geography.
+- No acquisitions because he didn't want to buy other companies' problems.
+
+## Week 5 Lesson 2 (11.34)
+
+When you solve one set of problems, there's always another set of problems. Businesses don't grow, people grow. Upgrading is the people and processing and controls that work at one level or size of your business will probably not work as you grow much bigger, and you have to improve, upgrade your processes, your controls, and in many cases, unfortunately, your people. 
+
+Yes, let up on that gas pedal. Let up on that gross so your people, processes, and controls can catch up. Yeah, yes, customer centricity. Love your customer more than you love your product, right? Yeah, because your purpose is to meet those customer needs or problems. You stay in business by solving customer problems and offering them things they need or want, customer centricity. But as you grow the business, you've learned what? The reality is, you need more people and so then your business is only going to be as good as how your people do your business. React, communicate, engage with customers, and we've talked about the power of high employee engagement. 
+
+We've talked about strategic focus, right? 2 inches wide and 2 miles deep, right? We've talked about operational excellence. You should walk away with this course, because remember, I wanted to, basically challenge you to change the way you think about growth, they myths of growth, the fact that growth, growth is change. Change is hard. People can only change so much, so fast. 
+
+The problem in the, in, with growth is, is that if you basically let growth overwhelm you, it can outstrip your managerial capacity or your processes or controls. So you should walk away from this course forever remembering the picture of the sunshine. Growth is like mother nature. She can be good, but then the picture of the tsunami or the hurricane, tornado, that growth sometimes if it's too much, too fast can basically overwhelm your business and destroy value. Respect growth. Respect it and use the gas pedal approach. 
+
+We talked about learning. Learning is how you constantly improve. And one thing we know is the bear story. Yeah? In order for you to stay ahead of the competition, you've got to learn, you've got to constantly improve better, faster, cheaper. Sometimes you have to innovate and do something new for you and the purpose of all of this is to be able to scale, do more of what you're already doing and you learn that they're basically two broad ways to grow. Sell your product or service to more customers or sell more stuff to your existing customers, and remember the growth boosters tool?
+
+## Week 5 Lesson 3 (6.42)
+
+__Entrepreneurs approach life proactively, they go for it, they try things, they try to control their own destiny. They don't just sit back and react and let life happen to them.__ 
+
+Well, that's a pretty good lesson for anybody, no matter what you choose to do in your life. Be proactive. Make things happen. Seek learning, not safety. 
+
+We know that entrepreneurs are comfortable with entering the land of the unknown and the land of uncertainty because they're confident they'll learn as they go. Entrepreneurs build business, learning as they go, taking small steps. Well, that's a pretty good rule for whatever you do. Seek learning, not safety. 
+
+What do entrepreneurs like Eric do? Eric focused first on what was his strengths? Engineering. So he got into the details of engineering his product. Play to your strengths. Focus on your strengths. You can always improve your weaknesses, but focus on your strengths. Focus on going forward with what the talents you have. 
+
+Small steps. Entrepreneurs try things, they take small steps, small bets, remember the chips, learning launches. Take small steps, because small steps in learning build up and eventually you've gone a long way. Every day, learn something. __Ask yourself every night when you come home, what did I learn today? Try every day to learn at least one thing, that means you're constantly trying to improve your game whatever field you're playing in.__ 
+
+It's interesting. A former colleague of mine, named Professor Anders Ericsson is the world's leading expert on expertise. He does great work. He has studied athletes, musicians, chess players. You know, in his work is the foundation for all of the books out there today talking about how to be an expert. Allright? But Anders did the research and he found that experts are disciplined and actually practice, have discipline practice and over a period of time, they have worked 10,000 hours to become an expert of real focus intense practice. And the difference between an expert and somebody very good, was 5,000 hours. So think about that, alright? __Discipline, focus, practice, and becoming an expert in good, is a long term journey, stay on the journey.__ Two tools we've talked about and I've tried to get you to engage in, since we're not in the same room, mental rehearsal. Playing in your mind. What if I did this? What would be the result? How will I react if she does this? How will I react if he does that? If someone says this, how will I respond, which prepares you for the uncertainties in the business world if you put some thought, planning. 
+
+Remember the 4 P's, planning, but then, after you, every day, go back and replay in your mind just like a film. Replay. What did I do today? What could I have done better? 
+
+And as you build your business, don't forget most important single word in the business world is please. The most important two words is thank you. The most important three words is I am sorry or I am wrong. And the most important four words is may I help you? 
+
+Look at that growth risk assessment tool. What does that thing teach you? It teaches you look at my alternatives and weigh the pros and cons of each alternative, that's risk reward decision-making and that's a good tool to use in making your life decisions. And don't forget, smile a lot and be a positive force. Do not be a force of darkness.
