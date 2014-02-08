@@ -33,5 +33,4 @@
 - slim and sass, get bourbon installed
 - Guard and Rspec and start writing some tests.
 
-
 Use a Rails template and keep it updated with all the best stuff you find and love to use.

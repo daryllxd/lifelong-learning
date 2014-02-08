@@ -297,3 +297,51 @@ Overconfidence decision trap: An excessive belief in the truth of your own belie
 Just thinking of putting something on the line (money or dignity) makes you know what you want.
 
 Numbers: Even if things are uncertain, why not just add a number too? Instead of using "maybe", "might", why not just add a number to make your confidence level clearer?
+
+## Week 5: Useful Information and Sound Reasoning
+
+Weight table/pros & cons list. Weight of stuff puts numbers on the values so it gives you clarities.
+
+Test different values to see if they impact your decision. If you have uncertainty, you also want to handle that.
+
+Beware of inutitive decisions, we aren't expected to handle them. Know your limitations and when you need to get help. Remember to keep at stuff, consistently better decisions make better outcomes.
+
+## Week 5- IYC Episode 12: How Likely Is It?
+
+When you can't control shit, it's helpful to have probability.
+
+Rule #1: Any alternative can have multiple outcomes.
+
+Rule #2: There are two types of events that affect outcome: Independent and dependent. Gambler's Fallacy!
+
+__Trap: Wishful thinking. Overestimating the likelihood of a certain outcome just because you want it to happen.__ When making a decision, think "what would have to happen so this happens?"
+
+## Guest Lecture: Prof. Abbas on Sound Reasoning
+
+Suppose your company is choosing a new CEO out of 6 possible candidates. They thought of doing a majority survey.
+
+He was able to get F to win, even if C > D > E > F. Even if we get eleemnts of decision right, we can still make a bad decision.
+
+## Week 5- IYC Episode 13: Building a Tree
+
+Coach thought to shoot the 3 instead of the 2 using the graph and shooting percentages.
+
+## Prof. Abbas - Reasoning through Hamlet's Dilemma
+
+Hamlet's father died and he was there to protect the lands. Hamlet's uncle married his mom and he was in doubt whether his uncle had something to do with his death. And there, he had "to be" or "not to be".
+
+Hamlet was deciding if he wanted to kill himself. If he stays alive, he "bears the scorns of time". If he dies, he could dream (to bear the ills) or not dream (end the heartache and the thousand natural shocks).
+
+He prefers B (not-to-be-not-dream), A (current-life), and C (not-to-be-dream) (he hates this).
+
+If he preferred B and C to A? Then it is easy, better to "not to be". If he prefers A to B and C, better "to be." But the problem is he is B > A > C.
+
+Indifference probability: If you could get A for certain, or a deal where you can get either A or C, what probability queue would you prefer?
+
+## Week 5- IYC Episode 14: Makes Sense and Feels Right
+
+The highest quality decisions come when we make our decisions with both our heads and hearts.
+
+Use pro-con list or weight table to know what you are looking for when making a decision.
+
+Preference: Enjoyment, college application, something new. If the decision becomes "something doesn't feel like", you need to think of something. Think of reassigning the percentages.

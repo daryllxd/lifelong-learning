@@ -43,34 +43,3 @@ Personal stories allow you to share something of yourself with others and in so 
 •W  ho would be the audience? It could be an audience of one of of many people. Why would they be listening to you and what would they want to hear?
 • What is the key message of your presentation that you could support with a personal story?
 • What is the outcome you would like to achieve as a result of this presentation? What would your audience think, feel or do differently as a result of your presentation?”
-
-Reflect on your AHAS, then Share
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
