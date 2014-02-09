@@ -1,3 +1,5 @@
+
+
 ## [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 
 1. __Do you use source control?__
@@ -18,9 +20,4 @@
 9. __Do you use the best tools money can buy?__ Long compile time = distractions. Small monitor = sucks for debugging GUI code. Image manipulation program needed for modifying pix etc.
 10. __Do you have testers?__ Testers are too cheap to skimp on.
 11. __Do new candidates write code during their interview?__
-12. __Do you do hallway usability testing?__ 
-
-
-
-
-
+12. __Do you do hallway usability testing?__
