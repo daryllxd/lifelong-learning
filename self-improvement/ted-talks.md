@@ -1,4 +1,26 @@
-## [Peter Singer: The why and how of effective altruism](https://www.youtube.com/watch?v=Diuv3XZQXyc)
+
+
+## Elliot Krane: The mystery of chronic pain
+[Link](http://www.ted.com/talks/elliot_krane_the_mystery_of_chronic_pain.html)
+
+Pain = symptom of a tumor or an infection or an inflammation or an operation.
+
+10% of the time, pain persists after, and it is its own disease. Patients with chronic pain have their brains telling them what they are feeling. Imagine I were to stroke your child's arm with this feather, and their brain [was] telling them that they were feeling this hot torch.
+
+Chandler: Got a wrist sprain, but when she came to the clinic, her arm was discolored, purplish in color. It was cadaverically cold to the touch. The muscles were frozen, paralyzed -- dystonic is how we refer to that. The pain had spread from her wrist to her hands, to her fingertips, from her wrist up to her elbow, almost all the way to her shoulder.
+
+__But the worst part was, not the spontaneous pain that was there 24 hours a day. The worst part was that she had allodynia, the medical term for the phenomenon that I just illustrated with the feather and with the torch. The lightest touch of her arm -- the touch of a hand, the touch even of a sleeve, of a garment, as she put it on -- caused excruciating, burning pain.__
+
+Wrong wiring? The brain's glial cells spill out and become activated. In this case, the pain is what is activated.
+
+Well, what do we do about that? What can we do in a case like Chandler's? We treat these patients in a rather crude fashion at this point in time. We treat them with symptom-modifying drugs -- painkillers -- which are, frankly, not very effective for this kind of pain. We take nerves that are noisy and active that should be quiet, and we put them to sleep with local anesthetics. And most importantly, what we do is we use a rigorous, and often uncomfortable, process of physical therapy and occupational therapy to retrain the nerves in the nervous system to respond normally to the activities and sensory experiences that are part of everyday life. And we support all of that with an intensive psychotherapy program to address the despondency, despair and depression that always accompanies severe, chronic pain.
+
+But the future is actually even brighter. The future holds the promise that new drugs will be developed that are not symptom-modifying drugs that simply mask the problem, as we have now, but that will be disease-modifying drugs that will actually go right to the root of the problem and attack those glial cells, or those pernicious proteins that the glial cells elaborate, that spill over and cause this central nervous system wind-up, or plasticity, that so is capable of distorting and amplifying the sensory experience that we call pain. So I have hope
+
+that in the future, the prophetic words of George Carlin will be realized, who said, "My philosophy: No pain, no pain."
+
+## Peter Singer: The why and how of effective altruism
+[Link](https://www.youtube.com/watch?v=Diuv3XZQXyc)
 
 Does it really matter that you don't have to walk around these children as you walk down your street?
 
