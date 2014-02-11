@@ -56,8 +56,8 @@ To git out of the vim thing (huehue): "q"
 
 ## heroku
 
-  heroku addons:add heroku-postgresql:dev
-  heroku pg:promote HEROKU_POSTGRESQL_BROWN
-  heroku apps:destroy app-to-be-destroyed
+    $ heroku addons:add heroku-postgresql:dev
+    $ heroku pg:promote HEROKU_POSTGRESQL_BROWN
+    $ heroku apps:destroy app-to-be-destroyed
 
 See more at: http://blog.tacticalnuclearstrike.com/2012/07/sinatra-on-heroku/#sthash.gVoDFq4u.dpuf

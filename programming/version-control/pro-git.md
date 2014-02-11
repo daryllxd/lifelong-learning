@@ -223,6 +223,9 @@ When you clone a repository, it generally automatically creates a `master` branc
 
 [TODO]
 
+# Git on the Server
+
+# Distributed Git
 
 ----------
 ## [The difference between git pull, git fetch and git clone (and git rebase)](http://blog.mikepearce.net/2010/05/18/the-difference-between-git-pull-git-fetch-and-git-clone-and-git-rebase/)
