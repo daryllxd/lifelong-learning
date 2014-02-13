@@ -177,27 +177,3 @@ GetResponse found that Thursday is the best day for both open rates and click-th
 By analyzing the behavior of each individual user, eBags sent out emails to users at the same time of day they had signed up for the email list.
 
 This actually worked incredibly well: click-through rates rose by 20% and conversion rates rose by 65%.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
