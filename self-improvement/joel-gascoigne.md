@@ -86,7 +86,3 @@ __Change email, forgotten password, delete account.__ I think these are features
 __Static pages: about page, terms of use, privacy policy.__ These are those kinds of tasks when working on your not-yet-launched startup. It is so tempting to have everything looking nice and tidy for the launch, but these pages are so standard and won’t help you validate whether anyone will use your product. Showing that there is a human behind the product can be a benefit, but I’d just advise that you add a link to your Twitter profile in the footer instead of building fancy pages.
 
 __The goal here? To learn.__ You can build something pretty or make the code super clean if you want to, but that will just be an exercise for yourself at this point. What will help you to validate the idea and see whether you should continue along this same path is to get the product in front of users and talk with them and observe what they do. Do they understand it? If they understand it, is it useful for them? Stay laser focused on these questions.
-
-
-
-

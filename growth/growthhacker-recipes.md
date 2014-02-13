@@ -1,3 +1,23 @@
+## 14: Trigger Happy
+
+Start with end goal and work backwards.
+
+Traffic Idea: Community Interaction (Event) + Send Email (Trigger) + Click to Tweet (Goal). When someone gets five replies then it triggers an email to that user which says, "We noticed that your conversation is getting pretty popular in our community. You can click here to tweet about your accomplishment." The tweet would have a link back to our community and say something like, "Check out my conversation on @growthhackertv, it's getting a lot of attention."
+
+Conversion Idea: Watching Episodes (Event) + Swag Popup (Trigger) + New Account (Goal). We could track the episode viewing habits of our non-members, and when they watch their 10th video from the same IP address then we could give them a popup on screen that says, "We just noticed that you're watching your 10th GHTV episode. We've also noticed that you're not a member yet, so here's what we'll do. If you signup sometime today we'll send you a free GHTV t-shirt. Note: you can't buy this shirt anywhere. Today is the only day you can ever get it."
+
+Retention Idea: Watching Episodes (Event) + Send Email (Trigger) + Watch More Episodes (Goal). Instead of looking for high usage, we could also track low usage. If someone doesn't watch an episode within a certain time frame then we could email them episode recommendations based on what others have viewed the most. If we get them involved at the earliest signs of distance then we can possibly retain them.
+
+## 13: Excess Inventory
+
+Traditional ad networks have publishers (i.e. blogs that publish content) and advertisers (i.e. companies that buy ads on that content). In my system I was the only advertiser since I didn't care about selling the inventory but just using the inventory myself. __Therefore, we approached bloggers in the growth niche with the following proposition: If you let us install an ad bar on the top of your site that links to other sites in our network, then for every two clicks you give away to others in the network we'll send one click back to you.__ Give 2 clicks. Get 1 click.
+
+We wanted to keep things as simple as possible so we just used a standard Hello Bar (https://www.hellobar.com) to handle the front-end of our ad network.
+
+Once the bloggers are signed up and the front-end is done, now you have to do the heavy lifting of creating a back-end that tracks the clicks in the network. The basic logic is that every site is either owed clicks from the network at any given point in time or they are not. Whichever blog is owed the most clicks is at the top of the queue and their link is displayed across the network until they are not owed more clicks.
+
+Wait until you have a few publishers on board before you make the network live, but now have your own ad network and half of all the traffic is flowing to you.
+
 ## 12: Never Breakup
 
 It always sucks when a user wants out of a relationship with you and your product. The problem is that we usually view this decision as final. They want out and there is nothing we can do about it. This is a sophomore mistake. They were with you for a reason in the first place, so winning them back is always a possibility!
