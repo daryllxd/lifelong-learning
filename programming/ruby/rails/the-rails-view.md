@@ -52,7 +52,7 @@ Better to simplify access to associations anyway. We can also make things such a
 		creation.project.client.name
 	end
 
-#### Conditional Contnet
+#### Conditional Content
 
 Instead of the super dami na if admin then show else if user then show echos, we can do this?
 
@@ -127,7 +127,7 @@ It would be better to do this:
 
 Avoid require_tree because it is alphabetically thingie. 
 
-The require_self directive takes the styles defined in the file itself and inserts them at this point. We can use this to add ad hoc styles to our application.css that we don’t necessarily want to rip out into a separate file. The fact that we can put require_self before or after the other directives gives us the flexibility to control in exactly what order the content is inserted, which is important when it comes to the precedence of the CSS rules.
+The `require_self` directive takes the styles defined in the file itself and inserts them at this point. We can use this to add ad hoc styles to our application.css that we don’t necessarily want to rip out into a separate file. The fact that we can put `require_self` before or after the other directives gives us the flexibility to control in exactly what order the content is inserted, which is important when it comes to the precedence of the CSS rules.
 
 Rails ships with an assets:precompile Rake task that will handle generating static files for you.a You can either run this locally (if you don’t want to go through the bother of installing some dependencies on your server) and ship the files during deployment, or you can have the task run on the server immediately after deployment (e.g., for Capistrano, after "deploy:update_code").
 
@@ -209,9 +209,7 @@ Together, Cucumber and Capybara make an impressive acceptance testing framework 
 
 #### Manual Testing with Selenium IDE
 
-One favorite of our quality assurance team is the Selenium IDE, which allows them to record the tests while browsing the site in Mozilla Firefox
-
-To install the Selenium IDE, we simply visit the Selenium website with Firefox and install the extension.
+Selenium: Firefox extension.
 
 When we click Add Creation, it calls a function called clickAndWait(), which does exactly what a user would do: it clicks a link and waits for it to load. The parameter of link= is what is called a locator, and it lets us select a block of text and act upon it, in this case, by clicking it.
 

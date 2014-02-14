@@ -2,20 +2,9 @@
 
 > Migration to create a `products` table, with string `name`, text `description`, and timestamps. Implicitly, `id` will be added.
 
-    class CreateProducts < ActiveRecord::Migration
-      def change
-        create_table :products do |t|
-          t.string :name
-          t.text :description
-     
-          t.timestamps
-        end
-      end
-    end
-
 We define the change that we want to happen moving forward in time. Before the migration is run, there will be no table. After, the table will exist. AR knows how to reverse this migration as well.
 
-Timestamps adds `created_at` and `updated_at`. These special columns are automatically managed by AR if they exist.
+`Timestamps` adds `created_at` and `updated_at`. These special columns are automatically managed by AR if they exist.
 
 ## Creating a Migration
 

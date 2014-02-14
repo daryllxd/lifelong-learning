@@ -67,7 +67,7 @@ So, do we know the cx's internal trigger?
 
 Jack talks about this narrative always. He literally builds out a play on how the cx might interact with his products. So everyone understands these user narratives. 
 
-What triggers made Instagram so habit forming? Instagram is powerful in Instagram. Powerful external trigger = Facebook/Instagram.
+What triggers made Instagram so habit forming? Powerful external trigger = Facebook/Instagram.
 
 Instagram solves the pain of losing the moment. This is a super solid itch. An association is formed this way. 20-30 years ago it was Kodak (The Kodak moment). Instagram is also a social network. People use it when they are feeling lonely, or have FOMO (fear of missing out).
 
@@ -208,14 +208,7 @@ It turns out that our investments literally change our perceptions of our behavi
 We havea certain responsibility when changing our user behavior. The world is full of problems to fix. Help others sfind meaning. Engage them in something important. The tactics in Hooked have been used for time-wasting and for nefarious processes. Build the change you want to see in the world.
 
 
-
-
-
-
 What are 3 testable ways to make the action easier?
-
-
-
 
 Brain cycles/physical effort.
 
@@ -228,38 +221,9 @@ Brainstorm 3 ways users search for the variable reward.
 - Rewards of the Hunt: Things, money, or information.
 - Rewards of the Self: Mastery, completion, competency, consistency.
 
-
 What can we ask our users to do to keep them returning? It's crucial that it happens after the reward.
 
 What investment can we put into our user experience?
 
 - Load the next trigger.
 - Store value.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
