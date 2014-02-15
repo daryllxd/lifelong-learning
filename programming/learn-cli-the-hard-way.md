@@ -20,7 +20,6 @@
 	$ grep -w				# must be full string as opposed to substring
 	$ grep -c				# count the number of matches
 	$ grep -l				# Display only the file names which matches the given pattern
-	
 
 ## The Basic Shit
 
