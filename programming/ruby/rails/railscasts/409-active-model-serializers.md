@@ -9,13 +9,13 @@ Things become messy. We add `gem 'active_model_serializer'` by doing
 
 Now we have hooks and stuff. So we will find the serializers and shit.
 
->article_serializer.rb
+> article_serializer.rb
 
 	class ArticleSerializer < ActiveModel::Serializer
 		attributes :id, :name, :content # we choose what we want to show.
 	end
 
->articles_controller.rb
+> articles_controller.rb
 
 	def show
 		@article = Article.find(params[:id])
@@ -27,7 +27,7 @@ Now we have hooks and stuff. So we will find the serializers and shit.
 
 However, you can remove having the render the `root: false` by just setting up the default serializer.
 
->articles_controller.rb
+> articles_controller.rb
 
 	def default_serializer_options
 		{root: false}
@@ -52,7 +52,7 @@ It also has support for associations.
 
 We can customize the comment serializer
 
->comments_serializer.rb
+> comments_serializer.rb
 
 	class CommentSerializer < ActiveModel::Serializer
 		attribues :id, :content
@@ -61,15 +61,3 @@ We can customize the comment serializer
 You can also flatten the thing for efficiency purposes, by doing the `embed`.
 
 [TODO]
-
-
-
-
-
-
-
-
-
-
-
-

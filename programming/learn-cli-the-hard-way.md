@@ -1,22 +1,40 @@
-## Linux/OS X
+## Stuff I want to remember
 
+	Studying a command: $ man grep
+
+	I know what the command does but I don't know what it was $ apropos search
+
+	# Find all text files, save to aw.txt, and open in Sublime
+	$ find . -name  "*.txt"  > aw.txt | subl
+
+	# cat will read whatever you type and write it to that file. exit via ct-d.
+	$  cat > somefile.txt
+
+	# search directory+subdirectories for your string
+	$ grep -r yourString* .
+
+## Grep uses
+
+	$ grep -i				# case insensitive
+	$ grep "REGEX" file		# match regex
+	$ grep -w				# must be full string as opposed to substring
+	$ grep -c				# count the number of matches
+	$ grep -l				# Display only the file names which matches the given pattern
+	
+
+## The Basic Shit
+
+	$ c - 					# go back to old directory
 	$ pwd 					# print working directory
 	$ hostname 				# my computer's network name
 	$ mkdir					# make directory
-	$ cd 					# change directory
-	$ ls					# list directory
-	$ rmdir					# remove directory
+	$ rmdir					# remove directory (rm -rf na lang baby)
 	$ pushd					# push directory
 	$ popd					# pop directory
 	$ cp 					# copy a file or directory
 	$ mv 					# move
-	$ less					# page through a file
-	$ cat 					# print the whole file
 	$ xargs 				# execute arguments
 	$ find					# find files
-	$ grep 					# find things inside files
-	$ man					# read a manual page
-	$ apropos				# find what man page is appropriate
 	$ env					# look at your environment
 	$ echo 					# print some arguments
 	$ export 				# export/set a new env variable
@@ -24,9 +42,6 @@
 	$ sudo					# become super root
 	$ chmod					# change permission modifiers
 	$ chown 				# change ownership
-
-
-	$ cd ~					# go to home
 
 ####`ls`
 
@@ -67,7 +82,7 @@ Finally, on Unix pushd, if you run it by itself with no arguments, will switch b
 	-c 						# do not create new file
 	-m						# change modification time of file
 
-####Copy a file (`cp`): cp -flags filename destination
+#### Copy a file (`cp`): cp -flags filename destination
 
 	$ cp a.txt b.txt		# basic syntax
 	$ cp a.txt dir/			# copy to directory
@@ -79,5 +94,26 @@ Finally, on Unix pushd, if you run it by itself with no arguments, will switch b
 	-n						# do not overwrite existing file
 	-p						# preserve attributes
 	-r						# recursive copy
+
+#### Viewing/Streaming a File
+
+	$ less FILE.txt
+	$ more FILE.txt 		# (do the math bitches)
+	$ cat FILE.txt 			# Stream (view the file in the buffer)
+
+#### Pipes and Shit
+
+	$ | $					# Takes the output from the command on the left and pipees it to the command on the right.
+	$ < $					# Take and send the input from the file on the right to the program on the left.
+	$ > $					# The > takes the output of the command on the left, and writes it to the file on the right.
+	$ >> $					# Takes the output from the command on the left and appends it to the file on the right.
+
+
+
+
+
+
+
+
 
 sed 's/@import "/@import "bootstrap\//' _bootstrap.css.scss > _bootstrap-custom.css.scss

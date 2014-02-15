@@ -5,7 +5,7 @@ Open Dash: Ct-H
 Ctags: Ct-T-T
 
 ## Views
-
+	
 	C-R							Show outline (!)
 	C-M-2						2 views
 	Ct-1 or Ct-2 		Focus on view
