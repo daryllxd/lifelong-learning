@@ -29,35 +29,3 @@ Sift through the data to determine if there are similar behaviors that emerge. W
 For example, in its early days, Twitter discovered that once new users followed enough other members, they hit a tipping point which dramatically increased the odds they would keep using the site. Every company has a different set of actions that devoted users take; the goal of finding the Habit Path is to determine which of those steps were critical for creating devoted users.
 
 Now that you know the Habit Path, the next step is to create hypotheses about what it was along that path that tipped users from passers-bye to devotees. This phase is also a good time to talk to users in person to learn more about why and how they use the product. Habit Testing is meant to illuminate what is unique about these “earlyvangelists” and find insights that can be generalized to the rest of your users.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

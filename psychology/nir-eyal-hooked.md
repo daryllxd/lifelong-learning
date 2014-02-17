@@ -280,16 +280,3 @@ Like many of the astoundingly successful web companies of the last decade, it wa
 acebook succeeded because it built new online habits around frequent offline behaviors. Originally, Facebook was designed to replace the physical face books undergraduates received their first week of school. 
 
 TheFacebook.com, as it was originally known, offered users a digital way to feel connected to others throughout the day and from anywhere they could access the web. The power of this universal human need for social acceptance and connection helps explain how the company grew well beyond college campuses and now touches one in eight people on the planet.
-
-
-
-
-
-
-
-
-
-
-
-
-
