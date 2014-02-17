@@ -1,4 +1,30 @@
-## [30 Things to Stop Doing to Yourself](http://www.marcandangel.com/2011/12/11/30-things-to-stop-doing-to-yourself/)
+## 15 Things You Must Give Up to Be Happy Again
+[Link](http://www.marcandangel.com/2014/02/16/15-things-you-must-give-up-to-be-happy-again/#more-719)
+
+__Choosing to do nothing.__ You don’t get to choose how you are going to die, or when. You can only decide how you are going to live, right now.
+
+__The excuses you keep reciting to yourself.__ Sooner or later you will come to realize that it’s not what you lose along the way that counts; it’s what you do with what you still have.
+
+__Avoiding the reality of the present.__ You can’t change what you refuse to confront.  You can’t find peace by avoiding it.  Deal with problems before they deal with your happiness.  Don’t let a hard lesson harden your heart.  Remember, life’s best lessons are usually learned at the worst times and from the worst mistakes.
+
+__Over-thinking and worrying about everything.__ – When your fears have you looking too deep into things, it creates problems, it doesn’t fix them.
+
+__Who you once were in the past.__ –  Sometimes you have to step outside of the person you’ve been, and remember the person you were meant to be, the person you are capable of being, and the person you truly are.
+
+__Doubting your own faith and courage.__ – You can be comfortable or courageous, but you cannot be both.  By taking a leap of faith, you find out who you are truly capable of becoming.
+
+__Thinking you don’t have what it takes.__ – It’s not about how hard life can hit you; it’s about how hard you can be hit while continuing to move forward.  That’s what true strength is.  And that’s what winning the game of life is all about.
+
+__Pessimism and negative self-talk.__ – Talking about our problems is our greatest addiction.  Break this negative habit.  Talk about your joys, your loves, and your dreams instead.  What you see in life often depends entirely on what you’re looking for.
+
+__Excessive pride.__ – Get out of your own way.  Stop judging everyone and everything.  Pride is one of the greatest enemies to your happiness and growth.
+
+__Comparing yourself to everyone else.__ – Sometimes the reason we struggle with insecurity is because we compare our behind-the-scenes circumstances with everyone else’s public highlight reel.  Give it up.  Don’t compare your Chapter 1 to someone else’s Chapter 15.  Follow your own path, write your own life story, and never give up on yourself.  Remember this:  Happiness formula = Do YOUR best and feel good about it. | Unhappiness formula = Compare yourself to everyone else.
+
+__Procrastinating and senselessly wasting time.__ – Remember, you are the customer of a bank called Time.  Every morning it credits you with 86,400 seconds.  Every night it writes off, as a loss, whatever remainder you have failed to invest to good purpose.  It carries over no balance.  It allows no overdraft.  Each day it opens a new account for you with the same deposit of 86,400 seconds.  Each night it burns the remains of the day.  If you fail to use the day’s deposits, the loss is yours.  There is no going back.  There is no drawing against the tomorrow.  You must live in the present on today’s deposits only.  Invest it so as to get from it the utmost in health, happiness, and success.  You’re making withdrawals right this second; make them count.
+
+## 30 Things to Stop Doing to Yourself
+[Link](http://www.marcandangel.com/2011/12/11/30-things-to-stop-doing-to-yourself/)
 
 __Stop spending time with the wrong people.__ Life is too short to spend time with people who suck the happiness out of you.  If someone wants you in their life, they’ll make room for you.  You shouldn’t have to fight for a spot.  Never, ever insist yourself to someone who continuously overlooks your worth.  And remember, it’s not the people that stand by your side when you’re at your best, but the ones who stand beside you when you’re at your worst that are your true friends.
 
