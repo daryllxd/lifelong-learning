@@ -2,7 +2,7 @@
 
 Individually, the YC founders might be like any number of people you might meet at a cocktail party, through friends, or at work: smart, friendly, and interesting to talk to. But after talking to a lot of them every week in a short span of time, you start to get this really weird sensation that there’s something collectively different about these people when compared to a random sampling of everyone you know.
 
-_"What makes a good founder? If there were a word that meant the opposite of hapless, that would be the one. Bad founders seem hapless. They may be smart, or not, but somehow events overwhelm them and they get discouraged and give up. Good founders make things happen the way they want. Which is not to say they force things to happen in a predefined way. Good founders have a healthy respect for reality. But they are relentlessly resourceful. That’s the closest I can get to the opposite of hapless. You want to fund people who are relentlessly resourceful."_ - PG in How to bbe an angel investor, Mar 2009
+_"What makes a good founder? If there were a word that meant the opposite of hapless, that would be the one. Bad founders seem hapless. They may be smart, or not, but somehow events overwhelm them and they get discouraged and give up. Good founders make things happen the way they want. Which is not to say they force things to happen in a predefined way. Good founders have a healthy respect for reality. But they are relentlessly resourceful. That’s the closest I can get to the opposite of hapless. You want to fund people who are relentlessly resourceful."_ - PG in How to be an angel investor, Mar 2009
 
 __You and your cofounders can build.__
 
@@ -29,9 +29,3 @@ Whatevery you do, accelerate your learning first by doing, and second by getting
 - Social media.
 - Practice sales.
 - Business model/growth strategy.
-
-
-
-
-
-
