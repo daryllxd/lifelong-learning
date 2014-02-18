@@ -62,3 +62,26 @@ not need to modify them
 ## Regex
 
 The result of the comparison is the match
+
+\* (0 or more) will never fail to match
+
+Even if you match for digits the thing that matches is a string
+
+Negation classes: "Get the rest"
+
+When regexing a string, don't include the effing ""s!!!!
+
+## Methods
+
+They raise NoMethodError when no method
+
+## Constants
+
+Can be accessed by C or ::C or AboutConstants::C.
+
+OOP: Nested class wins over inheritance
+
+## Exceptions
+
+SpecificError -> StandardError -> Exception -> Object
+

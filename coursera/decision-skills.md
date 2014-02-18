@@ -1,10 +1,79 @@
-# [Decision Skills: Power Tools to Build Your Life](https://novoed.com/decision-skills2/)
+# Decision Skills: Power Tools to Build Your Life
+[Link](https://novoed.com/decision-skills2/)
 
-## The Himalayan Decision Scenario
+- Helpful frame: What will and when will things be decided
+- Clear values: Be clear about your values, in order to have the best chance of getting what you really want.
+- Creative alternatives
+- Useful information:
+- Sound reasoning: Values + Alternatives + Info = Decision. We can make the "I'm choosing this alternative because..."
+- Commitment to follow through
 
-The goal is to know the high school students in Manang, Nepal. There is a feeling you get when you do something right, and when you do something wrong. Getting information in Nepal is sketchy because you can get information from anywhere.
+Choosing between the head and heart. Everybody's decision style is influenced by their personality. Knowing decision traps is needed to break down our decisions.
 
-Flood thing about 70 yards from the village. Options: Go back to Kathmandu, take another path (chance of injury), get a helicopter. WTF should you do?
+An extrovert would want to talk with someone about a problem. An introvert would rather do it by yourself.
+
+Don't make a decision when you are: Hungry, angry, lonely, tired.
+
+__Habitual frame trap:__ When we approach all problems or decisions in the same way. Some decisions are analytical, some are feeling, but most are both.
+
+Not all decisions are worth stressing out. Just think of the different possible outcomes of a decision.
+
+> H.I.P. Formula
+
+- H: How will things change?
+- I: Impact on me? Others?
+- P: Permanent or reversible?
+
+__Decisions are only as good as your best alternative.__
+
+Everyone is creative, but not everyone was taught to systematically improve their creative process. So they reject stuff with "it will never work" and "we already tried that." Reframe stuff, too. "What do I do if I had a ton of money, or no money. What Would I do if I need to decide tomorrow, or one year from now." 
+
+#### Reality test: If you answer no to any of the three questions, the option fails.
+1. Is this likely to get me what I want?
+2. Is this reasonable?
+3. Would I actually do this?
+
+#### On Truth
+
+Doctors say it's best to just tell the truth. People know if they are not doing well anyway. __Deciding to tell the truth is one thing, but determining what "the truth" is also important.__ We can say "people in your situation live x months or years, and we aren't sure what influences this."
+
+If you have things in your communication that are not accurate, then you lose the opportunity to deepen the conversation. Why would you want people in your life that are likely false people? 
+
+It's like training wheels on bicycles. You'll never learn how to ride a bike if you don't take the training wheels off. So telling the truth is the way to get accurate feedback.
+
+"My ethics is determined by what I do." (Action-based ethics) or "My ethics is determined by the results of what I do." (Consequence-based ethics) Decision skills are leaning to the consequence-based. It's not preferences, but it's about you.
+
+__Buddha story: "Can you cut that tree's branch off?" Murderer did. "Can you put it back on?" The murderer became enlightened.__
+
+Ex: In a decent college, the idea of bribing a teacher to get a higher grade was unthinkable. __When we make things unthinkable, that's when we are transcendent.__ The unexamined life is not worth doing. If you don't examine what you do, when you look back on the past you'll feel bad.
+
+Weight table/pros & cons list. Weight of stuff puts numbers on the values so it gives you clarities.
+
+Test different values to see if they impact your decision. If you have uncertainty, you also want to handle that.
+
+Beware of inutitive decisions, we aren't expected to handle them. Know your limitations and when you need to get help. Remember to keep at stuff, consistently better decisions make better outcomes.
+
+The highest quality decisions come when we make our decisions with both our heads and hearts.
+
+If the decision becomes "something doesn't feel like", you need to think of something. Think of reassigning the percentages.
+
+Grit has more correlation to success than intelligence. With that being said it is helpful to plan for flexibility. So choose a strategy that allows for change.
+
+__SMART: Specific, measurable, achieveable, recordable, timely.__
+
+Recordable: Tell people what you are working on. You reinforce your own commitment when you talk with others. Specific and measurable: You should be able to see it happen. Achievable: Connected to motivation, flow. Focus on something you can control or influence but prepare for uncertainties.
+
+__A decision is just a choice unless it is followed by an action.__
+
+1. Communicate: If you're serious in doing things, why not write it down?
+2. Get help: Ask a friend to text you every week to see if you're practicing. It's better if you have someone who is interested in your progress. Get a coach if you have to.
+3. Plan: Find out how other people learned stuff, and have a checklist to see how you make a goal.
+4. Command your calendar: Time your schedule to follow through your plan.
+When looking for a job, position yourself in a way that the manager thinks of you as a good decision.
+Communication tool: Native American staff.
+
+(End of Summary)
+---
 
 ## Coin Toss Exercise
 
@@ -47,8 +116,6 @@ You need all of the six. Figure out if you have done the best for all part of th
 
 __A decision is only strongest as the longest link.__
 
-His big decision was going to Ukraine for a year after graduation. Basically it is a spoiler! :))))
-
 ## Himalayan Decision Tree
 
 Suggest to split the group? Don't do this because easier to have things to go wrong because of communication.
@@ -77,7 +144,7 @@ Choosing between the head and heart. Everybody's decision style is influenced by
 
 ## Guest Lecture with Prof. Barbara Mellers
 
-What a "decision" differs for most people. Some people think they make tons of decisions, they qualify eating breakfast as a decision. But habits are different from decisions. They might be decisions before, but they are habits now. We don't decide to brush our teeth. These are habits and it isn't helpful to think of them as decisions.
+What a "decision" is differs for most people. Some people think they make tons of decisions, they qualify eating breakfast as a decision. But habits are different from decisions. They might be decisions before, but they are habits now. We don't decide to brush our teeth. These are habits and it isn't helpful to think of them as decisions.
 
 Decisions are things that have control. They are important. When you realize that something is important to write about, then you can write them a letter. She didn't get mad at them, she just told them what could be done, and they moved on. This is an example of where feelings and dealing with them are important. It is important to think about what you should have done, and that __requires enormous self-control__.
 
@@ -345,3 +412,46 @@ The highest quality decisions come when we make our decisions with both our head
 Use pro-con list or weight table to know what you are looking for when making a decision.
 
 Preference: Enjoyment, college application, something new. If the decision becomes "something doesn't feel like", you need to think of something. Think of reassigning the percentages.
+
+## Week #6 Commitment to Follow Through
+
+Commitment is the part of the decision that happens after, but you can't just expect an outcome to happen, you have to act on it.
+
+There's always a part of a decision wherein you can't go back.
+
+Grit has more correlation to success than intelligence. With that being said it is helpful to plan for flexibility. So choose a strategy that allows for change.
+
+But there could be a time where you need to go all-in.
+
+SMART: Specific, measurable, achieveable, recordable, timely.
+
+Recordable: Tell people what you are working on. You reinforce your own commitment when you talk with others. Specific and measurable: You should be able to see it happen. Achievable: Connected to motivation, flow. Focus on something you can control or influence but prepare for uncertainties.
+
+Some people want a big goal that can ignite your passion.
+
+I asked myself: "Why do people do these ironman competitions?" So I joined a team to do this. So that's my commitment to follow through on something. The thing that is going to get you to do shit is to use the decision chain.
+
+Go with a process that is as big as what you need. Get the help you need. Why not explain it to somebody?
+
+If you value alternatives equally, just flip a coin, then you'll know what you want.
+
+## IYC #16: Commitment to Follow Through
+
+__A decision is just a choice unless it is followed by an action.__
+
+1. Communicate: If you're serious of doing things, why not write it down?
+2. Get help: Ask a friend to text you every week to see if you're practicing. It's better if you have someone who is interested in your progress. Get a coach if you have to.
+3. Plan: Find out how other people learned stuff, and have a checklist to see how you make a goal.
+4. Command your calendar: Time your schedule to follow through your plan.
+
+## IYC #17 Process and Review
+
+A quality group decision benefits from the same tool.
+
+Communicate and clarify: Tell others want you want/prefer. Figure out the information you want. Offer alternatives. Eliminate the impractical stuff.
+
+Decision traps in a group: Decision fatigue, when you are trapped and you just want to not think anymore.
+
+When looking for a job, position yourself in a way that the manager thinks of you as a good decision.
+
+Communication tool: Native American staff.
