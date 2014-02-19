@@ -211,3 +211,32 @@ Method missing: Do this to avoid shit
       end
     end
 
+## Proxy Object Solution
+
+    class Proxy
+      attr_accessor :messages
+      def initialize(target_object)
+        @object = target_object
+        @messages = []
+      end
+
+      def method_missing(method_name, *args, &block)
+        @messages.push method_name
+        @object.send(method_name, *args, &block)
+      end
+
+      def called?(method)
+        @messages.include? method
+      end
+
+      def number_of_times_called(method)
+        @messages.count{|obj| obj == method}
+      end
+
+    end
+
+## `to_str` vs `to_s`
+
+They have different meanings. You should not implement `to_str` unless your object acts like a string, rather than just having a string representation. The only core class that implements `to_str` is String itself.
+
+`to_str` is an implicit cast, whereas `to_s` is an explicit cast. First, it implies that the object isn't really much of a string, so it's shorter. Also, `to_s` is shorter because more objects will have `to_s` methods, so you'll end up typing it more frequently. With `to_str`, we're tagging an object as much closer to being a string, so we give it the first three letters. It's almost half of a string!
