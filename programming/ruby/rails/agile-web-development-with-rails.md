@@ -13,7 +13,7 @@
 	$ rails g controller Say hello goodbye # You get a controller named Say with actions hello and goodbye
 	$ rails d controller Say # must delete routes first in routes.rb
 
-Whenever you have data, you have to do it first in the controller, then provide it inthe view. Ex for `time`, you have to `It is now <%= @time %>` in the view so that when you modify the time collection you just edit it once.
+Whenever you have data, you have to do it first in the controller, then provide it in the view. Ex for `time`, you have to `It is now <%= @time %>` in the view so that when you modify the time collection you just edit it once.
 
 ## 3: The Architecture of Rails Apps
 
@@ -200,11 +200,3 @@ Test fixtures: A specification of the initial contents of a model (or models) un
 7. Iteration C3: Use helper to format price.
 8. Iteration C4: Functional test of controllers.
 9. Iteration D1: Finding a cart.
-
-
-
-
-
-what html template to use
-
-easies place to get 1st world citizenship

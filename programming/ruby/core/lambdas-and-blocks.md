@@ -77,7 +77,6 @@ Differences between `yield` and the normal approach:
 
 Yield is not a method. `yield.class = ???`
 
-
 A `yield` can provide a custom sort algorithm.
 
 	days.sort do |x,y|
@@ -208,13 +207,6 @@ Passing methods into methods, you use the `method` cast (different from `:method
 	> aw = [1, 2, 3].each{method(:square)}
 	> aw = [1, 4, 9]
 
-
-
-
-
-
-
-
 API def of `method`: Looks up the named method as a receiver in obj, returning a Method object (or raising NameError). The Method object acts as a closure in obj’s object instance, so instance variables and the value of self remain available.
 
 	class Demo
@@ -233,19 +225,3 @@ API def of `method`: Looks up the named method as a receiver in obj, returning a
 	l = Demo.new('Fred')
 	m = l.method("hello")
 	m.call   #=> "Hello, @iv = Fred"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

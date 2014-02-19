@@ -1,0 +1,1 @@
+    ActiveRecord::Migrator.current_version - Get current migration

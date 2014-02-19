@@ -149,12 +149,6 @@ Person1[0] = “J”
 Person1 -> “Jim”, Person2 -> “Time
 Person1.freeze -> prevents other people from modifying the object.
  
-## Chapter 4: Containers, Blocks, and Iterators
-
-
-	
-
- 
 Chapter 5: Standard Types
 Numbers
 

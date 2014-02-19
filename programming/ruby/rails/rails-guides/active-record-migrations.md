@@ -1,14 +1,12 @@
 ## Migration Overview
 
-> Migration to create a `products` table, with string `name`, text `description`, and timestamps. Implicitly, `id` will be added.
-
 We define the change that we want to happen moving forward in time. Before the migration is run, there will be no table. After, the table will exist. AR knows how to reverse this migration as well.
 
 `Timestamps` adds `created_at` and `updated_at`. These special columns are automatically managed by AR if they exist.
 
 ## Creating a Migration
 
-Migrations are stored as files in the db/migrate directory, one for each migration class.
+Migrations are stored as files in the `db/migrate` directory, one for each migration class.
 
 The name of the file is of the form `YYYYMMDDHHMMSS_create_products.rb`, that is to say a UTC timestamp identifying the migration followed by an underscore followed by the name of the migration.
 

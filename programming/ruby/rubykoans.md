@@ -4,7 +4,7 @@ Nil is an object.
     nil.to_f = 0.0
     nil.to_i = 0
 
-When a method doesn't exist you get teh `NoMethodError` with the `undefined_method` message.
+When a method doesn't exist you get the `NoMethodError` with the `undefined_method` message.
 
     nil.inspect == "nil"
 
@@ -84,4 +84,130 @@ OOP: Nested class wins over inheritance
 ## Exceptions
 
 SpecificError -> StandardError -> Exception -> Object
+
+Raising and rescuing an error: 
+    
+    raise MySpecialError, "MyMessage"
+    rescue MySpecialError => ex
+        result = :exception_handled
+    end
+
+    result = :exception_handled
+    ex.message = "My Message"
+
+## Iteration
+
+- Use `break` to break lol
+- Don't forget `select`
+- Difference between `each` and `map`, and `map`/`collect` are the same thing
+- Inject is fucking awesome
+- Iteration methods such as `map` also work on ranges. But they become arrays after you do the method.
+
+## Blocks
+- `block_given?` to check if block exists.
+- Blocks can affect variables in the code where they are created
+
+### Calling the lambdas
+
+    add_one = lambda { |n| n + 1}
+
+    add_one.call(10) -> Execute with argument 10
+    add_one[10]
+
+## About sandwich code
+
+The `count_lines` and `find_line` are similar, and yet different.
+They both follow the pattern of "sandwich code".
+
+Sandwich code is code that comes in three parts: (1) the top slice
+of bread, (2) the meat, and (3) the bottom slice of bread.  The
+the bread part of the sandwich almost always goes together, but
+the meat part changes all the time.
+
+Because the changing part of the sandwich code is in the middle,
+abstracting the top and bottom bread slices to a library can be
+difficult in many languages.
+
+> Old
+ 
+    def count_lines(file_name)
+      file = open(file_name)
+      count = 0
+      while line = file.gets
+        count += 1
+      end
+      count
+    ensure
+      file.close if file
+    end
+
+> New
+
+    def file_sandwich(file_name)
+      file = open(file_name)
+      yield(file)
+    ensure
+      file.close if file
+    end
+
+    # Now we write:
+
+    def count_lines2(file_name)
+      file_sandwich(file_name) do |file|
+        count = 0
+        while line = file.gets
+          count += 1
+        end
+        count
+      end
+    end
+
+## About Classes
+
+    fido.instance_variables # Get all SET na instance variables
+
+`attr_accessor :name` makes the methods `name=` and `name` available.
+
+`array`.to_s => Converts everything to the `to_s` value and creates an array of the kung ano man
+
+## Modules
+
+You can't instantiate modules.
+
+Class methods override module methods.
+
+## Scope
+- If scope is not found, raise `NameError`.
+- Constants begin with a capital letter. Doesn't matter what the other letters are, they will be constants.
+
+## Class Methods
+- Possible to define methods on classes: `def Dog2.wag end`
+- Possible to call class method from the instance
+
+## About Message Passing
+`send` invokes the method identified by symbol, passing it any arguments specified. You can use __send__ if the name send clashes with an existing method in obj. When the method is identified by a string, the string is converted to a symbol.
+
+`send` is used if you don't know in advance the name of the method, such as when you're doing metaprogramming. Or you can do it for calls to private methods (not recommended).
+
+It is convenient when you want to route different methods on the same receiver and/or arguments. If you have some_object, and want to do different things on it depending on what foo is.
+
+Sending with arguments
+
+    class MessageCatcher
+      def add_a_payload(*args)
+        args
+      end
+    end
+
+    mc.add_a_payload(3, 4, nil, 6)
+    mc.send(:add_a_payload, 3, 4, nil, 6)
+
+Method missing: Do this to avoid shit
+
+    class AllMessageCatcher
+      def method_missing(method_name, *args, &block)
+        # this becomes the returned thing
+        "Someone called #{method_name} with <#{args.join(", ")}>"
+      end
+    end
 

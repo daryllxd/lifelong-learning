@@ -6,14 +6,14 @@ __Don't refactor code that doesn't have tests.__
 > Local variable `orders_within_range`, select. Extract temp to query.
 
 - 2 methods of 1 line are usually better than 1 method with 2 lines.
-- Put inside the private keyword, so it is easier to read because you know it's not important. This is like a hint because you say that `orders_within_range` is not part of the core functionality of the class.
+- Put the unimportant stuff inside the `private` keyword, so it is easier to read because you know it's not important. This is like a hint because you say that `orders_within_range` is not part of the core functionality of the class.
 - We've also encouraged reuse.
 - I would do this right away as opposed to waiting for stuff.
-- Almost no temp methods within the method, I extract them out to query methods that are private, because methods should have one job, and when I see a local within a method, it's a hint that there's probably 2 jobs.
+- Almost no temp methods within the method, I extract them out to query methods that are private, because __methods should have one job, and when I see a local within a method, it's a hint that there's probably 2 jobs.__
 - I'm fond of a class with small publics and long privates. But most probably if there are a ton of private methods, then there's a class that should be placed there.
 - I won't hesitate to pull stuff out anyway.
-- Recalculating stuff sucks but I need to see performance numbers first before I start to cache stuff, that is premature optimization.
-- If I extract private method to new class isn't it coupled. I am very likely to extract a class to reuse stuff. If it is reused just one time, then I would make a private class. But I'm not concerned with the dependency because some classes are supposed to be used together anyway.
+- 2 database queries sucks but __I need to see performance numbers first before I start to cache stuff, that is premature optimization.__
+- If I extract private method to new class isn't it coupled? I am very likely to extract a class to reuse stuff. If it is reused just one time, then I would make a private class. But I'm not concerned with the dependency because some classes are supposed to be used together anyway.
 - Fan out vs fan in, better to have a class be used by many classes than a class uses many other classes
 - I like classes to not care about what's coming in, make them context free.
 
@@ -64,7 +64,7 @@ The two a re coupled because `print_to_console` needs to know shit about `notify
 
 So it's hard to change. BTW, the more parameters you have, the more things you have for parameter coupling.
 
-__There are no arguments in OOP when you have local methods that work on instance data.__ 
+__Better to have local methods work on instance data so there are no arguments (in OOP).__ 
 
 I would actually like if initialize is stupid and just assigns data, no calculations. It's easier to read that way.
 
