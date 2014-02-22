@@ -32,9 +32,6 @@ These imply a life change: Marriage, or something smaller. Remember + Motivation
 
 Simplify the behavrio. Ex: Consuming flaxseed oil. explain where flax seed oil is kept in the grocery store, and give suggestions how to use this oil. INSTRUCTIONS AND SIMPLIFICATION ARE VITAL FOR MOST GREEN PATH BEHAVIORS.
 
-
-
-
 Blippy: Define the goal: Encourage users to visit the site regularly. Green because usually has never done it before. This is needed in social networks.
 
 Simplicity factor: Easy, allows you to link to existing accounts. Trigger: Reminder to share an account every time you login Blippy.
@@ -46,32 +43,3 @@ Missing factor: Motivation.
 - Why simple? To build an active online community, Blippy only needs users to link their credit card or other online account.
 
 You turn an existing behavior, shopping, into a social behavior. Information trigger: Homepage page defaults to feed of friends' purchases.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

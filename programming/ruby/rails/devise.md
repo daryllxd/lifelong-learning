@@ -18,3 +18,7 @@ Devise is a flexible authentication solution for Rails based on Warden.
 #### Getting started
 
     gem 'devise'
+    $ rg devise:install
+    $ rg devise MODEL # it is usually user
+    $ rdm
+    config.action_mailer.default_url_options = { host: 'localhost:3000' }
