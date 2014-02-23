@@ -1,3 +1,4 @@
+    history     # List last commands
     !!          # Repeat last command
     Ct-L        # Clear terminal
     Ct-A        # Cursor to start of line
