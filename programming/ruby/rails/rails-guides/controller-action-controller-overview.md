@@ -10,7 +10,7 @@ A controller can thus be thought of as a middle man between models and views. It
 
 Pluralized: ClientsController, SiteAdminsController
 
-Following this convention will allow you to use the default route generators (e.g. resources, etc) without needing to qualify each :path or :controller, and keeps URL and path helpers' usage consistent throughout your application..
+Following this convention will allow you to use the default route generators (e.g. resources, etc) without needing to qualify each :path or :controller, and keeps URL and path helpers' usage consistent throughout your application.
 
 ## Methods and Actions
 

@@ -15,10 +15,12 @@ A tmux session is a container for windows and panes. A window contains one or mo
 
 #### Scrolling
     
+    Ctrl+b [                    # Enter scroll mode
     Shift-Page Up               # Scroll up
 
 #### Sessions
-    
+
+    $ tmux new -s session_name  # Create session    
     $ tmux attach -t NAME       # Attach session with session name
     $ tmux kill-session -t 0    # Kill lol
     Ctrl+B d                    # Detach session

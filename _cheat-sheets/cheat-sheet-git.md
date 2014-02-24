@@ -1,3 +1,5 @@
+# Reader's note. I think Git's UI is a clusterfuck
+
 ## git
 
 To git out of the vim thing (huehue): "q" 
@@ -12,6 +14,10 @@ To git out of the vim thing (huehue): "q"
 > Cloning from BB
 
     $ git clone https://daryllxd@bitbucket.org/icanpassaccounting/icpa.git icpa_redesign
+
+#### Unstaging the changes
+
+    $ git reset --hard COMMIT_ID && git clean -f
 
 #### Branches
 
