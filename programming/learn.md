@@ -9,3 +9,5 @@
 > Controller structure: Home has its own controller (no model, show action only). Dashboard has its own controller (no model, show action only).
 > Controllers need not be connected to models.
 > render text: "DO the text". That's the right syntax.
+> Setting up devise via migration, then the initializers, then the views in the folder,
+> First time to do the seeding thing on Rails. JESUS CHRIST DO NOT FORGET THE PRIMARY KEY.

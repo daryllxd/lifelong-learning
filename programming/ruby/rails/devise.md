@@ -25,7 +25,7 @@ Devise is a flexible authentication solution for Rails based on Warden.
 
 # Learning Devise for Rails
 
-## Devise – Authentication Solution for Ruby on Rails
+## 1: Devise – Authentication Solution for Ruby on Rails
 
 #### What Pageantus Needs
 
@@ -76,3 +76,70 @@ Basically what happens here is that this method is already known to devise. It p
 - `current_user`: SE
 - `user_signed_in?`: A bit SE as well.
 - `user_session[:hello] = "world"`: A session variable that contains the subset of RoR session data.
+
+## 2: Authenticating Your Application with Devise
+
+#### Signing in using authentication other than e-mails
+
+    $ rg migration add_username_to_users username:string
+
+Then you modify Devise's configuration file at `c/i/devise.rb` and add these:
+
+    config.authentication_keys = [:username]
+    config.case_insensitive_keys = [:username]
+    config.strip_whitespace_keys = [:username]
+
+Now, to override the Devise views.
+
+- Sign in page template is in `a/v/devise/sessions/new.html.erb.`
+- Sign up template is in `a/v/devise/registrations/new.html.erb.`
+
+Then, modify `a/c/application_controller.rb` to permit the usernames and shit.
+    
+    #these codes are written inside configure_permitted_parameters function
+    devise_parameter_sanitizer.for(:sign_in) {|u| u.permit(:email, :username)}
+    devise_parameter_sanitizer.for(:sign_up) {|u|
+    u.permit(:email, :username, :password, :password_confirmation)}
+
+Then, modify `a/m/user.rb` and add this.
+
+    attr_accessor :signin
+
+Then, modify `config.authentication_keys` to include `[ :signin ]`
+
+    config.authentication_keys = [ :signin ]
+
+Then, override Devise's lookup function in the user_model.
+
+>Model class
+
+    def self.find_first_by_auth_conditions(warden_conditions)
+          conditions = warden_conditions.dup
+          where(conditions).where(["lower(username) = :value OR lower(email)
+            = :value", { :value => signin.downcase }]).first
+    end
+
+Then modify view to change it to `signin`
+
+> a/v/devise/sessions/new.html.erb
+
+    <div><%= f.label "Username or Email" %><br />
+    <%= f.text_field :signin, :autofocus => true %></div>
+
+#### Other modules
+
+Updating the user account [TODO]
+
+Signing up the user with confirmation [TODO]
+
+Resetting your password: Devise already has this. 
+
+Cancelling an account: [TODO]
+
+#### Customizing Devise actions and routes [TODO]
+
+#### Integrating Devise with Mongoid
+
+## 3: Privileges [TODO]
+
+## 4: Omniauth [TODO]
