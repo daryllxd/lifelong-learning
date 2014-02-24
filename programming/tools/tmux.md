@@ -13,6 +13,10 @@ A tmux session is a container for windows and panes. A window contains one or mo
     $ cd APP_ROOT
     $ tmux                      # This will be the edit window for the session
 
+#### Scrolling
+    
+    Shift-Page Up               # Scroll up
+
 #### Sessions
     
     $ tmux attach -t NAME       # Attach session with session name

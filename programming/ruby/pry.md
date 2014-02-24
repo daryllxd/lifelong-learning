@@ -53,3 +53,9 @@ options:
     -i, --ivars          Show instance variables (in blue) and class variables (in bright blue)
     -G, --grep           Filter output by regular expression
     -h, --help           Show help
+
+## Rails Conf 2013 Pry-- The Good Parts! by Conrad Irwin
+
+Devs spend 60% of the time is spent debugging.
+
+Pry's variable on last output: `_`.
