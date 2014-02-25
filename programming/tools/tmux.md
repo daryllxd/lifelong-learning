@@ -25,17 +25,23 @@ A tmux session is a container for windows and panes. A window contains one or mo
     $ tmux kill-session -t 0    # Kill lol
     Ctrl+B d                    # Detach session
 
-#### Panes
+#### Panes. Prefix: `Ctrl+B`
 
-    Ctrl+B %                    # Horizontal split.
-    Ctrl+B "                    # Vertical split.
-    Ctrl+B Up, Down...          # Navigate panes.
-    Ctrl+B o                    # Swap panes.
-    Ctrl+B x                    # Kill pane.
-    Ctrl+B z                    # Toggle pane into full screen.
-    Ctrl+B q                    # Show pane numbers
+    %                           # Horizontal split.
+    "                           # Vertical split.
+    Up, Down...                 # Navigate panes.
+    o                           # Swap panes.
+    x                           # Kill pane.
+    z                           # Toggle pane into full screen.
+    q                           # Show pane numbers
+    {                           # Move pane left
+    }                           # Move pane right
     
 #### Windows
 
     Ctrl+B c                    # Open a new window.
     Ctrl+B 0,1                  # Jump windows.
+
+## Humans Present: tmux
+
+Panes + scriptability.

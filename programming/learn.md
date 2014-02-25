@@ -11,3 +11,20 @@
 > render text: "DO the text". That's the right syntax.
 > Setting up devise via migration, then the initializers, then the views in the folder,
 > First time to do the seeding thing on Rails. JESUS CHRIST DO NOT FORGET THE PRIMARY KEY.
+> Testing thing sa thoughtbot: CodeClimate, simplecov if env["coverage"]. Requires: rspec/autorun, rspec/rails, paperclip/matchers, webmock/rspec, clearance/testing
+> FakeStripeRunnner, FakeGithubRunner, Capybara js driver = webkit. Mocks: Mocha.
+> FactoryGirl+Faker: Require the Faker (or FFaker) at top. Also, FFaker still uses Faker in the factories themselves.
+> No need to restart guard when FG has been modified.
+> Iba yung `user_session_path` sa `new_user_session_path`
+> Important thing for devise:
+
+    <%= form_for(:user, :url => session_path(:user)) do |f| %>
+      <%= f.text_field :email %>
+      <%= f.password_field :password %>
+      <%= f.check_box :remember_me %>
+      <%= f.label :remember_me %>
+      <%= f.submit 'Sign in' %>
+      <%= link_to "Forgot your password?", new_password_path(:user) %>
+    <% end %>
+
+ 
