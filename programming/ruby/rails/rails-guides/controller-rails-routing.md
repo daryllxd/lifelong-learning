@@ -43,6 +43,8 @@ These paths are created, too.
 
 #### Singular Resources [TODO]
 
+	get 'profile', to: 'users#show'
+
 #### Controller Namespaces and Routing [TODO]
 
 #### Nested Resources

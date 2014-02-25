@@ -28,3 +28,15 @@
     <% end %>
 
  
+2-25
+> High voltage for a cleaner static pages controller/route action.
+> Padding library is in neat. neat has a gem too
+> Email kasi, hindi email address!!!
+> Rspec support modules need to be included in the spec_helper file.
+> structure of sign in helpers and factory I sort of know now
+> Don't make nested namespaces and attempt to include all of them, that doesn't make sense lol.
+> Don't forget the `it` block, you end up with weird `undefined method get` and `undefined method response`.
+> If you don't put the controller spec in the spec/controllers directory, you will need to specify `:type => controller` in the describe block at the start.
+> Always work in the feature branch and merge from main. If you are on main then you have to delete the feature branch again.
+> Though it is expected that you have to try `expect` syntax in Rspec, you can still use the `should` syntax and the `shoulda_matchers` gem. You don't need to always use the "convention".
+
