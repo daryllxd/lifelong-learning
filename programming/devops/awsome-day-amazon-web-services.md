@@ -1,3 +1,4 @@
+Denny: dennyd@amazon.com
 
 Is our case a good use case for EC2/S3?
 When do we know when to ues the scaling, how do we compute this?
@@ -135,4 +136,8 @@ Security group = security around the EC2 instance. Second level: NACLs. Third: V
 - Create and manage AWS users and groups and user permissiosn to allows and deny their permissions to AWS resources.
 
 ## Amazon Elastic Beanstalk
-- You don't know how popular the application is going to be. The Elastic Beanstalk will 
+- You don't know how popular the application is going to be. The Elastic Beanstalk will.
+
+## Cloud Formation
+- There are samples online. The templates are JSON-based. So you are able to make your application online already.
+- Curiosity's image processing service runs on AWS simple workflow services.

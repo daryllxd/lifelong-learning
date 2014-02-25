@@ -67,163 +67,22 @@ When you think about it, the true cost of meetings is staggering. Let's say you'
 
 ## COMPETITORS 
 
-1. Don't copy. It's tempting to try to build a business by being a copycat. That's a formula for failure, though. The problem with this sort of copying is it skips understanding--and understanding is how you grow. You have to understand why something works or why something is the way it is. When you just copy and paste, you miss that. You just repurpose the last layer instead of understanding all the layers underneath.
+1. Don't copy. The problem with this sort of copying is it skips understanding--and understanding is how you grow. You have to understand why something works or why something is the way it is. When you just copy and paste, you miss that. So much of the work an original creator puts into something is invisible. Plus, if you're a copycat, you can never keep up. You're always in a passive position. How do you know if you're copying someone? If someone else is doing the bulk of the work, you're copying. Be influenced, but don't steal.
+2. Decommoditize your product. But there's a great way to protect yourself from copycats: Make you part of your product or service. Inject what's unique about the way you think into what you sell. Zappos sets itself apart by injecting CEO Tony Hsieh's obsession with customer service into everything it does. Pour yourself into your product and everything around your product too: how you sell it, how you support it, how you explain it, and how you deliver it.
+3. Pick a fight. If you think a competitor sucks, say so. When you do that, you'll find that others who agree with you will rally to your side. Having an enemy gives you a great story to tell customers, too. Taking a stand always stands out. And that's a good way to get people to take notice. 
+4. Underdo your competition. When you get suckered into an arms race, you wind up in a never-ending battle that costs you massive amounts of money, time, and drive. And it forces you to constantly be on the defensive, too. Defensive companies can't think ahead; they can only think behind. Do less than your competitors to beat them. Solve the simple problems and leave the hairy, difficult, nasty problems to the competition.
+5. Who cares what they're doing? In the end, it's not worth paying much attention to the competition anyway. It's a terrible mindset that leads to stress and anxiety. It's a pointless exercise anyway. The competitive landscape changes all the time. Your competitor tomorrow may be completely different from your competitor today. It's out of your control. What's the point of worrying about things you can't control? 
 
-So much of the work an original creator puts into something is invisible. It's buried beneath the surface. The copycat doesn't really know why something looks the way it looks or feels the way it feels or reads the way it reads. The copy is a faux finish. It delivers no substance, no understanding, and nothing to base future decisions on.
+## Evolution
 
-Plus, if you're a copycat, you can never keep up. You're always in a passive position. You never lead; you always follow. You give birth to something that's already behind the times--just a knockoff, an inferior version of the original. That's no way to live. 
+1. Say no by default. Use the power of no to get your priorities straight. You rarely regret saying no. Making a few vocal customers happy isn't worth it if it ruins the product for everyone else. Don't be a jerk about saying no, though. Just be honest. If you're not willing to yield to a customer request, be polite and explain why.
+2. Let your customers outgrow you. We'd rather our customers grow out of our products eventually than never be able to grow into them in the first place.  When you let customers outgrow you, you'll most likely wind up with a product that's basic--and that's fine. There are always more people who are not using your product than people who are. Make sure you make it easy for these people to get on board.
+3. Be at-home good. When you get the product home, you're actually more impressed with it than you were at the store. A product that executes on the basics beautifully may not seem as sexy as competitors loaded with bells and whistles.  You can't paint over a bad experience with good advertising or marketing.
+4. Don't write it down. Listen, but then forget what people said. The requests that really matter are the ones you'll hear over and over. Your customers will be your memory. They'll keep reminding you. They'll show you which things you truly need to worry about.
 
-How do you know if you're copying someone? If someone else is doing the bulk of the work, you're copying. Be influenced, but don't steal.
+## Promotion
 
-####  Decommoditize your product 
-
-But there's a great way to protect yourself from copycats: Make you part of your product or service. Inject what's unique about the way you think into what you sell. Decommoditize your product. Make it something no one else can offer.
-
-Look at Zappos.com, a billion-dollar online shoe retailer. A pair of sneakers from Zappos is the same as a pair from Foot Locker or any other retailer. But Zappos sets itself apart by injecting CEO Tony Hsieh's obsession with customer service into everything it does.
-
-Pour yourself into your product and everything around your product too: how you sell it, how you support it, how you explain it, and how you deliver it. Competitors can never copy the you in your product. 
-
-####  Pick a fight 
-
-If you think a competitor sucks, say so. When you do that, you'll find that others who agree with you will rally to your side. Being the anti-______ is a great way to differentiate yourself and attract followers.
-
-For example, Dunkin' Donuts likes to position itself as the anti-Starbucks. Its ads mock Starbucks for using "Fritalian" terms instead of small, medium, and large. Another Dunkin' campaign is centered on a taste test in which it beat Starbucks. There's even a site called DunkinBeatStarbucks.com where visitors can send e-cards with statements like "Friends don't let friends drink Starbucks."
-
-Having an enemy gives you a great story to tell customers, too. Taking a stand always stands out. People get stoked by conflict. They take sides. Passions are ignited. And that's a good way to get people to take notice. 
-
-#### Underdo your competition. 
-
-Conventional wisdom says that to beat your competitors, you need to one-up them. If they have four features, you need five (or fifteen, or twenty-five). If they're spending $20,000, you need to spend $30,000. If they have fifty employees, you need a hundred.
-
-When you get suckered into an arms race, you wind up in a never-ending battle that costs you massive amounts of money, time, and drive. And it forces you to constantly be on the defensive, too. Defensive companies can't think ahead; they can only think behind. They don't lead; they follow.
-
-So what do you do instead? Do less than your competitors to beat them. Solve the simple problems and leave the hairy, difficult, nasty problems to the competition. Instead of one-upping, try one-downing. Instead of outdoing, try underdoing.
-
-Don't shy away from the fact that your product or service does less. Highlight it. Be proud of it. Sell it as aggressively as competitors sell their extensive feature lists. 
-
-####  Who cares what they're doing? 
-
-In the end, it's not worth paying much attention to the competition anyway. Why not? Because worrying about the competition quickly turns into an obsession. 
-
-It's a terrible mindset that leads to stress and anxiety. That state of mind is bad soil for growing anything.
-
-It's a pointless exercise anyway. The competitive landscape changes all the time. Your competitor tomorrow may be completely different from your competitor today. It's out of your control. What's the point of worrying about things you can't control? 
-
-Focus on yourself instead. What's going on in here is way more important than what's going on out there. When you spend time worrying about someone else, you can't spend that time improving yourself.
-
-Don't ask yourself whether you're "beating" Apple (or whoever the big boy is in your industry). That's the wrong question to ask. It's not a win-or-lose battle. Their profits and costs are theirs. Yours are yours.
-
-## EVOLUTION
-
-#### Say no by default
-
-Start getting into the habit of saying no--even to many of your best ideas. Use the power of no to get your priorities straight. You rarely regret saying no. But you often wind up regretting saying yes. 
-
-People avoid saying no because confrontation makes them uncomfortable. But the alternative is even worse. You drag things out, make things complicated, and work on ideas you don't believe in.
-
-It's like a relationship: Breaking one up is hard to do, but staying in it just because you're too chicken to drop the ax is even worse. Deal with the brief discomfort of 
-confrontation up front and avoid the long-term regret
-
-Don't believe that "customer is always right" stuff, either. Let's say you're a chef. 
-If enough of your customers say your food is too salty or too hot, you change it. But if a 
-few persnickety patrons tell you to add bananas to your lasagna, you're going to turn 
-them down, and that's OK. Making a few vocal customers happy isn't worth it if it ruins 
-the product for everyone else
-
-Don't be a jerk about saying no, though. Just be honest. If you're not willing to 
-yield to a customer request, be polite and explain why. People are surprisingly 
-understanding when you take the time to explain your point of view. You may even win 
-them over to your way of thinking. If not, recommend a competitor if you think there's a 
-better solution out there. It's better to have people be happy using someone else's product 
-than disgruntled using yours
-
-Your goal is to make sure your product stays right for you. You're the one who 
-has to believe in it most. That way, you can say, "I think you'll love it because I love it."
-
-####  Let your customers outgrow you 
-
-After our first product had been around for a while, we started getting some heat 
-from folks who had been with us from the beginning. They said they were starting to 
-grow out of the application. Their businesses were changing and they wanted us to 
-change our product to mirror their newfound complexity and requirements.
-
-We said no. Here's why: We'd rather our customers grow out of our products 
-eventually than never be able to grow into them in the first place. Adding power-user 
-features to satisfy some can intimidate those who aren't on board yet. Scaring away new 
-customers is worse than losing old customers. 
-
-When you let customers outgrow you, you'll most likely wind up with a product 
-that's basic--and that's fine. Small, simple, basic needs are constant. There's an endless 
-supply of customers who need exactly that.
-
-And there are always more people who are not using your product than people 
-who are. Make sure you make it easy for these people to get on board. That's where your 
-continued growth potential lies.
-
-####  Don't confuse enthusiasm with priority 
-
-The enthusiasm you have for a new idea is not an accurate indicator of 
-its true worth. What seems like a sure-fire hit right now often gets downgraded to just a 
-"nice to have" by morning. And "nice to have" isn't worth putting everything else on 
-hold. 
-
-We have ideas for new features all the time. On top of that, we get dozens of 
-interesting ideas from customers every day too. Sure, it'd be fun to immediately chase all 
-these ideas to see where they lead. But if we did that, we'd just wind up running on a 
-treadmill and never get anywhere.
-
-####  Be at-home good 
-
-Smart companies make the opposite: something that's at-home good. When you 
-get the product home, you're actually more impressed with it than you were at the store. You live with it and grow to like it more and more. And you tell your friends, too. 
-
-A product that executes on the basics beautifully may not seem as sexy as 
-competitors loaded with bells and whistles. Being great at a few things often doesn't look 
-all that flashy from afar. That's OK. You're aiming for a long-term relationship, not a 
-one-night stand.
-
-This is as true for advertising as it is for in-store packaging or displays. We've all 
-seen a TV ad for some "revolutionary" gadget that will change your life. But when the 
-actual product arrives in the mail, it turns out to be a disappointment. In-media good isn't 
-nearly as important as at-home good. You can't paint over a bad experience with good 
-advertising or marketing.
-
-#### Don't write it down 
-
-. Listen, but then 
-forget what people said. Seriously. 
- There's no need for a spreadsheet, database, or filing system. The requests that 
-really matter are the ones you'll hear over and over. After a while, you won't be able to 
-forget them. Your customers will be your memory. They'll keep reminding you. They'll 
-show you which things you truly need to worry about.
-
-## PROMOTION
-
-####  Welcome obscurity 
-
-No one knows who you are right now. And that's just fine. Being obscure is a 
-great position to be in. Be happy you're in the shadows. Use this time to make mistakes without the whole world hearing about them. 
-Keep tweaking. Work out the kinks. Test random ideas. Try new things. No one knows 
-you, so it's no big deal if you mess up. Obscurity helps protect your ego and preserve 
-your confidence.
-
-Retailers experiment with test markets all the time for this reason. When Dunkin' Donuts thought about selling pizza, hot dogs, and other hot sandwiches, it test-marketed 
-the products at just ten select locations.
-
-Would you want the whole world to watch you the first time you do anything? If 
-you've never given a speech before, do you want your first speech to be in front of ten 
-thousand people or ten people? You don't want everyone to watch you starting your 
-business. It makes no sense to tell everyone to look at you if you're not ready to be looked 
-at yet.
-
-And keep in mind that once you do get bigger and more popular, you're inevitably 
-going to take fewer risks. When you're a success, the pressure to maintain predictability 
-and consistency builds. You get more conservative. It's harder to take risks. That's when 
-things start to fossilize and change becomes difficult
-
-These early days of obscurity are something you'll miss later on, when you're 
-really under the microscope. Now's the time to take risks without worrying about 
-embarrassing yourself
+1. Welcome obscurity. Being obscure is a great position to be in. Use this time to make mistakes without the whole world hearing about them. Obscurity helps protect your ego and preserve your confidence. Would you want the whole world to watch you the first time you do anything? If you've never given a speech before, do you want your first speech to be in front of ten thousand people or ten people? You don't want everyone to watch you starting your business. It makes no sense to tell everyone to look at you if you're not ready to be looked at yet. And keep in mind that once you do get bigger and more popular, you're inevitably going to take fewer risks. When you're a success, the pressure to maintain predictability and consistency builds. You get more conservative. It's harder to take risks. That's when things start to fossilize and change becomes difficult These early days of obscurity are something you'll miss later on, when you're really under the microscope. Now's the time to take risks without worrying about embarrassing yourself
 
 ####  Build an audience 
 
@@ -488,8 +347,7 @@ other hand, if your gut is telling you there's a chance at a real match, then mo
 interview stage
 
 ####  Years of irrelevance 
-
-Of course, requiring some baseline level of experience can be a good idea when 
+ Of course, requiring some baseline level of experience can be a good idea when
 hiring. It makes sense to go after candidates with six months to a year of experience. It 
 takes that long to internalize the idioms, learn how things work, understand the relevant 
 tools, etc. 
