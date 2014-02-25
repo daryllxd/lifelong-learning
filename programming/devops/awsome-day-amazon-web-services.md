@@ -133,3 +133,6 @@ Security group = security around the EC2 instance. Second level: NACLs. Third: V
 
 ## AWS Identity and Access Management
 - Create and manage AWS users and groups and user permissiosn to allows and deny their permissions to AWS resources.
+
+## Amazon Elastic Beanstalk
+- You don't know how popular the application is going to be. The Elastic Beanstalk will 
