@@ -1,3 +1,16 @@
+Summary
+
+1. Ignore the real world: The real world isn't a place, it's an excuse. It's a justification for not trying. It has nothing to do with you.
+2. Learning from mistakes is overrated: You need to learn from your mistakes. You might learn what not to do again, but how valuable is that? Success gives you real ammunition. When something succeeds, you know what worked--and you can do it again. You still don't know what you should do next. Success is the experience that actually counts.
+3. Planning is guessing. Start referring to your business plans as business guesses, your financial plans as financial guesses, and your strategic plans as strategic guesses. Now you can stop worrying about them as much. They just aren't worth the stress. It's OK to wing it.
+4. Why grow? Why is expansion always the goal? Grow slow and see what feels right--premature hiring is the death of many companies.
+5. Workaholism. Working more doesn't mean you care more or get more done. It just means you work more. It is not sustainable. Workaholics don't save the day, they just use it up.
+6. Make a dent in the universe. This is your life's work. Do you want to build just another me-too product or do you want to shake things up? What you do is your legacy.
+7. Scratch your own itch. When you build a product or service, you make the call on hundreds of tiny decisions each day. If you're solving someone else's problem, you're constantly stabbing in the dark. When you solve your own problem, the light comes on. You know exactly what the right answer is.
+8. Draw a line in the sand. A strong stand is how you attract superfans. You'll turn some people off. That's life. We're willing to lose some customers if it means that others love our products intensely. That's our line in the sand.
+9. Outside money is Plan Z. We're in a service economy now. If you're running a business like that, avoid outside funding. Spending other people's money may sound great, but there's a noose attached. Here's why: You give up control. "Cashing out" begins to trump building a quality business. You wind up building what investors want instead of what customers want. Raising money is incredibly distracting. Seeking funding is difficult and draining.
+10. You need less than you think.
+
 ## REWORK  
 
 We started out in 1999 as a three-person Web-design consulting firm. In 2004, we weren't happy with the project-management software used by the rest of the industry, so we created our own: Basecamp. When we showed the online tool to clients and colleagues, they all said the same thing: "We need this for our business too." Five years later, Basecamp generates millions of dollars a year in profits.
@@ -22,7 +35,7 @@ Failure is not a prerequisite for success. A Harvard Business School study found
 
 Success is the experience that actually counts. That shouldn't be a surprise: It's exactly how nature works. Evolution doesn't linger on past failures, it's always building upon what worked. So should you.
 
-####  Planning is guessing 
+#### Planning is guessing 
 
 Why don't we just call plans what they really are: guesses. Start referring to your business plans as business guesses, your financial plans as financial guesses, and your strategic plans as strategic guesses. Now you can stop worrying about them as much. They just aren't worth the stress.
 
@@ -34,25 +47,13 @@ It's OK to wing it. Just get on the plane and go. You can pick up a nicer shirt,
 
 ####  Why grow? 
 
-Why is that? What is it about growth and business? Why is expansion always the 
-goal? What's the attraction of big besides ego? (You'll need a better answer than 
-"economies of scale.") What's wrong with finding the right size and staying there?
+Why is that? What is it about growth and business? Why is expansion always the goal? What's the attraction of big besides ego? (You'll need a better answer than  "economies of scale.") What's wrong with finding the right size and staying there?
 
-Grow slow and see what feels right--premature hiring is the 
-death of many companies. And avoid huge growth spurts too--they can cause you to skip 
-right over your appropriate size.
+Grow slow and see what feels right--premature hiring is the death of many companies. And avoid huge growth spurts too--they can cause you to skip right over your appropriate size.
 
-Have you ever noticed that while small businesses wish they were bigger, big 
-businesses dream about being more agile and flexible? And remember, once you get big, 
-it's really hard to shrink without firing people, damaging morale, and changing the entire 
-way you do business.
+Have you ever noticed that while small businesses wish they were bigger, big businesses dream about being more agile and flexible? And remember, once you get big, it's really hard to shrink without firing people, damaging morale, and changing the entire way you do business.
 
-Ramping up doesn't have to be your goal. And we're not talking just about the 
-number of employees you have either. It's also true for expenses, rent, IT infrastructure, 
-furniture, etc. These things don't just happen to you. You decide whether or not to take 
-them on. And if you do take them on, you'll be taking on new headaches, too. Lock in 
-lots of expenses and you force yourself into building a complex businesss--one that's a lot 
-more difficult and stressful to run
+Ramping up doesn't have to be your goal. And we're not talking just about the number of employees you have either. It's also true for expenses, rent, IT infrastructure, furniture, etc. These things don't just happen to you. You decide whether or not to take them on. And if you do take them on, you'll be taking on new headaches, too. Lock in lots of expenses and you force yourself into building a complex businesss--one that's a lot more difficult and stressful to run.
 
 #### Workaholism
 
@@ -66,31 +67,21 @@ Workaholics make the people who don't stay late feel inadequate for "merely" wor
 
 Workaholics aren't heroes. They don't save the day, they just use it up. The real hero is already home because she figured out a faster way to get things done.
 
-####  Make a dent in the universe 
+#### Make a dent in the universe 
 
 To do great work, you need to feel that you're making a difference. That you're putting a meaningful dent in the universe. That you're part of something important.
 
 This doesn't mean you need to find the cure for cancer. It's just that your efforts need to feel valuable. You want your customers to say, "This makes my life better." You want to feel that if you stopped doing what you do, people would notice.
 
-You should feel an urgency about this too. You don't have forever. This is y life's work. Do you want to build just another me-too product or do you want to shake 
-things up? What you do is your legacy. Don't sit around and wait for someone else to 
-make the change you want to see. And don't think it takes a huge team to make that 
-difference either
+You should feel an urgency about this too. You don't have forever. This is your life's work. Do you want to build just another me-too product or do you want to shake things up? What you do is your legacy. Don't sit around and wait for someone else to make the change you want to see. And don't think it takes a huge team to make that difference either.
 
 ####  Scratch your own itch 
 
-The easiest, most straightforward way to create a great product or service is to 
-make something you want to use. That lets you design what you know--and you'll figure 
-out immediately whether or not what you're making is any good.
+The easiest, most straightforward way to create a great product or service is to make something you want to use. That lets you design what you know--and you'll figure out immediately whether or not what you're making is any good.
 
-When you build a product or service, you make the call on hundreds of tiny 
-decisions each day. If you're solving someone else's problem, you're constantly stabbing 
-in the dark. When you solve your own problem, the light comes on. You know exactly 
-what the right answer is.
+When you build a product or service, you make the call on hundreds of tiny decisions each day. If you're solving someone else's problem, you're constantly stabbing in the dark. When you solve your own problem, the light comes on. You know exactly what the right answer is.
 
-Best of all, this "solve your own problem" approach lets you fall in love with what 
-you're making. You know the problem and the value of its solution intimately. There's no 
-substitute for that. After all, you'll (hopefully) be working on this for years to come.
+Best of all, this "solve your own problem" approach lets you fall in love with what you're making. You know the problem and the value of its solution intimately. There's no substitute for that. After all, you'll (hopefully) be working on this for years to come.
 
 ####  Draw a line in the sand 
 
@@ -104,7 +95,7 @@ We're willing to lose some customers if it means that others love our products i
 
 We're in a service economy now. Service businesses (e.g., consultants, software companies, wedding planners, graphic designers, and hundreds of others) don't require much to get going. If you're running a business like that, avoid outside funding.
 
-In fact, no matter what kind of business you're starting, take on as little outside cash as you can. Spending other people's money may sound great, but there's a noose attached. Here's why:You give up control. When you turn to outsiders for funding, you have to answer to them too. That's fine at first, when everyone agrees. But what happens down the road? Are you starting your own business to take orders from someone else? Raise money and that's what you'll wind up doing. "Cashing out" begins to trump building a quality business.
+In fact, no matter what kind of business you're starting, take on as little outside cash as you can. Spending other people's money may sound great, but there's a noose attached. Here's why: You give up control. When you turn to outsiders for funding, you have to answer to them too. That's fine at first, when everyone agrees. But what happens down the road? Are you starting your own business to take orders from someone else? Raise money and that's what you'll wind up doing. "Cashing out" begins to trump building a quality business.
 
 Spending other people's money is addictive. There's nothing easier than spending other people's money. But then you run out and need to go back for more. And every time you go back, they take more of your company. It's usually a bad deal. When you're just beginning, you have no leverage. That's a terrible time to enter into any financial transaction. Customers move down the totem pole. You wind up building what investors want instead of what customers want. Raising money is incredibly distracting. Seeking funding is difficult and draining. It takes months of pitch meetings, legal maneuvering, contracts, etc. That's an enormous distraction when you should really be focused on building something great.
 
@@ -1194,31 +1185,3 @@ hours. Inspiration is a time machine in that way.
  Inspiration is a magical thing, a productivity multiplier, a motivator. But it won't 
 wait for you. Inspiration is a now thing. If it grabs you, grab it right back and put it to 
 work. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
