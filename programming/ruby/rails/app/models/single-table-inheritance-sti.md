@@ -76,8 +76,41 @@ Code is cleaner, but the UsersController needs to handle two things now, Member 
       end
     end
 
+We get error on the routing (`undefined members_path`) because when we create a `Member` model it will look for a `:members` resource instead. 
 
+We can either: add a `:members` resources and set it up to that it redirects to the users controller
+  
+    resources :members, controller: users
 
+, or just make `:members` and `:guests` controllers.
+
+    resources :members  # Delete user controller and add members controller
+    resources :guests   # Same here
+
+    class MembersController < ApplicationController
+      def new
+        @user = Member.new
+      end
+
+      def create
+        @user = Member.new(params[:member])
+        if @user.save
+          current_user.move_to(@user) if current_user && current_user.guest?
+          session[:user_id] = @user.id
+          redirect_to root_url
+        else
+          render "new"
+        end
+      end
+    end
+
+    class GuestsController < ApplicationController
+      def create
+        guest = Guest.create!
+        session[:user_id] = guest.id
+        redirect_to root_url
+      end
+    end
 
 [TODO] this. I don't really understand everything.
 
