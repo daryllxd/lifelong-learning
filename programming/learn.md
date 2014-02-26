@@ -48,3 +48,5 @@
 > Arranging models: includes, constants, attrs, validations, relationships, `accepts_nested_attributes_for`
 > Feels good to regex the rework summarization thing.
 > Read up on replacing conditional with polymorphism. This will def help on the authorizations and differing user levels in Radiograph. Learned on how views are interpolated by Rails' AR.
+> Read up on STI vs. polymorphism on modelling inherited classes. Though I took a long time it is worth it, I think.
+> Read up on CanCan but I'm not going to use it yet. Primarily because there are not yet that many features.

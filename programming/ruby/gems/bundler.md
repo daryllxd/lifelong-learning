@@ -1,4 +1,4 @@
-## Bundler
+## RailsCasts: Bundler (revised)
 
 When we create a new Rails application `bundle install` or `bundle` is run so that all the gems the application depends on are installed. This includes all the gems listed in the gemfile and their dependencies.
 
