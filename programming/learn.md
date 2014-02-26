@@ -1,3 +1,5 @@
+2-24
+
 > Add spec alias for "require spec helper" and first test.
 > They took out assets group in Rails 4.
 > Outside in testing 
@@ -26,7 +28,6 @@
       <%= f.submit 'Sign in' %>
       <%= link_to "Forgot your password?", new_password_path(:user) %>
     <% end %>
-
  
 2-25
 > High voltage for a cleaner static pages controller/route action.
@@ -39,4 +40,9 @@
 > If you don't put the controller spec in the spec/controllers directory, you will need to specify `:type => controller` in the describe block at the start.
 > Always work in the feature branch and merge from main. If you are on main then you have to delete the feature branch again.
 > Though it is expected that you have to try `expect` syntax in Rspec, you can still use the `should` syntax and the `shoulda_matchers` gem. You don't need to always use the "convention".
+> Avoid nulls in a boolean column, because you have to debug it at some point. add `null: false` to the constraint.
+> Optimize for readability in the code, sometimes trying to be clever usually results in hard to read code. DRY isn't necessarily important in tests because tests are supposed to be documentation of your software.   
 
+2-26
+> Prefer Git over SVN because branches are so cheap so it is easier to do the workflow of doing stuff in the branch then moving to master afterwards.
+> Arranging models: includes, constants, attrs, validations, relationships, `accepts_nested_attributes_for`
