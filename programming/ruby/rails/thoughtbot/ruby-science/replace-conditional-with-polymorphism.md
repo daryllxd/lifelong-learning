@@ -1,4 +1,4 @@
-#### Replace Conditional with Polymorphism
+## Replace Conditional with Polymorphism
 
 OOPs like Ruby allow developers to avoid conditionals using polymorphism. Instead of conditionals, implement a method differently in different classes, adding/reusing a class for each situation.
 
@@ -74,7 +74,7 @@ __Problems:__
 2. Logic and data for summarizing every type of question and answer is jammed into the Question class. (Large Class, Obscure Code)
 3. App checkes question types multiple times. (New types will cause Shotgun Surgery)
 
-###### Replace Type Code with Subclasses
+#### Replace Type Code with Subclasses
 
 `Question` is an AR:Base. If we want to create subclasses, we have to tell AR which subclass to instantiate when it fetches records from the `Questions` table. Rails uses Single Table Inheritance here.
 
@@ -127,4 +127,68 @@ It is Rails convention to use the `type` column to base on STI. Since we already
  
     class ScaleQuestion < Question 
     end
+
+Since Rails generates URLS and local variable names for partials based on class names, we need to update some references.
+
+> Old
+
+    <%= form_for @question do |form| %>
+
+> New
+
+    <%= form_for @question, as: :question do |form| %>
+
+Otherwise, it will generate `/open_questions` as URL instead of `/questions`.
+
+Then, build the appropraite subclass in the controller instead of question.
+
+> a/c/questions_controller.rb
+    
+    def build_question
+        @question = type.constantize.new(question_params) 
+        @question.survey = @survey
+    end
+
+    def type 
+        params[:question][:type]
+    end
+
+#### Extracting Type-Specific Code
+
+    def summary
+        case question_type 
+        when 'MultipleChoice'
+            summarize_multiple_choice_answers
+        when 'Open' 
+            summarize_open_answers
+        when 'Scale' 
+            summarize_scale_answers
+        end 
+    end
+
+First, it is good that we already used the __Extract Method__ to move each path to its own method (`summarize_multiple_choice_answers`).
+
+Second, we use __Move Method__ to move the extracted method to the child classes.
+
+    class MultipleChoiceQuestion < Question 
+        def summary
+            total = answers.count
+            counts = answers.group(:text).order('COUNT(*) DESC').count 
+            percents = counts.map do |text, count|
+                percent = (100.0 * count / total).round
+                "#{percent}% #{text}" 
+            end
+            percents.join(', ') 
+        end
+    end
+
+MultipleChoiceQuestion#summary now overrides Question#summary, so the correct implementation will now be chosen for multiple choice questions.
+
+__Once every path is moved, we can remove Question#summary entirely.__
+
+The summary method is now much better. Adding new question types is easier. The new subclass will implement summary, and the Question class doesn’t need to change. The summary code for each type now lives with its type, so no one class is cluttered up with the details.
+
+#### Polymorphic Partials
+
+Remember that the views check the type before rendering a question.
 
