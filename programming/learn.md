@@ -47,3 +47,4 @@
 > Prefer Git over SVN because branches are so cheap so it is easier to do the workflow of doing stuff in the branch then moving to master afterwards.
 > Arranging models: includes, constants, attrs, validations, relationships, `accepts_nested_attributes_for`
 > Feels good to regex the rework summarization thing.
+> Read up on replacing conditional with polymorphism. This will def help on the authorizations and differing user levels in Radiograph. Learned on how views are interpolated by Rails' AR.
