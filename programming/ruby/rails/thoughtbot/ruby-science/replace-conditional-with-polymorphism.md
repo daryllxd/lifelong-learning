@@ -192,3 +192,42 @@ The summary method is now much better. Adding new question types is easier. The 
 
 Remember that the views check the type before rendering a question.
 
+We moved type-specific code into `Question` subclasses. However, moving view code would violate MVC and it would be super ugly.
+
+Rails has the ability to render views polymorphically.
+
+    <%= render @question %>
+
+This line asks @question which view to be rendered and since we subclass AR::Base, the question subclasses return a path based on their class name. This means that the above line will attempt to render `open_questions/_open_question.html.erb` for an open question, and so on.
+
+> `a/v/open_questions/_open_question.html.erb`
+
+    <%= submission_fields.text_field :text %>
+
+#### Multiple Polymorphic Views
+
+We still have this crap:
+
+    <% if @question.type == 'MultipleChoiceQuestion' -%>
+        # display stuff
+    <% end -%> 
+
+    <% if @question.type == 'ScaleQuestion' -%>
+        # display stuff
+    <% end -%>
+
+To fix this, we modify the new:
+
+> app/views/questions/new.html.erb
+ 
+    <%= render "#{@question.to_partial_path}_form", question: @question, form: form %>
+
+So that we render `a/v/open_questions/_open_question_form.html.erb`, etc.
+
+#### Drawbacks
+- Easier to add types but harder to add new behaviors
+- If you find yourself adding behaviors much more often than adding types, then look into using observer or visitor
+
+#### Next Steps
+- Check for Duplicated Code
+- Check for Shotgun Surgery
