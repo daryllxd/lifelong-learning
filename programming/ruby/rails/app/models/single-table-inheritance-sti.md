@@ -1,7 +1,5 @@
 ## Railscasts #394 STI and Polymorphic Associations
 
-#### STI
-
 Currently, we have this:
 
 > a/m/user.rb
