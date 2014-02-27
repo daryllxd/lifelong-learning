@@ -13,9 +13,13 @@ A tmux session is a container for windows and panes. A window contains one or mo
     $ cd APP_ROOT
     $ tmux                      # This will be the edit window for the session
 
+Prefix: `C-A`
+
+    r                           # Reload tmux.conf
+
 #### Scrolling
     
-    Ctrl+b [                    # Enter scroll mode
+    [                           # Enter scroll mode
     Shift-Page Up               # Scroll up
 
 #### Sessions
@@ -23,9 +27,9 @@ A tmux session is a container for windows and panes. A window contains one or mo
     $ tmux new -s session_name  # Create session    
     $ tmux attach -t NAME       # Attach session with session name
     $ tmux kill-session -t 0    # Kill lol
-    Ctrl+B d                    # Detach session
+    d                            # Detach session
 
-#### Panes. Prefix: `Ctrl+B`
+#### Panes. 
 
     %                           # Horizontal split.
     "                           # Vertical split.
@@ -39,9 +43,14 @@ A tmux session is a container for windows and panes. A window contains one or mo
     
 #### Windows
 
-    Ctrl+B c                    # Open a new window.
-    Ctrl+B 0,1                  # Jump windows.
+    c                           # Open a new window.
+    0,1                         # Jump windows.
+    ,                           # Renaming windows
+
+
 
 ## Humans Present: tmux
 
-Panes + scriptability.
+tmux over screen: Panes + scriptability. tmuxinator is a popular plugin that automates all the cycles up on it.
+
+Copy and paste in OS X is horrible.
