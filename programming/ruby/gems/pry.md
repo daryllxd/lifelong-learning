@@ -1,3 +1,17 @@
+
+# Prying a file
+
+    $ pry
+    > load "./file.rb" # Inside the file, you need to have: 
+    
+    def a
+        [1, 2, 3, 4, 5]
+    end
+
+    so you can access the vars
+    > a #=> [1, 2, 3, 4, 5]
+
+
 ## [Rubyists, It’s Time to PRY Yourself Off IRB!](http://www.sitepoint.com/rubyists-time-pry-irb/)
 
 Installation
