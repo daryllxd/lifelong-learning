@@ -47,7 +47,7 @@
 
 2-28
 > Hirb
-> 
+> The basics of Vim, vimtutor to lesson 2.
 
 
 

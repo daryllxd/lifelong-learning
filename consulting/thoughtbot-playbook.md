@@ -21,7 +21,7 @@ We want to turn false confidence into validated confidence before beginning an e
 6. __Test and Learn:__ Web app first version is in 4-6 weeks. Mobile (via HockeyApp)
 
 ## Platforms
-- For designers/developers, what's best for us? Open source with strong community, the tools make the des/devs happy, the tools make it easy to create and iterate quickly.
+For designers/developers, what's best for us? Open source with strong community, the tools make the des/devs happy, the tools make it easy to create and iterate quickly.
 
 RoR is fast to market and have a low cost of ownership because they are highly conventional. Codebases look similar to each other.
 
@@ -29,7 +29,7 @@ Big overlap among agile and Ruby communities. So TDD, OOD, and DRY. OSS: HTML, C
 
 IE 9, FF, Chrome, Safari.
 
-Mobile web app vs. native because all modern smart phones can render HTML, then we can expose API.
+Mobile web app over native because all modern smart phones can render HTML, so we can expose API.
 
 Ruby for server-side, CoffeeScript for client-side, Objective C/Cocoa for mobile.
 
@@ -37,10 +37,7 @@ Redis: Used for storing transient, high read/write data like activity feeds, tag
 
 Redis to Go on production Redis DBs.
 
-## Laptop Setup
-- Laptop github script.
-- Dotfiles.
-- Text editor: Vim.
+Laptop Setup: [Laptop github script](https://github.com/thoughtbot/laptop).
 
 ## Planning
 - Frequent release.

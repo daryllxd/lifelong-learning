@@ -1,3 +1,22 @@
+
+## Tmux: A Crash Course
+
+**tmux is aliased to t**
+
+Prefix: C-a, C-q
+
+#### Commandz
+
+    tmux list-keys                  # list keys lol
+    tmux list-commands              # list every 
+    tmux info                       # list every sesson, window, pane, pid
+    tmux source-file ~/.tmux.conf   # reload conf (aliased to prefix C-f)
+
+#### My Bindings: Check out `dotfiles/tmux.conf`.
+
+
+
+
 ## Tmux: A Simple Start
 [Link](http://www.sitepoint.com/tmux-a-simple-start/)
 
@@ -46,8 +65,6 @@ Prefix: `C-A`
     c                           # Open a new window.
     0,1                         # Jump windows.
     ,                           # Renaming windows
-
-
 
 ## Humans Present: tmux
 
