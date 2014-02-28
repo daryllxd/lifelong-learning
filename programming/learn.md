@@ -41,8 +41,13 @@
 > Including modules in controller specs.
 > Using `let` in specs.
 > The controller spec was failing because of devise!
+> Rebinding tmux.
+> Add cdpath to the shell.
+> Seth Prietsbach: THere are a lot of things to solve. As aparent you should push your kids, you are their life coach.
 
-
+2-28
+> Hirb
+> 
 
 
 
