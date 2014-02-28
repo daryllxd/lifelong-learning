@@ -13,3 +13,17 @@
 - Make friends with at least three other developers.
 - Blog every day.
 - Distinguish yourself from the applicant pool.
+
+## Don’t get blocked
+
+Every day at our stand-up, each person shares what they did the day before, what they plan to do today, and, critically, whether or not they’re blocked.
+
+Blocked is a crappy place to be. It means you’re trying to get something done but can’t. Current velocity: zero.
+
+I’ve noticed something about programmers I admire: they’re extremely good at not getting blocked.
+
+I asked him how he solved the problem I’d run into. He happily admitted he hadn’t. He’d run into that problem, spent a half hour on it, and then changed direction.
+
+The best programmers I know have a different mantra: don’t get blocked. They’re focused on moving things forward, not getting bogged down making everything perfect. They’ll duck and weave, leaping over obstacles or tunneling beneath them. They like problems too, but they like something else even more: shipping.
+
+

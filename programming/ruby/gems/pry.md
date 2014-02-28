@@ -6,8 +6,6 @@
     > show-source (might use this)
     > edit-method (wat)
 
-
-
 ## Prying a file
 
     $ pry
