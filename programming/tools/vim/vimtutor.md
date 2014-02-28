@@ -42,5 +42,3 @@ Massive undo: `U`.
 Redo: `C-R`.
 
 `^`: Move to start of line which is not whitespace.
-
-
