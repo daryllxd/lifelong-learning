@@ -48,6 +48,11 @@
 2-28
 > Hirb
 > The basics of Vim, vimtutor to lesson 2.
+> pryrc frigging works!
+> only instantiate one variable per controller.
+> Don't use models in db migrations.
+> The symlink crap.
+> Validations of `belongs_to`: the object, not the column.
 
 
 

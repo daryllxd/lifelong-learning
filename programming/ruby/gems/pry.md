@@ -1,5 +1,14 @@
 
-# Prying a file
+## Pry Rails
+    
+    > show-routes
+    > show-routes -G POST
+    > show-source (might use this)
+    > edit-method (wat)
+
+
+
+## Prying a file
 
     $ pry
     > load "./file.rb" # Inside the file, you need to have: 

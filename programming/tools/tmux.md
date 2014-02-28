@@ -14,9 +14,6 @@ Prefix: C-a, C-q
 
 #### My Bindings: Check out `dotfiles/tmux.conf`.
 
-
-
-
 ## Tmux: A Simple Start
 [Link](http://www.sitepoint.com/tmux-a-simple-start/)
 

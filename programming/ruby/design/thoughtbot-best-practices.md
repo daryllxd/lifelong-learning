@@ -3,7 +3,7 @@
 - Don't "fail silently".
 - Don't write code that guesses future functionality.
 - Exceptions: Only do it when you REALLY have to. Ex: Files. If a file "should have been there", then yes throw one. If it doesn't seem exceptional if you can't find a file, then return an error.
-- Prefer simple to easyu.
+- Prefer simple to easy.
 
 ## OOD
 - Avoid global variables, long parameter lists.
@@ -13,6 +13,13 @@
 - Small methods (1-5 lines).
 - < 100 lines.
 - TELL DON'T ASK.
+
+## HTML/CSS
+- Don't use a reset button for forms.
+- Prefer cancel links to cancel buttons.
+- Use `image-url` and `font-url`, not `url`, so asset pipeline will re-write the correct paths to assets.
+- Don't support clients w/o JS.
+- Don't support IE6 or IE7.
 
 ## Ruby
 - AVOID OPTIONAL PARAMETERS.
@@ -33,6 +40,27 @@
 - Don't use SQL outside of models.
 - `db/seeds.rb` for data required in all environments.
 
+## Testing
+- Use a single level of abstraction with scenarios.
+- Avoid `its`, `let`, `let!`, `specify`, `before`, and `subject` in Rspec.
+- Avoid using instance variables in tests.
+- Don't test private methods.
+- Use an `it` example or test method for each execution path through the method.
+
+## Testing (read this part)
+- Use assertions about state for incoming messages.
+- Use stubs and spies to assert you sent outgoing messages.
+- Use stubs and spies (not mocks) in isolated tests.
+- Use a `Fake` to stub requests to external services.
+- Test background jobs with `Delayed::Job` matcher.
+- Avoid `any_instance` in rspec-mocks and mocha.
+
+## Postgres
+- Avoid multicolumn indexes in PG.
+- Consider a partial index for queries on booleans.
+- Constain most columns as NOT NULL.
+- Index foreign keys.
+
 ## Ruby Gems
 - Dependencies in `<PROJECT_NAME>.gemspec` file.
 - Reference the `gemspec` in the `Gemfile`.
@@ -40,3 +68,13 @@
 - Bundler to manage dependencies.
 - Travis CI for CI.
 
+## Background Jobs
+- Store IDs, not AR objects for cleaner serialization, then refind the AR object in the `perform` method.
+
+## Email
+- Use SendGrid or Amazon SES to deliver email in staging/production environments.
+- Use Mailview to look at each created or update mailer view before merging.
+
+## Shell
+
+## Bash
