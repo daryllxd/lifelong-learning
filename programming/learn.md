@@ -54,6 +54,13 @@
 > The symlink crap.
 > Validations of `belongs_to`: the object, not the column.
 
+3-1
+
+3-2
+> render json: ... status: :
+> redirect_to @something, notice: 'notice is the noticed.'
+> iTerm, now my shortcut is C-A
+
 
 
 WTF is Git rebase
