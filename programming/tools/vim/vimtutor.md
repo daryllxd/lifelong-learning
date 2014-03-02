@@ -1,3 +1,13 @@
+nG – jump to line n
+L – jump to the bottom of the screen (“low”)
+H – jump to the top of the screen (“high”)
+M – jump to the middle of the screen (“middle”)
+C-o – jump back
+C-i – jump forward
+zt – move this line to the top of the screen (“top”)
+zb – move this line to the bottom of the screen (“bottom”)
+zz – move this line to the middle of the screen (“ziddle?”)
+
 To quit: `:q!`
 
 `h, j, k, l` to move
@@ -42,3 +52,14 @@ Massive undo: `U`.
 Redo: `C-R`.
 
 `^`: Move to start of line which is not whitespace.
+
+`p`: Put the previously delected text after the cursor. Use in conjunction with `dd` to paste the preivous line.
+
+Change is like delete but you go to insert mode after.
+
+`ce`: Delete until end of word and put you in insert mode.
+
+## Lesson 3 Summary
+
+- `p` to put the deleted text AFTER the cursor
+- To replace the 
