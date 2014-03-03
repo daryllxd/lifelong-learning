@@ -2,7 +2,7 @@
 
 Add this (`#!/usr/bin/env ruby`) to top of Guardfile so syntax highlighting is enabled for the Guardfile.
 
-## Guard
+## Railscasts Guard
 - Tedious to run rake command always
 - Guard is a generic way to watch files.
 - Guard-rspec, guard-cucumber
