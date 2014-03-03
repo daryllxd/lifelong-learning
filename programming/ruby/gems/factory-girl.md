@@ -59,3 +59,29 @@ Each factory has a name and set of attributes. The name is used to guess the cla
       activation_code { User.generate_activation_code }
       date_of_birth   { 21.years.ago }
     end
+
+#### Assocations + Traits
+
+    factory :medical_institution do
+      user
+      name Faker::Company.name
+      address Faker::Address.street_address
+
+      trait :without_user do
+        user nil
+      end
+
+      trait :with_plates do
+        after(:create) do |instance|
+          create_list :plate, 2, medical_institution: instance
+        end
+      end
+    end
+
+    create(:medical_institution, :without_user)
+
+#### Mix and Match
+
+    create(:todo_item, :completed, :with_comments)
+    create(:todo_item)
+    create(:todo_item, :not_completed, name: 'Pick up a bag of sugar')

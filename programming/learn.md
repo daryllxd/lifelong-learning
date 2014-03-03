@@ -62,6 +62,10 @@
 > iTerm, now my shortcut is C-A
 > iTerm: Rebind O-left and O-right by changing the profiles, they are not enabled by default.
 
+3-4
+> model before migration
+> `Post.reflect_on_all_associations`
+> force the push if BB is acting dicky
 
 
 WTF is Git rebase
