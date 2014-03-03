@@ -60,6 +60,7 @@
 > render json: ... status: :
 > redirect_to @something, notice: 'notice is the noticed.'
 > iTerm, now my shortcut is C-A
+> iTerm: Rebind O-left and O-right by changing the profiles, they are not enabled by default.
 
 
 
