@@ -67,6 +67,8 @@
 > `Post.reflect_on_all_associations`
 > force the push if BB is acting dicky
 > Add this (`#!/usr/bin/env ruby`) to top of Guardfile so syntax highlighting is enabled for the Guardfile
+> Try not have as many instance variables as possible, also add the cache
+> User params at the bottom when creating http://tutorials.jumpstartlab.com/topics/controllers/slimming_controllers.html
 
 
 WTF is Git rebase
