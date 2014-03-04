@@ -282,7 +282,7 @@ The inspired organizations, regardless of their size, follow these.
 
 If Apple was like traditional... _"Apple makes great computers. We're good at what we do.  Buy us!" "We have the best lawyers." "We have a good car."_
 
-How does Apply communicate?
+How does Apple communicate?
 
 _"Everything we do, we believe in thinking differently, and we believe in thinking outside of the status quo. We believe in great design. We just happen to make great computers, wanna buy one?"_
 
