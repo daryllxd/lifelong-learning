@@ -6,7 +6,6 @@ Controller/view are interfaces to the app. Model layer has domain concepts, logi
 
 ## [Object Oriented Rails – Writing better controllers](http://pivotallabs.com/object-oriented-rails-writing-better-controllers/)
 
-
 > Horrible
 
     class RegistrationController < ApplicationController
@@ -45,6 +44,3 @@ Controller/view are interfaces to the app. Model layer has domain concepts, logi
         render json: user
       end
     end
-
-
-
