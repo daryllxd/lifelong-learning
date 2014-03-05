@@ -1,7 +1,20 @@
 # Notes
 
-- New controller action: `resources :bids { match :retract, via : [:get, :post] }`
-- Creating a formatted link: `link_to "XML version of this auction", auction_path(@auction, :xml)`
+    link_to "Delete", auction_path(auction), method: :delete
+
+New controller action: 
+
+    resources :bids do
+        match :retract, via : [:get, :post|
+    end
+
+Creating a formatted link: `link_to "XML version of this auction", auction_path(@auction, :xml)`
+
+Method Selection:
+
+1. The default request method is GET.
+2. In a `form_tag` or `form_for`, POST will be used automatically.
+3. Specify request method (use PATCH instead of PUT).
 
 # REST, Resources, and Rails
 
@@ -15,7 +28,7 @@
 - No need to build another layer on top of HTTP.
 - Scales relatively well for big systems.
 - Encourages long-lived identifiers (URIs).
-- Machines talks by sending requests/responses represented in text, XML, graphics
+- Machines talk by sending requests/responses represented in text, XML, graphics
 
 __So what happens is when you ask a machine for a JSON representation of a resource, you'll use the same identifier every time and the same request metadata indicating that you want JSON, and you’ll get the same response.__
 
@@ -32,11 +45,9 @@ The routing system does not force you to implement your app’s CRUD functionali
 
 When you say _you created a Book resource_, what you mean is you created a Book model, book controller with CRUD, and named routes (from `resources :books`).
 
-#### From Named Routes to REST Support
-
 `get 'auctions/:id' => "auction#show", as: 'auction'` gives you `auction_path`.
 
-Rails REST routing gives you the option: `/auctions` are routed differently, depending on the HTTP verb.
+`/auctions` are routed differently, depending on the HTTP verb.
 
 The four generated routes point to seven controller actions, depending on HTTP request method. In return, you agree to use very specific names for your controller actions: index, create, show, update, destroy, new, edit.
 
@@ -48,10 +59,9 @@ The four generated routes point to seven controller actions, depending on HTTP r
 
 #### Method selection rules
 
-1. Since paths overlap, you need to specify the method to be used.
-2. The default request method is GET.
-3. In a `form_tag` or `form_for`, POST will be used automatically.
-4. Specify request method (use PATCH instead of PUT).
+1. The default request method is GET.
+2. In a `form_tag` or `form_for`, POST will be used automatically.
+3. Specify request method (use PATCH instead of PUT).
 
 Example: `link_to "Delete", auction_path(auction), method: :delete`
 
@@ -85,7 +95,7 @@ You can nest to any depth. Each level of nesting adds one to the number of argum
 
     link_to "Delete this bid", auction_bid_path(auction, bid), method: :delete
 
-#### RESTful Route Customizations
+#### Route Customizations
 
 This is useful when _you’ve got more than one way of viewing a resource that might be described as showing_. You can’t (or shouldn’t) use the show action itself for more than one such view. Instead, you need to think in terms of different perspectives on a resource, and create URLs for each one.
     
@@ -100,9 +110,9 @@ This is useful when _you’ve got more than one way of viewing a resource that m
         end
     end
 
-We want to have a `retract` action that shows a form. Since this is not the same as destroy, it has to have its own path. (`/auctions/3/bids/5/retract`) and `link_to "Retract", retract_bid_path(auction, bid)` are now valid.
+We want to have a `retract` action that shows a form. Since this is not the same as destroy, it has to have its own path. (`/auctions/3/bids/5/retract`) and `link_to 'Retract', retract_bid_path(auction, bid)` are now valid.
 
-Mapping to a different controller: User the `:controller` option to map a resources to a different controller than the one it would do so by default. `resources :photos, controller: "images"`.
+Mapping to a different controller: User the `:controller` option to map a resources to a different controller than the one it would do so by default. `resources :photos, controller: 'images'`.
 
 Referring to extra member and collection actions, David has been quoted as saying, _“If you’re writing so many additional methods that the repetition is beginning to bug you, you should revisit your intentions. You’re probably not being as RESTful as you could be.”_
 
@@ -150,4 +160,3 @@ Creating a formatted link: `link_to "XML version of this auction", auction_path(
 - Custom action names
 - Routes for new resources
 - controller-only resources
-
