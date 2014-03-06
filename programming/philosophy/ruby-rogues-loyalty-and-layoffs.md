@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 DAVID: The takeaway from it is that a corporation is just a fiction. It’s a document that exists for a purpose. And if you do not serve that purpose, you have no place there. And the CEO’s job is actually to get rid of you. Or he is incompetent or she is incompetent if they don’t fire you for this. So, being loyal to that corporation is a sickness, it’s a madness and don’t do it. But you absolutely can be loyal.
 
 JAMES:  I guess there’s a couple of points that sounded like that maybe [inaudible]. First is this kind of idea that the company isn’t really on your side. They’re on their side.
