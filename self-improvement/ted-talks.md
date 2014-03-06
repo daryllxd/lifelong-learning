@@ -1,4 +1,15 @@
+## Sherwin Nuland: How electroshock therapy changed me
+[Link](https://www.youtube.com/watch?v=oEZrAGdZ1i8)
 
+Ever since that man had a notion that their college could be strange or depressed or schizophrenia, he was certain that these diseases came from evil spirits. 
+
+Hippocrates: Tried to look for herbs that would literally shake the spirits out. Upto the Renaissance, the prescriptiosn were of herbs that make people convulse.
+
+In the 17th-18th century they were searching for medications that were not camphor. People then thought in terms of electricity for convulsions.
+
+1930s, Italian scientists saw that convulsions/eplipetics may work. Then it actually worked on a schizo. So they thought that electroconvulsive stuff really worked. But that time there were no muscle relaxants. Eventually they were able to create a convulsion without muscles moving. 10% of people do not respond to cures for depressants.
+
+Divorce.
 
 ## Elliot Krane: The mystery of chronic pain
 [Link](http://www.ted.com/talks/elliot_krane_the_mystery_of_chronic_pain.html)

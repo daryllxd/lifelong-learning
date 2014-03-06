@@ -16,7 +16,7 @@ __Community:__
 
 > Matz is nice, so we are nice.
 
-> Learning how to program, thats the easy part. Learning how to be a programmer, thats the advanced stuff. Thats what gets you to the next level, I think we should work on that. - James Edwards Grey
+> Learning how to program, thats the easy part. Learning how to be a programmer, thats the advanced stuff. Thats what gets you to the next level, I think we should work on that. - James Edward Gray II
 
 __Productivity:__
 
