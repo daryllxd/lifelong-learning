@@ -1,3 +1,5 @@
+    
+    cd -                                # Go back to last directory you were in.
     history                             # List last commands
     !!                                  # Repeat last command
     C-L                                # Clear terminal
