@@ -1,3 +1,6 @@
+:set wrap
+:set syntax=markdown
+
 nG – jump to line n
 L – jump to the bottom of the screen (“low”)
 H – jump to the top of the screen (“high”)
@@ -8,15 +11,20 @@ zt – move this line to the top of the screen (“top”)
 zb – move this line to the bottom of the screen (“bottom”)
 zz – move this line to the middle of the screen (“ziddle?”)
 
-To quit: `:q!`
+e – go to the end of the current word.
+E – go to the end of the current WORD.
+b – go to the previous (before) word.
+B – go to the previous (before) WORD.
+w – go to the next word.
+W – go to the next WORD.
+ge - end of PREVIOUS word.
+) - next sentence.
+} - next paragraph.
 
-`h, j, k, l` to move
-
-Press escape key to put you in normal mode. 
+$ - start of word.
+^ - end of word.
 
 `x` to delete the thing under the key
-
-`i` to go to insert mode
 
 `A` to append at end at line. You go to Insert mode there.
 
@@ -30,10 +38,7 @@ To save and exit: `:wq`.
 
 Operators and motions
 
-w - until the start of the next word, excluding its first hcaracter. So you delete the space in between too.
-e - to the end of the current word, don't delete the space in between.
-$ - start of word.
-^ - end of word.
+
 
 Navigating: just press the thing.
 
@@ -63,3 +68,4 @@ Change is like delete but you go to insert mode after.
 
 - `p` to put the deleted text AFTER the cursor
 - To replace the 
+
