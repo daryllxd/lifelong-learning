@@ -1,5 +1,25 @@
+# The Path to Mastery
+
+1. Vim help. Highest ROI. It takes practice to parse it.
+2. Keep a cheat sheet on your desk. Vim is a practice of accretion. It means you slowly add parts. Focus on just a few commands at a time. You don't build muscle memory until you do the command. WE DON'T WANT STUFF IN THE CHEAT SHEET, WE WANT THEM IN OUR BRAIN. Undo what you do and use the command and do it the right way.
+3. Keep track of your annoyances. When you feel that you are doing something inefficient, capture those in a list. Ex: :Q to quit... few seconds of annoyance is subtracted. We want to stay in the zone and when you have to program in your head, you don't want to stop what you're dong.
+4. Learn all the single letter commands. The most important commands are bound to the single letter keys.
+5. Bind Esc to Caps Lock.
+
 :set wrap
 :set syntax=markdown
+
+Splitting the window.
+:split "heeehe  "
+:vertical-split
+
+:set splitbelow
+:set splitright
+:on - close all except in
+:help opening-window
+
+
+C-w (hjkl) to move across the panes.
 
 nG – jump to line n
 L – jump to the bottom of the screen (“low”)
@@ -24,6 +44,37 @@ ge - end of PREVIOUS word.
 $ - start of word.
 ^ - end of word.
 
+q - record macro
+w - next word start
+e - next word end
+r - replace in line
+t 
+y - yank
+u - undo
+i - insert mode. Insert On.
+o - open below
+p - paste
+a - append: Insert AFTER.
+s - substitute.
+d 
+f
+g
+h
+j
+k
+l
+z
+x
+c
+v
+b
+n
+m
+
+
+
+
+
 `x` to delete the thing under the key
 
 `A` to append at end at line. You go to Insert mode there.
@@ -36,16 +87,6 @@ To save and exit: `:wq`.
 
 `d^` to delete the beginning of the line.
 
-Operators and motions
-
-
-
-Navigating: just press the thing.
-
-2w - 2 words forward
-3e - end of third word
-
-5j - move 5 lines down
 
 combine with `d`
 
