@@ -1,10 +1,3 @@
-# The Path to Mastery
-
-1. Vim help. Highest ROI. It takes practice to parse it.
-2. Keep a cheat sheet on your desk. Vim is a practice of accretion. It means you slowly add parts. Focus on just a few commands at a time. You don't build muscle memory until you do the command. WE DON'T WANT STUFF IN THE CHEAT SHEET, WE WANT THEM IN OUR BRAIN. Undo what you do and use the command and do it the right way.
-3. Keep track of your annoyances. When you feel that you are doing something inefficient, capture those in a list. Ex: :Q to quit... few seconds of annoyance is subtracted. We want to stay in the zone and when you have to program in your head, you don't want to stop what you're dong.
-4. Learn all the single letter commands. The most important commands are bound to the single letter keys.
-5. Bind Esc to Caps Lock.
 
 :set wrap
 :set syntax=markdown
@@ -41,8 +34,10 @@ ge - end of PREVIOUS word.
 ) - next sentence.
 } - next paragraph.
 
-$ - start of word.
-^ - end of word.
+$ - end of line.
+^ - start of line.
+
+y$
 
 q - record macro
 w - next word start
@@ -65,14 +60,21 @@ k
 l
 z
 x
-c
+c - change. chainable¡
 v
 b
 n
 m
+. - repeat command
 
+.... C-N in insert mode: Autocomplete bitches
 
+/ -> pattern matching
+* - lookf for the next occurence of the word
+% - find matching braces
+gd - jumo from the user of a vairable to its local declaration.
 
+Macros - to define, q, then a. the nrecord, then to exit, q. then you have @a as the "saved macro". 
 
 
 `x` to delete the thing under the key
