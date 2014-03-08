@@ -227,6 +227,25 @@ When you clone a repository, it generally automatically creates a `master` branc
 
 # Distributed Git
 
+## 6.3 - Git Tools - Stashing
+
+`git stash`: Takes the dirty state of your working directory, and saves it on a stack of unfinished changes that you can apply at any time.
+
+`$ git stash`: You switch changes but don't want to commit.
+
+`$ git stash list`: Shows stashes.
+
+`$ git stash apply`: Attempts to restore the stash. Stash is not dropped.
+
+`$ git stash drop`: Drop the stash.
+
+Unapplying a stash: Shitstorm.
+
+`$ git stash branch`: Yun.
+
+
+
+
 ----------
 ## [The difference between git pull, git fetch and git clone (and git rebase)](http://blog.mikepearce.net/2010/05/18/the-difference-between-git-pull-git-fetch-and-git-clone-and-git-rebase/)
 
@@ -237,3 +256,4 @@ When you clone a repository, it generally automatically creates a `master` branc
 `git clone`: Clone a repo into a newly created directory. And it additionally creates a remote called `origin`.
 
 `git rebase`: Pull remote, rewind the local, then replay all the changes one by one.
+

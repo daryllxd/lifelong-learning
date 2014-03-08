@@ -74,7 +74,14 @@ m
 % - find matching braces
 gd - jumo from the user of a vairable to its local declaration.
 
+0D - delete all text from the line
+^D - delete all text starting from the first non-blank character.
+
 Macros - to define, q, then a. the nrecord, then to exit, q. then you have @a as the "saved macro". 
+
+m - mark.
+` - move to mark with a.
+' - move to mark with a.
 
 
 `x` to delete the thing under the key
