@@ -103,12 +103,34 @@ Updating form:
         end
     end
 
+Save - Saves the model. So do the `u.name = "ehhe"` first then change it.
 
+Update - Literally updates based on the values passed in the hash.
 
+Touching records: Updates the `updated_at` time field to indicate shit.
 
+    >> user = User.first
+    >> user.touch # sets updated_at to now.
+    >> user.touch(:viewed_at) # sets viewed_at and updated_to to now.
 
+> Touch and read-only
+
+    class User
+        belongs_to :client, touch: true # also calls user.client.touch
+        attr_readonly :social_security_number # doesnt change 
+    end
+
+Delete/destroy: `delete` means delete at an SQL level, and `destroy` means you can call callbacks and shit.
+
+#### Where usage
+
+    Product.where(sku: params[:sku])
+    Product.where(sku: [9400, 9500])
+    Product.where('description like ? and color = ?', "%#{terms", color)
+    Product.where.not(title: "R3")
 
 TODO
-- other shit
+- database locking
 - `rate_before_typecast`
 - `caching`
+- other shit
