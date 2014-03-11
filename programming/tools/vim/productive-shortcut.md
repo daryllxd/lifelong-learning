@@ -24,3 +24,4 @@ A mark is set to any cursor location using `m`. `ma` sets the `a` mark to the cu
 We can more describe the range of text without moving our cursor around and dropping mark. `{d}`means go to start of paragraph and delete to end of 1 paragraph.
 
 Delete up to: `d /[REGEX]`
+

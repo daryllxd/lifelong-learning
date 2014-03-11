@@ -243,9 +243,6 @@ Unapplying a stash: Shitstorm.
 
 `$ git stash branch`: Yun.
 
-
-
-
 ----------
 ## [The difference between git pull, git fetch and git clone (and git rebase)](http://blog.mikepearce.net/2010/05/18/the-difference-between-git-pull-git-fetch-and-git-clone-and-git-rebase/)
 
