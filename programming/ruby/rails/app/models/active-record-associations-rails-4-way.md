@@ -133,17 +133,64 @@ Rails will not remove habtm because of the legacy Rails apps and because it prov
         has_many :children
     end
 
+#### `has_many :through` Options
 
+`source: association_name`
 
+    has_many :preferred_doctors, through: :doctor_preferences, source: :doctor
+
+The `:source` option specifies which association to use on the associated class.
+
+Normally, the source is inferred from the `has_many`, but in this case because we want a different alias to represent the relationship (`:preferred_doctors`), we specify that the source be the `doctor_id` field in the `doctor_preferences` folder.
+
+`source_type: class_name`
+
+This is needed when we establish a `has_many :through` to a polymorphic `belongs_to`.
 
 - `after_add`: Called after collection is added via `<<` method.
 - `after_remove`: Called after a record has been removed from the collection with the `delete` method.
 
+## One-to-One Relationships
 
+__`has_one` works like `has_many`, except the db query adds `LIMIT 1`.__
 
+    class Avatar < AR:Base
+        belongs_to :user
+    end
+
+    class User < AR:Base
+        has_one :avatar
+    end
+
+We have access to `build_avatar`.
+
+    u = User.first
+    u.avatar
+    u.build_avatar(url: '/avatars/smiling')
+    u.avatar.save
+
+__`has_one` with `has_many`__
+
+    class User < AR:Base
+        has_many :timesheets
+
+        has_one :latest_sheet, -> { order('created_at desc') }, class_name: 'Timesheet'
+    end
+
+#### Options
+- `:as`: For polymorpihc
+- `:class_name`: Inferred by Rails as the last thing associated
+- `:dependent`: Specifies how AR treats the associated objects.
+
+#### Scopes
+- `where(*conditions)`
+- `order(*clauses)`
+- `readonly`
 
 TODO
 - belongs_to scopes
 - has_many `dependent: delete_all`
 - has_many scopes
 - many-to-many
+- association extensions
+- The CollectionProxy Class
