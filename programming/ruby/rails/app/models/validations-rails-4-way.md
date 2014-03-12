@@ -66,7 +66,7 @@ To implement, extend `AR::Validator` and implement the `validate` method.
     class EmailValidator < ActiveRecord::Validator
         def validate()
             record.errors[:email] << "is not valid" unless
-                record.email =~ REGED
+                record.email =~ REGEX
             end
         end
     end

@@ -44,6 +44,8 @@ In Ruby (dynamic language), in this language your dependency on the other object
 
 If you make a class Foo, and you create a subclass Foolish, any place you can put a Foo, you can substitute a Foolish. __Any time you have to ask `is_a?, kind_of?`, you have violated this rule and you have created a dependency.__
 
+__`is_a?`, `kind_of?` SUCKSSSSS__
+
 If they violate the contract the superclass has, it's not that kind of thing.
 
 #### Coding
@@ -55,6 +57,12 @@ __Don't mock/stub the object under test.__
 App: Get a CSV file from an FTP server, we want to get that file from the server and put it in our database.
 
 We have test data, an FTP server with configurations on it, and an Active Record target.
+
+Components:
+
+- Test data (person, name, title) (cylcer1, "Anti-Gravity Simulator", "A device to make riding uphill easier")
+- FTP server with credentials (host, login, password, path, filename)
+- AR target: `Patent.(????)`
 
 > PatentJobSpec
 
@@ -73,7 +81,7 @@ We have test data, an FTP server with configurations on it, and an Active Record
         f.include?("just 3 minutes").should be_true
     end
 
-> Make sure it ends up in the database.
+> Make sure it ends up in the database. This is like a "naive" implementation of how things should be done. "I think I should have a job... I think I should execute the `run` method..."  
 
     if 'should replace existing patents with new patents' do
         @job = PatentJob.new
@@ -114,8 +122,32 @@ We have test data, an FTP server with configurations on it, and an Active Record
 
 #### The code works, and it is the simplest possible implementation, but this code won't tolerate change.
 - I have to download the file every time I do the test (lol).
-- We're fucked if the ftp host/login/password chagnes.
-- What if I need to create another job like this?
+- We're fucked if the ftp host/login/password changes.
+- What if I need to create another job like this? (You can actually not need to redo the class.)
 - What if I don't want to ftp a file in every test?
 
-__Resistance is a resource. In your personal life, with your children and your dog. It's information you didn't have. You can push back, or you can listen to it. So I can't articu__
+__First Reason: Resistance is a resource. In your personal life, with your children and your dog. It's information you didn't have. You can push back, or you can listen to it. So I can't articu__
+
+If testing seems hard, check your design. Tests reference your code, the design of the code. If the class is hard to test, then the class is badly refactored.
+
+TDD will punish you if you don't understand design. If you find that doing tests are hard, then you don't need to stop tests. You need to study the design.
+
+#### Ask yourself this:
+- Is it DRY?
+- Does it have one responsibility?
+- Does everything in it at the same rate?
+- Does it depend on something that changes slower than it does.
+
+> The problem with PatentJobSpec is that it does two things: It downloads and replaces. Any time you describe what a class does with "and", that's a smell. Refactoring time!
+
+    describe PatentJob do
+        it 'should __download__ the csv file from the ftp server'
+
+        it 'should __replace__ the existing patents with new patents'
+    end
+
+Move the downloading part, and put it into a class (`PatentDownloader`) by itself. Now, you can mock at the seam. This PatentDownloader class will have the API: `download_file`. This is the perfect place for a mock: It will make your tests faster without making your tests more fragile.
+
+Robert Martin: object mentor principles and pattersn
+
+Steve Freeman mockobjects.com/book
