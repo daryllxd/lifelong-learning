@@ -77,6 +77,60 @@ To implement, extend `AR::Validator` and implement the `validate` method.
 
 `RecordInvalid`: When a validation on a band (`save!`) fails, prepare to rescue `ActiveRecord::RecordInvalid`. Validation failures will cause `RecordInvalid` to be raised.
 
+#### Validation Options
+
+`:message` - all methods have this option so you can override the default error message format. `count`, `model`, `attribute`, and `value` are always available.
+
+    validates_uniqueness_of :username, message: "%{value} is already taken"
+    validates_uniqueness_of :username, message: "%{model} is already taken"
+
+`:on` - by default, validations are run on save (both create and update operations). So you can limit on create or on update.
+
+    validates_uniquness_of :email, on: :create
+
+This is helpful if you don't have a facility to change the email address anyway.
+
+#### Conditional Validation
+
+We have `:if` and `:unless` options to determine at runtime whether a validation has to be run or not.
+
+Argument types
+
+- Symbol: The name of a method to invoke as a symbol. (Most common option)
+- String: A snipper of Ruby code to `eval` can be useful tbut this is actually slow. 
+- A block of code to be `instance_eval`'d, so that `self` is the current record. 
+
+Sample: The `if` and the method are symbols. They are executed when they need to be.
+
+    validates :card_number, presence: true, if: :paid_with_card?
+
+    def paid_with_card?
+        payment_type == "card"
+    end
+
+#### Optional Validation from Controller
+
+> We want to execute the validation only if we are really updating the password, say in an updating page, and when being created.
+
+What happens is we can set up a variable to store whether "user is coming from the password change page" and not just randomly updating crap.
+
+    validates_presence_of :password, if: :should_validate_password?
+
+    def should_validate_password
+        updating_password ||new_record?
+    end
+
+> Controller
+
+    @user.updating_password = true
+    @user.save
+
+
+
+
+
 
 - `validates_absence_of`
 - `validates_each`
+- option `allow_blank`, `allow_nil`
+- option `strict`
