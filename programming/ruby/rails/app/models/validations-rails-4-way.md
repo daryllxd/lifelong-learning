@@ -125,12 +125,34 @@ What happens is we can set up a variable to store whether "user is coming from t
     @user.updating_password = true
     @user.save
 
+#### Short-form Validation (`validates`): Basically everything in top, but for a single field.
 
+    validates :username, presence: true,
+        format: { with: /[A-Za-z0-9]+/},
+        length: { minimum: 3},
+        uniqueness: true
 
+#### Testing Validations with Shoulda.
 
+[SO Discussion Link](http://stackoverflow.com/questions/1880513/should-native-validations-be-tested-in-rails)
 
+> Testing that a model attribute is present or not is only testing the `validates_presence_of` code as a by-product of the real test. If someone commented out a bunch of validation code and then forgot to uncomment it then this would go undetected and cause all sorts of problems.
+
+> This is where tools like Shoulda come in handy. If you integrate Shoulda into the mix, it becomes trivial to test these sort of things. If you run rcov, it's going to tell you all the code you wrote that is not fully tested.
+
+    should_validate_uniqueness_of(:title)
+    should_validate_presence_of(:body).with_message(/wtf/)
+    should_validate_presence_of(:title)
+    should_validate_numericality_of(:user_id)
+    should_not allow_value("blah").for(:email)
+    should_not allow_value("b lah").for(:email)
+    should allow_value("a@b.com").for(:email)
+    should ensure_length_of(:email).is_at_least(1).is_at_most(100)
+    should ensure_inclusion_of(:age).in_range(1..100)
 
 - `validates_absence_of`
 - `validates_each`
 - option `allow_blank`, `allow_nil`
 - option `strict`
+- Creating a custom validator
+- Validate using macros

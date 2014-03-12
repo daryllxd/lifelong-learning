@@ -11,9 +11,13 @@ Splitting the window.
 :on - close all except in
 :help opening-window
 
+ciw: change inner word
 
 C-w (hjkl) to move across the panes.
 
+C-u - page up half a page 
+C-b - page up
+C-d - page down
 nG – jump to line n
 L – jump to the bottom of the screen (“low”)
 H – jump to the top of the screen (“high”)
