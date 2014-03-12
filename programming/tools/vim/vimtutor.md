@@ -8,7 +8,7 @@ Splitting the window.
 
 :set splitbelow
 :set splitright
-C-w - to make the 2 panes equal
+C-w = - to make the 2 panes equal
 :on - close all except in
 :help opening-window
 

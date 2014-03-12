@@ -1,3 +1,36 @@
+## Humans Present: tmux
+
+tmux over screen: Panes + scriptability. tmuxinator is a popular plugin that automates all the cycles up on it.
+
+Copy and paste in OS X is horrible, especially to OS X nd other apps. 
+
+Windows are like the sam as tab. I prefer a 27-25 percent split: Upper left and upper right are 2 files. Lower left are the tests. Lower right is the guard. 
+
+## tmux: Productive Mouse-Free Development
+
+When we detach from a tmux session, we're not actually closing tmux. Any programs we have running in that session are still running.
+
+#### Working with Command Mode
+
+`Prefix :` - Enters command mode. We can do shit inside that, such as `new window -n console` (new window with a name of console).
+
+    : new-window -n processes "top" #=> Shows a list of the current top processes.
+
+#### Workflow
+
+    ! - Turn pane into a window
+    :join-pane -s 1 #=> Take window 1 and join it to the current window.
+
+
+#### Scripting Customized tmux Environments: [TODO]
+
+Possible configs for tmuxinator: editor, shell, db, server, logs, console, capistrano, server.
+
+[TODO] - how the heck do you copy lol
+
+[TODO] - pairing
+
+
 
 ## Tmux: A Crash Course
 
@@ -56,6 +89,8 @@ Prefix: `C-A`
     q                           # Show pane numbers
     {                           # Move pane left
     }                           # Move pane right
+    n                           # Next window
+    p                           # Previous window
     
 #### Windows
 
@@ -63,8 +98,4 @@ Prefix: `C-A`
     0,1                         # Jump windows.
     ,                           # Renaming windows
 
-## Humans Present: tmux
 
-tmux over screen: Panes + scriptability. tmuxinator is a popular plugin that automates all the cycles up on it.
-
-Copy and paste in OS X is horrible.
