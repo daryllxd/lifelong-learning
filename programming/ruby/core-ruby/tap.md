@@ -64,3 +64,5 @@ We can use it for putting debugging calls, but there's so much more than that.
 
     # Tapped shortcut
     object = Model.new.tap(&:save!)
+
+> 
