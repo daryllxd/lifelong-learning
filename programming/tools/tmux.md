@@ -21,7 +21,6 @@ When we detach from a tmux session, we're not actually closing tmux. Any program
     ! - Turn pane into a window
     :join-pane -s 1 #=> Take window 1 and join it to the current window.
 
-
 #### Scripting Customized tmux Environments: [TODO]
 
 Possible configs for tmuxinator: editor, shell, db, server, logs, console, capistrano, server.
@@ -29,8 +28,6 @@ Possible configs for tmuxinator: editor, shell, db, server, logs, console, capis
 [TODO] - how the heck do you copy lol
 
 [TODO] - pairing
-
-
 
 ## Tmux: A Crash Course
 
