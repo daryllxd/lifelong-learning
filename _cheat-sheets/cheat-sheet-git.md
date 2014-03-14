@@ -2,9 +2,7 @@
 
 ## git
 
-To git out of the vim thing (huehue): "q" 
-
-    $ g remote add origin https://daryllxd@github.com/ueccssrnd/name-of-project.git
+    $ g remote add origin https://darllxd@github.com/ueccssrnd/name-of-project.git
     $ g remote set-url origin git://new.url.here
     Check last 2 commits: g log -2
     Check last 2 diffs: g log -p -2

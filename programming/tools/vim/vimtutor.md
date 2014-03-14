@@ -39,8 +39,8 @@ ge - end of PREVIOUS word.
 ) - next sentence.
 } - next paragraph.
 
-$ - end of line.
-^ - start of line.
+indent: v to visual, motion to higlight, = to indent, >>.
+
 
 y$
 
