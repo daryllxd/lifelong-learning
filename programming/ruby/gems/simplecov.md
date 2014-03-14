@@ -5,3 +5,7 @@ I normally keep the browser closed. I open the browser only when I need to see t
 rspec is in dev environment.
 
 I stall 
+
+# Railscasts 252
+
+Add `.metrics` file. Add 

@@ -11,6 +11,9 @@ To git out of the vim thing (huehue): "q"
     Revert to last commit: g reset --hard HEAD
     Remove untracked shit: g clean -fd
 
+    Cancel last commit: git reset --soft HEAD~1. Then you can do a gre (git reset --hard HEAD && git clean -f) after. So this "cancels a commit".
+
+
 > Cloning from BB
 
     $ g clone https://daryllxd@bitbucket.org/icanpassaccounting/icpa.git 
