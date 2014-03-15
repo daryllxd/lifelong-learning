@@ -29,12 +29,8 @@ zt – move this line to the top of the screen (“top”)
 zb – move this line to the bottom of the screen (“bottom”)
 zz – move this line to the middle of the screen (“ziddle?”)
 
-e – go to the end of the current word.
-E – go to the end of the current WORD.
 b – go to the previous (before) word.
 B – go to the previous (before) WORD.
-w – go to the next word.
-W – go to the next WORD.
 ge - end of PREVIOUS word.
 ) - next sentence.
 } - next paragraph.
@@ -78,9 +74,17 @@ m
 * - lookf for the next occurence of the word
 % - find matching braces
 gd - jumo from the user of a vairable to its local declaration.
-
 0D - delete all text from the line
 ^D - delete all text starting from the first non-blank character.
+
+find and replace:
+:%s/\s\+$//
+
+: - command
+% - apply to entire file
+s - substitute
+/\s\+$/ - regex for "all whitespace, till the end of file"
+// - regex for "empty string"
 
 Macros - to define, q, then a. the nrecord, then to exit, q. then you have @a as the "saved macro". 
 
