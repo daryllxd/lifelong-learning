@@ -154,3 +154,60 @@ I would create a PasswordAuthenticator and a Token Authenticator.
 
 
 Domain-driven design.
+
+
+## Value Objects
+
+Decorators: Wrapping another object with another object. Usually used in the View. You end up with the object still being the same as when it was when you wrapped it, it responds to a subsection of the wrapped subject's interface, plus additional behavior.
+
+Ex (This has happened already to me):
+
+    class Order < AR::Base
+        attr_accessor :placed_online
+        after_create :email_receipt, if: :placed_online
+
+    private
+
+        def email_receipt
+            OrdersMailer.receipt(self).deliver
+        end
+    end
+
+What happens here is that you usually add an object.placed_online thing in the controller before passing it onto the model to signify that it has been placed online, and therefore send a receipt (because sometimes you don't want to send a receipt).
+
+This process is not really a core part of the model. To manage this complexity, you can use a decorator. Just add a save method to save a receipt.
+
+    class OrdersController < ApplicationController
+        def create
+            @order = build_order
+
+            if @order.save
+                redirect_to orders_path, notice: "Your order was placed."
+            else
+                render "new"
+            end
+        end
+
+    private
+
+        def build_order
+            order = Order.new(params[:order])
+            order = WarehouseNotifier.new(order)
+            order = OrderEmailNotifier.new(order)
+            order
+        end
+
+    end
+
+We've separated arrangement from work: We have one piece of code that is  responsible for wiring all the objects together (factory). We have another side which does the work (saving the thing, emailing the thing).
+
+We have made it opt-in instead of opt-out, you need to really have to wrap the The object with the decorator to do the thing.
+
+__You never, ever, ever, ever want to wrap a call to an external call in a callback.__
+
+# Where do you put this stuff?
+- It doesn't matter. If you have the right objects, moving them from one object to the other is a very first world problem.
+
+# No computer program can actually figure out what is the best solution for the domain.
+
+# Dependency Injection: I often use initializer-based DI. Sometimes, I do use attribute-based DI.
