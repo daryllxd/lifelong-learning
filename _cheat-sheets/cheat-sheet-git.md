@@ -4,7 +4,7 @@
 
     $ g remote add origin https://darllxd@github.com/ueccssrnd/name-of-project.git
     $ g remote set-url origin git://new.url.here
-    Check last 2 diffs: g log -p -2
+    Check last 2 diffs: g log -p -2 
     
 
     Cancel last commit: git reset --soft HEAD~1. Then you can do a gre (git reset --hard HEAD && git clean -f) after. So this "cancels a commit".
