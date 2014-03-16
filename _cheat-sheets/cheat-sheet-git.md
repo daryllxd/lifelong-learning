@@ -4,28 +4,18 @@
 
     $ g remote add origin https://darllxd@github.com/ueccssrnd/name-of-project.git
     $ g remote set-url origin git://new.url.here
-    Check last 2 commits: g log -2
     Check last 2 diffs: g log -p -2
-    Revert to last commit: g reset --hard HEAD
-    Remove untracked shit: g clean -fd
+    
 
     Cancel last commit: git reset --soft HEAD~1. Then you can do a gre (git reset --hard HEAD && git clean -f) after. So this "cancels a commit".
 
+#### You pushed a wrong commit message.
 
-> Cloning from BB
-
-    $ g clone https://daryllxd@bitbucket.org/icanpassaccounting/icpa.git 
-    $ c icpa_redesign
-
-#### Unstaging the changes
-
-    $ g reset --hard COMMIT_ID && g clean -f
+    $ git reset --soft head~
+    $ git commit -m "new commit message"
+    $ git push -f
 
 #### Branches
-
-> View local branches
-
-    $ g branch 
 
 > View remote
 
@@ -74,3 +64,6 @@
     $ heroku apps:destroy app-to-be-destroyed
 
 See more at: http://blog.tacticalnuclearstrike.com/2012/07/sinatra-on-heroku/#sthash.gVoDFq4u.dpuf
+
+Revert to last commit: g reset --hard HEAD
+Remove untracked shit: g clean -fd
