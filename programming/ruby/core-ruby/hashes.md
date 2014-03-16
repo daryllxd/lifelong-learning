@@ -1,5 +1,11 @@
 ## Ruby API, Pickaxe Book, RubyMonk
 
+## Tipz (http://blog.8thcolor.com/en/2014/03/7-daily-use-cases-of-ruby-hash/)
+
+1. JSON -> Hash: `JSON.parse(data)`
+2. Hash -> JSON: `require json; .to_json()`
+3. Set default value: `contacts['Jane'][:email] = "jane@doe.com"`. Your default value for `[:`
+
 #### API
 
 - Hashes enumerate their values in the order that the corresponding keys were inserted. 
