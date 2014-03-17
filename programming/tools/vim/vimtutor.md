@@ -1,6 +1,12 @@
-
+I'm doing this from Vim!
 :set wrap
 :set syntax=markdown
+
+File management
+:new or :vnew  to open a new window
+:new `FILE_NAME` (has to include the directory).
+you can then save using :wq in command mode.
+You can also save using `:w`.
 
 Splitting the window.
 :split "heeehe  "

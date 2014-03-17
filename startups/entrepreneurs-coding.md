@@ -20,3 +20,4 @@ Each skill has an optimal level for entrepreneurs -- and being great usually isn
 4: You're an excellent writer and have worked in marketing or editorial departments.
 
 5 (Hire at this level): You make your living by writing and have the talent and skills to be able to work at top advertising firms.
+    

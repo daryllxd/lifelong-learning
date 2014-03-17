@@ -1,10 +1,25 @@
 ## Ruby API, Pickaxe Book, RubyMonk
 
-## Tipz (http://blog.8thcolor.com/en/2014/03/7-daily-use-cases-of-ruby-hash/)
+## Tipz 
+[Link](http://blog.8thcolor.com/en/2014/03/7-daily-use-cases-of-ruby-hash/)
 
 1. JSON -> Hash: `JSON.parse(data)`
 2. Hash -> JSON: `require json; .to_json()`
 3. Set default value: `contacts['Jane'][:email] = "jane@doe.com"`. Your default value for `[:`
+
+        contacts.default_proc = Proc.new do |hsh, key|
+                hsh[key] = {
+                name: key,
+                email: ''
+            }
+        end
+
+4. Merging two nested Hashes: Use `deep_merge` from ActiveSupport.
+5. Filtering out some keys using ActiveSupport: `SOME_ARRAY.except(:saturday, :sunday)`
+6. Sorting: `sort_by`.
+7. Finding the differences between two Hashes: `new_entries = updated_entries.reject{|k, _| entries.include? k}`.
+    
+
 
 #### API
 
@@ -50,9 +65,6 @@ __Instance Methods__
 	
 	hash.each_with_index{|(k, v), index}
 
-	
-
-
 #### Initialization
 
 	# Unorthodox
@@ -65,8 +77,6 @@ __Instance Methods__
 	  key_value_pairs = a, b, c
 	  Hash[key_value_pairs]
 	end
-
-
 
 `each` has to be done in-place...
 

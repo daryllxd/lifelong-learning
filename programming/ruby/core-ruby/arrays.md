@@ -1,3 +1,22 @@
+# 7 daily use cases of Ruby Array
+[Link](http://blog.8thcolor.com/en/2014/02/7-daily-use-cases-of-ruby-array/)
+
+1. Check if one Array has all elements of another? `array_of_imported_emails - existing_emails`.empty?
+2. Elements common to both arrays? `first_array & second_array`
+3. Merging two Arrays without duplicating entries? `first | second`
+4. Sort by a key, ex: location? `data.sort_by {|hsh| hsh[:location]}`
+5. Keep a product unique with respect to one attribute? `products.uniq &:category_id`
+6. Filter an Array with a String? `books.grep(/[Rr]ails/)`
+7. How to always get an array?
+
+Need to return [], [1], or [1,2]. Always an array.
+
+    def method
+       ...
+       [*products] or Array(products)
+    end
+
+
 Get last element:  A[-1] or A.last
 
 #### Construction:
