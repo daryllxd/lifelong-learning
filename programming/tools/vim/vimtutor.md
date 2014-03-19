@@ -18,19 +18,23 @@ C-w = - to make the 2 panes equal
 :on - close all except in
 :help opening-window
 
-ciw: change inner word
+To search: / then press enter after the search is executed.
+Backward search: ?
+After a search, type n to find the next occurence in the same direction or N to search in the opposite direction.
+Find and replace through whole file: :%s/REPLACEE/REPLACER/g (add c to have a prompt)
 
-C-w (hjkl) to move across the panes.
 
-C-u - page up half a page 
-C-b - page up
-C-d - page down
+To go backwords (cursor) , C-o. Forwards, C-i.
+
+% -> Go to the opposite side of a parenthesis.
+
+d: delete or something like cut. p to "put" or paste  this.
+y: yank or "copy".
+
 nG – jump to line n
 L – jump to the bottom of the screen (“low”)
 H – jump to the top of the screen (“high”)
 M – jump to the middle of the screen (“middle”)
-C-o – jump back
-C-i – jump forward
 zt – move this line to the top of the screen (“top”)
 zb – move this line to the bottom of the screen (“bottom”)
 zz – move this line to the middle of the screen (“ziddle?”)
@@ -111,14 +115,8 @@ To save and exit: `:wq`.
 
 `d^` to delete the beginning of the line.
 
-
-combine with `d`
-
-dd to delete and entire line.
-2dd to delete two lines.
-
 Undoing shit: `u`. You can also prepend with an number.
-Massive undo: `U`.
+Massive undo: `U` to undo the line.
 Redo: `C-R`.
 
 `^`: Move to start of line which is not whitespace.
@@ -134,3 +132,5 @@ Change is like delete but you go to insert mode after.
 - `p` to put the deleted text AFTER the cursor
 - To replace the 
 
+Opening and closing a window
+C-W s
