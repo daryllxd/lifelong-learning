@@ -1,6 +1,6 @@
 ## Presenter from Scratch
 
-Whenever you are in a profile to go, you go with a presenter. __It has knowledge of the view and model.__
+Whenever you are in a profile to go, you go with a presenter. *It has knowledge of the view and model.*
 
 New folder presenters, add user_presenter.rb
 

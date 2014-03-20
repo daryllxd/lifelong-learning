@@ -15,9 +15,9 @@ Git stores references of the files; if they haven't changed, then its just store
 You have a local version of the stuff you have, without connecting to the remote.
 
 #### Three States
-- __Committed:__ Data is safely stored in the local database
-- __Modified:__ Have changed the file but not yet committed to the database
-- __Staged:__ Marked a modified file in its current version to go into your next commit snapshot.
+- *Committed:* Data is safely stored in the local database
+- *Modified:* Have changed the file but not yet committed to the database
+- *Staged:* Marked a modified file in its current version to go into your next commit snapshot.
  
 #### Git project
 - `Git` directory: where Git stores the metadata and object database for your project.
@@ -161,7 +161,7 @@ Time description
 - Author/message metadata
 - Zero or more pointers to the parent of the commit (0 for first, 1 for normal, more for commit from merge)
 
-A branch is a pointer to one of the commits. The default branch name is __`master`__.
+A branch is a pointer to one of the commits. The default branch name is *`master`*.
 
 A special pointer called `HEAD` keeps track of what branch you are in.
 

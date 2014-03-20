@@ -32,7 +32,7 @@ More prosaically, establish an expectation early that you're simply going to tal
 
 Some of my most effective writing in terms of career growth was back in 2006 through 2008, when I was struggling through not understanding anything I was doing, and where I -- quite literally -- had less readers than my younger brother's blog on writing superhero novels. Why was toiling in Internet-obscurity still valuable? Because I was able to point to particular experiments that I started in e.g. 2008, and then point to the followups in 2009 and 2010, which showed those experiments were really successful.
 
-__If you cannot build things you can show at work, you should build things you can show outside of work.__
+*If you cannot build things you can show at work, you should build things you can show outside of work.*
 
 I offered them this in exchange: "If you let me continue working on these, I'm going to learn lots of skills which I can put to the use of the company. Normally you invest lots of money sending engineers to conferences and professional training. This is even better for you: I'll learn more with no operating expenditure and no decrease in billing efficiency." That's an offer you can make to substantially any employer.
 

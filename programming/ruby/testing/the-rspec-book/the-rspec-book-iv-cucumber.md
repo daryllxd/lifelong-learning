@@ -83,11 +83,11 @@ Scenarios are concrete examples of how we want the software to behave. They allo
 
 #### Given/When/Then
 
-__Given__ indicates something that we accept to be true in a scenario. _These are not preconditions. Preconditions are part of a contract that indicates we can go no further unless a precondition is met. Givens are not bound by precondition contracts and can violate them in order to specify how an app should behave in theory._
+*Given* indicates something that we accept to be true in a scenario. _These are not preconditions. Preconditions are part of a contract that indicates we can go no further unless a precondition is met. Givens are not bound by precondition contracts and can violate them in order to specify how an app should behave in theory._
 
-__When__ indicates the event in a scenario. We prefer to have a signel event in any scenario.
+*When* indicates the event in a scenario. We prefer to have a signel event in any scenario.
 
-__Then__ indicates an expected outcome.
+*Then* indicates an expected outcome.
 
 #### Declarative vs Imperative Styles
 

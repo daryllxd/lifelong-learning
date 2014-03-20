@@ -6,6 +6,6 @@ You add the `binding_of_caller` gem so you can have a REPL and see the local and
 
 You can click the file to edit the file.
 
-When debugging JS stuff, you can go to `localhost:3000/__better_errors` to see the last error recorded.
+When debugging JS stuff, you can go to `localhost:3000/*better_errors` to see the last error recorded.
 
 RailsPanel: Install in chrome, then add `meta_request` to the Gemfile development group. This shows: METHOD, DB 

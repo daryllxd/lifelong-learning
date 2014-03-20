@@ -12,17 +12,17 @@ Viscous apps mean that it's just easier to edit the whole thing as opposed to ho
 
 Dependencies are killing you, design can fix you. There is always a time where "you are better off just doing design", much like TDD.
 
-__If you think your application will succeed, design will pay off.__
+*If you think your application will succeed, design will pay off.*
 
-__Single Responsibility:__ There should neve be more than one reason for a class to change.
+*Single Responsibility:* There should neve be more than one reason for a class to change.
 
-__Open/Closed:__ A module should be open for extension but closed for modification (which seems impossible).
+*Open/Closed:* A module should be open for extension but closed for modification (which seems impossible).
 
-__Liskov Substitution:__ Subclasses should be substitutable for their base classes.
+*Liskov Substitution:* Subclasses should be substitutable for their base classes.
 
-__Interface Segregation:__
+*Interface Segregation:*
 
-__Dependency Inversion:__ Depend upon abstractions, not upon concretions.
+*Dependency Inversion:* Depend upon abstractions, not upon concretions.
 
 They shared the theme of managing the dependencies of your application. It means the application has minimum entanglements of each other.
 
@@ -42,17 +42,17 @@ In Ruby (dynamic language), in this language your dependency on the other object
 
 #### Liskov Substitution
 
-If you make a class Foo, and you create a subclass Foolish, any place you can put a Foo, you can substitute a Foolish. __Any time you have to ask `is_a?, kind_of?`, you have violated this rule and you have created a dependency.__
+If you make a class Foo, and you create a subclass Foolish, any place you can put a Foo, you can substitute a Foolish. *Any time you have to ask `is_a?, kind_of?`, you have violated this rule and you have created a dependency.*
 
-__`is_a?`, `kind_of?` SUCKSSSSS__
+*`is_a?`, `kind_of?` SUCKSSSSS*
 
 If they violate the contract the superclass has, it's not that kind of thing.
 
 #### Coding
 
-__Only mock classes I own.__
+*Only mock classes I own.*
 
-__Don't mock/stub the object under test.__
+*Don't mock/stub the object under test.*
 
 App: Get a CSV file from an FTP server, we want to get that file from the server and put it in our database.
 
@@ -126,7 +126,7 @@ Components:
 - What if I need to create another job like this? (You can actually not need to redo the class.)
 - What if I don't want to ftp a file in every test?
 
-__First Reason: Resistance is a resource. In your personal life, with your children and your dog. It's information you didn't have. You can push back, or you can listen to it. So I can't articu__
+*First Reason: Resistance is a resource. In your personal life, with your children and your dog. It's information you didn't have. You can push back, or you can listen to it. So I can't articu*
 
 If testing seems hard, check your design. Tests reference your code, the design of the code. If the class is hard to test, then the class is badly refactored.
 
@@ -141,9 +141,9 @@ TDD will punish you if you don't understand design. If you find that doing tests
 > The problem with PatentJobSpec is that it does two things: It downloads and replaces. Any time you describe what a class does with "and", that's a smell. Refactoring time!
 
     describe PatentJob do
-        it 'should __download__ the csv file from the ftp server'
+        it 'should *download* the csv file from the ftp server'
 
-        it 'should __replace__ the existing patents with new patents'
+        it 'should *replace* the existing patents with new patents'
     end
 
 Move the downloading part, and put it into a class (`PatentDownloader`) by itself. Now, you can mock at the seam. This PatentDownloader class will have the API: `download_file`. This is the perfect place for a mock: It will make your tests faster without making your tests more fragile.

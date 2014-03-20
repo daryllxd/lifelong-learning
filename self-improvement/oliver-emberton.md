@@ -1,10 +1,10 @@
 ## 5 common beliefs of the self-made rich
 
-- __Money CAN buy you happiness.__ The rich know that while having money doesn’t guarantee happiness, it sure helps. More than anything, money buys freedom; the freedom to do what you want, on your own terms. The myth that money can’t buy you happiness is perpetuated wishfully by those with no experience of it.
-- __Formal education is largely useless.__ Degrees and doctorates may increase your sense of security, but they do not pave the route to wealth. The self-made rich are experts at amassing uncommon and high-leverage practical knowledge, such as confidence, leadership, self-direction, self-awareness, sales, marketing, creativity and insight. They invest in themselves.
-- __Passion pays.__ To many, it may look like the rich are working all the time. But their secret is doing what they love and finding a way to get paid for it. By doing this, they’re able to commit themselves at a level that others simply can’t match. Most people make the mistake of perpetually exchanging their time for money, and never escape this trap.
-- __Find comfort in uncertainty.__ Most people value certainty and safety above all else. It’s the reason they’ll stay in a job they hate, or pursue an education they don’t need. But for those who can feel comfortable within it, uncertainty presents unique and exciting opportunities that few have the strength to appreciate. Those who can thrive in uncertainty will lead those who can’t, and the future is always uncertain.
-- __Low expectations are for low achievers.__ We’ve been told that setting lower expectations helps reduce our disappointment, and it’s true. Discomfort sucks. But no-one ever struck it rich on modest expectations.
+- *Money CAN buy you happiness.* The rich know that while having money doesn’t guarantee happiness, it sure helps. More than anything, money buys freedom; the freedom to do what you want, on your own terms. The myth that money can’t buy you happiness is perpetuated wishfully by those with no experience of it.
+- *Formal education is largely useless.* Degrees and doctorates may increase your sense of security, but they do not pave the route to wealth. The self-made rich are experts at amassing uncommon and high-leverage practical knowledge, such as confidence, leadership, self-direction, self-awareness, sales, marketing, creativity and insight. They invest in themselves.
+- *Passion pays.* To many, it may look like the rich are working all the time. But their secret is doing what they love and finding a way to get paid for it. By doing this, they’re able to commit themselves at a level that others simply can’t match. Most people make the mistake of perpetually exchanging their time for money, and never escape this trap.
+- *Find comfort in uncertainty.* Most people value certainty and safety above all else. It’s the reason they’ll stay in a job they hate, or pursue an education they don’t need. But for those who can feel comfortable within it, uncertainty presents unique and exciting opportunities that few have the strength to appreciate. Those who can thrive in uncertainty will lead those who can’t, and the future is always uncertain.
+- *Low expectations are for low achievers.* We’ve been told that setting lower expectations helps reduce our disappointment, and it’s true. Discomfort sucks. But no-one ever struck it rich on modest expectations.
 
 ## 5 secrets for getting your writing noticed
 
@@ -28,11 +28,11 @@ Brilliant intellectuals can appreciate content on a purely intellectual basis. F
 
 You know when you feel compelled to click on a link? You don’t have time to think about it. Hooks are entirely emotional:
 
-__Scary & urgent__ – “Terrorists will attack your town, tomorrow”
-__Big names__ – “A day in the life of Tony Stark”
-__Self-interest__ – “How to win your dream girl”
-__Sex-appeal__ – “The hottest babes in tennis”
-__Trendsetting__ – “The show everyone is talking about”
+*Scary & urgent* – “Terrorists will attack your town, tomorrow”
+*Big names* – “A day in the life of Tony Stark”
+*Self-interest* – “How to win your dream girl”
+*Sex-appeal* – “The hottest babes in tennis”
+*Trendsetting* – “The show everyone is talking about”
 
 These emotions can be conveyed in a headline. Your headline is where you will win or lose most of your audience. A title in a tweet is judged and dismissed by 99% of your audience before they see another word; ensure yours punches them in their emotional face.
 

@@ -4,7 +4,7 @@ Individually, the YC founders might be like any number of people you might meet 
 
 _"What makes a good founder? If there were a word that meant the opposite of hapless, that would be the one. Bad founders seem hapless. They may be smart, or not, but somehow events overwhelm them and they get discouraged and give up. Good founders make things happen the way they want. Which is not to say they force things to happen in a predefined way. Good founders have a healthy respect for reality. But they are relentlessly resourceful. That’s the closest I can get to the opposite of hapless. You want to fund people who are relentlessly resourceful."_ - PG in How to be an angel investor, Mar 2009
 
-__You and your cofounders can build.__
+*You and your cofounders can build.*
 
 At least 1 technical person on the team, or you've learned how to code. When your founding team can't build or can't move fast, you have to spend time and money hiring to validate your hypothesis on what people want. Someone has to learn coding.
 

@@ -185,7 +185,7 @@ Class methods override module methods.
 - Possible to call class method from the instance
 
 ## About Message Passing
-`send` invokes the method identified by symbol, passing it any arguments specified. You can use __send__ if the name send clashes with an existing method in obj. When the method is identified by a string, the string is converted to a symbol.
+`send` invokes the method identified by symbol, passing it any arguments specified. You can use *send* if the name send clashes with an existing method in obj. When the method is identified by a string, the string is converted to a symbol.
 
 `send` is used if you don't know in advance the name of the method, such as when you're doing metaprogramming. Or you can do it for calls to private methods (not recommended).
 

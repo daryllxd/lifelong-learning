@@ -14,7 +14,7 @@
 	  height: inherit; /* inherited value from parent element */
 	}
 
-__If the height of the containing block is not specified explicitly, and the element is not absolutely positioned, the value of its height computes to auto (it will be as tall as the content inside it is, or zero if there is no content).__
+*If the height of the containing block is not specified explicitly, and the element is not absolutely positioned, the value of its height computes to auto (it will be as tall as the content inside it is, or zero if there is no content).*
 
 If the elements content portion requires more vertical space than available from the value assigned, the elements behavior is defined by the `overflow` property.
 

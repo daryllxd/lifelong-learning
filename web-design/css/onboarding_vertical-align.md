@@ -1,6 +1,6 @@
 ## [vertical-align](http://css-tricks.com/almanac/properties/v/vertical-align/)
 
-__The `vertical-align` property in CSS controls how elements set next to each other on a line are lined up.__
+*The `vertical-align` property in CSS controls how elements set next to each other on a line are lined up.*
 
 	img {
 	  vertical-align: middle;

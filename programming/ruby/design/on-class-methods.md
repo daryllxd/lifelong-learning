@@ -1,7 +1,7 @@
 ## Are Class Methods Evil?
 [Link](http://nicksda.apotomo.de/2011/07/are-class-methods-evil/)
 
-Concept: __User object instances wherever possible.__
+Concept: *User object instances wherever possible.*
 
 Class methods are global methods. You may access and call them from anywhere since you don’t need an object instance.
 
@@ -22,7 +22,7 @@ Now, class methods come in handy – you don’t have to think about the context
             Emailer.send(email, "Hello, #{name}")
         end
 
-__In the example, the programmer didn’t see that the email behaviour (aka method) is tied to an instance rather than to a class.__
+*In the example, the programmer didn’t see that the email behaviour (aka method) is tied to an instance rather than to a class.*
 
 In a lot of cases class methods can be replaced with instance methods on factory or builder objects.
 
@@ -54,7 +54,7 @@ At the first sight it may seem awkward to use an object when class method can be
 ## Yes, Nick - class methods are evil
 [Link](http://andrzejonsoftware.blogspot.com/2011/07/yes-nick-class-methods-are-evil.html)
 
-I blame the ActiveRecord pattern for the current class methods problem. Every Rails application I see is full of globals which are often results or causes of class methods. __The problem with ActiveRecord is that it forces you to think in terms of sql tables.__ 
+I blame the ActiveRecord pattern for the current class methods problem. Every Rails application I see is full of globals which are often results or causes of class methods. *The problem with ActiveRecord is that it forces you to think in terms of sql tables.* 
 
 #### Comments:
 - It does not changing my way of thinking to be more object-oriented than sql. It's just recall me a facade pattern.

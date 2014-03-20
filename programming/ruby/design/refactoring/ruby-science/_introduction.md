@@ -16,4 +16,4 @@ Bugs and churn: Avoid refactoring areas with low churn.
 
 Metrics: `flog`, `flay` (duplication), `reek`, `churn`, `Code Climate`, `Metric Fu`.
 
-__Getting obsessed with the counts and scores from these tools will distract from the actual issues in your code, but it’s worthwhile to run them continually and watch out for potential warning signs.__
+*Getting obsessed with the counts and scores from these tools will distract from the actual issues in your code, but it’s worthwhile to run them continually and watch out for potential warning signs.*

@@ -29,10 +29,10 @@ Three VCs, coincidence. Five, six, or eight VCs, it's not a coincidence. There's
 
 Meeting with VCs after a bunch have said no is probably a waste of time. Instead, retool your plan.
 
-- __Lay the groundwork to go back in later.__ They might say "not right now". So take "no" gracefully -- ask them for feedback, thank them for their time, and ask if you can call again if things change.
-- __Consider the environment.__ We're in a much more rational environment than either of those extremes (fund everyone vs. hide from everyone).
-- __Retool your plan.__ Your challenge as an entrepreneur trying to raise venture capital is to keep peeling layers of risk off of your particular onion until the VCs say "yes" -- until the risk in your startup is reduced to the point where investing in your startup doesn't look terrifying and merely looks risky.
-- __What are the layers of risk for a high-tech startup?__
+- *Lay the groundwork to go back in later.* They might say "not right now". So take "no" gracefully -- ask them for feedback, thank them for their time, and ask if you can call again if things change.
+- *Consider the environment.* We're in a much more rational environment than either of those extremes (fund everyone vs. hide from everyone).
+- *Retool your plan.* Your challenge as an entrepreneur trying to raise venture capital is to keep peeling layers of risk off of your particular onion until the VCs say "yes" -- until the risk in your startup is reduced to the point where investing in your startup doesn't look terrifying and merely looks risky.
+- *What are the layers of risk for a high-tech startup?*
     + Founder risk -- does the startup have the right founding team? A tech person + someone who can run the company.
     + Market risk -- is there a market for the product?
     + Competition risk -- are there too many other startups doing this?
@@ -48,7 +48,7 @@ Meeting with VCs after a bunch have said no is probably a waste of time. Instead
 #### Ideas on reducing risk
 - Founder risk -- the tough one, maybe the VCs don't think the business person is strong enough to be the founding CEO.
 - Market risk -- you probably need to validate the market at a practical level. Paying customers.
-- Competition risk -- is your differentiation really sharp enough? Lots of startups do not have strong enough differentiation out of the gate, even if they get funded. __Never every say you have no competitors. Never every say "but if we get 2%..."__ 
+- Competition risk -- is your differentiation really sharp enough? Lots of startups do not have strong enough differentiation out of the gate, even if they get funded. *Never every say you have no competitors. Never every say "but if we get 2%..."* 
 - Marketing risk -- make sure your differentiation is super-sharp, because without that, you probably won't stand out from the noise. Then, model out your customer acquisition economics in detail and make sure that you can show how you'll get more revenue from a customer than it will cost in sales and marketing expense to acquire that customer.
 
 The most valuable thing you can do is actually build your product. When in doubt, focus on that.
@@ -61,9 +61,9 @@ And to end on a happy note, remember that "yes" can turn into "no" at any point 
 
 ## Part 3: "But I don't know any VCs!"
 
-The starting point for raising money from VCs when you don't know any VCs is to realize that __VCs work mostly through referrals__. 
+The starting point for raising money from VCs when you don't know any VCs is to realize that *VCs work mostly through referrals*. 
 
-The reason for this is simply the math: __any individual VC can only fund a few companies per year__, and for every one she funds, she probably meets with 15 or 20, and there are hundreds more that would like to meet with her that she doesn't possibly have time to meet with.
+The reason for this is simply the math: *any individual VC can only fund a few companies per year*, and for every one she funds, she probably meets with 15 or 20, and there are hundreds more that would like to meet with her that she doesn't possibly have time to meet with.
 
 Therefore, submitting an unsolicited business plan to a venture firm is likely to amount to just as much as submitting a screenplay "over the transom" to a Hollywood talent agency -- that is, precisely nothing.
 
@@ -77,7 +77,7 @@ Make a good first impression -- this requires thinking things ahread of time and
 
 The best thing you can walk in with is a working product. At least a beta or prototype of some form. Better if there is traction.
 
-__When in doubt, work on the product.__
+*When in doubt, work on the product.*
 
 Don't bother with a business plan. Most VCs will either fund a startup based on a fleshed out Powerpoint presentation of 20 slides, or they won't fund it at all.
 
@@ -85,13 +85,13 @@ Qualify: Do extensive research on venture capitalists and find the ones who focu
 
 #### Developing Contacts
 
-__The best way to develop contacts with VCs, in my opinion, is to work at a venture-backed startup, kick butt, get promoted, and network the whole way.__
+*The best way to develop contacts with VCs, in my opinion, is to work at a venture-backed startup, kick butt, get promoted, and network the whole way.*
 
 Or work for a well-regarded tech company like Google or Apple, or got to a major research university where tech companies regularly recruit, or transfer to a graduate school with connections to the VC community, or go to Y Combinator, or read VC blogs.
 
 More generally, it's a good idea for entrepreneurs who are looking for funding to blog -- about their startup, about interesting things going on, about their point of view. This puts an entrepreneur in the flow of conversation, which can lead to interaction with VCs through the normal medium of blogging.
 
-Finally, if you are a programmer, I highly encourage you, if you have time, to create or contribute to a meaningful open source project. The open source movement is an amazing opportunity for programmers all over the world to not only build useful software that lots of people can use, but also build their own reputations completely apart from whatever day jobs they happen to have. __Being able to email a VC and say, "I'm the creator of open source program X which has 50,000 users worldwide, and I want to tell you about my new startup" is a lot more effective than your normal pitch.__
+Finally, if you are a programmer, I highly encourage you, if you have time, to create or contribute to a meaningful open source project. The open source movement is an amazing opportunity for programmers all over the world to not only build useful software that lots of people can use, but also build their own reputations completely apart from whatever day jobs they happen to have. *Being able to email a VC and say, "I'm the creator of open source program X which has 50,000 users worldwide, and I want to tell you about my new startup" is a lot more effective than your normal pitch.*
 
 Your alternatives in reverse (declining) order of preference for funding are, in my view: angel funding, bootstrapping via consulting contracts or early customers, keeping your day job and working on your startup in your spare time, and credit card debt.
 
@@ -101,7 +101,7 @@ If you look at a broad cross-section of startups -- say, 30 or 40 or more; enoug
 
 First obvious fact: there is an incredibly wide divergence of success -- some of those startups are insanely successful, some highly successful, many somewhat successful, and quite a few of course outright fail.
 
-__Second obvious fact: there is an incredibly wide divergence of caliber and quality for the three core elements of each startup -- team, product, and market.__
+*Second obvious fact: there is an incredibly wide divergence of caliber and quality for the three core elements of each startup -- team, product, and market.*
 
 At any given startup, the team will range from outstanding to remarkably flawed; the product will range from a masterpiece of engineering to barely functional; and the market will range from booming to comatose.
 
@@ -115,7 +115,7 @@ On the other hand, if you ask engineers, many will say product. This is a produc
 
 Personally, I'll take the third position -- I'll assert that market is the most important factor in a startup's success or failure.
 
-__In a great market -- a market with lots of real potential customers -- the market pulls product out of the startup.__
+*In a great market -- a market with lots of real potential customers -- the market pulls product out of the startup.*
 
 The product doesn't need to be great; it just has to basically work. And, the market doesn't care how good the team is, as long as the team can produce that viable product. And when you have a great market, the team is remarkably easy to upgrade on the fly. This is the story of search keyword advertising, and Internet auctions, and TCP/IP routers.
 
@@ -137,7 +137,7 @@ Understand I'm not saying that you should shoot low in terms of quality of team,
 
 #### Third question: as a startup founder, what should I do about all this?
 
-__The only thing that matters is getting to product/market fit.__ Product/market fit means being in a good market with a product that can satisfy that market. 
+*The only thing that matters is getting to product/market fit.* Product/market fit means being in a good market with a product that can satisfy that market. 
 
 You can always feel when product/market fit isn't happening. The customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of "blah", the sales cycle takes too long, and lots of deals never close.
 
@@ -169,7 +169,7 @@ The downside of dealing with a big company is that he can capsize you -- maybe b
 
 ### So, what to do?
 
-__First, don't do startups that require deals with big companies to make them successful.__
+*First, don't do startups that require deals with big companies to make them successful.*
 
 Second, never assume that a deal with a big company is closed until the ink hits the paper and/or the cash hits the company bank account.
 
@@ -201,9 +201,9 @@ In general, as much as you can. Without giving away control of your company, and
 
 There is one additional consequence to raising a lot of money that you should bear in mind, although it is more important for some companies than others.
 
-That is __liquidation preference__. In the scenario where your company ultimately gets acquired: the more money you raise from outside investors, the higher the acquisition price has to be for the founders and employees to make money on top of the initial payout to the investors.
+That is *liquidation preference*. In the scenario where your company ultimately gets acquired: the more money you raise from outside investors, the higher the acquisition price has to be for the founders and employees to make money on top of the initial payout to the investors.
 
-__Raising money is never an accomplishment in and of itself__ -- it just raises the stakes for all the hard work you would have had to do anyway: actually building your business.
+*Raising money is never an accomplishment in and of itself* -- it just raises the stakes for all the hard work you would have had to do anyway: actually building your business.
 
 #### Some signs of cultural corrosion caused by raising too much money:
 - Hiring too many people -- slows everything down, and makes it harder to react and change.
@@ -219,7 +219,7 @@ As my old boss Jim Barksdale used to say, the main thing is to keep the main thi
 
 Tell everyone inside the company, over and over and over, until they can't stand it anymore, and then tell them some more, that _raising money does not count as an accomplishment_ and that you haven't actually done anything yet other than raise the stakes and increase the pressure.
 
-__The easiest way to lose control of your spending when you raise too much money is to hire too many people. The second easiest way is to pay people too much.__ Worry more about the first one than the second one; more people multiply spending a lot faster than a few raises.
+*The easiest way to lose control of your spending when you raise too much money is to hire too many people. The second easiest way is to pay people too much.* Worry more about the first one than the second one; more people multiply spending a lot faster than a few raises.
 
 ## Part 7: Why a startup's initial business plan doesn't matter that much
 
@@ -233,28 +233,28 @@ For the purposes of this post, definitions: An executive is a leader -- someone 
 
 However, in a startup, a successful executive must accomplish three other critical tasks simultaneously:
 
-- __Build her organization__ -- typically when an executive arrives or is promoted into her role at a startup, she isn't there to be a caretaker; rather she must build her organization, often from scratch.
-- __Be a primary individual contributor__ -- a startup executive must "roll up her sleeves" and produce output herself.
-- __Be a team player__ -- a startup executive must take personal responsibility for her relationships with her peers and people throughout the startup, in all functions and at all levels. Big companies can often tolerate internal rivalries and warfare; startups cannot.
+- *Build her organization* -- typically when an executive arrives or is promoted into her role at a startup, she isn't there to be a caretaker; rather she must build her organization, often from scratch.
+- *Be a primary individual contributor* -- a startup executive must "roll up her sleeves" and produce output herself.
+- *Be a team player* -- a startup executive must take personal responsibility for her relationships with her peers and people throughout the startup, in all functions and at all levels. Big companies can often tolerate internal rivalries and warfare; startups cannot.
 
-__Hiring:__ If you're not sure whether you need an executive for a function, don't hire one. Particularly before a startup has achieved product/market fit, it is often better to have a highly motivated manager or director running a function than an executive.
+*Hiring:* If you're not sure whether you need an executive for a function, don't hire one. Particularly before a startup has achieved product/market fit, it is often better to have a highly motivated manager or director running a function than an executive.
 
 Hire an executive only when it's clear that you need one: when an organization needs to get built; when hiring needs to accelerate; when you need more processes and structure and rigor to how you do things.
 
-__Second, hire the best person for the next nine months, not the next three years.__ Hire for what you need now -- and for roughly the next nine months. At the very least, you will get what you need now, and the person you hire may well be able to scale and keep going for years to come.Q
+*Second, hire the best person for the next nine months, not the next three years.* Hire for what you need now -- and for roughly the next nine months. At the very least, you will get what you need now, and the person you hire may well be able to scale and keep going for years to come.Q
 
-__Third, whenever possible, promote from within.__ Great companies develop their own executives. 
+*Third, whenever possible, promote from within.* Great companies develop their own executives. 
 
 - You get to develop your best people and turn them into executives, which is great for both them and you -- this is the single best, and usually the only, way to hold onto great people for long periods of time.
 - You ensure that your executives completely know and understand your company culture, strategy, and ethics.
 - Your existing people are the "devil you know" -- anyone new coming from outside is going to have flaws, often really serious ones, but you probably won't figure out what they are until after you've hired them.
 
 #### Key Things to Look At
-- __Look for someone who is hungry and driven__ -- someone who wants a shot at doing "their thing".
-- __Beware people who have "done it before".__ More often, you will be dealing with someone who is no longer hungry and driven.
-- __Don't disqualify someone based on ego or cockiness__ -- as long as she's not insane. Great executives are high-ego -- you want someone driven to run things, driven to make decisions, confident in herself and her abilities.
-- __Beware hiring a big company executive for a startup.__ The executive skill sets required for a big company vs a startup are very different.
-- __Really beware hiring an executive from an incredibly successful big company.__ The issue is that people who have been at an incredibly successful big company often cannot function in a normal, real world, competitive situation where they don't start every day with 80% market share.
+- *Look for someone who is hungry and driven* -- someone who wants a shot at doing "their thing".
+- *Beware people who have "done it before".* More often, you will be dealing with someone who is no longer hungry and driven.
+- *Don't disqualify someone based on ego or cockiness* -- as long as she's not insane. Great executives are high-ego -- you want someone driven to run things, driven to make decisions, confident in herself and her abilities.
+- *Beware hiring a big company executive for a startup.* The executive skill sets required for a big company vs a startup are very different.
+- *Really beware hiring an executive from an incredibly successful big company.* The issue is that people who have been at an incredibly successful big company often cannot function in a normal, real world, competitive situation where they don't start every day with 80% market share.
 
 Fifth, by all means, use an executive recruiter, but for sourcing, not evaluation. Betting that your recruiter is great at evaluation is not a risk you want to take. You're the one who has to fire the executive if it doesn't work out.
 

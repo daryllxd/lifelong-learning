@@ -17,15 +17,15 @@ We split AR into three different classes:
 - Data Object
 - Repository
 
-__The core idea here is every entity when instantiated is given a data object.__ The entity delegates its fields' access to the data object. The data object doesn't have to be an AR object so you can provide a stub or OpenStruct instead.
+*The core idea here is every entity when instantiated is given a data object.* The entity delegates its fields' access to the data object. The data object doesn't have to be an AR object so you can provide a stub or OpenStruct instead.
 
 Since the entity is a PORO, it doesn't know how to save/validate/update itself.
 
 #### Example
 
-__Schema:__ Migration (2 tables, orders, and items).
+*Schema:* Migration (2 tables, orders, and items).
 
-__Data Objects.__
+*Data Objects.*
 
     class OrderData < AR::Base
         self.table_name = "orders"
@@ -36,14 +36,14 @@ __Data Objects.__
         has_many :items, class_name: "ItemData", foreign_key: "order_id"
     end
 
-__Domain Objects.__
+*Domain Objects.*
 
     class Order
         include Edr::Model
         fields....
     end
 
-__Map domain objets to Data Objects via the Edr library.__
+*Map domain objets to Data Objects via the Edr library.*
 
     Edr::Registry.define do
         map Order, OrderData

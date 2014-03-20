@@ -6,37 +6,37 @@ Nobody does anything unless they think what they do matters.
 
 AGENT or Co-design Principle: The learning must feel like an agent in what they matter. Even in playing a game, you are co-designing the game because what you do in a game affects a game. What you do affects the game state. To be a successful player, you have to be a successful designer.
 
-__Customization:__ If there isn’t a way to customize the learning experience, then it lowers the sense of “mattering” and agency. Good games allow people to do things in different ways. Good games also invite you to try a new style!
+*Customization:* If there isn’t a way to customize the learning experience, then it lowers the sense of “mattering” and agency. Good games allow people to do things in different ways. Good games also invite you to try a new style!
 
-__Identity:__ When you are asked to learn algebra, everyone should have the right to ask "why should I learn this and what sort of people use this". The beginning of learning is "who am I going to be and what am I going to get when I learn this". Games are very good at creating identity: they give you an avatar, clear goals, clear roles, and a clear sense of what you are going to be. Learning should be an invitation to become a new type of person.
+*Identity:* When you are asked to learn algebra, everyone should have the right to ask "why should I learn this and what sort of people use this". The beginning of learning is "who am I going to be and what am I going to get when I learn this". Games are very good at creating identity: they give you an avatar, clear goals, clear roles, and a clear sense of what you are going to be. Learning should be an invitation to become a new type of person.
 
-__Manipulation:__ They allow you as a player to manipulate the game world in a VERY fine way, there is a lot of control. When humans feel they can manipulate something in a very fine way, they almost feel as if their body has gone to that space. This is why people jump when they jump in Mario. In fact, the game offers you tools to truly involve your mind and body, and humans offer good tools.
+*Manipulation:* They allow you as a player to manipulate the game world in a VERY fine way, there is a lot of control. When humans feel they can manipulate something in a very fine way, they almost feel as if their body has gone to that space. This is why people jump when they jump in Mario. In fact, the game offers you tools to truly involve your mind and body, and humans offer good tools.
 
 ## Problem-Based Learning
 
 Learning in school is sometimes about passing tests and getting stuff in your head, which is not that good since in real life, you actually need to solve problems.
 
-__The Fish Tank:__ When trying to fix problems, you have to deal with complexity. To study the Mississippi river, you can get a small fish tank to make things less complex. Games do this always.
+*The Fish Tank:* When trying to fix problems, you have to deal with complexity. To study the Mississippi river, you can get a small fish tank to make things less complex. Games do this always.
 
-__Sandboxes:__ This is an opportunity to be in a safe place but it feels that you are in a dangerous place. So you can try stuff without being judged by others. Learners need time to explore before they can level up.
+*Sandboxes:* This is an opportunity to be in a safe place but it feels that you are in a dangerous place. So you can try stuff without being judged by others. Learners need time to explore before they can level up.
 
-__Problem Solving:__ School today is not about solving problems but about learning facts. You can get test passes but it doesn't correlate to being actually able to use them to solve problems. If you use formulas and formulas as TOOLS for solving problems, then you get both: retention of the fact and problem solving. Games are just problem spaces with excellent tools to solve shit. A game also has a good win state.
+*Problem Solving:* School today is not about solving problems but about learning facts. You can get test passes but it doesn't correlate to being actually able to use them to solve problems. If you use formulas and formulas as TOOLS for solving problems, then you get both: retention of the fact and problem solving. Games are just problem spaces with excellent tools to solve shit. A game also has a good win state.
 
-__Well-Ordered Problems:__ The method of sequencing the problems affect how we think about how to solve the problems. Sometimes this leads to creative solutions. This is game level design. 
+*Well-Ordered Problems:* The method of sequencing the problems affect how we think about how to solve the problems. Sometimes this leads to creative solutions. This is game level design. 
 
-__Pleasantly Frustrating:__ Learning for human beings is best when it is pleasantly frustrating: you feel a challenge, but you know that with effort you can solve it. The frustration is not stressing you because you know you can solve it, eventaully. When you are at the _regime of confidence_, you feel good, especially when you are at the edge of this area.
+*Pleasantly Frustrating:* Learning for human beings is best when it is pleasantly frustrating: you feel a challenge, but you know that with effort you can solve it. The frustration is not stressing you because you know you can solve it, eventaully. When you are at the _regime of confidence_, you feel good, especially when you are at the edge of this area.
 
-__Information Just In Time and On-Demand:__ Language/information is effective when it is given just in time or on-demand. "Get it when you need it, get it when you can use it, and repeat it." "I need a book right now." Verbal information should be just in time and on-demand, not in big blocks.
+*Information Just In Time and On-Demand:* Language/information is effective when it is given just in time or on-demand. "Get it when you need it, get it when you can use it, and repeat it." "I need a book right now." Verbal information should be just in time and on-demand, not in big blocks.
 
-__Cycle of Expertise:__ Give a person a challenging problem, and they practice it over and over until they can do it and it becomes routine knowledge. When you give a person a new problem, they have to rethink and figure out new knowledge, and then they have to practice that, slowly. That's why games have boss battles. Everything you know before doesn't work anymore.
+*Cycle of Expertise:* Give a person a challenging problem, and they practice it over and over until they can do it and it becomes routine knowledge. When you give a person a new problem, they have to rethink and figure out new knowledge, and then they have to practice that, slowly. That's why games have boss battles. Everything you know before doesn't work anymore.
 
 ## Deep Understanding: Knowledge has to be stored deeply in your head.
 
-__Situated Meaning/Meaning as Action:__ You are given words in school. But how do words get meaning? In school, we think that words get meaning by other words (dictionary). People really understand a word when they can associate a noun or an action. It’s easier to understand things by experiencing them.
+*Situated Meaning/Meaning as Action:* You are given words in school. But how do words get meaning? In school, we think that words get meaning by other words (dictionary). People really understand a word when they can associate a noun or an action. It’s easier to understand things by experiencing them.
 
-__Systems Thinking:__ Most problems have to deal with complex systems. We're trying to understand how many variables interact in separate ways. Games are very good because it is a complex system. In fact, good players try to build a model in their head of "how does this game work and how do I get to game the goals and think of something that the designer didn't think of." Model-based reasoning is the foundation of scientific thinking.
+*Systems Thinking:* Most problems have to deal with complex systems. We're trying to understand how many variables interact in separate ways. Games are very good because it is a complex system. In fact, good players try to build a model in their head of "how does this game work and how do I get to game the goals and think of something that the designer didn't think of." Model-based reasoning is the foundation of scientific thinking.
 
-__Skills as Strategies:__ We know that you master some basic skills and practice them. The problem with school is that these drills are boring and unengaging. You want the person to be accomplishing something, but they need to practice skills over and over again.
+*Skills as Strategies:* We know that you master some basic skills and practice them. The problem with school is that these drills are boring and unengaging. You want the person to be accomplishing something, but they need to practice skills over and over again.
 
 ## Closing
 
@@ -52,13 +52,13 @@ Good games are possibility spaces in which we get good at doing new kinds of thi
 
 Good learning within games enables us to become knowledge producers, and give us ideas and knowledge.
 
-Sometimes, playing games means you get to learn stuff which you wouldn’t know before (pirate games give you pirate ideas). __So with modern technology, why couldn’t we make experiences around “being a…” (such as being a pirate)?__
+Sometimes, playing games means you get to learn stuff which you wouldn’t know before (pirate games give you pirate ideas). *So with modern technology, why couldn’t we make experiences around “being a…” (such as being a pirate)?*
 
 Games also have this idea of removing the boring parts and give you a direction of what’s going to happen.
 
 # 1.3: Games as Well-Defined Problems
 
-__Games are well-defined problems:__ There’s a way of solving this and there’s a way to solve this.
+*Games are well-defined problems:* There’s a way of solving this and there’s a way to solve this.
 
 Computational cognitive science: You model how people solve the problem using a computer and symbolic processing.
 
@@ -114,7 +114,7 @@ Exp: Kids were split into 2 groups: the control was shown a research packet and 
 
 # 2.4: Playtesting and Game Design
 
-__If you’re not willing to let someone play with your thing, then you’re not able to know if it’s good or not.__ Even just paper prototyping just lets you get something out. Ideas have to be compelling even at pen and paper.
+*If you’re not willing to let someone play with your thing, then you’re not able to know if it’s good or not.* Even just paper prototyping just lets you get something out. Ideas have to be compelling even at pen and paper.
 
 Sometimes, you can’t ask why they didn’t like the game. You can’t design from statistics. You design from the heart.
 
@@ -124,7 +124,7 @@ Failure should be entertaining. If the game laughs with you, you feel better. �
 
 Games for learning should feel like learning.
 
-__If I’m asking how can I make this fun, I’m asking the wrong question. If I’m asking where is the fun in this, I’m asking the right question.__
+*If I’m asking how can I make this fun, I’m asking the wrong question. If I’m asking where is the fun in this, I’m asking the right question.*
 
 #2.5: Situated Learning & Place-Based Games
 
@@ -140,7 +140,7 @@ Ex: (Place-based) Games can be used to re-engage the player into the local conte
 
 # 2.6: Control and Customization
 
-Why do kids find environments such as Minecraft or The Sims powerful (in the way that some ways adults didn’t)? __They have freedom in these environments.__ They have control over the virtual places when they didn’t in physical places. Customization is limited in the physical world.
+Why do kids find environments such as Minecraft or The Sims powerful (in the way that some ways adults didn’t)? *They have freedom in these environments.* They have control over the virtual places when they didn’t in physical places. Customization is limited in the physical world.
 
 This is very empowering for kids. Adults are privileged because we can do things to change our surroundings.
 
@@ -165,14 +165,14 @@ Oldenburg: _The home entertainment industry thrives in the dearth of the informa
 
 Characteristics of a third place according to Oldenburg:
 
-* __Neutral ground.__ People there are not obligated to be there financially etc.
-* __Leveler.__ _"It didn't matter what you drove to the arcade. If you suck at Asteroids, you suck."_ It's what you can do, not how rich you are.
-* __Conversation is the main activity.__ Yes.
-* __Accessibility & accomodation.__ MMOGs are available 24/7.
-* __The regulars.__ Usually the clan members. 78% of MMOGamers join a clan.
-* __A low profile.__ Games, even if it still has fanciful graphics, can be homely when people leave the game for newer games.
-* __Mood is playful.__ Self-exp.
-* __Home away from home.__ Seamon (1979)'s 5 defining traits: rootedness, feelings of possession, spiritual regeneration, feelings of being at ease, and warmth. Rootedness: People actually care for each other (guildmates).
+* *Neutral ground.* People there are not obligated to be there financially etc.
+* *Leveler.* _"It didn't matter what you drove to the arcade. If you suck at Asteroids, you suck."_ It's what you can do, not how rich you are.
+* *Conversation is the main activity.* Yes.
+* *Accessibility & accomodation.* MMOGs are available 24/7.
+* *The regulars.* Usually the clan members. 78% of MMOGamers join a clan.
+* *A low profile.* Games, even if it still has fanciful graphics, can be homely when people leave the game for newer games.
+* *Mood is playful.* Self-exp.
+* *Home away from home.* Seamon (1979)'s 5 defining traits: rootedness, feelings of possession, spiritual regeneration, feelings of being at ease, and warmth. Rootedness: People actually care for each other (guildmates).
 
 # 3.3: Games as Third Places: Games as Social Capital
 
@@ -196,7 +196,7 @@ Context: Myr is helping Jellybean which is a super newbie.
 * Master entruts more control to the learner.
 * Information given "just in time", no quizzes.
 * Myr keeps activities
-* __Master elf's actions are tied to a particular set of values.__ The master enculturates the apprentice into both practice and the ideology of how to be an elf. What's imporant?
+* *Master elf's actions are tied to a particular set of values.* The master enculturates the apprentice into both practice and the ideology of how to be an elf. What's imporant?
 	* Procedural dexterity: keyboard mechanics.
 	* Mentorship
 	* Efficiency: No wasted motion.
@@ -223,9 +223,9 @@ Action video games (FPS, car racing) have fast motions, many transient events, h
 
 Methodology: Since they want to make sure that the act of gaming increases their skill level, their control group is people who play Sims for 8 hours/week, and their experimental group is people who play action games inthe same time. Playing these games DO improve skill levels in terms of vision and cognitive abilities.
 
-Action games __improve low level vision__ (ex: comparing 2 pixels and their greyness). This can have applications both for the military and for people who have lazy eyes/poor vision.
+Action games *improve low level vision* (ex: comparing 2 pixels and their greyness). This can have applications both for the military and for people who have lazy eyes/poor vision.
 
-They also __improve visual acuity (2 lines (!) on an eye chart) and visual attention__. This can help when you are driving (because most of the time, accidents happen when something just appears, or at an intersection with a lot of visual noise).
+They also *improve visual acuity (2 lines (!) on an eye chart) and visual attention*. This can help when you are driving (because most of the time, accidents happen when something just appears, or at an intersection with a lot of visual noise).
 
 # 4.4-4.6: Multitasking/Speed of Processing/Summary
 
@@ -365,7 +365,7 @@ Overly narrow focus on the videogame technology itself may be a poor way to conc
 - Kids love games.
 - They are familiar tools for kids (they know how to learn through new media).
 
-__Computer games simulate the brain to produce dopamine. Dopamine helps orient attention and encourage the creation of connections between neurons. These connections are the physical basis for learning.__
+*Computer games simulate the brain to produce dopamine. Dopamine helps orient attention and encourage the creation of connections between neurons. These connections are the physical basis for learning.*
 
 ## Why do games motivate kids?
 
@@ -430,7 +430,7 @@ In this game, we have a river dying, and a ranger needs help. Immediately, the s
 
 Learners are protagonists in a new world, and there are consequences. And if the learners fail, they can just try again.
 
-__We want to change what success means. In school we get a naked view of the concept, but we lose its meaning. We have to develop a set of understanding of what it, the concept is. And games give us a set of tools which we use to solve these problems.__
+*We want to change what success means. In school we get a naked view of the concept, but we lose its meaning. We have to develop a set of understanding of what it, the concept is. And games give us a set of tools which we use to solve these problems.*
 
 # 6.7/6.8: Games for Assessment
 

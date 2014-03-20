@@ -22,7 +22,7 @@ If you want to embrace a language, it’s going to take time. You’re going to 
 
 I’m writing this assuming you already know a programming language or three or seven. The good news is, the more languages you know, the faster you can recognize the basic syntax patterns and logic structures of a new language. But the bad news is: the more languages you know, the more they tend to blur into a common model of computation in your head. This can make you blind to the elegant weirdnesses of your new language. 
 
-Resist the urge to judge weird things quickly; they often turn out to be the most powerful features of the language once you “go native”. If you see something you can’t stand, remind yourself that you haven’t seen everything there is to see, and give the new idiom a chance. Try it out and learn its tradeoffs. It’s okay to discard a bad idea in JavaScript once you understand why it’s a bad idea in JavaScript… but __it’s never a good idea to discard a feature of a new language based on your instincts–because your instincts come from other languages, not this one.__
+Resist the urge to judge weird things quickly; they often turn out to be the most powerful features of the language once you “go native”. If you see something you can’t stand, remind yourself that you haven’t seen everything there is to see, and give the new idiom a chance. Try it out and learn its tradeoffs. It’s okay to discard a bad idea in JavaScript once you understand why it’s a bad idea in JavaScript… but *it’s never a good idea to discard a feature of a new language based on your instincts–because your instincts come from other languages, not this one.*
 
 #### TL;DR This Is Mostly About Your Blind Spots
 

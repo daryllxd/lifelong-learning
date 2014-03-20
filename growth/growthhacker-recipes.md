@@ -10,7 +10,7 @@ Retention Idea: Watching Episodes (Event) + Send Email (Trigger) + Watch More Ep
 
 ## 13: Excess Inventory
 
-Traditional ad networks have publishers (i.e. blogs that publish content) and advertisers (i.e. companies that buy ads on that content). In my system I was the only advertiser since I didn't care about selling the inventory but just using the inventory myself. __Therefore, we approached bloggers in the growth niche with the following proposition: If you let us install an ad bar on the top of your site that links to other sites in our network, then for every two clicks you give away to others in the network we'll send one click back to you.__ Give 2 clicks. Get 1 click.
+Traditional ad networks have publishers (i.e. blogs that publish content) and advertisers (i.e. companies that buy ads on that content). In my system I was the only advertiser since I didn't care about selling the inventory but just using the inventory myself. *Therefore, we approached bloggers in the growth niche with the following proposition: If you let us install an ad bar on the top of your site that links to other sites in our network, then for every two clicks you give away to others in the network we'll send one click back to you.* Give 2 clicks. Get 1 click.
 
 We wanted to keep things as simple as possible so we just used a standard Hello Bar (https://www.hellobar.com) to handle the front-end of our ad network.
 

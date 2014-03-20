@@ -3,17 +3,17 @@
 
 Netscape 6.0 made the single worst strategic mistake that any software company can make:
 
-__They decided to rewrite the code from scratch.__
+*They decided to rewrite the code from scratch.*
 
 We're programmers. Programmers are, in their hearts, architects, and the first thing they want to do when they get to a site is to bulldoze the place flat and build something grand. We're not excited by incremental renovation: tinkering, improving, planting flower beds.
 
 There's a subtle reason that programmers always want to throw away the code and start over. The reason is that they think the old code is a mess. And here is the interesting observation: they are probably wrong. The reason that they think the old code is a mess is because of a cardinal, fundamental law of programming:
 
-__It’s harder to read code than to write it.__
+*It’s harder to read code than to write it.*
 
 This is why code reuse is so hard. This is why everybody on your team has a different function they like to use for splitting strings into arrays of strings. They write their own function because it's easier and more fun than figuring out how the old function works.
 
-__The idea that new code is better than old is patently absurd. Old code has been used. It has been tested. Lots of bugs have been found, and they've been fixed. There's nothing wrong with it.__ It doesn't acquire bugs just by sitting around on your hard drive. Au contraire, baby! Is software supposed to be like an old Dodge Dart, that rusts just sitting in the garage? Is software like a teddy bear that's kind of gross if it's not made out of all new material?
+*The idea that new code is better than old is patently absurd. Old code has been used. It has been tested. Lots of bugs have been found, and they've been fixed. There's nothing wrong with it.* It doesn't acquire bugs just by sitting around on your hard drive. Au contraire, baby! Is software supposed to be like an old Dodge Dart, that rusts just sitting in the garage? Is software like a teddy bear that's kind of gross if it's not made out of all new material?
 
 Back to that two page function. Yes, I know, it's just a simple function to display a window, but it has grown little hairs and stuff on it and nobody knows why. Well, I'll tell you why: those are bug fixes. One of them fixes that bug that Nancy had when she tried to install the thing on a computer that didn't have Internet Explorer. Another one fixes that bug that occurs in low memory conditions. Another one fixes that bug that occurred when the file is on a floppy disk and the user yanks out the disk in the middle. That LoadLibrary call is ugly but it makes the code work on old versions of Windows 95.
 
@@ -50,19 +50,19 @@ I said that TCP guarantees that your message will arrive. It doesn't, actually. 
 
 This is what I call a leaky abstraction. TCP attempts to provide a complete abstraction of an underlying unreliable network, but sometimes, the network leaks through the abstraction and you feel the things that the abstraction can't quite protect you from. This is but one example of what I've dubbed the Law of Leaky Abstractions:
 
-#### __All non-trivial abstractions, to some degree, are leaky.__
+#### *All non-trivial abstractions, to some degree, are leaky.*
 
 Abstractions fail. Sometimes a little, sometimes a lot. There's leakage. Things go wrong. It happens all over the place when you have abstractions. 
 
 #### Examples:
 - Something as simple as iterating over a large two-dimensional array can have radically different performance if you do it horizontally rather than vertically, depending on the "grain of the wood" -- one direction may result in vastly more page faults than the other direction, and page faults are slow. 
-- The SQL language is meant to abstract away the procedural steps that are needed to query a database, instead allowing you to define merely what you want and let the database figure out the procedural steps to query it. __But in some cases, certain SQL queries are thousands of times slower than other logically equivalent queries.__ A famous example of this is that some SQL servers are dramatically faster if you specify "where a=b and b=c and a=c" than if you only specify "where a=b and b=c" even though the result set is the same. You're not supposed to have to care about the procedure, only the specification. But sometimes the abstraction leaks and causes horrible performance and you have to break out the query plan analyzer and study what it did wrong, and figure out how to make your query run faster.
-- __Even though network libraries like NFS and SMB let you treat files on remote machines "as if" they were local, sometimes the connection becomes very slow or goes down, and the file stops acting like it was local, and as a programmer you have to write code to deal with this.__ The abstraction of "remote file is the same as local file" leaks. Here's a concrete example for Unix sysadmins. If you put users' home directories on NFS-mounted drives (one abstraction), and your users create .forward files to forward all their email somewhere else (another abstraction), and the NFS server goes down while new email is arriving, the messages will not be forwarded because the .forward file will not be found. The leak in the abstraction actually caused a few messages to be dropped on the floor.
-- C++ string classes are supposed to let you pretend that strings are first-class data. They try to abstract away the fact that strings are hard and let you act as if they were as easy as integers. Almost all C++ string classes overload the + operator so you can write s + "bar" to concatenate. But you know what? __No matter how hard they try, there is no C++ string class on Earth that will let you type "foo" + "bar", because string literals in C++ are always char*'s, never strings.__ The abstraction has sprung a leak that the language doesn't let you plug.
+- The SQL language is meant to abstract away the procedural steps that are needed to query a database, instead allowing you to define merely what you want and let the database figure out the procedural steps to query it. *But in some cases, certain SQL queries are thousands of times slower than other logically equivalent queries.* A famous example of this is that some SQL servers are dramatically faster if you specify "where a=b and b=c and a=c" than if you only specify "where a=b and b=c" even though the result set is the same. You're not supposed to have to care about the procedure, only the specification. But sometimes the abstraction leaks and causes horrible performance and you have to break out the query plan analyzer and study what it did wrong, and figure out how to make your query run faster.
+- *Even though network libraries like NFS and SMB let you treat files on remote machines "as if" they were local, sometimes the connection becomes very slow or goes down, and the file stops acting like it was local, and as a programmer you have to write code to deal with this.* The abstraction of "remote file is the same as local file" leaks. Here's a concrete example for Unix sysadmins. If you put users' home directories on NFS-mounted drives (one abstraction), and your users create .forward files to forward all their email somewhere else (another abstraction), and the NFS server goes down while new email is arriving, the messages will not be forwarded because the .forward file will not be found. The leak in the abstraction actually caused a few messages to be dropped on the floor.
+- C++ string classes are supposed to let you pretend that strings are first-class data. They try to abstract away the fact that strings are hard and let you act as if they were as easy as integers. Almost all C++ string classes overload the + operator so you can write s + "bar" to concatenate. But you know what? *No matter how hard they try, there is no C++ string class on Earth that will let you type "foo" + "bar", because string literals in C++ are always char*'s, never strings.* The abstraction has sprung a leak that the language doesn't let you plug.
 
-__One reason the law of leaky abstractions is problematic is that it means that abstractions do not really simplify our lives as much as they were meant to.__ When I'm training someone to be a C++ programmer, it would be nice if I never had to teach them about `char*`'s and pointer arithmetic. It would be nice if I could go straight to STL strings. But one day they'll write the code "foo" + "bar", and truly bizarre things will happen, and then I'll have to stop and teach them all about `char*`'s anyway. Or one day they'll be trying to call a Windows API function that is documented as having an OUT LPTSTR argument and they won't be able to understand how to call it until they learn about char*'s, and pointers, and Unicode, and wchar_t's, and the TCHAR header files, and all that stuff that leaks up.
+*One reason the law of leaky abstractions is problematic is that it means that abstractions do not really simplify our lives as much as they were meant to.* When I'm training someone to be a C++ programmer, it would be nice if I never had to teach them about `char*`'s and pointer arithmetic. It would be nice if I could go straight to STL strings. But one day they'll write the code "foo" + "bar", and truly bizarre things will happen, and then I'll have to stop and teach them all about `char*`'s anyway. Or one day they'll be trying to call a Windows API function that is documented as having an OUT LPTSTR argument and they won't be able to understand how to call it until they learn about char*'s, and pointers, and Unicode, and wchar_t's, and the TCHAR header files, and all that stuff that leaks up.
 
-__The law of leaky abstractions means that whenever somebody comes up with a wizzy new code-generation tool that is supposed to make us all ever-so-efficient, you hear a lot of people saying "learn how to do it manually first, then use the wizzy tool to save time." Code generation tools which pretend to abstract out something, like all abstractions, leak, and the only way to deal with the leaks competently is to learn about how the abstractions work and what they are abstracting. So the abstractions save us time working, but they don't save us time learning.__
+*The law of leaky abstractions means that whenever somebody comes up with a wizzy new code-generation tool that is supposed to make us all ever-so-efficient, you hear a lot of people saying "learn how to do it manually first, then use the wizzy tool to save time." Code generation tools which pretend to abstract out something, like all abstractions, leak, and the only way to deal with the leaks competently is to learn about how the abstractions work and what they are abstracting. So the abstractions save us time working, but they don't save us time learning.*
 
 And all this means that paradoxically, even as we have higher and higher level programming tools with better and better abstractions, becoming a proficient programmer is getting harder and harder.
 
@@ -73,10 +73,10 @@ The Law of Leaky Abstractions is dragging us down.
 ## The Joel Test: 12 Steps to Better Code
 [Link](http://www.joelonsoftware.com/articles/fog0000000043.html)
 
-1. __Do you use source control?__
-2. __Can you make a build in one step?__ More steps = more errors
-3. __Do you make daily builds?__ Breaking builds are so common that we want a pre-build always, so you can fix it anyway.
-4. __Do you have a bug database?__ A minimal useful bug database must include the following data for every bug:
+1. *Do you use source control?*
+2. *Can you make a build in one step?* More steps = more errors
+3. *Do you make daily builds?* Breaking builds are so common that we want a pre-build always, so you can fix it anyway.
+4. *Do you have a bug database?* A minimal useful bug database must include the following data for every bug:
 
 	- complete steps to reproduce the bug
 	- expected behavior
@@ -84,11 +84,11 @@ The Law of Leaky Abstractions is dragging us down.
 	- who it's assigned to
 	- whether it has been fixed or not
 
-5. __Do you fix bugs before writing new code?__ Easier to fix bugs that you just got than a few months down the line. Also better for fighting competition.
-6. __Do you have an up-to-date schedule?__
-7. __Do you have a spec?__ Code with no spec behind it usually sucks.
-8. __Do programmers have quiet working conditions?__ It's ridiculously easy to break flow in a programmer.
-9. __Do you use the best tools money can buy?__ Long compile time = distractions. Small monitor = sucks for debugging GUI code. Image manipulation program needed for modifying pix etc.
-10. __Do you have testers?__ Testers are too cheap to skimp on.
-11. __Do new candidates write code during their interview?__
-12. __Do you do hallway usability testing?__
+5. *Do you fix bugs before writing new code?* Easier to fix bugs that you just got than a few months down the line. Also better for fighting competition.
+6. *Do you have an up-to-date schedule?*
+7. *Do you have a spec?* Code with no spec behind it usually sucks.
+8. *Do programmers have quiet working conditions?* It's ridiculously easy to break flow in a programmer.
+9. *Do you use the best tools money can buy?* Long compile time = distractions. Small monitor = sucks for debugging GUI code. Image manipulation program needed for modifying pix etc.
+10. *Do you have testers?* Testers are too cheap to skimp on.
+11. *Do new candidates write code during their interview?*
+12. *Do you do hallway usability testing?*

@@ -12,7 +12,7 @@ With Active Record associations, we can streamline these — and other — opera
 
 ## The Types of Associations
 
-In Rails, an association is a connection between two Active Record models. Associations are implemented using macro-style calls, so that you can declaratively add features to your models. __By declaring that one model belongs_to another, you instruct Rails to maintain Primary Key–Foreign Key information between instances of the two models, and you also get a number of utility methods added to your model.__
+In Rails, an association is a connection between two Active Record models. Associations are implemented using macro-style calls, so that you can declaratively add features to your models. *By declaring that one model belongs_to another, you instruct Rails to maintain Primary Key–Foreign Key information between instances of the two models, and you also get a number of utility methods added to your model.*
 
 	belongs_to, has_one, has_many, has_many :through, has_one :through, has_and_belongs_to_many
 
@@ -138,7 +138,7 @@ The distinction is in where you place the foreign key (it goes on the table for 
 
 The simplest rule of thumb is that you should set up a `has_many` :through relationship if you need to work with the relationship model as an independent entity. If you don't need to do anything with the relationship model, it may be simpler to set up a `has_and_belongs_to_many` relationship (though you'll need to remember to create the joining table in the database).
 
-__You should use `has_many` :through if you need validations, callbacks, or extra attributes on the join model.__
+*You should use `has_many` :through if you need validations, callbacks, or extra attributes on the join model.*
 
 #### Polymorphic Associations
 
@@ -161,13 +161,13 @@ Similarly, you can retrieve `@product.pictures`.
 
 ## 3 Tips, Tricks, and Warnings
 
-- __Controlling Caching:__ All of the association methods are built around caching and is shared among the methods.
-- __Name Collisions:__ Don't use names like `attributes` or `connection`.
+- *Controlling Caching:* All of the association methods are built around caching and is shared among the methods.
+- *Name Collisions:* Don't use names like `attributes` or `connection`.
 
 
 #### Updating the Schema
 
-__When you declare a `belongs_to` association, you need to create foreign keys as appropriate.__
+*When you declare a `belongs_to` association, you need to create foreign keys as appropriate.*
 
     class Order < ActiveRecord::Base
       belongs_to :customer
@@ -185,7 +185,7 @@ __When you declare a `belongs_to` association, you need to create foreign keys a
       end
     end
 
-__If you create a `has_and_belongs_to_many` association, you need to explicitly create the joining table.__ 
+*If you create a `has_and_belongs_to_many` association, you need to explicitly create the joining table.* 
 
 The precedence between model names is calculated using the < operator for String. "`paper_boxes`" and "`papers`" to generate a join table name of "`papers_paper_boxes`" because of the length of the name "`paper_boxes`", but it in fact generates a join table name of "`paper_boxes_papers`" (because the underscore '_' is lexicographically less than 's' in common encodings).
 
@@ -206,13 +206,13 @@ The precedence between model names is calculated using the < operator for String
       end
     end
 
-__We pass id: false to `create_table` because that table does not represent a model. That's required for the association to work properly.__
+*We pass id: false to `create_table` because that table does not represent a model. That's required for the association to work properly.*
 
 #### Controlling Association Scope [TODO]
 
 #### Bi-directional Associations
 
-It's normal to have a `Customer has_many :orders` and `Order belongs_to :customer`, but by default, AR doesn't know about the connection between these associations. __This happens because c and o.customer are two different in-memory representations of the same data, and neither one is automatically refreshed from changes to the other.__
+It's normal to have a `Customer has_many :orders` and `Order belongs_to :customer`, but by default, AR doesn't know about the connection between these associations. *This happens because c and o.customer are two different in-memory representations of the same data, and neither one is automatically refreshed from changes to the other.*
 
 Active Record provides the :inverse_of option so that you can inform it of these relations:
 

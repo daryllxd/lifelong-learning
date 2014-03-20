@@ -36,7 +36,7 @@ Here’s a paraphrased example from a Rails app I reviewed recently. This app us
       end
     end
 
-__Just because we’re calling methods in another class does not mean we’re programming against an abstraction.__ 
+*Just because we’re calling methods in another class does not mean we’re programming against an abstraction.* 
 
 It’s certainly better than making raw HTTP calls to Braintree, but our choice of vendor and gem used are implementation details that have leaked into our business logic.
 

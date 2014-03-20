@@ -21,7 +21,7 @@ Best practices:
 - It describes a set of expectations of what the `Contact` model should look like.
 - Each example only expects one thing. Firstname, lastname, and email validations are tested separately, so even if an example fails, I know it's because of what specific validation.
 - Each example is explicit.
-- __Each example's description begins with a verb, not _should_.__ Readability is important!
+- *Each example's description begins with a verb, not _should_.* Readability is important!
 
 When we add models via `model` or `scaffold`, the model spec file will be added automatically.
 
@@ -57,7 +57,7 @@ Use the new syntax only, bitches!
       expect(Contact.new(firstname: nil)).to have(1).errors_on(:firstname)
     end
 
-It's easier to omit validations than you might imagine. __More importantly, if you think about what validations should have _while_ writing tests, you are more likely to remember to include them.__
+It's easier to omit validations than you might imagine. *More importantly, if you think about what validations should have _while_ writing tests, you are more likely to remember to include them.*
 
 Testing duplicate email:
 
@@ -137,10 +137,10 @@ Regarding DRYness, optimize for readability. If you find yourself scrolling up a
 
 #### Summary
 
-- __Use active, explicit expectations.__ Use verbs to explain what an examples' results should be. Only check for one result per example.
-- __Test for what you expect to happen and for what you expect to not happen.__
-- __Test for edge cases.__
-- __Organize your specs for good readability.__
+- *Use active, explicit expectations.* Use verbs to explain what an examples' results should be. Only check for one result per example.
+- *Test for what you expect to happen and for what you expect to not happen.*
+- *Test for edge cases.*
+- *Organize your specs for good readability.*
 
 #### Generating tests
 

@@ -20,29 +20,29 @@ Clear definitions, clear expectations. Everybody should understand what they agr
 
 ## Bad Predicaments
 
-__Company lays off entire division.__ Had a contract not been in place, we would have spent a ton of time and money getting that job. 
+*Company lays off entire division.* Had a contract not been in place, we would have spent a ton of time and money getting that job. 
 
 The truth is you can write a mean letter, but if you want a lawsuit you want a contract.
 
-__Client goes rogue.__ It becomes a different project than the one you started with. That project is done. Open a new contract. When you're negotiating a sticky point you say that there is a scope of work. If you change it, you have to amend the scope of work.
+*Client goes rogue.* It becomes a different project than the one you started with. That project is done. Open a new contract. When you're negotiating a sticky point you say that there is a scope of work. If you change it, you have to amend the scope of work.
 
-__"You can trust us."__ It's not a matter of trust. It's a matter of not knowing the client. I have to not trust them, and that's what you do when you have a business deal, you don't want to necessarily trust them, you want them to really pay you.
+*"You can trust us."* It's not a matter of trust. It's a matter of not knowing the client. I have to not trust them, and that's what you do when you have a business deal, you don't want to necessarily trust them, you want them to really pay you.
 
 You cannot start a relationship like this because things will be really onerous. 
 
-__Client brings in another designer.__ That's a firable offense. We have been hired to solve a problem, if the client decides to bring somebody else, we're now in competition with this other designer.
+*Client brings in another designer.* That's a firable offense. We have been hired to solve a problem, if the client decides to bring somebody else, we're now in competition with this other designer.
 
-__A good lawyer makes you money.__ You get a lawyer when you decide to stop being a design amateur and decide to becoem a design professional. Decent lawyers will tell you what to expect to pay for stuff. Ask questions, if they don't answer how much stuff costs, then find another lawyer.
+*A good lawyer makes you money.* You get a lawyer when you decide to stop being a design amateur and decide to becoem a design professional. Decent lawyers will tell you what to expect to pay for stuff. Ask questions, if they don't answer how much stuff costs, then find another lawyer.
 
 ## 6 Things About Contracts
 
-__Contracts protect both parties.__
+*Contracts protect both parties.*
 
-__Don't start work without a contract.__
+*Don't start work without a contract.*
 
-__Don't blindly accept their terms.__
+*Don't blindly accept their terms.*
 
-__Anticipate negotiation, but don't back down on important stuff.__
+*Anticipate negotiation, but don't back down on important stuff.*
 
 Don't back down on:
 
@@ -50,9 +50,9 @@ Don't back down on:
 - Termination (Kill fee)
 - Liability. Check for conditions such as "no bugs (XD)", "no stock photos", "no open-source software".
 
-__Lawyers talk to lawyers.__ If a company has a lawyer to protect them, then we have a lawyer to protect us.
+*Lawyers talk to lawyers.* If a company has a lawyer to protect them, then we have a lawyer to protect us.
 
-__Be specific and confident about money.__ If the first thing out of your mouth is "umm", you just lost 10 grand. If you know, say. If you don't, tell them you don't know but you'll get back to them. Just sound like you know what you're talking about even though you don't.
+*Be specific and confident about money.* If the first thing out of your mouth is "umm", you just lost 10 grand. If you know, say. If you don't, tell them you don't know but you'll get back to them. Just sound like you know what you're talking about even though you don't.
 
 ## 3 Point Winning Strategy
 - Contracts Up Front

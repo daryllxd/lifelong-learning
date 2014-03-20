@@ -16,15 +16,15 @@ We know that STRESS is a precondition for addiction. When scientists removed the
 
 There's just two things that matter when forming a habit:
 
-__Frequency:__ People who flossed more often flossed more.
+*Frequency:* People who flossed more often flossed more.
 
-__Attitude change:__ People who perceived the behavior differently. If they saw flossing as something different "wow it just seems weird to not floss before going to sleep" they were more likely to floss.
+*Attitude change:* People who perceived the behavior differently. If they saw flossing as something different "wow it just seems weird to not floss before going to sleep" they were more likely to floss.
 
 #### Why
 
 - Habits help create a higher lifetime value. They are adding to the bottom line every month and they have a higher lifetime value.
 - We have a greater pricing flexibility if the user has a habit. We can change our pricing structure.
-- It supercharges growth. __Without engagement, virality is not enough. Without enagement, we have a leaky bucket, they use the product a few times, then go out.__
+- It supercharges growth. *Without engagement, virality is not enough. Without enagement, we have a leaky bucket, they use the product a few times, then go out.*
 - Creating consumer habits increases defensibility.
 
 If your product requires habits (unprompted user engagement), then this course will have a design pattern, a la Lean Startup. Lean Startup: Build, Measure, Learn.
@@ -40,7 +40,7 @@ Why does our business require habits?
 - How frequency do you expect users to engage?
 - What acton do you want to make into a habit?
 
-__If the behavior less frequently than the span of about a week, it's hard to create new habits. Not impossible, but very difficult.__
+*If the behavior less frequently than the span of about a week, it's hard to create new habits. Not impossible, but very difficult.*
 
 ## Finding Internal Triggers and Placing External Triggers
 
@@ -107,7 +107,7 @@ This is used in ADVERTISING! Ads want to change intending outcomes and behaviors
 
 Ability: Six factors. Time, money, physical effort, brain cycles (how difficult something is to understand), social deviance (how often do we see other people doing the behavior), non-routine.
 
-Non-routine: Just the fact that I've done something similar before means that I would like to do it again in the future. We call this __practice__, or "I've been doing this so long that this is what I do."
+Non-routine: Just the fact that I've done something similar before means that I would like to do it again in the future. We call this *practice*, or "I've been doing this so long that this is what I do."
 
 Ex: Using Google. People are so averse to switching from Google because anythine else "just looks weird". So novelty is a liability. When the interface is too new, it's hard to use. Ex: QR code. It was just too new and too outside the routines of how people use their phones.
 
@@ -137,7 +137,7 @@ Time, money, physical effort, brain cycles, social deviance, non-routine/new.
 
 Nucleus Accumbens: Part of the brain that is activated when we crave: sex, objects of desire, (junk) food, and technology.
 
-Were Olds & Milner simulating pleasure? No, actually. __It is not about providing pleasure, but simulating the stress of desire. Our reward system activates when it _anticipates reward_, not when the reward actually comes. This is the itch that we want to scratch.__
+Were Olds & Milner simulating pleasure? No, actually. *It is not about providing pleasure, but simulating the stress of desire. Our reward system activates when it _anticipates reward_, not when the reward actually comes. This is the itch that we want to scratch.*
 
 The unknown is fascinating. When the question was asked, maybe your attention perked up, and that's exactly why stuff such as movies/books capture our attention, because of the mystery.
 
@@ -157,7 +157,7 @@ Money! When a gambler plays on the slot machine, there is a variable component t
 
 Ex: "Ross Dress For Less", this company has done well. JC Penney, when every variable reward was removed, its sales tanked. At Ross, you shop by your size, and you see single, individual items that are different. It entices the customers into "the treasure hunt", or variable rewards of the hunt, special deals for the individual item.
 
-__This is why scrolling feed is super popular, because it is the hunt for variable rewards. And if I want more, all I need to do is just flick! Scrolling is much like pulling the lever on a stock machine.__ The master of this is Pinterest. It is "searching and searching for what the next reward might be".
+*This is why scrolling feed is super popular, because it is the hunt for variable rewards. And if I want more, all I need to do is just flick! Scrolling is much like pulling the lever on a stock machine.* The master of this is Pinterest. It is "searching and searching for what the next reward might be".
 
 ##### Self: Search for Self-Achievement.
 
@@ -201,7 +201,7 @@ This is important because in the real world, stuff depreciates, but in the virtu
 
 >Investments create preference.
 
-It turns out that our investments literally change our perceptions of our behavior. __Asking users to do a bit of work _at the right time_ can be crucial.__ This is _after the reward_, we are putting something after the reward happens.
+It turns out that our investments literally change our perceptions of our behavior. *Asking users to do a bit of work _at the right time_ can be crucial.* This is _after the reward_, we are putting something after the reward happens.
 
 ## Final Thoughts
 

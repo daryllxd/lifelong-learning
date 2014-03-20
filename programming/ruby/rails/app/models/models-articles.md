@@ -188,7 +188,7 @@ Patterns:
 
 In practice it usually involves dealing with response headers, authentication and a host of junk that isn't related to your model.
 
-__Models are not necessarily subclasses of ActiveRecord::Base.__
+*Models are not necessarily subclasses of ActiveRecord::Base.*
 
 Typical Model
 
@@ -222,7 +222,7 @@ Config file-ish. As a config file, it's great! DSL for relations, validations, A
 		save
 	end
 
-Not that cool. While you can see everything in one file, and there is less thought involved, __you can't test separate concerns in isolation__ and __there is no clear structure__.
+Not that cool. While you can see everything in one file, and there is less thought involved, *you can't test separate concerns in isolation* and *there is no clear structure*.
 
 Proposed solution: Keep the scopes and shit, but the operations get moved to another file.
 
@@ -272,7 +272,7 @@ Proposed solution: Keep the scopes and shit, but the operations get moved to ano
 - Person is still a config file, the include directives up at the top fit right in and we've removed clutter at the bottom.
 - Our controller is unchanged, `person.confuse` still works as expected.
 - We've separated different concerns into separate files, so it's easy to see how a given concern works in one place.
-- __In this case, methods that rely on the underlying ActiveRecord super class are separated from methods that do arbitrary domain logic.__
+- *In this case, methods that rely on the underlying ActiveRecord super class are separated from methods that do arbitrary domain logic.*
 - Each module is testable individually. Mocks that extend it just need to respond to any required API for the module to function.
 
 Another important benefit we get here (that doesn't quite fit into a bullet point) is that any modules that we delegate to can in turn delegate to a different set of domain-level classes and modules that perform arbitrary logic for you. In this way, the included modules act as a gateway between your actual domain-logic and your ActiveRecord::Base subclasses.

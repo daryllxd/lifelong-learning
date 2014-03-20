@@ -10,9 +10,9 @@ Migrations are stored as files in the `db/migrate` directory, one for each migra
 
 The name of the file is of the form `YYYYMMDDHHMMSS_create_products.rb`, that is to say a UTC timestamp identifying the migration followed by an underscore followed by the name of the migration.
 
-__The name of the migration class (CamelCased version) should match the latter part of the file name.__ For example `20080906120000_create_products.rb` should define class CreateProducts and `20080906120001_add_details_to_products.rb` should define AddDetailsToProducts.
+*The name of the migration class (CamelCased version) should match the latter part of the file name.* For example `20080906120000_create_products.rb` should define class CreateProducts and `20080906120001_add_details_to_products.rb` should define AddDetailsToProducts.
 
-__Add or remove column:__ If the migration name is of the form "AddXXXToYYY" or "RemoveXXXFromYYY" and is followed by a list of column names and types then a migration containing the appropriate `add_column` and `remove_column` statements will be created.
+*Add or remove column:* If the migration name is of the form "AddXXXToYYY" or "RemoveXXXFromYYY" and is followed by a list of column names and types then a migration containing the appropriate `add_column` and `remove_column` statements will be created.
 
     $ rails generate migration AddPartNumberToProducts part_number:string
 
@@ -20,7 +20,7 @@ __Add or remove column:__ If the migration name is of the form "AddXXXToYYY" or 
       add_column :products, :part_number, :string
     end
 
-__Create table:__ If the migration name is of the form "CreateXXX" and is followed by a list of column names and types then a migration creating the table XXX with the columns listed will be generated. For example:
+*Create table:* If the migration name is of the form "CreateXXX" and is followed by a list of column names and types then a migration creating the table XXX with the columns listed will be generated. For example:
 
     $ rails generate migration CreateProducts name:string part_number:string
 
@@ -31,7 +31,7 @@ __Create table:__ If the migration name is of the form "CreateXXX" and is follow
       end
     end
 
-__Add foreign key:__ Also, the generator accepts column type as references(also available as belongs_to). For instance
+*Add foreign key:* Also, the generator accepts column type as references(also available as belongs_to). For instance
 
     $ rails generate migration AddUserRefToProducts user:references
 
@@ -41,9 +41,9 @@ __Add foreign key:__ Also, the generator accepts column type as references(also 
       end
     end
 
-__This migration will create a user_id column and appropriate index.__
+*This migration will create a user_id column and appropriate index.*
 
-__Join a table:__ There is also a generator which will produce join tables if JoinTable is part of the name:
+*Join a table:* There is also a generator which will produce join tables if JoinTable is part of the name:
 
     $ rails g migration CreateJoinTableCustomerProduct customer product
 

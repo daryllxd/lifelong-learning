@@ -6,9 +6,9 @@ History is simply the next stage in the process of ongoing complexity in the uni
 
 ## Revolutions
 
-* __Cognitive Revolution (70 KYA):__ Homo sapiens evolved unique cognitive abilities that gave it immense power
-* __Agricultural Revolution (12 KYA):__ Homo sapiens domesticated animals and plants, established cities.
-* __Scientific Revolution (500 YA):__ Homo sapiens gains more and more power by understanding how the world works, is able to manipulate the smallest units of matter.
+* *Cognitive Revolution (70 KYA):* Homo sapiens evolved unique cognitive abilities that gave it immense power
+* *Agricultural Revolution (12 KYA):* Homo sapiens domesticated animals and plants, established cities.
+* *Scientific Revolution (500 YA):* Homo sapiens gains more and more power by understanding how the world works, is able to manipulate the smallest units of matter.
 
 ## Cognitive Revolution
 
@@ -42,7 +42,7 @@ The problem is the skeleton evolved for a creature that moves on four legs as op
 
 Women paid more for the innovation. Your hips have to be narrow, and their birth canal has to be narrow. While their birth canal was getting smaller, the human (and baby) brain was getting bigger. Women and children began to die during childbirth more than the other great apes.
 
-The solution was giving birth earlier than before, when the baby head was smaller. This evolved through natural selection. __Even now, humans give birth earlier than any other animal.__ This is why human babies are helpless and completely dependent on elders for a long time as opposed to baby horses or baby cats who are mobile almost immediately after birth.
+The solution was giving birth earlier than before, when the baby head was smaller. This evolved through natural selection. *Even now, humans give birth earlier than any other animal.* This is why human babies are helpless and completely dependent on elders for a long time as opposed to baby horses or baby cats who are mobile almost immediately after birth.
 
 Humans evolved social ties because it took many people to bring a child up. This is one of the reasons why tribes were a thing. Because of this, humans can be educated and socialized than a far greater degree than any other mammal.
 
@@ -75,9 +75,9 @@ In this respect, the domestication of fire was the first important step on the w
 
 Almost all scholars agree that by 150 KYA, East Africa was populated by Homo sapiens that looked like you and me. And during 70 KYA, they arrived in the Middle East, which was populated by the other human species.
 
-The __Interbreeding theory__ says that as Sapiens spread throughout the world, they bred with the other humans. Middle Eastern people are suggested to have a mix of Neanderthal in them. Humans who went to China and East Asia are also speculated to have interbred with Erectus.
+The *Interbreeding theory* says that as Sapiens spread throughout the world, they bred with the other humans. Middle Eastern people are suggested to have a mix of Neanderthal in them. Humans who went to China and East Asia are also speculated to have interbred with Erectus.
 
-The __Replacement theory__ says that there was no sex between Neanderthals and Sapiens, and children between them are infertile, and the Neanderthals died out. This means that all humans living today share the same ancestors in East Africa.
+The *Replacement theory* says that there was no sex between Neanderthals and Sapiens, and children between them are infertile, and the Neanderthals died out. This means that all humans living today share the same ancestors in East Africa.
 
 These theories have political repercussions, as if replacement theory is correct, everyone is equal, and if interbreeding is right, not everyone is equal (political dynamite). For a time, Replacement theory has always been thought to be the safe and politically correct decision. But in 2010, when they mapped the Neanderthal genome and they compared it with people today, it turned out that about 4% of the unique human genes in Europe and the Middle East were from the Neanderthals. Also, up to 6% of the genes in Aboriginals and Melanasians were from the Denisovans.
 
@@ -107,15 +107,15 @@ This is remarkable because for a long amount of time, they were used to the Afri
 
 This is the first indication that something was happening to the Sapiens beginning 70 KYA. Not only did Sapiens spread, but it also adapted. It was also in 70 KYA that there was also an appearance of new technologies.
 
-- __Boats/rafts:__ Sapiens used this to travel to islands.
-- __The needle:__ one of the most important inventions in the history. While people (including Neanderthals) had worn clothing before, they couldn’t sew things together. Once Sapiens was able to sew clothing, boots, and tents, they were now able to adapt to the cold. (Neanderthals were not able to get to cold Scandinavia).
-- __Oil lamps:__ you put the animal fats inside. Sapiens were able to get into caves and to produce pictures on the walls.
-- __Upgrades:__ Prior to 70 KYA, everyone used the same tools (spear points). But since 70 KYA, new styles of spear points were being released every few thousands of years.
-- __Jewelry, art, praying, complex societies (100s of people), religion:__ 30 KYA sculpture with the head of lion and body of human. Sapiens has always had the ability to imagine things that did not exist.
+- *Boats/rafts:* Sapiens used this to travel to islands.
+- *The needle:* one of the most important inventions in the history. While people (including Neanderthals) had worn clothing before, they couldn’t sew things together. Once Sapiens was able to sew clothing, boots, and tents, they were now able to adapt to the cold. (Neanderthals were not able to get to cold Scandinavia).
+- *Oil lamps:* you put the animal fats inside. Sapiens were able to get into caves and to produce pictures on the walls.
+- *Upgrades:* Prior to 70 KYA, everyone used the same tools (spear points). But since 70 KYA, new styles of spear points were being released every few thousands of years.
+- *Jewelry, art, praying, complex societies (100s of people), religion:* 30 KYA sculpture with the head of lion and body of human. Sapiens has always had the ability to imagine things that did not exist.
 
 Scholars believed that these inventions were because of a cognitive revolution that happened 70 KYA. While our ancestors in E Africa looked like us and had a brain size like us, they were not able to talk like us. The 70 KYA people who settled Australia, they were like us.
 
-__History begins with this cognitive revolution.__
+*History begins with this cognitive revolution.*
 
 Scholars believe that there was a change in the internal structure of the brain that led to all the big revolutions in Sapiens’ abilities. There might have been some part of the brain that became connected to create our abilities. We still don’t know why this happened. This might have been pure chance, but still, it happened. What changed?
 
@@ -246,7 +246,7 @@ Foragers also lived in small communities throughout the country where it was not
 
 Experts say that the original affluent societies existed long before the Agricultural Revolution.
 
-__You should not judge history from your perspective as a middle class or elite, judge it from the perspective of the peasants. In fact, people living 20 KYA lived better than the peasants today.__
+*You should not judge history from your perspective as a middle class or elite, judge it from the perspective of the peasants. In fact, people living 20 KYA lived better than the peasants today.*
 
 ## 3.3: Daily Life in the Stone Age: Segment 3
 
@@ -350,7 +350,7 @@ Agricultural Revolution: The transition to agriculture from a life of hunting an
 
 Of the thousands of species that we had, there were just a handful of species that can be domesticated. That’s why agriculture arises only in some places, such as the Middle East.
 
-__There is no evidence that people became more intelligent around the time of the Agricultural Revolution.__ Foragers knew how plants and animals reproduced already.
+*There is no evidence that people became more intelligent around the time of the Agricultural Revolution.* Foragers knew how plants and animals reproduced already.
 
 Hunting and agriculture also did not necessarily improve the lives of people. Agriculture created: pampered elites (they ate all the food), peasants who worked harder but ate less food, and a boom in population.
 
@@ -396,7 +396,7 @@ By eating just wheat, humans exposed themselves to a vulnerability to drought.
 
 People did not abandon the plan because it took several generations before the people knew that this was bad for them, people didn’t remember because several generations elapsed, and the population just kept growing and growing.
 
-__The desire to have a better life actually trapped humans to what is actually a worse life.__
+*The desire to have a better life actually trapped humans to what is actually a worse life.*
 
 One of the lows of history is that luxuries become luxuries over time.
 
@@ -660,7 +660,7 @@ Money was created multiple times in history. This was no technological breakthro
 
 #### Money
 
-__The value of money depends only on the imagination of the people, not in the worth of the material that money is made of.__
+*The value of money depends only on the imagination of the people, not in the worth of the material that money is made of.*
 
 More than 90% of the money today (there is about $500 trillion) exist only on computer screens and computer servers. “Printing money” means modifying files in the computer.
 
@@ -805,7 +805,7 @@ The many values that people use to fight empires (“lack of human rights”) we
 
 While it is tempting to divide history into “good guys vs. bad guys”, most of today’s cultures are based on imperial legacies. Even the very values which we use in order to criticize the empires are the legacies of the empires.
 
-There are schools of thought that want to purge Imperial legacies and they want to reinstate “pure, authentic cultures”. __No such cultures exist today on Earth. All human cultures today are in part the legacies of empires and civilizations.__
+There are schools of thought that want to purge Imperial legacies and they want to reinstate “pure, authentic cultures”. *No such cultures exist today on Earth. All human cultures today are in part the legacies of empires and civilizations.*
 
 Ex: India. Independent India is in many respects the child of the British empire. The British united hundreds of warring tribes and it created a shared national consciousness among the Indians. They also created or influenced the judicial system, railroad network, western democracy in its British form, cricket, the national drink (tea), and the English language that Indians use.
 
@@ -881,17 +881,17 @@ While people can choose who or how many gods they would follow, eventually, some
 	- Because of this belief, Christians started to spread Christianity to basically everyone.
 - Islam: In the 7th century, Islam started in Arabia, which then spread from the Atlantic to Indonesia.
 
-__Generally, missionary religions are a bit more extreme. Monotheists could not reconcile two opposing gods. Oftentimes, to prove this, they waged wars.__
+*Generally, missionary religions are a bit more extreme. Monotheists could not reconcile two opposing gods. Oftentimes, to prove this, they waged wars.*
 
 In some ways, polytheism and animism still lives on in the monotheist religions. It is not that easy to believe in just one god because Sapiens has a tendency to divide things according to “me vs. them”. Consequently, while there is just one god, Christians created the concept of saints, which protect each country, or each profession, or each disease (lol). Sometimes, people take the old god and turn them into Christians. For instance, the Irish god Brigid became St. Brigid.
  
 #### Dualistic Religions
 
-__Dualistic religions believe in the existence of two opposing powers: good vs. evil.__
+*Dualistic religions believe in the existence of two opposing powers: good vs. evil.*
 
 Evil is an “independent power” that is not created by the good god, and the entire world is a battleground between the forces of good and evil.
 
-__Dualism is very attractive because it answers the problem of evil and why there is so much evil and suffering in the world, and why good people suffer.__
+*Dualism is very attractive because it answers the problem of evil and why there is so much evil and suffering in the world, and why good people suffer.*
 
 For a monotheist, people have to make tricks to justify God allowing suffering in the world.
 
@@ -935,9 +935,9 @@ Dominant religion: humanism (the worship of humans).
 
 Humanism is the belief that Sapiens has a unique nature and is fundamentally different from all the other animals in nature, and this determines the meaning of everything in the universe. The supereme good is the good of the Sapiens. Humanists worship humanity, but they have different definitions of humanity.
 
-__Liberal humanism:__ Humanity is a quality of individual humans. The sacred nature of humanity resides in each and every individual Sapiens (liberty). According to liberalism, we should listen to our inner voice (the inner voice of humanity).  This inner voice = human rights. This is influenced from Christianity’s “everyone has a soul”.
+*Liberal humanism:* Humanity is a quality of individual humans. The sacred nature of humanity resides in each and every individual Sapiens (liberty). According to liberalism, we should listen to our inner voice (the inner voice of humanity).  This inner voice = human rights. This is influenced from Christianity’s “everyone has a soul”.
 
-__Socialism:__ Humans are a collective. It seeks equality between all humans. Inequality is the worst blasphemy against the sanctity of humanity. When the rich have more comfortable lives than the poor, this means that we value money over the fundamental laws of the universe.
+*Socialism:* Humans are a collective. It seeks equality between all humans. Inequality is the worst blasphemy against the sanctity of humanity. When the rich have more comfortable lives than the poor, this means that we value money over the fundamental laws of the universe.
 
 Evolutionary humanism: This was influenced by the theory of evolution. Ex: Nazism. The Nazis believed in the sanctity of humanity. They just took humanity to mean the Aryan race. Humankind is not something universal, but it is a species of animal that can evolve. _The best humans must be protected from genetic extinction._ According to the Nazis, the Sapiens had already divided into different race, and eventually different species.
 
@@ -1217,7 +1217,7 @@ Even science is affected by capitalism, we first ask scientific projects "will t
 
 Banks and governments print the money, but it is the scientists that need to foot the bill. So everyone wants to create money to boost economic growth, because no one wants the current financial systems to stop. And everyone just trusts the governments and banks, too, but ultimately, the only people that can fix everything are scientists. Hopefully, scientists can create profits from businesses and products and these can cover the credit that everyone is creating.
 
-__Just remember that 90% of the money isn't real, and if we stop trusting the system, this money is gone.__
+*Just remember that 90% of the money isn't real, and if we stop trusting the system, this money is gone.*
 
 ## 14.3: The Capitalist Creed Segment 3
 
@@ -1243,7 +1243,7 @@ Free market advocates just hate whatever governments do: wars and social program
 
 In the extreme form, the belief in the free market is just naive. There isn't such a thing as a market that is free of politics, because markets are powered by the trust in the future, and it is the political system that regulate thievery and the markets themselves.
 
-If markets are not regulated, then there is a possibility that the powerful members can abuse the weaker ones. The excuse was: __"A really free market would protect the weak"__ because the best workers would leave for other companies and "his own greed would treat his workers well". In a completely free market, greedy factory owners can establish monopolies, and they all owners can control the workforce (they can choose to just keep all wages low).
+If markets are not regulated, then there is a possibility that the powerful members can abuse the weaker ones. The excuse was: *"A really free market would protect the weak"* because the best workers would leave for other companies and "his own greed would treat his workers well". In a completely free market, greedy factory owners can establish monopolies, and they all owners can control the workforce (they can choose to just keep all wages low).
 
 At the end of the Middle Ages, slavery was non-existent, but when the Europeans crossed the Atlantic, slaves were present. This was not because of tyrants, but because of economic enterprise (law and demand). People invested money in the slave companies because it was good business (!), there were profits of 6% per year.
 
@@ -1413,17 +1413,17 @@ Fact is, since 1945, states no longer invade other states in order to swallow th
 
 Though international wars occur from time to time, they are no longer the norm that characterizes all the regions of the world. This is true not just of Europe; this characterizes many parts of the world. During the entire 20th century, South America had very little conflict: 1941 Peru-Ecuador, 1932-1933 Paraguay-Bolivia, and even 1884 Chile-Peru/Bolivia. The same with the Arab world: there's just one international war: the Iraqi invading Kuwait in 1990. Even in Muslim states, there's just one war: Iran-Iraq in the 1980s.
 
-The argument against peace is that there might be a World War III waiting for us in the corner, as previous peace periods end up in wars. But the peace today is different from others: previously, "peace" just meant that there wasn't war. (There's always a chance of war anyway). __Now, "peace" means an impossibility of war.__ It's unthinkable that a war would actually happen. For most countries today, there's a very low chance of actually having war. When presidents plan their budgets, they don't think about "war budget". It's not just that war doesn't happen, it's simply implausible.
+The argument against peace is that there might be a World War III waiting for us in the corner, as previous peace periods end up in wars. But the peace today is different from others: previously, "peace" just meant that there wasn't war. (There's always a chance of war anyway). *Now, "peace" means an impossibility of war.* It's unthinkable that a war would actually happen. For most countries today, there's a very low chance of actually having war. When presidents plan their budgets, they don't think about "war budget". It's not just that war doesn't happen, it's simply implausible.
 
 While we may think this is naive, thinking about the future, it's quite remarkable that we can actually be this naive about what might happen.
 
 ## Contributions to Peace
 
-* __The price of war has gone up dramatically.__ There's just too much damage that can be caused by nuclear bombs.
-* __While the price of war soared, the profits of war declined.__ For most of history, wealth was material (gold, cows, mines). Today, wealth consists more of human capital, knowledge, and socio-economic structures. And because most wealth in the world today is knowledge, it's very difficult to conquer it and loot it and annex it. It's not even worth for China to invade Silicon Valley because SV's strength is its minds, and the minds will just book a flight outside. The places where international wars took place were fought where material wealth resides: Kuwait-Iraq and Iran-Iraq.
-* __Peace has become more profitable than ever before.__ In traditional agricultural economies, long-distance trade and foreign trade were sideshows. Peace just avoided the cost of war. In contrast, foreign investments and trade today are very important.
-* __Many chiefs previously viewed wars as good.__ Other elites hated it, but they just viewed it as a natural thing. Today, this is the first time in history that we are dominated by an elite that genuinely see war as evil and unavoidable.
-* __Most countries don't wage war because they are no longer independent.__ Some governments cannot conduct full-scale war on their own without the approval of the international community and international elites.
+* *The price of war has gone up dramatically.* There's just too much damage that can be caused by nuclear bombs.
+* *While the price of war soared, the profits of war declined.* For most of history, wealth was material (gold, cows, mines). Today, wealth consists more of human capital, knowledge, and socio-economic structures. And because most wealth in the world today is knowledge, it's very difficult to conquer it and loot it and annex it. It's not even worth for China to invade Silicon Valley because SV's strength is its minds, and the minds will just book a flight outside. The places where international wars took place were fought where material wealth resides: Kuwait-Iraq and Iran-Iraq.
+* *Peace has become more profitable than ever before.* In traditional agricultural economies, long-distance trade and foreign trade were sideshows. Peace just avoided the cost of war. In contrast, foreign investments and trade today are very important.
+* *Many chiefs previously viewed wars as good.* Other elites hated it, but they just viewed it as a natural thing. Today, this is the first time in history that we are dominated by an elite that genuinely see war as evil and unavoidable.
+* *Most countries don't wage war because they are no longer independent.* Some governments cannot conduct full-scale war on their own without the approval of the international community and international elites.
 
 It's often distorting how much we see history with the events of the immediate past. But the late modern era is characterized not by war or by peace but by dynamism: history has still not made up its mind on what's going to happen. Despite all the amazing revolutions and inventions over the past few years, it's still difficult to know if people today are happier than people in ancient times. 
 
@@ -1449,7 +1449,7 @@ Problem with the view: happiness is material. "If people are richer and healthie
 
 To know if we are happier, we need a definition and a way to measure it.
 
-__Happiness is subjective well-being.__ "I feel it inside myself." It is a sense of either immediate pleasure, or long-term contentment with the way my life is going.
+*Happiness is subjective well-being.* "I feel it inside myself." It is a sense of either immediate pleasure, or long-term contentment with the way my life is going.
 
 If happiness is something that people feel inside them, how can scientists measure it?
 
@@ -1469,7 +1469,7 @@ A teenager 5000 years ago hardly thought he looked "pretty hot" because he just 
 
 The discontent in third world countries is not just because of whatever it is, but it is because of the standards of affluent nations. Ex: Even if the living conditions in Egypt were much better than any other era in history, Egyptians were dissatisfied because they compared themselves to their contemporaries in Europe and America. They expect to live like their people in America and were dissatisfied when Mubarak did not provide what they want.
 
-__Happiness depends on expectations.__
+*Happiness depends on expectations.*
 
 Scholars studying happiness in the life sciences see that our happiness is not according to external factors, but it is determined by an internal biological system of nerves and neurons in the brain.
 
@@ -1504,11 +1504,11 @@ How do scholars interpret these results?
 - People don't really know what's good for them. They think that one thing is the source of their happiness, perhaps because society told them that this is what the source of happiness is, but it's not true.
 - Happiness is something different from pleasure. Happiness is not the surplus of pleasant moments over unpleasant moments. Rather, happiness consists in seeing one's life in its entirety as meaningful and worthwhile. 
 
-There is a very important cognitive and ethical component to happiness: __our values is what makes the difference in the way that we see ourselves.__ Our values makes a difference between seeing ourselves as miserable slaves to a baby dictator, and seeing ourselves as someone nurturing a new life. Activities in which you find meaning can be extremely satisfying. Even if they're not easy, even if they are hard, even if they are not joyful very much. Whereas a meaningless life, activites in which you don't find any meaning can be a terrible ordeal, even if it is very very comfortable.
+There is a very important cognitive and ethical component to happiness: *our values is what makes the difference in the way that we see ourselves.* Our values makes a difference between seeing ourselves as miserable slaves to a baby dictator, and seeing ourselves as someone nurturing a new life. Activities in which you find meaning can be extremely satisfying. Even if they're not easy, even if they are hard, even if they are not joyful very much. Whereas a meaningless life, activites in which you don't find any meaning can be a terrible ordeal, even if it is very very comfortable.
 
 If someone finds meaning in an ambition to climb the Everset, he may reflect on this chapter of his life as a very happy period. If someone does not find meaning in this, then they would think that the climb is a terrible ordeal. 
 
-__Because happiness isn't comfort. And happiness isn't pleasure. Happiness above all if finding meaning in what we do, even if what we do involved a lot of hardships and difficulties. And it's not rosy and joyful all of the time.__
+*Because happiness isn't comfort. And happiness isn't pleasure. Happiness above all if finding meaning in what we do, even if what we do involved a lot of hardships and difficulties. And it's not rosy and joyful all of the time.*
 
 People in all cultures and eras have felt the same type of pleasant and unpleasant sensations in their body. But the meaning that people gave to their experiences might have been different in different cultures and periods of history. If you look at life on a minute-by-minute basis, then certainly life in the middle ages for most peopel was much more hard, much more difficult, much less comfortable than life is today at least for people in affluent societies. However, if happiness depends on meaning, then still, Medieval people could have been more happier than people today in affluent societies.
 
@@ -1598,15 +1598,15 @@ So take the basic idea that the next stage of history will include not only tech
 
 ## Q&A, Part 1 and 2
 
-__What school of thought are you advocating, so that I can learn more about its development?__
+*What school of thought are you advocating, so that I can learn more about its development?*
 
 A: A lot, but I think my approach can be described as bio-global. Bio-global means giving a lot of importance to biology/biological factors when looking at history. And I look at the totalitive history and the totalitive humankind. The little issues are important, because we need them for the big issues. But a defect of historical research in the 2nd half of the 20th century was that people were afraid of asking big questiosn and of creating big narratives of history.
 
-__Would you consider the Internet as the 4th pillar of human unification in addition to money and empires, and religion?__
+*Would you consider the Internet as the 4th pillar of human unification in addition to money and empires, and religion?*
 
 The Internet certainly represents the final stage of human unification. Today, the world is a single ecological, political, and cultural unit. Internet has certainly strengthened this process. But we should realize that the Internet is basically a technology, a tool. But we needed to link economics, politics, and religion first. Now, I can buy from Amazon, because all the currencies of the world are interlinked. I speak to you in English, not my mother tongue, because of British and American Imperialism. And the Internet communication is basd on liberal humanism: everybody has the right to their own opinion and to voice their own opinions and so on and so forth.
 
-__What are the lessons that humankind should learn from history?__
+*What are the lessons that humankind should learn from history?*
 
 People sometimes have this idea that we learn history in order to understand the past mistakes. But it doesn't teach us much in that regard because we are in a different position from them 100 years ago or 500 years ago. There's so many differences with what's happening now and in the First World War, or the ancient world.
 
@@ -1614,9 +1614,9 @@ The real purpose of history is not to learn lessons but to free ourselves fromth
 
 The real purpose of history is to understand. There is a chain of events that cause the world to be as it is now, and why we see the world in a certain way. You get to think that "there is not just one way of seeing the economy." And this allows you to see many more things, and you're able to see the present more clearly.
 
-__Could you elaborate more on the laws in history?__
+*Could you elaborate more on the laws in history?*
 
-When i speak about laws in history, these aren't physical laws. I mean things you can generalize about history. Think generalizations, now laws. Ex: Luxuries become necessities. Another Ex: For people, it's bvery difficult for a society to create, and think about, a completely harmonious world view. In any society, it's extremely likely that people in that society have contradictory ideas. ANd that's the way human societies are built. __Humans have this amazing ability to hold contradictions, to believe in contradictory things at the same time and this is what enables those societies to function.__ It's not really a law, but it's a generalization that holds true in many cases.
+When i speak about laws in history, these aren't physical laws. I mean things you can generalize about history. Think generalizations, now laws. Ex: Luxuries become necessities. Another Ex: For people, it's bvery difficult for a society to create, and think about, a completely harmonious world view. In any society, it's extremely likely that people in that society have contradictory ideas. ANd that's the way human societies are built. *Humans have this amazing ability to hold contradictions, to believe in contradictory things at the same time and this is what enables those societies to function.* It's not really a law, but it's a generalization that holds true in many cases.
 
 We should realize about these laws, is that because they are not really laws like in physics, they can sometimes change. Ex: The Law of the Jungle, we see war all the time, but in the 21st century, the law has been broken. There is no plausible scenario for war to occur between France/Germany, Brazil/Argentina, China/Japan. Even if the "laws" have been true for thousands of years, they may still change.
 

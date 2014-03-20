@@ -163,7 +163,7 @@ Don't get me wrong - I'm not suggesting you blow off school or course work. Rath
 
 It honestly can't be reiterated enough: take, absorb, recall, and apply higher math. For the longest time, my CS education had me convinced that the end of the line was becoming a systems guru or specializing in low-level/embedded computation or even being a front-end designer. For the vast majority of students, this is perhaps an acceptable outcome and there's a good chance you'll lead a pretty decent career just sticking to any one of these. Here's a hard truth:
 
-__You are excluded from the truly exciting and challenging work if you're not familiar with the necessary mathematics/statistics knowledge.__
+*You are excluded from the truly exciting and challenging work if you're not familiar with the necessary mathematics/statistics knowledge.*
 
 No one in university sits down and explains to you just how ridiculously applicable so many concepts in math are and that their application is in fact facilitated by having a background in CS. Stochastic processes, dynamic programming, convex/nonconvex optimization, PDEs, lagrangians, linear algebra, regressions, monte carlo, random forests, Bayesian stats, supervised/unsupervised learning, and the list is practically endless (what I mentioned is really just what interests me!). If you don't understand the math, you made a mistake that you should do your best to correct asap.
 
@@ -171,7 +171,7 @@ A firm understanding of sophisticated mathematical techniques affords you an inv
 
 ## Alexandru Iosup
 
-__Produce and publish one piece of software about a topic that you care about. Try to convince a friend to join you.__
+*Produce and publish one piece of software about a topic that you care about. Try to convince a friend to join you.*
 
 The topic can be anything you really care about. An online game about software engineers. A logistics tool for UNICEF. A database of birds for your dad who's a birdwatcher. A management program for your football or bridge club. Anything.
 

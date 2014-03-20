@@ -81,7 +81,7 @@ If you ask for something and they say no, that's how you maximize your value. Th
 - When you pair with someone who's not as good as you, you learn something by teaching.
 - Pair with others. There is no better way to get better.
 - Continue to struggle with things. And when everyone is starting, it seems like it is super hard for them, it is hard for everyone.
-- __Admit you don't understand something.__ Just do the habit of "When I don't understand something, I will just ask what it is."
+- *Admit you don't understand something.* Just do the habit of "When I don't understand something, I will just ask what it is."
 - When you say "Oh yeah I got it", you trade an opportunity to understand something to make it look like you understand it when you don't.
 - When you are super embarassed to admit that you don't know something, that is the best time to do it. When you have the voice in your head that says "wow, I really should know this." And you should. You should admit that. People that make fun of you and give you a hard time when you admit ignorance of something are bad people.
 - When that happens, the problem is with them. They have screwed up. I found that the best programmers are willing to understand that "that happens." It's a hard thing to admit that you don't know it.
@@ -104,7 +104,7 @@ Pairing: It's hard. DVORAK keyboard and I remapped Caps Lock to Esc.
 
 Whether you are looking for a job or not, it's awesome to have friends who also know Ruby. This is what conferences are good for. You should make friends in conferences.
 
-"Am I underpaid?" The answer is yes, you are, because if you feel that you are uncompensated, then that is when you are really underpaid. If you worry about it, you are underpaid. You can ask your co-workers how much money they make. Though there is a taboo to talk about stuff, but you lose because there is an information asymmetry. __The person who has more knowledge in a negotiation wins the negotiation.__ I think we should be much more willing to discuss salary with our coworkers. At least you get things out there.
+"Am I underpaid?" The answer is yes, you are, because if you feel that you are uncompensated, then that is when you are really underpaid. If you worry about it, you are underpaid. You can ask your co-workers how much money they make. Though there is a taboo to talk about stuff, but you lose because there is an information asymmetry. *The person who has more knowledge in a negotiation wins the negotiation.* I think we should be much more willing to discuss salary with our coworkers. At least you get things out there.
 
 TDD is the best and most important thing I've ever done for my career. First, it's not that bad. The best way to do this is to pair with someone. When you get to a roadblock ("I'm having trouble testing this"), some of it is because you are inexperienced, but some of it is because there is bad code. Code that is hard to test is definitely a smell. So yes you should design your code to make it easier to test.
 

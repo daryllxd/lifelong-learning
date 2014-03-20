@@ -1,6 +1,6 @@
 ## 1.1-1.2: Marketing 101 Building Strong Brands
 
-__Marketing is the study of a market: an exchange between two entities.__
+*Marketing is the study of a market: an exchange between two entities.*
 
 In the seller’s market, we have product-focused marketing. We should develop the product to the best of our ability. We should sell as much as we can The objective is market share! Product-focused.
 
@@ -28,7 +28,7 @@ Ex: Red cross. Blood = price. “Feel good about myself”, sticker, orange juic
 ## 1.3:Strategic Marketing
 
 #### Market-Driven Principles
-- __Know Your Markets.__ We have to know what customers want, and how competitors react. You have to research and stuff.
+- *Know Your Markets.* We have to know what customers want, and how competitors react. You have to research and stuff.
 - Customers have the final say. The customers will choose what they want, at the end of the day. Now, because of TMI, customers bundle stuff according to: operations factors (costs), product features and design, “whether or not it meets my needs”. _Cx then choose the product that is the best in a specific category, but is sort of decent at the other parts._
 - So you have to be the best at some thing, and be good at other things. This affects everything else about a company. 
 - Deliver total quality to guarantee customer satisfaction.
@@ -76,7 +76,7 @@ Market segmentation is the process of dividing a market into distinct subsets, w
 - Benefits sought
 - Purchase behaviors/channels
 - Cohort analysis: It’s not whether you are young or old, but the life experiences you have.
-	- __Marketers are very interested in people coming of age because many times, you make purchases at this age, and then you become loyal to the brand for a long time.__
+	- *Marketers are very interested in people coming of age because many times, you make purchases at this age, and then you become loyal to the brand for a long time.*
 	- Generation Y (1977-1997): Likes free content, tele-commuting, everything social, wireless, "the right fit". Dislikes: Anonymous mass marketing, beaten paths, restricted access.
 	- Millenials: Big shoppers, creators of social media stuff, connected, socially responsible.
 - Geographical segmentation/zip clustering: People who live in the same area tend to be similar to each other (PRIZM segmentation).
@@ -110,7 +110,7 @@ _Apple Computers offers the best personal computing experience to students, educ
 
 _IBM... for businesses who need computers, IBM is the company you can trust for all your needs._
 
-__Positioning Statements: Target Segment + Point of Difference + Frame of Reference__
+*Positioning Statements: Target Segment + Point of Difference + Frame of Reference*
 
 Apple: “Students, educators…” + “Innovative hardware” + “Other companies which provide personal computing”
 
@@ -143,9 +143,9 @@ What we actually want to end up is at least an elevator speech or a brand mantra
 
 This is used to internally guide decisions: what do we do and what should we not be associated with:
 
-- The __brand function__ describes the nature of the product of service or the type of experiences or benefits the brand provides.
-- The __descriptive modifier__ further clarifies its nature.
-- The __emotional modifier__ provides another qualifier: how exactly does the brand provide benefits, and in what way?
+- The *brand function* describes the nature of the product of service or the type of experiences or benefits the brand provides.
+- The *descriptive modifier* further clarifies its nature.
+- The *emotional modifier* provides another qualifier: how exactly does the brand provide benefits, and in what way?
 
 					Emotional 		Descriptive 	Brand Function
 		Nike		Authentic 		Athletic 		Performance		
@@ -610,7 +610,7 @@ Begin by understanding sources of equity and the currenty contributions to POP a
 
 For most companies, it's all about making money and maximizing the _net present value_ of the corporation.
 
-The two non-customer centric axes aim to get __high volume__ (performance superiority), __low cost__ (operational excellence). Just ask yourself, will your company scale? Are costs coming down as you deliver more and more of the product?
+The two non-customer centric axes aim to get *high volume* (performance superiority), *low cost* (operational excellence). Just ask yourself, will your company scale? Are costs coming down as you deliver more and more of the product?
 
 Market Share: A good indicator of how well you've done, and how well you'll be doing in the future.
 
@@ -620,7 +620,7 @@ You can choose to take your product and bring it to new customers. You can also 
 
 So regardless of how you build things, you want to grow the product, and companies are structured around each of the company's products (product managers, brand managers).
 
-The competitive advantage: __product expertise__ (we are better than everyone else).
+The competitive advantage: *product expertise* (we are better than everyone else).
 
 * Goal: Best product for customer.
 * Main offering: New products.
@@ -630,7 +630,7 @@ The competitive advantage: __product expertise__ (we are better than everyone el
 * Measures/metrics: Number of new products, percentage of revenue from products less than 2 years old, market share
 * People
 	* Approach to personnel: Power to the people who develop products. Manage creative people through challenges and a deadline.
-	* Mental process: __Divergent thinking.__ How many possible uses of this product? We hire people that can think divergently and who can spread the market.
+	* Mental process: *Divergent thinking.* How many possible uses of this product? We hire people that can think divergently and who can spread the market.
 	* Sales bias: On the side of the seller in a transaction
 	* Culture: New product culture, open to new ideas and experimentation.
 
@@ -638,13 +638,13 @@ The competitive advantage: __product expertise__ (we are better than everyone el
 
 There are things going on today that weren't happening 15-20 years ago that are causing the product-centric approach a little bit different.
 
-* __Technology-enabled product development (commoditization):__ With technology, things commoditize much more quickly. Companies know that as they launch something new, they have to think of the next product already. In the natural world, every company wants or it thinking monopoly.
-* __Technology-eneabled information flow (smart customers):__ Customers are smarter and more savvy so they are aware of more things available to them. It's harder for companies to extract value for the products they deliver.
-* __Technology-enabled delivery (retail saturation):__ In the olden days, companies could rely on the fact that no one else had a product like that, or customers won't be aware of other products, or customers won't have access to other products. It's harder to protect yourself from other competing products.
-* __Globalization__
-* __Deregulation:__ As industries deregulate/fewer monopoly, companies have to stay competitive.
-* Customers want __"end to end solutions"__, which may require products/services from multiple vendors.
-* Information systems enable __customer data tracking__. Companies have to use the data about their customers to figure out what they're buying.
+* *Technology-enabled product development (commoditization):* With technology, things commoditize much more quickly. Companies know that as they launch something new, they have to think of the next product already. In the natural world, every company wants or it thinking monopoly.
+* *Technology-eneabled information flow (smart customers):* Customers are smarter and more savvy so they are aware of more things available to them. It's harder for companies to extract value for the products they deliver.
+* *Technology-enabled delivery (retail saturation):* In the olden days, companies could rely on the fact that no one else had a product like that, or customers won't be aware of other products, or customers won't have access to other products. It's harder to protect yourself from other competing products.
+* *Globalization*
+* *Deregulation:* As industries deregulate/fewer monopoly, companies have to stay competitive.
+* Customers want *"end to end solutions"*, which may require products/services from multiple vendors.
+* Information systems enable *customer data tracking*. Companies have to use the data about their customers to figure out what they're buying.
 
 Example: IBM was very product-centric, but in the 1990s, they learned they can be better as an advisor, but they're making money telling the customer "here's what you should buy".
 
@@ -664,22 +664,22 @@ Which of Walmart, Apple, Starbucks, and Nordstrom are customer-centric?
 
 In his book, not one of them are customer-centric.
 
-* __Walmart:__ Terrific firm, but doesn't know anything about the customers. It does not have a loyalty program. They make efforts to understand customers as a whole, not customers individually. Walmart isn't a direct marketing firm, it is about selling products at volume and low cost. They are a product-centric firm.
-* __Apple:__ They are the classic superiority firm. They aren't focused on segmentation, but they are focused on leveraging their product expertise.
-* __Starbucks:__ At a local level, they are very customer-centric. The barista knows a lot about you if you are a constant customer (through your casual conversations). They are not customer centric at a national level, if you bring your Starbucks card to another place, they don't know who you are. A truly customer-centric company will provide value wherever you go.
-* __Nordstrom:__ They sell apparrel. When someone returned tires that they didn't buy at Nordstrom (it doesn't even sell tires), Nordstrom returned the money. This doesn't make sense, but if the customer is expected to have a ton of future value, then you could, and most probably should, give them money lol. Nordstrom treats everyone incredibly well which is sort of a problem because they are missing opportunities on which customers to choose.
+* *Walmart:* Terrific firm, but doesn't know anything about the customers. It does not have a loyalty program. They make efforts to understand customers as a whole, not customers individually. Walmart isn't a direct marketing firm, it is about selling products at volume and low cost. They are a product-centric firm.
+* *Apple:* They are the classic superiority firm. They aren't focused on segmentation, but they are focused on leveraging their product expertise.
+* *Starbucks:* At a local level, they are very customer-centric. The barista knows a lot about you if you are a constant customer (through your casual conversations). They are not customer centric at a national level, if you bring your Starbucks card to another place, they don't know who you are. A truly customer-centric company will provide value wherever you go.
+* *Nordstrom:* They sell apparrel. When someone returned tires that they didn't buy at Nordstrom (it doesn't even sell tires), Nordstrom returned the money. This doesn't make sense, but if the customer is expected to have a ton of future value, then you could, and most probably should, give them money lol. Nordstrom treats everyone incredibly well which is sort of a problem because they are missing opportunities on which customers to choose.
 
 Improvements of the companies: Walmart is developing new products to improve themselves on the customer-centric initiative: the scanner app to know what the customers are buying. Apple also is tracking customer data via iTunes music preferences.
 
 ## 6.1: What is Customer Centricity
 
-__Customer centricity__ is a strategy that aligns a company's development/delivery of its products/services around the current and future needs of a __select set of customers__ in order to maximize their long-term financial value to the firm.
+*Customer centricity* is a strategy that aligns a company's development/delivery of its products/services around the current and future needs of a *select set of customers* in order to maximize their long-term financial value to the firm.
 
 * _Select set of customers:_ If we are a product-centric firm, it's hard to keep our costs down if we have a select set of customers only.
 * _Maximizing their long-term financial value:_ We want to invest in the right amount of customers. Instead of asking a customer to buy things right now, we wait for the long-term benefit.
 * _Aligns a company's development and delivery to customers:_ "Here are our really valuable cx, let's come up with something for them! R&D folks, come up with something for them." Fact is, these customers are valuable because they like our products.
 
-Customer centricity requires the company to be willing and able to change its __organizational design__, __performance metrics__, and __employee/distributor incentive structures__ to focus on this long-run value creation/delivery process.
+Customer centricity requires the company to be willing and able to change its *organizational design*, *performance metrics*, and *employee/distributor incentive structures* to focus on this long-run value creation/delivery process.
 
 We look not at what customers have been valuable, but what customers will be valuable.
 
@@ -691,7 +691,7 @@ If airlines would be really forward-looking, they'd realize that MBA students wo
 
 Remember the over-arching objective: to maximize shareholder value. Remember though that we can't just rely on product-centricity to get more money.
 
-What we celebrate is __customer heterogeneity:__ distinguish the profitable customers from the less profitable ones.
+What we celebrate is *customer heterogeneity:* distinguish the profitable customers from the less profitable ones.
 
 While at first it was a nuisance, with time we realize that customers are really, really different from each other.
 
@@ -705,17 +705,17 @@ We want to have relationship expertise!
 
 Re: Finding the right customers. Understand that customer centricity does NOT suggest that "non-focal" customers should be ignored, to the contrary, it is important to have a health proportion of such customers to add a high degree of stability and robustness to the overall customer base.
 
-There is a __paradox of customer centricity:__ the more that a firm tightens its central focus on a select group of customers, the more it needs its "non-focal" customers to stabilize the overall mix.
+There is a *paradox of customer centricity:* the more that a firm tightens its central focus on a select group of customers, the more it needs its "non-focal" customers to stabilize the overall mix.
 
 ## 6.4: Questions on Customer Centricity
 
-__Who is the customer?__ In pharmacy, you can argue that the person, the hospital, or the insurance is the customer. We want to agree that one of these entities is the customer, but one customer matters more than others.
+*Who is the customer?* In pharmacy, you can argue that the person, the hospital, or the insurance is the customer. We want to agree that one of these entities is the customer, but one customer matters more than others.
 
-__What are the major barriers to account for?__ There might be logistics or cultural reasons.
+*What are the major barriers to account for?* There might be logistics or cultural reasons.
 
-__What resources can you utilize to preempt the barriers?__
+*What resources can you utilize to preempt the barriers?*
 
-__Thoughts about what competitiors are doing in this area?__ In many cases, the best case to move this is "hey, no one is doing this, let's do it!"
+*Thoughts about what competitiors are doing in this area?* In many cases, the best case to move this is "hey, no one is doing this, let's do it!"
 
 Does it make sense for your organization to become customer centric? If so, when?
 
@@ -731,11 +731,11 @@ We have to beg good in: customer acquisition, retention , and development. The c
 
 _What metric is used by most firms to gauge and guide their acquisition activities?_
 
-__CPA (cost per acquisition).__ It's very easy to track nowadays. But focusing your business to use this as your main metric is a __big mistake__.
+*CPA (cost per acquisition).* It's very easy to track nowadays. But focusing your business to use this as your main metric is a *big mistake*.
 
 We want to think of our customers as assets, and they are the most important assets that we have. When it comes to other assets, such as lawyers or technology, we use the mentality of not the best, but the skill.
 
-What we want is __value per acquisition__. We think of the upside of each custoemr, and we used that to drive CPA.
+What we want is *value per acquisition*. We think of the upside of each custoemr, and we used that to drive CPA.
 
 People should use the CLV (customer lifetime value) as a seal on the maximum amount you spend to get a customer. With this, we can allocate how much profit we could build to our stakeholders. We want to not spend a ton more, but we want to get more valuable customers.
 
@@ -749,7 +749,7 @@ Customers acquired through Google on average have a higher lifetime value (mean 
 
 _What metric is used by most firms to gauge and guide their acquisition activities?_
 
-__Churn/attrition rate (retention rate). What percent of our customers stayed with us?__
+*Churn/attrition rate (retention rate). What percent of our customers stayed with us?*
 
 This is a good metric, but you need to examine it at a closer level. How do companies manage their attrition rates? Ex: Vodafone. Their attrition rate is roughly 20%. This means that we expect the customer lifetime to be 5 years. We multiply this by the number of customers and the number of profits per customer to get the customer equity. 
 
@@ -764,7 +764,7 @@ How to make an informed assessment on what a customers is worth?
 	Medium Risk	 0.35 		 20
 	High Risk 	 0.65 		 10
 
-Average attrition: (0.06 * 0.7 + 0.35 * 0.2 + 0.65 + 0.1) = 0.17ish or __5.6 years__. __But this is still wrong because there is no average customer.__ No customer exists with that number! We eliminated heterogeneity.
+Average attrition: (0.06 * 0.7 + 0.35 * 0.2 + 0.65 + 0.1) = 0.17ish or *5.6 years*. *But this is still wrong because there is no average customer.* No customer exists with that number! We eliminated heterogeneity.
 
 Reichelt's The Loyalty Effect: "Because we can't get accurate calculations with averages, we must work with the actual reates for each separate class of customers." So what you do is make clusters of results.
 
@@ -773,7 +773,7 @@ Reichelt's The Loyalty Effect: "Because we can't get accurate calculations with 
 	Medium Risk	 0.35 		 20		2.9
 	High Risk 	 0.65 		 10		1.5	
 
-Correct average lifetime: (16.7 * 0.7 + 2.9 * 0.2 + 1.5 * 0.1) = __12.4 years__.
+Correct average lifetime: (16.7 * 0.7 + 2.9 * 0.2 + 1.5 * 0.1) = *12.4 years*.
 
 Whenever there is any heterogeneity at all, there will always be money left on the table, if we ignore heterogeneity. The only question is, how much? So it's not a question of whether it will occur or not because it will always occurs, you just have to figure out how much.
 
@@ -783,7 +783,7 @@ Whenever there is any heterogeneity at all, there will always be money left on t
 
 ## 7.3-7.4 Customer Development
 
-__Efforts to increase the profitability of current customers.__
+*Efforts to increase the profitability of current customers.*
 
 - Cross-selling. "Do you want fries with that?"
 - Up-selling. "Do you want to super-size it?"
@@ -792,7 +792,7 @@ __Efforts to increase the profitability of current customers.__
 
 _What metric is used by most firms to gauge and guide their acquisition activities?_
 
-__Share of wallet.__ How many of the cx's needs are met by the firm. Ex: Wells Fargo, they are focused on services/cx. But we also need to take into consideration __size of wallet__. Remember: if a cx has small income, then they will have a very huge size of wallet (You can't really buy much so you just buy from a few companies.)
+*Share of wallet.* How many of the cx's needs are met by the firm. Ex: Wells Fargo, they are focused on services/cx. But we also need to take into consideration *size of wallet*. Remember: if a cx has small income, then they will have a very huge size of wallet (You can't really buy much so you just buy from a few companies.)
 
 There is no systematic relationship between size of wallet and share of wallet. While we want to develop our cx, if we want to make our cx more valuable to us, there isn't necessarily a good relationship for CLV.
 
@@ -813,7 +813,7 @@ Bad news: Some cx are just "take it or leave it, they won't necessarily give you
 - Customer centricity can only succeed by "celebrating heterogeneity."
 - The greatest upside to improve customer profitability arises through "smart acquisition."
 - Don't overspend on retention-the flighty customers will fly away, no matter what you do (or they'll be unprofitable).
-- __Most of all, check out CLV!__
+- *Most of all, check out CLV!*
 
 ## 7.5: Wrap-up
 
@@ -855,7 +855,7 @@ If we're really going to do the cx strategy, then we have to be long-term. If yo
 
 #### Execution: The Key Question
 
-__"What's wrong with the status quo?"__ What can be improved about the current experience of doing things?
+*"What's wrong with the status quo?"* What can be improved about the current experience of doing things?
 
 Ex: Starbucks, Schultz discovered that Americans loved to drink coffee, but they were not good coffee. In Europe, people drank in coffee shops. When he came back to the U.S., he had in his mind thought of Starbucks as a "third place" (first place being home and second place being workplace).
 
@@ -867,15 +867,15 @@ Ex: Starbucks, Schultz discovered that Americans loved to drink coffee, but they
 
 #### Marketing Math 101
 
-__Success = Product * Marketing__
+*Success = Product * Marketing*
 
 Marketing = Customer/Brand Fit and the other 3Ps (price, promotion, place, distribution strategy).
 
 ## 8.3/8.4/8.5: Friction/Goods and Information/Academic Research
 
 #### What frictions does the real world have that the digital world solves?
-- __Search Friction.__ Where do you buy a TV? Who will have the best price and assortment? In 1987, to get better prices and deals, you have to go out and incur costs by looking for other stores. In 2011, you just go to a website and check things out. Ex: Yelp.
-- __Geographic Friction.__ The location that you live in imposes certain costs and delivers particular benefits (NY vs. Iowa). E-commerce etc. reduces the friction of stuff.
+- *Search Friction.* Where do you buy a TV? Who will have the best price and assortment? In 1987, to get better prices and deals, you have to go out and incur costs by looking for other stores. In 2011, you just go to a website and check things out. Ex: Yelp.
+- *Geographic Friction.* The location that you live in imposes certain costs and delivers particular benefits (NY vs. Iowa). E-commerce etc. reduces the friction of stuff.
 
 #### Goods and Information
 
@@ -922,7 +922,7 @@ Demand side: The Long Tail is endogenous as there are more ways for us to discov
 
 #### Key Principles
 
-__The tyranny of locality:__ What you buy is detailed by your local stores. An audience that is spread too thin geographically used to not get served. As you go from the head to the tail, the average satisfaction suffers, but there are products in the long tail which you would definitely like.
+*The tyranny of locality:* What you buy is detailed by your local stores. An audience that is spread too thin geographically used to not get served. As you go from the head to the tail, the average satisfaction suffers, but there are products in the long tail which you would definitely like.
 
 The ratio of niche products to "hits" is changing.
 
@@ -959,7 +959,7 @@ Netgrocer.com, diapers.com, warbyparkers.com, bonobos.com, citruslane.com
 
 #### Research Question: Why do some locations have more customers than other locations do?
 - Internet retailers can alter the cost-benefit trade-off shoppers by making things "closer" and more accessible perhaps even at better places.
-- __Sales evolution is structured and predictable.__ In 3 1/2 years, Netgrocer was able to have customers from 18,000 zip codes. __Sales pop up around places with sales near it.__ Customers could be talking to each other, or observing each other (that's why boxes are colorful).
+- *Sales evolution is structured and predictable.* In 3 1/2 years, Netgrocer was able to have customers from 18,000 zip codes. *Sales pop up around places with sales near it.* Customers could be talking to each other, or observing each other (that's why boxes are colorful).
 - Social distance: If you're in Chicago, you might interact more with someone from L.A. as opposed to Springfield even though it is farther.
 	- In the beginning, sales start out in larger cities and spread by proximity from person to person.
 	- Later on, sales pick up in smaller areas with people who have the same characteristics.
@@ -968,7 +968,7 @@ Netgrocer.com, diapers.com, warbyparkers.com, bonobos.com, citruslane.com
 
 Amazon is 5% of the volume of the $1T e-commerce sales.
 
-Some features: "1-Click Ordering" for impulse buying, "Subscribe & Save" for replenishment of essentials, "Amazon Lockers" for secure pick-up. But the strongest is _speed__. Amazon Prime, second-day delivery is "losing money on shipping/services in exchange for loyalty." 10M prime members spend $1224/year on A, over $700 more than a regular ruser.
+Some features: "1-Click Ordering" for impulse buying, "Subscribe & Save" for replenishment of essentials, "Amazon Lockers" for secure pick-up. But the strongest is _speed*. Amazon Prime, second-day delivery is "losing money on shipping/services in exchange for loyalty." 10M prime members spend $1224/year on A, over $700 more than a regular ruser.
 
 ## 8 (Readings) [Welcome To The Unicorn Club: Learning From Billion-Dollar Startups](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club/)
 
@@ -989,12 +989,12 @@ Historically, top venture funds have driven returns from their ownership in just
 	- Audience: Monetization through ads or leads.
 	- SaaS: Fremium for cloud-based software.
 	- Enterprise: Companies pay for larger scale software.
-	- __Network effects.__ These help companies scale users dramatically, seriously reducing capital requirements, and/or increasing valuations quickly.
+	- *Network effects.* These help companies scale users dramatically, seriously reducing capital requirements, and/or increasing valuations quickly.
 
 6. Seven-plus years on average before liquidity for companies.
 
 7. Companies with well-educated, thirtysomething co-founders who have history together have built the most successes.
-	- Average age of founders: __34__. Ninety-percent of co-founding teams have years of history together, from school or work.
+	- Average age of founders: *34*. Ninety-percent of co-founding teams have years of history together, from school or work.
 	- Nearly 80% of unicorns have at least one co-founder that founded a company before.
 	- Only 3 did not have a technical co-founder on board.
 
@@ -1003,9 +1003,9 @@ Historically, top venture funds have driven returns from their ownership in just
 "Digital marketing... is the use of Internet connected devices to engage a cx." 
 
 #### Elements of Digital Marketing
-- __Social Commerce:__ We rely on reviews, blogs, and networks of creators influence what we buy. We get reviews from friends and strangers before we buy shit.
-- __Digital Advertising and Behavioral Targeting:__ Big data, micro-level targeting.
-- __Experimentation and A/B Testing:__ More experiments get run than ever before. Ex: Red website and flames make people want to choose vehicles with high safety. Green website make people want to choose vehicles with value for money.
+- *Social Commerce:* We rely on reviews, blogs, and networks of creators influence what we buy. We get reviews from friends and strangers before we buy shit.
+- *Digital Advertising and Behavioral Targeting:* Big data, micro-level targeting.
+- *Experimentation and A/B Testing:* More experiments get run than ever before. Ex: Red website and flames make people want to choose vehicles with high safety. Green website make people want to choose vehicles with value for money.
 
 #### Brand assets
 
@@ -1023,9 +1023,9 @@ Quidsi: Diapers.com, Soap.com, Beautybar.com...
 
 #### Goals and Tactics
 
-__Brand goals:__ "Heart and mind, thinking and feeling." Ex: Dear Sophie, using people's preferences of white meat to frame pork as white rather than red, Got Milk? campaign.
+*Brand goals:* "Heart and mind, thinking and feeling." Ex: Dear Sophie, using people's preferences of white meat to frame pork as white rather than red, Got Milk? campaign.
 
-__Key tactic:__ Build engagement through real world events that can be leveraged up in the virtual world.
+*Key tactic:* Build engagement through real world events that can be leveraged up in the virtual world.
 
 #### Digital Considerations
 1. Outstanding value proposition
@@ -1046,7 +1046,7 @@ Celebrities to endorse brands: If there is a mismatch between the personality an
 Goals: Attract, engage, retain subject to:
 
 1. Never pay more to acquire than you will recoup...!
-2. CLV needs to incorporate the "RLV", or referral lifetime value. The first 100K cx of diapers.com had a $1 coupon. 8% of them participated in referrals. The number they produced was about 32K cx. __But actually, the top 100 cx generated 15K additional cx!__
+2. CLV needs to incorporate the "RLV", or referral lifetime value. The first 100K cx of diapers.com had a $1 coupon. 8% of them participated in referrals. The number they produced was about 32K cx. *But actually, the top 100 cx generated 15K additional cx!*
 3. Change from monologoue to conversation via repeated conversations. How can we use technology to engage with cx?
 4. Selection and treatment. Cx attracted through word of mouth have high referral values. If a cx was acquired through referral, then their referral rate is about 15-18%.
 
@@ -1080,11 +1080,11 @@ Networks show homophily ("Birds of a feather flock together"). Your friends are 
 
 A "network" needs nodes (people), connections (between people), ability to share information and resources, constraints.
 
-__Entering a network is a choice__, and we also decide how many people we want to connect to and how central we want to be. When our relationships are transitive, then we are deeply embedded.
+*Entering a network is a choice*, and we also decide how many people we want to connect to and how central we want to be. When our relationships are transitive, then we are deeply embedded.
 
 When influence happens, it doesn't have to happen by conversations. People can be influenced by seeing what people are doing. Even "strangers" and loose connections in a network can connect us. 1 person = 4% looked up, 15 people = 40%. Other thingie: 6 degrees of separation.
 
-__Connection doesn't necessarily mean influence.__ Influence spreading out from you will typically not move more than 3 steps.
+*Connection doesn't necessarily mean influence.* Influence spreading out from you will typically not move more than 3 steps.
 
 ## 9.6: Elements of Neighborhoods and Examples
 
@@ -1106,7 +1106,7 @@ Goal: Influence-based targetting.
 
 If a member increase usage and connected others do too, the member is "influential." If a member increases usage or decreases usage and there is no change in the behavior of connected others, the user is not influential.
 
-__Findings: On average, you are influenced by 1/5 of your friends and the other 4/5 don't sway you. And 1/3 of users were not influenced by anyone.__
+*Findings: On average, you are influenced by 1/5 of your friends and the other 4/5 don't sway you. And 1/3 of users were not influenced by anyone.*
 
 There are many people whose influence factor is close to 0, but there is a smaller number of people whose influence is so big.
 
@@ -1117,9 +1117,9 @@ There are many people whose influence factor is close to 0, but there is a small
 - If you're indicating that you're looking to date other people, that significantly decreases your influence.
 
 #### Implications
-- __Simple metrics:__ Friend counts and profiel views are inadequate proxies for influence.
-- __Retention:__ If top losers defect, there is a disproportionate negative effect on the network.
-- __Advantage:__ Most of the payoff from the model comes from superior identification of the "best" cx.
+- *Simple metrics:* Friend counts and profiel views are inadequate proxies for influence.
+- *Retention:* If top losers defect, there is a disproportionate negative effect on the network.
+- *Advantage:* Most of the payoff from the model comes from superior identification of the "best" cx.
 
 Physician to physician medical research findings: We see who is connected to whom, and by how much. A drug company would prefer to know the influential doctors. A self-reported rating of influence is not a very strong indicator.  What's more important to know are people's recognition of who is influential and not.
 
@@ -1151,13 +1151,13 @@ To build companies that last, entrepreneurs must deliver a product in a way that
 
 #### Building Blocks for Engagement
 
-- __A founder who is obsessed with customer experience.__ A successful startup needs a founder who wants to over-deliver on UX, no matter what. It needs a founder who is focused on consumer delight and product quality, and also cares about the details.
+- *A founder who is obsessed with customer experience.* A successful startup needs a founder who wants to over-deliver on UX, no matter what. It needs a founder who is focused on consumer delight and product quality, and also cares about the details.
 
-- __A product that is highly habit-forming.__ Companies that build products that are engaging from the start and draw repeat visitors help to create a consumer mind-set that leads to habitual use. Making a business engaging means drawing users in. Tap into consumer desires and celebrate the aspirational aspect of a site. 
+- *A product that is highly habit-forming.* Companies that build products that are engaging from the start and draw repeat visitors help to create a consumer mind-set that leads to habitual use. Making a business engaging means drawing users in. Tap into consumer desires and celebrate the aspirational aspect of a site. 
 
-- __A focus on network effects or brands.__ Businesses that build a brand that stands for something specific or that have network effects tend to become much more durable. Skype, Lending Club and Airbnb are great examples of network-effect businesses; more demand brings supply, and more supply brings demand.
+- *A focus on network effects or brands.* Businesses that build a brand that stands for something specific or that have network effects tend to become much more durable. Skype, Lending Club and Airbnb are great examples of network-effect businesses; more demand brings supply, and more supply brings demand.
 
-- __Gamification and engagement mechanics.__ Ensuring traction for your site means getting consumers addicted in such a way that they return again and again.
+- *Gamification and engagement mechanics.* Ensuring traction for your site means getting consumers addicted in such a way that they return again and again.
 
 ## 9 (Readings) [The Neighborhood Effect](http://chronicle.com/article/the-neighborhood-effect/135492/)
 
@@ -1183,7 +1183,7 @@ Sampson also contradicts the stereotype that a concentration of immigrants drive
 
 ## 9: Pricing Strategies 1: Introduction
 
-Over 2,000 companies surveyed. If they improve by 1%... then gain 2.3% on fixed costs, 3.3% on volumen, 7.8% on variable costs, and __11.1% on price__.
+Over 2,000 companies surveyed. If they improve by 1%... then gain 2.3% on fixed costs, 3.3% on volumen, 7.8% on variable costs, and *11.1% on price*.
 
 Pricing Puzzles
 
@@ -1215,7 +1215,7 @@ Competitor Issues
 
 Cx Issues?
 
-- __Price sensitivity/Price elasticity.__ What drives this?
+- *Price sensitivity/Price elasticity.* What drives this?
 - Psychological Issues. 
 
 ## 10.2

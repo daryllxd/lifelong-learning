@@ -29,20 +29,20 @@
 > Most of all, I’ll remember that the journey is the reward. I will learn and grow and enjoy every single day.
 
 #### Leverage Points of Big Companies
-- __Distribution.__ Never start by selling your product in major stores, use mail order. Or sell directly to just a few cx for lots of money per sale. Last step is traditional distribution.
-- __Access to Capital.__ Be chaep in everything.
-- __Brand Equity.__ Position against brand leader. "Cheaper than Levi's." The story should be short, solid, and memorable.
-- __Customer Relationships.__
-- __Great Employees.__
+- *Distribution.* Never start by selling your product in major stores, use mail order. Or sell directly to just a few cx for lots of money per sale. Last step is traditional distribution.
+- *Access to Capital.* Be chaep in everything.
+- *Brand Equity.* Position against brand leader. "Cheaper than Levi's." The story should be short, solid, and memorable.
+- *Customer Relationships.*
+- *Great Employees.*
 
 #### What the Big Guys Don't Have
-- __Nothing to Lose.__ They have employees with a huge stake in maintaining the status quo.
-- __Happy With Small Fish.__ Find a niche, not a nation.
-- __Presidential Input.__ In big companies, the president is far removed from the action.
-- __Rapid R&D.__ Big companies will almost always try to reduce invention risk by assigning a bureaucracy. You, on the other hand, can do it yourself.
-- __The Underdog.__ 
-- __Low Overhead.__
-- __Time.__ 
+- *Nothing to Lose.* They have employees with a huge stake in maintaining the status quo.
+- *Happy With Small Fish.* Find a niche, not a nation.
+- *Presidential Input.* In big companies, the president is far removed from the action.
+- *Rapid R&D.* Big companies will almost always try to reduce invention risk by assigning a bureaucracy. You, on the other hand, can do it yourself.
+- *The Underdog.* 
+- *Low Overhead.*
+- *Time.* 
 
 A lot of this manifesto is about survival. A true bootstrapper worries about survival all the time. Why? Because if you fail, itʼs back to company cubicles, to work you do for someone else until you can get enough scratched together to try again.
 
@@ -62,13 +62,13 @@ In a free society, the government doesnʼt control who gets the right to start a
 - Scalability
 
 #### BMs should be:
-- __Profitable.__ Write down a target date to profitabiity.
-- __Protectible.__
-- __Self-priming.__ Stuff you buy needs to pay for its own growth.
-- __Adjustible.__ Do whatever when the business scales up.
-- __Optional exit strategy.__ 
+- *Profitable.* Write down a target date to profitabiity.
+- *Protectible.*
+- *Self-priming.* Stuff you buy needs to pay for its own growth.
+- *Adjustible.* Do whatever when the business scales up.
+- *Optional exit strategy.* 
 
-__Do You Want to Be a Freelancer or an Entrepreneur?__
+*Do You Want to Be a Freelancer or an Entrepreneur?*
 
 A freelancer sells her talents. While she may have a few employees, basically sheʼs doing a job without a boss, not running a business. Layout artists, writers, consultants, film editors, landscapers, architects, translators, and musicians are all freelancers. There is no exit strategy. There is no huge pot of gold. Just the pleasure and satisfaction of making your own hours and being your own boss.
 
@@ -76,7 +76,7 @@ An entrepreneur is trying to build something bigger than herself. She takes calc
 
 The entrepreneur is comfortable raising money, hiring and firing, renting more office space than she needs right now. The entrepreneur must dream big and persuade others to share her dream. The freelancer, on the other hand, can focus on craft. She can most easily build her business by doing great work, consistently.
 
-__The most successful bootstrappers donʼt invent a business model. They trade on the success of a proven one.__
+*The most successful bootstrappers donʼt invent a business model. They trade on the success of a proven one.*
 
 ## Follow the Money
 
@@ -114,7 +114,7 @@ Most people hate to be wrong. They hate to make a statement (or, even worse, to 
 
 Starting a business is the most public, most expensive, riskiest way of all to be wrong.
 
-__Hereʼs my best advice to you: Stop planning and start doing.__
+*Hereʼs my best advice to you: Stop planning and start doing.*
 
 You donʼt have to quit your day job. But you do have to get out there and do it. The more you do, the more you do. Doors will open. Opportunities will appear. Your model will change, your reputation will increase, you will become a magnet for smart people, good customers, and investors. But none of this will happen if you stay inside and keep planning.
 
@@ -139,7 +139,7 @@ A business with plenty of sales can almost always get funding. A company with pl
 Sooner or later, your business comes down to extracting cash from other people or busi- nesses and keeping as much of it as you can. Itʼs tempting to focus on your product, your systems, your policies, the writing on page 7 of your brochure. But none of those matter if you donʼt have sales.
 
 
-__Sell Something That People Want to Buy (And Know How to Buy!).__
+*Sell Something That People Want to Buy (And Know How to Buy!).*
 
 Figuring out what people want to buy is a two-step process. The first step is figuring out what theyʼre already buying. The second step is getting people to switch.
 
@@ -149,7 +149,7 @@ It didnʼt take long for the ball-point pen to replace the fountain pen, did it?
 
 It took only 10 years for the word processor to completely wipe out the billion-dollar type- writer industry. Even though a word processor costs 5 to 50 times as much as typewriter, the ease was far greater.
 
-__Own the Sales Process__
+*Own the Sales Process*
 
 “If a man builds a better mousetrap, the world will beat a path to his door.”
 
@@ -169,7 +169,7 @@ Faking your way through isnʼt going to work. Hoping that the sales process will
 
 ## Ringo was the Luckiest Beatle
 
-__Rule 1: Find People Who Care About Cash Less Than You Do__
+*Rule 1: Find People Who Care About Cash Less Than You Do*
 
 Borrowing from other businesses to fund your business is much smarter than borrowing personal money. Your suppliers and your customers almost certainly have different objectives than you. If you can collect early and pay late, you can grow with their money.
 
@@ -179,13 +179,13 @@ Another very important step in establishing credit: Be up-front with your custom
 
 In 1985, I cold-called Beth Emme, a printing salesperson for R. R. Donnelly, the largest print- er in the world. (I figured I ought to start at the top.) I persuaded her to buy me lunch (always let the salespeople pay!) and then quizzed her for two hours. What she taught me about printing would have taken years to learn without her help.
 
-__Rule 2: Survival Is Success__
+*Rule 2: Survival Is Success*
 
 At the beginning, when youʼre armed with a plan and a cash-flow statement, you might be tempted to be very choosy about which projects and which customers you take. Donʼt do that! (At least not too much). Watch the money. Take the money.
 
 Allocate a percentage of your week to making money. Any way you can that doesnʼt distract from the core business. If a project makes money, itʼs a good project. If a product makes money, itʼs a good product.
 
-__Rule 3: Success Leads to More Success__
+*Rule 3: Success Leads to More Success*
 
 The more you do, the more you do. Being in front of people will lead to new opportunities, new products, new engagements. Be in motion, because customers like motion.
 
@@ -199,11 +199,11 @@ Being busy creates its own successes. How?
 4. Builds your credit rating
 5. Puts you in contact with smart people and potential customers
 
-__Rule 4: Redo the Mission Statement and the Business Plan Every Three Months__
+*Rule 4: Redo the Mission Statement and the Business Plan Every Three Months*
 
 Your path to business success is a maze, not a straight line. As the market develops, as you develop, as your employees develop, youʼll discover you made some great decisions. But you also probably made some short-term decisions that became habits, and missed some oppor- tunities because you were busy chasing something else.
 
-__Rule 5: Associate With Winners__
+*Rule 5: Associate With Winners*
 
 Some customers are demanding, focused, responsive bellwethers for the market. After creat- ing something for these customers, youʼll discover lots of other customers wanting to buy something just like that.
 
@@ -224,13 +224,13 @@ A few hours a week ought to net you a group of 100 or more peers who will benefi
 
 A warning about the organized groups: Be sure to join one thatʼs as upbeat and enabling as you are. It does you no good to sit around complaining about employees and banks and cus- tomers. You need to surround yourself with people who have succeeded and are still enjoying the ride.
 
-__Rule 6: Beware of Shared Ownership__
+*Rule 6: Beware of Shared Ownership*
 
 A 50/50 split is almost never fair...Inevitably, someone feels cheated. And someone goes for the ride.
 
 Remember, the number one thing you have to invest is your time. And itʼs almost impossible to guarantee that a partner is going to invest her time in the same way or with the same impact as you. At the early stages of starting your business, itʼs tempting to undervalue the company, to let the experts have a big piece of the pie in exchange for getting you in the door.
 
-__Rule 7: Advertise__
+*Rule 7: Advertise*
 
 From the first day, allocate a percentage of your income to marketing. Do marketing before you take out money to pay yourself. Letters, phone calls, banner ads, space ads, even TV. They’re all cheaper than you think, and you’ve got to spend the money to get the money back.
 

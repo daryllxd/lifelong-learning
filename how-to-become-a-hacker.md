@@ -143,7 +143,7 @@ The hacker culture doesn't have leaders, exactly, but it does have culture heroe
 - Develop an analytical ear for music. Learn to appreciate peculiar kinds of music. Learn to play some musical instrument well, or how to sing.
 - Develop your appreciation of puns and wordplay.
 
-__Q: How do I tell if I am already a hacker?__
+*Q: How do I tell if I am already a hacker?*
 
 A: Ask yourself the following three questions:
 

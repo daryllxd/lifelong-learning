@@ -47,4 +47,4 @@ The use case for the `--full` option seems to be very limited. Personally I can'
 
 My understanding of the difference is that engines are like plugins, and add functionality to existing applications. While mountable apps are essentially an application, and can stand alone.
 
-The difference, I believe, is that a mountable app's are isolated from the host app, so they can't share classes - models, helper etc. __This is because a Mountable app is a Rack endpoint (i.e a Rack app in its own right).__
+The difference, I believe, is that a mountable app's are isolated from the host app, so they can't share classes - models, helper etc. *This is because a Mountable app is a Rack endpoint (i.e a Rack app in its own right).*

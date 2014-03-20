@@ -9,10 +9,10 @@
 ## The Vim Learning Curve is a Myth
 [Link](http://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth)
 
-__You can learn to use vim in 30 minutes.__ `vimtutor`, and after 30 minutes you can start grasping the ideas that make vim so amazing.
+*You can learn to use vim in 30 minutes.* `vimtutor`, and after 30 minutes you can start grasping the ideas that make vim so amazing.
 
-__Learning vim is fun because it's game-like.__ _No one ever says "I'd love to learn Street Fighter 2, but there are just so many combos!"_ People don't say this because learning a game is enjoyable. You start off with just the basic kicks and punches, and those get you by. Later, you learn more advanced moves, maybe even by accident.
+*Learning vim is fun because it's game-like.* _No one ever says "I'd love to learn Street Fighter 2, but there are just so many combos!"_ People don't say this because learning a game is enjoyable. You start off with just the basic kicks and punches, and those get you by. Later, you learn more advanced moves, maybe even by accident.
 
 At first, everything is simple, but then you can chain your commands together. Over time, you burn advanced tricks into your muscle memory.
 
-__You'll be faster than your old editor in two weeks.__
+*You'll be faster than your old editor in two weeks.*

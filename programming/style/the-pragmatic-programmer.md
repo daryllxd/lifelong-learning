@@ -69,7 +69,7 @@
 
 - Programmers are constantly in maintenance mode. Our understanding changes day by day. New requirements arrive as we're designing or coding.
 
-__How Does Duplication Arise?__
+*How Does Duplication Arise?*
 
 - At the coding level, we often need to have the same information represented in different forms. Maybe we're writing a client-server application, using different languages on the client and server, and need to represent some shared structure on both.
 - Often the answer is to write a simple filter or code generator.
@@ -238,7 +238,7 @@ _No amount of genius can overcome a preoccupation with detail. – Levy’s Eigh
 ### Temporal Coupling
 - Better to have things that can be threaded consumed at the same time than do it serially.
 
-__MVC__
+*MVC*
 
 - Model = target object, has no direct knowledge of any views or controllers
 - View = a way to interpret the model, it subscribes to changes in the model and logical events from the controller

@@ -208,7 +208,7 @@ It is sometimes hard to explain to authorities why one would want to do such thi
 
 Those in authority tend to be annoyed by hackers' general attitude of disobedience. But that disobedience is a byproduct of the qualities that make them good programmers. They may laugh at the CEO when he talks in generic corporate new speech, but they also laugh at someone who tells them a certain problem can't be solved.
 
-__Sometimes young programmers notice the eccentricities of eminent hackers and decide to adopt some of their own in order to seem smarter. The fake version is not merely annoying; the prickly attitude of these posers can actually slow the process of innovation.__
+*Sometimes young programmers notice the eccentricities of eminent hackers and decide to adopt some of their own in order to seem smarter. The fake version is not merely annoying; the prickly attitude of these posers can actually slow the process of innovation.*
 
 Show any hacker a lock and his first thought is how to pick it. But there is a deeper reason that hackers are alarmed by measures like copyrights and patents. They see increasingly aggressive measures to protect "intellectual property" as a threat to the intellectual freedom they need to do their job. And they are right.
 
@@ -290,7 +290,7 @@ The Web may not be the only way to deliver software, but it's one that works now
 
 If you're a hacker who has thought of one day starting a startup, there are probably two things keeping you from doing it. One is that you don't know anything about business. The other is that you're afraid of competition. Neither of these fences have any current in them.
 
-__There are only two things you have to know about business: build something users love, and make more than you spend. If you get these two right, you'll be ahead of most startups. You can figure out the rest as you go.__
+*There are only two things you have to know about business: build something users love, and make more than you spend. If you get these two right, you'll be ahead of most startups. You can figure out the rest as you go.*
 
 You may not at first make more than you spend, but as long as the gap is closing fast enough you'll be ok. If you start out under funded, it will at least encourage a habit of frugality. The less you spend, the easier it is to make more than you spend. 
 
@@ -466,7 +466,7 @@ When people care enough about something to do it well, those who do it best tend
 
 Like chess or painting or writing novels, making money is a very specialized skill. But for some reason we treat this skill differently. No one complains when a few people surpass all the rest at playing chess or writing novels, but when a few people make more money than the rest, we get editorials saying this is wrong.
 
-__I think there are three reasons we treat making money as different: the misleading model of wealth we learn as children; the disreputable way in which, till recently, most fortunes were accumulated; and the worry that great variations in income are somehow bad for society.__
+*I think there are three reasons we treat making money as different: the misleading model of wealth we learn as children; the disreputable way in which, till recently, most fortunes were accumulated; and the worry that great variations in income are somehow bad for society.*
 
 #### 7.1. The Daddy Model of Wealth
 
@@ -564,7 +564,7 @@ I spent about six months writing software that looked for individual spam featur
 
 When I did try statistical analysis, I found immediately that it was much cleverer than I had been. It discovered, of course, that terms like virtumundo and teens were good indicators of spam. But it also discovered that per and FL and ff0000 are good indicators of spam. In fact, ff0000 (HTML for bright red) turns out to be as good an indicator of spam as any pornographic term.
 
-__Here's a sketch of how I do statistical filtering. I start with one corpus of spam and one of non spam mail. At the moment each one has about 4000 messages in it. I scan the entire text, including headers and embedded HTML and Javascript, of each message in each corpus. I currently consider alphanumeric characters, dashes, apostrophes, and dollar signs to be part of tokens, and everything else to be a token separator. (There is probably room for improvement here.) I ignore tokens that are all digits, and I also ignore HTML comments, not even considering them as token separators.__
+*Here's a sketch of how I do statistical filtering. I start with one corpus of spam and one of non spam mail. At the moment each one has about 4000 messages in it. I scan the entire text, including headers and embedded HTML and Javascript, of each message in each corpus. I currently consider alphanumeric characters, dashes, apostrophes, and dollar signs to be part of tokens, and everything else to be a token separator. (There is probably room for improvement here.) I ignore tokens that are all digits, and I also ignore HTML comments, not even considering them as token separators.*
 
 [TODO]
 
@@ -580,7 +580,7 @@ As in any job, as you continue to design things, you'll get better at it. Your t
 
 But if you come out of the closet and admit, at least to yourself, that there is such a thing as good design, then you can start to study it in detail. How has your taste changed? When you made mistakes, what caused you to make them? What have other people learned about design?
 
-GOOD DESIGN IS SIMPLE. You hear this from math to painting. In math it means that a shorter proof tends to be a better one. __For architects and designers, it means that beauty should depend on a few carefully chosen structural elements rather than a profusion of superficial ornament.__
+GOOD DESIGN IS SIMPLE. You hear this from math to painting. In math it means that a shorter proof tends to be a better one. *For architects and designers, it means that beauty should depend on a few carefully chosen structural elements rather than a profusion of superficial ornament.*
 
 GOOD DESIGN IS TIMELESS. He means the same thing Kelly Johnson did: if something is ugly, it can't be the best solution. There must be a better one, and eventually someone else will discover it. Aiming at timelessness is a way to make yourself find the best answer: if you can imagine someone surpassing you, you should do it yourself. 
 

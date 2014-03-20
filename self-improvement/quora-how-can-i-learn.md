@@ -14,7 +14,7 @@ Seven step process:
 
 Sherlock embodies the first three steps.  Holmes trained himself to develop the habit of being observant.  We tend to train ourselves to do the opposite - to block things out.  But Sherlock pushed through that and started to notice details.  To prevent that becoming tiring or boring he trained himself to find those details interesting.  
 
-Anything can be interesting if we show interest in it.  That was an epiphany that hit me one day in college.  I was in a class that I found boring.  __And then I realized that the subject can't be boring - because if it was, the professor would not have chosen to devote his life to it.__  I was the one making it boring.  That realization was a wake up call and I became intrigued to learn why the professor found the subject fascinating.
+Anything can be interesting if we show interest in it.  That was an epiphany that hit me one day in college.  I was in a class that I found boring.  *And then I realized that the subject can't be boring - because if it was, the professor would not have chosen to devote his life to it.*  I was the one making it boring.  That realization was a wake up call and I became intrigued to learn why the professor found the subject fascinating.
 
 Once Sherlock taught himself to notice details and then to find them interesting, he became curious about the why, what, how, when, and where of those details.  What job would cause that particular pattern of wear on the cuffs of a sleeve?  Where would one find the orange mud on the hem of those pants?  He then had concrete, not abstract, problems to solve.  Research was afoot.
 
@@ -32,7 +32,7 @@ Computer programming made me realize that's suboptimal. What's great about progr
 
 What didn't work for me was to learn a programming language by reading many books about it. That is important, and I still do it, but it's not enough. For years, this astounded me. I would read five books about C++, understand everything I read, sit down a computer, and be unable to program. Even with all that information crammed into my head, it kind of felt like I was starting from scratch. I only really learned it after hours of practice. 
 
-__People want shortcuts, but they don't exist. Our brains are rigged to learn by repetition (mostly related motor and social skills) and trial-and-error. You must go through the process of trying, failing, and trying again (and failing again, etc.). Failure is so important to learning, I keep a "failure diary" and have published parts of it online. I can't stress enough how much this has helped me.__
+*People want shortcuts, but they don't exist. Our brains are rigged to learn by repetition (mostly related motor and social skills) and trial-and-error. You must go through the process of trying, failing, and trying again (and failing again, etc.). Failure is so important to learning, I keep a "failure diary" and have published parts of it online. I can't stress enough how much this has helped me.*
 
 How can you learn a non-practical subject? What if you're studying History or Literary Theory, instead of something like programming or auto-mechanics? You can't simply write a History program, run it, and see if it works.
 
@@ -68,7 +68,7 @@ They didn't tell us that failure was a natural part of the learning process. The
 
 People (understandably) hate this so much, that as soon as they can, they put themselves in a position where they never have to fail again. (Or where the chances of failing are as small as possible.) They find jobs that aren't all that challenging after an initial learning curve. The goal, conscious or not, is to coast for the rest of one's life.
 
-Which gives adults very little day-to-day experience with failure. Most people I know failed at certain subjects in school (maybe not by getting Fs, but by struggling with those subjects for years), and now have simply decided "I'm not a ______ person" or "I just don't get _______", e.g. "I'm not a Math person" or "I just don't get Shakespeare." That absolves them from trying. Which keeps them from failing. Which keeps them from learning. 
+Which gives adults very little day-to-day experience with failure. Most people I know failed at certain subjects in school (maybe not by getting Fs, but by struggling with those subjects for years), and now have simply decided "I'm not a *** person" or "I just don't get ***_", e.g. "I'm not a Math person" or "I just don't get Shakespeare." That absolves them from trying. Which keeps them from failing. Which keeps them from learning. 
 
 This is not the way we start out. If infants decided, after many hundreds of failures, "I'm just not a walking person" or "I just don't get talking," we'd all be screwed. Luckily, those skills are acquired before school gets its clutches on us.
 

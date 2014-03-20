@@ -5,32 +5,32 @@ In 1993, Yukihiro Matsumoto (Matz) conceived of a programming language that is m
 
 From Perl he took things like optional parens and shell integration, from Smalltak he took OO and message passing.
 
-__Ruby Implementations:__
+*Ruby Implementations:*
 
 - MRI (Matz Ruby Implementation): Reference.
 - JRuby: JVM implementation.
 - Rubinius: Ruby to LLVM machine code.
 - MagLev: Smalltalk implementation.
 
-__Community:__ 
+*Community:* 
 
 > Matz is nice, so we are nice.
 
 > Learning how to program, thats the easy part. Learning how to be a programmer, thats the advanced stuff. Thats what gets you to the next level, I think we should work on that. - James Edward Gray II
 
-__Productivity:__
+*Productivity:*
 
 > When cycling, either there is a headwind or you are having a good day. I am always ready to take a wind assisted ride as my accomplishment, as if I really am that strong. But I can't forget that if my doppelgänger was out riding the same road in the same conditions but in the opposite direction, that she would work just as hard but accomplish far less -- Sandi Metz Tells your Future
 
-__Performance:__
+*Performance:*
 
 > Often people, especially computer engineers, focus on the machines. They think, "By doing this, the machine will run faster. By doing this, the machine will run more effectively. By doing this, the machine will something something something." They are focusing on machines. But in fact we need to focus on humans, on how humans care about doing programming or operating the application of the machines. We are the masters. They are the slaves. -- Matz
 
-People sometimes dismiss Ruby because Ruby is slow. Well it is, and __I don't care__. The biggest performance bottlenecks that I have day to day is the database, the file system, the internet and bugs. These are not problems with Ruby, so speeding it up will have a negligible effect.
+People sometimes dismiss Ruby because Ruby is slow. Well it is, and *I don't care*. The biggest performance bottlenecks that I have day to day is the database, the file system, the internet and bugs. These are not problems with Ruby, so speeding it up will have a negligible effect.
 
 If you can use a programming language like Ruby to make your programers more productive, then you can increase the performance of your code with better hardware. You can buy the better hardware with the money you saved by making your developers more productive.
 
-__Killer App: Rails__
+*Killer App: Rails*
 
 > The core philosophy of Rails: Convention over Configuration.
 

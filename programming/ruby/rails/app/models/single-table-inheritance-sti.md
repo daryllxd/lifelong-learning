@@ -151,5 +151,5 @@ Rails will take care of most of the details, writing the class’s name to the t
 - Common attributes need to remain the same.
 
 #### Solutions
-- If you're using STI to reuse common behavior, use __Replace Subclasses with Strategies__.
+- If you're using STI to reuse common behavior, use *Replace Subclasses with Strategies*.
 - If you're using STI so you can easily refer to severaldifferentclasses in the same table, switch to using a polymorphic association instead.

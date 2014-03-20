@@ -1,6 +1,6 @@
 ## [Hack Design 12.1: What You Should Be Learning in Cx Development Interviews](http://www.cindyalvarez.com/communication/customer-development-interviews-how-to-what-you-should-be-learning)
 
-__Core Question: “What should I be learning from this interview?”__
+*Core Question: “What should I be learning from this interview?”*
 
 People are too polite to say no. People overestimate how much effort they’re willing to put into something. People think incremental and not disruptive.
 
@@ -26,7 +26,7 @@ Even if the cx thinks they spend too much time grocery shopping, if they haven�
 - If you don’t have an idea, you could prompt them with “spend less time, less money”
 - “If you had a cost-comparison tool, how would that make your life easier?”
 
-5 Whys. Is it because they have to pay the lowest prices, or they want to cut down on trips, etc. __If they can’t answer this, then this probably won’t work.__
+5 Whys. Is it because they have to pay the lowest prices, or they want to cut down on trips, etc. *If they can’t answer this, then this probably won’t work.*
 
 - “What people in your household buy groceries?” Figure out who the stakeholders are.
 - “What do you do before and after you go grocery shopping?” Find out stakeholders.
@@ -42,7 +42,7 @@ Even if the cx thinks they spend too much time grocery shopping, if they haven�
 - Whenever you hear emotion in the person's voice, prolong that line of conversation.  (You can prolong conversations by asking why/how often/who/where questions.  It may take 2 or 3 or more of these follow-up questions to get at the interesting detail.)
 - Avoid yes/no questions.  Whichever one the person chooses, it's probably not useful for you.
 - Whenever the person starts complaining listen (and encourage it!)  People are more specific with complaints than praise, and specificity is where you learn.
-- Challenge your pre-existing hypotheses by referencing the mythical "other person". For example, "I've heard from other people that ______.  Do you agree?"  It's easier for people to disagree with an anonymous third party than to disagree with YOU. 
+- Challenge your pre-existing hypotheses by referencing the mythical "other person". For example, "I've heard from other people that ***.  Do you agree?"  It's easier for people to disagree with an anonymous third party than to disagree with YOU. 
 - Avoid talking about your product or your ideas until the end - but then DO give the person the opportunity to ask you some questions.  This is NOT a chance for you to sell your idea, it's just an equalizer.  You've been asking questions the whole time, now it's their turn.
 - Thank them profusely and reinforce one concrete point that you learned.
 

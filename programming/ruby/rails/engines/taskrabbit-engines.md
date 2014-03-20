@@ -9,11 +9,11 @@ Ex: `Devise` and `rails_admin`. These show the power of engines by providing a l
 
 #### Versus Many Apps
 
-Many apps mean it is easier to modularize and everyone has freedom. The problem is that things get rough in coordinating across these apps. What they did was __they made APIs and allowed any app to have read-only access to the platform app's database.__ This allowed things to go much faster by preventing the creation of man GETs and possible points of failure.
+Many apps mean it is easier to modularize and everyone has freedom. The problem is that things get rough in coordinating across these apps. What they did was *they made APIs and allowed any app to have read-only access to the platform app's database.* This allowed things to go much faster by preventing the creation of man GETs and possible points of failure.
 
 Problem is, integration testing the whole thing. 
 
-__Engine advantages__
+*Engine advantages*
 
 - One codebase and one repo
 - Single PR has everything related to that feature
@@ -32,7 +32,7 @@ Inside a given engine, you have the scope of a much smaller project. Some engine
 
 Before: They put adin f(x) in the normal pages. Just by changing permissions, we could allow the admin to edit it, too.
 
-__Benefits:__
+*Benefits:*
 
 - Previously, 1/3 of model code for Post would be for admins only.
 - Now, admins can have a better experience and keep them in admin-land.
@@ -59,13 +59,13 @@ If sharing models: `db/migrate`.
 
 Master User model: Has the `has_secure_password` and knows anything about that kind of thing. 
 
-Other models: They may need a User model but they have the `ReadOnly` module __to prevent actually writing to the table__.
+Other models: They may need a User model but they have the `ReadOnly` module *to prevent actually writing to the table*.
 
 Therefore, the account engine has the migrations having to do with the users table. In order to register that migrations are within these engines, we add a snippet like the following to each engine.
 
 What happens when you add a column to users for some other feature in the other engines? Ex: boolean `admin` column to know if the given user is allowed to do stuff in the admin engine.
 
-__In part, if I couldn’t justify to myself why it would be part of the account engine, should this even be in the users table at all?__ If the answer is “yes” for whatever reason, then I’d likely still put the migration in the account engine, but usually it helps me realize that it shouldn’t be in the users table at all.
+*In part, if I couldn’t justify to myself why it would be part of the account engine, should this even be in the users table at all?* If the answer is “yes” for whatever reason, then I’d likely still put the migration in the account engine, but usually it helps me realize that it shouldn’t be in the users table at all.
 
 Again, architecture does not exist for fun or to get in the way. _If something is super-simple and obvious and easy to maintain while doing the “right” way for the design is difficult and fragile, we just do it the easy way._ That’s the way to ship things for customers. However, we’ve found that in most case the rules of the system kick off useful discussions and behaviors that tend to work out quite well.
 

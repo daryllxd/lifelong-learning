@@ -1,6 +1,6 @@
 ## BDD in Rails
 
-__In the context of this book, the single most important concept expressed directly in Rails is that automated testing is a crucial component in the development of web applications.__ Rails was the first web development framework to ship with an integrated full-stack testing framework. This lowered the barrier to entry for those new to testing and, in doing so, raised the bar for the rest of us.
+*In the context of this book, the single most important concept expressed directly in Rails is that automated testing is a crucial component in the development of web applications.* Rails was the first web development framework to ship with an integrated full-stack testing framework. This lowered the barrier to entry for those new to testing and, in doing so, raised the bar for the rest of us.
 
 `rspec-rails` extends the Rails testing framework by offering separate classes for spec’ing Rails models, views, controllers, and even helpers, in complete isolation from one another.
 
@@ -43,11 +43,11 @@ Do this shit.
 
 #### Step Definition Styles
 
-Cucumber helps us describe behavior in business terms, the steps shouldn’t express technical details. __`Given I’m logged in` as an administrator could apply to a CLI, client-side GUI, or web-based application.__
+Cucumber helps us describe behavior in business terms, the steps shouldn’t express technical details. *`Given I’m logged in` as an administrator could apply to a CLI, client-side GUI, or web-based application.*
 
-- __Automated Browser__: Access the entire Rails MVC stack in a real web browser by driving interactions with Webrat API and Selenium. Fully integrated but slowest.
-- __Simulated Browser__: Access the entire MVC stack using Webrat, no JS.
-- __Direct Model Access__: Access AR models directly, bypassing routing, controllers, views. Fastest but least integrated.
+- *Automated Browser*: Access the entire Rails MVC stack in a real web browser by driving interactions with Webrat API and Selenium. Fully integrated but slowest.
+- *Simulated Browser*: Access the entire MVC stack using Webrat, no JS.
+- *Direct Model Access*: Access AR models directly, bypassing routing, controllers, views. Fastest but least integrated.
 
 If there is any JavaScript or Ajax, add scenarios that use the Automated Browser approach in their Whens and Thens for the happy path and critical less common paths.
 
@@ -277,10 +277,10 @@ Use `assign()` to provide data (mock) to the view.
 
 #### Shit to glean
 
-- __Directory organization__: The structure for view specs mimics the structure in `app/views`. `specs/views/messages/` will be for view templates found in `app/views/messages/`.
-- __File naming__: View specs are named after the template they provide examples for with an `_spec.rb` appended to the filename. `index.html.erb` has a corresponding `index.html.erb_spec.rb`.
-- __Always require spec_helper.rb__: Every view spec will need to require the `spec_helper.rb` file.
-- __Describing view specs__: The `describe()` is important, because it uses the path to the view minus the `app/views/` portion. DRY.
+- *Directory organization*: The structure for view specs mimics the structure in `app/views`. `specs/views/messages/` will be for view templates found in `app/views/messages/`.
+- *File naming*: View specs are named after the template they provide examples for with an `_spec.rb` appended to the filename. `index.html.erb` has a corresponding `index.html.erb_spec.rb`.
+- *Always require spec_helper.rb*: Every view spec will need to require the `spec_helper.rb` file.
+- *Describing view specs*: The `describe()` is important, because it uses the path to the view minus the `app/views/` portion. DRY.
 
 #### Mocking Models
 
@@ -292,7 +292,7 @@ A controller spec is a collection of examples of the expected behavior of action
 
 We can test controllers by themeselves since controllers don't render views and we have mocks/stubs to simulate a model.
 
-__A simple guideline for a controller is that it should know what to do but not how to do it. Controllers that know too much about the how become responsible for too many things and as a result become bloated, messy, and hard to understand.__
+*A simple guideline for a controller is that it should know what to do but not how to do it. Controllers that know too much about the how become responsible for too many things and as a result become bloated, messy, and hard to understand.*
 
     describe MessagesController do 
       describe "POST create" do
@@ -362,21 +362,21 @@ The `create()` action we just implemented is typical in Rails apps. The controll
 
 By specifying the interactions with the model instead of the result of the model’s work, we are able to keep the spec and the implementation simple and readable.
 
-__Directory organization__: The directory structure for controller specs parallels the directory structure found in `app/controllers/`.
+*Directory organization*: The directory structure for controller specs parallels the directory structure found in `app/controllers/`.
 
-__File naming__: Each controller spec is named after the controller it provides examples for, with `_spec.rb` appended to the filename. `sessions_controller_spec.rb` = `sessions_controller.rb`.
+*File naming*: Each controller spec is named after the controller it provides examples for, with `_spec.rb` appended to the filename. `sessions_controller_spec.rb` = `sessions_controller.rb`.
 
-__Always require spec_helper.rb__.
+*Always require spec_helper.rb*.
 
-__Example group names__: The docstring passed to the outermost describe() block in a controller spec typically includes the type of request and the action the examples are for.
+*Example group names*: The docstring passed to the outermost describe() block in a controller spec typically includes the type of request and the action the examples are for.
 
 Focus on one example at a time. Once each examples passed, we looked for and extracted any duplication to a `before` block, allowing each example to stay focused, clear, and DRY.
 
 #### ActionController::TestCase
 
-- __`assigns()`__: We use assigns to access a hash.
-- __`flash()`__: We use flash to access a hash, which we use to specify messages we expect to be stored in the flash.
-- __`post()`__: We use the post method to simulate a POST request. 1st: Name of action. 2nd: K-V pairs for the params, 3rd: K-V pairs for the session.
+- *`assigns()`*: We use assigns to access a hash.
+- *`flash()`*: We use flash to access a hash, which we use to specify messages we expect to be stored in the flash.
+- *`post()`*: We use the post method to simulate a POST request. 1st: Name of action. 2nd: K-V pairs for the params, 3rd: K-V pairs for the session.
 
         # no params or session data
         post :create
@@ -387,7 +387,7 @@ Focus on one example at a time. Once each examples passed, we looked for and ext
         # with params and session data
         post :create, { :id => 2 }, { :user_id => 99 }
 
-- __`xml_http_request() and xhr()`__: Another argument, the type of request to make.
+- *`xml_http_request() and xhr()`*: Another argument, the type of request to make.
 
         # no params or session data
         xhr :get, :index
@@ -398,12 +398,12 @@ Focus on one example at a time. Once each examples passed, we looked for and ext
         # with params and session data
         xhr :get, :show, { :id => 2 }, { :user_id => 99 }
 
-- __`render_template`__: We use the `render_template()` method to specify the template we expect a controller action to render.
+- *`render_template`*: We use the `render_template()` method to specify the template we expect a controller action to render.
 
       # this will expand to "messages/new" in a MessagesController spec
       response.should render_template("new").
 
-- __`redirect_to`__.
+- *`redirect_to`*.
       
       # relying on route helpers
       response.should redirect_to(messages_path)
@@ -424,7 +424,7 @@ This keeps the controller specs lean and reduces the noise involved with managin
 
 It also provides quick fault isolation. You’ll always know that a failing controller spec means that the controller is not behaving correctly.
 
-__The one slight rub is that the view templates do need to exist even though we don’t render them.__
+*The one slight rub is that the view templates do need to exist even though we don’t render them.*
 
 #### Specifying ApplicationController
 
@@ -497,11 +497,11 @@ The same applies to association options. The :foreign_key or the :class_name opt
 
 #### What We Just DId
 
-__Directory organization__: Specs in `spec/models/` will be for models in `app/models/`.
+*Directory organization*: Specs in `spec/models/` will be for models in `app/models/`.
 
-__File naming__: `message_spec.rb` for model `Message`.
+*File naming*: `message_spec.rb` for model `Message`.
 
-__`require 'spec helper'`__.
+*`require 'spec helper'`*.
 
 #### Specifying Business Rules
 

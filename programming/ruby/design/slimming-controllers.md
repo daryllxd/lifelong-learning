@@ -31,7 +31,7 @@ Any time you use an instance variable in Ruby, ask yourself: “Is there a bette
 
 #### Limiting Instance Variables
 
-__A normal controller action is going to have one instance variable.__ Many actions will use two or three variables, but if you’re getting up above that it’s a sign that you’re missing a domain abstraction.
+*A normal controller action is going to have one instance variable.* Many actions will use two or three variables, but if you’re getting up above that it’s a sign that you’re missing a domain abstraction.
 
 What is the essential "link" between these objects? Why do they all belong on the same page? Whatever the reason, that should probably be a domain object. (Facade)
 

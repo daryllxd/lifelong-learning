@@ -89,7 +89,7 @@ On-demand:
 
 Spot:
 
-__Free tier ready! XD__
+*Free tier ready! XD*
 
 For reliability's sake, you have to store the image on S3.
 

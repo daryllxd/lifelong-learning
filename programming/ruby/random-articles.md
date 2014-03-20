@@ -58,7 +58,7 @@ Check if current path (for links)
 	   request.path_info==path ? "current": nil
 	 end
 
-	$:.unshift File.dirname(__FILE__) to add shit to the load path
+	$:.unshift File.dirname(*FILE*) to add shit to the load path
 
 	YAML::load(File.open('config/database.yml'))[$env].symbolize_keys.each do |key, value|
 		set key, value

@@ -190,11 +190,11 @@ lambda will raise an ArgumentError here because it requires the third argument.
 	puts proc_return		# => Proc.new
 	puts lambda_return		# => lambda_return method finished
 
-__`proc` is a code snippet__, copy and paste, so you actually exit immediately when you hit the `return` statement. `__Lambda` is an actual method__ that is executed, so it produces the "lambda" and carries on with the method.
+*`proc` is a code snippet*, copy and paste, so you actually exit immediately when you hit the `return` statement. `*Lambda` is an actual method* that is executed, so it produces the "lambda" and carries on with the method.
 
 Think of `lambda`s as a way of writing anonymous methods.
 
-__`Proc.new` is something that’s hardly ever used to explicitly create blocks because of these surprising return semantics. It is recommended that you avoid using this form unless absolutely necessary.__
+*`Proc.new` is something that’s hardly ever used to explicitly create blocks because of these surprising return semantics. It is recommended that you avoid using this form unless absolutely necessary.*
 
 Method Objects
 	

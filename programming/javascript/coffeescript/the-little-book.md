@@ -141,7 +141,7 @@ Behind the scenes, CoffeeScript is using JavaScript’s native prototype to crea
 	animal = new Animal
 	animal.sell(new Customer)
 
-__Fat arrow, use for methods for callbacks.__
+*Fat arrow, use for methods for callbacks.*
 
 #### Inheritance and Super
 

@@ -14,9 +14,9 @@ NDA is fucking stupid. Ideas are worth something, but they’re not transferrabl
 
 You need to get people who take their work a little too seriously.
 
-* __Sales:__ Super tenacious.
-* __Hacker:__ Will not sleep until bug is dead.
-* __Graphics:__ Will feel physical pain if something is 2 mm out of place.
+* *Sales:* Super tenacious.
+* *Hacker:* Will not sleep until bug is dead.
+* *Graphics:* Will feel physical pain if something is 2 mm out of place.
 
 Programmers: were they genuinely smart, could they actually get things done, and could we stand their personalities? Remember that people who are smart do not need to act that they are smart.
 
@@ -75,27 +75,27 @@ I think a society in which people can do and say what they want will also tend t
 
 ## What Startups Are Really Like
 --------------------------------------------------
-1. __Be Cafeful with Cofounders.__ What people wished they'd paid more attention to when choosing cofounders was character and commitment, not ability. This was particularly true with startups that failed. The lesson: don't pick cofounders who will flake.
+1. *Be Cafeful with Cofounders.* What people wished they'd paid more attention to when choosing cofounders was character and commitment, not ability. This was particularly true with startups that failed. The lesson: don't pick cofounders who will flake.
 
-2. __Startups Take Over Your Life.__ Running a startup is not like having a job or being a student, because it never stops. This is so foreign to most people's experience that they don't get it till it happens.
+2. *Startups Take Over Your Life.* Running a startup is not like having a job or being a student, because it never stops. This is so foreign to most people's experience that they don't get it till it happens.
 
-3. __It's an Emotional Roller-coaster.__ "The emotional ups and downs were the biggest surprise for me. One day, we'd think of ourselves as the next Google and dream of buying islands; the next, we'd be pondering how to let our loved ones know of our utter failure; and on and on."
+3. *It's an Emotional Roller-coaster.* "The emotional ups and downs were the biggest surprise for me. One day, we'd think of ourselves as the next Google and dream of buying islands; the next, we'd be pondering how to let our loved ones know of our utter failure; and on and on."
 
-4. __It Can Be Fun.__ I'm surprised by how much better it feels to be working on something that is challenging and creative, something I believe in, as opposed to the hired-gun stuff I was doing before. I knew it would feel better; what's surprising is how much better.
+4. *It Can Be Fun.* I'm surprised by how much better it feels to be working on something that is challenging and creative, something I believe in, as opposed to the hired-gun stuff I was doing before. I knew it would feel better; what's surprising is how much better.
 
-5. __Persistence Is the Key.__ "Everyone said how determined and resilient you must be, but going through it made me realize that the determination required was still understated." "I've been surprised again and again by just how much more important persistence is than raw intelligence."
+5. *Persistence Is the Key.* "Everyone said how determined and resilient you must be, but going through it made me realize that the determination required was still understated." "I've been surprised again and again by just how much more important persistence is than raw intelligence."
 
-6. __Think Long-Term.__ "I'm continually surprised by how long everything can take. Assuming your product doesn't experience the explosive growth that very few products do, everything from development to dealmaking (especially dealmaking) seems to take 2-3x longer than I always imagine." There is a positive side to thinking longer-term. It's not just that you have to resign yourself to everything taking longer than it should. If you work patiently it's less stressful, and you can do better work.
+6. *Think Long-Term.* "I'm continually surprised by how long everything can take. Assuming your product doesn't experience the explosive growth that very few products do, everything from development to dealmaking (especially dealmaking) seems to take 2-3x longer than I always imagine." There is a positive side to thinking longer-term. It's not just that you have to resign yourself to everything taking longer than it should. If you work patiently it's less stressful, and you can do better work.
 
-7. __Lots of Little Things.__ "It's much more of a grind than glamorous. A timeslice selected at random would more likely find me tracking down a weird DLL loading bug on Swedish Windows, or tracking down a bug in the financial model Excel spreadsheet the night before a board meeting, rather than having brilliant flashes of strategic insight." 
+7. *Lots of Little Things.* "It's much more of a grind than glamorous. A timeslice selected at random would more likely find me tracking down a weird DLL loading bug on Swedish Windows, or tracking down a bug in the financial model Excel spreadsheet the night before a board meeting, rather than having brilliant flashes of strategic insight." 
 
 	Most hacker-founders would like to spend all their time programming. You won't get to, unless you fail. Which can be transformed into: If you spend all your time programming, you will fail.
 
 	"I learnt never to bet on any one feature or deal or anything to bring you success. It is never a single thing. Everything is just incremental and you just have to keep doing lots of those things until you strike something."
 
-8. __Start with Something Minimal.__ Build the absolute smallest thing that can be considered a complete application and ship it.
+8. *Start with Something Minimal.* Build the absolute smallest thing that can be considered a complete application and ship it.
 
-9. __Engage Users.__ "I learned to think about the initial stages of a startup as a giant experiment. All products should be considered experiments, and those that have a market show promising results extremely quickly."
+9. *Engage Users.* "I learned to think about the initial stages of a startup as a giant experiment. All products should be considered experiments, and those that have a market show promising results extremely quickly."
 
 (not yet finished)
 
@@ -103,13 +103,13 @@ I think a society in which people can do and say what they want will also tend t
 --------------------------------------------------
 To be self-funding, you have to start as a consulting company, and it’s hard to switch from that to a product company.
 
-__Seed money__ is used to pay for your living expenses while creating a prototype. You get these from angels. They know that this has to be decided on quickly. You sometimes don’t even need a business plan.
+*Seed money* is used to pay for your living expenses while creating a prototype. You get these from angels. They know that this has to be decided on quickly. You sometimes don’t even need a business plan.
 
 To get money, you should actually be a company, who will fix the incorporation and stock divisions.
 
 Make sure that you do not have existing things that you have signed re: IP, such as the type that you have to have your thing owned by another company.
 
-__Remember that most rich people are looking for good investments.__ To them, if you show up and say there’s a high chance of success, then you’re doing them a favor by letting them invest.
+*Remember that most rich people are looking for good investments.* To them, if you show up and say there’s a high chance of success, then you’re doing them a favor by letting them invest.
 
 Next round: VCs. Approach them in advance because they can take months to decide. I’m inclined to go with whoever offered the most money the soonest with the least strings attached.
 
@@ -121,9 +121,9 @@ Try to not spend money as much as possible. Google knew that and they knew that 
 
 There is nothing more valuable in an early stage of a startup than smart users. If you listen to them, they’ll tell you exactly how to make a winning product, and they’ll even pay you for it.
 
-__VC money is not revenue.__ It’s money investors have given you in the hope you’ll be able to generate revenues. That money is not yours.
+*VC money is not revenue.* It’s money investors have given you in the hope you’ll be able to generate revenues. That money is not yours.
 
-When looking for a space for a startup, don’t feel that it has to look professional. __Professional means doing good work, not elevators and glass walls.__ Just rent an apartment¬–you want to live at the office in a startup, so why not have a place designed to be lived in as your office?
+When looking for a space for a startup, don’t feel that it has to look professional. *Professional means doing good work, not elevators and glass walls.* Just rent an apartment¬–you want to live at the office in a startup, so why not have a place designed to be lived in as your office?
 
 Key hours for productivity are the hours after dinner–employees eat dinner together, talk over ideas, and then come back to their offices to implement them.
 
@@ -133,7 +133,7 @@ So who should start a startup: a good hacker, between 23-38, and who wants to so
 
 Lessons: Don’t have a lot of meetings, don’y have chunks of code that multiple people own, don’t have a sales guy running the company, don’t make a high-end product, don’t let your code get too big, don’t leave finding bugs to QA people, don’t go too long between releases, don’t isolate developers from users.
 
-__Understand that for the next 4 years, you’ll do nothing but work. If you aren’t working, your competitors will be.__
+*Understand that for the next 4 years, you’ll do nothing but work. If you aren’t working, your competitors will be.*
 
 ## How to Raise Money
 --------------------------------------------------
@@ -229,9 +229,9 @@ Being smart doesn’t make you an outcast in elementary school, not in the real 
 
 All things equal, kids preferred being smarter than average, but it counted far less than physical appearance, charisma, or athletic ability. I think this is because the smart ones didn’t even want to be popular. I wanted to be popular, but not as how much I wanted to be smart. 
 
-__To nerds, the thought of average intelligence would be unbearable.__
+*To nerds, the thought of average intelligence would be unbearable.*
 
-Teenagers are always on duty as conformists. Nerds don’t realize that it takes work to be popular. It’s something that you make yourself. Nerds are unpopular because they have other things to think about. __Popular kids learned to be popular in the same way that smart kids learned to be smart: from their parents.__
+Teenagers are always on duty as conformists. Nerds don’t realize that it takes work to be popular. It’s something that you make yourself. Nerds are unpopular because they have other things to think about. *Popular kids learned to be popular in the same way that smart kids learned to be smart: from their parents.*
 
 This is why their lives suck from 11-17. Life at that age revolves far more around popularity than before or after.
 

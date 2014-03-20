@@ -20,7 +20,7 @@ Barangay Clearance Requirements
 - Confirmed appointment (photocopy required)
 - Duly accomplisyhed application form (may be downloaded from [DFA website](dfa.gov.ph))
 - Birth certifcate (BC ) in security paper (SECPA) issued by the National Statistics Office (NSO) or Certified True Copy (CTC) of BC issued by the Local Civil Registrar & duly authenticated by NSO. Transcribd BC/MC from the LC is required when entries in NSO BC/MC are blurred.
-- __No photo required.__
+- *No photo required.*
 - Supporting documents to prove identity.
 
 #### List of Acceptable IDs (at least 1 of the following)

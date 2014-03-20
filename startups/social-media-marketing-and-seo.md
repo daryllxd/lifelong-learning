@@ -3,12 +3,12 @@
 - Put links in HTML and don't use JS/CMS/Flash to put pages in.
 - Unreadable: Forms, JS for links, blocked by robots.txt, iframes, search forms, flash, java, too many links
 - Every link should be reachable from within 1 space from the landing.
-- __People use search engines to: "do something", "know something ", "go somewhere".__
+- *People use search engines to: "do something", "know something ", "go somewhere".*
 - Title: 65-75 chars. Keyword at front, branding at back.
 - URLs: Readable by humans, separate using hyphens
 - KW usage: Title, once at top, 2-3 in body, once in alt of an image, once in url, one in meta description.
 - Anti-scraping: Absolute positioning, use diff analytics
-- Keywords: Check Google Adwords Targeting Explorer. http://adwords.google.co.uk/o/Targeting/Explorer?__u=1000000000&__c=1000000000&stylePrefOverride=2
+- Keywords: Check Google Adwords Targeting Explorer. http://adwords.google.co.uk/o/Targeting/Explorer?*u=1000000000&*c=1000000000&stylePrefOverride=2
 - Popularity: From cx, company blog, create viral content.
 - Tools: Google Webmaster, Seomoz Open Site Explorer.
 

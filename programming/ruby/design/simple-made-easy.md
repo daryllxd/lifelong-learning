@@ -2,7 +2,7 @@ Simple means one thing, "easy" another. A thing is simple if it has no interleav
 
 Speaking English is easy, but it is not simple. Speaking French for French kids is easy for them, but it is not simle.
 
-What matters is the artefact (what the users use) as opposed to the contracts (source code, libraries, language concepts). __We need to assess our constructs based on the attributes of the artefacts that we'll create, not based on the experience of typing code in.__
+What matters is the artefact (what the users use) as opposed to the contracts (source code, libraries, language concepts). *We need to assess our constructs based on the attributes of the artefacts that we'll create, not based on the experience of typing code in.*
 
 When things are complex, many parts are tied together by definition. You need to reason about a system to know what to change and to do so without introducing defects. Tests, refactoring, rapid deployment are greate but to make a change, you need to be able to reason about it.
 

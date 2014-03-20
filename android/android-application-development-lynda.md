@@ -21,11 +21,11 @@ Applications are written in the Java programming language. They are compiled int
 
 #### Components
 
-- __Activities:__ A single screen with a user interface. Most applications contain multiple activities. When a new activity starts, it is pushed onto the _back stack_. The user interface can be built with XML or in Java. (Better in XML to separate the UI and the code). Lifespan is monitored through callback methods like `onStart()`, `onPause()`.
-- __Services:__ They perform long-running operations in the background. I does not contain a user interface. Useful for: network operations, playing music, etc. Runs independently of the component that created it.
-- __Content Providers:__ Used to store and retrieve data and make it accessible to all applications, because they are the only way to share data across applications. This is done via a public URI that uniquely identifies its data set.
-- __Broadcast Receivers:__ Responds to system-wide broadcast announcements. Example: When the screen turns off, the battery is low, etc. Applications can also initiate their own broadcasts. No UI, but status bar.
-- __Android Manifest File:__ Must be named AndroidManifest.xml, in the root directory. It has:
+- *Activities:* A single screen with a user interface. Most applications contain multiple activities. When a new activity starts, it is pushed onto the _back stack_. The user interface can be built with XML or in Java. (Better in XML to separate the UI and the code). Lifespan is monitored through callback methods like `onStart()`, `onPause()`.
+- *Services:* They perform long-running operations in the background. I does not contain a user interface. Useful for: network operations, playing music, etc. Runs independently of the component that created it.
+- *Content Providers:* Used to store and retrieve data and make it accessible to all applications, because they are the only way to share data across applications. This is done via a public URI that uniquely identifies its data set.
+- *Broadcast Receivers:* Responds to system-wide broadcast announcements. Example: When the screen turns off, the battery is low, etc. Applications can also initiate their own broadcasts. No UI, but status bar.
+- *Android Manifest File:* Must be named AndroidManifest.xml, in the root directory. It has:
 	- Information about the application to the Android system.
 	- Permissions required to run the application.
 	- Minimum Android API level the app requires.
@@ -321,11 +321,11 @@ To modify a parent theme, do this in `styles.xml`:
 
 #### Multiscreen Concepts
 
-__Screen Size:__ The actual physical size, measured as the screen's diagonal.
+*Screen Size:* The actual physical size, measured as the screen's diagonal.
 
-__Screen density:__ Quantity of pixels within a physical area of a screen (dpi/ppi).
+*Screen density:* Quantity of pixels within a physical area of a screen (dpi/ppi).
 
-__Density-independent pixel:__ A virtual pixel unit that you should use when defining UI layout, based on a 160 dpi screen.
+*Density-independent pixel:* A virtual pixel unit that you should use when defining UI layout, based on a 160 dpi screen.
 
 #### Sizes and Densities
 

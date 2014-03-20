@@ -334,7 +334,7 @@ Second way is a lazy loader class. Use the second way to prevent bugs associated
 
 `1.week.ago` will be evaluated when the class loads, not every time the scope is called.
 
-__Internally, scopes are just class methods. So why use scopes?__
+*Internally, scopes are just class methods. So why use scopes?*
 
 Scopes are always chainable: 
 

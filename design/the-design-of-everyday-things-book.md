@@ -33,7 +33,7 @@ Visibility: the correct parts must be visible, and they must convey the correct 
 * Ex: There is no way to put a diskette in the wrong way; there are various indentations and protrusions which prevent a user from inserting it in the wrong way.
 * Subtle ribbing on a pen to make sure that you are holding it the correct way.
 
-__The Paradox of Technology: The same technology that simplifies life by providing more functions in each device also complicates life by making the device hrader to learn.__
+*The Paradox of Technology: The same technology that simplifies life by providing more functions in each device also complicates life by making the device hrader to learn.*
  
 ## Chapter 2: The Psychopathology of Everyday Actions
 
@@ -52,7 +52,7 @@ __The Paradox of Technology: The same technology that simplifies life by providi
 * Interpreting the state of the world
 * Evaluating the outcome
 
-__Gulf of Execution: The difference between the intentions and the allowable actions.__
+*Gulf of Execution: The difference between the intentions and the allowable actions.*
 
 #### Seven Stages of Action as Design Aids
 
@@ -73,7 +73,7 @@ __Gulf of Execution: The difference between the intentions and the allowable act
 ## 3: Knowledge in the Head and in the World
 
 * Students cannot recall the pairings of letter-number in telephones, and typists can’t type when the keys are replaced.
-* __This is because not all of the knowledge required for precise behavior has to be in the head. You don’t memorize everything because most of the information a person needs to do a task can reside in the world.__
+* *This is because not all of the knowledge required for precise behavior has to be in the head. You don’t memorize everything because most of the information a person needs to do a task can reside in the world.*
 * Constraints (both natural and cultural) reduce the number of alternatives and the specificity of knowledge required within human memory.
 People function through their use of two kinds of knowledge: knowledge of and knowledge how.
 * Of: knowledge of facts and rules.

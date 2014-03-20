@@ -45,7 +45,7 @@ Modules only hold behaviour, unlike classes, which hold both behaviour and state
 
 	puts Gym.new.push_ups
 
-`Module` is the superclass of `Class`, so __classes can be used as modules.__
+`Module` is the superclass of `Class`, so *classes can be used as modules.*
 
 #### Modules as Namespaces
 

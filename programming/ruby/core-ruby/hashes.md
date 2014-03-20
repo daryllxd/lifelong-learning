@@ -27,7 +27,7 @@
 - We can create hashes via strings and via symbols. `grades = { "Jane Doe" => 10, "Jim Doe" => 6 }` or `options = { :font_size => 10, :font_family => "Arial" }`.
 - Hashes also have a default value, declared on `grades = Hash.new(0)`. This is accessible via the `grades.default` method.
 
-__Equality method__
+*Equality method*
 
 	def ==(other)
 		self.class === other and
@@ -35,7 +35,7 @@ __Equality method__
 		other.title == @title
 	end
 
-__Instance Methods__
+*Instance Methods*
 
 	h = {"colors"  => ["red", "blue", "green"], "letters" => ["a", "b", "c" ]}
 

@@ -65,7 +65,7 @@ You also don't necc. need the explicit `render demo/index`, Rails will infer it 
 
 Assuming `new.html.haml` has been written correctly, this will automatically include the display of error information embedded in the new (but unsaved) Event object.
 
-__The template itself doesn’t “know” that it has been rendered by the create action rather than the new action.__ It just does its job: It fills out and expands and interpolates, based on the instructions it contains and the data (in this case, @event) that the controller has passed to it.
+*The template itself doesn’t “know” that it has been rendered by the create action rather than the new action.* It just does its job: It fills out and expands and interpolates, based on the instructions it contains and the data (in this case, @event) that the controller has passed to it.
 
 > Rendering a Different Template Altogether
 
@@ -175,7 +175,7 @@ Action callbacks follow an inheritance pattern. Global callback: Put it in the `
 
 #### Callbacks can be:
 
-__A class:__ External callback classes arre implemented by having a static callback method on le class.
+*A class:* External callback classes arre implemented by having a static callback method on le class.
 
     class OutputCompressionActionCallback 
         def self.after(controller)
@@ -187,7 +187,7 @@ __A class:__ External callback classes arre implemented by having a static callb
         after_action OutputCompressionActionCallback
     end
 
-__Inline:__ 
+*Inline:* 
 
     before_action do
         redirect_to new_user_session_path unless authenticated? 

@@ -14,7 +14,7 @@ So many things go wrong when you’re starting a company  and don’t even bothe
 
 I think we had a ton of shitstorm because I knew nothing about business at all. When I went here with Dustin and I thought maybe I’d start a company (not Facebook). When Thiel came to invest, he demanded that the founders would be on vesting schedules, but I don’t know what it was.
 
-I learned how to manage and hire people by making a ton of mistakes. I’ve developed some heuristics: __the only way to know if someone is good is that if you’d work for the people you’d hire.__ Now I just threw myself to that stuff and I just spoke at conferences without actually preparing to desensitize me to failure.
+I learned how to manage and hire people by making a ton of mistakes. I’ve developed some heuristics: *the only way to know if someone is good is that if you’d work for the people you’d hire.* Now I just threw myself to that stuff and I just spoke at conferences without actually preparing to desensitize me to failure.
 
 Managing people is good if you work with people you like. If you can set up a team dynamic where you’re constantly learning from this person, then that’s good, because most smart people like learning.
 
@@ -119,46 +119,8 @@ Then we met our users individually. Now you can book a lot of stuff: Treehouses,
 
 The Art Spirit: Robert Henri. Art is simply a question of doing anything well. When the artist is alive in any kind of person, he becomes a self-expression people. He disturbs, upsets, enlightens, and opens up ways to better understanding.
 
-
-
-
-
 # Ashton Kutcher at Startup School 2011
 
 I quit the one thing that was sure-fire and became a model, and got bored really fast, and now I'm back at technology again. I started getting interested solving problems: my own problems, and other people's problems. I think that's the single biggest thing I look for in ents, they genuinely want to solve problems, first their own, and then others.
 
 Carl Fisher, as a kid can't see very well. He quit school as a kid. Bike store -> car shop -> headlights -> car racing -> Miami Beach -> Montauk -> stock market crash, loses everything. It wasn't about the money, but it was about uncovering and disrupting markets boldly to leave everything behind for everyone to use.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -242,8 +242,8 @@ In this case fitting into its new home means removing the parameter. I also rena
 
 >New shit
 
-	result += "\t" + each.getMovie().getTitle()+ "\t" + String.valueOf(__each.getCharge()__) + "\n"; 
-	totalAmount += __each.getCharge()__;
+	result += "\t" + each.getMovie().getTitle()+ "\t" + String.valueOf(*each.getCharge()*) + "\n"; 
+	totalAmount += *each.getCharge()*;
 
 After, remove temporary variables. Temps are often a problem in that they cause a lot of parameters to be passed around when they don't have to be. While things are now calculated twice, you can optimize the r
 
@@ -326,7 +326,7 @@ Some code is copied from the ASCII version, mainly due to setting up the loop. F
 
 #### Replacing the Conditional Logic on Price Code with Polymorphism
 
-The first part of this problem is that switch statement. __It is a bad idea to do a switch based on an attribute of another object.__ If you must use a switch statement, it should be on your own data, not on someone else's.
+The first part of this problem is that switch statement. *It is a bad idea to do a switch based on an attribute of another object.* If you must use a switch statement, it should be on your own data, not on someone else's.
 
 It is implied that `getCharge()` should be moved to movie, then.
 
@@ -352,7 +352,7 @@ It is implied that `getCharge()` should be moved to movie, then.
 			return result; 
 	}
 
-__The parameter is not the type of movie, but the int daysRented, because type information is generally more volatile. If he changes the movie type, there should be a smaller ripple effect. So calculate the change within the movie, as opposed to the days.__
+*The parameter is not the type of movie, but the int daysRented, because type information is generally more volatile. If he changes the movie type, there should be a smaller ripple effect. So calculate the change within the movie, as opposed to the days.*
 
 #### Inheritance
 

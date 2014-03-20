@@ -55,7 +55,7 @@ Do this:
 
 The simplest partial use case is simply to extract a portion of template code. Some developers divide their templates into logical parts by using partial extraction.
 
-__Personally, I like partials to be entirely contained inside a semantically significant markup container.__ Following that rule, more as a loose guideline than anything else, helps me to mentally identify how the contents of this partial are going to fit inside the parent template.
+*Personally, I like partials to be entirely contained inside a semantically significant markup container.* Following that rule, more as a loose guideline than anything else, helps me to mentally identify how the contents of this partial are going to fit inside the parent template.
 
 > Reused Partial:
 

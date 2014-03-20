@@ -217,9 +217,9 @@ The point is that our goal is to write software that matters, and what matters d
 
 A user story must have the following characteristics:
 
-- __Have business value.__ Clearly, the game is no fun unless it generates a different secret code each time.
-- __Be testable.__ That’s easy. We just start up a bunch of games and ask for the code.
-- __Be small enough to implement in one iteration.__
+- *Have business value.* Clearly, the game is no fun unless it generates a different secret code each time.
+- *Be testable.* That’s easy. We just start up a bunch of games and ask for the code.
+- *Be small enough to implement in one iteration.*
 
 Cucumber lets us describe application features in a simple plain-text format and then use those descriptions to automate interaction with the application. We’re going to use Cucumber to express application features in this chapter and then automate them in the next.
 
@@ -238,7 +238,7 @@ Cucumber lets us describe application features in a simple plain-text format and
       Then I should see "Welcome to Codebreaker!"
       And I should see "Enter guess:"
 
-The Scenario keyword is followed by a string and then a series of steps. __Each step begins with any of five keywords: Given, When, Then, And, and But.__
+The Scenario keyword is followed by a string and then a series of steps. *Each step begins with any of five keywords: Given, When, Then, And, and But.*
 
 - _Given_ represents the state of the world before an event.
 - _When_ steps represent the event.
@@ -407,7 +407,7 @@ We totally get an error on 'starting a new game' because we haven't written the 
 
 >env.rb # you now require the 'codebreaker' lib
 
-  $LOAD_PATH << File.expand_path('../../../lib', __FILE__) 
+  $LOAD_PATH << File.expand_path('../../../lib', *FILE*) 
   require 'codebreaker' 
 
 #### Test Doubles
@@ -567,7 +567,7 @@ Extract Method refactoring: We create a new empty method with the name we want t
 
   $ rspec spec --backtrace # backtrace for each feature.
 
-__First refactor: Make `guess` literally just output the guess, without any computations.__
+*First refactor: Make `guess` literally just output the guess, without any computations.*
 
 >game.rb
 
@@ -575,7 +575,7 @@ __First refactor: Make `guess` literally just output the guess, without any comp
     @output.puts '+'*exact_match_count(guess) + '-'*number_match_count(guess)
   end
 
-__Second refactor: Move to `inject` instead of `each` to remove the temporary variable.__
+*Second refactor: Move to `inject` instead of `each` to remove the temporary variable.*
 
 >game.rb
 
@@ -605,7 +605,7 @@ It was violating SRP since we first introduced the guess() method, but that viol
 
 We have four methods that all deal with marking a guess. These meth- ods clearly belong together. We might even be tempted to put a com- ment above the first one indicating that the next four methods deal with marking the guess. This is a strong hint that we’re missing an abstraction in our design.
 
-__Third refactor: Extract the Class out.__
+*Third refactor: Extract the Class out.*
 
 Extract Class refactoring is needed for an SRP violation. The steps are:
 
@@ -615,7 +615,7 @@ Extract Class refactoring is needed for an SRP violation. The steps are:
 - Creating a new Marker in the guess method and trying the new class out.
 - Remove the original copies.
 
-__Fourth refactor: Pass everything to the Marker, instead of just the guess, so that the Marker can do only one thing, and not be reliant on the guess.__
+*Fourth refactor: Pass everything to the Marker, instead of just the guess, so that the Marker can do only one thing, and not be reliant on the guess.*
 
 >game.rb
 
@@ -646,7 +646,7 @@ __Fourth refactor: Pass everything to the Marker, instead of just the guess, so 
 
 Instead of passing around guess through other methods, pass it through `initialize` as a method of abstraction. This makes `Marker` a more self-contained class with only one responsibility, which is to mark shit.
 
-__Fifth refactor (?): Move to own file.__
+*Fifth refactor (?): Move to own file.*
 
 After the refactor, you should update the specs and shit. This is how you will know if the refactor was decent and your test structure is decent because the changes you should make should be as minimal as possible.
 

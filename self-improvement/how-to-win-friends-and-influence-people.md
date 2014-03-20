@@ -16,7 +16,7 @@
 
 5. It is super easy to forget stuff. Spend a few hours reviewing this book every month.
 
-6. Learning is an active process. So if you desire to master the principles in this book, do something about them. Apply these rules at every opportunity. If you don't, you will forget them quickly. __Only knowledge that is used sticks in the mind.__
+6. Learning is an active process. So if you desire to master the principles in this book, do something about them. Apply these rules at every opportunity. If you don't, you will forget them quickly. *Only knowledge that is used sticks in the mind.*
 
 	It is super difficult to apply the suggestions all the time. You are attempting to form new habits. You are attempting a new way of life. You need time and persistence and daily application.
 
@@ -98,11 +98,11 @@ As Dr. Johnson said: "God himself, sir, does not propose to judge man until the 
 
 ## 2 - The Big Secret Of Dealing With People
 
-__There is only one way under high heaven to get anybody to do anything. And that is by making the other person want to do it.__
+*There is only one way under high heaven to get anybody to do anything. And that is by making the other person want to do it.*
 
 Of course, you can make someone want to give you his watch by sticking a revolver in his ribs. YOU can make your employees give you cooperation - until your back is turned - by threatening to fire them. You can make a child do what you want it to do by a whip or a threat. But these crude methods have sharply undesirable repercussions.
 
-__The only way I can get you to do anything is by giving you what you want.__
+*The only way I can get you to do anything is by giving you what you want.*
 
 Dr. Dewey said that the deepest urge in human nature is "the desire to be important." Remember that phrase: "the desire to be important." It is significant. You are going to hear a lot about it in this book.
 
@@ -118,7 +118,7 @@ This desire makes you want to wear the latest styles, drive the latest cars, and
 
 It is this desire that lures many boys and girls into joining gangs and engaging in criminal activities. The average young criminal, according to E. P. Mulrooney, onetime police commissioner of New York, is filled with ego, and his first request after arrest is for those lurid newspapers that make him out a hero. The disagreeable prospect of serving time seems remote so long as he can gloat over his likeness sharing space with pictures of sports figures, movie and TV stars and politicians.
 
-__If you tell me how you get your feeling of importance, I'll tell you what you are. That determines your character.__ John D. Rockefeller got his feeling of importance by giving money to erect a modern hospital in Peking, China, to care for millions of poor people whom he had never seen and never would see. Dillinger, on the other hand, got his feeling of importance by being a bandit, a bank robber and killer.
+*If you tell me how you get your feeling of importance, I'll tell you what you are. That determines your character.* John D. Rockefeller got his feeling of importance by giving money to erect a modern hospital in Peking, China, to care for millions of poor people whom he had never seen and never would see. Dillinger, on the other hand, got his feeling of importance by being a bandit, a bank robber and killer.
 
 Our millionaires helped finance Admiral Byrd's expedition to the Antarctic in 1928 with the understanding that ranges of icy mountains would be named after them; and Victor Hugo aspired to have nothing less than the city of Paris renamed in his honor. Even Shakespeare, mightiest of the mighty, tried to add luster to his name by procuring a coat of arms for his family.
 
@@ -184,7 +184,7 @@ Andrew Carnegie, the poverty-stricken Scotch lad who started to work at two cent
 
 Stan sat down and thought, "If I were Tim, why would I be excited about going to kindergarten?" He and his wife made a list of all the fun things Tim would do such as finger painting, singing songs, making new friends. "We all started finger-painting on the kitchen table-my wife, Lil, my other son Bob, and myself, all having fun. Soon Tim was peeping around the corner. Next he was begging to participate. 'Oh, no! You have to go to kindergarten first to learn how to finger-paint.'
 
-__Tomorrow you may want to persuade somebody to do something. Before you speak, pause and ask yourself: "How can I make this person want to do it?"__
+*Tomorrow you may want to persuade somebody to do something. Before you speak, pause and ask yourself: "How can I make this person want to do it?"*
 
 That question will stop us from rushing into a situation heedlessly, with futile chatter about our desires.
 
@@ -248,7 +248,7 @@ What did the little boy want? It didn't take a Sherlock Holmes to answer that on
 
 William Winter once remarked that "self-expression is the dominant necessity of human nature." Why can't we adapt this same psychology to business dealings? When we have a brilliant idea, instead of making others think it is ours, why not let them cook and stir the idea themselves. They will then regard it as their own; they will like it and maybe eat a couple of helpings of it.
 
-__Remember: "First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way."__
+*Remember: "First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way."*
 
 Principle 3 - Arouse in the other person an eager want.
 
@@ -288,7 +288,7 @@ If we want to make friends, let's put ourselves out to do things for other peopl
 
 You didn't discover a new truth, Mr. Knaphle, for a long time ago, a hundred years before Christ was born a famous old Roman poet, Publilius Syrus, remarked; "We are interested in others when they are interested in us."
 
-__If you want others to like you, if you want to develop real friendships, if you want to help others at the same time as you help yourself, keep this principle in mind: Become genuinely interested in other people.__
+*If you want others to like you, if you want to develop real friendships, if you want to help others at the same time as you help yourself, keep this principle in mind: Become genuinely interested in other people.*
 
 ## 2 - A Simple Way To Make A Good First Impression
 
@@ -376,7 +376,7 @@ If we are so contemptibly selfish that we can't radiate a little happiness and p
 
 There is one all-important law of human conduct. If we obey that law, we shall almost never get into trouble. In fact, that law, if obeyed, will bring us countless friends and constant happiness. But the very instant we break the law, we shall get into endless trouble. The law is this: Always make the other person feel important. John Dewey, as we have already noted, said that the desire to be important is the deepest urge in human nature; and William James said: "The deepest principle in human nature is the craving to be appreciated." As I have already pointed out, it is this urge that differentiates us from the animals. It is this urge that has been responsible for civilization itself.
 
-Philosophers have been speculating on the rules of human relationships for thousands of years, and out of all that speculation, there has evolved only one important precept. It is not new. It is as old as history. Zoroaster taught it to his followers in Persia twenty- five hundred years ago. Confucius preached it in China twenty-four centuries ago. Lao-tse, the founder of Taoism, taught it to his disciples in the Valley of the Han. Buddha preached it on the bank of the Holy Ganges five hundred years before Christ. The sacred books of Hinduism taught it a thousand years before that. Jesus taught it among the stony hills of Judea nineteen centuries ago. Jesus summed it up in one thought -probably the most important rule in the world: __"Do unto others as you would have others do unto you."__
+Philosophers have been speculating on the rules of human relationships for thousands of years, and out of all that speculation, there has evolved only one important precept. It is not new. It is as old as history. Zoroaster taught it to his followers in Persia twenty- five hundred years ago. Confucius preached it in China twenty-four centuries ago. Lao-tse, the founder of Taoism, taught it to his disciples in the Valley of the Han. Buddha preached it on the bank of the Holy Ganges five hundred years before Christ. The sacred books of Hinduism taught it a thousand years before that. Jesus taught it among the stony hills of Judea nineteen centuries ago. Jesus summed it up in one thought -probably the most important rule in the world: *"Do unto others as you would have others do unto you."*
 
 So let's obey the Golden Rule, and give unto others what we would have others give unto us, How? When? Where? The answer is: All the time, everywhere.
 
@@ -454,7 +454,7 @@ It is difficult, under even the most benign conditions, to change people's minds
 
 If a person makes a statement that you think is wrong - yes, even that you know is wrong - isn't it better to begin by saying: "Well, now, look, I thought otherwise, but I may be wrong. I frequently am. And if I am wrong, I want to be put right. Let's examine the facts."
 
-__"Let's examine the facts."__
+*"Let's examine the facts."*
 
 Nobody in the heavens above or on earth beneath or in the waters under the earth will ever object to your saying: "I may be wrong. Let's examine the facts."
 
@@ -700,7 +700,7 @@ John Ringelspaugh of Rocky Mount, North Carolina, used this in dealing with his 
 
 What Mr. Roper did was not just flatter the young printer and say "You're good." He specifically pointed out how his work was superior. Because he had singled out a specific accomplishment, rather than just making general flattering remarks, his praise became much more meaningful to the person to whom it was given. Everybody likes to be praised, but when praise is specific, it comes across as sincere - not something the other person may be saying just to make one feel good.
 
-__Remember, we all crave appreciation and recognition, and will do almost anything to get it. But nobody wants insincerity. Nobody wants flattery.__
+*Remember, we all crave appreciation and recognition, and will do almost anything to get it. But nobody wants insincerity. Nobody wants flattery.*
 
 Let me repeat: The principles taught in this book will work only when they come from the heart. I am not advocating a bag of tricks. I am talking about a new way of life.
 
@@ -867,7 +867,7 @@ Judge Joseph Sabbath of Chicago, who has reviewed 40,000 marital disputes and re
 
 Too many men underestimate the value of these small, everyday attentions. As Gaynor Maddox said in an article in the Pictorial Review: "The American home really needs a few new vices. Breakfast in bed, for instance, is one of those amiable dissipations a greater number of women should be indulged in. Breakfast in bed to a woman does much the same thing as a private club for a man."
 
-__That's what marriage is in the long run—a series of trivial incidents.__
+*That's what marriage is in the long run—a series of trivial incidents.*
 
 Take your pocket knife now and cut out this quotation. Paste it inside your hat or paste it on the mirror, where you will see it every morning when you shave:
 
@@ -887,7 +887,7 @@ Oliver Wendell Holmes, the beloved "Autocrat of the Breakfast Table," was anythi
 
 In Holland you leave your shoes outside on the doorstep before you enter the house. By the Lord Harry, we could learn a lesson from the Dutch and shed our workaday troubles before we enter our homes.
 
-__"The blindness with which we all are afflicted." Many men who wouldn't dream of speaking sharply to a customer, or even to their partners in business, think nothing of barking at their wives. Yet, for their personal happiness, marriage is far more important to them, far more vital, than business.__
+*"The blindness with which we all are afflicted." Many men who wouldn't dream of speaking sharply to a customer, or even to their partners in business, think nothing of barking at their wives. Yet, for their personal happiness, marriage is far more important to them, far more vital, than business.*
 
 The average man who is happily married is happier by far than the genius who lives in solitude. Turgenev, the great Russian novelist, was acclaimed all over the civilized world. Yet he said: "I would give up all my genius, and all my books, if there were only some woman, somewhere, who cared whether or not I came home late for dinner."
 

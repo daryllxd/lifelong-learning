@@ -86,9 +86,9 @@ Have an active GitHub profile that people can see your work, contribute to open 
 
 ## [How do you get a job as Rails developer?](http://www.quora.com/Ruby-on-Rails-web-framework/How-do-you-get-a-job-as-Rails-developer)
 
-Have a clean, solid, resume. This is the most important since this is the first thing people see and will determine if you actually get a chance. __From my experience, there's usually a 60% response rate when you have had at least 1 full time Rails job/project before.__
+Have a clean, solid, resume. This is the most important since this is the first thing people see and will determine if you actually get a chance. *From my experience, there's usually a 60% response rate when you have had at least 1 full time Rails job/project before.*
 
-Have some open source contributions/projects in Github. This is not required but definitely a nice to have and will show your coding prowess. T__his is the best bang for the buck IMO.__ If they turn out to be popular or helpful, then you should already be getting tons of emails.
+Have some open source contributions/projects in Github. This is not required but definitely a nice to have and will show your coding prowess. T*his is the best bang for the buck IMO.* If they turn out to be popular or helpful, then you should already be getting tons of emails.
 
 ## [Will I get a Ruby on Rails jobs in India as a college dropout?](http://www.quora.com/Ruby-on-Rails-web-framework/Will-I-get-a-Ruby-on-Rails-jobs-in-India-as-a-college-dropout)
 

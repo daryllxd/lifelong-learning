@@ -203,7 +203,7 @@ We've separated arrangement from work: We have one piece of code that is  respon
 
 We have made it opt-in instead of opt-out, you need to really have to wrap the The object with the decorator to do the thing.
 
-__You never, ever, ever, ever want to wrap a call to an external call in a callback.__
+*You never, ever, ever, ever want to wrap a call to an external call in a callback.*
 
 # Where do you put this stuff?
 - It doesn't matter. If you have the right objects, moving them from one object to the other is a very first world problem.

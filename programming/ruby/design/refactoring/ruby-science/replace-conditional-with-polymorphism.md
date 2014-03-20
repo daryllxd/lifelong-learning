@@ -4,7 +4,7 @@ OOPs like Ruby allow developers to avoid conditionals using polymorphism. Instea
 
 What happens is that you create classes that don't have to change when the application changes.
 
-__Uses:__
+*Uses:*
 
 1. Remove Divergent Change from classes that need to alter their behavior on the outcome of the condition.
 2. Remove Shotgun Surgery by adding new types.
@@ -68,7 +68,7 @@ __Uses:__
         end 
     end
 
-__Problems:__
+*Problems:*
 
 1. Adding a new question type will require modifying the method. (Divergent Change)
 2. Logic and data for summarizing every type of question and answer is jammed into the Question class. (Large Class, Obscure Code)
@@ -166,9 +166,9 @@ Then, build the appropraite subclass in the controller instead of question.
         end 
     end
 
-First, it is good that we already used the __Extract Method__ to move each path to its own method (`summarize_multiple_choice_answers`).
+First, it is good that we already used the *Extract Method* to move each path to its own method (`summarize_multiple_choice_answers`).
 
-Second, we use __Move Method__ to move the extracted method to the child classes.
+Second, we use *Move Method* to move the extracted method to the child classes.
 
     class MultipleChoiceQuestion < Question 
         def summary
@@ -184,7 +184,7 @@ Second, we use __Move Method__ to move the extracted method to the child classes
 
 MultipleChoiceQuestion#summary now overrides Question#summary, so the correct implementation will now be chosen for multiple choice questions.
 
-__Once every path is moved, we can remove Question#summary entirely.__
+*Once every path is moved, we can remove Question#summary entirely.*
 
 The summary method is now much better. Adding new question types is easier. The new subclass will implement summary, and the Question class doesn’t need to change. The summary code for each type now lives with its type, so no one class is cluttered up with the details.
 

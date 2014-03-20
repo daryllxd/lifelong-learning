@@ -45,17 +45,17 @@ After the first iteration, the team is in maintenance mode.
 
 #### Three principles of BDD:
 
-1. __Enough is enough.__ Don't automate everything.
-2. __Deliver stakeholder value.__ Stop doing stuff that doesn't have value.
-3. __It’s all behavior.__ Whether at the code level, the application level, or beyond, we can use the same thinking and the same linguistic constructs to describe behavior at any level of granularity.
+1. *Enough is enough.* Don't automate everything.
+2. *Deliver stakeholder value.* Stop doing stuff that doesn't have value.
+3. *It’s all behavior.* Whether at the code level, the application level, or beyond, we can use the same thinking and the same linguistic constructs to describe behavior at any level of granularity.
 
 #### SMART outcomes
 
-1. __Specfic.__ There is enough detail to know that something is done.
-2. __Measurable.__ You can determine whether the objective was reached.
-3. __Achievable.__ You reduce unrealistic expectations.
-4. __Relevant.__ Clear, concise reporting.
-5. __Timeboxed.__ We know when to call time if we haven't achieved a routine.
+1. *Specfic.* There is enough detail to know that something is done.
+2. *Measurable.* You can determine whether the objective was reached.
+3. *Achievable.* You reduce unrealistic expectations.
+4. *Relevant.* Clear, concise reporting.
+5. *Timeboxed.* We know when to call time if we haven't achieved a routine.
 
 #### Stories vs. Features
 
@@ -73,12 +73,12 @@ We can separate the "edge cases" out with a different story. Ex: Verifying email
 
 #### What's in a Story?
 
-- __A title__ so we know which story we are talking about.
-- __A narrative__ that tells us what this story is about. It shold have _a stakeholder_, a description of the _feature_ they want, and the reason they want it--the _benefit_ they expect to gain.
+- *A title* so we know which story we are talking about.
+- *A narrative* that tells us what this story is about. It shold have _a stakeholder_, a description of the _feature_ they want, and the reason they want it--the _benefit_ they expect to gain.
 
   _As a [stakeholder], I want [feature] so that [benefit]._
 
-- __Acceptance criteria__ so we know when we are done. This takes the form of a number of _scenarios_ made up of individual _steps_.
+- *Acceptance criteria* so we know when we are done. This takes the form of a number of _scenarios_ made up of individual _steps_.
 
 # Part III - RSpec
 
@@ -362,7 +362,7 @@ Implicit: Concise ass fuck. (The object has to be instantiated without any argum
 
 ## RSpec::Mocks
 
-__Both mock and stub are aliases of the more generic double.__ WTF.
+*Both mock and stub are aliases of the more generic double.* WTF.
 
 A _test double_ stands in for a collaborator in an example. If we want the CheckingAccount object to log messages somewhere but we have yet to develop a logger, we can use a double in its place. We often refer to them by names like mock objects, test stubs, fakes.
 
@@ -375,7 +375,7 @@ A _test double_ stands in for a collaborator in an example. If we want the Check
 
 #### Method Stubs
 
-__A _method stub_ is a method that we can program to return predefined responses during the execution of a code example.__
+*A _method stub_ is a method that we can program to return predefined responses during the execution of a code example.*
 
     describe Statement do
       it "uses the customer's name in the header" do
@@ -478,7 +478,7 @@ Consider a case in Ruby on Rails where we want to disconnect the system we are w
       end 
     end
 
-We don’t really need to know what constitutes valid attributes in order to specify the controller’s behavior in response to them. __We just program the Widget to pretend it has valid attributes.__
+We don’t really need to know what constitutes valid attributes in order to specify the controller’s behavior in response to them. *We just program the Widget to pretend it has valid attributes.*
 
 _Validation rules will not have any impact on this example._  As long as the controller's responsibility does not change, this example won't need to change, nor will the controller itself.
 
@@ -486,7 +486,7 @@ _No explicit dependency on the database in this example._ Rails will try to load
 
 ##### Partial Mocking
 
-In the WidgetsController example, it is possible to get it to pass without ever actually finding a widget or updating its attributes. __As long as the controller method redirects to the widgets_path, that example passes.__
+In the WidgetsController example, it is possible to get it to pass without ever actually finding a widget or updating its attributes. *As long as the controller method redirects to the widgets_path, that example passes.*
 
 So we separate examples that specify these details. We can set message expectations on the Widget class and instance instead of methods stubs. This is called _partial mocking._
 
@@ -569,11 +569,11 @@ The first example specifies that the WidgetsController finds the widget, _so we 
 
 #### More on Message Expectations
 
-__Counts__: If you can only receive a message once, use this:
+*Counts*: If you can only receive a message once, use this:
 
     mock_account.should_receive(:withdraw).exactly(1).times.
 
-__Negative Expectation__: If we want to only attempt to make connections after pinging a server, here's how you do it: 
+*Negative Expectation*: If we want to only attempt to make connections after pinging a server, here's how you do it: 
 
      network_double.should_receive(:open_connection).never
 
@@ -581,33 +581,33 @@ __Negative Expectation__: If we want to only attempt to make connections after p
 
 #### When to Use Test Doubles and Test-Specific Extensions
 
-- __Isolation from Dependencies__: The problematic dependencies are the ones that are expensive to con- struct, involve external systems (network, servers, even the file system), have dependencies on other expensive objects, or function slowly. We want to isolate our examples from these dependencies because they complicate setup, slow down runtimes, and increase potential points of failure.
+- *Isolation from Dependencies*: The problematic dependencies are the ones that are expensive to con- struct, involve external systems (network, servers, even the file system), have dependencies on other expensive objects, or function slowly. We want to isolate our examples from these dependencies because they complicate setup, slow down runtimes, and increase potential points of failure.
 
-- __Isolation from Nondeterminism__: Files get corrupted, disks fail, networks time out, and servers go down in the middle of running specs. This can lead to inconsistent and surprising results when we run our specs.
+- *Isolation from Nondeterminism*: Files get corrupted, disks fail, networks time out, and servers go down in the middle of running specs. This can lead to inconsistent and surprising results when we run our specs.
 
     Local stuff such as random generators can have pseudo-random sequence tailored for the behavior being supplied.
 
-- __Making Progress Without Implemented Dependencies__: If another team hasn't finished whatever, you use stubs so you can focus on the task at hand.
+- *Making Progress Without Implemented Dependencies*: If another team hasn't finished whatever, you use stubs so you can focus on the task at hand.
 
-- __Interface Discovery__: We are able to find hidden stuff, this is known as interface discovery and is the cornerstone of mock objects. In cases like these, we can introduce a mock object, as an interface. This is a very powerful approach to writing OOP software.
+- *Interface Discovery*: We are able to find hidden stuff, this is known as interface discovery and is the cornerstone of mock objects. In cases like these, we can introduce a mock object, as an interface. This is a very powerful approach to writing OOP software.
 
-- __Focus on Role__: _We should think of roles rather than specific objects when we’re using mocks to discover interfaces._
+- *Focus on Role*: _We should think of roles rather than specific objects when we’re using mocks to discover interfaces._
 
     In the logging example, the logger could be called a logger, a messenger, a recorder, a reporter, and so on. What the object is doesn’t matter in that example. The only thing that matters is that it represents an object that will act out the role of a logger at runtime. Based on that example, in order to act like a logger, the object has to respond to the log( ) method.
 
     Focusing on roles rather than objects frees us up to assign roles to different objects as they come into existence.
 
-- __Focus on Interaction Rather Than State__: Object-oriented systems are all about interfaces and interactions. As such, it is more subject to change than the object’s interface. We can therefore keep specs more flexible and less brittle by avoiding reference to the internal state of an object.
+- *Focus on Interaction Rather Than State*: Object-oriented systems are all about interfaces and interactions. As such, it is more subject to change than the object’s interface. We can therefore keep specs more flexible and less brittle by avoiding reference to the internal state of an object.
 
     Consider the logger example earlier this chapter. That is a perfect case for a message expectation, because we’re specifying an interaction with a collaborator, not an outcome.
 
 #### Risks and Trade-Offs
 
-- __Nested Doubles__: Doubles should be simple to set up and shallow as well. When we are nesting doubles, we are working with a preexisting design that may have some coupling problems.
+- *Nested Doubles*: Doubles should be simple to set up and shallow as well. When we are nesting doubles, we are working with a preexisting design that may have some coupling problems.
 
-- __Absence of Coverage__: When we’re using mock objects in dynamic languages like Ruby, it is possible to change an object’s API and forget to change the examples that mock that same API.
+- *Absence of Coverage*: When we’re using mock objects in dynamic languages like Ruby, it is possible to change an object’s API and forget to change the examples that mock that same API.
 
-- __Brittle Examples__: The biggest pitfall of over-use of mocks is that examples can become brittle. The more we specify about interactions with dependencies in an example, the more likely that example will be impacted by changes to other code in the system. This is the same impact that any highly coupled code has on a system.
+- *Brittle Examples*: The biggest pitfall of over-use of mocks is that examples can become brittle. The more we specify about interactions with dependencies in an example, the more likely that example will be impacted by changes to other code in the system. This is the same impact that any highly coupled code has on a system.
 
 ## Tools and Integration
 

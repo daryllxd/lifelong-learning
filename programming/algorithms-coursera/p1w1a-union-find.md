@@ -38,7 +38,7 @@ Connected components: Maximal set of objects that are mutually connected.
 
 Goal = design efficient data structure for union-find.
 
-__`public class UF`__
+*`public class UF`*
 
 `UF(int N)`: Initialize union-find data structure with N objects (0 to N - 1 ).
 
@@ -113,12 +113,12 @@ Union: To merge components containing p and q, change all entries from `id[p]` t
 #### Quick Union (Lazy approach). We try not to do work unless we have to.
 
 - Same data structure as q-f.
-- __id[i] is parent of i.__ If id[5] = 9, then the parent of 5 is 9.
+- *id[i] is parent of i.* If id[5] = 9, then the parent of 5 is 9.
 - The root is the element that points to itself.
 
 Find: Check if they have the same root.
 
-Union: Set the id of p's root to the id of q's root, just change 1. __Remember that you become a child of the parent of the super super root__
+Union: Set the id of p's root to the id of q's root, just change 1. *Remember that you become a child of the parent of the super super root*
 
     public class QuickUnionUF{
         private int[] id;
@@ -164,7 +164,7 @@ No for loops :)
 
 #### Improvement 1: Weighting
 - Modify quick-union to avoid tall trees. Keep track of the size of each tree.
-- __Balance by linking the root of the samller tree to the root of the larger tree.__
+- *Balance by linking the root of the samller tree to the root of the larger tree.*
 - Arbitrary is the second merges to the first.
 
 #### Java Implementation
@@ -217,7 +217,7 @@ Percolation, Games (Go, Hex), Least common ancestor, equivalence of finite state
 
 Models: Electricity, fluid flow, social interactions.
 
-The phase transition is around __0.593__. Below 0.593, it is almost sure to not percolate, above, it is almost sure to perculate.
+The phase transition is around *0.593*. Below 0.593, it is almost sure to not percolate, above, it is almost sure to perculate.
 
 We don't know the solution mathematically, we only know this computationally. This is why we need the quick-union, because this is the only way we can solve it.
 

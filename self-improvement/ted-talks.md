@@ -20,7 +20,7 @@ Pain = symptom of a tumor or an infection or an inflammation or an operation.
 
 Chandler: Got a wrist sprain, but when she came to the clinic, her arm was discolored, purplish in color. It was cadaverically cold to the touch. The muscles were frozen, paralyzed -- dystonic is how we refer to that. The pain had spread from her wrist to her hands, to her fingertips, from her wrist up to her elbow, almost all the way to her shoulder.
 
-__But the worst part was, not the spontaneous pain that was there 24 hours a day. The worst part was that she had allodynia, the medical term for the phenomenon that I just illustrated with the feather and with the torch. The lightest touch of her arm -- the touch of a hand, the touch even of a sleeve, of a garment, as she put it on -- caused excruciating, burning pain.__
+*But the worst part was, not the spontaneous pain that was there 24 hours a day. The worst part was that she had allodynia, the medical term for the phenomenon that I just illustrated with the feather and with the torch. The lightest touch of her arm -- the touch of a hand, the touch even of a sleeve, of a garment, as she put it on -- caused excruciating, burning pain.*
 
 Wrong wiring? The brain's glial cells spill out and become activated. In this case, the pain is what is activated.
 
@@ -208,11 +208,11 @@ What all good stories should do at the beginning, is that they should give you a
 
 Storytelling without dialog: it's the purest form of cinematic storytelling. The audience wants to work for their meal. Your job as storyteller is to hide the fact that you're making them work for their meal. We're born problem solvers.
 
-__Unifying theory of two plus two: Make the audience put things together.__
+*Unifying theory of two plus two: Make the audience put things together.*
 
 I believe you're wired a certain way, and you have to recognize what that is. When you are mature enough to acknowledge what drives you, and take the wheel and steer.
 
-__"Drama is anticipation mingled with uncertainty."__ Short term: What will happen next? Long term: Have you make me want to know how it will all conclude? Have you considered honest conflicts with truth that creates doubt in what the outcome might be?
+*"Drama is anticipation mingled with uncertainty."* Short term: What will happen next? Long term: Have you make me want to know how it will all conclude? Have you considered honest conflicts with truth that creates doubt in what the outcome might be?
 
 Pixar: In 1993, the popular animated movies were Disney. They wanted to do something different.
 
@@ -252,10 +252,10 @@ This is a bias that has shaped the course of human history. The theory behind th
 
 There are just 4 basic forms the immortality stories take, they just take different forms:
 
-- __Elixir or fountain of life.__ Ancient Egypt, Ancient Babylon, Ancient Greece, Europe, even today we have science: stem cells, genetic technology. The idea that science can cure death is just another chapter in the story of the elixir.
-- __Resurrection.__ I am this physical organism, I die but I can rise up and live again. We are again reinventing this with the idea of cryonics: freeze/thaw yourself out. Instead of an omnipotent god, we have an omnipotent scientist.
-- __Soul.__ Majority of the people on earth believe they have a soul, but we are now thinking of "uploading our thoughts and mind into the internet as an avatar."
-- __Legacy.__ The pursuit of fame is as widespread as now as ever, we just need an Internet connection. We want to live "in the hearts of people."
+- *Elixir or fountain of life.* Ancient Egypt, Ancient Babylon, Ancient Greece, Europe, even today we have science: stem cells, genetic technology. The idea that science can cure death is just another chapter in the story of the elixir.
+- *Resurrection.* I am this physical organism, I die but I can rise up and live again. We are again reinventing this with the idea of cryonics: freeze/thaw yourself out. Instead of an omnipotent god, we have an omnipotent scientist.
+- *Soul.* Majority of the people on earth believe they have a soul, but we are now thinking of "uploading our thoughts and mind into the internet as an avatar."
+- *Legacy.* The pursuit of fame is as widespread as now as ever, we just need an Internet connection. We want to live "in the hearts of people."
 
 We should be skeptical about the truth of any of these stories. We should think that any story involving might be affected by our bias to believe them, and we are biased to believe them because we are afraid of death.
 
@@ -299,7 +299,7 @@ _"Everything we do, we believe in thinking differently, and we believe in thinki
 
 People don't buy what you do, they buy WHY you do it. That's why everyone is perfectly comfortable with buying a phone or a PC from Apple.
 
-Other manufacturers can build the technology! __Dell makes MP3 players__ but you won't buy things from it.
+Other manufacturers can build the technology! *Dell makes MP3 players* but you won't buy things from it.
 
 This is grounded in our biology (not psychology), in our brain. We have the neocortex, which is rational. But we also have the how/why: the limbic brain. These are our feelings, trust, loyalty, decision making. Not language. Controls behavior. GUT DECISIONS. "It doesn't feel right."
 
@@ -320,12 +320,12 @@ MLK: Not really the best orator, but he believed stuff. Everyone went there not 
 ### [James Flynn: Why our IQ levels are higher than our grandparents](http://www.youtube.com/watch?v=9vpqilhW9uI)
 
 * We don't just get more questions right in IQ tests, but we get higher IQ test results every generation.
-* If you score the people a century ago against modern norms they would have average IQ of __70__ and if you score us against their terms we would have an average IQ of __over 130__.
+* If you score the people a century ago against modern norms they would have average IQ of *70* and if you score us against their terms we would have an average IQ of *over 130*.
 * Soldiers didn't necessarily have better aim, but they had better weapons (so it looked like they were better at aiming, wherein they just had a gun with a higher rate of fire).
 * Lauria: Found out that people were resistant to deducing the hypothetical, and that people didn't deal that well with abstractions. (In 1900 there was just about 4 years of schooling in Russia).
 * Classification, using logic on abstractions, and taking the hypothetical seriously: how big is this effect on thinking? One, nearly everyone has an education with a scientific background, and you can't have do science without classificatio and logic and hypothesizing.
 * 1900: 3% of Americans practiced professions which are cognitively demanding (lawyers, doctors). Now, 35% (add engineers and programmers) have cognitively demanding professions. The professions have also been upgraded: compare 1900 doctors with the doctors today, or 1900 bankers with the bankers today.
-* Moral debate has escalated because we take the hypothetical seriously. When people came home from wherever during the Civil Rights Movement, they asked parents or racists "what would you do if you woke up black", and these people would just say "that's the stupidest idea ever". They did not take the hypothetical seriously, and __without the hypothetical it is very difficult to get arguments off the ground__. Some people are just not wiling to take the hypothetical seriously.
+* Moral debate has escalated because we take the hypothetical seriously. When people came home from wherever during the Civil Rights Movement, they asked parents or racists "what would you do if you woke up black", and these people would just say "that's the stupidest idea ever". They did not take the hypothetical seriously, and *without the hypothetical it is very difficult to get arguments off the ground*. Some people are just not wiling to take the hypothetical seriously.
 * Ex: if a super islamist person was sodomized, for him the phrase "what if you were sodomized" doesn't register ("That's not in the Koran").
 * The gains in IQ scores have specific areas with large gains (classification, analogies).
 * We don't have progress on all fronts. Sadly, you can have humane moral principles, but if you're ignorant of history and other countries then you can't do shit about history. Kids today just live in the bubble in the present. Ex: how would Americans feel if they knew that Americans have invaded Afghanistan 5 times already, and that Americans had been deceived to go to war the last 5 times (such as the sinking of the _Maine_ and that Saddam hated Al-Qaeda).
@@ -355,7 +355,7 @@ MLK: Not really the best orator, but he believed stuff. Everyone went there not 
 
 #### Am I getting enough sleep?
 
-* If you need an alarm clock, if you need stimulants, if you are grumpy, if your colleagues say you are tired, __then you probably are__.
+* If you need an alarm clock, if you need stimulants, if you are grumpy, if your colleagues say you are tired, *then you probably are*.
 * Make your bedroom as dark as it possibly can, and slightly cold. Decrease light exposure. Turn off phones, computers. Don't drink caffeine before sleeping.
 * Do the things that you know will help you sleep.
 
@@ -363,7 +363,7 @@ MLK: Not really the best orator, but he believed stuff. Everyone went there not 
 
 * Not everyone needs 8 hours a day, it depends on the people.
 * Old people do not need less sleep.
-* __Early to bed, early to rise, makes a man wealthy and wise.__ That's just plain wrong, there is no evidence that sleep time is correlated to socio-economic status.
+* *Early to bed, early to rise, makes a man wealthy and wise.* That's just plain wrong, there is no evidence that sleep time is correlated to socio-economic status.
 
 ### Sleep Disruption
 

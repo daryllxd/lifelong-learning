@@ -18,7 +18,7 @@ When the Ruby interpreter loads `client.rb`, it executes those `has_many` method
 
 #### Defining Attributes
 
-Migrations let you have default attribute values by passing `:default`. __But you want your default attributes at the model layer, not the database layer.__ Default values are part of your domain logic and should be kept together with the rest of the domain logic of your application, in the model layer.
+Migrations let you have default attribute values by passing `:default`. *But you want your default attributes at the model layer, not the database layer.* Default values are part of your domain logic and should be kept together with the rest of the domain logic of your application, in the model layer.
 
     class TimesheetEntry < AR:Base
         def category

@@ -14,11 +14,11 @@ Confusing Designs: If your conceptual model doesn't work with what you think. Go
 
 Tyg: A cup that make it easy to share a cup with you. Multiple handles are signifiers and are useful.
 
-__Affordance:__ The relationship between an object and a person. Ex: Car door. The handle has a different color so it means something, and there is a space for a handle where your hand fits.
+*Affordance:* The relationship between an object and a person. Ex: Car door. The handle has a different color so it means something, and there is a space for a handle where your hand fits.
 
 We can have "fake affordances" or anti-affordances, such as the posts that "block" a driveway. People think that cars won't pass through, but employees know that cars can pass through (they bend when a car passes over them).
 
-__Signifiers:__ Communication devices that tell what people are supposed to do. People search for clues that might help them understand, and these signs are called signifiers. The Play and Pause buttons are pretty universal, so you know what to do. Usually, you are told what to do, and they are the same the world over. Same with clicking the video.
+*Signifiers:* Communication devices that tell what people are supposed to do. People search for clues that might help them understand, and these signs are called signifiers. The Play and Pause buttons are pretty universal, so you know what to do. Usually, you are told what to do, and they are the same the world over. Same with clicking the video.
 
 Missing signifiers: How would I know that pressing your hand over the car door handle shuts down the window?
 

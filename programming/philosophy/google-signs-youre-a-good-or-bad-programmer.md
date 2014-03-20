@@ -15,13 +15,13 @@ Reasoning about code means being able to follow the execution path ("running the
 
 #### Remedies
 
-__To get over this deficiency a programmer can practice by using the IDE's own debugger as an aide, if it has the ability to step through the code one line at a time.__ In Visual Studio, for example, this means setting a breakpoint at the beginning of the problem area and stepping through with the 'F11' key, inspecting the value of variables--before and after they change--until you understand what the code is doing. If the target environment doesn't have such a feature, then do your practice-work in one that does.
+*To get over this deficiency a programmer can practice by using the IDE's own debugger as an aide, if it has the ability to step through the code one line at a time.* In Visual Studio, for example, this means setting a breakpoint at the beginning of the problem area and stepping through with the 'F11' key, inspecting the value of variables--before and after they change--until you understand what the code is doing. If the target environment doesn't have such a feature, then do your practice-work in one that does.
 
-__The goal is to reach a point where you no longer need the debugger to be able to follow the flow of code in your head, and where you are patient enough to think about what the code is doing to the state of the program.__ The reward is the ability to identify redundant and unnecessary code, as well as how to find bugs in existing code without having to re-implement the whole routine from scratch.
+*The goal is to reach a point where you no longer need the debugger to be able to follow the flow of code in your head, and where you are patient enough to think about what the code is doing to the state of the program.* The reward is the ability to identify redundant and unnecessary code, as well as how to find bugs in existing code without having to re-implement the whole routine from scratch.
 
 ## 2. Poor understanding of the language's programming model
 
-__Object Oriented Programming is an example of a language model, as is Functional or Declarative programming.__ They're each significantly different from procedural or imperative programming, just as procedural programming is significantly different from assembly or GOTO-based programming. Then there are languages which follow a major programming model (such as OOP) but introduce their own improvements such as list comprehensions, generics, duck-typing, etc.
+*Object Oriented Programming is an example of a language model, as is Functional or Declarative programming.* They're each significantly different from procedural or imperative programming, just as procedural programming is significantly different from assembly or GOTO-based programming. Then there are languages which follow a major programming model (such as OOP) but introduce their own improvements such as list comprehensions, generics, duck-typing, etc.
 
 #### Symptoms
 
@@ -36,7 +36,7 @@ __Object Oriented Programming is an example of a language model, as is Functiona
 
 #### Remedies
 
-If your skills deficiency is a product of ineffective teaching or studying, then an alternative teacher is the compiler itself. __There is no more effective way of learning a new programming model than starting a new project and committing yourself to use whatever the new constructs are, intelligently or not. You also need to practice explaining the model's features in crude terms of whatever you are familiar with, then recursively building on your new vocabulary until you understand the subtleties as well.__
+If your skills deficiency is a product of ineffective teaching or studying, then an alternative teacher is the compiler itself. *There is no more effective way of learning a new programming model than starting a new project and committing yourself to use whatever the new constructs are, intelligently or not. You also need to practice explaining the model's features in crude terms of whatever you are familiar with, then recursively building on your new vocabulary until you understand the subtleties as well.*
 
 #### OOP
 
@@ -46,7 +46,7 @@ If your skills deficiency is a product of ineffective teaching or studying, then
 4. Phase 4: "The idea of having private and public elements is to hide implementation details and expose a clean interface, and this is called Encapsulation" 
 5. Phase 5: "Encapsulation means my business logic doesn't need to be polluted with implementation details"
 
-__Phase 5 looks the same for all languages, since they are all really trying to get the programmer to the point where he can express the intent of the program without burying it in the specifics of how.__
+*Phase 5 looks the same for all languages, since they are all really trying to get the programmer to the point where he can express the intent of the program without burying it in the specifics of how.*
 
 #### Functional
 
@@ -74,11 +74,11 @@ These are only indicative of the problem if they continue to appear in the progr
 
 #### Remedies
 
-__A programmer can't acquire this kind of knowledge without slowing down, and it's likely that he's been in a rush to get each function working by whatever means necessary. He needs to have the platform's technical reference handy and be able to look through it with minimal effort, which can mean either having a hard copy of it on the desk right next to the keyboard, or having a second monitor dedicated to a browser.__ To get into the habit initially, he should refactor his old code with the goal of reducing its instruction count by 10:1 or more.
+*A programmer can't acquire this kind of knowledge without slowing down, and it's likely that he's been in a rush to get each function working by whatever means necessary. He needs to have the platform's technical reference handy and be able to look through it with minimal effort, which can mean either having a hard copy of it on the desk right next to the keyboard, or having a second monitor dedicated to a browser.* To get into the habit initially, he should refactor his old code with the goal of reducing its instruction count by 10:1 or more.
 
 ## 4. Inability to comprehend pointers
 
-__If you don't understand pointers then there is a very shallow ceiling on the types of programs you can write, as the concept of pointers enables the creation of complex data structures and efficient APIs.__ Managed languages use references instead of pointers, which are similar but add automatic dereferencing and prohibit pointer arithmetic to eliminate certain classes of bugs. They are still similar enough, however, that a failure to grasp the concept will be reflected in poor data-structure design and bugs that trace back to the difference between pass-by-value and pass-by-reference in method calls.
+*If you don't understand pointers then there is a very shallow ceiling on the types of programs you can write, as the concept of pointers enables the creation of complex data structures and efficient APIs.* Managed languages use references instead of pointers, which are similar but add automatic dereferencing and prohibit pointer arithmetic to eliminate certain classes of bugs. They are still similar enough, however, that a failure to grasp the concept will be reflected in poor data-structure design and bugs that trace back to the difference between pass-by-value and pass-by-reference in method calls.
 
 #### Symptoms
 
@@ -112,7 +112,7 @@ The idea of recursion is easy enough to understand, but programmers often have p
 
 Get your feet wet and be prepared for some stack overflows. Begin by writing code with only one base-condition check and one recursive call that uses the same, unmodified parameter that was passed. Stop coding even if you have the feeling that it's not enough, and run it anyway. It throws a stack-overflow exception, so now go back and pass a modified copy of the parameter in the recursive call. More stack overflows? Excessive output? Then do more code-and-run iterations, switching from tweaking your base-condition test to tweaking your recursive call until you start to intuit how the function is transforming its input. Resist the urge to use more than one base-condition test or recursive call unless you really Know What You're Doing.
 
-__Your goal is to have the confidence to jump in, even if you don't have a complete sense of "where you are" in the imaginary recursive path.__ Then when you need to write a function for a real project you'd begin by writing a unit test first, and proceeding with the same technique above.
+*Your goal is to have the confidence to jump in, even if you don't have a complete sense of "where you are" in the imaginary recursive path.* Then when you need to write a function for a real project you'd begin by writing a unit test first, and proceeding with the same technique above.
 
 ## 6. Distrust of code
 
@@ -137,7 +137,7 @@ The following count only when they're seen on a platform with Declarative or Fun
 
 - Performing atomic operations on the elements of a collection within a for or foreach loop
 - Writing Map or Reduce functions that contain their own loop for iterating through the dataset
-- __Fetching large datasets from the server and computing sums on the client, instead of using aggregate functions in the query__
+- *Fetching large datasets from the server and computing sums on the client, instead of using aggregate functions in the query*
 - Functions acting on elements in a collection that begin by performing a new database query to fetch a related record
 - Writing business-logic functions with tragically compromising side-effects, such as updating a user interface or performing file I/O
 - Entity classes that open their own database connections or file handles and keep them open for the lifespan of each object
@@ -220,13 +220,13 @@ If the following symptoms weren't so dangerous they'd be little more than an iss
 
 #### Remedies
 
-__For any system that handles or stores information of value to you or its users, or that controls a valuable resource, always have a security professional review the design and implementation.__
+*For any system that handles or stores information of value to you or its users, or that controls a valuable resource, always have a security professional review the design and implementation.*
 
 - Audit program for code that stores input in an array or any other kind of allocated memory. Make sure size of input doesn't exceed memory allocated for storing it.
 - Check for buffer overflow.
 - Switch to paramaterized queries to prevent SQL injection.
 - Define your program's acceptable input in your validation code. Reject unitl it passes validation.
-- Think about what operations your program needs to perform because this is the best opportunity to fogure out how to wrtie teh rpgoram to use the fewest privileges possible. __After you've learned not to trust your input you should also learn not to trust your own programs.__
+- Think about what operations your program needs to perform because this is the best opportunity to fogure out how to wrtie teh rpgoram to use the fewest privileges possible. *After you've learned not to trust your input you should also learn not to trust your own programs.*
 - Encryption. Kerckhoff's principle: "The security should be in the key." Never trust a cipher unless it is published openly and has been tested extensively.
 - If the key is weak or stored improperly, then it's as bad as having no encryption at all.
 
@@ -283,7 +283,7 @@ You look at the code above and aren't sure what number gets printed out at the e
 
 #### Symptoms
 
-- __You seriously consider malice to be a reason why the compiler rejects your program__
+- *You seriously consider malice to be a reason why the compiler rejects your program*
 - When called on to fix a bug in a deployed program, you try prayer
 - You take hidden variables for granted and don't think twice about blaming them for a program's misbehavior
 - You think the presence of code in a program will affect its runtime behavior, even if it is never invoked
@@ -325,7 +325,7 @@ The compiler and runtime can often answer a question faster than a human can. Ra
 
 Are you excessively cautious? Are you only comfortable when you have permission? Has anyone ever said that you were passive aggressive? You might consider inviting some friends to visit the local Six Flags or some other roller-coaster park. If you want baptism by fire, then make your first ride the scariest. If you consider yourself ready to get off the kiddie rides you might try your hand at hang gliding and windsurfing, which have the benefit of teaching you what you can and cannot control.
 
-__Much of what makes people timid to experiment is chemical--your brain has a small number of adrenergic receptors, so a little bit of adrenaline excites your fight-or-flight reflexes too much.__ But consider why people grow tolerant to coffee: the caffeine's byproducts force their brain to grow more adenosine receptors. So if you force your brain to grow more adrenaline receptors then the same amount of "fear juice" will trigger a lower percentage of them. __Find some experience that scares the shit out of you, do it a few times, and you will lose your fear of venture on a physical level.__
+*Much of what makes people timid to experiment is chemical--your brain has a small number of adrenergic receptors, so a little bit of adrenaline excites your fight-or-flight reflexes too much.* But consider why people grow tolerant to coffee: the caffeine's byproducts force their brain to grow more adenosine receptors. So if you force your brain to grow more adrenaline receptors then the same amount of "fear juice" will trigger a lower percentage of them. *Find some experience that scares the shit out of you, do it a few times, and you will lose your fear of venture on a physical level.*
 
 Note: A programmer who "suggests wacky and unrealistic solutions" is not always a bad programmer. It can be a sign of creative thinking from someone who assumes confirmation or correction will come from somewhere else down the line.
 
@@ -335,11 +335,11 @@ Code is like kleenex: you use it when it's useful and throw it away when it no l
 
 #### Symptoms
 
-- __Almost no committed code that is commented out__
+- *Almost no committed code that is commented out*
 - Willingly throws away weeks or months of work in order to adopt another programmer's superior code
 - Puts finger to lips, furrows brow and says "hmm" when faults in their work are pointed out, while looking at the code and not the critic
 - Indifferent to the way the IDE wants to auto-format code, uninterested in "tabs-vs-spaces" arguments
-- __Refers to it as "the code" rather than "my code", unless accepting blame__
+- *Refers to it as "the code" rather than "my code", unless accepting blame*
 - Has abandoned a design of theirs that was previously used in a successful product
 - Doesn't become defensive when the boss mentions that they're looking for an off-the-shelf alternative to what they've been writing for the past few years
 
@@ -384,7 +384,7 @@ Go through your home and repair all the annoying things you've been putting off;
 
 Next you should go to your last project and read through the code. Think about what each piece does. There's a loop here, some sorting there, a bit of number crunching, screen updates, HTML generation, database CRUD, that sort of thing.
 
-__Now replace the hard-coded HTML with a templating system, get the database CRUD out of your business objects and re-write it to use proper parameterized queries instead of string concatenation, replace all the "writelns" and "MessageBoxes" in your error handlers with a logging framework, refactor code that's trying to borrow methods from other classes, use locale-aware string formatting, stop guessing how big an array should be and use a dynamic collection, delete orphaned code.__
+*Now replace the hard-coded HTML with a templating system, get the database CRUD out of your business objects and re-write it to use proper parameterized queries instead of string concatenation, replace all the "writelns" and "MessageBoxes" in your error handlers with a logging framework, refactor code that's trying to borrow methods from other classes, use locale-aware string formatting, stop guessing how big an array should be and use a dynamic collection, delete orphaned code.*
 
 #### Aim for these, in increasing order of importance:
 
@@ -463,7 +463,7 @@ I only wish I had these traits and I can only write about them because I've obse
 
 #### How to acquire this trait
 
-__Distractions are a product of imagination.__ The day I wrote this I found myself horribly distracted and annoyed by someone at my gym singing songs in French while I sat in the sauna. The singing moved around outside the sauna and pissed me off. I wished he'd stop because I couldn't concentrate. I pictured a man without concern of others, a douchebag, someone who'd wear a pink shirt and order people around. Then I came out of the sauna and saw it was an old man, chocolate in complexion and as threatening as a worn teddy bear with button eyes. He'd started singing La Vie en rose, which is a song I that I not only loved but that made me wonder, just then, if it was me who'd long since turned into an insufferable asshole.
+*Distractions are a product of imagination.* The day I wrote this I found myself horribly distracted and annoyed by someone at my gym singing songs in French while I sat in the sauna. The singing moved around outside the sauna and pissed me off. I wished he'd stop because I couldn't concentrate. I pictured a man without concern of others, a douchebag, someone who'd wear a pink shirt and order people around. Then I came out of the sauna and saw it was an old man, chocolate in complexion and as threatening as a worn teddy bear with button eyes. He'd started singing La Vie en rose, which is a song I that I not only loved but that made me wonder, just then, if it was me who'd long since turned into an insufferable asshole.
 
 I don't know how to shut out distractions, but if I had to try I'd guess it'd involve a little bit of deference and so much fascination that it directs your imagination instead of being dictated by it. When I want to be like this I want to take life without taking it personally.
 
@@ -481,9 +481,9 @@ The worst optimizations favor profit over beauty, and between the two it's beaut
 
 #### How to acquire this trait
 
-__As Tyler Durden says you must know--not fear--know that someday you will die.__ Your nice condo with Ikea furniture is a side effect, not a reward. If you are not a unique, beautiful snowflake then what you create has to be. 
+*As Tyler Durden says you must know--not fear--know that someday you will die.* Your nice condo with Ikea furniture is a side effect, not a reward. If you are not a unique, beautiful snowflake then what you create has to be. 
 
-__It's also known as pride in one's work. Remember that emotional detachment from code is a virtue, but this doesn't mean emotional detachment from your work is, too. In fact, another way to become emotionally detached from code is to put your interest into the outcome instead.__ The outcome you should be thinking of is a lady who's going to get fired if she doesn't deliver the output of your program at 4:59pm sharp.
+*It's also known as pride in one's work. Remember that emotional detachment from code is a virtue, but this doesn't mean emotional detachment from your work is, too. In fact, another way to become emotionally detached from code is to put your interest into the outcome instead.* The outcome you should be thinking of is a lady who's going to get fired if she doesn't deliver the output of your program at 4:59pm sharp.
 
 There's a legend about a marketing type who worked for Sam Walton at Wal-Mart and came up with a brilliant campaign to advertise a widget. Sam took a look at the proposal and said something to the effect of "this is great, now take the cost of the campaign and use it to lower the price of the widget instead." According to legend, the widget sold better and made more profit that way than if the campaign had been carried out.
 
@@ -493,7 +493,7 @@ This could be hazardous to your income, it's risky to your stock options, but wh
 
 ## 3. Encyclopedic grasp of the platform
 
-Most programmers realize the short lifespan of their tools and don't waste much of their lives memorizing what's doomed to be obsolete. But neither do most programmers appreciate how everything in this industry is a derivative of some earlier thing, sharing syntax and constraints that will live well past our own personal expiration dates. __The best programmers have done what Oxford used to insist on: if you learn latin and mathematics then you can fuck all of that other modern nonsense, because you'll have the tools you need to understand anything.__
+Most programmers realize the short lifespan of their tools and don't waste much of their lives memorizing what's doomed to be obsolete. But neither do most programmers appreciate how everything in this industry is a derivative of some earlier thing, sharing syntax and constraints that will live well past our own personal expiration dates. *The best programmers have done what Oxford used to insist on: if you learn latin and mathematics then you can fuck all of that other modern nonsense, because you'll have the tools you need to understand anything.*
 
 #### Symptoms
 
@@ -519,9 +519,9 @@ Thrilled with his belated insight he writes a blog post about it which disappear
 
 Ten years later our friend is the lead programmer at the firm, and one day he glances over the shoulder of a junior programmer who's showing evident frustration. Tucked down in the stdout window is a bunch of debugging traces and the number -32,762. The now-guru programmer taps the newbie on the shoulder and says "are you passing an unsigned int16 to code that's expecting a signed int16?"
 
-__If you're not encountering problems that are difficult for you to solve then you need a change of job or hobby or scenery or something. Look for opportunities to work with something new at your job or school, try hacking your Roomba, pick a bug in an open-source project that nobody has touched for months and fix it, try answering tumbleweed questions on StackOverflow that force you to look up something you didn't know.__
+*If you're not encountering problems that are difficult for you to solve then you need a change of job or hobby or scenery or something. Look for opportunities to work with something new at your job or school, try hacking your Roomba, pick a bug in an open-source project that nobody has touched for months and fix it, try answering tumbleweed questions on StackOverflow that force you to look up something you didn't know.*
 
-__If you could look inside the brain of a guru with a magic magnifying glass you might see clusters of neurons packed around the visual cortex that, like the infamous "Grandmother cells", lie dormant for months but light up when something significant comes into view such as a power of two, or a suspiciously precise delay that points to a DNS timeout, or the signature of the FDIV bug. Those "grandmother cells" can only be made the hard way.__
+*If you could look inside the brain of a guru with a magic magnifying glass you might see clusters of neurons packed around the visual cortex that, like the infamous "Grandmother cells", lie dormant for months but light up when something significant comes into view such as a power of two, or a suspiciously precise delay that points to a DNS timeout, or the signature of the FDIV bug. Those "grandmother cells" can only be made the hard way.*
 
 ## 4. Thinks In Code
 
@@ -537,15 +537,15 @@ __If you could look inside the brain of a guru with a magic magnifying glass you
 
 #### How to acquire this trait
 
-Them darn kids and their cell phones, how does a 12 year-old teenage girl tap text messages on a numeric keypad so fast anyway? It can't be genetic, since all those damn brats can do it, no matter their gender or parentage. It can't be upbringing, cuz kids in every social class can do it. So you rule out this and that and what you're left with is an ancient truth: people think in the language they learned to speak. __A teenager's thumbs already know where to go and they think in texting. When writing, typos feel wrong. People who learn multiple spoken languages and use them regularly tend to think in multiple languages, too, after they've practiced for so long that they no longer have to do a translation in their heads first. Rather than read a phrase in Russian and translate it to English in their minds before understanding it, they just understand it in Russian.__
+Them darn kids and their cell phones, how does a 12 year-old teenage girl tap text messages on a numeric keypad so fast anyway? It can't be genetic, since all those damn brats can do it, no matter their gender or parentage. It can't be upbringing, cuz kids in every social class can do it. So you rule out this and that and what you're left with is an ancient truth: people think in the language they learned to speak. *A teenager's thumbs already know where to go and they think in texting. When writing, typos feel wrong. People who learn multiple spoken languages and use them regularly tend to think in multiple languages, too, after they've practiced for so long that they no longer have to do a translation in their heads first. Rather than read a phrase in Russian and translate it to English in their minds before understanding it, they just understand it in Russian.*
 
 You cannot think "Fire rearward missile" and then translate it to Russian, you must think in Russian.
 
 If you've heard about Sapir-Whorf or read Nineteen Eighty Four and all that jazz then you might already appreciate the implications: words convey ideas, language is thought. Whether that's a syntactic language or a visual or auditory language in your head doesn't matter, it's the way your brain deals with symbols and their rules for manipulation that matter.
 
-__The best book you can read (and perform the exercises of) to acquire this trait is Structure and Interpretation of Computer Programs by Abelson, Sussman and Sussman. It uses Scheme to present its lessons, and even if that's not the language you write programs in it's still one of the best languages to program your brain with. Remember: learn math and latin and you can understand anything.__
+*The best book you can read (and perform the exercises of) to acquire this trait is Structure and Interpretation of Computer Programs by Abelson, Sussman and Sussman. It uses Scheme to present its lessons, and even if that's not the language you write programs in it's still one of the best languages to program your brain with. Remember: learn math and latin and you can understand anything.*
 
-__Whether you have this book or not the key is to practice with coding until you can read and reason with it like your native tongue. You can't acquire this trick in 30 days, it may be more like 30 months. You'll know if you've got it when you begin to see in code as well.__
+*Whether you have this book or not the key is to practice with coding until you can read and reason with it like your native tongue. You can't acquire this trick in 30 days, it may be more like 30 months. You'll know if you've got it when you begin to see in code as well.*
 
 ## 5. When In Rome, Does As Romans Do
 
@@ -565,13 +565,13 @@ I don't think I live up to this because I like to use MonoTouch to write iOS app
 
 These guys are as comfortable with platform diversity as they are with having multiple vegetables on the same dinner plate. I said "thinking in code" and "emotional detachment" were virtues, and this is the bonus that comes for free. While these programmers appreciate abstraction they don't automatically appreciate generalization. If there was no advantage to be had in a new platform, then why was it ever created?
 
-__There's a thousand computer languages because there's a thousand classes of problems we can solve with software.__ In the 1980s, after the Macintosh debut, a hundred DOS products were ported to the new mouse-driven platform by clubbing the Alto-inspired UI over the head and brute-forcing the keyboard-driven paradigms of PCs into the Mac's visual atmosphere. Most of these were rejected by Apple or the market, and if they came back for a second try they came back because somebody flipped open the spiral-bound HIG and read it sincerely. 
+*There's a thousand computer languages because there's a thousand classes of problems we can solve with software.* In the 1980s, after the Macintosh debut, a hundred DOS products were ported to the new mouse-driven platform by clubbing the Alto-inspired UI over the head and brute-forcing the keyboard-driven paradigms of PCs into the Mac's visual atmosphere. Most of these were rejected by Apple or the market, and if they came back for a second try they came back because somebody flipped open the spiral-bound HIG and read it sincerely. 
 
 Maybe Excel needed to emulate Lotus 1-2-3's slash-driven menus. Maybe AutoCAD still needs to host a command line. But the designers of both never neglected the new world and that's why they're still famous today. Objective-C has Categories, C# has Extensions, but they're not quite alike and they're not quite the same. What's a Key-Value Observer to one might be like an Event to the other, which is as informative as saying an opportunity is the same as permission.
 
-__To acquire this trait you have to begin by learning a new platform through both its unique instructions and the way the user interacts with it.__ Much of what's out there is made to be very similar to what you already know so you can start using it quickly (radically different platforms "ahead of their time" tend to fail), but be attentive to what's different. Android phones tend to include more hardware buttons than iPhones. Maybe that's good, maybe that's not, but their users expect programs to use them. Don't disappoint them: neurons are harder to program than transistors.
+*To acquire this trait you have to begin by learning a new platform through both its unique instructions and the way the user interacts with it.* Much of what's out there is made to be very similar to what you already know so you can start using it quickly (radically different platforms "ahead of their time" tend to fail), but be attentive to what's different. Android phones tend to include more hardware buttons than iPhones. Maybe that's good, maybe that's not, but their users expect programs to use them. Don't disappoint them: neurons are harder to program than transistors.
 
-__New platforms either debut a new language or new conventions that are unique, and at whatever level that is you need to learn a new vocabulary. Even if it looks like they took an existing platform and "tweaked" it, the tweak in question must have significance.__ They say a Big Mac's Special Sauce is just Thousand Island dressing with more sweet pickle.
+*New platforms either debut a new language or new conventions that are unique, and at whatever level that is you need to learn a new vocabulary. Even if it looks like they took an existing platform and "tweaked" it, the tweak in question must have significance.* They say a Big Mac's Special Sauce is just Thousand Island dressing with more sweet pickle.
 
 To manage a single product written to multiple platforms you need to abstract your product, not the platform its delivered to. You do that through elimination, by stripping platform-specific code out of your product's soul. If you can master "Eager to fix what isn't broken" then go bonkers on your code until there's only a few chunks left on the coroner's table; that's the part that stays. 
 
@@ -595,7 +595,7 @@ These are not always the traits of "good" programmers, they're the traits of peo
 
 ## 1. Indifferent to Hierarchy
 
-__Richard Feynman once pointed out that "it doesn't matter who your dad knows", if something is wrong then it's wrong no matter who says its right. Don't fear the consequences to your career, you''ll find another job. Society never wastes real talent.__
+*Richard Feynman once pointed out that "it doesn't matter who your dad knows", if something is wrong then it's wrong no matter who says its right. Don't fear the consequences to your career, you''ll find another job. Society never wastes real talent.*
 
 #### Symptoms
 
@@ -634,7 +634,7 @@ _"The mind is its own place, and in itself can make a heaven of hell, a hell of 
 
 ## 4. Unswayed by obligations
 
-__Obligations are a social construct, and some see them as props for the lazy.__ While that's a dishonest oversimplification, some make it a point to break free and do something different. We'd still be bashing rocks together if they didn't.
+*Obligations are a social construct, and some see them as props for the lazy.* While that's a dishonest oversimplification, some make it a point to break free and do something different. We'd still be bashing rocks together if they didn't.
 
 #### Symptoms
 

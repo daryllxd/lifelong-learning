@@ -1,7 +1,7 @@
 ## Facade
 [Link](http://robots.thoughtbot.com/sandi-metz-rules-for-developers)
 
-__Only instantiate one object in the controller.__
+*Only instantiate one object in the controller.*
 
 Often, we needed more than one type of thing on a page. Ex: A homepage needed both an activity feed and a notification counter.
 

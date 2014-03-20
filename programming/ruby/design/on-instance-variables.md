@@ -9,7 +9,7 @@ Code Climate:
 2. All of a sudden you have thin controllers but fat models; now what do you do?
 3. Apply single responsibility principle; rinse and repeat.
 
-__The key insight here is also that "saving your data to a database" (active record) and "doing things that model what your application simulates" (business logic aka "Model") are often mixed together when they shouldn't be.__
+*The key insight here is also that "saving your data to a database" (active record) and "doing things that model what your application simulates" (business logic aka "Model") are often mixed together when they shouldn't be.*
 
 If you aren't familiar with SRP or other SOLID concepts, google has plenty of info; but the simplest way to decide if code should be in a controller or a domain model is to find something you want to do through the web UI and a rake task.
 

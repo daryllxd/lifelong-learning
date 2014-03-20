@@ -1,7 +1,7 @@
 ## Ben Orenstein - Refactoring from Good to Great - A Live-Coding Odyssey
 [Link](http://vimeo.com/61087282)
 
-__Don't refactor code that doesn't have tests.__
+*Don't refactor code that doesn't have tests.*
 
 > Local variable `orders_within_range`, select. Extract temp to query.
 
@@ -9,10 +9,10 @@ __Don't refactor code that doesn't have tests.__
 - Put the unimportant stuff inside the `private` keyword, so it is easier to read because you know it's not important. This is like a hint because you say that `orders_within_range` is not part of the core functionality of the class.
 - We've also encouraged reuse.
 - I would do this right away as opposed to waiting for stuff.
-- Almost no temp methods within the method, I extract them out to query methods that are private, because __methods should have one job, and when I see a local within a method, it's a hint that there's probably 2 jobs.__
+- Almost no temp methods within the method, I extract them out to query methods that are private, because *methods should have one job, and when I see a local within a method, it's a hint that there's probably 2 jobs.*
 - I'm fond of a class with small publics and long privates. But most probably if there are a ton of private methods, then there's a class that should be placed there.
 - I won't hesitate to pull stuff out anyway.
-- 2 database queries sucks but __I need to see performance numbers first before I start to cache stuff, that is premature optimization.__
+- 2 database queries sucks but *I need to see performance numbers first before I start to cache stuff, that is premature optimization.*
 - If I extract private method to new class isn't it coupled? I am very likely to extract a class to reuse stuff. If it is reused just one time, then I would make a private class. But I'm not concerned with the dependency because some classes are supposed to be used together anyway.
 - Fan out vs fan in, better to have a class be used by many classes than a class uses many other classes
 - I like classes to not care about what's coming in, make them context free.
@@ -64,7 +64,7 @@ The two a re coupled because `print_to_console` needs to know shit about `notify
 
 So it's hard to change. BTW, the more parameters you have, the more things you have for parameter coupling.
 
-__Better to have local methods work on instance data so there are no arguments (in OOP).__ 
+*Better to have local methods work on instance data so there are no arguments (in OOP).* 
 
 I would actually like if initialize is stupid and just assigns data, no calculations. It's easier to read that way.
 
@@ -167,7 +167,7 @@ This is what I want my public interfaces to look. Total sales within date range 
 
 We know there is a location but we aren't sure if there is a contact. So we always ask if there is a contact or not. Because of the way Ruby works, `@contact` gets the value of nil. We're using `nil` to stand-in, or to mean, "no contact". So I need to keep on checking the truthiness. `nil` is for particular purposes, and this is not a good purpose for `nil`. It obscures the true intent of the code. The conditionals aren't really supposed to be there.
 
-I'd rather have an object set as no contact and have that be set as opposed to nil. So let's create an object that stands in for when I have no `contact`. I have to introduce a __`null_object`__.
+I'd rather have an object set as no contact and have that be set as opposed to nil. So let's create an object that stands in for when I have no `contact`. I have to introduce a *`null_object`*.
 
 > Fix
 
@@ -205,7 +205,7 @@ I'd rather have an object set as no contact and have that be set as opposed to n
       end
     end
 
-__When we don't have a contact, set a `NullContact`.__ The problem is it breaks three methods at once.
+*When we don't have a contact, set a `NullContact`.* The problem is it breaks three methods at once.
 
 We get to remove crap, and we get to get rid of feature envy, because this class cares about `Contact` a lot. We're not co-opting nil anymore. We've created a concept that stands for "there's not contact".
 

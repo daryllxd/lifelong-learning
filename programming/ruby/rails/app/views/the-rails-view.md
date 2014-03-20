@@ -215,7 +215,7 @@ When we click Add Creation, it calls a function called clickAndWait(), which doe
 
 One of the other powers of Selenium is its ability to work with a third-party solution, like SauceLabs’ OnDemand offering,15 which uses Selenium Remote Control and Selenium Grid,16 to test multiple browsers at once. 
 
-__We don’t start with generalized CSS classes; we work toward them as we notice commonalities appear in various places throughout our application.__
+*We don’t start with generalized CSS classes; we work toward them as we notice commonalities appear in various places throughout our application.*
 
 ## Forms
 
@@ -318,7 +318,7 @@ Our presenter only displays information on the active projects and creations for
 
 ## Optimizing Performance
 
-Either __technical efficiency__ or __business interests__.
+Either *technical efficiency* or *business interests*.
 
 #### A/B Testing with Vanity
 

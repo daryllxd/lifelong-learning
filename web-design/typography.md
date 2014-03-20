@@ -8,7 +8,7 @@ Brandon Grotesque, Avenir, Helvetica Neue, Brandon Text,Museo Sans, Trade Gothic
 
 ## Hack Design 5.2: Web Design is 95% Typography
 
-__95% of the information on the web is written language.__
+*95% of the information on the web is written language.*
 
 Typography has one plain duty before it and that is to convey information in writing.
 
@@ -43,7 +43,7 @@ Using the CSS line-height property, you can easily assign space between your lin
 
 - Hinting: Use a quality font that is optimized for the pixel grid.
 - Font size for body text: at least 16 px.
-- __Color: Don't use the darkest black available in your body text. Go for #444, or slightly darker for titles (#222).It makes the text appear slightly softer while still maintaining a good contrast.__
+- *Color: Don't use the darkest black available in your body text. Go for #444, or slightly darker for titles (#222).It makes the text appear slightly softer while still maintaining a good contrast.*
 - For abbreviation, use small-caps.
 
 ## Hack Design 5.5—Checklist for Better Web Typography
@@ -147,7 +147,7 @@ From a typographical perspective, the most appropriate method is to set box widt
 
 Another method would be to apply the white-space:pre property in css to retain the white space formatting. However if you are using white space to format a passage of text, for instance computer code or poetry, then you should enclose the passage in a pre element as this is a more semantic way to preserve the white space pre-formatting.
 
-__Line-height should never be applied using absolute units such as points or pixels.__
+*Line-height should never be applied using absolute units such as points or pixels.*
 
 Add and delete vertical space in measured intervals
 
@@ -181,8 +181,3 @@ Add extra lead before and after block quotations: add a gap between a block quot
 	blockquote {
 		margin:1.5em 
 	}
- 
-
-
-
-

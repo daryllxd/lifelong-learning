@@ -70,7 +70,7 @@ Inefficient, according to Google:
 3. Rules with overly qualified selectors (`div#content > h3`)
 4. Rules that apply `:hover` to non-link elements.
 
-__But what is important to note is that the evaluation of any more than a single element to determine styling is inefficient. This means you should only ever use a single selector in your rules: a class selector, an ID selector, an element selector, and an attribute selector.__
+*But what is important to note is that the evaluation of any more than a single element to determine styling is inefficient. This means you should only ever use a single selector in your rules: a class selector, an ID selector, an element selector, and an attribute selector.*
 
 Consider selector performance but honestly the difference is just 50ms... so.
 

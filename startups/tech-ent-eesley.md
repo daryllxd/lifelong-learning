@@ -148,7 +148,6 @@ So, how big of a team? Larger teams tend to do better, but for class, teams of 3
 * Team met via work, team met via research, and team met via socializing
 * Number of prior startups acquired
 
-
 ## Other Research
 
 * For most teams the cofounders all met at the same place rather than being assembled from many different contexts.
@@ -238,7 +237,7 @@ So, how big of a team? Larger teams tend to do better, but for class, teams of 3
 * Mission statement sucks. Too long. Mantra: Three or four words. 
 * Ask women, because they don't have the killer gene.
 * Milestones, assumptions, tasks.
-* __Pitching: 10-20-30. 10 PowerPoint slides, 20 minute pitch, 30 point font on slides.__
+* *Pitching: 10-20-30. 10 PowerPoint slides, 20 minute pitch, 30 point font on slides.*
 * Lower barriers to adoption
 * If you can't do it, don't.
 * Get evangelists.
@@ -283,6 +282,7 @@ So, how big of a team? Larger teams tend to do better, but for class, teams of 3
 * To find a few ideas that work, you need to try a lot that don't. It's a pure numbers game.
 * Artistic geniuses don't necessarily have a higher success rate than other creators; they simply do more -- and they do a range of different things.
 * Thinking up the dumbest and most impractical things that you can do is a powerful way to explore your assumptions about the world.
+
 ## Weird Ideas
 
 * Hire people who reject how things are "supposed to be done around here." Surround those slow learners with fast learners who understand how to promote their creative ideas.
@@ -513,7 +513,7 @@ In some ways, listening to customers is obvious advice, but think of these examp
 * Moderate: Dog as a companion
 * Economy: Dog as an animal
 
-__Positioning Template: For (target cx), who (need), the (product) is a (category) that (statement of benefit). Unlike (alternative), we have (primary differentiation).__
+*Positioning Template: For (target cx), who (need), the (product) is a (category) that (statement of benefit). Unlike (alternative), we have (primary differentiation).*
  
 ## Positioning should drive go-to-market strategies
 
@@ -562,9 +562,9 @@ __Positioning Template: For (target cx), who (need), the (product) is a (categor
 * What's in YOUR mind matters little, if it does not reach and penetrate THEIR minds.
 * Show energy! But slow down.
 
-__"All I need to do is make the presentation and give the demo. The product is awesome, it'll blow them away. As soon as I get in the door and explain the technology, they'll buy."__
+*"All I need to do is make the presentation and give the demo. The product is awesome, it'll blow them away. As soon as I get in the door and explain the technology, they'll buy."*
 
-__When you can measure what you are speaking about and express it in numbers, you know something about it. When you can not measure it... your knowledge is meager and unsatisfactory. —Lord Kelvin__
+*When you can measure what you are speaking about and express it in numbers, you know something about it. When you can not measure it... your knowledge is meager and unsatisfactory. —Lord Kelvin*
  
 ## Your USER may be different from a paying CUSTOMER
 
@@ -694,7 +694,6 @@ Amount of cash needed & purpose?
 Seed -> Early -> Mezzanine -> Late (IPO)
 
 * What source of risk are you going to reduce with this money? Team, capital, technology, market?
- 
  
 # 9.1—Interview with John Hennessy
 

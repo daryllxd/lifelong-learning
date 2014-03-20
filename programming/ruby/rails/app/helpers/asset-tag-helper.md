@@ -10,7 +10,7 @@
 
 `video_tag`
 
-__Asset host__
+*Asset host*
 
 > config/environments/production.rb
 

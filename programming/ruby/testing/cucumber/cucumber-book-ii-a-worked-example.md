@@ -20,7 +20,7 @@ Transforms work on captured arguments. Each transform is responsible for convert
 
 #### Adding Custom Helper Methods to the World
 
-Just before it executes each scenario, Cucumber creates a new object, __the World__. The step definitions for the scenario execute in the context of the World, effectively as though they were methods of that object. Just like methods on a regular Ruby class, we can use instance variables to pass state between step definitions.
+Just before it executes each scenario, Cucumber creates a new object, *the World*. The step definitions for the scenario execute in the context of the World, effectively as though they were methods of that object. Just like methods on a regular Ruby class, we can use instance variables to pass state between step definitions.
 
 We can use sucky instance variables and the problem is that if you don’t set them, they just return nil. We hate nils, because they creep around your system, causing weird bugs that are hard to track down.
 
@@ -55,7 +55,7 @@ The main way you’ll use the World is by extending it with modules of code that
 
 Remember that a new world is created for each scenario, so it is destroyed at the end of the scenario. This helps isolate scenarios from one another, because any instance variables set during one scenario will be destroyed along with the world in which they were created when the scenario ends.
 
-__Pushing some of the details down into our World module means the step definition code is at a higher level of abstraction.__ This makes it less of a mental leap when you come into the step definitions from a business-facing scenario, because the code doesn’t contain too much detail.
+*Pushing some of the details down into our World module means the step definition code is at a higher level of abstraction.* This makes it less of a mental leap when you come into the step definitions from a business-facing scenario, because the code doesn’t contain too much detail.
 
 #### Organizing the Code
 
@@ -125,7 +125,7 @@ Adding asynchronous components into a system introduces a degree of ran- domness
 
 #### Synchronizing by Listening
 
-Listening for events is the fastest and most reliable way to synchronize your tests with an asynchronous system. __For this technique to work, the system under test has to be designed to fire events when certain things happen.__ The tests subscribe to these events and can use them to create synchronization points in the scenario.
+Listening for events is the fastest and most reliable way to synchronize your tests with an asynchronous system. *For this technique to work, the system under test has to be designed to fire events when certain things happen.* The tests subscribe to these events and can use them to create synchronization points in the scenario.
 
 #### Delayed Job
 

@@ -40,11 +40,11 @@ Splits: Graphic design/Usability. HTML/CSS/JS (Front-end coding). Ruby/DB/Ops (B
 
 The way the app works and the way it looks. Design takes time. Research, experimenting, and revising. You want to have a hypothesis on your experiments.
 
-__Functionality trumps style, especially in the early stages of the application.__ Better to find something people love using rather than something they love to look at. Simplifying something is hard.
+*Functionality trumps style, especially in the early stages of the application.* Better to find something people love using rather than something they love to look at. Simplifying something is hard.
 
 Say "No". If someone has a great idea, say no to the idea at first, and let the idea come back. If it's a good idea, it's not going to be forgotten. You'll do it eventually. You'll get to it eventually. By eliminating features right off the bat, you can create simple stuff. 
 
-__No software projects fail because they aren't complicated enough.__
+*No software projects fail because they aren't complicated enough.*
 
 # What doesn't work?
 
@@ -52,10 +52,10 @@ __No software projects fail because they aren't complicated enough.__
 - Design by committee - one core visionary only. If that person is continuously beholden to different people on how things should work, you end up with a mess on the page. Ideally the designer and the visionary is the same person.
 - Design by preference. This is hard to do because you do it unknowingly. Don't think if it is preferable for you, but think if it is preferable for the audience. 
 - Talk in problems, not solutions. If a widget isn't usable, don't say "it's fixable in this way", say the problem you see. Remember that people aren't good at identifying solutions, they are good at identifying problems.
-- __Write it down so it's not forgotten.__ We juggle a lot of things in our head. We say things that "may be possible." The only things that get down are things that the team writes down. If it's not on the project plan, it's not going to get done.
+- *Write it down so it's not forgotten.* We juggle a lot of things in our head. We say things that "may be possible." The only things that get down are things that the team writes down. If it's not on the project plan, it's not going to get done.
 - Write things down using User stories (As a ... I want to ... so that I can ...). These have to do things for the revenue. If you build a bunch of stuff that is not tied to revenue, pick a step.
 
-Sketches -> user stories -> wireframes (HTML/CSS). __Initial version is greyscale, cause we want hierarchy, not color. We want placement of items, and real text.__
+Sketches -> user stories -> wireframes (HTML/CSS). *Initial version is greyscale, cause we want hierarchy, not color. We want placement of items, and real text.*
 
 We want a wireframe in a day. We focus on: User Experience. 
 
@@ -65,11 +65,11 @@ List of good UX:
 - Usability testing: Silverback, $30/hour. We don't want every single possible thing that can be improved, the goal is the top 3 things. Get 3 people from the street and record stuff about them. Use iChat so the team can watch live.
 - As much real data as possible. You aren't sure if you will solve the problems you want.
 
-__The stage of the MVP is it is viable for you to use it yourself.__ Keep your process light and flexible, get your software in front of the users.
+*The stage of the MVP is it is viable for you to use it yourself.* Keep your process light and flexible, get your software in front of the users.
 
 Then we sketch on how the user first cause we didn't think we can go to wireframe.
 
-Keep iterations as tight as possible because things will change. We do weekly iterations. We instigate change on a __weekly__ basis. We can build more successful software faster.
+Keep iterations as tight as possible because things will change. We do weekly iterations. We instigate change on a *weekly* basis. We can build more successful software faster.
 
 # Development
 

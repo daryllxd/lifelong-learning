@@ -30,9 +30,9 @@ Method Selection:
 - Encourages long-lived identifiers (URIs).
 - Machines talk by sending requests/responses represented in text, XML, graphics
 
-__So what happens is when you ask a machine for a JSON representation of a resource, you'll use the same identifier every time and the same request metadata indicating that you want JSON, and you’ll get the same response.__
+*So what happens is when you ask a machine for a JSON representation of a resource, you'll use the same identifier every time and the same request metadata indicating that you want JSON, and you’ll get the same response.*
 
-__Resources and Representations:__ What you actually do get hold of is never the resource itself, but a representation of it. _So two versions of a book (audio/text) are retrieved by the same URI and a different content type._
+*Resources and Representations:* What you actually do get hold of is never the resource itself, but a representation of it. _So two versions of a book (audio/text) are retrieved by the same URI and a different content type._
 
 #### Routing and CRUD
 
@@ -77,7 +77,7 @@ Example: `link_to "Delete", auction_path(auction), method: :delete`
 
 `new` and `edit` are supposed to show you the form (pre-resource, not resource).
 
-__Singular Resource__: A singleton resource route at the top level of your routes can be appropriate when there’s only one resource of its type for the whole application, perhaps something like a per-user profile.
+*Singular Resource*: A singleton resource route at the top level of your routes can be appropriate when there’s only one resource of its type for the whole application, perhaps something like a per-user profile.
 
 #### Nested Resources
 
@@ -122,7 +122,7 @@ And if you think about it, something as weighty as bid retraction would eventual
 
 #### Controller-Only Resources
 
-A REST resource doesn't have to map directly to an AR model. Resources are high-level abstractions of what’s available through your web application. __Database operations just happen to be one of the ways that you store and retrieve the data you need to generate representations of resources.__
+A REST resource doesn't have to map directly to an AR model. Resources are high-level abstractions of what’s available through your web application. *Database operations just happen to be one of the ways that you store and retrieve the data you need to generate representations of resources.*
 
 ## Different Representations of Resources
 

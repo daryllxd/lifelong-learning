@@ -110,7 +110,7 @@ So you're asking the address a question, it's asking if it is truthy or somethin
 
 These examples (before and after) both violate the Law of Demeter and its better to just delegate the task to an Address class, because you don't even know if you have an address. But even if you did that internally, it would still be helpful to have the NullAddress because you keep on asking and asking.
 
-__Null Object is an excellent way to deal with conditionals that are looking for something.__ We can create a stand-in object for this. It would also be great if this thing happens everywhere.
+*Null Object is an excellent way to deal with conditionals that are looking for something.* We can create a stand-in object for this. It would also be great if this thing happens everywhere.
 
 Now it's easy to not cover the cases for this but you have to keep everything consistent, because you can't check NullObject.
 
@@ -124,7 +124,7 @@ If you find yourself making conditional branches based on a method and an object
 
 #### Query Methods
 
-Query Methods ask a question or return some kind of simple value. Is the user signed in? I think this is fine when you are trying to separate concerns such as in MVC. You are trying to put all the views together. __It's okay to not separate this because it's not doing something different to the user. It's doing something different to the view.__
+Query Methods ask a question or return some kind of simple value. Is the user signed in? I think this is fine when you are trying to separate concerns such as in MVC. You are trying to put all the views together. *It's okay to not separate this because it's not doing something different to the user. It's doing something different to the view.*
 
 If ever, you would have to create a Decorator or Presenter.
 

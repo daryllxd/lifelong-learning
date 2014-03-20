@@ -250,7 +250,7 @@ Arbitrary locals
 
 	<%= render partial: "products", collection: @products, as: :item, locals: {title: "Products Page"} %>
 
-__Rails also makes a counter variable available within a partial called by the collection, named after the member of the collection followed by _counter. @products creates product_counter.__
+*Rails also makes a counter variable available within a partial called by the collection, named after the member of the collection followed by _counter. @products creates product_counter.*
 
 Spacer template
 

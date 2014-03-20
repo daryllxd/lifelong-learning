@@ -36,7 +36,7 @@ However, you can remove having the render the `root: false` by just setting up t
 Let's say we want to have something that is not in the model, such as the url. We can avoid a delegation to the model by creating a method:
 
 	class ArticleSerializer < ActiveModel::Serializer
-		attributes :id, :name, :content, __:url__
+		attributes :id, :name, :content, *:url*
 
 		def url
 			article_url(object) #references the object passed in
@@ -46,7 +46,7 @@ Let's say we want to have something that is not in the model, such as the url. W
 It also has support for associations.
 
 	class ArticleSerializer < ActiveModel::Serializer
-		attributes :id, :name, :content, __:url__
+		attributes :id, :name, :content, *:url*
 
 		has_many :comments
 

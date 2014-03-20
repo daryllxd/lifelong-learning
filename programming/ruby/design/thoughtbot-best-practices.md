@@ -31,8 +31,8 @@
 - Avoid bypassing validations like `save(validate: false)`, `update_attribute`, and `toggle`.
 - Avoid instantiating more than one object in controllers.
 - `dev:prime` rake task for development environments seed data.
-- __Don't reference a model class from the view.__
-- __Don't use instance variables in partials. Pass local variables to partials from view templates.__
+- *Don't reference a model class from the view.*
+- *Don't use instance variables in partials. Pass local variables to partials from view templates.*
 - User `_url` suffixes for named routes in mailer views and redirects. Use `_path` suffixes for named routes everywhere else.
 - Validate the associated column `belongs_to` the object (`user`), not the column (`user_id`).
 - Use SQL and not AR models in migrations.

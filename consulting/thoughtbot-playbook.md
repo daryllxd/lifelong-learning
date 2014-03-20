@@ -13,12 +13,12 @@ Investment: OSS, Learn Prime, write a blog post, contribute to dotfiles, technic
 
 We want to turn false confidence into validated confidence before beginning an expensive build.
 
-1. __Prep Work:__ The clients schedule 5 real humans for the tests we'll do in the last phase. Research using Quora, Google Analytics, interviews, survey
-2. __Understand:__ Sticky notes, practice the client's pitch to the investors.
-3. __Diverge:__ Where will users come from? We sketch 10+ user flows and user interfaces.
-4. __Converge:__ Identify the best ideas: We identify assumptions and solve conflicts.
-5. __Prototype:__ Real text, not lorem ipsum. Squarespace, Bourbon+Neat+Bitters, Invision. Learn these tools during Investment time.
-6. __Test and Learn:__ Web app first version is in 4-6 weeks. Mobile (via HockeyApp)
+1. *Prep Work:* The clients schedule 5 real humans for the tests we'll do in the last phase. Research using Quora, Google Analytics, interviews, survey
+2. *Understand:* Sticky notes, practice the client's pitch to the investors.
+3. *Diverge:* Where will users come from? We sketch 10+ user flows and user interfaces.
+4. *Converge:* Identify the best ideas: We identify assumptions and solve conflicts.
+5. *Prototype:* Real text, not lorem ipsum. Squarespace, Bourbon+Neat+Bitters, Invision. Learn these tools during Investment time.
+6. *Test and Learn:* Web app first version is in 4-6 weeks. Mobile (via HockeyApp)
 
 ## Platforms
 For designers/developers, what's best for us? Open source with strong community, the tools make the des/devs happy, the tools make it easy to create and iterate quickly.

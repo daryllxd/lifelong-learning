@@ -1,15 +1,15 @@
-## 6 Harsh Truths That Will Make You a Better Person
+# 6 Harsh Truths That Will Make You a Better Person
 [Link](http://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person/)
 
-__2014, motherfuckers. Yeah! LET'S DO THIS.__
+*2014, motherfuckers. Yeah! LET'S DO THIS.*
 
-"Do what?" you ask. __I DON'T KNOW. LET'S FIGURE THAT OUT TOGETHER, MOTHERFUCKERS.__
+"Do what?" you ask. *I DON'T KNOW. LET'S FIGURE THAT OUT TOGETHER, MOTHERFUCKERS.*
 
 Feel free to stop reading this if your career is going great, you're thrilled with your life, and you're happy with your relationships. Enjoy the rest of your day, friend, this article is not for you. You're doing a great job, we're all proud of you. So you don't feel like you wasted your click, here's a picture of Lenny Kravitz wearing a gigantic scarf.
 
 For the rest of you, I want you to try something: Name five impressive things about yourself. Write them down or just shout them out loud to the room. But here's the catch -- you're not allowed to list anything you are (i.e., I'm a nice guy, I'm honest), but instead can only list things that you do (i.e., I just won a national chess tournament, I make the best chili in Massachusetts). If you found that difficult, well, this is for you, and you are going to fucking hate hearing it. My only defense is that this is what I wish somebody had said to me around 1995 or so.
 
-#### 6. The World Only Cares About What It Can Get from You
+## 6. The World Only Cares About What It Can Get from You
 
 Let's say that the person you love the most has just been shot. He or she is lying in the street, bleeding and screaming. A guy rushes up and says, "Step aside." He looks over your loved one's bullet wound and pulls out a pocket knife -- he's going to operate right there in the street.
 
@@ -41,7 +41,7 @@ Either you will go about the task of seeing to those needs by learning a unique 
 
 Does that seem mean, or crass, or materialistic? What about love and kindness -- don't those things matter? Of course. As long as they result in you doing things for people that they can't get elsewhere. For you see ...
 
-#### 5. The Hippies Were Wrong
+## 5. The Hippies Were Wrong
 
 Here is the greatest scene in the history of movies (WARNING: EXTREME NSFW LANGUAGE):
 
@@ -61,7 +61,7 @@ _"If you were in that room, some of you would understand this as a work, but fee
 
 That excerpt is from an insightful critique of "hipsters" and why they seem to have so much trouble getting jobs (that doesn't begin to do it justice, go read the whole thing), and the point is that the difference in those two attitudes -- bitter vs. motivated -- largely determines whether or not you'll succeed in the world. For instance, some people want to respond to that speech with Tyler Durden's line from Fight Club: "You are not your job."
 
-But, well, actually, you totally are. Granted, your "job" and your means of employment might not be the same thing, but in both cases you are nothing more than the sum total of your useful skills. For instance, being a good mother is a job that requires a skill. It's something a person can do that is useful to other members of society. __But make no mistake: Your "job" -- the useful thing you do for other people -- is all you are.__
+But, well, actually, you totally are. Granted, your "job" and your means of employment might not be the same thing, but in both cases you are nothing more than the sum total of your useful skills. For instance, being a good mother is a job that requires a skill. It's something a person can do that is useful to other members of society. *But make no mistake: Your "job" -- the useful thing you do for other people -- is all you are.*
 
 There is a reason why surgeons get more respect than comedy writers. There is a reason mechanics get more respect than unemployed hipsters. There is a reason your job will become your label if your death makes the news ("NFL Linebacker Dies in Murder/Suicide"). Tyler said, "You are not your job," but he also founded and ran a successful soap company and became the head of an international social and political movement. He was totally his job.
 
@@ -71,7 +71,7 @@ You don't have to like it. I don't like it when it rains on my birthday. It rain
 
 If you protest that you're not a shallow capitalist materialist and that you disagree that money is everything, I can only say: Who said anything about money? You're missing the larger point.
 
-#### 4. What You Produce Does Not Have to Make Money, But It Does Have to Benefit People
+## 4. What You Produce Does Not Have to Make Money, But It Does Have to Benefit People
 
 Let's try a non-money example so you don't get hung up on that. The demographic that Cracked writes for is heavy on 20-something males. So on our message boards and in my many inboxes I read several dozen stories a year from miserable, lonely guys who insist that women won't come near them despite the fact that they are just the nicest guys in the world. I can explain what is wrong with this mindset, but it would probably be better if I let Alec Baldwin explain it:
 
@@ -81,7 +81,7 @@ So, what do you bring to the table? Because the Zooey Deschanel lookalike in the
 
 "What, so you're saying that I can't get girls like that unless I have a nice job and make lots of money?"
 
-__No, your brain jumps to that conclusion so you have an excuse to write off everyone who rejects you by thinking that they're just being shallow and selfish. I'm asking what do you offer? Are you smart? Funny? Interesting? Talented? Ambitious? Creative? OK, now what do you do to demonstrate those attributes to the world? Don't say that you're a nice guy -- that's the bare minimum. Pretty girls have guys being nice to them 36 times a day. The patient is bleeding in the street. Do you know how to operate or not?__
+*No, your brain jumps to that conclusion so you have an excuse to write off everyone who rejects you by thinking that they're just being shallow and selfish. I'm asking what do you offer? Are you smart? Funny? Interesting? Talented? Ambitious? Creative? OK, now what do you do to demonstrate those attributes to the world? Don't say that you're a nice guy -- that's the bare minimum. Pretty girls have guys being nice to them 36 times a day. The patient is bleeding in the street. Do you know how to operate or not?*
 
 "Well, I'm not sexist or racist or greedy or shallow or abusive! Not like those other douchebags!"
 
@@ -91,7 +91,7 @@ Does that break your heart? OK, so now what? Are you going to mope about it, or 
 
 I think this is why you can be a "nice guy" and still feel terrible about yourself. Specifically ...
 
-#### 3. You Hate Yourself Because You Don't Do Anything
+## 3. You Hate Yourself Because You Don't Do Anything
 
 "So, what, you're saying that I should pick up a book on how to get girls?"
 
@@ -113,7 +113,7 @@ Because in my non-expert opinion, you don't hate yourself because you have low s
 
 Step One: Get up.
 
-__Do the math: How much of your time is spent consuming things other people made (TV, music, video games, websites) versus making your own? Only one of those adds to your value as a human being.__
+*Do the math: How much of your time is spent consuming things other people made (TV, music, video games, websites) versus making your own? Only one of those adds to your value as a human being.*
 
 And if you hate hearing this and are responding with something you heard as a kid that sounds like "It's what's on the inside that matters!" then I can only say ...
 
@@ -135,9 +135,9 @@ Notice how the camera is pointed up, and not at the base of the tree?
 
 But here's what everyone needs to know, and what many of you can't accept:
 
-__"You" are nothing but the fruit.__
+*"You" are nothing but the fruit.*
 
-__Nobody cares about your dirt. "Who you are inside" is meaningless aside from what it produces for other people.__
+*Nobody cares about your dirt. "Who you are inside" is meaningless aside from what it produces for other people.*
 
 Inside, you have great compassion for poor people. Great. Does that result in you doing anything about it? Do you hear about some terrible tragedy in your community and say, "Oh, those poor children. Let them know that they are in my thoughts"? Because fuck you if so -- find out what they need and help provide it. A hundred million people watched that Kony video, virtually all of whom kept those poor African children "in their thoughts." What did the collective power of those good thoughts provide? Jack fucking shit. Children die every day because millions of us tell ourselves that caring is just as good as doing. It's an internal mechanism controlled by the lazy part of your brain to keep you from actually doing work.
 
@@ -179,17 +179,17 @@ So even now, some of you reading this are feeling your brain bombard you with kn
 
 "Way to leave 'the hood' behind, asshole. New house or not, you'll always be white trash!"
 
-__And so on. Remember, misery is comfortable. It's why so many people prefer it. Happiness takes effort.__
+*And so on. Remember, misery is comfortable. It's why so many people prefer it. Happiness takes effort.*
 
-__Also, courage. It's incredibly comforting to know that as long as you don't create anything in your life, then nobody can attack the thing you created.__
+*Also, courage. It's incredibly comforting to know that as long as you don't create anything in your life, then nobody can attack the thing you created.*
 
-__It's so much easier to just sit back and criticize other people's creations.__ This movie is stupid. That couple's kids are brats. That other couple's relationship is a mess. That rich guy is shallow. This restaurant sucks. This Internet writer is an asshole. I'd better leave a mean comment demanding that the website fire him. See, I created something.
+*It's so much easier to just sit back and criticize other people's creations.* This movie is stupid. That couple's kids are brats. That other couple's relationship is a mess. That rich guy is shallow. This restaurant sucks. This Internet writer is an asshole. I'd better leave a mean comment demanding that the website fire him. See, I created something.
 
 Oh, wait, did I forget to mention that part? Yeah, whatever you try to build or create -- be it a poem, or a new skill, or a new relationship -- you will find yourself immediately surrounded by non-creators who trash it. Maybe not to your face, but they'll do it. Your drunk friends do not want you to get sober. Your fat friends do not want you to start a fitness regimen. Your jobless friends do not want to see you embark on a career.
 
-__Just remember, they're only expressing their own fear, since trashing other people's work is another excuse to do nothing.__ "Why should I create anything when the things other people create suck? I would totally have written a novel by now, but I'm going to wait for something good, I don't want to write the next Twilight!" As long as they never produce anything, their work will forever be perfect and beyond reproach. Or if they do produce something, they'll make sure they do it with detached irony. They'll make it intentionally bad to make it clear to everyone else that this isn't their real effort. Their real effort would have been amazing. Not like the shit you made.
+*Just remember, they're only expressing their own fear, since trashing other people's work is another excuse to do nothing.* "Why should I create anything when the things other people create suck? I would totally have written a novel by now, but I'm going to wait for something good, I don't want to write the next Twilight!" As long as they never produce anything, their work will forever be perfect and beyond reproach. Or if they do produce something, they'll make sure they do it with detached irony. They'll make it intentionally bad to make it clear to everyone else that this isn't their real effort. Their real effort would have been amazing. Not like the shit you made.
 
-__Read our article comments -- when they get nasty, it's always from the same angle: Cracked needs to fire this columnist. This asshole needs to stop writing. Don't make any more videos. It always boils down to "Stop creating. This is different from what I would have made, and the attention you're getting is making me feel bad about myself."__
+*Read our article comments -- when they get nasty, it's always from the same angle: Cracked needs to fire this columnist. This asshole needs to stop writing. Don't make any more videos. It always boils down to "Stop creating. This is different from what I would have made, and the attention you're getting is making me feel bad about myself."*
 
 Don't be that person. If you are that person, don't be that person any more. This is what's making people hate you. This is what's making you hate yourself.
 

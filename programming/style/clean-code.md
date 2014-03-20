@@ -299,7 +299,7 @@ Choose names that make the distinction clear, and always use the two forms in a 
 
 Try to avoid any monadic functions that don’t follow these forms, for example, `void includeSetupPageInto(StringBuffer pageText)`. Using an output argument instead of a return value for a transformation is confusing. If a function is going to transform its input argument, the transformation should appear as the return value. Indeed, `StringBuffer transform(StringBuffer in)` is better than `void transform-(StringBuffer out)`, even if the implementation in the first case simply returns the input argument. At least it still follows the form of a transformation.
 
-Flags are ugly. Passing a boolean into a function is a truly terrible practice. __It immediately complicates the signature of the method, loudly proclaiming that this function does more than one thing. It does one thing if the flag is true and another if the flag is false!__
+Flags are ugly. Passing a boolean into a function is a truly terrible practice. *It immediately complicates the signature of the method, loudly proclaiming that this function does more than one thing. It does one thing if the flag is true and another if the flag is false!*
 
 Split `render(boolean isSuite)` into `renderForSuite()` and `renderForSingleTest()`.
 
@@ -338,9 +338,9 @@ This last is an example of the keyword form of a function name. Using this form 
 
 Side effects are lies. Your function promises to do one thing, but it also does other hidden things. Sometimes it will make unexpected changes to the variables of its own class. Sometimes it will make them to the parameters passed into the function or to system glo- bals. In either case they are devious and damaging mistruths that often result in strange temporal couplings and order dependencies.
 
-__The `checkPassword` function, by its name, says that it checks the password. The name does not imply that it initial- izes the session.__ So a caller who believes what the name of the function says runs the risk of erasing the existing session data when he or she decides to check the validity of the user.
+*The `checkPassword` function, by its name, says that it checks the password. The name does not imply that it initial- izes the session.* So a caller who believes what the name of the function says runs the risk of erasing the existing session data when he or she decides to check the validity of the user.
 
-__This side effect creates a temporal coupling.__ That is, checkPassword can only be called at certain times (in other words, when it is safe to initialize the session). If it is called out of order, session data may be inadvertently lost. Temporal couplings are confusing, especially when hidden as a side effect. If you must have a temporal coupling, you should make it clear in the name of the function. In this case we might rename the function `checkPasswordAndInitializeSession`, though that certainly violates “Do one thing.”
+*This side effect creates a temporal coupling.* That is, checkPassword can only be called at certain times (in other words, when it is safe to initialize the session). If it is called out of order, session data may be inadvertently lost. Temporal couplings are confusing, especially when hidden as a side effect. If you must have a temporal coupling, you should make it clear in the name of the function. In this case we might rename the function `checkPasswordAndInitializeSession`, though that certainly violates “Do one thing.”
 
 #### Output Arguments
 
@@ -360,7 +360,7 @@ In general output arguments should be avoided. If your function must change the 
 
 #### Command Query Separation
 
-__Functions should either do something or answer something, but not both. Either your function should change the state of an object, or it should return some information about that object. Doing both often leads to confusion.__
+*Functions should either do something or answer something, but not both. Either your function should change the state of an object, or it should return some information about that object. Doing both often leads to confusion.*
 
 	public boolean set(String attribute, String value);
 
@@ -418,7 +418,7 @@ On the other hand, if you use exceptions instead of returned error codes, then t
 - `deletePageAndAllReferences`: All about the processes of fully deleting a page.
 - `logError`: E di yun.
 
-Functions should do one thing. Error handing is one thing. __Thus, a function that handles errors should do nothing else.__ This implies (as in the example above) that if the keyword try exists in a function, it should be the very first word in the function and that there should be nothing after the catch/finally blocks.
+Functions should do one thing. Error handing is one thing. *Thus, a function that handles errors should do nothing else.* This implies (as in the example above) that if the keyword try exists in a function, it should be the very first word in the function and that there should be nothing after the catch/finally blocks.
 
 #### The Error.java Dependency Magnet
 
@@ -447,7 +447,7 @@ It would appear that since the invention of the subroutine, innovations in softw
 
 #### Structured Programming
 
-__Dijkstra said that every function, and every block within a function, should have one entry and one exit.__ Following these rules means that there should only be one return statement in a function, no break or continue statements in a loop, and never, ever, any goto statements.
+*Dijkstra said that every function, and every block within a function, should have one entry and one exit.* Following these rules means that there should only be one return statement in a function, no break or continue statements in a loop, and never, ever, any goto statements.
 
 While we are sympathetic to the goals and disciplines of structured programming, those rules serve little benefit when functions are very small. It is only in larger functions that such rules provide significant benefit.
 
@@ -465,13 +465,13 @@ Every system is built from a domain-specific language designed by the programmer
 
 Functions are the verbs of that language, and classes are the nouns. This is not some throwback to the hideous old notion that the nouns and verbs in a require- ments document are the first guess of the classes and functions of a system. Rather, this is a much older truth. The art of programming is, and has always been, the art of language design.
 
-__Master programmers think of systems as stories to be told rather than programs to be written.__ They use the facilities of their chosen programming language to construct a much richer and more expressive language that can be used to tell that story. Part of that domain-specific language is the hierarchy of functions that describe all the actions that take place within that system. In an artful act of recursion those actions are written to use the very domain-specific language they define to tell their own small part of the story.
+*Master programmers think of systems as stories to be told rather than programs to be written.* They use the facilities of their chosen programming language to construct a much richer and more expressive language that can be used to tell that story. Part of that domain-specific language is the hierarchy of functions that describe all the actions that take place within that system. In an artful act of recursion those actions are written to use the very domain-specific language they define to tell their own small part of the story.
 
 Bever forget that your real goal is to tell the story of the system, and that the functions you write need to fit cleanly together into a clear and precise language to help you with that telling.
 
 ## Comments
 
-__If our programming languages were expressive enough, or if we had the talent to subtly wield those languages to express our intent, we would not need comments very much—perhaps not at all.__
+*If our programming languages were expressive enough, or if we had the talent to subtly wield those languages to express our intent, we would not need comments very much—perhaps not at all.*
 
 The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures. We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration.
 
@@ -520,7 +520,7 @@ It takes only a few seconds of thought to explain most of your intent in code. I
 - Journal Comments
 - Noise Comments: `Default constructor`, `The day of the month`,
 
-__Don’t use a comment when you can use a function or a variable.__
+*Don’t use a comment when you can use a function or a variable.*
 
 - Closing Brace Comments: Clutter.
 - Commented-out code: We have source control to remember this shit.
@@ -769,7 +769,7 @@ In both of the above cases the second option is preferable. We do not want to ex
 
 #### Data/Object Anti-Symmetry
 
-These two examples show the difference between objects and data structures. __Objects hide their data behind abstractions and expose functions that operate on that data. Data struc- ture expose their data and have no meaningful functions.__ Go back and read that again. Notice the complimentary nature of the two definitions. They are virtual opposites.
+These two examples show the difference between objects and data structures. *Objects hide their data behind abstractions and expose functions that operate on that data. Data struc- ture expose their data and have no meaningful functions.* Go back and read that again. Notice the complimentary nature of the two definitions. They are virtual opposites.
 
 > Procedural code (code using data structures) makes it easy to add new functions without changing the existing data structures. OO code, on the other hand, makes it easy to add new classes without changing existing functions.
 
@@ -927,7 +927,7 @@ If a system is decoupled enough to be tested in this way, it will also be more f
 
 By minimizing coupling in this way, our classes adhere to another class design princi- ple known as the Dependency Inversion Principle (DIP).5 In essence, the DIP says that our classes should depend upon abstractions, not on concrete details.
 
-__Instead of being dependent upon the implementation details of the TokyoStock- Exchange class, our Portfolio class is now dependent upon the StockExchange interface.__
+*Instead of being dependent upon the implementation details of the TokyoStock- Exchange class, our Portfolio class is now dependent upon the StockExchange interface.*
 
 ## Systems
 
@@ -976,25 +976,25 @@ But what about at the system level? Doesn’t the system architecture require pr
 
 #### Comments
 
-- __Inappropriate Information__: Change histories clutter up files. Authors, last modified-date, not supposed to be there.
-- __Redundant Comment__: `i++; // increment i`.
-- __Commented-Out Code__: Source code control still remembers it anyway. If anyone really needs it, they can check out a previous version.
+- *Inappropriate Information*: Change histories clutter up files. Authors, last modified-date, not supposed to be there.
+- *Redundant Comment*: `i++; // increment i`.
+- *Commented-Out Code*: Source code control still remembers it anyway. If anyone really needs it, they can check out a previous version.
 
 #### Environment
 
-- __Build Requires More Than One Step__: One command only.
-- __Tests Require More Than One Step__
+- *Build Requires More Than One Step*: One command only.
+- *Tests Require More Than One Step*
 
 #### General
 
-- __Multiple Languages in One Source File__: Confusing at best.
-- __Obvious Behavior Is Unimplemented__.
-- __Incorrect Behavior at the Boundaries__: Just make the edge cases work.
-- __Duplication__: Every time you see duplication in the code, it represents a missed opportunity for abstraction. That duplication could probably become a subroutine or perhaps another class outright. More abstraction means coding is faster.
+- *Multiple Languages in One Source File*: Confusing at best.
+- *Obvious Behavior Is Unimplemented*.
+- *Incorrect Behavior at the Boundaries*: Just make the edge cases work.
+- *Duplication*: Every time you see duplication in the code, it represents a missed opportunity for abstraction. That duplication could probably become a subroutine or perhaps another class outright. More abstraction means coding is faster.
 	+ "Stuff that looks copied and pasted."
 	+ Repeated switch/case and if/else chains.
 	+ Figure out _template method_ and _strategy_.
-- __Code at Wrong Level of Abstraction__: Lower level concepts must be in the derivatives, and higher level concepts are in the base class.
+- *Code at Wrong Level of Abstraction*: Lower level concepts must be in the derivatives, and higher level concepts are in the base class.
 
 			public interface Stack {
 				Object pop() throws EmptyException;
@@ -1004,14 +1004,14 @@ But what about at the system level? Doesn’t the system architecture require pr
 
 	The `percentFull` function is at the wrong level of abstraction. Although there are many implementations of Stack where the concept of fullness is reasonable, there are other implementations that simply could not know how full they are. So the function would be better placed in a derivative interface such as `BoundedStack`.
 
-- __Base Classes Depending on Their Derivatives__: In general, base classes should know nothing about their derivatives.
-- __Too Much Information__: Good software developers learn to limit what they expose at the interfaces of their classes and modules. The fewer methods a class has, the better. The fewer variables a func- tion knows about, the better. The fewer instance variables a class has, the better. 
+- *Base Classes Depending on Their Derivatives*: In general, base classes should know nothing about their derivatives.
+- *Too Much Information*: Good software developers learn to limit what they expose at the interfaces of their classes and modules. The fewer methods a class has, the better. The fewer variables a func- tion knows about, the better. The fewer instance variables a class has, the better. 
 
 	Hide your data. Hide your utility functions. Hide your constants and your temporaries. Don’t create classes with lots of methods or lots of instance variables. Don’t create lots of protected variables and functions for your subclasses. Concentrate on keeping interfaces very tight and very small. Help keep coupling low by limiting information.
 
-- __Inconsistency__: If within a particular function you use a variable named response to hold an `HttpServletResponse`, then use the same variable name consistently in the other functions that use `HttpServletResponse` objects. If you name a method `processVerificationRequest`, then use a similar name, such as `processDeletionRequest`, for the methods that process other kinds of requests.
-- __Artificial Coupling__: In general an artificial coupling is a coupling between two modules that serves no direct purpose. It is a result of putting a variable, constant, or function in a temporarily convenient, though inappropriate, location. This is lazy and careless.
-- __Feature Envy__: The methods of a class should be interested in the variables and functions of the class they belong to, and not the variables and functions of other classes. When a method uses accessors and mutators of some other object to manipulate the data within that object, then it envies the scope of the class of that other object.
+- *Inconsistency*: If within a particular function you use a variable named response to hold an `HttpServletResponse`, then use the same variable name consistently in the other functions that use `HttpServletResponse` objects. If you name a method `processVerificationRequest`, then use a similar name, such as `processDeletionRequest`, for the methods that process other kinds of requests.
+- *Artificial Coupling*: In general an artificial coupling is a coupling between two modules that serves no direct purpose. It is a result of putting a variable, constant, or function in a temporarily convenient, though inappropriate, location. This is lazy and careless.
+- *Feature Envy*: The methods of a class should be interested in the variables and functions of the class they belong to, and not the variables and functions of other classes. When a method uses accessors and mutators of some other object to manipulate the data within that object, then it envies the scope of the class of that other object.
 
 			public class HourlyPayCalculator {
 				public Money calculateWeeklyPay(HourlyEmployee e) {

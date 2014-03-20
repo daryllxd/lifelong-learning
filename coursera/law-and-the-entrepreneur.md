@@ -14,7 +14,7 @@ If an employee has signed an agreement (moonlighting provision) then they can’
 
 NCA has to be: cannot stand alone (another contract such as employment is needed), actually hurts the employer/not just to stop competition, reasonably limited geographically, scope.
 
-Sometimes this is non-enforcable, and sometimes NCA is an emotional reaction by the employer, so __leave on good terms__.
+Sometimes this is non-enforcable, and sometimes NCA is an emotional reaction by the employer, so *leave on good terms*.
 
 #### IP
 
@@ -201,7 +201,7 @@ For some purposes, a partnership is treated as an aggregate of its individual pa
 
 ### Types
 
-* In a _general partnership_, each partner is a general partner, and has unlimited liability for the debts of the partnership. __Each has the power to incur obligations on behalf of the partnership within the cope of the partnership's business.__ Each general partner acts as an agent for the partnership.
+* In a _general partnership_, each partner is a general partner, and has unlimited liability for the debts of the partnership. *Each has the power to incur obligations on behalf of the partnership within the cope of the partnership's business.* Each general partner acts as an agent for the partnership.
 * A _limited partnership_ has one or more general partners (each of whom has the same liability and power as a general partners in a general partnership) and one or more limited partners. The limited partners liability is limited to the amount of their capital commitment.
 * A _limited liability partnership_ is a hybrid: each partner can participate actively in the business and has unlimited personal liability for his own actions, but is liable for the misdeeds of other partners only to the extent of the partnership's assets.
 
@@ -217,19 +217,19 @@ Few formalities: a general partnership does not even require a written agreement
 
 A limited partnership must have a written partnership agreement and file a certificate with the applicable secretary of states.
 
-__In the absence of a written agreement, state partnership laws will govern the partnership.__ Some provisions of the laws may lead to unfavorable results. For example, state laws may require partners to share the profits and losses equally regardless of their original capital contributions.
+*In the absence of a written agreement, state partnership laws will govern the partnership.* Some provisions of the laws may lead to unfavorable results. For example, state laws may require partners to share the profits and losses equally regardless of their original capital contributions.
 
 As a practical matter, brcause a partnership is largely governed by the partnership agreement, which will vary with each partnership, more expense is involved in forming a partnership than a corporation because a corporations's governance is controlled by statutes. Avoid standard or _boilerplate_ forms because they are not tailored to the particulars of the partners' relationship.
 
 ### Tax Treatment
 
-__A partnership does not pay income tax.__ Income or losses flow through to each partner and are reported on the partner's individual tax returns. A partnership can allocate income and loss flexibly.
+*A partnership does not pay income tax.* Income or losses flow through to each partner and are reported on the partner's individual tax returns. A partnership can allocate income and loss flexibly.
 
 Property can be contributed to and distributed from a partnership without being subjected to tax.
 
 A partnership can be converted to a corporation without tax if the incorporation is properly structured. Once a partnership converts to a corporation, however, and distribution from the corporation will be subject to two levels of tax: corporate and shareholder.
 
-Sources of capital are generally restricted to capital contributed by partners and funds loaned by partners and outsiders. It is uncommon for a partnership to raise capital in a public offering, because publicly traded partnerships are taxed as corporations. Most VCs have tax-exempt investors who would receive disadvantaged tax treatment if the fund invested in a partnership. __If you expect to attract capital from a VC, do not organize as a partnership.__
+Sources of capital are generally restricted to capital contributed by partners and funds loaned by partners and outsiders. It is uncommon for a partnership to raise capital in a public offering, because publicly traded partnerships are taxed as corporations. Most VCs have tax-exempt investors who would receive disadvantaged tax treatment if the fund invested in a partnership. *If you expect to attract capital from a VC, do not organize as a partnership.*
 
 Foreigners participating as a partners would cause them to be treated as being engaged in a U.S. trade or business. So the U.S. would tax any of their U.S. income connected with the trade or business, and the foreign investors would have to file U.S. tax returns. Foreigners generally do not pay tax on income from U.S. corporations in which they invest.
 
@@ -237,7 +237,7 @@ Foreigners participating as a partners would cause them to be treated as being e
 
 The _limited liability company_ has rapidly gained popularity in the United States. A properly structured LLC combines the pass-through federal tax treatment of a partnership with the liability protections of a corporation.
 
-So an organization that is like a partnership but will become and S corp if given the chance will derive the most benefit from organizing as an LLC because: __it will have limited liability protection while retaining favorable partnership tax treatment__.
+So an organization that is like a partnership but will become and S corp if given the chance will derive the most benefit from organizing as an LLC because: *it will have limited liability protection while retaining favorable partnership tax treatment*.
 
 The owners (members) of an LLC have no personal liability for the obligations of the LLC. For all practical purposes, an LLC operates as a limited partnership without the legal reqirement of having a general partner who bears ultimate liability for the obligations of the partnership.
 
@@ -268,11 +268,11 @@ If the business will be widely held, so much so that it will be publicly traded,
 
 If the owner interests in the business will be provided to employees, then C corp. 
 
-* Stock ownership is __easier to explain__ than employees than equity interests in partnerships and LLCs. 
-* __Creating favorably priced equity incentives is easiest to accomplish__ in a C corp because of the different classes of stock: common stock can be sold at a discount from the preferred. 
-* The tax law gives __favorable tax treatment__ to incentive stock options (ISOs) granted by a corporation. Holders of ISOs incur no tax until the shares purchased through an option exercise are sold.
+* Stock ownership is *easier to explain* than employees than equity interests in partnerships and LLCs. 
+* *Creating favorably priced equity incentives is easiest to accomplish* in a C corp because of the different classes of stock: common stock can be sold at a discount from the preferred. 
+* The tax law gives *favorable tax treatment* to incentive stock options (ISOs) granted by a corporation. Holders of ISOs incur no tax until the shares purchased through an option exercise are sold.
 
-__If you want VC money, be a C corp. Most VC funds raise money from tax-exempt entities such as pension and profit-sharing trusts, universities, and charitable organizations, and these would incur unrelated business taxable income on which the non-profit must pay tax if partnership or LLC.__
+*If you want VC money, be a C corp. Most VC funds raise money from tax-exempt entities such as pension and profit-sharing trusts, universities, and charitable organizations, and these would incur unrelated business taxable income on which the non-profit must pay tax if partnership or LLC.*
 
 ### How does the business expect to return its profits to its owners?
 
@@ -304,13 +304,13 @@ Trademark laws were originally used to protect a consumer: you get to expect a c
 
 Trademarks are ranked among a continuum.
 
-- __Just a generic for the product being sold ("water").__ You can't use trademark law to protect yourself.
-- __Descriptive marks ("Vitamin water").__ They describe something about the product, more than a generic word. They aren't entitled to protection off the bat, but over time they can earn secondary meaning in the marketplace, which means that consumers associate the meaning to the product.
-- __Suggestive marks ("Icemelt").__ They suggest something about the product but don't describe the product specifically.
-- __Arbitrarty marks ("Apple").__ Words that have a dictionary definition, but aren't connected to a product related to that definition.
-- __Fanciful marks ("Xerox").__ No dictionary meaning.
+- *Just a generic for the product being sold ("water").* You can't use trademark law to protect yourself.
+- *Descriptive marks ("Vitamin water").* They describe something about the product, more than a generic word. They aren't entitled to protection off the bat, but over time they can earn secondary meaning in the marketplace, which means that consumers associate the meaning to the product.
+- *Suggestive marks ("Icemelt").* They suggest something about the product but don't describe the product specifically.
+- *Arbitrarty marks ("Apple").* Words that have a dictionary definition, but aren't connected to a product related to that definition.
+- *Fanciful marks ("Xerox").* No dictionary meaning.
 
-How can you avoid a trademark lawsuit? Research first. The test is the __likelihood of consumer confusion__. There are differences that courts look at: similarity of product, similarity of channels... the closer the two products are, the higher the chance.
+How can you avoid a trademark lawsuit? Research first. The test is the *likelihood of consumer confusion*. There are differences that courts look at: similarity of product, similarity of channels... the closer the two products are, the higher the chance.
 
 ## 4.4: Copyright Law
 
@@ -441,9 +441,9 @@ The application must contain a detailed description of the invention sufficient 
 
 ### Types of Patents
 
-- __Utility patents__ can cover a machine or a process or an article of manufacture. It can also cover new compositions of matter, or human-made microorganisms. (Improvements to any of these types of inventions can also be connected with a utility patent.)
-- __Design patents__ can be used to protect ornamental designs. The standard is the "ordinary observer test", where a design patent is infringed if in the eyes of an observer, two designs are the same.
-- __Plant patents__ protect plants and flowers (rare).
+- *Utility patents* can cover a machine or a process or an article of manufacture. It can also cover new compositions of matter, or human-made microorganisms. (Improvements to any of these types of inventions can also be connected with a utility patent.)
+- *Design patents* can be used to protect ornamental designs. The standard is the "ordinary observer test", where a design patent is infringed if in the eyes of an observer, two designs are the same.
+- *Plant patents* protect plants and flowers (rare).
 
 Utility: Patents last 20 years from the date the patent application is filed. Design: 14 years.
 
@@ -514,15 +514,15 @@ Private placement memorandum: The stuff you disclose to an investor. These are v
 
 ## 6.1-6.2: Building a Team/Employees vs. Independent Contractors
 
-__Better to have an A-team with a B-idea rather than a B-team with an A-idea.__
+*Better to have an A-team with a B-idea rather than a B-team with an A-idea.*
 
 When a company hires someone as an independent contractor, the co doesn't have to withhold income taxes, pay medicare/SSS, comply with hourly minimal wage requirements. When a company improperly classifies someone as an independent contractor, it exposes the co to different liabilities: payment of back taxes, back pay, penalties, and potential violations of the employment laws.
 
 Diff between employees and independent contractors: relationship between the worker and the organization. Factors that the IRS uses to determine: behavioral control, financial control, and the relationship of the parties.
 
-- __Behavioral control__: Requiring workers to go through extensive training. 
-- Reimbursing a worker for taxis shows a lot of __financial control__. 
-- Things like whether the worker gets paid vacation time and how long the type of work lasts show the __relationship of the parties__.
+- *Behavioral control*: Requiring workers to go through extensive training. 
+- Reimbursing a worker for taxis shows a lot of *financial control*. 
+- Things like whether the worker gets paid vacation time and how long the type of work lasts show the *relationship of the parties*.
 
 Good practice: A signed independent contractor agreement. Since they own the work they create, assign the work they create to the business.
 
@@ -537,7 +537,7 @@ Good practice: A signed independent contractor agreement. Since they own the wor
 #### Fair Labor Standards Act
 - Training, even though it includes actual operation of the facilities of the employeer, is similar to that which would be given in a vocational school. The internship has to be _educational_.
 - The training is for the benefit of the trainee. The intern has to get something meaningful from the experience.
-- The trainees do not displace regular employees, but work under close observaition. __You can't fire someone to use an intern instead, or fail to hire someone and use an intern instead__.
+- The trainees do not displace regular employees, but work under close observaition. *You can't fire someone to use an intern instead, or fail to hire someone and use an intern instead*.
 - The employer provides the training, derives no immediate advantage from activities of the trainees.
 - The trainees are not necessarily entitlesd to a job at the completion of the training period. If they are entitled to a job at the end of the internship, then that means they're getting training for the job, and that means they're supposed to be paid.
 - The trainee and employeer understand that the trainee is not entitled to wages for the time spent training. The intern has to actually understand that it's an internship program and not a paid job.
@@ -562,7 +562,7 @@ Reaosnable accomodations: Work facilities, restructuring jobs/modifying work sch
 
 Restricted stock: the stock will vest over time or upon the worker meeting specified milestones.
 
-When a share __vests__, all that means is that the restrictions on the stock, like restrictions of transferability or a buyback, go away.
+When a share *vests*, all that means is that the restrictions on the stock, like restrictions of transferability or a buyback, go away.
 
 Stock options are options to purchase equity in the future at today's price (you get a chance to buy it in the future).
 

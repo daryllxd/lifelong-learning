@@ -26,40 +26,18 @@ We want to be: predicatble (rules behave as you expect), reusable (decoupled eno
 
 #### Bad Practices
 
-- __Modifying components based on who their parents are.__ If the widget gets redesigned, you need to update it in serveral places in the CSS. Remember: _Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification._
+- *Modifying components based on who their parents are.* If the widget gets redesigned, you need to update it in serveral places in the CSS. Remember: _Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification._
 
-- __Overly complicated selectors.__ Not reusable, unpredictable if the HTML will change, and not maintainable.
+- *Overly complicated selectors.* Not reusable, unpredictable if the HTML will change, and not maintainable.
 
-- __Making a rule do too much.__ This is not reusable in different contexts.
+- *Making a rule do too much.* This is not reusable in different contexts.
 
 #### Best Practices
 
-- __Separation of concerns:__ CSS components should be modular. Components should either define how the look, not their layout or position. Background, color, and font should be in different rules from position, width, height, margin.
+- *Separation of concerns:* CSS components should be modular. Components should either define how the look, not their layout or position. Background, color, and font should be in different rules from position, width, height, margin.
 
-- __Namespace your classes:__ As opposed to `.widget {} .widget .title{}`, do `.widget{} .widget-title{}`.
+- *Namespace your classes:* As opposed to `.widget {} .widget .title{}`, do `.widget{} .widget-title{}`.
 
-- __Extend components with modifier classes.__ Easier to interpret this.
+- *Extend components with modifier classes.* Easier to interpret this.
 
-- __Name your classes with a logical structure.__ Instead of `.button-group`, `.button-primary`, `.button-icon`, `.header`, try making it like `%template-name`, `.component-name .component-name--modifier-name .component-name__sub-object`...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- *Name your classes with a logical structure.* Instead of `.button-group`, `.button-primary`, `.button-icon`, `.header`, try making it like `%template-name`, `.component-name .component-name--modifier-name .component-name*sub-object`...

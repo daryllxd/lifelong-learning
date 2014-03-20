@@ -12,18 +12,18 @@ The tricky part with these services is that you’re pretty much on your own. Yo
 
 Steps
 
-1. __Create application to deploy.__
+1. *Create application to deploy.*
     
         $ rails new blog -d postgresql
         $ raisl g scaffold name content:text
 
-2. __Configure a Linode VPS.__ Rebuild server, selecting Ubuntu 10.04 LTS and enterring a root password.
+2. *Configure a Linode VPS.* Rebuild server, selecting Ubuntu 10.04 LTS and enterring a root password.
 
     Once the server has booted we can use the ssh command to log into the server.
 
         $ ssh root@178.xxx.xxx.xxx
 
-3. __Connected to server.__
+3. *Connected to server.*
 
         # Update packages to the latest version
         root@li349-144:~# apt-get update 
@@ -38,9 +38,9 @@ Steps
         root@li349-144:~# service nginx start
         Starting nginx: nginx.
 
-    When you see __Welcome to nginx__ it's working.
+    When you see *Welcome to nginx* it's working.
 
-4. __Installing PostgreSQL__.
+4. *Installing PostgreSQL*.
     
         # Install via repository to get latest version
         root@li349-144:~# add-apt-repository ppa:pitti/postgresql

@@ -16,7 +16,7 @@ UI is important because it affects the feelings, the emotions, and the mood of y
 
 Thus, the cardinal axiom of all user interface design:
 
-__A user interface is well-designed when the program behaves exactly how the user thought it would.__
+*A user interface is well-designed when the program behaves exactly how the user thought it would.*
 
 ## [Figuring Out What They Expected](http://www.joelonsoftware.com/uibook/chapters/fog0000000058.html)
 
@@ -36,7 +36,7 @@ You have two choices. You can try to change the user model. This turns out to be
 
 Just ask them! Pick five random people in your office, or friends, or family, and tell them what your program does in general terms. ust ask a bunch of users where they think the thumbnails are going to be stored. Of course, many of them won't know or won't care, or they won't have thought about 	this, but if you ask a lot of people, you'll start to see some kind of consensus. The popular choice is the best user model, and it's up to you to make the program model match it.
 
-__If your program model is nontrivial, it's probably not the user model.__
+*If your program model is nontrivial, it's probably not the user model.*
 
 An important rule of thumb is that user models aren't very complex. When people have to guess how a program is going to work, they tend to guess simple things, rather than complicated things. 
 
@@ -77,7 +77,7 @@ To add insult to injury, this isn't even a dialog... it's a wizard (the second p
 
 Which brings us to our second major rule of user interface design:
 
-__Every time you provide an option, you're asking the user to make a decision.__ People like having choices but only for things that they care about. I really do not care about what type of help file I want to see. Users care about a lot less than you might think: software is used to accomplish a task. They care about the task only. They expect designers to make decisions for them on the things that they don't really care about.
+*Every time you provide an option, you're asking the user to make a decision.* People like having choices but only for things that they care about. I really do not care about what type of help file I want to see. Users care about a lot less than you might think: software is used to accomplish a task. They care about the task only. They expect designers to make decisions for them on the things that they don't really care about.
 
 _It is the height of arrogance for a software designer to inflict a choice like this on the user simply because the designer couldn't think hard enough to decide which option is really better. Design is the art of making choices._
 
@@ -85,7 +85,7 @@ Ex: Trash can. You need to make choices on its dimensions: heavy enough to not b
 
 Remember that if you accidentally reconfigure something, you most probably can't reconfigure it back. And most people reinstall if they do not understand what the heck just happened.
 
-__Each time you provide an option, you're asking the user to make a decision.__ That means they will have to think about something and decide about it. It's not necessarily a bad thing, but, in general, you should always try to minimize the number of decisions that people have to make.
+*Each time you provide an option, you're asking the user to make a decision.* That means they will have to think about something and decide about it. It's not necessarily a bad thing, but, in general, you should always try to minimize the number of decisions that people have to make.
 
 And there's another category of choice that people like: the ability to change the visual look of things, without really changing the behavior. Everybody loves WinAmp skins; everybody sets their desktop background to a picture. Since the choice affects the visual look without affecting the way anything functions, and since users are completely free to ignore the choice and get their work done anyway, this is a good use of options.
 
@@ -144,7 +144,7 @@ The upshot of all this is that you probably have no choice but to design your so
 
 A great example of this is Intuit's immensely popular small-business accounting program QuickBooks. Many of the people who use this program are small business owners who simply have no idea what's involved in accounting. The manual for QuickBooks assumes this and assumes that it will have to teach people basic accounting principles. There's no other way to do it. Still, if you do know accounting, QuickBooks is easy to use without the manual.
 
-__In fact, users don't read anything.__
+*In fact, users don't read anything.*
 
 This may sound a little harsh, but you'll see, when you do usability tests, that there are quite a few users who simply do not read words that you put on the screen. If you pop up an error box of any sort, they simply will not read it. This may be disconcerting to you as a programmer, because you imagine yourself as conducting a dialog with the user. Hey, user! You can't open that file, we don't support that file format! Still, experience shows that the more words you put on that dialog box, the fewer people will actually read it.
 
@@ -174,7 +174,7 @@ Based on this principle, Tog has a pop quiz: what are the five spots on the scre
 
 The principle of the mile-high menu bar is fairly well known, but it must not be entirely obvious, because the Windows 95 team missed the point completely with the Start push button, sitting almost in the bottom left corner of the screen, but not exactly. In fact, it's about 2 pixels away from the bottom and 2 pixels from the left of the screen. So, for the sake of a couple of pixels, Microsoft literally "snatches defeat from the jaws of victory", Tog writes, and makes it that much harder to acquire the start button. It could have been a mile square, absolutely trivial to hit with the mouse. For the sake of something, I don't know what, it's not. God help us.
 
-__Users can't control the mouse very well.__
+*Users can't control the mouse very well.*
 
 I don't mean this literally. What I mean is, you should design your program so that it does not require a tremendous amount of mouse-agility to use it right. Top six reasons:
 

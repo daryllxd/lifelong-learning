@@ -9,7 +9,7 @@
 
 We know that planet Earth has been struck by large pieces of rock in its past. Astroid and comet impacts that have done devastating things to life on the surface of the earth. In order to understand the past history of life on Earth, we have to understand its connection with the cosmic environment. What sort of rocks might come from outer space and threaten life on the Earth? 
 
-__In a few billion years from now, our Sun will come to the end of its life.__ And, at that point, our own planet will be completely destroyed and all life on it will be extinguished. That's not for a long time to come. But we do know that, in order to understand the future of life on a planet, its long term future, we must think about the connection of a planet, again, with its cosmic environment, how it connects with the history of its parent star and how long that star lives, and therefore, how long you can expect life to survive on a planet. So in order to understand life on Earth, we have to understand the past history of life and its connection with the cosmic environment. And we have to understand the future of life on earth and its connection with the cosmic environment. In other words, an understanding of life on earth is really about studying astrobiology, the connection of life with its astronomical or cosmic environment. 
+*In a few billion years from now, our Sun will come to the end of its life.* And, at that point, our own planet will be completely destroyed and all life on it will be extinguished. That's not for a long time to come. But we do know that, in order to understand the future of life on a planet, its long term future, we must think about the connection of a planet, again, with its cosmic environment, how it connects with the history of its parent star and how long that star lives, and therefore, how long you can expect life to survive on a planet. So in order to understand life on Earth, we have to understand the past history of life and its connection with the cosmic environment. And we have to understand the future of life on earth and its connection with the cosmic environment. In other words, an understanding of life on earth is really about studying astrobiology, the connection of life with its astronomical or cosmic environment. 
 
 #### Stuff we are concerned with
 - We want to know how life came onto this planet and what are the limits for life, what extremes.
@@ -31,7 +31,7 @@ __In a few billion years from now, our Sun will come to the end of its life.__ A
 - Urey and Miller experiment: Organic compounds + electricity = amino acids.
 - 1970s: The Arecibo Dish in Puerto Rico sent out signals in Binary code the included a diagram of DNA, a map of the solar system, the numbers 1 to 10.
 
-Optimism about astrobiology in particular intelligent life still grips the human imagination and __we have to be very careful to separate what our imagination wants us to believe and what the data, what the knowledge that we have from telescope and missions, is really telling us.__
+Optimism about astrobiology in particular intelligent life still grips the human imagination and *we have to be very careful to separate what our imagination wants us to believe and what the data, what the knowledge that we have from telescope and missions, is really telling us.*
 
 #### Possible Life?
 -Mars had flowing water over 3B years ago.
@@ -94,9 +94,9 @@ Life: CHeNOPS.
 ## 4 - 1 - 2.1 Origins of Life_ Building Blocks - [11_28]
 
 #### How did the building blocks came to be?
-- __Supernatural or divine intervention.__ This doesn't explain how the building blocks of life were created and how they were assembled. 
-- __It originated elsewhere.__ The problem is that if life came from another planet, then that planet would be conducive for life, too. Hard to prove.
-- __Life originated on the Earth.__ 
+- *Supernatural or divine intervention.* This doesn't explain how the building blocks of life were created and how they were assembled. 
+- *It originated elsewhere.* The problem is that if life came from another planet, then that planet would be conducive for life, too. Hard to prove.
+- *Life originated on the Earth.* 
 
 Amino acids are everywhere in the universe. We find them in meteorites that land on the surface of the Earth. It turns out that these meteorites also contain amino acids that are not used by biology. It seems that life has selected a subset of the available amino acids to be found in the extraterrestrial environment.
 
@@ -118,13 +118,13 @@ Where did these early reactions occur?
 - An environment that's conducive to these complex molecules and their assembly once they've been made.
 
 #### Possible Locations?
-- __Deep sea vents.__ Energy comes from hot fluids/crust.
-- __Craters.__ There were more asteroid and comet impacts onto the early Earth than today. When they hit, they heat up rocks (source of energy), heat up water (environment), and the crater itself might be the pond of shit. Then the crater cools down yay.
-- __Beaches.__ Tides cause water/stuff to concentrate.
-- __Volcanic hot springs.__ Energy comes from crust, chemicals collect in the hot springs.
-- __Bubbles.__ When a volcano erupts under the sea, gasses (H, CH4, CO) are enclosed in bubbles.
-- __Outer space.__
-- __Multiple?__
+- *Deep sea vents.* Energy comes from hot fluids/crust.
+- *Craters.* There were more asteroid and comet impacts onto the early Earth than today. When they hit, they heat up rocks (source of energy), heat up water (environment), and the crater itself might be the pond of shit. Then the crater cools down yay.
+- *Beaches.* Tides cause water/stuff to concentrate.
+- *Volcanic hot springs.* Energy comes from crust, chemicals collect in the hot springs.
+- *Bubbles.* When a volcano erupts under the sea, gasses (H, CH4, CO) are enclosed in bubbles.
+- *Outer space.*
+- *Multiple?*
 
 The most primitive microorganisms are the heat lovers. So ancient microbes that love heat might like that but not the next stages of life.
 
@@ -267,7 +267,7 @@ The challenges of living at high pressure are the pressures cause the tight pack
 
 Can microorganisms survive in outer space? Space is characterized by extremes of radiation, freezing temperatures, dessication, and no oxygen. A few years ago, my own laboratory launched rocks into orbit, and these rocks were bolted onto the outside of the International Space Station. And we brought some back to earth a year and a half later to see whether anything had survived in space.
 
-__And we found a single micro organism, a gloeocapsa, which is a type, cyanobacterium, a photosynthetic micro organism that was capable of surviving in the extreme conditions of space for a full year and a half.__ Of course it didn't grow in space, but it did survive. These types of experiments show how outer space is an environment that can even be survived by some microorganisms. Showing how hardy they are and how able they are to resist environmental extremes, if only for a short length of time. 
+*And we found a single micro organism, a gloeocapsa, which is a type, cyanobacterium, a photosynthetic micro organism that was capable of surviving in the extreme conditions of space for a full year and a half.* Of course it didn't grow in space, but it did survive. These types of experiments show how outer space is an environment that can even be survived by some microorganisms. Showing how hardy they are and how able they are to resist environmental extremes, if only for a short length of time. 
 
 Many extremes that we find on the earth don't occur in isolation. I've talked about high and low temperatures, I've talked about salty environments, and highly acidic, and alkaline environments, but in fact in many natural environments there are frequently multiple extremes. Astrobiologists are very interested in polyextremophiles, extremophiles that can tolerate multiple extremes. 
 
@@ -298,7 +298,7 @@ So an obvious question for astrobiologists is, how did this multicellularity ari
 
 From 542 MYA, because of bones & shells etc., easier to browse the fossil record.
 
-__And this period, where we start to start to see these multicellular organisms rapidly increasing in the rock record, is called the Cambrian Explosion.__ Literally because of an explosion, a vast increase in the number of preserved multicellular organisms in that rock record. 
+*And this period, where we start to start to see these multicellular organisms rapidly increasing in the rock record, is called the Cambrian Explosion.* Literally because of an explosion, a vast increase in the number of preserved multicellular organisms in that rock record. 
 
 In the rock record, we notice five mass extinctions. And some people even think our current time, because of the scale of human impact on the biosphere, is a sixth mass extinction.
 
@@ -310,7 +310,7 @@ But we should also remember that mass extinctions have created opportunities for
 
 ## 6 - 3 - 4.3 The Great Oxidation Event - Life Through Time - [12_31]
 
-There have been many changes in the environment of the Earth through time. But there's probably little doubt in saying that one of the most important changes was the rise in oxygen in the Earth's atmosphere. The oxidation of the atmosphere. __Why is this important? Well, oxygen makes possible aerobic respiration.__ Oxygen can be used to essentially burn organic carbon, in a controlled way, of course, in organisms and release great quantities of energy, which can probably allow for the complexities of multicellular organisms. So the rise in oxygen in the Earth's atmosphere had profound implications, as we'll see, for life on our planet. 
+There have been many changes in the environment of the Earth through time. But there's probably little doubt in saying that one of the most important changes was the rise in oxygen in the Earth's atmosphere. The oxidation of the atmosphere. *Why is this important? Well, oxygen makes possible aerobic respiration.* Oxygen can be used to essentially burn organic carbon, in a controlled way, of course, in organisms and release great quantities of energy, which can probably allow for the complexities of multicellular organisms. So the rise in oxygen in the Earth's atmosphere had profound implications, as we'll see, for life on our planet. 
 
 We know from the rock record, and we'll see how this is the case in a while, that the oxygen on the early Earth, the very early Earth, at least 4 billion years ago, was much lower than it is today. Much less than .1% of present atmospheric levels. 
 
@@ -340,7 +340,7 @@ Or we can produce more by photosynthesis. But photosynthesis evolved a long time
 #### Effects 
 - The move from anaerobic to aerobic changed the the oxidation states of elements, like iron and other sorts of elements important in the biosphere. 
 - Organisms used to living in low oxygen level conditions moved to particular environments.
-- Rise of aerobic respiration. __Aerobic respiration is between about 15, 20 times more efficient than many anaerobic metabolisms, many anaerobic ways of making energy.__ 
+- Rise of aerobic respiration. *Aerobic respiration is between about 15, 20 times more efficient than many anaerobic metabolisms, many anaerobic ways of making energy.* 
 - Rise of multicellulars.
 
 #### Proxies/Measuring

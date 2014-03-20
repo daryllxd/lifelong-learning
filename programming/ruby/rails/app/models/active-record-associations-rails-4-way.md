@@ -36,7 +36,7 @@ Automatically add indices for the foreign keys. `add_index :timesheets, :user_id
 
 The `belongs_to` class method expresses a relationship from one AR object to a single associated object for which it has a foreign key attribute.
 
-__A class `belongs_to` another class if it has a foreign key column in its database table.__
+*A class `belongs_to` another class if it has a foreign key column in its database table.*
 
 AR caches the objects. You can reload it via explicitly telling the method `true`.
 
@@ -47,14 +47,14 @@ AR caches the objects. You can reload it via explicitly telling the method `true
 
 #### Options
 
-__class_name__
+*class_name*
 
 If we want to establish another `belongs_to` relationship from the Timesheet class to User, we can add an `approver_id` to the timesheets, and an `authorized_approver` column to the users table via amigration.
 
     belongs_to :approver, class_name: 'User'
     belongs_to :user
 
-__counter_cache__
+*counter_cache*
 
 Use this option to make Rails automatically update a counter field on the associated object with the number of belonging objects.
 
@@ -65,17 +65,17 @@ You get to optimize performance ad teh cost of some extra database storage by us
 
 To use this, set the default value of things to 0 in the database! Otherwise the counter caching won't work.
 
-__dependent: destroy__ and __dependent: delete__
+*dependent: destroy* and *dependent: delete*
 
 This might make sense in a `has_one`/`belongs_to` pairing, but it is unlikely that you want the behavior on a `has_many`/`belongs_to` relationship.
 
-__`foreign_key`: `column_name`__
+*`foreign_key`: `column_name`*
 
 Rails will normally infer the setting from the name of the association by adding `_id` to it.
     
     belongs_to :administrator, foreign_key: 'admin_user_id'
 
-__`inverse_of: name_of_has_asociation`__
+*`inverse_of: name_of_has_asociation`*
 
 Performance optimization.
 
@@ -83,17 +83,17 @@ Performance optimization.
 
 The `has_many` class mehtod is often used without additional options. If Rails can guess the type of class of the relationship from the name of the assoc, no additional config is necc.
 
-__`as: association_name`__
+*`as: association_name`*
 
 Specifies the `belongs_to` association to use on the related class.
 
-__`class_name`__
+*`class_name`*
 
 Specifies, as a string, the name of the class of the association.
 
     has_many :draft_timesheets, -> { where(submitted: false) }, class_name: "Timesheet"
 
-__`primary_key: column_name`__
+*`primary_key: column_name`*
 
 Specifies a surrogate key to use instead of the owning record's primary key, whose value should be used when querying to fill the association collection.
 
@@ -152,7 +152,7 @@ This is needed when we establish a `has_many :through` to a polymorphic `belongs
 
 ## One-to-One Relationships
 
-__`has_one` works like `has_many`, except the db query adds `LIMIT 1`.__
+*`has_one` works like `has_many`, except the db query adds `LIMIT 1`.*
 
     class Avatar < AR:Base
         belongs_to :user
@@ -169,7 +169,7 @@ We have access to `build_avatar`.
     u.build_avatar(url: '/avatars/smiling')
     u.avatar.save
 
-__`has_one` with `has_many`__
+*`has_one` with `has_many`*
 
     class User < AR:Base
         has_many :timesheets

@@ -60,7 +60,7 @@ without depending on costly advertising or aggressive messaging.
 
 3. Variable Reward: Yung "hindi ako sigurado kung makukuha ko to or not" is an insane and extremely powerful tool companies use to hook users. The neurotransmitter dopamine surges when the brain is expecting a reward. The part of the brain associated with judgement and reason is suppressed while the parts associated with wanting and desire is activated. Ex: Slot machines, lotteries, Pinterest (looking for cool stuff to scroll). (Pinterest is like 80% repins.)
 
-4. Investment: User puts something in: data, effort, social capital, or money. This involves inviting friends, stating preferences, building virtual assets, learning to use new features. These are __commitments__ which can be leveraged to make the trigger more exciting.
+4. Investment: User puts something in: data, effort, social capital, or money. This involves inviting friends, stating preferences, building virtual assets, learning to use new features. These are *commitments* which can be leveraged to make the trigger more exciting.
 
 As companies combine their increased connectivity to consumers, with the ability to collect, mine, and process customer data at faster speeds, we are faced with a future where everything becomes potentially more habit-forming.
 
@@ -120,7 +120,7 @@ Triggers: We have a lot. Fear, ice cream, social
 
 The most powerful is emotion, and specifically, negative emotion. Dissatisfied, indecisive, lost, tense, fatigued, inferior, boredom, lonesome, fear, confusion, powerlessness, discouraged. The same with cigarettes, it is physically painful at some point.
 
-__Action: When doing is easier than thinking.__ 
+*Action: When doing is easier than thinking.* 
 
 Fogg's B = m.a.t.
 
@@ -128,7 +128,7 @@ Fogg's B = m.a.t.
 - Motivation = role of marketing.
 - Ability = product design.
 
-__Variable Reward.__
+*Variable Reward.*
 
 Ex: Casino. But in tech, ex: Differing rewards for browsing the site and getting something. We have this innate need to bring order to chaos. Satisfaction is not beneficial. Curiosity is beneficial. Figuring out how things work. That's what we want.
 
@@ -144,13 +144,13 @@ Twitter's scroller is a strong reward mechanism. Boring, boring, boring, cool! I
 
 We can vary: Type (tribe/hunt/self), frequency, or amplitude (reward or punishment).
 
-__Commitment.__
+*Commitment.*
 
 We need a reward first before we ask for a commitment with either time, money, social capital or data. The commitments make the next action more likely.
 
 Little commitments, big results. A small commitment keeps you in track already. Commitments are about consistency of self-image. We hate people who change their minds! Being inconsistent causes cognitive dissonance. In product design, doing simple behaviors that get the people to commit increases the commitment of a user.
 
-__Farmville.__
+*Farmville.*
 
 - Trigger: FB Feed.
 - Action: Play
@@ -159,14 +159,14 @@ __Farmville.__
 
 Farmville triggers you when you're bored... you're lonesome... and your anxiety with loss aversion ("your farm will die"). And they sell the painkiller.
 
-__Email.__
+*Email.*
 
 - Icon on phone.
 - Open unreade message.
 - Tribe/hunt/self.
 - Write back. Every time you use email, you commit to the system because you want to respond back.
 
-__How to Use a Desire Engine.__
+*How to Use a Desire Engine.*
 
 - Think of what the INTERNAL TRIGGER will be. What pre-existing habit are you attending to?
 - Confirm the EXTERNAL TRIGGER touches the user has had in the existing habit. Ensure user understand what it's for.
@@ -206,10 +206,10 @@ Bringing awareness to urge, 10-minute rule: "I can eat anything I want, as long 
 
 Types
 
-- "I want to do", low self-control requried: __Amateur__.
-- "I want to do", high self-control required: __Skillful__.
-- "I don't want to do", low self-control required: __Habitual__.
-- "I don't want to do", high self-contro requried: __Addictive__.
+- "I want to do", low self-control requried: *Amateur*.
+- "I want to do", high self-control required: *Skillful*.
+- "I don't want to do", low self-control required: *Habitual*.
+- "I don't want to do", high self-contro requried: *Addictive*.
 
 Addictive: Self-destructive, binary (you are either clean or sober), and they are very hard to resist. To stop addictive behaviors: Total abstinence and root cause analysis.
 

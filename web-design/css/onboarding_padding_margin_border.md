@@ -18,7 +18,7 @@ Shorthand: width || style || color
 
 The `margin` property defines the outermost portion of the box model, creating space around an element, outside of any defined borders.
 
-__To center something, you have to specify a `width` and set the left and right margins to `auto`.__
+*To center something, you have to specify a `width` and set the left and right margins to `auto`.*
 
 Centering Stuff
 * You know the size of the parent

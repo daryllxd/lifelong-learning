@@ -107,7 +107,7 @@ With characterization tests, the aim is just to understand what the system curre
 
 #### Navigating, Filling in Fields, and Clicking Buttons
 
-We decided to write our steps in a declarative style. `When I search for "I am"` is a great example of a declarative step. __What widgets the user interacts with will be nicely hidden inside a single step definition.__ This makes our Gherkin much simpler and expressive, but it also makes our scenarios much easier to maintain.
+We decided to write our steps in a declarative style. `When I search for "I am"` is a great example of a declarative step. *What widgets the user interacts with will be nicely hidden inside a single step definition.* This makes our Gherkin much simpler and expressive, but it also makes our scenarios much easier to maintain.
 
 > features/step_definitions/search_steps.rb
 

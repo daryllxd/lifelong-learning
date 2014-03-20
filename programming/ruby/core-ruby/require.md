@@ -1,12 +1,12 @@
 ## [What is the difference between include and require in Ruby?](http://stackoverflow.com/questions/318144/what-is-the-difference-between-include-and-require-in-ruby)
 
-__Require: Copy and paste the file. A file thing. It doesn't let you require the same file twice. Use to import libraries.__
+*Require: Copy and paste the file. A file thing. It doesn't let you require the same file twice. Use to import libraries.*
 
-__Load: Use this to execute code.__
+*Load: Use this to execute code.*
 
-__Include: Takes all the methods from another module and includes them into the current module. A language thing. Use this to "extend classes" with other modules (mixins).__
+*Include: Takes all the methods from another module and includes them into the current module. A language thing. Use this to "extend classes" with other modules (mixins).*
 
-__Extend: You're bringing in the module's methods as _class_ methods.__
+*Extend: You're bringing in the module's methods as _class_ methods.*
 
 	module A
 	   def say

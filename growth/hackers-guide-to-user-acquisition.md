@@ -11,16 +11,16 @@
 - Twitter lets you interact with all of those people.
 
 #### Tipzorz
-- __Auto-favoriting and retweeting (the crappy way).__ This really works.
-- __Selective following (the mediocre way).__ Twitter lets accounts with less than 2,000 followers follow up to 2,000 people. Those with over 2,000 can follow 1,000 people per day (so long as the number of people you follow isn’t more than 110% of the number of your followers). In other words, you can, by brute force, get a split second of attention from up to 1,000 Twitter accounts daily. It’s not pretty, but it works
-- __Manual Following.__ This sucks but you have to do it at the start. If you're looking to make iPhone screen protectors, follow the followers of @zaggdaily because their followers probably like iPhone screen protectors. Better: Search for "need screen protector".
+- *Auto-favoriting and retweeting (the crappy way).* This really works.
+- *Selective following (the mediocre way).* Twitter lets accounts with less than 2,000 followers follow up to 2,000 people. Those with over 2,000 can follow 1,000 people per day (so long as the number of people you follow isn’t more than 110% of the number of your followers). In other words, you can, by brute force, get a split second of attention from up to 1,000 Twitter accounts daily. It’s not pretty, but it works
+- *Manual Following.* This sucks but you have to do it at the start. If you're looking to make iPhone screen protectors, follow the followers of @zaggdaily because their followers probably like iPhone screen protectors. Better: Search for "need screen protector".
 
     These people are thinking of buying screen protectors RIGHT NOW.
 
     We can, in the course of 5 minutes: Follow people, watch them flow through to our landing page (the link on our Twitter profile), and track signups. If we don’t get 50 signups a day from Twitter alone, something is wrong.
 
-- __Semi-manual following.__ TweetAdder. So if I’m looking for press, I can search ‘+technology +journalist,’  or ‘+tech +journalist’ and follow from my personal Twitter profile (that has a bio to emphasize the fact that I lived in a car to get a startup off the ground).  Spoiler alert: this, as well as some other press-hacking, got us in a half dozen major publications, and, in my opinion, deservedly so.
-- __Interaction (Do this!)__ Use TweetAdder, TweetDeck. The conversion: Twitter Cards. Twitter Cards are an easy way to allow a Twitter user to perform an action without actually leaving the Twitter interface. With one click they can even create accounts on your system with one click. Or they can join an email list.
+- *Semi-manual following.* TweetAdder. So if I’m looking for press, I can search ‘+technology +journalist,’  or ‘+tech +journalist’ and follow from my personal Twitter profile (that has a bio to emphasize the fact that I lived in a car to get a startup off the ground).  Spoiler alert: this, as well as some other press-hacking, got us in a half dozen major publications, and, in my opinion, deservedly so.
+- *Interaction (Do this!)* Use TweetAdder, TweetDeck. The conversion: Twitter Cards. Twitter Cards are an easy way to allow a Twitter user to perform an action without actually leaving the Twitter interface. With one click they can even create accounts on your system with one click. Or they can join an email list.
   
   Earlier I recommended tweeting “#SEO #social #socialmediamarketing #SEM #socialmedia SEO social media marketing.” I could hypothetically respond to everyone that tweets that particular tweet and give them a Twitter card to sign up for future chapters of The Hacker’s Guide to User Aquisition. Or I could just follow them, favorite the tweet, and have a cool new way to know who is actually reading what I write. I’m not doing anything with it yet, but you should.
 
@@ -28,15 +28,15 @@
 
 Press brings in traffic, users/customers, social validation, legitimacy.
 
-Getting press seems reasonably simple, but you have to scale it. __Even the crappiest companies should get a half dozen or so mentions in the press when doing so.__
+Getting press seems reasonably simple, but you have to scale it. *Even the crappiest companies should get a half dozen or so mentions in the press when doing so.*
 
 #### Overall Strategy and Approach
 
-__Customer Profiling:__ We are selling to the reporter, and what we're selling is that we're legitimate and interesting enough that their audience will want to hear about us.
+*Customer Profiling:* We are selling to the reporter, and what we're selling is that we're legitimate and interesting enough that their audience will want to hear about us.
 
 Reporters have social proof too. So what we want is to start with personal tech blogs, "trying to make it" blogs. Then mid-tier, then industry-specific, then the big boys.
 
-__List Building:__ Blogs that are “vaguely related” and reporters who write about things “kind of like” your company will not write about you. If I make iPad cases, a blog that writes about iPad apps isn’t even worth approaching. 
+*List Building:* Blogs that are “vaguely related” and reporters who write about things “kind of like” your company will not write about you. If I make iPad cases, a blog that writes about iPad apps isn’t even worth approaching. 
 
 Use the [Scraper Chrome Extension](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd?hl=en), go to the blog ranking website (Alltop), export to Google Docs. Then go to BlogRank.
 
@@ -44,7 +44,7 @@ Basically scrape the top blog URLs in the categories and industries that would b
 
 #### Create Your Angle
 
-News isn’t worthy of publishing just because it exists. Part of the job of any journalist or reporter is curation — deciding what is worthy of being published in their publication, whether that be a blog or the New York Times. __Your job as someone looking for press is to show them how you meet their standards and/or would be interesting to their audience.__
+News isn’t worthy of publishing just because it exists. Part of the job of any journalist or reporter is curation — deciding what is worthy of being published in their publication, whether that be a blog or the New York Times. *Your job as someone looking for press is to show them how you meet their standards and/or would be interesting to their audience.*
 
 Is it timely? Is it relevant? Is it interesting? Why would someone like you be interested in reading this?
 
@@ -52,9 +52,9 @@ Again, we’ll take my startup, Grasswire, for example. Grasswire is an Internet
 
 But what grasswire is is democratization of journalism and information. It’s turning over the power of governments and corporations to everyday people. It’s letting ordinary people control the information that determines how they see the world.
 
-__Not many people want to read about yet another social media tool. People love to read about freedom.__
+*Not many people want to read about yet another social media tool. People love to read about freedom.*
 
-__So in the initial pitch we won’t go deep into detail about how the technology works, what APIs we pull from, why the UI/UX look like they do, etc. We talk about the story of grasswire. What we’re doing, why we’re doing it, and why it needs to be done. Reporters don’t like products very often, but they always love missions.__
+*So in the initial pitch we won’t go deep into detail about how the technology works, what APIs we pull from, why the UI/UX look like they do, etc. We talk about the story of grasswire. What we’re doing, why we’re doing it, and why it needs to be done. Reporters don’t like products very often, but they always love missions.*
 
 Grasswire also had the benefit of the angle that I lived in my car for three months to get it off the ground; that’s interesting to anyone, if only to understand how I lived in a car, where I slept, where I showered, etc. That also goes in the arsenal, and should be mentioned when we’re sending our email, and kept in mind as we develop our press kit, which it is now time to do.
 
@@ -94,10 +94,10 @@ For Grasswire we included a tagline, a one-sentence description, three “how it
 
 > Underwater Audio iPods and bundles are available at UnderwaterAudio.com starting at $149.
 
-- __Founder Photos:__ Interesting shots.
-- __Logos__
-- __Press Mentions__
-- __Product Screenshots__
+- *Founder Photos:* Interesting shots.
+- *Logos*
+- *Press Mentions*
+- *Product Screenshots*
 
 #### The Email
 

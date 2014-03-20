@@ -789,7 +789,7 @@ o	Competence - we want to compete vs others, courses are curved
 o	Everyone has dependent SE, give yourself the permission to know that you care about what other people think
 * Independent SE - based on yourself
 o	Worthiness - self-declaring, what do I care about and what am I passionate about
-o	Competence - am I a better ____ today than before? am I improving and am I better?
+o	Competence - am I a better ** today than before? am I improving and am I better?
 o	To get cultivating the independent SE, you have to get the dependent SE first
 You're happy to see people in movies be happy. Why can't we do the same for real people?
 If we're unable to have independent SE, we can't have unconditional SE for ourselves

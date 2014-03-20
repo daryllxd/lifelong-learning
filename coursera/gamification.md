@@ -35,18 +35,18 @@ Gamification is harder than it appears! We can't just add challenges and shit.
  
 ## 1.6 – Examples and Gamification
 
-__External (marketing, sales, customer engagement)__: Club psych - avatars, rewards, leadership, badges, leaderboards, challenges.
+*External (marketing, sales, customer engagement)*: Club psych - avatars, rewards, leadership, badges, leaderboards, challenges.
 
 Traffic +30%, Online merchandise +50%, Pageviews increased 130%, Psych content shared 300K, 40M users.
 
-__Internal (HR, productivity enhancement, crowdsourcing)__:
+*Internal (HR, productivity enhancement, crowdsourcing)*:
 
 - Crowdsourcing - internal because is in a community (not necessarily inside a company)
 - Bug finding/languages in Microsoft: Different MS offices fought each other to have the best language framework - leaderboard etc.
 
 4500 participants, Reviewed over 500k dialog boxes (!), 6700 bugs, Hundreds of significant fixes.
 
-__Behavior change (health/wellness, sustainability, personal finance)__:
+*Behavior change (health/wellness, sustainability, personal finance)*:
 
 - "I know I should go to the gym, but it's hard"
 - Police speeding: speed monitor devices which give feedback on their speed causes people to react (even if there are not policemen)
@@ -56,12 +56,12 @@ __Behavior change (health/wellness, sustainability, personal finance)__:
 
 #### Gamification is not
 
-- __Not turning everything into a game.__ It is actually the opposite, we want to make normal things better and enhance those experiences for motivation
-- __Not the games in work  in the workplace.__ Windows Solitaire - 9 billion hours used in 2003 (lol)
-- __Not using games in business.__ McDonald's monopoly game, etc, not about changing the experience in McDonalds but its about using a game to make people feel like they're more willing to go to the store.
-- __Not simulations such as surgery simulators.__
-- __Not limited to marketing stuff.__
-- __Not Game theory (this is used for strategic decision making).__
+- *Not turning everything into a game.* It is actually the opposite, we want to make normal things better and enhance those experiences for motivation
+- *Not the games in work  in the workplace.* Windows Solitaire - 9 billion hours used in 2003 (lol)
+- *Not using games in business.* McDonald's monopoly game, etc, not about changing the experience in McDonalds but its about using a game to make people feel like they're more willing to go to the store.
+- *Not simulations such as surgery simulators.*
+- *Not limited to marketing stuff.*
+- *Not Game theory (this is used for strategic decision making).*
 
 #### Gamification is:
 
@@ -127,7 +127,7 @@ CityVille: 0 to 100 million users in 41 days.
 
 All in allm $66 billion worldwide in 2011.
 
-Online sales to surpass retail in 2013 (biggest market: __China__).
+Online sales to surpass retail in 2013 (biggest market: *China*).
 
 Virtual goods: $7.3 billion globally ($2 billion US).
 
@@ -225,9 +225,9 @@ Even if a designer created the game, the players think that it is about them.
 
 The player journey: onboarding, scaffolding, pathways to mastery.
 
-- __Onboarding:__ Get the player as quickly into the game as possible
-- __Scaffolding:__ Support structure.
-- __Pathways to mastery:__ Player has achieved some real accompishment, this is very important!
+- *Onboarding:* Get the player as quickly into the game as possible
+- *Scaffolding:* Support structure.
+- *Pathways to mastery:* Player has achieved some real accompishment, this is very important!
 
 #### Case Study for Onboarding: Plant vs Zombies
 
@@ -276,10 +276,10 @@ What things are fun?
 
 #### Nicole Lazzaro's 4 keys
 
-- __Easy fun:__ Not stressing stuff. It's fun because it's easy.
-- __Hard fun:__ Challenges, mastery, completion of obstacles. Fun represents accomplishment and overcoming something.
-- __People fun:__ Interacting with others and working in a team.	
-- __Serious fun:__ Real mission objectives and are meaningful. There's fun in doing things that are meaningful for you. Badges, etc are meaningful for you (although not for others).
+- *Easy fun:* Not stressing stuff. It's fun because it's easy.
+- *Hard fun:* Challenges, mastery, completion of obstacles. Fun represents accomplishment and overcoming something.
+- *People fun:* Interacting with others and working in a team.	
+- *Serious fun:* Real mission objectives and are meaningful. There's fun in doing things that are meaningful for you. Badges, etc are meaningful for you (although not for others).
 
 These are not exclusive to themselves.
 
@@ -442,7 +442,7 @@ Take these into consideration:
 
 People born after 1971 tend to see life as a game and see interfaces etc of the rules. So if we want to cater to this market we have to understand gamification. A lot of gamification stuff is based on motivation etc.
 
-One of the main principles in Gamification is __Instant Feedback__. We want this normally but we don't get it. Games are very powerful here.
+One of the main principles in Gamification is *Instant Feedback*. We want this normally but we don't get it. Games are very powerful here.
 
 To get good, read blogs on thinking and of interaction designers, and play a great game because the things working in the best games are the best principles.
 

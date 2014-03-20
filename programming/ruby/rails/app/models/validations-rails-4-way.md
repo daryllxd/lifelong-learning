@@ -49,7 +49,7 @@ UI would need to include extra text fields marked with a `confirmation` suffix.
     validates_uniqueness_of :username
     validates_uniqueness_of :line_two, scope: [:line_one, :city, :zip]
 
-__This is no foolproof due to a potential race condition between the SELECT query that checks for duplicates and the `INSERT` or `UPDATE` which persists the record. An AR exception could be handled as a result. To fix, use a unique index constraint in the database.__
+*This is no foolproof due to a potential race condition between the SELECT query that checks for duplicates and the `INSERT` or `UPDATE` which persists the record. An AR exception could be handled as a result. To fix, use a unique index constraint in the database.*
 
 Constraint on lookup
 

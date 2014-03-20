@@ -198,7 +198,7 @@ The same with shops, we realzie that shops added to item results wouldn’t work
 
 Experiment with minimal versions of your idea, plan on being wrong (don’t be surprised if you’re wrong a lot).
 
-__Users hate opening things up in new tabs (unlike developers).__
+*Users hate opening things up in new tabs (unlike developers).*
 
 Infinite scroll, users bought less from searching.
 
@@ -363,9 +363,9 @@ Contagious
 
 ## Nir Eyal
 
-__The buckets of metrics are: Growth, engagement, revenue.__ All are necessary but not sufficient.
+*The buckets of metrics are: Growth, engagement, revenue.* All are necessary but not sufficient.
 
-I see virality and engagement axes. __Viral without engagement sucks.__ There are plenty of businesses that are not viral but are engaging. The once in a decade companies do both.
+I see virality and engagement axes. *Viral without engagement sucks.* There are plenty of businesses that are not viral but are engaging. The once in a decade companies do both.
 
 Growth hacks are easily discoverable. There aren't that many secrets, but pretty soon everyone jumps on it because it closes up because the channel owner clamps down. Whereas engagement is different. There are secrets that you can get with engagement that your competition CANNOT COPY, because you understand your user.
 

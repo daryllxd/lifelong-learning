@@ -2,16 +2,16 @@
 
 “30 Things to Stop Doing to Yourself”. Why did this post go so viral?, is what I asked Marc and Angel. We discussed a lot of different things they learnt from writing it and hundreds of other articles over the past 7 years.
 
-1. __The science of persuasion: Nailing the fear of “missing out”.__ In my chat with Marc and Angel, one key thing they mentioned to me is that they wrote two posts. One was titled “30 Things to Start Doing for Yourself” and “30 Things to Stop Doing to Yourself”. Interestingly, the second one, using a negative “stop” or “avoid”, “don’t” and similar in other posts always performed better.
+1. *The science of persuasion: Nailing the fear of “missing out”.* In my chat with Marc and Angel, one key thing they mentioned to me is that they wrote two posts. One was titled “30 Things to Start Doing for Yourself” and “30 Things to Stop Doing to Yourself”. Interestingly, the second one, using a negative “stop” or “avoid”, “don’t” and similar in other posts always performed better.
 	
 	If you are writing something that’s unique and people might have a feeling of otherwise missing out on, then this is a fantastic trigger to get people interested in your content.
 
-2. __We only read 20% of web pages – make your content easy to skim read.__ we all love bite-sized information on the web. Now, a list article is the perfect format for this. A post that gives you “30 Things” is very powerful. On the one hand, you know that you can just pick out a few of the 30 things, so it is easy to skim. On the other, if all of those individual 30 points are very interesting and useful, just reading one of the 30, can be all it takes to share it with a friend.
+2. *We only read 20% of web pages – make your content easy to skim read.* we all love bite-sized information on the web. Now, a list article is the perfect format for this. A post that gives you “30 Things” is very powerful. On the one hand, you know that you can just pick out a few of the 30 things, so it is easy to skim. On the other, if all of those individual 30 points are very interesting and useful, just reading one of the 30, can be all it takes to share it with a friend.
 
-3. __We all want to learn something and get smarter – it’s science!__ Practical utility trumps "interesting" and "surprising" when determining what is most likely to be shared.
-4. __Sharing buttons make content 7 times more likely to spread.__ Prominently feature sharing buttons both before and after each post.
-5. __Length of content and virality go hand in hand.__ Make sure that if you write a “30 things” list post, that your 1st point provides as much value to the reader as your 30th.
-6. __Consistency and Authority – Marc and Angel have been blogging since 2006.__ This strict consistency of writing more than 1000 articles is also deeply routed in our human understanding of how we build trust. The fact that their readers can expect a high quality article every few days, makes all the difference, says science.
+3. *We all want to learn something and get smarter – it’s science!* Practical utility trumps "interesting" and "surprising" when determining what is most likely to be shared.
+4. *Sharing buttons make content 7 times more likely to spread.* Prominently feature sharing buttons both before and after each post.
+5. *Length of content and virality go hand in hand.* Make sure that if you write a “30 things” list post, that your 1st point provides as much value to the reader as your 30th.
+6. *Consistency and Authority – Marc and Angel have been blogging since 2006.* This strict consistency of writing more than 1000 articles is also deeply routed in our human understanding of how we build trust. The fact that their readers can expect a high quality article every few days, makes all the difference, says science.
 
 Especially the comment section is extremely insightful to see what people have taken away from the article.
 
@@ -25,13 +25,13 @@ I don’t have the natural talent of Kobe Bryant or the sheer brilliance of Moza
 
 ## [8 simple scientifically proven ways to improve your writing](http://www.fastcompany.com/3023616/work-smart/8-simple-scientifically-proven-ways-to-improve-your-writing)
 
-1. __Create a curiosity gap.__ The headline needs to be tantalizing enough to get a reader to click through, but mustn’t give away the whole story.
+1. *Create a curiosity gap.* The headline needs to be tantalizing enough to get a reader to click through, but mustn’t give away the whole story.
 
 	Mitt Romney Says Something Bad, Again vs. Mitt Romney Says, “I Want The Middle Class To Be Tied To The Roof Of My Car.” vs. You Will Not Believe What Mitt Wants To Do To You
 
-2. __Use numbers: our brains can understand it more easily.__ "X Simple Things You Can Do Today That Will Make You Happier, Backed By Science." Better to use digits and specific facts rather than broad statements.
+2. *Use numbers: our brains can understand it more easily.* "X Simple Things You Can Do Today That Will Make You Happier, Backed By Science." Better to use digits and specific facts rather than broad statements.
 
-3. __Choose the right words.__ The most popular blog posts had these words in their titles: 
+3. *Choose the right words.* The most popular blog posts had these words in their titles: 
 
 	- Smart
 	- Surprising
@@ -64,21 +64,21 @@ I don’t have the natural talent of Kobe Bryant or the sheer brilliance of Moza
 	- check out
 	- new blog post
 
-4. __Make it scarce.__ Using negative, dark, and aggressive words in titles lead to more shares.  Including the words no, without, and stop lead to more shares that more positively framed titles using words like do or start. Another part of this finding was that aggressive or violent-sounding words encouraged more social shares, as well. For instance, words like kill, dead and fear seem to be more shareable.
+4. *Make it scarce.* Using negative, dark, and aggressive words in titles lead to more shares.  Including the words no, without, and stop lead to more shares that more positively framed titles using words like do or start. Another part of this finding was that aggressive or violent-sounding words encouraged more social shares, as well. For instance, words like kill, dead and fear seem to be more shareable.
 
 	"Oracle makes more moves to kill open source mySQL and Oracle is bleeding at the hands of DataBase rivals" vs. "For Oracle it’s about the machine, not the fantasy of a new world"
 
 	If we want to make things happier though, we can reframe things to have a negative, but make it happier. "10 Things To Stop Doing Today to Be Happier, Backed by Science"
 
-5. __Don't expect announcements to be popular.__ In Takipi’s research of tech blogs, posts including the words "announcing," "wins," "celebrates," or grows usually fell near the bottom of the most-shared list.
+5. *Don't expect announcements to be popular.* In Takipi’s research of tech blogs, posts including the words "announcing," "wins," "celebrates," or grows usually fell near the bottom of the most-shared list.
 
 	When Buffer made it to 1M users, we made it into a story full of pictures and events that happened throughout the Buffer journey. Story-telling is in fact the most powerful way to activate our brains.
 
-6. __Know exactly who reads your posta and tailor your words to them.__ Avoiding jargon or slang, keeping your word choices simple and your sentences short, or avoiding swearing.
+6. *Know exactly who reads your posta and tailor your words to them.* Avoiding jargon or slang, keeping your word choices simple and your sentences short, or avoiding swearing.
 
-7. __Make it surprising.__ Presenting something unexpected--breaking a pattern--will help you to capture attention, according to their research. "8 Surprising New Instagram Statistics to Get the Most out of the Picture Social Network", "The surprising history of Twitter's hashtag and 4 ways to get the most out of them."
+7. *Make it surprising.* Presenting something unexpected--breaking a pattern--will help you to capture attention, according to their research. "8 Surprising New Instagram Statistics to Get the Most out of the Picture Social Network", "The surprising history of Twitter's hashtag and 4 ways to get the most out of them."
 
-8. __Use more verbs and less nouns.__ 
+8. *Use more verbs and less nouns.* 
 
 ## [8 Surprising New Instagram Statistics to Get the Most out of the Picture Social Network](http://blog.bufferapp.com/instagram-stats-instagram-tips)
 
@@ -100,45 +100,45 @@ ver 150 million users on the platform, 16 billion photos shared, and 1 billion l
 
 ## [7 Powerful Facebook statistics you should know for a more engaging Facebook page](http://blog.bufferapp.com/7-facebook-stats-you-should-know-for-a-more-engaging-page)
 
-1. __Photo posts get 39% more interaction.__ Not only do photo posts get more engagement than links, videos or text-based updates, they actually account for 93% of the most engaging posts on Facebook. According to Kissmetrics, photos get 53% more likes, 104% more comments and 84% more click-throughs on links than text-based posts. 
+1. *Photo posts get 39% more interaction.* Not only do photo posts get more engagement than links, videos or text-based updates, they actually account for 93% of the most engaging posts on Facebook. According to Kissmetrics, photos get 53% more likes, 104% more comments and 84% more click-throughs on links than text-based posts. 
 
 	Wishpond’s data says that overall, photo posts get 120% more engagement than the average post, and photo albums actually get 180% more engagement.
 
-2. __Shorter posts get 23% more interaction.__  Keeping your posts below 250 characters can get you 60% more engagement than you might otherwise see. You can even get up to 66% more engagement if you cut it down to less than 80 characters.
+2. *Shorter posts get 23% more interaction.*  Keeping your posts below 250 characters can get you 60% more engagement than you might otherwise see. You can even get up to 66% more engagement if you cut it down to less than 80 characters.
 
-3. __Using emoticons increases comments by 33%.__ According to this AMEX OPEN Forum infographic, emoticons can make a big difference to your engagement rates. No only do posts with emoticons get 33% more comments, they also get shared 33% more often. Even better: they get liked 57% more often than posts without emoticons.
+3. *Using emoticons increases comments by 33%.* According to this AMEX OPEN Forum infographic, emoticons can make a big difference to your engagement rates. No only do posts with emoticons get 33% more comments, they also get shared 33% more often. Even better: they get liked 57% more often than posts without emoticons.
 
-4. __Engagement rates on Thursday and Friday are 18% higher.__ Compared to other days in the week, Buddymedia’s study found that engagement rates for Facebook are 18% higher on Thursdays and Fridays. As they put it, “the less people want to be at work, the more they are on Facebook!”
+4. *Engagement rates on Thursday and Friday are 18% higher.* Compared to other days in the week, Buddymedia’s study found that engagement rates for Facebook are 18% higher on Thursdays and Fridays. As they put it, “the less people want to be at work, the more they are on Facebook!”
 
 	Apparently no industry has users that are engaged on Mondays or Tuesdays! 
 
-5. __Question posts get 100% more comments.__ According to an infographic by Kissmetrics, they get 100% more comments than standard text-based posts. Words in the questions: "should," "would", "which", and "who."
+5. *Question posts get 100% more comments.* According to an infographic by Kissmetrics, they get 100% more comments than standard text-based posts. Words in the questions: "should," "would", "which", and "who."
 
-6. __35% of Facebook Fans like a page so they can participate in contests.__ 35% of Facebook fans liked Facebook pages specifically to compete in contests. caption this photo’-style contests actually bring in 5.5 times more comments than regular posts.
+6. *35% of Facebook Fans like a page so they can participate in contests.* 35% of Facebook fans liked Facebook pages specifically to compete in contests. caption this photo’-style contests actually bring in 5.5 times more comments than regular posts.
 
-7. __42% of Fans like a page to get a coupon or discount.__ 
+7. *42% of Fans like a page to get a coupon or discount.* 
 
 ## [10 Surprising New Twitter Stats to Help You Reach More Followers](http://blog.bufferapp.com/10-new-twitter-stats-twitter-statistics-to-help-you-reach-your-followers)
 
-1. __Twitter engagement for brands is 17% higher on weekends.__ If you’re trying to encourage your followers to engage with you on Twitter but you don’t want to work over the weekend, you could use Buffer to schedule tweets to be sent while you’re having a sleep-in.
+1. *Twitter engagement for brands is 17% higher on weekends.* If you’re trying to encourage your followers to engage with you on Twitter but you don’t want to work over the weekend, you could use Buffer to schedule tweets to be sent while you’re having a sleep-in.
 
-2. __Tweets with image links get 2x the engagement rate of those without.__ 
+2. *Tweets with image links get 2x the engagement rate of those without.* 
 
-3. __Tweets with less than 100 characters get 17% more engagement.__ If you’re posting tweets with links, Dan Zarrella’s research shows that 120–130 characters will be your sweet spot.
+3. *Tweets with less than 100 characters get 17% more engagement.* If you’re posting tweets with links, Dan Zarrella’s research shows that 120–130 characters will be your sweet spot.
 
-4. __Twitter’s fastest growing demographic is 55–64 year-olds.__
+4. *Twitter’s fastest growing demographic is 55–64 year-olds.*
 
-5. __Tweets with hashtags get 2x more engagement.__ 1 or 2 will get you 21% more engagement than if you add 3 or more. 
+5. *Tweets with hashtags get 2x more engagement.* 1 or 2 will get you 21% more engagement than if you add 3 or more. 
 
-6. __66% of user-generated tweets that mention brands come from mobile users.__ Make sure you link to mobile-friendly sites.
+6. *66% of user-generated tweets that mention brands come from mobile users.* Make sure you link to mobile-friendly sites.
 
-7. __Twitter users who mostly use a mobile device are 181% more likely to be on Twitter during their commute.__ Peak at 1PM, 9PM.
+7. *Twitter users who mostly use a mobile device are 181% more likely to be on Twitter during their commute.* Peak at 1PM, 9PM.
 
-8. __Amplifiers are 122% more likely to send direct messages.__ Amplifiers—that is, users who are more likely to retweet than others, thus amplifying content—are more likely to send direct messages as well.
+8. *Amplifiers are 122% more likely to send direct messages.* Amplifiers—that is, users who are more likely to retweet than others, thus amplifying content—are more likely to send direct messages as well.
 
-9. __Your tweets have a 12x higher chance of being retweeted if you ask for it, and 23x higher if you actually spell out the word “retweet”.__ 
+9. *Your tweets have a 12x higher chance of being retweeted if you ask for it, and 23x higher if you actually spell out the word “retweet”.* 
 
-10. __Tweets that include links are 86% more likely to be retweeted.__ Links, however, are more likely to increase your number of retweets than engagement rate.
+10. *Tweets that include links are 86% more likely to be retweeted.* Links, however, are more likely to increase your number of retweets than engagement rate.
 
 ## [A scientific guide to posting Tweets, Facebook posts, Emails and Blog posts at the best time](http://blog.bufferapp.com/best-time-to-tweet-post-to-facebook-send-emails-publish-blogposts)
 

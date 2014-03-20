@@ -16,7 +16,7 @@ Purple Dot Behaviors can stretch people. And by pushing limits people can get in
 
 Holidays encourage Purple Dot behaviors. X-mas: People are more charitable. Valentine's: People are more expressive of love. Thanksgiving, we emphasize our gratitude. These holidays all help us learn to perform the extreme behaviors. That's a good thing, it carries over to the other days of the year.
 
-Purple Dot can be done for charity: "Race for a Cure", "AIDS Walk", "Walkathons/Telethons". __To achieve a Purple Dot, increase one of ability, motivation, or trigger.__
+Purple Dot can be done for charity: "Race for a Cure", "AIDS Walk", "Walkathons/Telethons". *To achieve a Purple Dot, increase one of ability, motivation, or trigger.*
 
 ## PurpleSpan Behaviors: You want to increase the intensity or duration of a behavior not forever but for a period of time.
 

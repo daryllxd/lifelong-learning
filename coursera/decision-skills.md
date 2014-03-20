@@ -14,7 +14,7 @@ An extrovert would want to talk with someone about a problem. An introvert would
 
 Don't make a decision when you are: Hungry, angry, lonely, tired.
 
-__Habitual frame trap:__ When we approach all problems or decisions in the same way. Some decisions are analytical, some are feeling, but most are both.
+*Habitual frame trap:* When we approach all problems or decisions in the same way. Some decisions are analytical, some are feeling, but most are both.
 
 Not all decisions are worth stressing out. Just think of the different possible outcomes of a decision.
 
@@ -24,7 +24,7 @@ Not all decisions are worth stressing out. Just think of the different possible 
 - I: Impact on me? Others?
 - P: Permanent or reversible?
 
-__Decisions are only as good as your best alternative.__
+*Decisions are only as good as your best alternative.*
 
 Everyone is creative, but not everyone was taught to systematically improve their creative process. So they reject stuff with "it will never work" and "we already tried that." Reframe stuff, too. "What do I do if I had a ton of money, or no money. What Would I do if I need to decide tomorrow, or one year from now." 
 
@@ -35,7 +35,7 @@ Everyone is creative, but not everyone was taught to systematically improve thei
 
 #### On Truth
 
-Doctors say it's best to just tell the truth. People know if they are not doing well anyway. __Deciding to tell the truth is one thing, but determining what "the truth" is also important.__ We can say "people in your situation live x months or years, and we aren't sure what influences this."
+Doctors say it's best to just tell the truth. People know if they are not doing well anyway. *Deciding to tell the truth is one thing, but determining what "the truth" is also important.* We can say "people in your situation live x months or years, and we aren't sure what influences this."
 
 If you have things in your communication that are not accurate, then you lose the opportunity to deepen the conversation. Why would you want people in your life that are likely false people? 
 
@@ -43,9 +43,9 @@ It's like training wheels on bicycles. You'll never learn how to ride a bike if 
 
 "My ethics is determined by what I do." (Action-based ethics) or "My ethics is determined by the results of what I do." (Consequence-based ethics) Decision skills are leaning to the consequence-based. It's not preferences, but it's about you.
 
-__Buddha story: "Can you cut that tree's branch off?" Murderer did. "Can you put it back on?" The murderer became enlightened.__
+*Buddha story: "Can you cut that tree's branch off?" Murderer did. "Can you put it back on?" The murderer became enlightened.*
 
-Ex: In a decent college, the idea of bribing a teacher to get a higher grade was unthinkable. __When we make things unthinkable, that's when we are transcendent.__ The unexamined life is not worth doing. If you don't examine what you do, when you look back on the past you'll feel bad.
+Ex: In a decent college, the idea of bribing a teacher to get a higher grade was unthinkable. *When we make things unthinkable, that's when we are transcendent.* The unexamined life is not worth doing. If you don't examine what you do, when you look back on the past you'll feel bad.
 
 Weight table/pros & cons list. Weight of stuff puts numbers on the values so it gives you clarities.
 
@@ -59,11 +59,11 @@ If the decision becomes "something doesn't feel like", you need to think of some
 
 Grit has more correlation to success than intelligence. With that being said it is helpful to plan for flexibility. So choose a strategy that allows for change.
 
-__SMART: Specific, measurable, achieveable, recordable, timely.__
+*SMART: Specific, measurable, achieveable, recordable, timely.*
 
 Recordable: Tell people what you are working on. You reinforce your own commitment when you talk with others. Specific and measurable: You should be able to see it happen. Achievable: Connected to motivation, flow. Focus on something you can control or influence but prepare for uncertainties.
 
-__A decision is just a choice unless it is followed by an action.__
+*A decision is just a choice unless it is followed by an action.*
 
 1. Communicate: If you're serious in doing things, why not write it down?
 2. Get help: Ask a friend to text you every week to see if you're practicing. It's better if you have someone who is interested in your progress. Get a coach if you have to.
@@ -114,7 +114,7 @@ What makes a good decison?
 
 You need all of the six. Figure out if you have done the best for all part of the change. We have a good decision when all links are strong. That's using foresight, not hindsight.
 
-__A decision is only strongest as the longest link.__
+*A decision is only strongest as the longest link.*
 
 ## Himalayan Decision Tree
 
@@ -146,15 +146,15 @@ Choosing between the head and heart. Everybody's decision style is influenced by
 
 What a "decision" is differs for most people. Some people think they make tons of decisions, they qualify eating breakfast as a decision. But habits are different from decisions. They might be decisions before, but they are habits now. We don't decide to brush our teeth. These are habits and it isn't helpful to think of them as decisions.
 
-Decisions are things that have control. They are important. When you realize that something is important to write about, then you can write them a letter. She didn't get mad at them, she just told them what could be done, and they moved on. This is an example of where feelings and dealing with them are important. It is important to think about what you should have done, and that __requires enormous self-control__.
+Decisions are things that have control. They are important. When you realize that something is important to write about, then you can write them a letter. She didn't get mad at them, she just told them what could be done, and they moved on. This is an example of where feelings and dealing with them are important. It is important to think about what you should have done, and that *requires enormous self-control*.
 
-One thing a decision is not is an outcome. If I decide to watch a movie and it's terrible, it's not necessarily a bad decision. A good or bad decision refers to the process by which I arrive to the outcome. We don't know what happens with our decisions, we focus on things that come readily to mind. It is called __the availability bias__. If your friend was in a car accident last month, you would give a higher risk number to get a car accident yourself. We pull stuff in the back of your mind to compute stuff.
+One thing a decision is not is an outcome. If I decide to watch a movie and it's terrible, it's not necessarily a bad decision. A good or bad decision refers to the process by which I arrive to the outcome. We don't know what happens with our decisions, we focus on things that come readily to mind. It is called *the availability bias*. If your friend was in a car accident last month, you would give a higher risk number to get a car accident yourself. We pull stuff in the back of your mind to compute stuff.
 
 If you ask yourself what percentage efforts you've done for chores, you do a mental checklist of what you've done. When they combine the percentages, you get about 130%. Husbands + wives focus on what they did, not what the other person did.
 
-__Overconfidence bias:__ We like to think well of ourselves, and we think of ourselves in a positive light. When we are guessing a true or false, either we have 50% knowledge (no idea) or 100% knowledge (sure). It turns out that people think they are 85% confident but they got 60% right. You think you know more than you originally know. This matters when you go to doctors and stuff. Most people don't check and adjust their beliefs to see the data about their outcomes.
+*Overconfidence bias:* We like to think well of ourselves, and we think of ourselves in a positive light. When we are guessing a true or false, either we have 50% knowledge (no idea) or 100% knowledge (sure). It turns out that people think they are 85% confident but they got 60% right. You think you know more than you originally know. This matters when you go to doctors and stuff. Most people don't check and adjust their beliefs to see the data about their outcomes.
 
-__Confirmation bias:__ Poor search processes and the information we focus on. We like to focus on things that confirm our original beliefs. When trying to go out someone and I know just 2 people who know him, 1 likes and 1 doesn't. I call the person who likes him, because he supports my decision. We look for things that are consistent with what we want to hear.
+*Confirmation bias:* Poor search processes and the information we focus on. We like to focus on things that confirm our original beliefs. When trying to go out someone and I know just 2 people who know him, 1 likes and 1 doesn't. I call the person who likes him, because he supports my decision. We look for things that are consistent with what we want to hear.
 
 ## Personality Type and Decision Style
 
@@ -203,7 +203,7 @@ When I have an argument with myself, my head usually thinks of one thing and my 
 
 Sometimes when you don't feel right when you make a decision (head and heart conflict). When you choose both, you fall in a trap.
 
-__Habitual frame trap:__ When we approach all problems ore decisions in the same way. Some decisions are analytical, some are feeling, but most are both.
+*Habitual frame trap:* When we approach all problems ore decisions in the same way. Some decisions are analytical, some are feeling, but most are both.
 
 When you are asked to make a decision, make questions that are about what you consider and think if they are from the head or from the heart.
 
@@ -227,7 +227,7 @@ Often, what we see is what we expect to see.
 
 Not all decisions are worth stressing out. Just think of the different possible outcomes of a decision.
 
-__H.I.P. Formula__
+*H.I.P. Formula*
 
 - H: How will things change?
 - I: Impact on me? Others?
@@ -287,7 +287,7 @@ I know I can accomplish goals so I have hope moving forward.
 
 ## Introducing Creative Alternatives and Useful Information
 
-__Decisions are only as good as your best alternative.__
+*Decisions are only as good as your best alternative.*
 
 Decision trap: _Either I go or I don't._ 
 
@@ -333,7 +333,7 @@ Most of these decisions are also made quickly. You better do some preparation in
 
 Physical harm, depriving them of property, truth-telling ("How do I look in my dress", "How am I doing?" (dying person)).
 
-Professionals say it's best to just tell the truth. People know if they are not doing well anyway. __Deciding to tell the truth is one thing, but determining what "the truth" is also important.__ We can say "people in your situation live x months or years, and we aren't sure what influences this."
+Professionals say it's best to just tell the truth. People know if they are not doing well anyway. *Deciding to tell the truth is one thing, but determining what "the truth" is also important.* We can say "people in your situation live x months or years, and we aren't sure what influences this."
 
 If you have things in your communication that are not accurate, then you lose the opportunity to deepen the conversation. Why would you want people in your life that are likely false people? 
 
@@ -343,13 +343,13 @@ It's like training wheels on bicycles. You'll never learn how to ride a bike if 
 
 Even stuff such as cheating/overbilling is harder when you're telling the truth, it's more of determining what the truth is.
 
-__Buddha story: "Can you cut that tree's branch off?" Murderer did. "Can you put it back on?" The murderer became enlightened.__
+*Buddha story: "Can you cut that tree's branch off?" Murderer did. "Can you put it back on?" The murderer became enlightened.*
 
 That's transforming. Buddha showed the murderer that there was a higher plane of thinking. That's the ultimate elevation.
 
 You don't suddenly become ethically aware all of a sudden. Usually you have to realize that "this is a way you want to be throughout your life." But when you're used to being that way, then there is no problem.
 
-Ex: In college, the idea of bribing a teacher to get a higher grade was unthinkable. __When we make things unthinkable, that's when we are transcendent.__ The unexamined life is not worth doing. If you don't examine what you do, when you look back on the past you'll feel bad.
+Ex: In college, the idea of bribing a teacher to get a higher grade was unthinkable. *When we make things unthinkable, that's when we are transcendent.* The unexamined life is not worth doing. If you don't examine what you do, when you look back on the past you'll feel bad.
 
 A good decision never becomes bad, and a bad decision never becomes good.
 
@@ -381,7 +381,7 @@ Rule #1: Any alternative can have multiple outcomes.
 
 Rule #2: There are two types of events that affect outcome: Independent and dependent. Gambler's Fallacy!
 
-__Trap: Wishful thinking. Overestimating the likelihood of a certain outcome just because you want it to happen.__ When making a decision, think "what would have to happen so this happens?"
+*Trap: Wishful thinking. Overestimating the likelihood of a certain outcome just because you want it to happen.* When making a decision, think "what would have to happen so this happens?"
 
 ## Guest Lecture: Prof. Abbas on Sound Reasoning
 
@@ -437,7 +437,7 @@ If you value alternatives equally, just flip a coin, then you'll know what you w
 
 ## IYC #16: Commitment to Follow Through
 
-__A decision is just a choice unless it is followed by an action.__
+*A decision is just a choice unless it is followed by an action.*
 
 1. Communicate: If you're serious of doing things, why not write it down?
 2. Get help: Ask a friend to text you every week to see if you're practicing. It's better if you have someone who is interested in your progress. Get a coach if you have to.

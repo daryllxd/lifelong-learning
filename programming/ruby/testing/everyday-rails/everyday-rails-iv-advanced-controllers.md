@@ -334,9 +334,9 @@ Use `shoulda-matchers` gem in the `:test` group of the Gemfile, you get new matc
 
 #### Mocks and stubs
 
-A __mock__ is a some object that represents a real objet, for testing purposes. Test doubles. They are like Factory Girl, except they don't touch the DB.
+A *mock* is a some object that represents a real objet, for testing purposes. Test doubles. They are like Factory Girl, except they don't touch the DB.
 
-A __stub__ overrides a method call on a given object and returns a predetermined value for it. It is a fake method which will return a real result for the tests.
+A *stub* overrides a method call on a given object and returns a predetermined value for it. It is a fake method which will return a real result for the tests.
 
 [TODO]
 

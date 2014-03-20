@@ -40,9 +40,9 @@ Each Gherkin file begins with the _Feature keyword_. On the same line you have t
 
 Each scenario is a single concrete example of how the system should behave in a particular sitaution.
 
-__And__ and __But__ are the same as the Given, When, and Then, just for papogi effects. We can also use _*_.
+*And* and *But* are the same as the Given, When, and Then, just for papogi effects. We can also use _*_.
 
-#### __Each scenario must make sense and be able to be executed independently of any other scenario.__
+#### *Each scenario must make sense and be able to be executed independently of any other scenario.*
 
 This might seem a little dogmatic, but trust us, it really helps keep your sce- narios simple to work with. It avoids building up brittle dependencies between scenarios and also gives you the flexibility to run just the scenarios you need to when you’re working on a particular part of the system, without having to worry about getting the right test data set up.
 
@@ -54,41 +54,41 @@ There are two sides to a step definition. On the outside, it translates from pla
       # TODO: code that puts $100 into User's Account goes here
     end
 
-__Given, When, Then Are the Same:__ It doesn’t actually matter which of the three methods you use to register a step definition, because Cucumber ignores the keyword when matching a step.
+*Given, When, Then Are the Same:* It doesn’t actually matter which of the three methods you use to register a step definition, because Cucumber ignores the keyword when matching a step.
 
 #### Capturing Arguments
 
-__Capture Groups:__ When you surround part of a regular expression with parentheses, it becomes a capture group. Capture groups are used to highlight particular parts of a pattern that you want to lift out of the matching text and use.
+*Capture Groups:* When you surround part of a regular expression with parentheses, it becomes a capture group. Capture groups are used to highlight particular parts of a pattern that you want to lift out of the matching text and use.
 
     Given /I have deposited \$(100) in my Account/ do |amount| 
       # TODO: code goes here
     end
 
-__Alternation:__ Match either 100 or 250.
+*Alternation:* Match either 100 or 250.
 
     Given /I have deposited \$(100|250) in my Account/ do |amount| 
 
-__Dot:__ Match literally any single character.
+*Dot:* Match literally any single character.
 
     Given /I have deposited \$(...) in my Account/ do |amount|
 
-__Star:__ Match shit.
+*Star:* Match shit.
 
 Regex regex [TODO]
 
 #### Cucumber States
-- __Undefined:__ When C can't find a step definition that matches a step.
-- __Pending:__ When it discovers a step definition but has `Pending` on it.
+- *Undefined:* When C can't find a step definition that matches a step.
+- *Pending:* When it discovers a step definition but has `Pending` on it.
     
          pending("Need to design the interface")
 
-- __Failing:__ Either because there is a bug in the step definition or in the system under test, or an assertion failed.
+- *Failing:* Either because there is a bug in the step definition or in the system under test, or an assertion failed.
 
 ## Expressive Scenarios
 
-__When you’re writing Cucumber features, make readability your main goal.__ Otherwise, a reader can easily feel more like they’re a reading computer pro- gram than a specification document, which is something we want you to try to avoid at all costs. After all, if your features aren’t easy for nonprogrammers to read, you might as well just be writing your tests in plain old Ruby code.
+*When you’re writing Cucumber features, make readability your main goal.* Otherwise, a reader can easily feel more like they’re a reading computer pro- gram than a specification document, which is something we want you to try to avoid at all costs. After all, if your features aren’t easy for nonprogrammers to read, you might as well just be writing your tests in plain old Ruby code.
 
-__Background:__ A background section in a feature file allows you to specify a set of steps that are common to every scenario in the file, so it's easier to change and so that it's easier to focus on what is unique and important about that scenario.
+*Background:* A background section in a feature file allows you to specify a set of steps that are common to every scenario in the file, so it's easier to change and so that it's easier to focus on what is unique and important about that scenario.
 
 - Don't use _Background_ to set up complicated state unless the state is something the reader actually needs to know.
 - Keep your _Background_ section short.
@@ -111,19 +111,19 @@ Tags: If subfolders are the chapters in your book of features, then tags are the
 ## When Cucumbers Go Bad
 
 #### Four Main Types of Pain
-- __Flickering Scenarios.__ When a scenario that was passing yesterday is failing today, with the same source code running in the same environment, you have what we call a flickering scenario.
+- *Flickering Scenarios.* When a scenario that was passing yesterday is failing today, with the same source code running in the same environment, you have what we call a flickering scenario.
 
     _A flickering scenario fails occasionally and at random. The same scenario, run on the same codebase in the same environment, will mostly pass but sometimes fail. These apparently uncontrollable failures cause the team to lose confidence in their tests, in their code, and in themselves._
 
     To fix a flickering scenario, you have to study the code and try to understand why it might be happening.
 
-- __Brittle Features.__ When you feel like you can hardly move in the test suite without making an apparently unrelated test fail for no good reason, you have what we call brittle features.
+- *Brittle Features.* When you feel like you can hardly move in the test suite without making an apparently unrelated test fail for no good reason, you have what we call brittle features.
 
     _A brittle feature is easy to break. When features are brittle, a necessary change in one part of the test suite or main codebase causes apparently unrelated scenarios to break._
 
-- __Slow Features.__ Once a new scenario is passing, the main reason to keep running it is for feedback: you want that scenario to warn you if you somehow accidentally break the functionality that it checks for. The value of that feedback dimin- ishes as your test run starts taking longer and longer. When the build is slow, developers don’t run all the tests before committing code and will rely on the continuous integration server to give them feedback instead.
+- *Slow Features.* Once a new scenario is passing, the main reason to keep running it is for feedback: you want that scenario to warn you if you somehow accidentally break the functionality that it checks for. The value of that feedback dimin- ishes as your test run starts taking longer and longer. When the build is slow, developers don’t run all the tests before committing code and will rely on the continuous integration server to give them feedback instead.
 
-- __Bored Stakeholders.__ The answer lies partly in starting with the right kind of collaborative relation- ship with those business stakeholders. If they think they’re too busy to help you understand exactly what they want, then you have a deeper team problem that Cucumber can’t help you solve. On the other hand, many teams who start out with keen and interested stakeholders waste the opportunity Cucum- ber gives them to build that collaborative relationship.
+- *Bored Stakeholders.* The answer lies partly in starting with the right kind of collaborative relation- ship with those business stakeholders. If they think they’re too busy to help you understand exactly what they want, then you have a deeper team problem that Cucumber can’t help you solve. On the other hand, many teams who start out with keen and interested stakeholders waste the opportunity Cucum- ber gives them to build that collaborative relationship.
 
 _If you’re stuck with a slow set of features, a pragmatic option can be to run them in parallel. The simplest approach to this is to partition your features using tags or folders and then run each of those partitioned sets at the same time._
 
@@ -194,7 +194,7 @@ Your features act as a design tool for specifying new features, but they also ac
 
 Cucumber scenarios are basically state-transition tests: you put the system into a Given state A, you perform action X (When), and Then you check that it has moved into expected state B. So, each scenario needs the system to be in a certain state before it begins, and yet each scenario also leaves the system in a new, dirty state when it’s finished.
 
-__When the state of the system is not reset between tests, we say that they allow state to leak between them. This is a major cause of brittle tests.__
+*When the state of the system is not reset between tests, we say that they allow state to leak between them. This is a major cause of brittle tests.*
 
 The opposite of this, independent scenarios, ensures they put the system into a clean state and then add their own data on top of it. This makes them able to stand on their own, rather than being coupled to the data left behind by other tests or shared fixture data.
 

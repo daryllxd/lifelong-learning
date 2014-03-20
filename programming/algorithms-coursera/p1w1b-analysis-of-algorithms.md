@@ -13,7 +13,7 @@ _"As soon as an Analytic Engine exists, it will necessarily guide the future cou
 
 Practical reason: Avoid performance bugs. We want some confidence that the job actually works.
 
-__The challenge: Will my program be able to solve a large practical input?__ The insight made by Knuth in the 1970s was that we can use the scientifc method to figure out shit.
+*The challenge: Will my program be able to solve a large practical input?* The insight made by Knuth in the 1970s was that we can use the scientifc method to figure out shit.
 
 ## 15 - 1 - Observations (10_05)
 
@@ -34,7 +34,7 @@ __The challenge: Will my program be able to solve a large practical input?__ The
         return count;
     }
 
-__Empyrical analysis:__ To benchmark shit, you can time a program and exrapolate running time using multiple and crap.
+*Empyrical analysis:* To benchmark shit, you can time a program and exrapolate running time using multiple and crap.
 
 Log-log plot: Plot this shit, and extrapolaterzz.
 
@@ -44,7 +44,7 @@ System dependent: Hardware, software, system.
 
 ## 27 - 1 - Mathematical Models (12_48)
 
-__Total running time: Sum of cost x frequency for all operations.__
+*Total running time: Sum of cost x frequency for all operations.*
 
 Cost of basic operations
 
@@ -107,7 +107,7 @@ Second simplification: Tilde notation. Ignore the lower order terms, because eit
 - Ex 2. ⅙ N^3 + 100 N 4/3 + 56   ~ ⅙ N^3
 - Ex 3. ⅙ N^3 - ½ N 2 + ⅓ N   ~ ⅙ N
 
-__To estimate a discrete sum, either take a discrete maths course (lol) or replcae the sum with an integral, and use calculus.__
+*To estimate a discrete sum, either take a discrete maths course (lol) or replcae the sum with an integral, and use calculus.*
 
 In principle, accurate mathematical models are available. In practice, formulas can be complicated and advanced mathematics might be required. Exact models are best left for experts.
 

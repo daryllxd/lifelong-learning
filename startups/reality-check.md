@@ -40,7 +40,7 @@ In five minutes, people decide if they are interested in your or not. It's not f
 
 ## Reality of Marketing
 
-1. __Seize the high ground: "Making meaning", "doing good", "changing the world", "making people happy".__
+1. *Seize the high ground: "Making meaning", "doing good", "changing the world", "making people happy".*
 2. Create one message: Stick with that message for a year.
 3. Frame or be framed: An online music-sharing service is either "piracy" or "music-listeners' revolution." Using the word revolution implies that record companies are unfairly ruling people who listen to music.
 	- Be true to yourself. A frame should represent what YOU stand for.
@@ -57,9 +57,9 @@ SALES FIX EVERYTHING. As long as cash is flowing:
 
 #### Innovative Products are...
 
-- __Deep. It doesn't run out of features and functionality after a few weeks of use.__
+- *Deep. It doesn't run out of features and functionality after a few weeks of use.*
 - Intelligent. "FUCKING SMART BRAH."
-- __Complete. A great product is more than a physical thing. Documentation counts. Cx service counts. Tech support counts.__
+- *Complete. A great product is more than a physical thing. Documentation counts. Cx service counts. Tech support counts.*
 - Elegant. UI/UX that shit.
 - Emotive. It compels people to tell others about it.
 

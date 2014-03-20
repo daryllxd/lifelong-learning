@@ -53,7 +53,7 @@ Even though I had no intentions of making BrokenRecord into a library that could
 
 In addition to these concerns about future extensibility, the current design made it much harder to test this code, and much harder to do some common queries without directly hijacking the global reference to the underlying database adapter.
 
-__Because this object had come into existence as a result of a broad-based integration test rather than a series of focused unit tests, I was hesitant to perform an extraction without writing a few more tests first.__
+*Because this object had come into existence as a result of a broad-based integration test rather than a series of focused unit tests, I was hesitant to perform an extraction without writing a few more tests first.*
 
 Thinking about the problem a little more, I noticed that the changes I wanted were deeper than just putting together an internal object to hide some implementation details and reduce coupling.
 
@@ -103,7 +103,7 @@ These guidelines will almost certainly lead to code that is more testable, and s
 - Single responsibility
 - Dependency inversion
 
-__Testing a codebase via mock objects is easy when these design principles are followed, and challenging when they are not.__ In that sense, mock objects can be used as a smoke test for the overall design of a project, which is useful in its own right. However, most mockists claim that the technique actually inspires better design, rather than simply helping you find areas in your code that suffer from bad design.
+*Testing a codebase via mock objects is easy when these design principles are followed, and challenging when they are not.* In that sense, mock objects can be used as a smoke test for the overall design of a project, which is useful in its own right. However, most mockists claim that the technique actually inspires better design, rather than simply helping you find areas in your code that suffer from bad design.
 
 The way I tend to approach design is to choose a very small vertical slice of functionality and develop an imaginary example of how I expect that feature to work. This technique is consistent with the outside-in way of doing things, but my next steps bring me in a completely different direction. Rather than starting with my interface and then using mock objects to allow me to discover collaborators iteratively until I reach the lowest-level objects in my system, I build things bottom up instead.
 

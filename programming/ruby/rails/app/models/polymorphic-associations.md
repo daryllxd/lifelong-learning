@@ -25,11 +25,11 @@ Behavior of app hasn't changed (but it's cleaner) but the database hasn't change
 
 When the app grows and columns are added that apply to one type of user only that would suck for us. There would be nulls because the table isn't properly normalized.
 
-__A general rule of thumb is that we have several fields in a table that aren’t shared by all the records then Single Table Inheritance isn’t the best approach.__
+*A general rule of thumb is that we have several fields in a table that aren’t shared by all the records then Single Table Inheritance isn’t the best approach.*
 
 The end result is similar to STI but it allows each different type to have its own model and DB table.
 
-Each task has a user assigned to it. We can add a `user_type` column to the `Tasks` table but this means that __every time a model needs to relate to user, you need to create a polymorphic association__.
+Each task has a user assigned to it. We can add a `user_type` column to the `Tasks` table but this means that *every time a model needs to relate to user, you need to create a polymorphic association*.
 
 What is better is that you:
 
