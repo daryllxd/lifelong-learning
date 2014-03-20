@@ -142,4 +142,4 @@ da" to delete AROUND double quotes. we delete the `""` too. we can do daw to del
 gi tells vim to go back to THE LAST TIME YOU WERE IN INSERT MODE and put you in insert mode again. so you can do gg to go to the top and then do gi to somehere so you can type shit again.
 
 
-
+Opening a new file in netrw: % FOR FUCKS SAKE!!!!
