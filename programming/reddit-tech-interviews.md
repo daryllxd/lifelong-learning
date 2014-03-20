@@ -18,7 +18,7 @@ Again, make sure you actually code these for real when practicing. Simply readin
 You don't have to go crazy here, but review a couple of:
 Sorting algorithms (both comparison sorting and non-comparison sorting)
 Tree traversals (just memorize all of these inorder, preorder, postorder, level order)
-Traversals - Dijkstra's, A*, BFS, DFS (know the difference between DFS and BFS when would you use one over the other and why - hint, is usually matters when you don't have to search the whole space. Also make sure that you can code recursively and using your own stack/queue)
+Traversals - Dijkstra's, `A*`, BFS, DFS (know the difference between DFS and BFS when would you use one over the other and why - hint, is usually matters when you don't have to search the whole space. Also make sure that you can code recursively and using your own stack/queue)
 All the prefix-tree searches
 Great, you're about 60% done now. Now you need to practice applying this knowledge. Find a source of interview questions (random websites, glassdoor.com, cracking the coding interview, etc.) Code answers to those questions. I strongly recommend forcing yourself to pretend you're in an interview setting. Most of these questions should be solvable in ~10-15 minutes, some will be more like 20-25. Time yourself. Before you write a single line of code, organize your thoughts and figure out the entire solution, then start coding. The coding part should be boring and straightforward. In the actual interview, do the same thing. Before you write a single line of code, make sure that you validate with the interviewer that your approach is a good one. Practice practice practice this stuff.
 Fill Gaps
