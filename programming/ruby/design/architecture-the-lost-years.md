@@ -16,8 +16,35 @@ Interactors have application specific business rules. They aren't in the framewo
 
 Validation, such as stuff that run in JS, are still part of the module. They are still decoupled.
 
-Delivery mechanism must not CARE about the interactor/entity. Delivery mech interacts with the Boundary, and the interactors/entities are gems. So the delivery mechanism is a PLUG-IN to the real logic shit. So cucumber will run faster. Since there is no web server, tests will run really fast.
+    Delivery Mech -> Boundary <- Interactor -> Entity
 
-[TODO 25 mins]
+Delivery mechanism must not CARE about the interactor/entity. Delivery mech interacts with the Boundary, and the interactors/entities are gems. So the delivery mechanism is a PLUG-IN to the real logic shit. So cucumber will run faster. So you can choose to not plug in the delivery mechanism when you're running tests. So you can go get your tests to run very fast hehehe.
 
+What happens is that the request is just a data structure, since the logic and business rules and use cases are all on the far side of the delivery mechanism.
 
+Interactors would be `AddItemToOrder, DeleteOrder...`. So at the top, you can see the intent of the application.
+
+## What about MVC?
+
+Where did "MVC is the architecture of the web" come from? Model is some entity of the business. Controller bla bla and the view outputs to the user. View observes the model and when the model changes the view is changed. What we have is:
+
+    Models -> Controllers
+           -> Views reach into the business objects. They should not know about the business objects.
+
+Views should be so stupid that you don't have to write unit tests for it. I just make sure there is no point in testing the view. Just put an acceptance test.
+
+    Controller -> Request Model
+                      ^ 
+                  Boundary      <- Interceptor
+
+    Presenter  -> Boundary      <-
+                      v
+                  Response model
+
+The controller/presenter could be turned into a gem. Everything to the right should be turned into a gem.
+
+Unfortunately we see the database at the center of the application. The database is a detail, something you don't know about. It must "somehow store things". I don't care how it stores them. I want objects and entities out of the database. I want to defer the interactions to the database.
+
+What I want is a Entity Gateway where things pass through it to access the database. Architecture is about drawing a line and making sure that everything going through the line goes in one direction only.
+
+Active record
