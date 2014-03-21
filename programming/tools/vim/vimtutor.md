@@ -1,7 +1,3 @@
-I'm doing this from Vim!
-:set syntax=markdown
-
-File management
 :new or :vnew  to open a new window
 :new `FILE_NAME` (has to include the directory).
 
@@ -13,21 +9,11 @@ Splitting the window.
 :set splitright
 C-w = - to make the 2 panes equal
 
-To search: / then press enter after the search is executed.
 Backward search: ?
 After a search, type n to find the next occurence in the same direction or N to search in the opposite direction.
 Find and replace through whole file: :%s/REPLACEE/REPLACER/g (add c to have a prompt)
-:noh to remove highlight
 Replace by itself: R then just keep on typing
 
-To go backwords (cursor) , C-o. Forwards, C-i.
-
-% -> Go to the opposite side of a parenthesis.
-
-d: delete or something like cut. p to "put" or paste  this.
-y: yank or "copy".
-
-nG – jump to line n
 Cursor movezz
 L – jump to the bottom of the screen (“low”)
 H – jump to the top of the screen (“high”)
@@ -41,8 +27,6 @@ zz – move this line to the middle of the screen (“ziddle?”)
 b – go to the previous (before) word.
 B – go to the previous (before) WORD.
 ge - end of PREVIOUS word.
-) - next sentence.
-} - next paragraph.
 
 indent: v to visual, motion to higlight, = to indent, >>.
 
@@ -60,7 +44,6 @@ gd - jumo from the user of a vairable to its local declaration.
 find and replace:
 :%s/\s\+$//
 
-: - command
 % - apply to entire file
 s - substitute
 /\s\+$/ - regex for "all whitespace, till the end of file"
@@ -146,3 +129,21 @@ Case switching
 g~w to change casing of next word.
 
 VIMCASTS netrw.vim 
+
+Moving across definitiojns
+]m, [m -forward and backward methods. They are positioned on the `def` keywords.
+f( to move to the first param
+end method: ]M. this is good to change the return value via ]Mo.
+[[ and ]] to move through the .
+% to move to matching things using matchit./
+these are in vim-ruby.
+
+Text objects make you select stuff to match thingies.  thingies
+
+combination of shit to select a method: /end V %
+
+vim-textobj-rubyblock. so we can do var to select around ruby block, or vir to select inside ruby block. vam to select method. vaM/viM to select classes/modules.
+
+since they are text methods we can do v to select, d to del, c to change, y to yank. so `cir` to change inside the ruby block. we can use `vam` etc and `dam`.
+
+yiM to get everything inside the def, then ]] to jump to other class, then paste via p. BOOMMMMMMM.
