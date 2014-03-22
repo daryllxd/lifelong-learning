@@ -48,6 +48,8 @@ m – jump to the middle of the screen (“middle”)
   :!rm test - delete a file
   =vimcasts netrw.vim 
 
+# Vimcasts  - Rails
+
   moving across definitiojns
   ]m, [m -forward and backward methods. they are positioned on the `def` keywords.
   f( to move to the first param
@@ -73,14 +75,7 @@ m – jump to the middle of the screen (“middle”)
       inside: c-u to delete input field. c-w to delete word. c-p to find last
 
 
-  c-s to save.  ct
-
-  text objects
-=ip format inside paragraph (doable in ruby blocks)
-  ca) change around parenthesis.
-
-  b and w are split via whitespace.
-  :help text-objects
+  find:help text-objects
 
   normal search: `/`. then `n` to cycle and `n` to cycle back. incremental search: will progr
 
@@ -94,19 +89,14 @@ m – jump to the middle of the screen (“middle”)
   :h pattern
   source things in?
 
-# Surround
-
-ys pattern to surround.
-cs(thing)
-
 # Window management
 
-C-W c to close a window.
-:windo e! to reload unsaved.
 
-:windo %s/Integer/Float/g | w -> substitute all and save to file.
+C-W c to close a window.
+
 
 # delete until???
+
 
   df? to delete until ?
 

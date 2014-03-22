@@ -1,3 +1,12 @@
+## Larry Page: Where's Google going next?
+[link][https://www.youtube.com/watch?v=mArrNRWQEso]
+
+We're still in the early age of search. We're still not done. Your computer doesn't know where you are, what you know. We want computing to understand you.
+
+DeepMind, voice is very important. It can play video games and learn them on their own. Imagine if this intelligence is thrown onto your schedule. 
+
+
+
 ## Sherwin Nuland: How electroshock therapy changed me
 [Link](https://www.youtube.com/watch?v=oEZrAGdZ1i8)
 
