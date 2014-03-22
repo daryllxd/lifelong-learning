@@ -31,7 +31,7 @@ Where did "MVC is the architecture of the web" come from? Model is some entity o
     Models -> Controllers
            -> Views reach into the business objects. They should not know about the business objects.
 
-Views should be so stupid that you don't have to write unit tests for it. I just make sure there is no point in testing the view. Just put an acceptance test.
+*Views*: Presenter converts the data into a view. Views should be so stupid that you don't have to write unit tests for it. Stuff such as the name of the buttons should be in the view models. I just make sure there is no point in testing the view. Just put an acceptance test.
 
     Controller -> Request Model
                       ^ 
@@ -43,8 +43,19 @@ Views should be so stupid that you don't have to write unit tests for it. I just
 
 The controller/presenter could be turned into a gem. Everything to the right should be turned into a gem.
 
-Unfortunately we see the database at the center of the application. The database is a detail, something you don't know about. It must "somehow store things". I don't care how it stores them. I want objects and entities out of the database. I want to defer the interactions to the database.
+*Database*: Unfortunately we see the database at the center of the application. The database is a detail, something you don't know about. It must "somehow store things". I don't care how it stores them. I want objects and entities out of the database. I want to defer the interactions to the database.
 
-What I want is a Entity Gateway where things pass through it to access the database. Architecture is about drawing a line and making sure that everything going through the line goes in one direction only.
+What I want is a Entity Gateway where things pass through it to access the database. *Architecture is about drawing a line and making sure that everything going through the line goes in one direction only.* So we _want_ to run the tests without a database.
 
-Active record
+So, where would ActiveRecord be in all of this? The delivery mechanism is just Controller/Presenter. FitNesse. FIT: Framework for Integration Testing. 
+
+First, they mocked the pages. Then, they mocked the other pages "in-memory". So everything works but nothing saves. Then they made mocks of the database.
+
+A good architecture allows major decisions to be deferred! Get your use cases working, get your tests passing, then if you need to show something then just make something really quickly.
+
+*A good architecture maximizes the number of decisions not made.* It makes you keep your options open for as long as you can.
+
+This is why you have to write the tests first. So you know that you're done. So you know that the tests cover everything and you can _refactor everything_. Without tests, you find it hard to actually do something, and you will fear your code especially when you don't do things on your own. You have to know that every line of code that you wrote was because of a failing test.
+
+It's not enough to write your tests first. If your tests aren't fast then you don't do tests. This is why you remove everything that's slows the test down.
+

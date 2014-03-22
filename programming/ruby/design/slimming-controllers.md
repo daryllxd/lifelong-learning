@@ -13,7 +13,7 @@ Placing biz logic inside a controller immediately violates SRP.
 
 #### Limiting Logical Switching
 
-"If this parameter is present, do this...". Actions should be <8 LOC.
+"If this parameter is present, do this...". Actions should be < 8 LOC.
 
 Make a Facade or a worker if there is no appropriate model.
 
