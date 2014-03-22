@@ -87,18 +87,14 @@ m – jump to the middle of the screen (“middle”)
   edit search history:
   q:, c-f when you search. to edit, go to insert mode etc.
   :h pattern
-  source things in?
 
-# Window management
+# Fugitive.vim
 
+:Git
 
-C-W c to close a window.
+:Git co -b experimental. 
+Aliases in the gitconfig work fine with fugitive.
 
-
-# delete until???
-
-
-  df? to delete until ?
 
 # keymapping
 
