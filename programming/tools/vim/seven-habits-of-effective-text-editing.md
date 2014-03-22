@@ -1,4 +1,3 @@
-*commandhello
 ## Part 1: Edit a File
 
 #### 1. Move around quickly.
