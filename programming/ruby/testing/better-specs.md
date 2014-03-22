@@ -1,7 +1,5 @@
 #### How to describe your methods.
 
-Use Ruby documentation convention.
-
 > Bad
     
     describe "the authenticate method for User" do
@@ -88,6 +86,12 @@ Let is actually this:
     def foo
       @foo ||= Foo.new
     end
+
+#### Weekly Iteration 14
+- We would rather not put the stuff the user has that we don't need into the test, we would rather put it into a factory.
+- The problem with `let` is that it might put you to a position that sucks in that you defined things at the top and your test is at the bottom.
+- `before` is just used for meta stuff, we would rather not use this.
+- If we only have the information we need, the tests become less brittle.
 
 #### Mock or not to mock [TODO]
 

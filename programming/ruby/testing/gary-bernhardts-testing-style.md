@@ -1,0 +1,18 @@
+## 067 RR Gary Bernhardt’s Testing Style
+[link][http://rubyrogues.com/067-rr-gary-bernhardts-testing-style/]
+
+GARY: Although, what I’m talking about when I say OO design usually there’s little resemblance to classical OO design or what Alan Kay would call OO design probably. Another big one, of course, is testing which historically I can talk mostly about isolated testing or closed isolated. Although recently I’ve been talking about things that are still isolated testing I guess, except not doing it in the traditional mock and stub way. 
+
+GARY: In that, I’m testing exactly one class with behavior and it’s not integrating with any others. But instead of using mocks and stubs, I basically just write it in a functional way. So it takes values in and recurrence values and that is a natural way to isolate code because, if the things that you’re passing in have no behavior, they’re just data. And the things that come out are just data and your testing only one class, you’re only executing only one class, then you’re not integrating with anything. You’re naturally isolated.
+
+So I do that and then, that is the core of the program: its many classes that have fully functional behavior. They don’t mutate anything and they don’t call at any other classes. And around that is a thin layer of imperative code that does things like observe key stroke coming in and it evokes one of these functional classes, and then updates a reference that the imperative shell holds. So if you hit ‘J’, you could down a row in this Twitter client that I work on in that screencast. Hitting ‘J’ constructs a new version of the cursor that represents where which line we’re looking at and then updates the global reference to it. It’s not truly global, but conceptually global. So those are the 2 pieces: the functional core and the imperative shell.
+
+CHUCK: When you talk about “isolating”, are you talking about just doing unit test and mocking up stuff that it just calls to? Kind of putting up stubs there so you know it call the right thing, or we’re actually talking about… we’ve talked about in other settings that like the fast test that Corey Haines does where you’re actually almost isolating from its dependencies as well.
+
+GARY: The general rule, if I had to put a rule on it, is execute only one class that actually does something. It might integrate with a second class that just has data in it so it’s really just a struc. But only execute one class that actually does a thing. That’s not a hard and fast rule but if you had to give a rule that would be the one.
+
+JOSH: I can see that if you impose some constraints on your testing style, that you’re not going to stub or mock, and that you only want to be testing small pieces of this system, I can see that that would be useful to help you achieve this. Is that what you do, you’re driving this from the test side?
+
+GARY: I love all the good things that come out of isolated testing. And mostly those are, first of all the tests are very fast. And it also tends to give you very good feedback on the design. So if you’re stubbing or mocking every single thing you interact with then you look at that test and you see 6 mocks being set up at the top of it, you know that you’re collaborating with too many objects. But if you now replace those mocks and stubs with objects with data, you can get the same feedback because you’ll still have to construct all those things it interacts it. It’s just that now their values, which means that you don’t have this artificial boundary that you’re mocking. You have a real boundary which is actually on that class and their types.
+
+

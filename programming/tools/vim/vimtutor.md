@@ -1,149 +1,202 @@
 :new or :vnew  to open a new window
-:new `FILE_NAME` (has to include the directory).
-
-Splitting the window.
-:split "heeehe  "
+:new `file_name` (has to include the directory).
 :vertical-split
 
 :set splitbelow
 :set splitright
-C-w = - to make the 2 panes equal
+c-w = - to make the 2 panes equal
 
-Backward search: ?
-After a search, type n to find the next occurence in the same direction or N to search in the opposite direction.
-Find and replace through whole file: :%s/REPLACEE/REPLACER/g (add c to have a prompt)
-Replace by itself: R then just keep on typing
+find and replace through whole file: :%s/replacee/replacer/g (add c to have a prompt)
+  replace by itself: r then just keep on typing
 
-Cursor movezz
-L – jump to the bottom of the screen (“low”)
-H – jump to the top of the screen (“high”)
-M – jump to the middle of the screen (“middle”)
+  cursor movezz
+  l – jump to the bottom of the screen (“low”)
+  h – jump to the top of the screen (“high”)
+m – jump to the middle of the screen (“middle”)
 
-Screen centering movez
-zt – move this line to the top of the screen (“top”)
-zb – move this line to the bottom of the screen (“bottom”)
-zz – move this line to the middle of the screen (“ziddle?”)
+  indent: v to visual, motion to higlight, = to indent, >>.
 
-b – go to the previous (before) word.
-B – go to the previous (before) WORD.
-ge - end of PREVIOUS word.
+  . - repeat command
 
-indent: v to visual, motion to higlight, = to indent, >>.
+  .... c-n in insert mode: autocomplete bitches
 
-. - repeat command
+  d/thingie -> delete until thingie
+  / -> pattern matching
+  * - lookf for the next occurence of the word
+  % - find matching braces
+  gd - jumo from the user of a vairable to its local declaration.
 
-.... C-N in insert mode: Autocomplete bitches
+  find and replace:
+  :%s/\s\+$//
 
-/ -> pattern matching
-* - lookf for the next occurence of the word
-% - find matching braces
-gd - jumo from the user of a vairable to its local declaration.
-0D - delete all text from the line
-^D - delete all text starting from the first non-blank character.
+  % - apply to entire file
+  s - substitute
+  /\s\+$/ - regex for "all whitespace, till the end of file"
+  // - regex for "empty string"
 
-find and replace:
-:%s/\s\+$//
+  macros - to define, q, then a. the nrecord, then to exit, q. then you have @a as the "saved macro". 
 
-% - apply to entire file
-s - substitute
-/\s\+$/ - regex for "all whitespace, till the end of file"
-// - regex for "empty string"
+  m - mark.
+  ` - move to mark with a.
+  ' - move to mark with a.
 
-Macros - to define, q, then a. the nrecord, then to exit, q. then you have @a as the "saved macro". 
+  - `p` to put ghe deleted text after the cursor
+  - to replace the 
 
-m - mark.
-` - move to mark with a.
-' - move to mark with a.
+  external commands
+  :w test - create a file
+  :!rm test - delete a file
+  =vimcasts netrw.vim 
 
-`p`: Put the previously delected text after the cursor. Use in conjunction with `dd` to paste the preivous line.
+  moving across definitiojns
+  ]m, [m -forward and backward methods. they are positioned on the `def` keywords.
+  f( to move to the first param
+      end method: ]m. this is good to change the return value via ]mo.
+      [[ and ]] to move through the .
+      % to move to matching things using matchit./
+      these are in vim-ruby.
 
-`ce`: Delete until end of word and put you in insert mode.
+      text objects make you select stuff to match thingies.  thingies
 
-- `p` to put ghe deleted text AFTER the cursor
-- To replace the 
+      combination of shit to select a method: /end v %
 
-Opening and closing a window
-C-W s
-:clo to close the other windows.
+      vim-textobj-rubyblock. so we can do var to select around ruby block, or vir to select inside ruby block. vam to select method. vam/vim to select classes/modules.
 
-External commands
-:! DO THE COMMAND
-:w TEST - Create a file
-:!rm TEST - Delete a file
+      since they are text methods we can do v to select, d to del, c to change, y to yank. so `cir` to change inside the ruby block. we can use `vam` etc and `dam`.
 
-Tabs
-t to create tab
-gt to switch to next tab (from insert mode). gT to previous tab.
-0gt/1gt jumps to first tab. 3gt jumps to third tab.
+      yim to get everything inside the def, then ]] to jump to other class, then paste via p. boommmmmmm.
+
+      nerdtree
+      t to open file in new tab but stay on the saem thingie tab.
+
+      - c-p open ctrlp in find file mode. tab to autocomplete dirs.
+      inside: c-u to delete input field. c-w to delete word. c-p to find last
 
 
-Vim for Rails Developers
+  c-s to save.  ct
 
-The faster you can type, the faster you can force your brain to see the next parts. A reasonable goal is 80 WPM. 
+  text objects
+=ip format inside paragraph (doable in ruby blocks)
+  ca) change around parenthesis.
 
-You need to know all the 1-key keystrokes. Use viemu. Most important vim plugin: `Rails.vim` by Tim Pope.
+  b and w are split via whitespace.
+  :help text-objects
 
-To make things work use :find application_ to automatically find stuff. here we find application_controller and we can tab to find other helpers, etc.
+  normal search: `/`. then `n` to cycle and `n` to cycle back. incremental search: will progr
 
-:gf to find shit when stuff is highlighted. ex: gf on `posts` in `has many posts` to move to the post model itself. Then you can navigaate around using C-o. gf understand controllers and partials. Even things such as a named route path will make you go there. 
+  :set incsearch
+  :set hlsearch: highlight all matches in the file.
+  :set ignorecase
+  :set smartcase
 
-We usually want to jump between related files within your files. Model + unit test. I can us the :Runittest, :Rmodel, :Rcontroller, :Rfunctionaltest.
+  edit search history:
+  q:, c-f when you search. to edit, go to insert mode etc.
+  :h pattern
+  source things in?
 
-So I want to split the window. We want a vertical split between the model and the test. I type :RVunittest to split them in 2 side by side, or:RSunittest to split them in 2 top bottom.
+# Surround
 
-To see the unit test, do RTunittest.
+ys pattern to surround.
+cs(thing)
 
-:Rake to execute the unit tests. It is aware of different shit anyway.
+# Window management
 
-:Rgenerate migration etc.
+C-W c to close a window.
+:windo e! to reload unsaved.
 
-Snipmate
+:windo %s/Integer/Float/g | w -> substitute all and save to file.
 
-Exuberant CTags. Vim uses this to figure out where something is defined.
+# delete until???
 
-$ ctags -R --exclude=.git --exclude=log * #index everything, ignore git and log. Then add the shit to the gititnore. 
+  df? to delete until ?
 
-vimrc, do `set tags=./tags;` to know that the tags are in the current directory.
+# keymapping
 
-C-] to trigger the source of things. You can put rails in `vendor/rails` to source-dive Rails immedi]tely.
+  keymapping - create a shortcut for combination of keys. 
 
-:tag named_scope to bring you to the method definition.
-:tag /validates_presence* # you can put in a regular expression.
+  * [command] 
 
-## Using Ack
+  map! <f5> "hello world"<cr> when you go to insert mode, you can do this.
+  map <leader>, :<c-u>echo 'helo wrodl'</cr>
+  noremap - not recursive.
+  noremap works across all modes. to work only in normal mode, we do nnoremap.
+  nnoremap <s-v> :<c-u>echo 'use insert mode'<cr> - this will only work in normal mode.
 
-- ack has replaced grep.  ack --ruby controller to look for all controller things in .rb.
 
-You can have a .ackrc file to append the thingie.
+# indenting code:
 
-set grepprg=ack from inside vim.  :cn and :cp to go to next and prev results. So he bound C-n and C-p to search shit. 
+  the leader command to paste: p.
 
-ct" to delete everything inside a "" surrounder. we can just do ci" to `change inside ""`.
+# marks
+  ma - set mark "a" at current location
+  'a - jump to start of line of mark a
+  `a - jump to position (line and col) of mark a
+  d'a - delete from current line to line of mark a
 
-da" to delete AROUND double quotes. we delete the `""` too. we can do daw to delete around the word.
 
-gi tells vim to go back to THE LAST TIME YOU WERE IN INSERT MODE and put you in insert mode again. so you can do gg to go to the top and then do gi to somehere so you can type shit again.
+  dap - delete inside par
+  `
+  map <leader>ac :sp app/controllers/application_controller.rb<cr>
+  vmap <leader>b :<c-u>!git blame <c-r>=expand("%:p") <cr> \| sed -n <c-r>=line("'<") <cr>,<c-r>=line("'>") <cr>p <cr>
+  map <leader>bb :!bundle install<cr>
+  nmap <leader>bi :source ~/.vimrc<cr>:bundleinstall<cr>
+  vmap <leader>bed "td?describe<cr>obed<tab><esc>"tpkdd/end<cr>o<esc>:nohl<cr>
+  map <leader>cc :!cucumber --drb %<cr>
+  map <leader>cu :tabularize /\|<cr>
+  map <leader>co ggvg"*y
+  map <leader>cc :rjcollection client/
+  map <leader>cj :rjspec client/
+  map <leader>cm :rjmodel client/
+  map <leader>ct :rtemplate client/
+  map <leader>cv :rjview client/
+  map <leader>cn :e ~/dropbox/notes/coding-notes.txt<cr>
+  map <leader>d odebugger<cr>puts 'debugger'<esc>:w<cr>
+  map <leader>gac :gcommit -m -a ""<left>
+  map <leader>gc :gcommit -m ""<left>
+  map <leader>gs :gstatus<cr>
+  map <leader>gw :!git add . && git commit -m 'wip' && git push<cr>
+  map <leader>f :call openfactoryfile()<cr>
+  map <leader>fix :cnoremap % %<cr>
+  map <leader>fa :sp test/factories.rb<cr>
+  map <leader>i mmgg=g`m<cr>
+  map <leader>j :commandt app/assets/javascripts<cr>client/
+  map <leader>l oconsole.log 'debugging'<esc>:w<cr>
+  map <leader>m :rmodel 
+  map <leader>o :w<cr>:call runcurrentlineintest()<cr>
+  map <leader>ra :%s/
+  map <leader>rd :!bundle exec rspec % --format documentation<cr>
+  map <leader>rf :commandtflush<cr>:commandt<cr>
+  map <leader>rs :vsp <c-r>#<cr><c-w>w
+  map <leader>rt q:?!ruby<cr><cr>
+  map <leader>rw :%s/\s\+$//<cr>:w<cr>
+  map <leader>sc :sp db/schema.rb<cr>
+  map <leader>sg :sp<cr>:grep 
+  map <leader>sj :call openjasminespecinbrowser()<cr>
+  map <leader>sm :rsmodel 
+  map <leader>sp yss<p>
+  map <leader>sn :e ~/.vim/snippets/ruby.snippets<cr>
+  map <leader>so :so %<cr>
+  map <leader>sq j<c-v>}klllcs<esc>:wq<cr>
+  map <leader>ss ds)i <esc>:w<cr>
+  map <leader>st :!ruby -itest % -n "//"<left><left>
+  map <leader>su :rsunittest 
+  map <leader>sv :rsview 
+  map <leader>t :w<cr>:call runcurrenttest()<cr>
+  map <leader>y :!rspec --drb %<cr>
+  map <leader>u :runittest<cr>
+  map <leader>vc :rvcontroller<cr>
+  map <leader>vf :rvfunctional<cr>
+  map <leader>vg :vsp<cr>:grep 
+  map <leader>vi :tabe ~/.vimrc<cr>
+  map <leader>vu :rvunittest<cr>
+  map <leader>vm :rvmodel<cr>
+  map <leader>vv :rvview<cr>
+  map <leader>w <c-w>w
+  map <leader>x :exec getline(".")<cr>
 
-Case switching
-~ to change per word
-g~w to change casing of next word.
+  " edit another file in the same directory as the current file
+  " uses expression to extract path from current file's path
+  map <leader>e :e <c-r>=expand("%:p:h") . '/'<cr>
+  map <leader>s :split <c-r>=expand("%:p:h") . '/'<cr>
+  map <leader>v :vnew <c-r>=expand("%:p:h") . '/'<cr>
 
-VIMCASTS netrw.vim 
-
-Moving across definitiojns
-]m, [m -forward and backward methods. They are positioned on the `def` keywords.
-f( to move to the first param
-end method: ]M. this is good to change the return value via ]Mo.
-[[ and ]] to move through the .
-% to move to matching things using matchit./
-these are in vim-ruby.
-
-Text objects make you select stuff to match thingies.  thingies
-
-combination of shit to select a method: /end V %
-
-vim-textobj-rubyblock. so we can do var to select around ruby block, or vir to select inside ruby block. vam to select method. vaM/viM to select classes/modules.
-
-since they are text methods we can do v to select, d to del, c to change, y to yank. so `cir` to change inside the ruby block. we can use `vam` etc and `dam`.
-
-yiM to get everything inside the def, then ]] to jump to other class, then paste via p. BOOMMMMMMM.
