@@ -113,7 +113,7 @@ Qualify client.
 - New type of project or have they done this before?
 
 ## Negotiation
-- Don't bre afraid to turn the client down.
+- Don't be afraid to turn the client down.
 - *Don't not negotiate.*
   - Holding strong and not negotiating will RARELY cost you a project.
   - People are afraid to lose projects and are happy to work for a little less.
