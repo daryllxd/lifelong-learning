@@ -31,20 +31,3 @@ The transcendental aesthetic deals with objects as they're given to us by experi
 Space and time are a priori intuition (formed experiences, not something we get from experience.) Every experience must have form and space/time must be in the spectacles.
 
 Premise 1: Space is presupposed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

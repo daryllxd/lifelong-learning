@@ -13,7 +13,3 @@
     To become punctual, DeLonzor suggests putting more routines and structure into your life. For example, do everything you can to prepare for the morning the night before.
 
 4. *They’re comfortable with downtime.* Chronically late people, however, hate downtime. They enjoy the thrill of that last-minute sprint to the finish line and crave stimulation. To be more comfortable with downtime, bring along something to fill those spare moments.
-
-
-
-

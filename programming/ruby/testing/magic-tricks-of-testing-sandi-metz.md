@@ -30,6 +30,3 @@ We conflate commands and queries at our peril. Example, when I pop a queue. I po
         assert_in_delta(29, wheel.diameter, 0.01) # This just asserts a value as to what happens.
       end
     end
-
-
-git-new-remote-tracking
