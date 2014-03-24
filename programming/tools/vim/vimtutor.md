@@ -108,6 +108,18 @@ Aliases in the gitconfig work fine with fugitive.
   noremap works across all modes. to work only in normal mode, we do nnoremap.
   nnoremap <s-v> :<c-u>echo 'use insert mode'<cr> - this will only work in normal mode.
 
+# Vim Register:
+
+System clipboard: "+
+
+
+# Switch layouts
+
+C-w H to go from horizontal to vertical.
+C-w J to go from vertical to horizontal.
+C-w r to swap the buffers.
+C-w w to move cursor.
+
 
 # indenting code:
 
@@ -124,10 +136,7 @@ Aliases in the gitconfig work fine with fugitive.
   `
   map <leader>ac :sp app/controllers/application_controller.rb<cr>
   vmap <leader>b :<c-u>!git blame <c-r>=expand("%:p") <cr> \| sed -n <c-r>=line("'<") <cr>,<c-r>=line("'>") <cr>p <cr>
-  map <leader>bb :!bundle install<cr>
-  nmap <leader>bi :source ~/.vimrc<cr>:bundleinstall<cr>
   vmap <leader>bed "td?describe<cr>obed<tab><esc>"tpkdd/end<cr>o<esc>:nohl<cr>
-  map <leader>cc :!cucumber --drb %<cr>
   map <leader>cu :tabularize /\|<cr>
   map <leader>co ggvg"*y
   map <leader>cc :rjcollection client/
@@ -135,7 +144,6 @@ Aliases in the gitconfig work fine with fugitive.
   map <leader>cm :rjmodel client/
   map <leader>ct :rtemplate client/
   map <leader>cv :rjview client/
-  map <leader>cn :e ~/dropbox/notes/coding-notes.txt<cr>
   map <leader>d odebugger<cr>puts 'debugger'<esc>:w<cr>
   map <leader>gac :gcommit -m -a ""<left>
   map <leader>gc :gcommit -m ""<left>
