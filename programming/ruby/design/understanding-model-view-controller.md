@@ -13,6 +13,24 @@ Model: Text that communicates information to the reader.
 
 CSS: Adds visual style to the content.
 
-Controller: The browser is responsible for combining and rendering the CSS and HTML into a set of final, manipulatible pixels on the screen. It gathers input from the user and sends stuff to JS. We can also plug in a different browser and get comparable results.
+Controller: The browser is responsible for combining and rendering the CSS and HTML into a set of final, manipulatable pixels on the screen. It gathers input from the user and sends stuff to JS. We can also plug in a different browser and get comparable results.
 
+Terrence Parr:
 
+"For the MVC of a web app, I make a direct analogy with the Smalltalk notion of MVC. The model is any of the logic or the database or any of the data itself. The view is simply how you lay the data out and how it is displayed.
+
+If you want a subset of some data, my opinion is that is a responsibility of the model. The model knows how to make a subset. You should not ask your graphic designer to filter a list according to age or some other criteria.
+
+The controller has two parts: The web server that maps incoming HTTP URL requests to a particular handler for that request. Second part: The handler itself.
+
+I look at a website as nothing but a graph with edges with POSTs and GETs that route pages."
+ 
+To know if your app has been segregated: **Is your app skinnable?**
+
+"My experience is that designers don't understand loops or any kind of state. They do understand templates with holes in them. So separating model and view addresses this very important practical problem of how to have designers work with coders."
+
+You should refactor your code so that only the controller is responsible for poking the model data through the relatively static templates represented by the view.
+
+## Comments
+
+"A view is a visual representation of its model. It would highlight certain attributes of the model and suppress others. It is thus acting as a presentation filter. Isn't this what CSS does to HTML? 'Make this bold, increase the size of this, move this DIV over here, hide this content...'"

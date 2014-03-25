@@ -111,6 +111,10 @@ Same with doing across the entire file, just do :%normal A;
 
 http://dalibornasevic.com/posts/43-12-vim-tips
 
+Spell checking - ]s, [s in normal mode
+
+Swap chars: Xp in normal mode
+
   `
   map <leader>ac :sp app/controllers/application_controller.rb<cr>
   vmap <leader>b :<c-u>!git blame <c-r>=expand("%:p") <cr> \| sed -n <c-r>=line("'<") <cr>,<c-r>=line("'>") <cr>p <cr>
