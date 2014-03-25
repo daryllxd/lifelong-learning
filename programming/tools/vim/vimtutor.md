@@ -1,18 +1,6 @@
-:new or :vnew  to open a new window
-:new `file_name` (has to include the directory).
-:vertical-split
-
-:set splitbelow
-:set splitright
-c-w = - to make the 2 panes equal
-
 find and replace through whole file: :%s/replacee/replacer/g (add c to have a prompt)
   replace by itself: r then just keep on typing
 
-  cursor movezz
-  l – jump to the bottom of the screen (“low”)
-  h – jump to the top of the screen (“high”)
-m – jump to the middle of the screen (“middle”)
 
   indent: v to visual, motion to higlight, = to indent, >>.
 
@@ -39,9 +27,6 @@ m – jump to the middle of the screen (“middle”)
   m - mark.
   ` - move to mark with a.
   ' - move to mark with a.
-
-  - `p` to put ghe deleted text after the cursor
-  - to replace the 
 
   external commands
   :w test - create a file
@@ -74,9 +59,6 @@ m – jump to the middle of the screen (“middle”)
       - c-p open ctrlp in find file mode. tab to autocomplete dirs.
       inside: c-u to delete input field. c-w to delete word. c-p to find last
 
-
-  find:help text-objects
-
   normal search: `/`. then `n` to cycle and `n` to cycle back. incremental search: will progr
 
   :set incsearch
@@ -87,14 +69,6 @@ m – jump to the middle of the screen (“middle”)
   edit search history:
   q:, c-f when you search. to edit, go to insert mode etc.
   :h pattern
-
-# Fugitive.vim
-
-:Git
-
-:Git co -b experimental. 
-Aliases in the gitconfig work fine with fugitive.
-
 
 # keymapping
 
@@ -108,11 +82,6 @@ Aliases in the gitconfig work fine with fugitive.
   noremap works across all modes. to work only in normal mode, we do nnoremap.
   nnoremap <s-v> :<c-u>echo 'use insert mode'<cr> - this will only work in normal mode.
 
-# Vim Register:
-
-System clipboard: "+
-
-
 # Switch layouts
 
 C-w H to go from horizontal to vertical.
@@ -120,19 +89,28 @@ C-w J to go from vertical to horizontal.
 C-w r to swap the buffers.
 C-w w to move cursor.
 
-
-# indenting code:
-
-  the leader command to paste: p.
-
 # marks
   ma - set mark "a" at current location
   'a - jump to start of line of mark a
   `a - jump to position (line and col) of mark a
   d'a - delete from current line to line of mark a
 
+Sort properties in CSS: Select the lines and type `:sort`
 
-  dap - delete inside par
+Inserting a line break: Just do r-Enter.
+
+# Insert mode
+
+C-h - delete one char
+C-w - delete one word
+C-u - delete to start of line
+C-k - delete forward to end of line
+
+To run normal mode commands across a range, we can visually select them then run `:normal A;` to do an append semicolon at the land. Helpful when you need to edit something across lines.
+Same with doing across the entire file, just do :%normal A;
+
+http://dalibornasevic.com/posts/43-12-vim-tips
+
   `
   map <leader>ac :sp app/controllers/application_controller.rb<cr>
   vmap <leader>b :<c-u>!git blame <c-r>=expand("%:p") <cr> \| sed -n <c-r>=line("'<") <cr>,<c-r>=line("'>") <cr>p <cr>
@@ -187,10 +165,4 @@ C-w w to move cursor.
   map <leader>vv :rvview<cr>
   map <leader>w <c-w>w
   map <leader>x :exec getline(".")<cr>
-
-  " edit another file in the same directory as the current file
-  " uses expression to extract path from current file's path
-  map <leader>e :e <c-r>=expand("%:p:h") . '/'<cr>
-  map <leader>s :split <c-r>=expand("%:p:h") . '/'<cr>
-  map <leader>v :vnew <c-r>=expand("%:p:h") . '/'<cr>
 

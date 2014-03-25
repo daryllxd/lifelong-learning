@@ -126,9 +126,9 @@ Components:
 - What if I need to create another job like this? (You can actually not need to redo the class.)
 - What if I don't want to ftp a file in every test?
 
-*First Reason: Resistance is a resource. In your personal life, with your children and your dog. It's information you didn't have. You can push back, or you can listen to it. So I can't articu*
+*First Reason: Resistance is a resource. In your personal life, with your children and your dog. It's information you didn't have. You can push back, or you can listen to it.*
 
-If testing seems hard, check your design. Tests reference your code, the design of the code. If the class is hard to test, then the class is badly refactored.
+*If testing seems hard, check your design.* Tests reference your code, the design of the code. If the class is hard to test, then the class is badly refactored.
 
 TDD will punish you if you don't understand design. If you find that doing tests are hard, then you don't need to stop tests. You need to study the design.
 
