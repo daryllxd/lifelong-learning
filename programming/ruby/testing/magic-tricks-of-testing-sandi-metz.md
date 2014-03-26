@@ -77,7 +77,7 @@ So what happens here is you assign @cog to something. So what you need to test i
       assert(27, gear.cog) # Assert the side effect
     end
 
-*Make assertions about the DIRECT side effects.* Direct: It's the responsibility of the last Ruby class involved.
+*Make assertions about the DIRECT public side effects.* Direct: It's the responsibility of the last Ruby class involved.
 
 Remember: The Receiver of the incoming message has the *sole responsibility* for asserting the result of direct public side effects!
 
@@ -85,6 +85,66 @@ Remember: The Receiver of the incoming message has the *sole responsibility* for
 
 So, how should we test `ratio`? Some people are thinking about making an explicit test for this.  *If the test for gear inches is correct, this test will be redundant*.
 
-Second, they do the `gear.expect(:ratio)` to be sent, too. This is a problem because it *binds you to the current implementation*. It makes it impossible for you to change this code. So *don't test private methods*. Caveat: Break rule if it saves $$$ during development.
+Second, they do the `gear.expect(:ratio)` to be sent, too. This is a problem because it *binds you to the current implementation*. As far as you are concerned, this method does not exist. It makes it impossible for you to change this code. So *don't test private methods*. Caveat: Break rule if it saves $$$ during development.
 
+*The rules of private methods are don't test them. Do not make assertions about their result, and do not expect to send them.*
 
+## Outgoing Query Messages
+
+We already know that the query works. So why would you actually duplicate Wheel's test? It's an anti-pattern to duplicate that test. This doesn't prove anything!
+
+*Rules: Do not test outgoing query messages. Do not make assertions about their result, do not expect to send them.*  If a message has no visible side-effects, **it is invisible to rest of your app. So the sender should *not* test it**.
+
+## Outgoing Command Messages
+
+When player changes `Gears`, things change.
+
+    class Gear
+      attr_reader :chainring. :cog, :wheel, :observer
+      def initialize(args)
+        @observer = args[:observer]
+      end
+
+      def set_cog(new_cog)
+        @cog = new_cog
+        changed
+        @cog
+      end
+
+      def changed
+        observer.changed(chainring, cog)
+      end
+
+    end
+
+This is sort of observer pattern-ish. So when a cog is changed, observers are sent. So to the observer, `changed` is an *INCOMING* command message. So this message *HAS* to be sent, it has to.
+
+So it is very tempting to write code like this:
+
+    def test_saves_changed_cog_in_db
+      @observer = Obs.new
+      @gear = Gear.new(chainring: 52, cog: 11, observer: @observer)
+      @gear.set_cog(27)
+
+      # assert something about the state of the db
+    end
+
+What happens is you are banking on something that can change VERY far away. Gear's responsibility is not to update the database, it should NOT EVEN KNOW THAT IT IS HAPPENING. This is an integration test. Gear's job is to just send this thing, and to test this, we require using a mock.
+
+    def test_notifies_observers_when_cogs_change
+      @observer = MiniTest::Mock.new
+      @gear = Gear.new(chainring: 52, cog: 11, observer: @observer)
+      @observer.expect(:changed, true, [52, 27])
+      @gear.set_cog(27)
+      @observer.verify
+    end
+
+This test does not depend on the objects and messages and side effects. *This test depends on the interface of the message, it tests the thing for which `Gear` is responsible.*
+
+## Rule: Expect to send outgoing command messages. Caveat, just break the rule if the side effects are stable and cheap.
+
+What happens if Observer stops implementing `changed`?
+
+The mock plays a role of an object in your app. The fake thing and the real thing both promise that they are going to implement a common API, and it is your job that your fakes and your doubles keep your promise. So honor the contract.
+
+Be a minimalist: Each additional adds a cost. The rule is *Test Everything Once*. These rules are simple, and these are our jobs.
