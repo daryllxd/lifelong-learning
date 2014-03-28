@@ -1,8 +1,8 @@
 ## RailsCasts: Bundler (revised)
 
-When we create a new Rails application `bundle install` or `bundle` is run so that all the gems the application depends on are installed. This includes all the gems listed in the gemfile and their dependencies.
+When we create a new Rails application `bundle install` or `bundle` is run so that all the gems the application depends on are installed. This includes all the gems listed in the Gemfile and their dependencies.
 
-When we add a gem to the gemfile we don’t need to specify a version number. If we omit the version number Bundler will use the latest released version by default. If we run bundle install again later after a new version of a gem has been installed the version that was first installed will stay. The reason for this is that the version number of the installed version for each gem in the application is stored in a Gemfile.lock file.
+When we add a gem to the Gemfile we don’t need to specify a version number. If we omit the version number Bundler will use the latest released version by default. If we run bundle install again later after a new version of a gem has been installed the version that was first installed will stay. The reason for this is that the version number of the installed version for each gem in the application is stored in a Gemfile.lock file.
 
 The ~ means only update cap if the last number is changed.
 
