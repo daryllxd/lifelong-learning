@@ -1,6 +1,10 @@
 find and replace through whole file: :%s/replacee/replacer/g (add c to have a prompt)
   replace by itself: r then just keep on typing
 
+f - find INCLUSIVE
+t - find EXCLUSIVE
+
+Macro - qa { Keybind } then end macro recording with q. then access the register `a` by @a.
 
   indent: v to visual, motion to higlight, = to indent, >>.
 

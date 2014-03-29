@@ -35,13 +35,13 @@ So have a Plan B.
 ## Continuous Deployment
 - Automate deployment trigger
 - Rolling deploy/zero-downtime deploy
-- nginx/unicorn
-- linode/capistrano
+- Nginx/unicorn
+- Linode/Capistrano
 - opsworks -> chef
 
-Heroku rolling deploys - need to google, 2 dynos 
+Heroku rolling deploys - need to Google, 2 dynos 
 
-intel emulator HAXM
+Intel emulator HAXM
 
 ## So You Want to Each Ruby and Rails
 
@@ -91,3 +91,20 @@ Simulation suggest small internal factors can be enough to trigger crises that c
 - Then do a `git push` to the origin/topic branch. Then you see a new branch, then.
 - So you merge from daryll/rails:mybranch to rails/rails:master
 - next need to reproduce an issue using a test.
+
+# Multithreading with Ruby
+- .join shit
+- Fibers vs. thread: Programmers specify when to give up control, which prevents concurrency issues, and they are lightweight
+
+Used in: DB Call, API request, File IO
+
+# Zomg Scale
+
+Concurrency vs parallelism
+Processes: x cores == x processes?
+GIl (global interpreter lock)/MRI.
+
+Threads - if you must do it, don't share across data. If you must share, don't have mutable data
+celluloid
+reel
+

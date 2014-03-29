@@ -8,13 +8,13 @@
 
 ## Gemzorz: 
 
-    rspec-rails: Rails wrapper for rspec
-    factory_girl_rails: Replaces fixtures with factories.
-    faker: Generates names, emails addresses, other placeholders for factories.
-    capybara: Makes it easy to programmatically simulate your users' interactions with your web application.
-    database_cleaner: Helps make sure each spec run in RSpec begins with a clean state
-    launchy: Opens your default web browser on demand to show you what your application is rendering.
-    selenium_webdriver: Lets you do JS-based browser interactions with capybara
+    `rspec-rails`: Rails wrapper for rspec
+    `factory_girl_rails`: Replaces fixtures with factories.
+    `faker`: Generates names, emails addresses, other placeholders for factories.
+    `capybara`: Makes it easy to programmatically simulate your users' interactions with your web application.
+    `database_cleaner`: Helps make sure each spec run in RSpec begins with a clean state
+    `launchy`: Opens your default web browser on demand to show you what your application is rendering.
+    `selenium_webdriver`: Lets you do JS-based browser interactions with capybara
 
 `rspec-rails` and `factory_girl_rails` are used in both the development and test environments, specifically by generators. The others are only used when you actually run your specs, so they're not necessary to load in development.
 

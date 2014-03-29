@@ -2,7 +2,7 @@
 
 1. Base: 
 
-		html, body, form { margin: 0; padding: 0; }, input[type=text] { border: 1px solid #999; }, a { color: #039; }, a:hover { color: #03C; }
+  html, body, form { margin: 0; padding: 0; }, input[type=text] { border: 1px solid #999; }, a { color: #039; }, a:hover { color: #03C; }
 
 2. Layout: Divide the page into sections.
 3. Module: Reusable, modular parts of our design. Callouts, sidebars
@@ -11,10 +11,10 @@
 
 #### Naming
 
-	Layout: l-
-	Grid: g-
-	State: is- (is-hidden, is-collapsed)
-	Modules: The bulk of the project, use the name of the module itself (.example, .callout, .callout.is-collapsed)
+  Layout: l-
+  Grid: g-
+  State: is- (is-hidden, is-collapsed)
+  Modules: The bulk of the project, use the name of the module itself (.example, .callout, .callout.is-collapsed)
 
 #### Base Rules
 
@@ -39,13 +39,13 @@ Base styles include setting heading sizes, default link styles, default font sty
 
 You want to apply to the source itself, not the parent or the sibling. Ex: Dropdown active style applies to the button and not the toolbar.
 
-	.btn { color: #333; }
-	.btn-pressed { color: #000; }
-	.btn-disabled { opacity: .5; pointer-events: none; }
+  .btn { color: #333; }
+  .btn-pressed { color: #000; }
+  .btn-disabled { opacity: .5; pointer-events: none; }
 
 Pseudo-classes can be combined with the shits
 
-	.btn, .btn:focus, .btn:focus, .btn.is-pressed, .btn.is-pressed:hover
+  .btn, .btn:focus, .btn:focus, .btn.is-pressed, .btn.is-pressed:hover
 
 Media queries
 
@@ -53,9 +53,9 @@ Media queries
 
 We hate things like this. They depend on the underlying HTML structure.
 
-	#sidebar div
-	#sidebar div h3
-	#sidebar div ul
+  #sidebar div
+  #sidebar div h3
+  #sidebar div ul
 
 ## Selector Performance 
 
@@ -78,61 +78,32 @@ Consider selector performance but honestly the difference is just 50ms... so.
 
 When making a table, since you may make different types of table in the future just have some kind of "base table" that you can add a module to.
 
-	table{} # base for all tables, such as the border-collapse: collapse thingie
-	.comparison{}
-	.comparison > tr > td{}
-	.comparions > tr > td:nth-child(2n){}
-	.info > tr > th{} # Different component for info tables
-	.info > tr > td{}
+  table{} # base for all tables, such as the border-collapse: collapse thingie
+  .comparison{}
+  .comparison > tr > td{}
+  .comparions > tr > td:nth-child(2n){}
+  .info > tr > th{} # Different component for info tables
+  .info > tr > td{}
 
 Icons
 
-	.ico {
-	    display: inline-block;
-	    background: url(/img/sprite.png) no-repeat;
-	    line-height: 0;
-	    vertical-align: bottom;
-	}
-	.ico-16 {
-	    height: 16px;
-	    width: 16px;
-	}
-	.ico-inbox {
-	    background-position: 20px 20px;
-	}
-	.ico-drafts {
-	    background-position: 20px 40px;
-	}
+  .ico {
+      display: inline-block;
+      background: url(/img/sprite.png) no-repeat;
+      line-height: 0;
+      vertical-align: bottom;
+  }
+  .ico-16 {
+      height: 16px;
+      width: 16px;
+  }
+  .ico-inbox {
+      background-position: 20px 20px;
+  }
+  .ico-drafts {
+      background-position: 20px 40px;
+  }
 
 (For IE, you can use `zoom:1; display: inline;` for IE to behave like the inline-block elements.)
 
 To optimize images, use Smush.it or ImageOptim.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
