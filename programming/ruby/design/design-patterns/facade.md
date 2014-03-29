@@ -7,7 +7,7 @@ Often, we needed more than one type of thing on a page. Ex: A homepage needed bo
 
 We solved this using a Facade Pattern.
 
-> app/facades/dashboard.rb:
+> `app/facades/dashboard.rb`:
 
     class Dashboard
       def initialize(user)
@@ -31,7 +31,7 @@ We solved this using a Facade Pattern.
       attr_reader :user
     end
 
-> a/c/dashboards_controller.rb:
+> `a/c/dashboards_controller.rb`:
 
     class DashboardsController < ApplicationController
       before_filter :authorize
@@ -41,7 +41,7 @@ We solved this using a Facade Pattern.
       end
     end
 
-> a/v/dashboards/show.html.erb:
+> `a/v/dashboards/show.html.erb`:
 
     <%= render 'profile' %>
     <%= render 'groups', groups: @dashboard.group %>

@@ -1,3 +1,8 @@
+Terminal shortcuts
+- C-U - clear entire line
+- C-K - delete from cursor to end of line
+- C-W delete word before cursor
+- C-R search history
 find and replace through whole file: :%s/replacee/replacer/g (add c to have a prompt)
   replace by itself: r then just keep on typing
 

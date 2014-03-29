@@ -108,3 +108,14 @@ Threads - if you must do it, don't share across data. If you must share, don't h
 celluloid
 reel
 
+# Ruby & Rails to Hack Your MVP
+
+1. Interviewing - 100s of Interviews, test key assumptions in their conversations.
+Stop doing stuff for free, what do you buy now? Before collecting money -- tell them the price, but then start charging them.
+Mastering Modern Payments - Pete Keen
+Growth: Find a way to make it sustainable business
+
+Logdown
+
+# Ruby Core for Tender Feet
+
