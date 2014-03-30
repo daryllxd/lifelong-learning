@@ -1,3 +1,5 @@
+Exhuberant CTAGS FTW: C-]
+
 Terminal shortcuts
 - C-U - clear entire line
 - C-K - delete from cursor to end of line
@@ -124,58 +126,4 @@ Spell checking - ]s, [s in normal mode
 
 Swap chars: Xp in normal mode
 
-  `
-  map <leader>ac :sp app/controllers/application_controller.rb<cr>
-  vmap <leader>b :<c-u>!git blame <c-r>=expand("%:p") <cr> \| sed -n <c-r>=line("'<") <cr>,<c-r>=line("'>") <cr>p <cr>
-  vmap <leader>bed "td?describe<cr>obed<tab><esc>"tpkdd/end<cr>o<esc>:nohl<cr>
-  map <leader>cu :tabularize /\|<cr>
-  map <leader>co ggvg"*y
-  map <leader>cc :rjcollection client/
-  map <leader>cj :rjspec client/
-  map <leader>cm :rjmodel client/
-  map <leader>ct :rtemplate client/
-  map <leader>cv :rjview client/
-  map <leader>d odebugger<cr>puts 'debugger'<esc>:w<cr>
-  map <leader>gac :gcommit -m -a ""<left>
-  map <leader>gc :gcommit -m ""<left>
-  map <leader>gs :gstatus<cr>
-  map <leader>gw :!git add . && git commit -m 'wip' && git push<cr>
-  map <leader>f :call openfactoryfile()<cr>
-  map <leader>fix :cnoremap % %<cr>
-  map <leader>fa :sp test/factories.rb<cr>
-  map <leader>i mmgg=g`m<cr>
-  map <leader>j :commandt app/assets/javascripts<cr>client/
-  map <leader>l oconsole.log 'debugging'<esc>:w<cr>
-  map <leader>m :rmodel 
-  map <leader>o :w<cr>:call runcurrentlineintest()<cr>
-  map <leader>ra :%s/
-  map <leader>rd :!bundle exec rspec % --format documentation<cr>
-  map <leader>rf :commandtflush<cr>:commandt<cr>
-  map <leader>rs :vsp <c-r>#<cr><c-w>w
-  map <leader>rt q:?!ruby<cr><cr>
-  map <leader>rw :%s/\s\+$//<cr>:w<cr>
-  map <leader>sc :sp db/schema.rb<cr>
-  map <leader>sg :sp<cr>:grep 
-  map <leader>sj :call openjasminespecinbrowser()<cr>
-  map <leader>sm :rsmodel 
-  map <leader>sp yss<p>
-  map <leader>sn :e ~/.vim/snippets/ruby.snippets<cr>
-  map <leader>so :so %<cr>
-  map <leader>sq j<c-v>}klllcs<esc>:wq<cr>
-  map <leader>ss ds)i <esc>:w<cr>
-  map <leader>st :!ruby -itest % -n "//"<left><left>
-  map <leader>su :rsunittest 
-  map <leader>sv :rsview 
-  map <leader>t :w<cr>:call runcurrenttest()<cr>
-  map <leader>y :!rspec --drb %<cr>
-  map <leader>u :runittest<cr>
-  map <leader>vc :rvcontroller<cr>
-  map <leader>vf :rvfunctional<cr>
-  map <leader>vg :vsp<cr>:grep 
-  map <leader>vi :tabe ~/.vimrc<cr>
-  map <leader>vu :rvunittest<cr>
-  map <leader>vm :rvmodel<cr>
-  map <leader>vv :rvview<cr>
-  map <leader>w <c-w>w
-  map <leader>x :exec getline(".")<cr>
 
