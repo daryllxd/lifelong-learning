@@ -1,4 +1,5 @@
 Exhuberant CTAGS FTW: C-]
+. - repeat last typed thingie
 
 Terminal shortcuts
 - C-U - clear entire line

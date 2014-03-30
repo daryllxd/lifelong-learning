@@ -20,3 +20,7 @@ Field Notes has a video that shows the inspiration behind each new release.
 *Your Studio*
 
 Inviting your cx into your workspace will help them get to know the people and process behind your products.
+
+*Your Process*
+
+Share a peek inside your sketchbook or a snapshot of in-progress pieces. What you do is downright magical to your customers and they would love to see a behind the scenes look at your creative process
