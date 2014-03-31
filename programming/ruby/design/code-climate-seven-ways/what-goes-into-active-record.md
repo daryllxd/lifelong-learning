@@ -36,12 +36,20 @@ Simple stuff only. No conditionals.
 
 Query method such as `newest_subscriber`. DO NOT CALL WHERE OUTSIDE OF AN AR CLASS. You couple yourself to the database fields.
 
-Create methods.
+Create methods: Creating a type of user which is different from normal. In his case he did this:
+
+    def self.create_subscriber(email)
+      create!(:email => email, :subscribed => true)
+    end
+
+This is different from create user, which has no email.
+
+So all of them are short and are not domain logic. All of these are very thin wrappers that are just hiding the database details.
 
 ## Stuff That Doesn't Belong
 
 - AR callbacks such as `before_create` and `before_save`. They are a bad idea because we try to hit the BrainTree API every time a user is created. Every time a test creates a user, it stubs out the Braintree API call, so you have to stub this using `fake_braintree`. Higher level domain logic about users are created are not needed in the system.
-- `add_one_month_of_credit!` straddles the boundary between mapping to db and application logic. The logic of computing the date is extracted to something outside the class, and the attribute updating is left.  
+- `add_one_month_of_credit!` straddles the boundary between mapping to database and application logic. The logic of computing the date is extracted to something outside the class, and the attribute updating is left.  
 
       def pay_through(paid_through_date)
         self.paid_through_date = paid_through_date
@@ -63,3 +71,22 @@ Create methods.
 
 - `next_billing_date`, which is used only in the view, will be moved to a presenter.
 
+# What Goes Into Active Record 2
+
+Callbacks:
+
+    before_create :create_braintree_customer
+    before_save :update_braintree_email
+
+    def create_braintree_customer
+      customer = Braintree::Customer.create!(email: email)
+      self.braintree_customer_id = customer_id
+    end
+
+    def update_braintree_email
+      if persisted? and changed.include?('email')
+        Braintree::Customer.update!(braintree_customer_id, email: email)
+      end
+    end
+
+So the first is a BT callback that creates a customer, to update the thing. BTW the order is `before_save` -> `before_create` -> `save`.
