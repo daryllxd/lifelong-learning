@@ -40,11 +40,6 @@ Macro - qa { Keybind } then end macro recording with q. then access the register
   ` - move to mark with a.
   ' - move to mark with a.
 
-  external commands
-  :w test - create a file
-  :!rm test - delete a file
-  =vimcasts netrw.vim 
-
 # Vimcasts  - Rails
 
   moving across definitiojns
@@ -126,5 +121,4 @@ http://dalibornasevic.com/posts/43-12-vim-tips
 Spell checking - ]s, [s in normal mode
 
 Swap chars: Xp in normal mode
-
 
