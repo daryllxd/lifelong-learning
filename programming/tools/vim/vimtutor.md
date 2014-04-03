@@ -1,5 +1,15 @@
+# Insert mode
+
+C-h - delete one char
+C-w - delete one word
+C-u - delete to start of line
+C-k - delete forward to end of line
+
 Exhuberant CTAGS FTW: C-]
 . - repeat last typed thingie
+
+L-n to rename file
+RSpec let - gary bernhardt
 
 Terminal shortcuts
 - C-U - clear entire line
@@ -106,19 +116,10 @@ Sort properties in CSS: Select the lines and type `:sort`
 
 Inserting a line break: Just do r-Enter.
 
-# Insert mode
-
-C-h - delete one char
-C-w - delete one word
-C-u - delete to start of line
-C-k - delete forward to end of line
-
 To run normal mode commands across a range, we can visually select them then run `:normal A;` to do an append semicolon at the land. Helpful when you need to edit something across lines.
 Same with doing across the entire file, just do :%normal A;
 
 http://dalibornasevic.com/posts/43-12-vim-tips
-
-Spell checking - ]s, [s in normal mode
 
 Swap chars: Xp in normal mode
 
