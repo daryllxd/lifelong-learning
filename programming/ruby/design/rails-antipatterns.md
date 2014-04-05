@@ -211,5 +211,275 @@ Why Ruby in the view sucks:
 - Presentation logic but it could be overly complex.
 - View templates are in HTML. Validating HTML is harder if Ruby.
 
+### Solution: Learn About the View 
 
+*Bad:*
 
+    - @posts.each do |post|
+      = render :partial => 'post', :object => :post
+
+*Good*
+
+    = render :partial => 'post', :collection => @posts
+
+*Better*
+
+    = render @posts
+
+### Helper Tests
+
+    context "the rss_link method" do
+      setup do
+        @result = rss_link(@project)
+      end
+
+      should "hae the project name in the rss link" do
+        assert_match /Subscribe to these #{@project.name} alerts/, @result
+      end
+
+      should "include a link to the rss" do
+        assert_match /href="#{alerts_rss_url(@project)}"/, @result
+      end
+    end
+### Semantic Markup
+
+- Every element that wraps specific content should have a class or id attribute applied to it that identifies that content.
+- The right tags should be used for the right content.
+- Styling should be done at the CSS level, never on the element directly.
+
+Web design wants you to have a site that can be completely restyled without modifying any HTML content; only CSS changes would be allowed.
+
+*Bad:*
+
+    .post{id: @post.id}
+    li.comment{id: comment.id}
+
+*Good:*
+
+    = div_for @post
+    = content_tag_for :li, comment do
+      = comment.body
+
+*Better:*
+
+    %div[@post]
+    %li[@comment]
+      = comment.body
+
+## Controllers
+
+*Horrible:*
+
+    class ArticlesController < ApplicationController
+      def create
+        @article = Article.new(params[:article])
+        @article.reporter_id = current_user.id
+
+        begin
+          Article.transaction do
+            @version = @article.create_version!(params[:version], current_user)
+          end
+        rescue ActiveRecord::RecordNotSaved, ActiveRecordRecordInvalid
+          render :action => :new and return false
+        end
+
+        redirect_to article_path(@article)
+      end
+    end
+
+`Article.transaction do`, which starts a database transaction, is not supposedt to be in the controller.
+
+ActiveRecord lifecycles are wrapped in transactions themselves. A standard AR lifecycle method is `save`.
+
+For security purposes, actions where you assign the ID of the user who creates whatever should be stored in the controller rather than the form field.
+
+To set default values in AR, use a DB default. (Constraints are handled by validations).
+
+    (Migration)
+    def self.up
+      change_column_default :article_versions, :state, "Raw"
+    end
+
+For something that is updated every time you save, then just use an `after_save` callback.
+
+    def set_version_number
+      self.version = (article.current_version ? article.current_version : 0) + 1
+    end
+
+`Bad:`
+
+    @article.reporter.id = @current_user.id
+
+`Good:`
+
+    @article = @current_user
+
+### Presenters (MVP)
+
+A presenter is a PORO that orchestrates the creation of multiple models -- it can also send emails, or trigger events that would normally be placed in a controller action.
+
+Test First
+
+    class SignUpTest < ActiveSupport::TestCase
+      should validate_presence_of :account_subdomain
+      should validate_presence_of :user_email
+      should validate_presence_of :user_password
+
+      should "be a presenter for account and user" do
+        assert_contains Signup.new.presented.keys, :account
+        assert_contains Signup.new.presented.keys, :user
+      end
+
+      should "assing the user to the account on save" do
+        signup = Signup.new(:account_subdomain => "subdomain", 
+                            :user_email => "e@mail.com", 
+                            :user_password => "passw0rd")
+        assert signup.save
+        assert user = signup.user
+        assert account = signup.account
+        assert_equal account.id, user.account.id
+      end
+    end
+
+Test Description:
+
+- Ensures validations are there
+- Ensures it is an Active Presenter class
+- Ensures it is responsible for User and account classes
+- Ensures the user and account are associated with each other on save
+
+Presenter class
+
+    class Signup < ActivePresenter::Base
+      before_save :assign_user_to_account
+      presents :user, :account
+
+      private
+
+      def assign_user_to_account
+        user.account = account
+      end
+    end
+
+[TODO]: Finish_this!
+
+### Bloated Sessions
+
+*Store References Instead of Instances:* Store `id` instead.
+
+Ex: Multistep wizard
+
+    class OrdersController < ApplicationController
+      def new
+        session[:order] = Order.new
+      end
+
+      def billing
+        session[:order].attributes = params[:order]
+        if !session[:order].valid?
+          render :action => :new
+        end
+      end
+
+      def shipping
+        session[:order].attributes = params[:order]
+        if !session[:order].valid?
+          render :action => :billing
+        end
+      end
+
+      def payment
+        session[:order].attributes = params[:order]
+        if !session[:order].valid?
+          render :action => :shipping
+        end
+      end
+
+      def create
+        if session[:order].save
+          flash[:success] = "Order placed successfully"
+          redirect_to order_path(session[:order])
+        else
+          render :action => :payment
+        end
+      end
+
+      def show
+        @order = Order.find params[:id]
+      end
+    end
+
+Solutions: Either hit the database for each step when you store the thing, or store in hidden form value.
+
+### AntiPattern: Monolithic Controllers
+
+Try to use REST whenever you can. If authentication is in the `UsersController`, then extract the `login` method into a `session#new` and `session#destroy` action.
+
+    resource :sessions, :only => [:new, :create, :destroy]
+    match "/login", => "user_sessions#new", :as => :login
+    match "/logout", => "user_sessions#destroy", :as => :logout
+
+### Nested Resources
+
+Albums contain songs. Passing the parent ID is a code smell. Solve this by using nested resource, so you don't pass the ID via the URL.
+
+You can then use a `before_filter` to grab the album parameter:
+
+    class SongsController < ApplicationController
+      before_filter :grab_album_from_album_id
+
+      private
+
+      def grab_album_from_album_id
+        @album = Albu.find(params[:album_id])
+      end
+    end
+
+### AntiPattern: Evil Twin Controllers
+
+Instead of `format.html`, `format.json`, etc... use Rails responders.
+
+    class SongsController < ApplicationController
+      respond_to :html, :xml
+
+      def show
+        @song = songs.find(params[:id])
+        respond_with(@song)
+      end
+
+      def new
+        @song = songs.new
+        respond_with(@song)
+      end
+
+## Services
+
+## Using Third-Party Code
+
+## Testing
+
+## Scaling and Deploying
+
+## Databases
+
+*Never modify the `up` method in a Committed Migration.* Someone might have just changed the whole thing already. You need to run up and down the migration just to make sure that it works You need to run up and down the migration just to make sure that it works.
+
+*Never use External Code in a Migration.* Don't do this:
+
+    def self.up
+      add_column :users, :jobs_count, :integer, :default => 0
+      Users.all.each do |user|
+        user.jobs_count = user.jobs.size
+        user.save
+      end
+    end
+
+Problem: Horrible code, since we load all the users into memory. Also, this will not run if the model is removed from the application, becomes unavailable, or changes in some way that makes the code in the migration no longer valid. Use straight SQL whenever possible in your migrations.
+
+*Eschew Constraints in the Database.* Better to not fight the opinion of AR that database constraints are declared in the model and the DB should be a datastore.
+
+The only exception is NULL constraints (with default database values), store the value in the database.
+
+    add_column :users, :active, :boolean, :null => false, :default => true
+
+## Building for Failure
