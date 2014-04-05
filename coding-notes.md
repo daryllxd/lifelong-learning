@@ -1,4 +1,5 @@
 # Coding notes and shit
+      binding.pry
 
 `before_validation`
 `email ver -just random regex`
@@ -8,3 +9,5 @@ Switch the ruby versions ffs...
 Developer.projects.build == Project.new("developer_id" => id); project.save; project) if in `has_many` and `HABTM`
 link_to :back
 reset_column_information lolz
+
+problem: not setting school, not setting the email address

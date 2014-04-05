@@ -483,3 +483,4 @@ The only exception is NULL constraints (with default database values), store the
     add_column :users, :active, :boolean, :null => false, :default => true
 
 ## Building for Failure
+

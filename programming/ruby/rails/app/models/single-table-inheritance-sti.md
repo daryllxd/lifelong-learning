@@ -2,7 +2,7 @@
 
 Currently, we have this:
 
-> a/m/user.rb
+     a/m/user.rb
 
     class User < ActiveRecord::Base
       has_many :tasks, dependent: :destroy
@@ -110,20 +110,20 @@ We can either: add a `:members` resources and set it up to that it redirects to 
       end
     end
 
-[TODO] this. I don't really understand everything.
+[TODO]: this. I don't really understand everything.
 
 ## Ruby Science: Single Table Inheritance (STI)
 
 Rails provides a mechanism for storing instances of different classes in the same table, called Single Table Inheritance. 
 
-Rails will take care of most of the details, writing the class’s name to the type column and instantiating the correct class when results come back from the database.
+Rails will take care of most of the details, writing the class's name to the type column and instantiating the correct class when results come back from the database.
 
 #### Symptoms
 - You need to change from one subclass to another.
 - Behavior is shared among some subclasses but not others.
 - One subclass is a fusion of one or more other subclasses.
 
-> a/m/question.rb
+    a/m/question.rb
 
     def switch_to(type, new_attributes)
         attributes = self.attributes.merge(new_attributes)
@@ -135,7 +135,7 @@ Rails will take care of most of the details, writing the class’s name to the t
             new_question.save!
         end
 
-        rescue ActiveRecord::RecordInvalid 
+          rescue ActiveRecord::RecordInvalid 
         end
 
         new_question
