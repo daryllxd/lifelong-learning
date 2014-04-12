@@ -5,7 +5,8 @@ C-w - delete one word
 C-u - delete to start of line
 C-k - delete forward to end of line
 
-Exhuberant CTAGS FTW: C-]
+Tabularize: :Tabularize /\# or /\| or whatever thingie.
+
 . - repeat last typed thingie
 
 L-n to rename file
