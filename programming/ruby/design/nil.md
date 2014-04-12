@@ -14,4 +14,4 @@ The problem here is that `nil` has no value. Is the price zero? Is the price unk
 
 Nil is a slap in the face of duck-typing. Nil violates duck typing. Whereas we can have "attempt to do this", `nil` just does nothing. `nil` says I don't care, and it forces you to look for things anywhere.
 
-What's funny is people say that they hate the `is_a?`, but they are fine with `nil`.
+
