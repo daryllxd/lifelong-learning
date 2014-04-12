@@ -59,7 +59,6 @@ If it's code that I don't know and don't understand as well, one thing I like to
 ## Development, Integration, Test, and Live Environment
 
 - Don't be satisfied with "works on my machine".
-- Integration environment = automated tests on the continuous integration system, system should be deployed automatically here whenever code is committed.
 - The test environment is for QA folks to test stuff.
 - The staging environment is for smoke tests.
 - The live environment is where end user meets the system.
