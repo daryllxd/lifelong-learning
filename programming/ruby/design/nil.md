@@ -23,9 +23,9 @@ People are good at accepting that "checking if an object is an instance of a cla
 
 As soon as we return `nil` once, any other method that calls it becomes unfriendly.
 
-## Alternatives
+## Null Object Pattern
 
-Null Object: "I'm going to create the idea of an object without not having a price." We can actually create something like "UnsentPrice" or "FreeItem" to not just say it is a Null Object but to specify the reason why it doesn't have a price. Ex: Guest accounts, it's not a `NullUser`, it's a `GuestUser`.
+Null Object: "I'm going to create the idea of an object without not having a price." We can actually create something like "UnsentPrice" or "FreeItem" to not just say it is a Null Object but to specify the reason why it doesn't have a price. Ex: Guest accounts, it's not a `NullUser`, it's a `Guest`.
 
 We want to have this:
 
@@ -39,13 +39,57 @@ We have valuable information (it's not just the price got lost). To some degree,
 
 So ask yourself: "Where should I ask the question of when should I know what to do?" What you don't want to happen is:
 
-    if is_a? FreeSubscription
+    if is_a?(FreeSubscription)
 
-We revert to conditionals, and we actually do a class check at this point.
+This is not your pattern. We revert to conditionals, and we actually do a class check at this point. So only use `FreeSubscription` if you never (or rarely) have to ask if a subscription is free or not.
 
-- Encapsulate
-- Polymorphism
-- 
+## Exceptions
+
+This can help at least encapsulate conditional logic, and put it in a place. This helps prevent ridiculous debugging issues. When you have a hash, and get a missing key, you don't want to have a `nil`, you can raise an exception and fail, loudly and early.
+
+    Account.find_each do |account|
+      account.charge_for_subscription
+    end
+
+    class Account
+      def charge_for_subscription
+        credit_card.charge(subscription.price)
+      end
+    end
+
+If we don't have a credit card for each account, then this doesn't work (we don't have a credit card to charge). Normally, what happens is that we return `nil` and get a `NoMethodError`. (Bad because it can affect parts of the app that are so far from where the `nil` was actually introduced.
+
+While we can rescue the `NoMethodError`, it's not a good idea because this error can mean other things (we might have another bug somewhere else and we're still letting the thing keep running). What we do is to define an `Exception` especially for this situation:
+
+    class Account < AR::Base
+      class NoCreditCardError < StandardError
+      end
+
+      def credit_card
+        super || raise NoCreditCardError
+      end
+    end
+
+Assuming we have a `has_many`, we call the `super` method and explicitly raise an error, instead of letting the credit card get passed. It's also better to rescue, since we explicitly tell Ruby what exception we deal with:
+
+    Account.find_each do |account|
+      begin
+        account.charge_for_subscription
+      rescue NoCreditCardError => exception # as opposed to NoMethodError, which can come from anywhere
+        Airbrake.notify(exception)
+      end
+    end
+
+## Maybe?
+
+[TODO]: FINISH!!
+
+`github.com/mike-burns/wrapped`
+
+## Nil is Unfriendly
+- Null object
+- Exceptions
+- Maybe. Use when you need different handling situations for `nil`.
 
 # DAS: How and Why to Avoid Nil
 

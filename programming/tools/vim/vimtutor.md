@@ -7,6 +7,8 @@ C-k - delete forward to end of line
 
 Tabularize: :Tabularize /\# or /\| or whatever thingie.
 
+Commentary: gc (motion), gc = new verb to comment
+
 . - repeat last typed thingie
 
 L-n to rename file
