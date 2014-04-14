@@ -3,7 +3,7 @@ Weirich convention for choosing `{}` and `do...end` in blocks:
 - If blocks are evaluated for their result value, do braces.
 - If blocks are evaluated for their side effects, do do-end.
 
-## Why OOP 
+## Why OOP?
 - This makes apps easier to change.
 - Rails is reaching a point in time where a lot of projects are starting to mature.
 - Part of the nature of change is that you don't know what is going to change. So don't think too much about what will change and what will not.
@@ -16,7 +16,7 @@ Weirich convention for choosing `{}` and `do...end` in blocks:
 - Small object interfaces with simple method signatures.
 - Preferring composition over inheritance.
 
-## Yet Another Frikking Blog App
+## Yet Another Freaking Blog App
 
     $ rails new bloog --skip-test-unit --skip-prototype
     #=> root to: "blog#index"
@@ -25,7 +25,7 @@ Weirich convention for choosing `{}` and `do...end` in blocks:
     #=> Instantiate @blog in controller
     #=> Create Blog model to have accessors
 
-> Add `:entries` to Blog so we can keep track of all entries.
+Add `:entries` to `Blog` so we can keep track of all entries.
 
     class Blog
         attr_reader :entries
@@ -35,7 +35,7 @@ Weirich convention for choosing `{}` and `do...end` in blocks:
         end
     end
 
-> Write the code you want to exist in the controller, before actually writing it in the model.
+Write the code you want to exist in the controller, before actually writing it in the model.
 
     def index
         @blog = Blog.new
@@ -45,7 +45,7 @@ Weirich convention for choosing `{}` and `do...end` in blocks:
         post1.publish
     end
 
-> Making new entries: Because we want to keep out tests isolated, and we only want to test one model at a time, we make the process by which new posts are created easy to swap out:
+Making new entries: Because we want to keep out tests isolated, and we only want to test one model at a time, we make the process by which new posts are created easy to swap out:
 
     class Blog
         attr_writer :post_source
