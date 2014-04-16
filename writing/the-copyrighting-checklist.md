@@ -1,4 +1,5 @@
-The Copywriting Checklist: How to Sell the Crap Out of Great Products and Services
+# The Copywriting Checklist: How to Sell the Crap Out of Great Products and Services
+
 * Instant Clarity Headline
 * Declare the Problem
 * Present your Solution
@@ -9,7 +10,9 @@ The Copywriting Checklist: How to Sell the Crap Out of Great Products and Servic
 * Reverse All Risk
 * Price Anchoring
 * FAQ
-Instant Clarity Headline
+
+# Instant Clarity Headline
+
 * End Result Customer Wants + Specific Period Of Time + Address the Objections
 * Tells the customer in seconds what your product will do for them, not what it is.
 Recruit 2 Top Producing Agent Each Week Without Cold Calling or Rejection
@@ -20,14 +23,17 @@ In 1 hour, learn the copywriting systems that will double your conversions
 * The best headlines get you to stop, jerk your attention, have greed, curiosity
 * Talk to one person!
 * It’s about your customer
- 
-Declare the Problem
+
+# Declare the Problem
+
 * Formula = Explain the problem using your customer words
 * You need to get the customer to nod their head in agreement.
 On average, 20% of email never reaches the inbox.
 I can’t freelance, I don’t even have an idea.
+
 Dating advice: Have you ever seen a beautiful woman, but didn’t know what to say to start a conversation?
 Flight search: Need to visit your honey across the world? Then you’ll have to hunt through dozens of crappy flight searches that drain your energy.
+
 Basecamp: Still managing projects with email? Are you still using Excel for your to do lists?
 * If you can describe your customer’s current problem better than they can, they will unconsciously assume you have the solution.
 * Solve a clear problem.
@@ -48,14 +54,20 @@ Social Proof
 * Show that people are using your stuff and signing in.
 * Never stop selling this!
 Basecamphq.com: “Millions of people use basecamp”
-Testimonials
+
+# Testimonials
+
 * Specific end result + Specific Period of time + Accomplished Feeling + The Person’s Name with their stats
-I’ve saved $200 per month alone in file folder savings. It took 3 days to get implemented, and I recruited my first agent in the first month as a result. I can now be home with my baby son and review files. The freedom is incredible. –Robb Campbell, Top 10 RE/MAX in the World
+
+*I've saved $200 per month alone in file folder savings. It took 3 days to get implemented, and I recruited my first agent in the first month as a result. I can now be home with my baby son and review files. The freedom is incredible. –Robb Campbell, Top 10 RE/MAX in the World*
+
 * Reorder the biggest benefit to be at the top, bold it, and put the rest of the testimonial underneath.
 * Emails are more powerful.
 * Just one testimonial at a time.
 * Spread testimonials all over your website, 1 per feature, on the sign up page, below the click to register button.
-Reverse All Risks
+
+# Reverse All Risks
+
 * To look like a fool is one of the biggest fears we humans have. By purchasing a product that turns out to suck, a person thinks they will look like a fool.
 * If you don’t love [product], call or email us and we’ll refund every penny immediately.
 * Less than 5% refund, and guarantee’s can double or triple sales.

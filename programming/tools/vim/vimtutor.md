@@ -27,13 +27,6 @@ t - find EXCLUSIVE
 
 Macro - qa { Keybind } then end macro recording with q. then access the register `a` by @a.
 
-  indent: v to visual, motion to higlight, = to indent, >>.
-
-  . - repeat command
-
-  .... c-n in insert mode: autocomplete bitches
-
-  d/thingie -> delete until thingie
   / -> pattern matching
   * - lookf for the next occurence of the word
   % - find matching braces
@@ -55,7 +48,7 @@ Macro - qa { Keybind } then end macro recording with q. then access the register
 
 # Vimcasts  - Rails
 
-  moving across definitiojns
+  moving across definitions
   ]m, [m -forward and backward methods. they are positioned on the `def` keywords.
   f( to move to the first param
       end method: ]m. this is good to change the return value via ]mo.
@@ -65,7 +58,7 @@ Macro - qa { Keybind } then end macro recording with q. then access the register
 
       text objects make you select stuff to match thingies.  thingies
 
-      combination of shit to select a method: /end v %
+combination of shit to select a method: /end v %
 
       vim-textobj-rubyblock. so we can do var to select around ruby block, or vir to select inside ruby block. vam to select method. vam/vim to select classes/modules.
 

@@ -4,14 +4,13 @@ Ottinger's Variable Naming Rules
 
 # 01 - Clean Code
 
-"We rushed the C debugger to market. When we had to make it with C++, it was impossible to work with that mess." The bad code killed the company.
-
 Green field -> Mess -> Super slow -> Redesign -> You won't catch up with the old code -> Redesign lol.
 
 ## Code Rot
+
 - Rigid: A single change or enhancement forces you to make adjustments in a lot of other places. Rigid systems are unpredictable, it is hard to estimate how they could change.
 - Fragile: When nothing can be depended on anymore.
-- Inseperable: Modules that can't be separated and reused for other purposes. Devs usually take shortcuts so modules become inseperable and not useful.
+- Inseparable: Modules that can't be separated and reused for other purposes. Devs usually take shortcuts so modules become inseparable and not useful.
 - Opacity: This does not communicate the author's intent. It's hard to read.
 - Going fast: Why did you write hard to write code? Programmers write the badcode. The reason why we make a mess of the first place is we feel the urgency of the deadline. You can't go fast by making a mess.
 
@@ -25,6 +24,7 @@ If you want to go fast, you need to stay clean. You can't rush through code and 
 # 02 - Names
 
 #### Reveal Your Intent: We do so much of naming. 
+
 If you need a comment, then the comment is unneeded. `int d` vs. `int elapsedTimeInDays`.
 
 > Crap
