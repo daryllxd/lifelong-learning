@@ -642,29 +642,3 @@ So basically, being 20-27 is good, cause you're physically prime, mentally prime
 If you get your bachelor's to work at an unfulfilling job, marry because you're afraid of finding someone else, get yourself into debt, and have kids to fill the void, then yeah, being grown up won't be awesome. It'll be, gasp, a lot of stress for nothing, like most adults... have.
 
 Don't be. The single greatest realization I had as an adult is that nobody can make you do anything. Nobody can make you do anything. Conversely, some of the best times you can have as an adult is when you throw adulthood to the wind and act like a big goofball or enjoy something ridiculously mundane (like a trip to Home Depot). The best thing about being an adult is that you can plan periods of total irresponsibility* and still come out of it with your ass covered.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

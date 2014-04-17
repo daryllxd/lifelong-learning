@@ -195,6 +195,7 @@ There are various tricks to keep your behaviour in line:
 - Reduce the need to use willpower by reducing choices. If you’re trying to work on a computer that can access Facebook, you’ll need more willpower because you’re constantly choosing the hard task over the easy one. Eliminate such distractions.
 
 # Combinations of skills are effective.
+
 - Biz + Confidence + Psych = Entrepreneur
 - Cooking + Dancing + Psych = Ladies Magnet
 
@@ -202,9 +203,9 @@ Environment is important. Research the best location to move to.
 
 # Finding a partner
 
-Attraction is a complex mini-game in itself, but mostly a byproduct of how you’re already playing. If you have excellent state and high skills, you’re far more attractive already. A tired, irritable, unskilled player is not appealing, and probably shouldn’t be looking for a relationship.
+Attraction is a complex mini-game in itself, but mostly a byproduct of how you’re already playing. If you have excellent state and high skills, you’re far more attractive already. A tired, irritable, unskilled player is not appealing, and probably shouldn't be looking for a relationship.
 
-Early in the game it can be common to reject and be rejected by other players. This is normal, but unfortunately it can drain your state, as most players don’t handle rejection or rejecting well. You’ll need to expend willpower to keep going, and willpower is replenished by sleep, so give it time.
+Early in the game it can be common to reject and be rejected by other players. This is normal, but unfortunately it can drain your state, as most players don't handle rejection or rejecting well. You’ll need to expend willpower to keep going, and willpower is replenished by sleep, so give it time.
 
 80% of finding someone comes down to being your most attractive self, which – like so much in life – just means putting your time in the right places. If you’re exercising, socialising, well nourished and growing in your career, you will radiate attraction automatically. The remaining 20% is simply putting yourself in places where you can meet the right people.
 
