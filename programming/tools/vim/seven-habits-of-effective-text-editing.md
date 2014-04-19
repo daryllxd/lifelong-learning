@@ -42,5 +42,4 @@ Use `ctags` and `:grep`. Search using `:cn` to take you to the next match.
 
 Most people only need to learn 10-20% of the commands for their work, but it's a different set of commands for everybody. It requires you check if this is a repetitive task that could be automated.
 
-Th essential basic step is the last one. You need to repeat the task until your finger does it automatically. Only then will you reach the efficiency you need. Write tricks down so you can look them up later.
- 
+The essential basic step is the last one. You need to repeat the task until your finger does it automatically. Only then will you reach the efficiency you need. Write tricks down so you can look them up later.

@@ -10,6 +10,10 @@ Tabularize: :Tabularize /\# or /\| or whatever thingie.
 Commentary: gc (motion), gc = new verb to comment
 
 . - repeat last typed thingie
+; , - repeat last f, F, t, T
+\*, # - search for word under cursor
+
+_ Black hole register. `"_d` to delete and not override current register.
 
 L-n to rename file
 RSpec let - gary bernhardt
