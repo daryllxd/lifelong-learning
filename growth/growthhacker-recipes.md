@@ -1,3 +1,21 @@
+## 15: Email Trinity
+
+Signal to noise ratio is lower in Email than Facebook. They also give the user the information they need (if you do it right), the opportunities for deals, discounts, contests. They can also unsubscribe.
+
+*Step 1: Drip campaign.* Fire them at certain intervals (day 1, 3, 7, etc.). Train people to expect email from you. People unsubscribe when you haven't emailed them in a long time and then you send them something for the first time in 12 months (cold list). If you start sending them email right away, they will build a relationship with you and learn to receive your mail.
+
+You also create an environment where you can sell to them (something like dating).
+
+- Email One: Build Trust. Offer something for free.
+- Email Two: Create Customer. Get them to buy something (no matter how small) to change the relationship.
+- Email Three: Sell Product. When they move from being a subscribe to being a customer, they are ready to purchase your primary product at a higher price. Give social proof, refund guarantees.
+- Email Four: Push Profits. Upsell.
+- Email Five: Stay Connected.
+
+*Step 2: Event-based emails.* Send email based on trigger.
+
+*Step 3: Solo emails.* Send stuff whenever you have something happening -- raising money, releasing a set of features. Give you users a sense of ownership in your progress, so you become more than a company to them.
+
 ## 14: Trigger Happy
 
 Start with end goal and work backwards.
@@ -93,5 +111,3 @@ The email you send your students should thank them for taking your course (or re
 2. Instead of asking for an email, have a "tweet to join", make sure you have the company's Twitter handle inside the tweet. Then Once they send the tweet then the "tweet to join" button becomes something for e-mail.
 
 3. Referring to friends' email address?
-
-
