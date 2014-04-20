@@ -1,15 +1,9 @@
-# Insert mode
-
+# Terminal shortcut
 C-h - delete one char
 C-w - delete one word
 C-u - delete to start of line
 C-k - delete forward to end of line
 
-Tabularize: :Tabularize /\# or /\| or whatever thingie.
-
-Commentary: gc (motion), gc = new verb to comment
-
-. - repeat last typed thingie
 ; , - repeat last f, F, t, T
 \*, # - search for word under cursor
 
@@ -19,8 +13,6 @@ L-n to rename file
 RSpec let - gary bernhardt
 
 Terminal shortcuts
-- C-U - clear entire line
-- C-K - delete from cursor to end of line
 - C-W delete word before cursor
 - C-R search history
 find and replace through whole file: :%s/replacee/replacer/g (add c to have a prompt)

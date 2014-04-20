@@ -2,47 +2,21 @@
 
 ## Nine Suggestions on How to Get the Most Out of This Book
 
-1. Most important: You need to have this deep, driving desire to learn, a vigoruous determination to increase your ability to deal with people.
-	
-	You develop this by constantly reminding yourself how important these principles are to you. Mastering this will aid you in leading a richer, fuller, happier and more fulfilling life.
-
-	"My popularity, my happiness and sense of worth depend on no small extend upon my skill in dealing with people."
-
+1. Most important: You need to have this deep, driving desire to learn, a vigorous determination to increase your ability to deal with people. Constantly remind yourself how important these principles are. "My popularity, my happiness and sense of worth depend on no small extend upon my skill in dealing with people."
 2. Reread each chapter.
-
 3. Stop frequently to think what you are reading about.
-
 4. Take down notes about the stuff you can use.
-
 5. It is super easy to forget stuff. Spend a few hours reviewing this book every month.
-
-6. Learning is an active process. So if you desire to master the principles in this book, do something about them. Apply these rules at every opportunity. If you don't, you will forget them quickly. *Only knowledge that is used sticks in the mind.*
-
-	It is super difficult to apply the suggestions all the time. You are attempting to form new habits. You are attempting a new way of life. You need time and persistence and daily application.
-
-7. Offer your spouse, your child, or some biz associate a dime or a dollar everytime you break the rules. Make a game out of mastering the rules.
-
-8. "For years I have kept an engagement book showing all the appointments I had during the day. My family never made any plans for me on Saturday night, for the family knew that I devoted a part of each Saturday evening to the illuminating process of self- examination and review and appraisal. After dinner I went off by myself, opened my engagement book, and thought over all the interviews, discussions and meetings that had taken place during the week."
-
-	I asked myself: 'What mistakes did I make that time?' 'What did I do that was right- and in what way could I have improved my performance?' 'What lessons can I learn from that experience?'
-
-	"I often found that this weekly review made me very unhappy. I was frequently astonished at my own blunders. Of course, as the years passed, these blunders became less frequent. Sometimes I was inclined to pat myself on the back a little after one of these sessions."
-
-	This system of self-analysis, self-education, continued year after year, did more for me than any other one thing I have ever attempted.
-
-	"It helped me improve my ability to make decisions - and it aided me enormously in all my contacts with people. I cannot recommend it too highly."
-
+6. Learning is an active process. So if you desire to master the principles in this book, do something about them. Apply these rules at every opportunity. If you don't, you will forget them quickly. *Only knowledge that is used sticks in the mind.* It is super difficult to apply the suggestions all the time. You are attempting to form new habits. You are attempting a new way of life. You need time and persistence and daily application.
+7. Offer your spouse, your child, or some biz associate a dime or a dollar every time you break the rules. Make a game out of mastering the rules.
+8. Self-analyze: Write things down. Where could you improve?
 9. You will find at the end of this book several blank pages on which you should record your triumphs in the application of these principles. Be specific. Give names, dates, results. Keeping such a record will inspire you to greater efforts; and how fascinating these entries will be when you chance upon them some evening years from now!
 
 ## A Shortcut to Distinction by Lowell Thomas
 
-That survey revealed that the prime interest of adults is health. It also revealed that their second interest is in developing skill in human relationships - they want to learn the technique of getting along with and influencing other people. They don't want to become public speakers, and they don't want to listen to a lot of high sounding talk about psychology; they want suggestions they can use immediately in business, in social contacts and in the home.
+That survey revealed that the prime interest of adults is health. It also revealed that their second interest is in developing skill in human relationships - they want to learn the technique of getting along with and influencing other people. Knowledge alone is not enough -- personality is more important.
 
-Back in high school and college, they had pored over books, believing that knowledge alone was the open sesame to financial - and professional rewards.
-
-They soon discovered that if one aspired to wear the captain's cap and navigate the ship of business, personality and the ability to talk are more important than a knowledge of Latin verbs or a sheepskin from Harvard.
-
-Dale Carnegie claimed that all people can talk when they get mad. He said that if you hit the most ignorant man in town on the jaw and knock him down, he would get on his feet and talk with an eloquence, heat and emphasis that would have rivaled that world famous orator William Jennings Bryan at the height of his career. He claimed that almost any person can speak acceptably in public if he or she has self-confidence and an idea that is boiling and stewing within.
+All people can talk when they get mad. If you hit the most ignorant man, he would speak with eloquence.
 
 The way to develop self-confidence, he said, is to do the thing you fear to do and get a record of successful experiences behind you. So he forced each class member to talk at every session of the course. The audience is sympathetic. They are all in the same boat; and, by constant practice, they develop a courage, confidence and enthusiasm that carry over into their private speaking.
 
@@ -58,13 +32,13 @@ The point of the story is this: "Two Gun" Crowley didn't blame himself for anyth
 
 Capone didn't condemn himself. He actually regarded himself as a public benefactor - an unappreciated and misunderstood public benefactor.
 
-I have had some interesting correspondence with Lewis Lawes, who was warden of New York's infamous Sing Sing prison for many years, on this subject, and he declared that "few of the criminals in Sing Sing regard themselves as bad men. They are just as human as you and I. So they rationalize, they explain. They can tell you why they had to crack a safe or be quick on the trigger finger. Most of them attempt by a form of reasoning, fallacious or logical, to justify their antisocial acts even to themselves, consequently stoutly maintaining that they should never have been imprisoned at all."
+"Few of the criminals in Sing Sing regard themselves as bad men. They are just as human as you and I. So they rationalize, they explain. They can tell you why they had to crack a safe or be quick on the trigger finger. Most of them attempt by a form of reasoning, fallacious or logical, to justify their antisocial acts even to themselves, consequently stoutly maintaining that they should never have been imprisoned at all."
 
 John Wanamaker, founder of the stores that bear his name, once confessed: "I learned thirty years ago that it is foolish to scold. I have enough trouble overcoming my own limitations without fretting over the fact that God has not seen fit to distribute evenly the gift of intelligence."
 
-Criticism is futile because it puts a person on the defensive and usually makes him strive to justify himself. Criticism is dangerous, because it wounds a person's precious pride, hurts his sense of importance, and arouses resentment.
+*Criticism is futile because it puts a person on the defensive and usually makes him strive to justify himself.* Criticism is dangerous, because it wounds a person's precious pride, hurts his sense of importance, and arouses resentment.
 
-B. F. Skinner, the world-famous psychologist, proved through his experiments that an animal rewarded for good behavior will learn much more rapidly and retain what it learns far more effectively than an animal punished for bad behavior. Later studies have shown that the same applies to humans. By criticizing, we do not make lasting changes and often incur resentment.
+An animal rewarded for good behavior will learn much more rapidly and retain what it learns far more effectively than an animal punished for bad behavior. Later studies have shown that the same applies to humans. By criticizing, we do not make lasting changes and often incur resentment.
 
 Hans Selye, another great psychologist, said, "As much as we thirst for approval, we dread condemnation,"
 
@@ -82,13 +56,11 @@ And when Mrs. Lincoln and others spoke harshly of the southern people, Lincoln r
 
 If you and I want to stir up a resentment tomorrow that may rankle across the decades and endure until death, just let us indulge in a little stinging criticism-no matter how certain we are that it is justified.
 
-When dealing with people, let us remember we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity.
+*When dealing with people, let us remember we are not dealing with creatures of logic.* We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity.
 
 #### FATHER FORGETS W. Livingston Larned
 
-> Well, son, it was shortly afterwards that my paper slipped from my hands and a terrible sickening fear came over me. What has habit been doing to me? The habit of finding fault, of reprimanding - this was my reward to you for being a boy. It was not that I did not love you; it was that I expected too much of youth. I was measuring you by the yardstick of my own years.
-	
-> And there was so much that was good and fine and true in your character. The little heart of you was as big as the dawn itself over the wide hills. This was shown by your spontaneous impulse to rush in and kiss me good night. Nothing else matters tonight, son. I have come to your bed-side in the darkness, and I have knelt there, ashamed!
+> What has habit been doing to me? The habit of finding fault, of reprimanding - this was my reward to you for being a boy. It was not that I did not love you; it was that I expected too much of youth. I was measuring you by the yardstick of my own years.
 
 > It is a feeble atonement; I know you would not understand these things if I told them to you during your waking hours. But tomorrow I will be a real daddy! I will chum with you, and suffer when you suffer, and laugh when you laugh. I will bite my tongue when impatient words come. I will keep saying as if it were a ritual: "He is nothing but a boy - a little boy!"
 
@@ -104,7 +76,7 @@ Of course, you can make someone want to give you his watch by sticking a revolve
 
 *The only way I can get you to do anything is by giving you what you want.*
 
-Dr. Dewey said that the deepest urge in human nature is "the desire to be important." Remember that phrase: "the desire to be important." It is significant. You are going to hear a lot about it in this book.
+*Dr. Dewey said that the deepest urge in human nature is "the desire to be important."*
 
 Lincoln once began a letter saying: "Everybody likes a compliment." William James said: "The deepest principle in human nature is the craving to be appreciated." He didn't speak, mind you, of the "wish" or the "desire" or the "longing" to be appreciated. He said the "craving" to be appreciated.
 
@@ -124,13 +96,13 @@ Our millionaires helped finance Admiral Byrd's expedition to the Antarctic in 19
 
 If some people are so hungry for a feeling of importance that they actually go insane to get it, imagine what miracle you and I can achieve by giving people honest appreciation this side of insanity.
 
-Schwab says that he was paid this salary largely because of his ability to deal with people. I asked him how he did it. Here is his secret set down in his own words - words that ought to be cast in eternal bronze and hung in every home and school, every shop and office in the land - words that children ought to memorize instead of wasting their time memorizing the conjugation of Latin verbs or the amount of the annual rainfall in Brazil - words that will all but transform your life and mine if we will only live them:
+Schwab says that he was paid this salary largely because of his ability to deal with people. I asked him how he did it. Here is his secret set down in his own words - words that ought to be cast in eternal bronze and hung in every home and school, every shop and office in the land, words that will all but transform your life and mine if we will only live them:
 
 > "I consider my ability to arouse enthusiasm among my people," said Schwab, "the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement.
 
-> "There is nothing else that so kills the ambitions of a person as criticisms from superiors. I never criticize any-one. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise. "
+> "There is nothing else that so kills the ambitions of a person as criticisms from superiors. I never criticize any-one. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise."
 
-That is what Schwab did. But what do average people do? The exact opposite. If they don't like a thing, they bawl out their subordinates; if they do like it, they say nothing. As the old couplet says: "Once I did bad and that I heard ever/Twice I did good, but that I heard never ."
+What do average people do? The exact opposite. If they don't like a thing, they bawl out their subordinates; if they do like it, they say nothing. As the old couplet says: "Once I did bad and that I heard ever/Twice I did good, but that I heard never ."
 
 > "In my wide association in life, meeting with many and great people in various parts of the world," Schwab declared, "I have yet to find the person, however great or exalted his station, who did not do better work and put forth greater effort under a spirit of approval than he would ever do under a spirit of criticism."
 
@@ -142,11 +114,11 @@ Florenz Ziegfeld, the most spectacular producer who ever dazzled Broadway, gaine
 
 When Alfred Lunt, one of the great actors of his time, played the leading role in Reunion in Vienna, he said, "There is nothing I need so much as nourishment for my self-esteem."
 
-We nourish the bodies of our children and friends and employees, but how seldom do we nourish their selfesteem? We provide them with roast beef and potatoes to build energy, but we neglect to give them kind words of appreciation that would sing in their memories for years like the music of the morning stars.
+We nourish the bodies of our children and friends and employees, but how seldom do we nourish their self-esteem? We provide them with roast beef and potatoes to build energy, but we neglect to give them kind words of appreciation that would sing in their memories for years like the music of the morning stars.
 
 Of course flattery seldom works with discerning people. It is shallow, selfish and insincere. It ought to fail and it usually does. True, some people are so hungry, so thirsty, for appreciation that they will swallow anything, just as a starving man will eat grass and fishworms.
 
-The difference between appreciation and flattery? That is simple. One is sincere and the other insincere. One comes from the heart out; the other from the teeth out. One is unselfish; the other selfish. One is universally admired; the other universally condemned.
+The difference between appreciation and flattery? One is sincere and the other insincere. One comes from the heart out; the other from the teeth out. One is unselfish; the other selfish. One is universally admired; the other universally condemned.
 
 > "Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."
 
@@ -156,7 +128,7 @@ One of the most neglected virtues of our daily existence is appreciation, Someho
 
 Nothing pleases children more than this kind of parental interest and approval.
 
-The next time you enjoy filet mignon at the club, send word to the chef that it was excellently prepared, and when a tired salesperson shows you unusual courtesy, please mention it.
+The next time you enjoy fillet mignon at the club, send word to the chef that it was excellently prepared, and when a tired salesperson shows you unusual courtesy, please mention it.
 
 Without success, Pam tried various ways to motivate this person. She noticed that occasionally he did a particularly good piece of work. She made a point to praise him for it in front of the other people. Each day the job he did all around got better, and pretty soon he started doing all his work efficiently. Now he does an excellent job and other people give him appreciation and recognition. Honest appreciation got results where criticism and ridicule failed.
 
@@ -168,11 +140,11 @@ Let's try to figure out the other person's good points. Then forget flattery. Gi
 
 ## 3 - "He Who Can Do This Has The Whole World With Him. He Who Cannot Walks A Lonely Way"
 
-o when I went fishing, I didn't think about what I wanted. I thought about what they wanted. I didn't bait the hook with strawberries and cream. Rather, I dangled a worm or a grasshopper in front of the fish and said: "Wouldn't you like to have that?"
+> When I went fishing, I didn't think about what I wanted. I thought about what they wanted. I didn't bait the hook with strawberries and cream. Rather, I dangled a worm or a grasshopper in front of the fish and said: "Wouldn't you like to have that?"
 
 Why not use the same common sense when fishing for people?
 
-Why talk about what we want? That is childish. Absurd. Of course, you are interested in what you want. You are eternally interested in it. But no one else is. The rest of us are just like you: we are interested in what we want.
+Why talk about what we want? Of course, you are interested in what you want. You are eternally interested in it. But no one else is. The rest of us are just like you: we are interested in what we want.
 
 Remember that tomorrow when you are trying to get somebody to do something. If, for example, you don't want your children to smoke, don't preach at them, and don't talk about what you want; but show them that cigarettes may keep them from making the basketball team or winning the hundred-yard dash.
 
@@ -180,19 +152,17 @@ Every act you have ever performed since the day you were born was performed beca
 
 If you hadn't wanted that feeling more than you wanted your money, you would not have made the contribution. Of course, you might have made the contribution because you were ashamed to refuse or because a customer asked you to do it. But one thing is certain. You made the contribution because you wanted something.
 
-Andrew Carnegie, the poverty-stricken Scotch lad who started to work at two cents an hour and finally gave away $365 million, learned early in life that the only way to influence people is to talk in terms of what the other person wants.
-
 Stan sat down and thought, "If I were Tim, why would I be excited about going to kindergarten?" He and his wife made a list of all the fun things Tim would do such as finger painting, singing songs, making new friends. "We all started finger-painting on the kitchen table-my wife, Lil, my other son Bob, and myself, all having fun. Soon Tim was peeping around the corner. Next he was begging to participate. 'Oh, no! You have to go to kindergarten first to learn how to finger-paint.'
 
 *Tomorrow you may want to persuade somebody to do something. Before you speak, pause and ask yourself: "How can I make this person want to do it?"*
 
 That question will stop us from rushing into a situation heedlessly, with futile chatter about our desires.
 
->At the beginning of one season, I was suddenly informed that I should have to pay almost three times as much rent as formerly. 
+> At the beginning of one season, I was suddenly informed that I should have to pay almost three times as much rent as formerly.
 
->Naturally, I didn't want to pay the increase, but what was the use of talking to the hotel about what I wanted? They were interested only in what they wanted. So a couple of days later I went to see the manager .
+> Naturally, I didn't want to pay the increase, but what was the use of talking to the hotel about what I wanted? They were interested only in what they wanted. So a couple of days later I went to see the manager .
 
->"I was a bit shocked when I got your letter," I said, "but I don't blame you at all. If I had been in your position, I should probably have written a similar letter myself. Your duty as the manager of the hotel is to make all the profit possible. If you don't do that, you will be fired and you ought to be fired. Now, let's take a piece of paper and write down the advantages and the disadvantages that will accrue to you, if you insist on this increase in rent."
+> "I was a bit shocked when I got your letter," I said, "but I don't blame you at all. If I had been in your position, I should probably have written a similar letter myself. Your duty as the manager of the hotel is to make all the profit possible. If you don't do that, you will be fired and you ought to be fired. Now, let's take a piece of paper and write down the advantages and the disadvantages that will accrue to you, if you insist on this increase in rent."
 
 >"Advantages" these words: "Ballroom free." Then I went on to say: "You will have the advantage of having the ballroom free to rent for dances and conventions. That is a big advantage, for affairs like that will pay you much more than you can get for a series of lectures. If I tie your ballroom up for twenty nights during the course of the season, it is sure to mean a loss of some very profitable business to you.
 
@@ -210,19 +180,19 @@ That is so simple, so obvious, that anyone ought to see the truth of it at a gla
 
 Good letter means it is about their needs, not yours.
 
-	Your company has been one of our good customers for fourteen years. Naturally, we are very grateful for your patronage and are eager to give you the speedy, efficient service you deserve. However, we regret to say that it isn't possible for us to do that when your trucks bring us a large shipment late in the afternoon, as they did on November 10. Why? Because many other customers make late afternoon deliveries also. Naturally, that causes congestion. That means your trucks are held up unavoidably at the pier and sometimes even your freight is delayed.
+Your company has been one of our good customers for fourteen years. Naturally, we are very grateful for your patronage and are eager to give you the speedy, efficient service you deserve. However, we regret to say that it isn't possible for us to do that when your trucks bring us a large shipment late in the afternoon, as they did on November 10. Why? Because many other customers make late afternoon deliveries also. Naturally, that causes congestion. That means your trucks are held up unavoidably at the pier and sometimes even your freight is delayed.
 
-	That's bad, but it can be avoided. If you make your deliveries at the pier in the morning when possible, your trucks will be able to keep moving, your freight will get immediate attention, and our workers will get home early at night to enjoy a dinner of the delicious macaroni and noodles that you manufacture.
+That's bad, but it can be avoided. If you make your deliveries at the pier in the morning when possible, your trucks will be able to keep moving, your freight will get immediate attention, and our workers will get home early at night to enjoy a dinner of the delicious macaroni and noodles that you manufacture.
 
-	Regardless of when your shipments arrive, we shall always cheerfully do all in our power to serve you promptly. You are busy. Please don't trouble to answer this note.
+Regardless of when your shipments arrive, we shall always cheerfully do all in our power to serve you promptly. You are busy. Please don't trouble to answer this note.
 
 Barbara Anderson letter:
 
-	My ten years of bank experience should be of interest to a rapidly growing bank like yours.
+My ten years of bank experience should be of interest to a rapidly growing bank like yours.
 
-	In various capacities in bank operations with the Bankers Trust Company in New York, leading to my present assignment as Branch Manager, I have acquired skills in all phases of banking including depositor relations, credits, loans and administration.
+In various capacities in bank operations with the Bankers Trust Company in New York, leading to my present assignment as Branch Manager, I have acquired skills in all phases of banking including depositor relations, credits, loans and administration.
 
-	I will be relocating to Phoenix in May and I am sure I can contribute to your growth and profit. I will be in Phoenix the week of April 3 and would appreciate the opportunity to show you how I can help your bank meet its goals.
+I will be relocating to Phoenix in May and I am sure I can contribute to your growth and profit. I will be in Phoenix the week of April 3 and would appreciate the opportunity to show you how I can help your bank meet its goals.
 
 Eleven of the twelve banks invited her to be interviewed, and she had a choice of which bank's offer to accept. Why? Mrs. Anderson did not state what she wanted, but wrote in the letter how she could help them, and focused on their wants, not her own.
 
@@ -923,39 +893,3 @@ To assist in this planning, Dr Butterfield has for years insisted that any coupl
 "Sentimental reticence"—I'm still quoting Dr Butterfield—"must be replaced by an ability to discuss objectively and with detachment attitudes and practices of married life. There is no way in which this ability can be better acquired than through a book of sound learning and good taste. I keep on hand several of these books in addition to a supply of my own booklet, Marriage and Sexual Harmony.
 
 Rule 7 of "How to Make Your Home Life Happier" is: 'Read a good book on the sexual side of marriage.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
