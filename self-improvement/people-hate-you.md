@@ -1,7 +1,7 @@
-## 5 Ways You're Accidentally Making Everyoen Hate You
+# 5 Ways You're Accidentally Making Everyone Hate You
 [Link](http://www.cracked.com/blog/5-ways-youre-accidentally-making-everyone-hate-you/)
 
-#### #5. It's Not What You Said, It's What You Didn't Say
+## #5. It's Not What You Said, It's What You Didn't Say
 
 *So What's the Problem?*
 
@@ -21,7 +21,7 @@ This is about power. Everything is.
 
 The offended parties are assuming you're so high and mighty that they don't even rate a response, and that your silence is a kind of power play intended to let them know that.
 
-#### #4. You Accidentally Asserted Power Over Them
+## #4. You Accidentally Asserted Power Over Them
 
 *So What's the Problem?*
 
@@ -39,7 +39,7 @@ For many of us who are insecure about our "rank", the subject is basically an op
 
 The thing you have to remember is the fact that it accidentally means nothing. Any interaction that results in other people feeling worse about themselves will still count against you in your "Why I don't like talking to this person" score.
 
-#### #3. They Think You Owe Them.
+## #3. They Think You Owe Them.
 
 *So Whats the Problem?*
 
@@ -55,7 +55,7 @@ Workplace: Everyone in your department thinks they keep the place afloat, while 
 
 The key is that in every case, the other person desperately wants yo to be in debt to them. That would given them power over you. But, they can't be upfront about how or why they perceive you to be in their debt. They just get angry when you fail to "pay."
 
-#### #2. You Wasted Their Time
+## #2. You Wasted Their Time
 
 *So What's the Problem?*
 
@@ -75,7 +75,7 @@ The person who is being terse with you is often in an impossible situation. They
 
 If that sounds like they're making you pay for someone else's behavior, well they are. THat's the way it works -- prior offenses count, even when it was someone else that commited them. The cashier at Arby's got annoyed when you pointed out that their logo looks like a dick because she hears that joke six times a day. *Remember: You are nothing more than one link in somebody else's chain of human interactions A chain that occasionally rubs them raw.*
 
-#### #1. You Assumed That Because You Were OK With a Situation, Everybody Was
+## #1. You Assumed That Because You Were OK With a Situation, Everybody Was
 
 The reason why the classic male/femal conflict about not putting the toilet seat down is a sore subject in some couples is that it demonstrates that the man simply isnt' factoring the woman's needs at all.
 
