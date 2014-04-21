@@ -3,40 +3,25 @@ C-h - delete one char
 C-w - delete one word
 C-u - delete to start of line
 C-k - delete forward to end of line
+- C-W delete word before cursor
+- C-R search history
 
-; , - repeat last f, F, t, T
+; , - Repeat last f, F, t, T
 \*, # - search for word under cursor
 
 _ Black hole register. `"_d` to delete and not override current register.
 
+daw - delete around word, includes deleting the space
+diw - delete in word, leaves spaces to insert word in
+
 L-n to rename file
 RSpec let - gary bernhardt
 
-Terminal shortcuts
-- C-W delete word before cursor
-- C-R search history
-find and replace through whole file: :%s/replacee/replacer/g (add c to have a prompt)
-  replace by itself: r then just keep on typing
-
-f - find INCLUSIVE
-t - find EXCLUSIVE
-
-Macro - qa { Keybind } then end macro recording with q. then access the register `a` by @a.
+C-o on insert mode to execute one normal mode command before going back to insert mode.
 
   / -> pattern matching
-  * - lookf for the next occurence of the word
   % - find matching braces
-  gd - jumo from the user of a vairable to its local declaration.
-
-  find and replace:
-  :%s/\s\+$//
-
-  % - apply to entire file
-  s - substitute
-  /\s\+$/ - regex for "all whitespace, till the end of file"
-  // - regex for "empty string"
-
-  macros - to define, q, then a. the nrecord, then to exit, q. then you have @a as the "saved macro". 
+  gd - jump from the user of a variable to its local declaration.
 
   m - mark.
   ` - move to mark with a.
@@ -93,8 +78,6 @@ combination of shit to select a method: /end v %
 
 # Switch layouts
 
-C-w H to go from horizontal to vertical.
-C-w J to go from vertical to horizontal.
 C-w r to swap the buffers.
 C-w w to move cursor.
 
