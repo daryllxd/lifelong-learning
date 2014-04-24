@@ -67,5 +67,3 @@ You should make your team better. There should always be at least one or two way
 
 ## It's not who are on the inside that defines you.
 
-
-
