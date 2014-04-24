@@ -17,11 +17,11 @@ The problem with being a famous Rails developer is you can become that without b
 
 Code is what brings developers together. It's not blogging or trolling or procrastinating, it's reading code.
 
-Before, in PHP, no version control, no constants (magic numbers). I made a YAML parser thingie.
+Before, in PHP, no version control, no constants (magic numbers). I made a YAML parser thing.
 
 Github caught on because it's about code. Sourceforge is not about code. They should cut down their registration page, no approval process, allow you to change the stuff there. 
 
-When starting a biz, you want an accounting person and a business person because their $100/hour is less expensive than your rate. So as a dev, you want to find your pain points and remove them. Git branching, Rails, tests. Let's stop arguing about languages and testing frameworks and just make sites that can help people. Let's focus more on code and less on talk. More on community and les about ourselves.
+When starting a biz, you want an accounting person and a business person because their $100/hour is less expensive than your rate. So as a dev, you want to find your pain points and remove them. Git branching, Rails, tests. Let's stop arguing about languages and testing frameworks and just make sites that can help people. Let's focus more on code and less on talk. More on community and less about ourselves.
 
 Sites like RubyFlow and Twitter make it easy to find other people. Do we want to be rock stars or douches? I think I'd rather want tot be a good developer.
 

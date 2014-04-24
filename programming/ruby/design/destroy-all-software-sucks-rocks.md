@@ -1,11 +1,12 @@
 # Sucks Rocks
 
 Gemfile - taken from somewhere in the base.
-vcr - record playback for things
+vcr - record playback for calls into the search engine.
+wegmock - ????
 paste from splat register.
 Instead of doing `fill_in` and click stuff which loads Rails, create a class for this. If we want to get something working, we don't need to load the entire controllers, views, etc thing.
 
-So I can do the 
+So I can do the
 
     @scores ||= {}
     @scores[term] = RockScore.for_term(term)
@@ -103,6 +104,7 @@ The problem here is I have to stub out the API call when I really don't want to 
 
 
 Exception and Control Flow
+
 ## Commits
 - rails new
 - install rspec and cucumber
