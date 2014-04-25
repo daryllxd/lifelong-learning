@@ -10,10 +10,10 @@ Good writing is a symptom of good thinking. Ex: The name of the Patriot Act was 
 
 ## Orwell's stuff:
 
-1. Never user a metaphor, simile, or other figure of speech which you are used to seeing in print.
+1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
 2. Never use a long word when a short one will do.
 3. If it is possible to cut a word out, always cut it out.
-4. Never use the passive when you can user the active.
+4. Never use the passive when you can use the active.
 5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
 6. Break any of these rules sooner than say anything outright barbarous.
 
@@ -51,7 +51,7 @@ This is the Stripe API for charging customers. It is like super predictable. API
 
 There are four different ways to classify a product or a feature.
 
-*Basic needs, need to have.* If you don't have a basic need, people are going to be dissastisfied. If you do have it, people are not going to care. In API design, a basic need is uptime. If your service is down, everyone cares. If your service is up, then people don't even think about it.
+**Basic needs, need to have.** If you don't have a basic need, people are going to be dissastisfied. If you do have it, people are not going to care. In API design, a basic need is uptime. If your service is down, everyone cares. If your service is up, then people don't even think about it.
 
 Performance needs (one-dimensional): If you don't have them, people are upset. If you are average, people don't notice, if you are good, people love it. In API design, speed, quality (ex: video resolution in transcoding), cost.
 
@@ -59,4 +59,5 @@ Indifferent: People don't care. Ex: Non-core features, undocumented features.
 
 Delighters: Attractive and exciting. If you don't have these, people don't care. If you have these, people are interested. In our API design, it is the `API builder`. Good support is also a delight feature. Other examples: Intelligent defaults, documentation that is actually populated with your account, an API wrapper like a Ruby library, request logs.
 
-Good APIs: Stripe, Twilio, SendGrid. 
+Good APIs: Stripe, Twilio, SendGrid.
+
