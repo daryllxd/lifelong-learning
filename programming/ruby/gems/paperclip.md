@@ -11,7 +11,6 @@
 
 > Migrations
 
-    
 # Railscasts 134
 
 We want a button where we can upload an image as an attachment to this product. We will use the paperclip plugin.

@@ -100,10 +100,47 @@ Now I create `SearchEngine` (`app/servics/search_engine`).
       end
     end
 
-The problem here is I have to stub out the API call when I really don't want to do that because the 
+The problem here is I have to stub out the API call when I really don't want to do that because I am at the boundary of the system. We don't have confidence that the search engine will return the same or near to the same results every time so what we can do is to make sure that counts for something very high.
 
+    class SearchEngine
+      def self.count_results(query)
+        0
+      end
+    end
+
+I get the Bing ruby wrapper `rbing` since filing in the middle steps would not drive the test as it is supposed to.
+
+    gem 'rbing'
+    > require 'rbing'
+    > bing = RBing.new(ENV.fetch("BING_APP_ID"); nil # so the id is not printed to the console
+    > bind.web("microsoft").web.total                # actually perform a search
+
+To test the actual thing, you can create something in VCR:
+
+    VCR.use_cassette("windows-vs-beos") do
+      windows = SearchEngine.count_results("windows")
+      beos = SearchEngine.count_results("beos")
+      windows.shoul be > beos
+    end
+
+I'd rather that we not load `spec_helper` and get a slow test. Create a `spec/vcr_helper.rb`.
+
+    VCR.config do |config|
+      config,casette_library_dir = "fixtures/cassettes"
+      config.stub_with :webmock
+      config.filter_sensitive_data("<BING APP ID>") { ENV.fetch("BING_APP_ID") }
+    end
+
+Now things are faster!
 
 Exception and Control Flow
+
+## Caching
+
+New file: `a/services/score_cache`. Basically we hit the AR model first before we hit the external API.
+
+    describe ScoreCache do
+      it "returns cached scores if they
 
 ## Commits
 - rails new
