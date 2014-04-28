@@ -15,17 +15,17 @@ GET /tickets?fields=id, subject,customer_name,updated_at&state=open&sort=-update
 - GET requests should not change data on the server!
 - Errors: API should provide a useful error message in a known consumable format.
 
-		200 OK: Successful GET, PUT, PATCH, DELETE, POST with no creation.
-		201 Created: POST that results in a creation.
-		204 No Content: Successful request that won’t return a body (DELETE)
-		400 Bad Request: Request is malformed
-		401 Unauthorized
-		403 Forbidden: 
-		404 Non-existent resource is requested
+200 OK: Successful GET, PUT, PATCH, DELETE, POST with no creation.
+  201 Created: POST that results in a creation.
+204 No Content: Successful request that won’t return a body (DELETE)
+  400 Bad Request: Request is malformed
+  401 Unauthorized
+  403 Forbidden: 
+  404 Non-existent resource is requested
 
 ## [API Anti-Patterns: How to Avoid Common REST Mistakes](http://blog.programmableweb.com/2010/08/13/api-anti-patterns-how-to-avoid-common-rest-mistakes/)
-- Don’t tunnel everything throught GET.
-- Don’t ignore response codes.
-- Don’t ignore caching.
-- Don’t ignore hypermedia.
-- Don’t ignore MIME types.
+  - Don’t tunnel everything throught GET.
+  - Don’t ignore response codes.
+  - Don’t ignore caching.
+  - Don’t ignore hypermedia.
+  - Don’t ignore MIME types.
