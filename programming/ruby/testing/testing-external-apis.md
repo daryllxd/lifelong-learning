@@ -102,3 +102,42 @@ Verify stub response is being returned.
 - Additional maintenance overhead.
 - Fake gets out of sync with the external endpoint.
 
+# Testing Third-Party: Learn
+
+I'm not a fan of fakes. It's a ton of overhead to mock the API, and it's too easy to get sometime wrong and discover it on Staging/Prodcution. Why VCR?
+
+- Set your cassettes to expire after a few days (I do 3).
+- Add cassettes to .gitignore, they exist only to make your tests run faster.
+- If integration with the service requires and API key, wrap specs that hit the API in `if ENV['FOO_API_KEY'].present?`.
+- The only things that should require VCR are the unit tests for the class that interacts directly with that API and integration tests. Make sure you use a stub instead of the class that hits the service in unit tests for collaborating objects.
+- You are attempting to test your real integration with the API. Do not think of VCR as a mocking service and don't try and use it as a replacement for Web Mocks. If you only use it as a helper to make your tests run faster and/or hitting API limits, it can work beautifully.
+
+# How to Test External APIs
+[link](http://blog.carbonfive.com/2012/03/18/how-to-test-external-apis/)
+
+The Testing Strategy:
+
+- A request for the homepage is routes by Rails to a controller.
+- The controller asks a `Post` model for recent posts.
+- The `Post` model asks a Hacker News library for recent posts.
+- The Hacker News library gets the latest posts from the Hacker News RSS feed.
+
+To test this we'll:
+
+1. Start with an end-to-end integration test, we can use the Rails request specs.
+2. Skip controller specs. Specifying the controller won't gain us much,because it will be thing and completely exercise by the request spec.
+3. Mock out Hacker News in the `Post` model's specs. No need to perform another mini-integration test between our domain model and its collaborator.
+4. Specify the Hacker News library directly, instead of mocking, we'll use VCR to record the actual Hacker News HTTP request and response.
+
+## Starting with a Request Spec
+
+    describe 'The homepage', :vcr do
+      it 'displays the recent posts'
+        hacker_news_links = all '#hn .post a'
+        hacker_news_links.should_not be_empty
+        hacker_news_links.each do |link|
+          link[:href].should match(%r{http://news\.ycombinator\.com})
+        end
+      end
+    end
+
