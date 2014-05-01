@@ -17,9 +17,9 @@ BDD puts the focus on behavior instead of structure, and it does so at every lev
 
 The `it( )` method creates an example of the behavior of a MovieList, with the context being that the MovieList was just created.
 
-BDD is a full-stack agile methodology. It takes some of its cues from Extreme Programming, including a variation of Accep- tance Test–Driven Development called Acceptance Test–Driven Plan- ning (ATDP).
+BDD is a full-stack agile methodology. It takes some of its cues from Extreme Programming, including a variation of Acceptance Test–Driven Development called Acceptance Test–Driven Planning (ATDP).
 
-In ATDP, we use customer acceptance tests to drive the development of code. Ideally, these are the result of a collaborative effort between the customer and the delivery team. Sometimes they are written by the delivery team and then reviewed/approved by the customer. In either case, they are customer facing and must be expressed in a language and format that customers can relate to. Cucumber gives us that lan- guage and format.
+In ATDP, we use customer acceptance tests to drive the development of code. Ideally, these are the result of a collaborative effort between the customer and the delivery team. Sometimes they are written by the delivery team and then reviewed/approved by the customer. In either case, they are customer facing and must be expressed in a language and format that customers can relate to. Cucumber gives us that language and format.
 
 Cucumber reads plain-text descriptions of application features with example scenarios and uses the scenario steps to automate interaction with the code being developed.
 
@@ -43,18 +43,18 @@ Cucumber step.
 
 ## Hello
 
-  $ rspec [options] [files or directories]
-  $ cucumber [options] [ [FILE|DIR|URL][:LINE[:LINE]*] ]+
+    $ rspec [options] [files or directories]
+    $ cucumber [options] [ [FILE|DIR|URL][:LINE[:LINE]*] ]+
 
->greeter_spec.rb
+    # greeter_spec.rb
 
-  describe "RSpec Greeter" do
-    it "should say 'Hello RSpec!' when it receives the greet() message" do
-        greeter = RSpecGreeter.new
-        greeting = greeter.greet
-        greeting.should == "Hello RSpec!"
-    end 
-  end
+    describe "RSpec Greeter" do
+      it "should say 'Hello RSpec!' when it receives the greet() message" do
+          greeter = RSpecGreeter.new
+          greeting = greeter.greet
+          greeting.should == "Hello RSpec!"
+      end 
+    end
 
 - `describe`: declaring an example group.
 - `it()`: creating an example.
@@ -62,7 +62,7 @@ Cucumber step.
 - Assign `greeting` to the `return` of `greeter.greet`.
 - Set expectation of what is supposed to happen on line 5.
 
-Just add the RspecGreeter
+Just add the RspecGreeter and test will pass.
 
   class RSpecGreeter
     def greet
@@ -70,15 +70,9 @@ Just add the RspecGreeter
     end 
   end
 
-Output:
+#### Cucumber
 
-  .               # represents that the test passes
-  Finished in 0.00075 seconds
-  1 example, 0 failures
-
-#### Cucumbah
-
->Directory structure
+Directory structure
 
   - root
     - spec
@@ -86,25 +80,24 @@ Output:
     - features
       - greeter_says_hello.feature
 
-> greeter_says_hello.feature
+*greeter_says_hello.feature*
 
-  Feature: greeter says hello
+    Feature: greeter says hello
 
-    In order to start learning RSpec and Cucumber
-    As a reader of The RSpec Book
-    I want a greeter to say Hello
+      In order to start learning RSpec and Cucumber
+      As a reader of The RSpec Book
+      I want a greeter to say Hello
 
-    Scenario: greeter says hello
-    Given a greeter
-    When I send it the greet message
-    Then I should see "Hello Cucumber!"
+      Scenario: greeter says hello
+      Given a greeter
+      When I send it the greet message
+      Then I should see "Hello Cucumber!"
 
 > Running the thing: Run it in the root!
 
   root$ cucumber features
 
   Feature: greeter says hello
-    
     In order to start learning RSpec and Cucumber
     As a reader of The RSpec Book
     I want a greeter to say Hello
@@ -120,27 +113,23 @@ Output:
 
   You can implement step definitions for undefined steps with these snippets:
 
-  Given(/^a greeter$/) do
-    pending # express the regexp above with the code you wish you had
-  end
+      Given(/^a greeter$/) do
+        pending # express the regexp above with the code you wish you had
+      end
 
-  When(/^I send it the greet message$/) do
-    pending # express the regexp above with the code you wish you had
-  end
+      When(/^I send it the greet message$/) do
+        pending # express the regexp above with the code you wish you had
+      end
 
-  Then(/^I should see "(.*?)"$/) do |arg1|
-    pending # express the regexp above with the code you wish you had
-  end
-
-  If you want snippets in a different programming language,
-  just make sure a file with the appropriate file extension
-  exists where cucumber looks for step definitions.
+      Then(/^I should see "(.*?)"$/) do |arg1|
+        pending # express the regexp above with the code you wish you had
+      end
 
 Here, we use the `Given()`, `When()`, and `Then()` to write step definitions, each of which takes a `Regexp` and a block. Cucumber reads the first step, looks for a step def'n whose Regex matches that step, and then executes that step definition's block.
 
 In order for these to pass, you have to create the `step definitions`.
 
->Directory structure
+### Directory structure
 
   - root
     - spec
@@ -150,38 +139,37 @@ In order for these to pass, you have to create the `step definitions`.
         - greeter_steps.rb
       - greeter_says_hello.feature
 
->greeter_steps.rb
+*greeter_steps.rb*
 
-  Given /^a greeter$/ do
-    @greeter = CucumberGreeter.new
-  end
+    Given /^a greeter$/ do
+      @greeter = CucumberGreeter.new
+    end
 
-  When /^I send it the greet message$/ do
-    @message = @greeter.greet
-  end
+    When /^I send it the greet message$/ do
+      @message = @greeter.greet
+    end
 
-  Then /^I should see "([^"]*)"$/ do |greeting|
-    @message.should == greeting
-  end
+    Then /^I should see "([^"]*)"$/ do |greeting|
+      @message.should == greeting
+    end
 
 You get a failing step because you don't have a `CucumberGreeter` defined yet.
 
->greeter_steps.rb
+*greeter_steps.rb*
 
-  class CucumberGreeter
-    def greet
-      "Hello Cucumber!"
+    class CucumberGreeter
+      def greet
+        "Hello Cucumber!"
+      end
     end
-  end
 
-  ...
-  Given /^a greeter$/ do
-    @greeter = CucumberGreeter.new
-  end
+    Given /^a greeter$/ do
+      @greeter = CucumberGreeter.new
+    end
 
 ## Describing Features
-  
-One of the three principles of BDD is “Enough is enough.” We want to avoid the pitfalls of the Big Design Up Front,2 but we also want to do enough planning to know we’re heading in the right direction.
+
+One of the three principles of BDD is “Enough is enough.” We want to avoid the pitfalls of the Big Design Up Front, but we also want to do enough planning to know we’re heading in the right direction.
 
 For the first release, we simply want to be able to play the game. We should be able to type a command in a shell to start it up, submit guesses, and see the mark for each of our guesses until we crack the code.
 

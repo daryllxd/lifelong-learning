@@ -75,19 +75,17 @@ These execute quickly, but they are unlikely to catch bugs beyond RSpec. They ca
 > Create the model to make the tests pass.
 
     class Movie < ActiveRecord::Base
-      
       def showtime
         "#{formatted_date} (#{formatted_time})"
       end
-      
+
       def formatted_date
         showtime_date.strftime("%B %d, %Y")
       end
-      
+
       def formatted_time
         showtime_time.strftime("%l:%M%p").strip.downcase
       end
-      
     end
 
 ## Simulating the Browser with Webrat
@@ -97,9 +95,9 @@ Rare to use DMA style, we usually augment Simulated Browser scenarios already.
 Simulated Browser style is the default approach for implementing `Whens` and `Thens` for a Rails app because it's a good balance between speed and integration.
 
 Usually, `Given` uses DMA and Simulated Browser happens elsewhere.
-    
+
     # Instantiate the shit
-    Given /^a genre named Comedy$/ do 
+    Given /^a genre named Comedy$/ do
       @comedy = Genre.create!(:name => "Comedy")
     end
 
@@ -119,7 +117,7 @@ Webrat is like a fast, invisible browser with a DSL.
 #### Filling up (in????) the form
 
     # Simulate GET requests.
-    visit movies_path 
+    visit movies_path
 
     # Clicking links, locate links via id and title values.
     click_link "Comedy"
@@ -151,7 +149,7 @@ Preferred method: label text, so it doesn't change when the application changes.
       select "1984", :from => "birthday_1i"
     end
 
-    # Webrat fix methodes
+    # Webrat fix methods
     select_date Date.parse("April 26, 1982")
     select_time Time.parse("3:30PM")
     select_datetime Time.parse("January 23, 2004 10:30AM")
@@ -202,14 +200,14 @@ Preferred method: label text, so it doesn't change when the application changes.
 
 #### Working Within a Scope
 
-Sometimes targeting fields by a label isn’t accurate enough. Each row of the form would have its own `<label>` for the genre name, but using Webrat’s `fill_in( )` method would always manipulate the input field in the first row.
+Sometimes targeting fields by a label isn't accurate enough. Each row of the form would have its own `<label>` for the genre name, but using Webrat's `fill_in( )` method would always manipulate the input field in the first row.
 
 Use `within()` to scope all the contained form manipulations to a subset of the page.
 
-    When /^I fill in Horror for the second genre name$/ do  
+    When /^I fill in Horror for the second genre name$/ do 
       within "#genres li:nth-child(2)" do
         fill_in "Name", :with => "Horror"
-      end 
+      end
     end
 
 #### Locating Form Fields

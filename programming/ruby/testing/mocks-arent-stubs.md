@@ -194,6 +194,5 @@ Problem with state-based verification: You create a lot of query methods only fo
 
 ## Classicist or Mockist?
 
-I'm a classicist. I'm concerned about the consequences of coupling tests to implementation. A mockist is constantl thinking about how the SUT is going to be implemented in order to write the expectations. This feels really unnatural to me.
-
+I'm a classicist. I'm concerned about the consequences of coupling tests to implementation. A mockist is constantly thinking about how the SUT is going to be implemented in order to write the expectations. This feels really unnatural to me.
 
