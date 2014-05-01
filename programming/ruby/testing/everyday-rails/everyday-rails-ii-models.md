@@ -28,7 +28,7 @@ When we add models via `model` or `scaffold`, the model spec file will be added 
 #### The new RSpec syntax
 
 > Old
-    
+
     it "is true when true" do
       true.should_be true
     end
@@ -79,13 +79,13 @@ We needed to persist the first contact in order to make the second contact not p
 
 #### Testing instance methods
 
-> models/contact.rb
+> *models/contact.rb*
 
     def name
       [firstname, lastname].join(' ')
     end
 
-> spec/models/contact_spec.rb
+> *spec/models/contact_spec.rb*
 
     it "returns a contact's full name as a string" do
       contact = Contact.new(firstname: "John", lastname: "Doe")
@@ -124,7 +124,7 @@ While describe/context are interchangeable, I use it like this: describe outline
         context "matching letters" do
           # matching examples
         end
-        
+
         context "non-matching letters" do
           # non-matching examples
         end
@@ -150,7 +150,7 @@ Problem: Fixtures can be easily broken, and Rails bypasses Active Record when it
 
 Factories are simple, flexible, building blocks for testing data. Con: Even DHH said that factories are a primary cause of slow test suites.
 
-> spec/factories/contacts.rb
+> *spec/factories/contacts.rb*
 
     FactoryGirl.define do
       factory :contact do
@@ -176,7 +176,7 @@ Update the code. (The created contact doesn't persist.)
 
 #### Association and Inheritance in Factories
 
-> spec/factories/phones.rb
+> *spec/factories/phones.rb*
 
     FactoryGirl.define do
       factory :phone do
@@ -199,7 +199,7 @@ Update the code. (The created contact doesn't persist.)
       end
     end
 
-> spec/models/phones_spec.rb
+> *spec/models/phones_spec.rb*
 
     describe Phone do
       it "does not allow duplicate phone numbers per contact" do
@@ -254,4 +254,4 @@ Update the code. (The created contact doesn't persist.)
 
     validates :phones, length: { is: 3 }
 
-While generating associations with factorires is an easy way to ramp up tests, it's also an easy feature to abuse and often a culprit when test suites' runnign times slow to a crawl. When that happens, it's better to remove associations from factories and build up test data manually, or do PORO.
+While generating associations with factories is an easy way to ramp up tests, it's also an easy feature to abuse and often a culprit when test suites' running times slow to a crawl. When that happens, it's better to remove associations from factories and build up test data manually, or do PORO.

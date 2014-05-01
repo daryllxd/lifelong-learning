@@ -11,7 +11,7 @@
 - One feature spec can accomplish the work of multiple controller specs.
 
 #### Controller testing basics
-``
+
 Scaffolds, when done correctly, are a great way to learn coding techniques.
 
 A controller spec is broken down by controller method-each example is based of a single actions and, optionally, any parameters passed to it. Here's a simple example:
@@ -34,7 +34,7 @@ New things to look at:
 
 #### Organization
 
-> spec/controllers/contact_controller_spec.rb
+    # spec/controllers/contact_controller_spec.rb
 
     describe ContactsController do
 
@@ -106,7 +106,7 @@ New things to look at:
 
     describe 'GET #show' do
 
-> Make sure that a persisted contact is found by the controller method and properly assign to the specified instance variable. Use assigns() to check that the value is waht we expect to see.
+> Make sure that a persisted contact is found by the controller method and properly assign to the specified instance variable. Use assigns() to check that the value is what we expect to see.
 
       it "assigns the requested contact to @contact" do
         contact = create(:contact)
