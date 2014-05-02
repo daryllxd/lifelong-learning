@@ -2,7 +2,7 @@
 
 # 1: What is the Point of TDD?
 
-Developers often don’t completely understand the technologies they’re using. They have to learn how the components work whilst completing the project.
+Developers often don't completely understand the technologies they’re using. They have to learn how the components work whilst completing the project.
 
 We think that the best approach a team can take is to use empirical feedback to learn about the system and its use, and then apply that learning back to the system. A team needs repeated cycles of activity. In each cycle it adds new features and gets feedback about the quantity and quality of the work already done. The team members split the work into time boxes, within which they analyze, design, implement, and deploy as many features as they can.
 
@@ -30,7 +30,7 @@ Split the system into values (treated functionally) and objects (implement state
 
 ### Follow the Messages
 
-In Java, we identify roles with interfaces rather than concrete classes. In our view, the domain model is in teh communication patterns. They show the communication ofthe different classes.
+In Java, we identify roles with interfaces rather than concrete classes. In our view, the domain model is in the communication patterns. They show the communication of the different classes.
 
 Ex: In a video game: actors, scenery, effects, GameEngine, renderer, animator, collision detector
 
@@ -65,7 +65,7 @@ The essential structure of a test:
 
 # 4: Kick-Starting the Test-Driven Cycle
 
-The quandary in writing and passing the first acceptacne test is that it's hard to build both the tooling and the feature it's testing at the same time. Changes in one disrupt progress made with the other, and tracking down failures is tricky when the architecture, the tests, and the production code are all moving.
+The quandary in writing and passing the first acceptance test is that it's hard to build both the tooling and the feature it's testing at the same time. Changes in one disrupt progress made with the other, and tracking down failures is tricky when the architecture, the tests, and the production code are all moving.
 
 To solve this, we split it into two smaller problems: First, work out how to build, deploy, and test a "walking skeleton", then use that infrastructure to write the acceptance tests for the first meaningful feature.
 
@@ -105,15 +105,15 @@ Do the simplest case that could possibly work (simple should not be interpreted 
 
 Example of incremental approach: moon program. The 7 missions had their own steps: (unmanned command module test, unmanned lunar module test, manned CSM in low Earth orbit, manned CSM and LM in low Earth orbit...
 
-Write the test that you'd want to read--we want each test to be as clear as possible an expression of the behavior to be performed by the system or object. Ignore the fact that the test won't run or compile, just concentrate on its text; we act as if the suporting code already exists.
+Write the test that you'd want to read--we want each test to be as clear as possible an expression of the behavior to be performed by the system or object. Ignore the fact that the test won't run or compile, just concentrate on its text; we act as if the supporting code already exists.
 
 *Test must read well.*When the test reads well, we then build up the infrastructure to support the test. We know we've implemented enough of the supporting code when the test fails in the way we'd expect.
 
-*Watch the test fail.* If the test fails in a way that we didn't expect, we know we've misunderstood something or that the code is incomplete, sowe fix that. If it's the "right" failure, we can check that the diagnostics are helpful.
+*Watch the test fail.* If the test fails in a way that we didn't expect, we know we've misunderstood something or that the code is incomplete, so we fix that. If it's the "right" failure, we can check that the diagnostics are helpful.
 
 *Develop for the Inputs to the Outputs.* The end-to-end tests for the feature will simulate these events arriving. At the boundaries of our system, we will need to write one or more objects to handle these events. Then we discover that these objects need services, and these need objects, and these need services...
 
-In this way, we work our way through the system: from the objects that receive external events, through the intermediate layers, to the central domain model, and then on to other boundary objects that generate an extrnal visuble response.
+In this way, we work our way through the system: from the objects that receive external events, through the intermediate layers, to the central domain model, and then on to other boundary objects that generate an external visible response.
 
 It's tempting to start by unit-testing new domain model objects and then trying to hook them into the rest of the application, but we're more likely to get bitten by integration problems later.
 
@@ -123,6 +123,156 @@ It's tempting to start by unit-testing new domain model objects and then trying 
 
 # 6: Object-Oriented Style
 
-Value code that is easy to maintain over code that is easy to write.
+Value code that is easy to maintain over code that is easy to write. Implementing a feature in the most direct way can damage the maintainability of the system, by making the code difficult to understand or by introducing hidden dependencies between components.
 
-*Internals vs. Peers* 
+We grow our systems a slice of functionality at a time. As the code scales up, the only way we can continue to understand and maintain it is by structuring the functionality into objects, objects into packages, packages into programs, and programs into systems.
+
+## 2 Principal Heuristics:
+
+*Separation of concerns.* When we have to change the behavior of a system, we want to change as little code as possible. If all the relevant changes are in one area of code, we don't have to hunt around the system to get the job done.
+
+Because we can't predict when we have to change any part of the system, we gather together code that wll change for the same reason. Ex: code to unpack messages from an Internet standard protocol will not change for the same reasons as business code that interprets those messages, so we partition the two concepts into different packages.
+
+*Higher levels of abstraction.* The only way for humans to deal with complexity is to avoid it, by working at higher levels of abstraction.
+
+"Ports and adapters" -- code for business domain is isolated from its dependencies on technical infrastructure, such as databases and user interfaces. We don't want technical concepts to leak into the application model, so we write interfaces to describe its relationships with the outside world *its terminology.* Then we write bridges between the application core and each technical domain (adapters).
+
+*Encapsulation.* Ensures that the behavior of an object can only be affected through its API. (Private/public thing).
+
+*Information hiding.* Conceals how an object implements its functionality behind the abstraction of its API. It lets us work with higher abstractions by ignoring lower-level details that are unrelated to the task at hand.
+
+While working with badly encapsulated code, we spend too much time tracing where the potential effects of a change might be, looking at where objects are created, what common data they hold, and where their contents are referenced.
+
+We follow standard practices to maintain encapsulation when coding: define immutable value types, avoid global variables and singletons, copy collections and mutable values when passing them between objects, and so on.
+
+## Internals vs. Peers
+
+As we organize our system, we must decide what is inside and outside each object, so that the object provides a coherent abstraction with a clear API. Much of the point of an object is to encapsulate access to its internals through its API and hide these details from the rest of the system.
+
+## Helpers/Functional Programming
+
+We often write helper methods to make code more readable. We're not afraid of adding very small methods if they clarify the meaning of the feature they represent. We use the *message-passing* style we've described between objects, but we tend to use a more functional style within an object, building up behavior from methods and values that have no side effects.
+
+Features without side effects mean we can assemble our code from smaller components, minimizing the amount of risky shared state.
+
+*Every object should have a single, clearly defined responsibility, this is the SRP. When we're adding behavior to a system, this principle helps us decide whether to extend an existing object or create a new service for an object to call.*
+
+Our heuristic is that we should be able to describe what an object does without using "and" and "or". If we find ourselves adding clauses to the description, then the object probably should be broken up into collaborating objects usually one for each clause.
+
+This principle also applies when we're combining objects into new abstractions. If we're packaging behavior implemented across several objects into a single construct, we should be able to describe its responsibility clearly.
+
+## Object Peer Stereotypes
+
+*Dependencies.* Services that the object requires from its peers so it can perform its responsibilities. The object cannot function without these services. *You should not be able to create an object without them.*
+
+*Notifications.* Peers that need to be kept up to date with the object's activity. The object will notify interested peers whenever it changes state or performs a significant action.
+
+Notifications are "fire and forget"; the object neither knows nor cares which peers are listening. Notifications are so useful because they decouple objects from each other. Ex: In a UI, a button component promises to notify any registered listeners when it's clicked, but does not know what those listeners will do. Similarly, the listeners expect to be called but know nothing of the way the UI dispatches its events.
+
+*Adjustments.* Peers that adjust the objects' behavior to the wider needs of the system. Ex: policy objects that make decisions on the object's behalf, and components parts of the object if it's a composite. Ex: A `JTable` will ask a `TableCellRenderer` to draw a cell's value. If we change the renderer, the table will change its presentation.
+
+Dependencies must be passed in through the constructor. *Partially creating an object and then finishing it off by setting properties is brittle because the programmer has to remember teo set all the dependencies. (We get `NullPointerException`).*
+
+Notifications and adjustments can be passed to the constructor as a convenience. They can be initialized to safe defaults and overwritten later. We then add methods to allow callers to change these default values, and add or remove listeners.
+
+*Composite Simpler Than the Sum of Its Parts*
+
+All objects in a system, except for primitive types built into the language, are composed of other objects. When composing objects into a new type, we want this new type to exhibit simpler behavior than all of its component parts considered together. The composite object's API must hide the existence of its component parts and the inteactions between them, and expose a simpler abstraction to its peers.
+
+Bad:
+
+    money_editor.get_amount_field.set_text(String.value_of(money.amount))
+    money_editor.get_currency_field.set_text(money.currency_code)
+
+    money_editor.set_amount_field(money_amount())
+    money_editor.set_currency_field(money_currency_code())
+
+Good:
+
+    money_editor.set_value(money)
+
+*The API of a composite object should not be more complicated than that of its components.*
+
+The "context independence" rule helps us decide whether an object hides too much or hides the wrong information. *A system is easier to change if its objects are context-independent: if each object has no built-in knowledge about the system in which it executes.* We can take units of behavior (objects) and apply them in new situations.
+
+*To be context-independent, whatever an object needs to now about the larger environment it's running must be passed in.* Those relationships might be "permanent" (passed in on construction) or "transient" (passed in to the method that needs them).
+
+*In this "paternalistic" approach, each object is told just enough to do its job and wrapped up in an abstraction that matches its boundary.*
+
+*Eventually, the chain of objects reaches a process boundary, which is where the system will find external details such as host names, ports, and UI events.*
+
+One Domain Vocabulary: Better to make their relationships explicit, defined separately from the objects themselves.
+
+*Hiding the Right Information.* It makes sense to hide the data structure used for the cache in the `CachingAuctionLoader` class. Sometimes it doesn't make sense to hide the name of the application's log file in the `PricingPolicy` class.
+
+# 7: Achieving Object-Oriented Design
+
+A caller wants to know what an object does and what it depends on, but not how it works. We also want an object to represent a coherent unit that makes sense in its larger environment--a system built from such components will have the flexibility to reconfigure and adapt as requirements change.
+
+*Starting with a test means we describe WHAT we have to achieve before we consider HOW.* This focus helps us maintain the right level of abstraction for the target object.
+
+## How Writing a Test First Helps the Design
+
+If the intention of the unit test is unclear, then we're probably mixing up concepts and not ready to start coding.
+
+To keep unit tests understandable, we have to limit their scope--no unit tests more than twelve lines please. The component they're testing is probably too large and needs to be broken up into smaller components.
+
+To construct an object for a unit test, we have to pass its dependencies to it, which means we know what they are. This encourages context independence, since we have to be able to set up the target object's environment before we can unit-test it. Objects with implicit or too many dependencies is painful to prepare for testing.
+
+## Communication over Classification
+
+We want to achieve a well-designed class structure, but we think the communication patterns between objects are more important.
+
+TDD with mock objects also encourages information hiding. We should mock an object's peers--its dependencies notifications, and adjustments, but not its internals. Tests that highlight an object's neighbors help us to see whether they are peers, or should instead be internal to the target object.
+
+A test that is clumsy or unclear might be a hint that we've exposed too much implementation, and that we should rebalance the responsibilities between the object and its neighbors.
+
+## Introducing Value Types
+
+*Values are immutable, and objects have state, so they have identity and relationships with each other.* The more we write, the more we've convinced that we should define types to represent value concepts in the domain, even if they don't do much.
+
+*Breaking out.* Break a class that handles incoming messages into two parts: one to parse the message string, one to interpret the result of the parsing.
+
+*Budding off.* When we want to mark a new domain concept in the code, we often introduce a placeholder type that wraps a single field, or maybe has no fields at all. As the code grows, we fill in more detail in the new type by adding fields and methods.
+
+*Bundling up.* When we notice that a group of values are always used together, we take that as a suggestion that there's a missing construct. Create a new type with fixed public field, then migrate behavior to the new type.
+
+## Where Do Objects Come From?
+
+When code becomes complex  to understand, we can pull out cohesive units of functionality into smaller collaborating objects, which we can then unit-test independently. Splitting out a new object also forces us to look at the dependencies of the code we're pulling out.
+
+Concern 1: How long should we wait before doing something? Concern 2: Occasionally it's better to treat this code as a spike--once we know what to do, just roll it back and reimplement cleanly.
+
+When code is more stable and ha some degree of structure, we discover new types by "pulling" them into existence--*we might be adding behavior to an object and find that, following our design principles, some new feature doesn't belong inside it.*
+
+When implementing an object, we discover that it needs a service that needs to be provided by another object. We give the new service a name and mock it out in the client object's unit tests, to clarify the relationship between the two. Then we write an object to provide that service and discover what services that object needs. Then, follow this chain until we connect up to existing objects, either our own or from a third-party API.
+
+### Bundling Up: Hiding Related Objects into a Containing Object
+
+When we have a cluster of related objects that work together, we can package them up in a containing object. The new object hides the complexity in an abstraction that allows us to program at a higher level.
+
+Nice effects: We have to give it a name which helps us understand the domain a little better. Second, we can scope dependencies more clearly, since we can see the boundaries of the concept. Third, we can be more precise with our unit testing--we can test the new composite object directly, and use a mock implementation to simplify the tests for code from which it was extracted.
+
+*When the test for an object becomes too complicated to set up, considering bundling up some of the collaborating objects.*
+
+### Identify Relationships with Interfaces
+
+We use interfaces to name the roles that objects can play and to describe the messages they'll accept. We also prefer interfaces to be as narrow as possible, even though that means we need more of them. *The fewer methods there are on an interface, the more obvious is its role in the calling object.*
+
+Narrow interfaces are also easier to write adapters and decorators for; there's less to implement, so it's easier to write objects that compose together well.
+
+What's good about driving an interface from its client is that it avoids leaking excess information about its implementers, which minimizes implicit coupling between objects.
+
+### Refactor Interfaces Too
+
+In a reasonably large code base, we often start to find interfaces that look similar. This means we should look at whether they represent the same concept and should be merged. Extracting common roles makes the design more malleable because more components will be "plug-compatible", so we can work at a higher level of abstraction.
+
+Consider refactoring interfaces when we start implementing them. If we find that the structure of an implementing class is unclear, perhaps it has too many responsibilities.
+
+Organize the code into two layers: implementation (the graph of objects), and declarative (builds up the objects in the implementation layer using small "sugar" methods. *The declarative layer describes what the code will do, while the implementation layer describes how the code does it.*
+
+On classes, we view it as an "implementation detail"--a way of implementing types, not the types themselves.
+
+
+
+====================
