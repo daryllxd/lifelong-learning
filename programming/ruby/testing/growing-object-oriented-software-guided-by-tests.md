@@ -273,6 +273,22 @@ Organize the code into two layers: implementation (the graph of objects), and de
 
 On classes, we view it as an "implementation detail"--a way of implementing types, not the types themselves.
 
+# 8: Building on Third-Party Code
 
+We don't control third-party code, so we cannot use our process to guide its design. Instead, we must focus on the integration between our design and the external code.
 
-====================
+In integration, we have an abstraction to implement. With the third-party API pushing back at our design, we must find the best balance between elegance and practical use of someone else's ideas.
+
+## Only Mock Types That You Own
+
+When we use third-party code we often do not have a deep understanding of how it works. This means that providing mock implementations of third-party types is of limited use when unit-testing the objects that call them.
+
+We also have to make sure that the behavior we stub or mock matches what the external library will actually do.
+
+## Write an Adapter Layer
+
+If we don't want to mock an external API, how can we test the code that drives it? We write a layer of adapter objects that uses the third-party API to implement these interfaces. We keep this layer as thin as possible, but wrap it enough so that technical implementations aren't leaked into the application domain model.
+
+Exceptions for where mocking is useful: simulating behavior that is hard to trigger with the real library, such as throwing exceptions. We might use mocks to test a sequence of calls to make sure that a transaction is rolled back if there's a failure (there shouldn't be many tests like this in a test suite).
+
+Sometimes, adapter objects must call back to objects from the application. Event-based libraries usually expect the client to provide a callback object to be notified when an event happens. In this case, the application code will give the adapter its own event callback. The adapter will then pass an adapter callback to the external library to receive external events and translate them for the application callback.
