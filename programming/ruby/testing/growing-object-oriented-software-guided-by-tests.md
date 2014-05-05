@@ -1,3 +1,4 @@
+Meszaros07
 # Growing Object-Oriented Software, Guided by Tests
 
 # 1: What is the Point of TDD?
@@ -595,5 +596,136 @@ The skill is in learning how to divide requirements up into incremental slices, 
 
 *Logging Is Also a Feature.* We've seen many systems where logging has been added ad hoc by developers wherever they find a need. Production logging is an external interface that should be driven by the requirements of those who will depend on it, not by the structure of the current implementation.
 
+# Sustainable Test-Driven Development
+=====================================
 
+We want to make sure the tests pull their weight by making them expressive, so that they can tell what's important when we read them and when they fail, and we make sure they don't become a maintenance drag themselves.
 
+Difficulty in testing might imply that we need to change our test code, but it's often a hint that our design ideas are wrong and that we ought to change the production code.
+
+# 20: Listening to the Tests
+
+The trick is to let our tests drive our design. TDD is about testing code, verifying its externally visible qualities such as functionality and appearance. TDD is also about feedback on the code's internal qualities: the coupling and cohesion of its classes, dependencies that are explicit or hidden, and effective information hiding--the qualities that keep the code maintainable.
+
+When we find a feature that is difficult to test, we don't just ask ourselves how to test it, but also why it is difficult to test.
+
+## I Need to Mock an Object I Can't Replace: Singletons Are Dependencies
+
+Singleton = making objects accessible through a global structure. Any code that needs access to a feature can just refer to it by its global name instead of receiving it as an argument.
+
+    Date now = new Date();
+
+Under the hood, the constructor calls the singleton `System` and sets the new instance to the current time using `System.currentTimeInMilliseconds()`. The cost of this is that we have to make the test wait overnight our we modify the internal clock somehow to return suitable Date values for the test. We have to introduce a `Clock` object and pass it into the `Receiver`.
+
+In this case, better to put the date checking part in `Clock` rather than `Receiver`.
+
+## Logging is a Feature
+
+Two separate features in logging:
+
+- Support logging (errors and info) is part of the UI of the application. These messages are intended to be tracked by support staff to diagnose a failure or monitor the progress of the running system.
+- Diagnostic logging (debug and trace) is infrastructure for programmers. These messages should not be turned on in production because they're intended to help the programmers understand what's going on inside the system they're developing.
+
+Support logging should be test-driven from somebody's requirements, such as auditing or failure recovery. These tests make sure we've thought about what each message is for and made sure it works.
+
+Diagnostic logging is driven by the programmers' need for fine grained tracking of what's happening in the system. (Don't use this in production!)
+
+*Notification Rather Than Logging.* Writing tests agaisnt static global objects, including loggers, is clumsy. We have to either read from the file system or manage an extra appedner object for testing; we ahve to remember to clean up afterwards so the tests don't interfere with each other, and set the right level on the right logger.
+
+Oftentimes code will do 2 things, the functional part and the logging part (breaks SRP). What we want:
+
+    Location location = tracker.getCurrentLocation();
+    for (Filter filter : filters) {
+      filter.selectFor(location);
+      support.notifyFiltering(tracker, location, filter);}
+
+The support object might be implemented by a logger, a message bus, pop-up windows, or whatever's appropriate; this detail is not relevant to the code at this level.
+
+Code is easier to test, because we (not the logging framework) own the support object, so we can pass in a mock. Now, we're testing for objects, rather than formatted contents of a string.
+
+*The idea of encapsulating support sounds like it's over-design, but it means we're writing code in terms of our *intent* (helping the support people) rather than implementation (logging), so i's more expressive.* Support reporting is handled in a few known places, so it's easier to be consistent about how things are reported and to encourage reuse.
+
+The act of writing a test for each report avoids the "I don't know what to do with this exception, so I'll log it and carry on" syndrome, which leads to log bloat and production failures because we haven't handled obscure error conditions.
+
+## Mocking Concrete Classes
+
+One approach to interaction testing is to mock concrete classes rather than interfaces. The technique is to inherit from the class you want to mock and override the methods that will be called within the test, either manually or with the mocking frameworks.
+
+Just do this when you have no other options. The problem is that when you subclass, there's nothing in the domain code to make such a relationship visible--it's just methods on an object.
+
+We can do this when we're either working with legacy code or when we're working with third-party code that we can't change at all. It's almost always better to write a veneer over an external library than mock it directly.
+
+Do not override a class' internal features--this just locks down your test to the quirks of the current implementation. Only override visible methods. This rule also prohibits exposing internal methods just to override them in a test. If you can't get to the structure you need, then the tests are telling you that it's time to break up the class into smaller, composable features.
+
+## Don't Mock Values
+
+Don't do this:
+
+    Video video1 = context.mock(Video.class);
+
+Just create instances with the appropriate times and use them. Values are immutable. If you're tempted to mock a value because it's too complicated to set up an instance, consider writing a Builder.
+
+## Bloated Constructor
+
+Sometimes, we end up with a constructor that has a lot of arguments. We most likely got there by adding the object's dependencies one at a time, and it got out of hand. We can pack some of the arguments together and replace them with a new object to represent it.
+
+Not so good:
+
+    public MessageProcessor(MessageUnpacker unpacker, AuditTrail auditor, CounterPartyFinder counterPartyFinder, LocationFinder locationFinder, DomesticNotifier domesticNotifier, ImportedNotifier importedNotifier);
+
+Better:
+
+    public MessageProcessor(MessageUnpacker unpacker, AuditTrail auditor, MessageDispatcher dispatcher);
+
+When two things are always used together, put them together!
+
+Being sensitive to complexity in the tests can help us clarify our designs. We now have a message handling object that performs the usual three stages: receive, process, and forwards, but we were able to pull out the message routing code so the `MessageProcessor` has fewer responsibilities and we know where to put routing decisions when things get more complicated. It's also easier to unit test.
+
+When extracting implicit components, we start by looking for two conditions: arguments that are always used together in the class, and those that have the same lifetime.
+
+## Confused Object
+
+The object itself might be too large because it has too many responsibilities. The smell for this class is that its test suite will look confused too. The tests for its various features will have no relationship with each other, so we'll be able to make major changes in one area without touching others.
+
+If we can break up the test class into slices that don't share anything, it might be best to go ahead and slice up the object too.
+
+## Too Many Dependencies
+
+Not all of the arguments might be dependencies. *We insist on dependencies being passed in to the constructor, but notifications and adjustments can be set to defaults and reconfigured later. When a constructor is too large, and we don't believe there's an implicit new type amongst the arguments, we can use more default values and only overwrite them for particular test cases.*
+
+Bad:
+
+    public class RacingCar {
+      private final Track track;
+      private Tires tires;
+      private Suspension suspension;
+      private Wing frontWing;
+      private Wing backWing;
+      private double fuelLoad;
+      private DrivingStrategy driver;
+
+      public RacingCar(Track track, DrivingStrategy driver...){
+        this.track = track;
+        this.driver = driver;
+        ...
+      }
+    }
+
+As seen in the `final` thingie only the `Track` is the dependency. What we should do is this:
+
+    public class RacingCar {
+      private final Track track;
+      private DrivingStrategy driver = DriverTypes.borderlineAggressiveDriving();
+      private Tires tires = TireTypes.mediumSlicks();
+      private Suspension suspension = SuspensionTypes.mediumStiffness();
+      private Wing frontWing = WingTypes.mediumDownforce();
+      private Wing backWing = WingTypes.mediumDownforce();
+      private double fuelLoad = 0.5;
+
+      public RacingCar(Track track){
+        this.track = track;
+      }
+
+      public void setSuspension(Suspension suspension) { ... }
+      public void setTires(Tires tires) { ... }
+    }
