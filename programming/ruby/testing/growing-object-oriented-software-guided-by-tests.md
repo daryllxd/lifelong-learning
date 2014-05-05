@@ -729,3 +729,68 @@ As seen in the `final` thingie only the `Track` is the dependency. What we shoul
       public void setSuspension(Suspension suspension) { ... }
       public void setTires(Tires tires) { ... }
     }
+
+## Too Many Expectations
+
+When everything is an expectation, everything looks equally important. We can't tell what's significant and what's there to get through the test. We can make our intentions clearer by distinguishing between stubs (simulations of real behavior) and expectations (assertions we want to make about how an object interacts with its neighbors).
+
+## What the Tests Will Tell Us
+
+*Keep knowledge local.* Some of the test smells we've identified, such as needing "magic" to create mocks, are to do with knowledge leaking between components. If we can keep knowledge local to an object (either internal or passed in), then its implementation is independent of its context; we can safely move it wherever we like.
+
+*If it's explicit, we can name it.* One reason why we don't like mocking concrete classes is that we like to have names for the relationships between objects as well as the objects themselves. If we have a name, we can control it.
+
+*More names mean more domain information.* When we emphasize how objects communicate, we end up with types and roles defined more in terms of domain than of implementation. When we have a greater number of smaller abstractions, we get further away from the underlying language.
+
+*Pass behavior rather than data.* By applying "Tell, Don't Ask" repeatedly, we end up with a coding style where we tend to pass behavior into the system instead of pulling values up through the stack. More precise interfaces give us better information-hiding and clearer abstractions.
+
+It's much easier to keep a codebase clean than to recover from a mess. Once a codebase starts to rot, the developers will be under pressure to botch the code to get the next job done.
+
+Unit tests shouldn't be 1000 lines long, it should focus on at most a few classes and should not need to create a large fixture or perform lots of preparation just to get the objects into a state where the target feature can be exercised. TDD can be unforgiving.
+
+# 21: Test Readability
+
+Teams that adopt TDD either see a boost in productivity because tests let them add feature with confidence, or the pace slows them down and the tests themselves become a burden. Test code should describe what production code does. *It's concrete about the values it uses as examples of what results to expect, but abstract about how the code works.* Production code is abstract about the values but concrete about how it gets the job done. When writing production code, we consider how we compose our objects to make up a working system. It's more important for test code to express the intention of its target code than to plug into a web of other objects.
+
+## Watch Out For:
+
+- Test names that do not clearly describe the point of each test case and its differences from the other test cases.
+- Single test cases that seem to be exercising multiple features.
+- Tests with different structure, so the reader cannot skim-read them to understand their intention.
+- Tests with lots of code to set up and handle exceptions (buries essential logic).
+- Tests that use literal values but are not clear about what is significant about those values.
+
+*Test Names Describe Features.* Don't name tests `test1()`. We don't need to know that `TargetObject` has a `choose()` method--we need to know what the object does is different situations, and what the method is for.
+
+Better to name tests in terms of the features that the target object provides (`holdsItemsInTheOrderTheyWereAdded()`). These names can be as long as we like because they're only called through reflection and we never have to type them in to call them.
+
+The point of the convention is to encourage the developer to think in terms of what the target object does, not what it is.
+
+As a matter of style, the test name should same something about expected result, the action on the object, and the motivation for the scenario. Better to have `notifiesListenersThatServerIsUnavailableWhenCannotConnectToItsMonitoringPort` rather than `pollsTheServerMonitoringPort`.
+
+*Regularly Read Documentation Generated From Tests.* Make it an effort to see the problems if we're too close to the code to see.
+
+## Canonical Test Structure
+
+If it is difficult to write a test in a standard form, that's our hint that the code is too complicated or that we haven't clarified our ideas.
+
+1. *Setup.* Prepare the context of the test, the environment in which the target code will run.
+2. *Execute.* Call the target code, triggering the tested behavior.
+3. *Verify.* Check for a visible effect that we expect form the behavior.
+4. *Teardown.* Clean up leftover states. Make it an effort to see the problems if we're too close to the code to see.
+
+All code should emphasize WHAT it does over HOW, including test code; the more implementation detail is included in a test method, the harder it is for the reader to understand what's important. We try to move everything out of the test method that doesn't contribute to the description, in domain terms, of the feature being exercised.
+
+We also extract common features into methods that can be shared between tests for setting up values, tearing down state, making assertions, and occasionally triggering the event. The only caution with factoring out test structure is that we have to be careful not to make a test so abstract that we cannot see what it does anymore
+
+*Accentuate the positive. We conly catch exceptions in a test if we want to assert soemthing about them.*
+
+*Delegate to subordinate objects.* Sometimes helper methods aren't enough and we need helper objects to support the tests. We developed `ApplicationRunner`, `AuctionSniperDriver`, and `FakeAuctionServer` so we could write tests in terms of auctions and Snipers, not in terms of Swing and messaging.
+
+Two approaches: Either we write the test we want to see and fill in the supporting objects, or to write the code in the tests and refactor out any clusters of behavior.
+
+*Assertions and Expectations.* The assertions and expectations of a test should communicate `precisely` what matters in the behavior of the target code. We regularly see code where tests assert too much detail, which makes them difficult to read and brittle when things change. BTW, it is encouraged to use matchers as opposed to things like `assertFalse()`.
+
+*Literals and Variables.* Literal values without explanation can be difficult to understand because the programmers has to interpret whether a particular value is significant or is just an arbitrary placeholder. Better to have `public static final Chat UNUSED_CHAT = null` to show that we use `null` to represent an argument unused in production code.
+
+
