@@ -1,7 +1,7 @@
 #### How to describe your methods.
 
 > Bad
-    
+
     describe "the authenticate method for User" do
     describe "if the user is an admin" do
 
@@ -55,7 +55,7 @@ Configure Rspec to only accept the new syntax on new projects.
 #### Use subject
 
 Named subjects:
-  
+
     subject(:hero) { Hero.first }
     it "carries a sword" do
       expect(hero.equipment).to include "sword"
@@ -95,7 +95,7 @@ Let is actually this:
 
 #### Mock or not to mock [TODO]
 
-#### Easy to read matcher 
+#### Easy to read matcher
 
 #### Shared Examples
 

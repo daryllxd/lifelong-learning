@@ -104,7 +104,7 @@ Verify stub response is being returned.
 
 # Testing Third-Party: Learn
 
-I'm not a fan of fakes. It's a ton of overhead to mock the API, and it's too easy to get sometime wrong and discover it on Staging/Prodcution. Why VCR?
+I'm not a fan of fakes. It's a ton of overhead to mock the API, and it's too easy to get sometime wrong and discover it on Staging/Production. Why VCR?
 
 - Set your cassettes to expire after a few days (I do 3).
 - Add cassettes to .gitignore, they exist only to make your tests run faster.
