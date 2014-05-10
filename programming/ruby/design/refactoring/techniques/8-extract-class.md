@@ -1,6 +1,5 @@
 #### Steps
 
-
 1. Instantiate the class you wish you had.
 2. Make a new empty class.
 3. Move a method and fields over.

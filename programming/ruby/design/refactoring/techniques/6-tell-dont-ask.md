@@ -9,7 +9,7 @@ Tell don't ask tells you that instead of asking "Are you a user? If so I want yo
     <% end %>
 
 > Better
-    
+
     <%= current_user.welcome_message %>
 
 This is not good because there isn't room for asking crap, why not just ask the user, "whatever you are, just tell your message."
@@ -27,7 +27,7 @@ If you're asking a lot of questions in the view, yo uusally want to take it out.
     end
 
 > Better
-    
+
     system_monitor.check_for_overheating
 
     class SystemMonitor

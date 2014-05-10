@@ -11,68 +11,68 @@ What happens is that you create classes that don't have to change when the appli
 3. Remove Feature Envy by allowing dependent classes to make their own decisions.
 4. Make it easier to remove Duplicated Code by taking behavior out of conditional clauses and private methods.
 
-> Example code: a/m/question.rb
+> Example code: `a/m/question.rb`
 
     class Question < ActiveRecord::Base
         include ActiveModel::ForbiddenAttributesProtection
-    
+
         SUBMITTABLE_TYPES = %w(Open MultipleChoice Scale).freeze
-        
+
         validates :maximum, presence: true, if: :scale?
         validates :minimum, presence: true, if: :scale?
         validates :question_type, presence: true, inclusion: SUBMITTABLE_TYPES validates :title, presence: true
-    
-        belongs_to :survey 
-        has_many :answers 
+
+        belongs_to :survey
+        has_many :answers
         has_many :options
-    
+
         accepts_nested_attributes_for :options, reject_if: :all_blank
-    
+
         def summary
-            case question_type 
+            case question_type
             when 'MultipleChoice'
                 summarize_multiple_choice_answers
-            when 'Open' 
+            when 'Open'
                 summarize_open_answers
-            when 'Scale' 
+            when 'Scale'
                 summarize_scale_answers
-            end 
+            end
         end
 
-        def steps 
+        def steps
             (minimum..maximum).to_a
-        end 
+        end
 
         private
 
         def scale?
             question_type == 'Scale'
         end
-        
+
         def summarize_multiple_choice_answers
             total = answers.count
-            counts = answers.group(:text).order('COUNT(*) DESC').count 
+            counts = answers.group(:text).order('COUNT(*) DESC').count
             percents = counts.map do |text, count|
                 percent = (100.0 * count / total).round
-                "#{percent}% #{text}" 
+                "#{percent}% #{text}"
             end
-            percents.join(', ') 
+            percents.join(', ')
         end
-        
-        def summarize_open_answers 
+
+        def summarize_open_answers
             answers.order(:created_at).pluck(:text).join(', ')
         end
 
         def summarize_scale_answers
             sprintf('Average: %.02f', answers.average('text'))
-        end 
+        end
     end
 
 *Problems:*
 
 1. Adding a new question type will require modifying the method. (Divergent Change)
 2. Logic and data for summarizing every type of question and answer is jammed into the Question class. (Large Class, Obscure Code)
-3. App checkes question types multiple times. (New types will cause Shotgun Surgery)
+3. App checks question types multiple times. (New types will cause Shotgun Surgery)
 
 #### Replace Type Code with Subclasses
 
@@ -81,27 +81,27 @@ What happens is that you create classes that don't have to change when the appli
 > Current question type
 
     def summary
-        case question_type 
+        case question_type
         when 'MultipleChoice'
             summarize_multiple_choice_answers
-        when 'Open' 
+        when 'Open'
             summarize_open_answers
-        when 'Scale' 
+        when 'Scale'
             summarize_scale_answers
-        end 
+        end
     end
 
 > Better question type (includes the type itself)
 
     def summary
-        case question_type 
+        case question_type
         when 'MultipleChoiceQuestion'
             summarize_multiple_choice_answers
-        when 'OpenQuestion' 
+        when 'OpenQuestion'
             summarize_open_answers
-        when 'ScaleQuestion' 
+        when 'ScaleQuestion'
             summarize_scale_answers
-        end 
+        end
     end
 
 > Migration to make sure everyone has a Question type.
@@ -109,7 +109,7 @@ What happens is that you create classes that don't have to change when the appli
     def up
         connection.update(<<-SQL)
             UPDATE questions SET question_type = question_type || 'Question'
-        SQL 
+        SQL
     end
 
 It is Rails convention to use the `type` column to base on STI. Since we already have `question_type`, we set the inheritance column to be `question_type`.
@@ -119,13 +119,13 @@ It is Rails convention to use the `type` column to base on STI. Since we already
     set_inheritance_column 'question_type'
 
 > a/m/open_question.rb
-    
-    class OpenQuestion < Question 
+
+    class OpenQuestion < Question
     end
 
 > a/m/scale_question.rb
- 
-    class ScaleQuestion < Question 
+
+    class ScaleQuestion < Question
     end
 
 Since Rails generates URLS and local variable names for partials based on class names, we need to update some references.
@@ -143,42 +143,42 @@ Otherwise, it will generate `/open_questions` as URL instead of `/questions`.
 Then, build the appropraite subclass in the controller instead of question.
 
 > a/c/questions_controller.rb
-    
+
     def build_question
-        @question = type.constantize.new(question_params) 
+        @question = type.constantize.new(question_params)
         @question.survey = @survey
     end
 
-    def type 
+    def type
         params[:question][:type]
     end
 
 #### Extracting Type-Specific Code
 
     def summary
-        case question_type 
+        case question_type
         when 'MultipleChoice'
             summarize_multiple_choice_answers
-        when 'Open' 
+        when 'Open'
             summarize_open_answers
-        when 'Scale' 
+        when 'Scale'
             summarize_scale_answers
-        end 
+        end
     end
 
 First, it is good that we already used the *Extract Method* to move each path to its own method (`summarize_multiple_choice_answers`).
 
 Second, we use *Move Method* to move the extracted method to the child classes.
 
-    class MultipleChoiceQuestion < Question 
+    class MultipleChoiceQuestion < Question
         def summary
             total = answers.count
-            counts = answers.group(:text).order('COUNT(*) DESC').count 
+            counts = answers.group(:text).order('COUNT(*) DESC').count
             percents = counts.map do |text, count|
                 percent = (100.0 * count / total).round
-                "#{percent}% #{text}" 
+                "#{percent}% #{text}"
             end
-            percents.join(', ') 
+            percents.join(', ')
         end
     end
 
@@ -210,7 +210,7 @@ We still have this crap:
 
     <% if @question.type == 'MultipleChoiceQuestion' -%>
         # display stuff
-    <% end -%> 
+    <% end -%>
 
     <% if @question.type == 'ScaleQuestion' -%>
         # display stuff
@@ -219,7 +219,7 @@ We still have this crap:
 To fix this, we modify the new:
 
 > app/views/questions/new.html.erb
- 
+
     <%= render "#{@question.to_partial_path}_form", question: @question, form: form %>
 
 So that we render `a/v/open_questions/_open_question_form.html.erb`, etc.
