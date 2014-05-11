@@ -1,19 +1,23 @@
-## Depend Upon Abstractions
+# TutsPlus
+
+
+
+# Depend Upon Abstractions
 [Link](http://codeulate.com/2011/06/programmer-resumes-are-deprecated/)
 
 TLDR: Wrap external services in its own object.
 
-#### Benefits:
+## Benefits:
 - Easier to switch from Braintree to another vendor, because you just edit one file.
 - If Braintree changes its public API, we again have only one class to edit.
 - Testing become easier. Before, unit tests required stubbing Braintree's code. Now, we can stub our own methods, which is safer.
 - Better method names (`PaymentGateway` as opposed to `Braintree`).
 - Able to separate payment related things such as the `SUBSCRIPTION_AMOUNT` to the Gateway.
 
-#### Downsides
+## Downsides
 - Indirection: Need to jump through one additional file. However, the wrapper  is very thin anyway.
 
-#### Before
+## Before
 
     > a/m/user.rb
 
@@ -37,13 +41,13 @@ TLDR: Wrap external services in its own object.
       end
     end
 
-*Just because we’re calling methods in another class does not mean we’re programming against an abstraction.* 
+*Just because we’re calling methods in another class does not mean we’re programming against an abstraction.*
 
 It's certainly better than making raw HTTP calls to Braintree, but our choice of vendor and gem used are implementation details that have leaked into our business logic.
 
 With calls to Braintree littered throughout, switching to another vendor will require the editing and re-testing of many files. We've fallen short of the ideal we described above, where one change requires edits only in one place.
 
-#### Fixed via a wrapper:
+## Fixed via a wrapper:
 
     > a/m/user.rb
 

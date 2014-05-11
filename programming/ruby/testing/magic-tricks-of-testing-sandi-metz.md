@@ -2,9 +2,9 @@
 
 ## Why do you hate your tests?
 - They're fragile.
-- It is rational to say that you hate them, because for many people, the promise of testing is not fulfilling. 
+- It is rational to say that you hate them, because for many people, the promise of testing is not fulfilling.
 - Integration tests, they check whatever is supposed to happen. Unit tests narrow the focus down until the unit test is the only thing you care about. Unit tests are like "each cell is correct", and integration is like the whole beast.
-- For many of us, our app feels like spaghetti. Focus on the messages. 
+- For many of us, our app feels like spaghetti. Focus on the messages.
 
 ## The object under test should be contained in itself.
 - Outside world sends incoming things onto the object under test.
@@ -14,7 +14,7 @@
 
 *Query: Return something/change nothing.*
 
-*Command: Return nothing/change something.* 
+*Command: Return nothing/change something.*
 
 We conflate commands and queries at our peril. Example, when I pop a queue. I pop it, and get the element I popped out. But these things, they get tested differently. So it's really important to understand if you have a command or query or both.
 
