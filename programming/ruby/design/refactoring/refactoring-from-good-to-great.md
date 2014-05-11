@@ -6,7 +6,7 @@
 > Local variable `orders_within_range`, select. Extract temp to query.
 
 - 2 methods of 1 line are usually better than 1 method with 2 lines.
-- Put the unimportant stuff inside the `private` keyword, so it is easier to read because you know it's not important. This is like a hint because you say that `orders_within_range` is not part of the core functionality of the class.
+- Put the unimportant stuff inside the `private` keyword, so it is easier to read because you know it's not important. This is like a hint because you say that `orders_within_range` is not part of the core functionality of the class. This is an implementation detail that we aren't interested in.
 - We've also encouraged reuse.
 - I would do this right away as opposed to waiting for stuff.
 - Almost no temp methods within the method, I extract them out to query methods that are private, because *methods should have one job, and when I see a local within a method, it's a hint that there's probably 2 jobs.*
@@ -44,6 +44,8 @@ OOP wise, it is better to place the calculation with the data.
 
 Code smell hear because we keep on passing `start_date` and `end_date` put together. Chances are, there is an object that wants to be born. What we should do is to put a class for this.
 
+We want to take the implicit connection between `@start_date` and `@end_date` and turn them into an explicit thing.
+
 We want the test to go back to green as soon as possible. Discipline: What's the smallest step to do to break a little thing.
 
 We win because of the parameter coupling. Global data coupling, when two classes look at the global data. When a system is hard to understand it usually is because of coupling.
@@ -64,7 +66,7 @@ The two a re coupled because `print_to_console` needs to know shit about `notify
 
 So it's hard to change. BTW, the more parameters you have, the more things you have for parameter coupling.
 
-*Better to have local methods work on instance data so there are no arguments (in OOP).* 
+*Better to have local methods work on instance data so there are no arguments (in OOP).*
 
 I would actually like if initialize is stupid and just assigns data, no calculations. It's easier to read that way.
 
@@ -80,7 +82,7 @@ Right now, DateRange is a value object and is dumb. But we can put a calculation
       end
     end
 
-> New 
+> New
 
     class Order < OpenStruct
       def placed_between?(start_date, end_date)
@@ -97,6 +99,11 @@ Right now, DateRange is a value object and is dumb. But we can put a calculation
 For DateRange, it's a ValueObject. We set the `start_date` and the `end_date` and we can't change them later, and the only thing that shows up in this class are methods that that use that data, or return answers.
 
 They are great for your system to make itself easier to reason about. A bit functional, this part. Data clumps are great to turn to value objects.
+
+    class DateRange < Struct.new(:start_date, :end_date)
+      def include?(date)
+        (start_date..end_date).cover? date # Use cover if you just need the endpoints. include will instantiate everything in the range.
+      end
 
 (Wikipedia) A value object is a small object that represents a simple entity whose equality is not based on identity: i.e. two value objects are equal when they have the same value, not necessarily being the same object.
 
@@ -120,7 +127,7 @@ I get the amounts, and then I sum the amounts. There's a better name for this pr
 
     def total_sales_within_date_range
       total_sales(orders_within_range)
-    end  
+    end
 
     private
 
@@ -215,9 +222,49 @@ Why shouldn't I just create a `Contact` class with defaults? Because if so, a `C
 
 You can use a subclass for NullContact but I would rather use composition rather than inheritance for this.
 
+## Adapter
+
+    class User
+      def charge_for_subscription
+        braintree_id = BraintreeGem.find_user(email).braintree
+        BraintreeGem.charge(braintree_id, SUBSCRIPTION_AMOUNT)
+      end
+    end
+
+    class Refund
+      def process!
+        transaction_id = BraintreeGem.find_transaction(order)
+        BraintreeGem.refund(transaction_id, amount)
+      end
+    end
+
+We depend upon abstractions so we don't care about code when the implementation changes. When we want to change to `Stripe`, we change `User` and `Refund`.
+
+Now, the `User` class changes for two reasons--when my business logic changes, and when my payment gateway changes. My payment gateway has leaked into the user model.
+
+    class PaymentGateway
+      def initialize(gateway = BraintreeGem)
+        @gateway = gateway
+      end
+
+      def charge_for_subscription(user)
+        braintree_id = @gateway.find_user(user.email).braintree_id
+        @gateway.charge(braintree_id, SUBSCRIPTION_AMOUNT)
+      end
+
+      def create_customer(user)
+        @gateway.create_customer(user.email)
+      end
+    end
+
+It makes sense that we put the charge methods in the Gateway so it is easier to change payment providers. We can also swap in another gateway if we need to do something else (ex: add an alternative way of "okay you can use the service, just pay later" when Braintree is down).
+
+It's also easier to mock a class when they are separated.
+
 > When do you refactor?
 
-1. After every change you make. Every time I go from red to green, I ask can I refactor this? If you do this consistently, you never have to do the giant refactoring.
+1. All the time. After every change you make. Every time I go from red to green, I ask can I refactor this? If you do this consistently, you never have to do the giant refactoring.
 2. When I have god objects. Rails has some god objects: ToDo for a ToDo app, Order for an e-commerce app, and User for basically anything.
 3. High churn files. If the class gets changed a lot, it's especially . A good gem to use is the gem `churn`.
-4. When you have bugs, because bugs love company.
+4. When you have bugs, because bugs love company. Bugs are also a symbol of "I don't understand this code does."
+
