@@ -4,7 +4,6 @@ Ending:  Now we've extracted nearly all the model's behavior, it is cleaner. We 
 
 Keeping the model layers focused feels good and another good thing about this extraction is that doing things such as sending emails, adding messages to a message queue, or communicating with an external API can be handled in a service object and we no longer need to have to interact directly from the model.
 
-
 The problem with this `User` model is that is deals with authentication with passwords or OAuth, has searching, handles conversion to CSV, sends out invitation emails and manages password resets.
 
     class User < ActiveRecord::Base

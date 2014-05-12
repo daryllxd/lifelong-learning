@@ -1,4 +1,4 @@
-# Open-Closed Principle
+# Weekly Iteration 16: Open-Closed Principle
 
 What if once I wrote code, I'd never change it?
 
