@@ -11,8 +11,6 @@ C-k - delete forward to end of line
 
 _ Black hole register. `"_d` to delete and not override current register.
 
-daw - delete around word, includes deleting the space
-diw - delete in word, leaves spaces to insert word in
 
 L-n to rename file
 RSpec let - gary bernhardt
@@ -66,9 +64,9 @@ combination of shit to select a method: /end v %
 
 # keymapping
 
-  keymapping - create a shortcut for combination of keys. 
+  keymapping - create a shortcut for combination of keys.
 
-  * [command] 
+  * [command]
 
   map! <f5> "hello world"<cr> when you go to insert mode, you can do this.
   map <leader>, :<c-u>echo 'helo wrodl'</cr>
