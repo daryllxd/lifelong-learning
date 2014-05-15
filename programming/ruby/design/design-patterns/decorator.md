@@ -1,3 +1,52 @@
+# Gang of Design Patterns in Ruby: Decorator
+
+This is getting more powerful.
+
+Given `Product.new("Tomato", :fruit, [%w(red salad sour)]`, we want to have an html table to be generated.
+
+    product.as_html_row.
+
+Rendering the product is not a part of the product. We should move them to the decorator.
+
+    class ProductDecorator
+      def initialize(context)
+        @context = context
+      end
+    end
+
+We then require the `forwardable` class and `def_delegators` to the context class.
+
+    class ProductDecorator
+      extend Forwardable
+
+      def_delegators :@context, :name, :category, :tags
+
+      def initialize context
+        @context = context
+      end
+
+      def as_html_row
+        <<EOF
+        <tr>
+          <th>#{name}</th>
+          <td>#{category.to_s}</td>
+          <td>
+            #{tags_list}
+          </td>
+        </tr>
+        EOF
+      end
+    end
+
+The `Forwardable` thing delegate the `name`, `category`, and `tags` to the underlying context that was passed in. We pass in `Product` as a context.
+
+Now, whenever you need to use the `as_html_row` for the product, you have to do this:
+
+    product_decorator = ProductDecorator.new(product)
+
+We have the sole purpose of decorating an object. This separates context and responsibilities.
+
+
 ## Rails Patterns - Decorator vs Presenter
 [Link](http://stackoverflow.com/questions/7860301/rails-patterns-decorator-vs-presenter)
 
