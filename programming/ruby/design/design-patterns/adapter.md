@@ -1,9 +1,64 @@
 # TutsPlus
 
+You can use this when a procedure is the same across different implementations but there is just a single point of differentiation. The adapter pattern solves this bottleneck by having several adapters to close the procedure.
 
+We want to parse content from JSON or from XML.
+
+    @content = Contnet.parse(@json, :json)
+
+    class Content
+
+> This is a static method that creates a new `Content` object.
+
+      def self.parse(source, format)
+        title = nil
+        body = nil
+        new(title, body)
+      end
+    end
+
+Better to keep the requirements (`require json`) in the test than in the class.
+
+We can do the `if format == :json, format == :xml` but that sucks, because we have to put another branch in the conditional, and a new `parse_soap` method.
+
+We want to separate parsing from the creation of the object.
+
+    class Content
+      def self.parse(source, format)
+        adapter = Newsletter::Adapters::const_get(format.to_s.capitalize).new(source)
+        content = adapter.parse
+        new(content["title"], content["body"]
+      end
+    end
+
+    module Newsletter
+      module Adapters
+        class Xml
+          def initialize
+          end
+
+          def parse
+            # parse in XML
+          end
+        end
+      end
+    end
+
+    module Newsletter
+      module Adapters
+        class Json
+          def initialize
+          end
+
+          def parse
+            # parse in Json
+          end
+        end
+      end
+    end
 
 # Depend Upon Abstractions
-[Link](http://codeulate.com/2011/06/programmer-resumes-are-deprecated/)
+[Link](http://codeulate.com/2012/07/depend-upon-abstractions/)
 
 TLDR: Wrap external services in its own object.
 
