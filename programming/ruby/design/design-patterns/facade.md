@@ -1,3 +1,22 @@
+# Gang of Four Design Patterns in Ruby Facade
+
+Facade = Super important.
+
+    class ProductController
+      attr_reader :product
+      def show(id)
+        @product = ProductFinder.find(id) # ProductFinder does the lifting, but the product controller is a facade to the one doing the job.
+      end
+    end
+
+    class ProductFinder
+      def self.find(id)
+        PRODUCT
+      end
+    end
+
+This is what you also do when you say "Rails is a front-end".
+
 ## Facade
 [Link](http://robots.thoughtbot.com/sandi-metz-rules-for-developers)
 
