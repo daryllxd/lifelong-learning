@@ -27,9 +27,20 @@ C-o on insert mode to execute one normal mode command before going back to inser
 
 # Vimcasts  - Rails
 
+gf = clicking a link, C-o is pressing the back button. Same for Ruby library files.
+
+Under the hood, Rails.vim's :Econtroller, :Emodel use the :find command from Vim.
+
+Opening vim:
+
+  vim -u (load your own vimrc)
+  vim -o (load in vim splits)
+
+The `gf` by default looks for something with the full expension.
+
+:setpath = to find what directories Vim searches for the path.
+
   moving across definitions
-  ]m, [m -forward and backward methods. they are positioned on the `def` keywords.
-  f( to move to the first param
       end method: ]m. this is good to change the return value via ]mo.
       [[ and ]] to move through the .
       % to move to matching things using matchit./

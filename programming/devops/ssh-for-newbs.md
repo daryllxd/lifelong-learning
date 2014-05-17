@@ -28,4 +28,3 @@ C-R and type command to look for a command.
     $ sudo mkdir /testgroupfolder
     $ touch /testgroupfolder/ # This is something that cannot be accessed by normal users, need to be root.
 
-
