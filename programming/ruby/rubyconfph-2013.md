@@ -39,7 +39,7 @@ So have a Plan B.
 - Linode/Capistrano
 - opsworks -> chef
 
-Heroku rolling deploys - need to Google, 2 dynos 
+Heroku rolling deploys - need to Google, 2 dynos
 
 Intel emulator HAXM
 
@@ -79,7 +79,7 @@ Simulation suggest small internal factors can be enough to trigger crises that c
 - Go home.
 
 # RubyGems
--  
+-
 
 # Rails
 - Fork Rails

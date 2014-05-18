@@ -1,3 +1,11 @@
+Vanilla Vim
+
+  vsplit.
+  hsplit.
+  Vex
+  Sex
+
+
 # Terminal shortcut
 C-h - delete one char
 C-w - delete one word
@@ -17,8 +25,6 @@ RSpec let - gary bernhardt
 
 C-o on insert mode to execute one normal mode command before going back to insert mode.
 
-  / -> pattern matching
-  % - find matching braces
   gd - jump from the user of a variable to its local declaration.
 
   m - mark.
@@ -27,14 +33,17 @@ C-o on insert mode to execute one normal mode command before going back to inser
 
 # Vimcasts  - Rails
 
-gf = clicking a link, C-o is pressing the back button. Same for Ruby library files.
-
 Under the hood, Rails.vim's :Econtroller, :Emodel use the :find command from Vim.
 
 Opening vim:
 
   vim -u (load your own vimrc)
   vim -o (load in vim splits)
+
+# Quick pasteing
+yiw
+vep to copy over the word and paste in on the register
+go back and vep to copy over the first one.
 
 The `gf` by default looks for something with the full expension.
 
