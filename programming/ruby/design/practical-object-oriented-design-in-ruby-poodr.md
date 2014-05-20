@@ -450,4 +450,50 @@ Finding the dependencies that matter:
 
 Depend on things that change less often than you do is a heuristic that stands in for all the ideas in this section.
 
+# 4: Creating Flexible Interfaces
 
+*Remember: While classes are so visible, but an OOP application is more than just classes--it is made up of classes but defined by messages. Classes control what's in your source code repository; messages reflect the living, animated application.*
+
+Design must be concerned with the messages that pass between objects--not with what the objects know and who they know, but how they talk to one another.
+
+Better to have the objects communicate in specific and well-defined ways. If these messages left trails, the trails would accumulate to create a set of islands between them.
+
+The roots of the problems lie not in what each class does but with what a class *reveals*. Application message patterns are visibly constrained. This application has some agreement or bargain about which messages may pass (pubic interface). Another kind of interface is one that spans across classes and is independent of any single class.
+
+## Public Interfaces
+
+- Reveal its primary responsibility
+- Are expected to be invoked by others
+- Will not change on a whim
+- Are safe for others to depend on
+- Are thoroughly documented in the tests
+
+## Private Interfaces
+
+- Handle implementation details
+- Are not expected to be sent by other objects
+- Can change for any reason whatsoever
+- Are unsafe for others to depend on
+- *May not even be referenced in the tests*
+
+## Finding the Public Interface
+
+You know that you should not dive in and start writing code. The reason that test-first gurus can easily start writing test is they have so much design experience. At this stage, they have already constructed a mental map of possibilities for objects and interactions in this application.
+
+In FastFeet, you probalby expect to have Customer, Trip, Route, Bike, and Mechanic classes. These classes spring to mind because they represent nouns in the application that have both data and behavior. Call them domain objects--they are obvious because they are persistent, they stand for big, visible real-world things that will end up with a representation in your database.
+
+Domain objects are easy to find, but if you fixate on domain objects you will tend to coerce behavior into them. Design experts notice domain objects without concentrating on them; they focus not on these objects but on the messages that pass between them. These messages are guides that lead you to discover other objects, ones that are just as necessary but far less obvious.
+
+*Before you sit at the keyboard and start typing you should form an intention about the objects and the messages needed to satisfy this use case. You would be best served if you had a simple, inexpensive communication enhancing way to explore design that did not require you to write code.*
+
+The distinction between a message that asks for what the sender wants and a message that tells the receiver how to behave may seem subtle but the consequences are significant.
+
+The public interface for Trip includes the method bicycles. The public interface for Mechanic includes methods `clean_bicycle`, `pump_tires`, `lube_chain`, and `check_brakes`. Trip expects to be holding onto an object that can respond to `clean_bicycle`, `pump_tires`, `lube_chain`, and `check_brakes`.
+
+Trip knows many details about what Mechanic does. Because Trip contains this knowledge and uses it to direct Mechanic, Trip must change if Mechanic adds new procedures to the bike preparation process (let's say we add a new method to check the bike repair kit).
+
+Think of it this way: *Trip has a single responsibility, but it expects a context.* Preparing a trip ALWAYS requires preparing bicycles, and you cannot reuse Trip unless you provide a Mechanic-like object that can respond to this message.
+
+The context that an object expects has a direct effect on how difficult it is to reuse. Objects that have a simple context are easy to use and easy to test. The best possible situation is for an object to be completely independent of its context.
+
+The technique used is DEPENDENCY INJECTION.
