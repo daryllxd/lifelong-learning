@@ -250,3 +250,204 @@ Now you have a `Wheel` the can calculate its own diameter--we might move it to i
 
 # 3: Managing Dependencies
 
+An object depends on another object if, when one object changes, the other might be forced to change in turn.
+
+    class Gear
+      attr_reader :chainring, :cog, :rim, :tire
+
+      def initialize(chainring, cog, rim, tire)
+        @chainring = chainring
+        @cog = cog
+        @rim = rim
+        @tire = tire
+      end
+
+      def gear_inches
+        ratio * Wheel.new(rim, tire).diameter
+      end
+
+      def ratio
+        chainring / cog.to_f
+      end
+    end
+
+    class Wheel
+      attr_reader :rim, :tire
+
+      def initialize(rim, tire)
+        @rim = rim
+        @tire = tire
+      end
+
+      def diameter
+        rim + (tire * 2)
+      end
+    end
+
+## An object has a dependency when it knows:
+
+- The name of another class. `Gear` expects a class named `Wheel` to exist.
+- The name of a message that it intends to send to someone other than `self`. `Gear` expects a `Wheel` distance to response to diameter.
+- The arguments that a message requires, Gear knows we Wheel needs a rim and a tire.
+- The order of those arguments, Gear knows the first argument to Wheel.new should be rim, and the second, tire.
+
+*Each of these dependencies creates a chance that Gear will be forcd to change because of a change to Wheel.* Some degree of dependency between the two classes is inevitable (they must collaborate), but most of the dependencies above are unnecessary. These also make the code less reasonable, because they increase the chance that Gear will be forced to change, these dependencies turn minor code tweaks into undertakings where small changes cascade through the application.
+
+Gear depends on Wheel and four other objects, coupling Gear to five different things. When you want to use Gear in another context, you need to remember everything else. So it is impossible to reuse it as one, changes to one object forces changes in all.
+
+Other dependencies: Where many messages are chained together to reach behavior that lives in a distant object (Law of Demeter). Tests that are too tightly coupled lead to incredible frustration because they break every time something is refactored. Test-to-code over coupling has the same consequence as code-to-code over-coupling.
+
+## Writing Loosely Coupled Code
+
+    def gear_inches
+      ratio * Wheel.new(rim, tire).diameter
+    end
+
+The Gear knows the name of the Wheel class, and the code in Gear must be changed if Wheel's name changes. When `Gear` hard-codes a reference to `Wheel` deep inside the `gear_inches` method, it is explicitly declaring that it is only willing to alculate gear inches for instances of Wheel. Gear refuses to collaborate with any other kind of object, even if that object has a diameter and uses gears.
+
+If your application expands to include objects such as disks or cylinders and you need to know the gear inches of gears which use them, you cannot. *It's not the class of the object that's important, it's the messsage you plan to send to it. Gear needs access to an object that can respond to `diameter`, a duck type. It is not necessary for `Gear` to know about the existence of the `Wheel` class in order to calculates `gear_inches`.*
+
+`Gear` becomes less useful when it knows too much about other objects, it it knew less it could do more.
+
+    def gear_inches
+      ratio * wheel.diameter
+    end
+
+    # Gear expects a Duck that knows "diameter"
+    Gear.new(52, 11, Wheel.new(26, 1.5)).gear_inches
+
+Gear now uses the `@wheel` variable to hold, *but it doesn't know or care that the object might be an instance of the class `Wheel`.* Moving the creation of the new `Wheel` instance outside of `Gear` decouples the two classes--gear can now collaborate with any object that implements diameter. (Also, we just rearranged existing code).
+
+This is dependency injection. `Gear` previously had explicit dependencies on the `Wheel` class and on the type and order of its initialization arguments, but through injection these dependencies have been reduced to a single dependency on the `diameter` method.
+
+Using DI to shape code relies on your ability to recognize that the responsibility for knowing the name of a class and the responsibility for knowing the name of a message to send to that class may belong in different objects. Just because `Gear` needs to send `diameter` somewhere does not mean that `Gear` should know about `Wheel`.
+
+### Isolate Dependencies
+
+If you are constrained that you cannot change the code to inject a `Wheel` into a `Gear`, you should isolate the creation of a new `Wheel` inside the `Gear` class.
+
+    def initialize
+      @wheel = Wheel.new(rim, tire)
+    end
+
+We move the `Wheel` dependency to the initialize method. This creates a new `Wheel` each time a new `Gear` is created.
+
+Next alternative isolates creation of a new Wheel in its own explicitly defined method.
+
+    def wheel
+      @wheel ||= Wheel.new(rim, tire)
+    end
+
+In both of these examples, `Gear` still knows fare too much: Gear is still stuck to Wheel, it can calculate the gear inches of no other kinds of object.
+
+*The improvement is: these coding styles reduce the number of dependencies in `gear_inches` while publicly exposing Gear's dependency on Wheel. They reveal dependencies instead of concealing them.*
+
+If you are mindful of dependencies and develop a habit or routinely injecting them, your classes will naturally be loosely coupled.
+
+### Isolate Vulnerable External Messages
+
+External messages are messages sent to someone other than `self`.
+
+    def gear_inches
+      ratio * wheel.diameter
+    end
+
+Now, `wheel.diameter` is embedded deeply inside a complex method. This complex method depends on Gear responding to wheel and on wheel responding to diameter. Embedding this external dependency inside the `gear_inches` method is unnecessary and increases it vulnerability.
+
+> Good
+
+    def gear_inches
+      foo = ...? * diameter
+    end
+
+    def diameter
+      wheel.diameter
+    end
+
+The new `diameter` method is exactly the method that you would have written if you had many references to `wheel.diameter` sprinkled throughout Gear and you wanted to DRY them out. In the original code, `gear_inches` knew that wheel had a diameter, which couples `gear_inches` to an external object and one of its methods. Now, `gear_inches` is more abstract--`Gear` now isolates `wheel.diameter` in a separate method and `gear_inches` can depend on a message sent to `self`.
+
+At least, if `Wheel` changes the name or signature of its implementation of diameter, the side effects to Gear will be confined to this wrapper method. This is necessary when a class contain embedded references to a message that is likely to change. Although not every external method is a candidate for this preemptive isolation, it's worth examining your code, looking for, and wrapping the most vulnerable dependencies.
+
+### Remove Argument-Order Dependencies
+
+Better to do this:
+
+    def initialize(args)
+      @chainring = args[:chainring]
+      @cog = args[:cog]
+      @wheel = args[:wheel]
+    end
+
+Than this:
+
+    def initialize(chainrign, cog, wheel) ... end
+
+We remove every dependency on argument order. Now, we can add or remove initialization arguments and defaults, secure in the knowledge that no change will have side effects in the code. Also, the key names in the hash server as documentation for method calls.
+
+Explicit defaults:
+
+    def initialize(args)
+      @chainring = args[:chainring] || 40
+      @cog = args[:cog]             || 18
+      @wheel = args[:wheel]
+    end
+
+Remember: || acts as an or condition. We are relying on the argument to be a `truthy` value. So you cannot get the argument to be initialized with false! Better to set the `fetch` method to set defaults.
+
+    def intialize(args)
+      @chainring = args.fetch(:chainring, 40)
+      @cog       = args.fetch(:cog, 18)
+      @wheel     = args[:wheel]
+    end
+
+We can also have this:
+
+    def initialize(args)
+      args = defaults.merge(args)
+      @chainring = args[:chainring]
+    end
+
+    def defaults
+      {chainring: 40, cog: 18}
+    end
+
+This is useful when the defaults are more complicated--if your defaults are more than simple numbers or strings, implement a defaults method.
+
+### Isolate Multiparameter Initialization
+
+If Gear is part of a framework and that its initialization method requires fixed-order arguments, since the initialize is external to the application, you can wrap it up.
+
+> `SomeFramework::Gear` is an external class.
+
+    module GearWrapper
+      def self.gear(args)
+        SomeFramework::Gear.new(args[:chainring], args[:cog], args[:wheel])
+      end
+    end
+
+Now, we can do this:
+
+    GearWrapper.gear(chainring, cog, wheel...)
+
+Ruby module which is responsible for creating new instances of `SomeFramework::Gear`. We can define a separate and distinct object which you can send the gear message while simultaneously conveying the idea that you don't expect to have instances of `GearWrapper`. (Factory method.)
+
+## Managing Dependency Direction
+
+We show Gear depending on Wheel and diameter, but we can also have Wheel depending on Gear and ratio. Which direction do we go?
+
+*Depend on things that change less often than you do.*
+
+- Some classes are more likely than others to have change in requirements. This also applies for code that you did not write.
+- Concrete classes are more likely to change than abstract classes. Ex: We moved the dependency of Gear on Wheel to an injection. (In a static language you had to define an interface.) In Ruby, we still define an interface, however casually it is defined. This interface is an abstraction of the idea that a certain category of things will have a diameter. The wonderful thing about abstractions is that they represent common, stable qualities.
+- Changing a class that has many dependents will result in widespread consequences. A class that if changed will cause changes to ripple through the application will be under enormous pressure to never change.
+
+Finding the dependencies that matter:
+
+- Little likelihood of change but contain many dependents: abstract classes or interfaces.
+- Contains code that is likely to change but has few dependents. Concrete classes.
+- Rarely change/few dependents are of least concern.
+- *Danger Zone: Many dependents and is likely to change.*
+
+Depend on things that change less often than you do is a heuristic that stands in for all the ideas in this section.
+
+
