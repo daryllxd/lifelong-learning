@@ -303,11 +303,11 @@ Other dependencies: Where many messages are chained together to reach behavior t
       ratio * Wheel.new(rim, tire).diameter
     end
 
-The Gear knows the name of the Wheel class, and the code in Gear must be changed if Wheel's name changes. When `Gear` hard-codes a reference to `Wheel` deep inside the `gear_inches` method, it is explicitly declaring that it is only willing to alculate gear inches for instances of Wheel. Gear refuses to collaborate with any other kind of object, even if that object has a diameter and uses gears.
+The Gear knows the name of the Wheel class, and the code in Gear must be changed if Wheel's name changes. When `Gear` hard-codes a reference to `Wheel` deep inside the `gear_inches` method, it is explicitly declaring that it is only willing to calculate gear inches for instances of Wheel. Gear refuses to collaborate with any other kind of object, even if that object has a diameter and uses gears.
 
 If your application expands to include objects such as disks or cylinders and you need to know the gear inches of gears which use them, you cannot. *It's not the class of the object that's important, it's the messsage you plan to send to it. Gear needs access to an object that can respond to `diameter`, a duck type. It is not necessary for `Gear` to know about the existence of the `Wheel` class in order to calculates `gear_inches`.*
 
-`Gear` becomes less useful when it knows too much about other objects, it it knew less it could do more.
+`Gear` becomes less useful when it knows too much about other objects, if it knew less it could do more.
 
     def gear_inches
       ratio * wheel.diameter
@@ -480,7 +480,7 @@ The roots of the problems lie not in what each class does but with what a class 
 
 You know that you should not dive in and start writing code. The reason that test-first gurus can easily start writing test is they have so much design experience. At this stage, they have already constructed a mental map of possibilities for objects and interactions in this application.
 
-In FastFeet, you probalby expect to have Customer, Trip, Route, Bike, and Mechanic classes. These classes spring to mind because they represent nouns in the application that have both data and behavior. Call them domain objects--they are obvious because they are persistent, they stand for big, visible real-world things that will end up with a representation in your database.
+In FastFeet, you probably expect to have Customer, Trip, Route, Bike, and Mechanic classes. These classes spring to mind because they represent nouns in the application that have both data and behavior. Call them domain objects--they are obvious because they are persistent, they stand for big, visible real-world things that will end up with a representation in your database.
 
 Domain objects are easy to find, but if you fixate on domain objects you will tend to coerce behavior into them. Design experts notice domain objects without concentrating on them; they focus not on these objects but on the messages that pass between them. These messages are guides that lead you to discover other objects, ones that are just as necessary but far less obvious.
 
