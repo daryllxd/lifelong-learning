@@ -496,4 +496,204 @@ Think of it this way: *Trip has a single responsibility, but it expects a contex
 
 The context that an object expects has a direct effect on how difficult it is to reuse. Objects that have a simple context are easy to use and easy to test. The best possible situation is for an object to be completely independent of its context.
 
-The technique used is DEPENDENCY INJECTION.
+For example: Better to make `Trip` know only about `Mechanic's` `prepare_bicycle` method as opposed to every method inside. That way, `Trip` will just expect an object that can respond to `prepare_bicycle`. Because the responsibility for knowing *how* has been ceded to `Mechanic`, `Trip` will always get the correct behavior, regardless of future improvements to Mechanic.
+
+Because Mechanic promises that its public interface is stable and unchanging, having a small public interface mans that there are few methods for others to depend on. This reduces the likelihood of `Mechanic` someday changing its public interface, breaking its promise, and forcing changes on many other classes.
+
+## Seeking Context Independence
+
+The technique for collaborating with others without knowing who they are is dependency injection. The new problem here is for `Trip` to invoke the correct behavior from `Mechanic` without knowing what `Mechanic` does. `Trip` does not want to collaborate with `Mechanic` while maintaining context independence.
+
+What we can do is to change the preparing of a trip from `prepare_bicycle` to `Trip.prepare_trip`. In this sequence diagram, `Trip` knows nothing about `Mechanic` but still manages to collaborate with it to get bicycles ready. Trip tell Mechanic what it wants, passes `self` as an argument, and Mechanic calls back to `Trip` to get the list of Bicycles that need preparing.
+
+    Trip.prepare_trip(self) #=> We pass ourself to `Mechanic`.
+    Mechanic can call `trip.bicycles` and iterate over it to prepare for the trip.
+
+First part: Trip tells `Mechanic` how to prepare a `Bicycle`, almost as if `Trip` was the main program and `Mechanic` is a bunch of callable functions. It's like procedural programming.
+
+Second part: A Trip asks a Mechanic to prepare a bicycle. Trip's context is reduced, and Mechanic's public interface is smaller. *This style of coding places the responsibilities in the correct objects, but continues to require that Trip have more context than is necessary. Trip still knows that it holds onto an object that can respond to prepare_bicycle, and it must ALWAYS have this object.*
+
+Third part: Trip doesn't know or care that it has a Mechanic and it doesn't have any idea what the Mechanic will do. Trip merely holds into an object to which it will send `prepare_trip`: it trusts the receiver of this message to behave appropriately. Trip could place a number of such objects into an array and send each the `prepare_trip` messages, trusting every preparer to do whatever it does because of the kind of thing that it is.
+
+- First: "I know what I want and I know how you do it."
+- Second: "I know what I want and I know how you do it."
+- Third: "I know what I want and I trust you to do your part."
+
+*This blind trust is a keystone of object-oriented design. It allows objects to collaborate without binding themselves to context and is necesary for an application that expects to grow and change.*
+
+## Using Messages to Discover Objects
+
+Remember use case: "To choose a trip, a customer would like to see a list of available trips of appropriate difficulty, on a specific date, where rental bicycles are available." While it makes sense to put a `suitable_trips` method inside `Customer`, we don't have an object *that embodies the rules at the intersection of Customer, Trip, and Bicycle.* The `suitable_trip` will be part of ITS public interface. Why not add a `TripFinder`:
+
+    Customer calls TripFinder
+    TripFinder checks Trip for suitable dates
+    For each Trip found check Bicycle for suitable bicycles
+    Report to Customer the possible trips
+
+Moving this method into `TripFinder` makes the behavior available to any other object. In the unknown future, perhaps other touring companies will use `TripFinder` to locate suitable trips via a Web service.
+
+## Writing Code that Puts Its Best Interface Forward
+
+The clarity of your interfaces reveals your design skills and reflects your self-discipline. Think about interfaces. Create them intentionally. *It is your interfaces, more than all of your tests and any of your code, that define your application and determine it's future.*
+
+Every time you create a class, declare its interfaces. Public interface methods:
+
+- Be explicitly defined as such.
+- Be more about what than how.
+- Have names that, insofar as you can anticipate, will not change.
+- Take a hash as an options parameter.
+
+Be just as intentional about the private interface; make it inescapably obvious. Either do not test private methods, or segregate those tests from the test of public methods.
+
+Private methods must be called with an implicit receiver, or inversely, may never be called with an explicit receiver. `public` means that a method is stable, while `private` methods denote the least stable kind of method and provides the most restricted visibility.
+
+Honor the public interfaces of others: Do your best to interact with other classes using only their public interfaces. If your design forces the use of a private method in another class, rethink your design.
+
+## The Law of Demeter
+
+Demeter is often paraphrased as "only talk to your immediate neighbors" or "use only one dot". Don't do this:
+
+    class Trip
+      def depart
+        customer.bicycle.wheel.tire
+        customer.bicycle.wheel.rotate
+        hash.kets.sort.join(', ')
+      end
+    end
+
+Consequences:
+
+- If `wheel` changes `tires` or `rotate`, `depart` may have to change. `Trip` has nothing to do with wheel yet changes to wheel might force changes in Trip.
+- Changing tire or rotate may break something in depart. Because Trip is distant and apparently unrelated, the failure will be completely unexpected.
+- Trip cannot be reused unless it has access to a customer with a bicycle that has a wheel and a tire. It requires a lot of context.
+
+The first two message chains are nearly identical, differing only in that one retrieves a distant attribute (`tire`) and the other invokes distant behavior(`rotate`). It is better to just retrieve an attribute rather than change something so far away.
+
+    hash.kets.sort.join(', ')
+
+`keys` returns an Enumerable, `keys.sort` returns an Enumerable, and `keys.sort.join` returns a String. This is not really a violation in the sense that the intermediate objects have the same types and there is no Demeter violation.
+
+Avoiding violations: you can use `delegate.rb` and `forwardable.rb` and the Rails `delegate` method. Each of these exists to make it easy for an object to automatically intercept a message sent to self and to instead send it somewhere else.
+
+However, message chains usually occur when your design thoughts are unduly influenced by objects you already know. *Reaching across objects to invoke distant behavior is like saying "there's some behavior way over there that I need right here and I KNOW HOW TO GO GET IT.* Just as a Trip earlier knew how Mechanic should prepare a bike, the `depart` method knows how to navigate through a series of objects to make a wheel rotate. It is coupled to your overall object structure.
+
+*When the `depart` method knows this chain of objects, it binds itself to a very specific implementation and it cannot be reused in any other context. Customer must always have Bicycles, which in turn must have Wheels that rotate.*
+
+Just use:
+
+    customer.ride
+
+# 5: Reducing Costs with Duck Typing
+
+Programming languages use the term "type" to describe the category of the contents of a variable. Procedural languages provide a small, fixed number of types, generally used to describe kinds of data. It is knowledge of the category of the contents of a variable (or its type) that allows an application to have an expectation about how those contents will behave. *In Ruby these expectations about the behavior of an object come in the form of beliefs about its public interface. If one object knows another's type, it knows to which messages that object can respond.*
+
+*While `Mechanic` implements the `Mechanic` class's public interface, you are not limited to expecting an object to respond to just ONE interface. It's not what an object is that matters, it's what it does.*
+
+If every object trusts all others to be what it expects at any given moment, and any object can be any kind of thing, then the design possibilities are infinite.
+
+## Overlooking the Duck
+
+  class Trip
+    attr_reader :bicycles, :customers, :vehicle
+
+    # this 'mechanic' argument could be of any class
+    def prepare(mechanic)
+      mechanic.prepare_bicycles(bicycles)
+    end
+
+    # ...
+  end
+
+  # if you happen to pass an instance of *this* class,
+  # it works
+  class Mechanic
+    def prepare_bicycles(bicycles)
+      bicycles.each {|bicycle| prepare_bicycle(bicycle)}
+    end
+
+    def prepare_bicycle(bicycle)
+      #...
+    end
+  end
+
+The Mechanic class is not actually messaged (thought the parameter name is mechanic). *The prepare method has no explicit dependency on the Mechanic class but it does depend on receiving an object that can respond to `prepare_bicycles`.*
+
+If we add new classes (`TripCoordinator` and `Driver`), we can end up with this:
+
+    class Trip
+      attr_reader :bicycles, :customers, :vehicle
+
+      def prepare(preparers)
+        preparers.each {|preparer|
+          case preparer
+          when Mechanic
+            preparer.prepare_bicycles(bicycles)
+          when TripCoordinator
+            preparer.buy_food(customers)
+          when Driver
+            preparer.gas_up(vehicle)
+            preparer.fill_water_tank(vehicle)
+          end
+        }
+      end
+    end
+
+Code like this gets written when programmers are blinded by existing classes and neglect to notice that they have overlooked important messages; this dependent-laden code is a natural outgrowth of a class-based perspective.
+
+Since each class has a different message, you have to determine each argument's class to know which message to send. We can use a `case` but the problem is now, we have new dependencies in the `prepare` method: It relies on specific classes (Mechanic, Driver). It knows the names of the messages that each class understands (`prepare_bicycles` and `fill_water_tank`). All of this knowledge increases risk; many distant changes will now have side effects on this code.
+
+To make matters worse, this style of code propagates itself. When another trip preparer appears, you add a new `when` branch to the case statement. Your application will get more and more methods like this, where the method knows many class names and sends a specific messages based on class.
+
+Why not add a `Preparer` which has `prepare_trip`?
+
+    class Trip
+      attr_reader :bicycles, :customers, :vehicle
+
+      def prepare(preparers)
+        preparers.each {|preparer|
+          preparer.prepare_trip(self)}
+      end
+    end
+
+    # when every preparer is a Duck
+    # that responds to 'prepare_trip'
+    class Mechanic
+      def prepare_trip(trip)
+        trip.bicycles.each {|bicycle|
+          prepare_bicycle(bicycle)}
+
+    class TripCoordinator
+      def prepare_trip(trip)
+        buy_food(trip.customers)
+
+    class Driver
+      def prepare_trip(trip)
+        vehicle = trip.vehicle
+        gas_up(vehicle)
+        fill_water_tank(vehicle)
+
+The `prepare` method can now accept new `Preparers` without being forced to change, and it's easy to create additional `Preparers` if the need arises. *Before, we depended on a conceretion, whereas now, we depend on a duck type. The concreteness of the first example makes it simple to understand but dangerous to extend. The final, duck typed, alternative is more abstract; it places slightly greater demands on your understanding, but it offers ease of extension. Now that you have discovered the duck, you can just turn another object into a `Preparer` and pass it into Trip's `prepare` method.*
+
+The ability to tolerate ambiguity about the class of an object is the hallmark of a confident designer. Once you begin to treat your objects as if they are defined by their behavior rather than by their class, you enter a new realm of expressive flexible design.
+
+*Polymorphic methods honor an implicit bargain; they agree to be interchangeable from the sender's point of view. An object implementing a polymorphic method can be substituted for any other; the sender of the message need now know or care about this substitution.*
+
+Recognizing Hidden Ducks: Replace these: *`kind_of?`, `is_a?`, `responds_to`, case statements*.
+
+The Preparer duck type and its public interface are a concrete part of the design but a virtual part of the code. Preparers are abstract. When you create duck types you must both document and test their public interfaces. Fortunately, good tests are the best documentation.
+
+## Static versus Dynamic Typing
+
+Static: The compiler unearths type errors at compile time, visible type information serves as documentation, and compiled code is optimized to run quickly.
+
+These are strengths if you accept this set of assumptions: runtime errors will occur unless the compiler type-checks, programmers will not understand the code if they cannot infer the object's type from its context, and the application will run too slowly without these optimizations.
+
+Dynamic: Code is interpreted and can be dynamically loaded (no compile/make cycle), source code does not include explicit type information, and metaprogramming is easier.
+
+These are strengths if you accept this set of assumptions: Overall application development is faster without a compile/make cycle, programmers find the code easier to understand when it does not contain type declarations, and if metaprogramming is a desirable language feature.
+
+*Embracing Dynamic Typing.* Without a doubt, for certain applications, well-optimized statically typed code will outperform a dynamically typed implementation. Arguments about the value of type declarations as documentation are subjective. Metaprogramming is very polarizing, and while it is dangerous in the wrong hands, it's a tool no good programmer should willingly be without.
+
+Dynamic typing allows you to trade compile time type checking, a serious restriction that has high cost and provides little value, for the huge gains in efficiency provided by removing the compile/make cycle. TAKE THIS!
+
+
