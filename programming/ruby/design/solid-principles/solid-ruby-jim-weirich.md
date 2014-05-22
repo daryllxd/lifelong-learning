@@ -43,5 +43,3 @@ Ask yourself this: "what does the method require?" and "what does the method pro
 
 Active Record objects implement a domain concept and a persistence concept. Does this violate SRP? Yes, absolutely. When designs become more complex, then the classes become bigger and it is harder to test.
 
-
-
