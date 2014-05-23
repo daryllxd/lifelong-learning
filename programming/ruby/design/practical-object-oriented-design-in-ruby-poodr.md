@@ -380,7 +380,7 @@ Better to do this:
 
 Than this:
 
-    def initialize(chainrign, cog, wheel) ... end
+    def initialize(chainring, cog, wheel) ... end
 
 We remove every dependency on argument order. Now, we can add or remove initialization arguments and defaults, secure in the knowledge that no change will have side effects in the code. Also, the key names in the hash server as documentation for method calls.
 
