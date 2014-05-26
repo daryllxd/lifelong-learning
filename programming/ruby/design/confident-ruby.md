@@ -486,3 +486,98 @@ This happens in Rails apps with the `current_user`. We can introduce a `GuestUse
 
 We identify a common role in the inputs passed to numerous methods: "user". The absence of a logged-in user doesn't mean that there is no user; only that we are dealing with a special kind of anonymous user. *We push differences between authenticated and guest users out of the individual methods and into the class hierarchy. By starting from the POV of the code we wanted to write at the method level, we arrived at a different, and likely better, object model of the business domain.*
 
+Problem: Need to implement shared test suite run against both the normal and special-case classes to verify they both respond to the same set of methods.
+
+*When a special case must be taken into account at many points in a program, it can lead to the same `nil` check over and over again. These endless repeated tests for object existence clutter up code. It's too easy to introduce defects by missing a case where we should have used another `nil` test.*
+
+## 3.18: Represent do-nothing cases as null objects
+
+Indication: Once of the inputs to a method may be `nil`. The handling of this special case is to do nothing--to ignore the input and forego an interaction which would normally have taken place. You can replace the `nil` value with a special Null Object collaborator object: responds to the same interface, but it doesnt' do anything.
+
+Ex: A logger that is checked every time. What we can do is this:
+
+    class NullLogger
+      def debug(*) end
+      def info(*) end
+      def warn(*) end
+      def error(*) end
+      def fatal(*) end
+    end
+
+The `NullLogger` class implements the expected logger interface, but instead of writing log messages to a device, each method does nothing at all with the arguments passed to it. To use this in the FFMPEG class:
+
+    class FFMPEG
+      def initialize(logger=NullLogger.new)
+    end
+
+We can now get rid of the `if` statement guarding the line that logs the command. In this case, the special treatment for a missing logger is to do nothing. This is a Null Objet: *it conforms to the interfaces required of the object reference, implementing all of its methods to do nothing or return suitable default values.*
+
+### Generic Null Object
+
+    class NullObject < BasicObject
+      def method_missing(*)
+      end
+
+      def respond_to?(name)
+        true
+      end
+    end
+
+We inherit from `BasicObject`. This only defines eight methods, ensuring that the do-nothing `#method_mising` will likely intercept any messages that are sent to the object.
+
+### Crossing the Event Horizon
+
+    def send_request(http, request, metrics)
+      metrics.requests.attempted += 1
+      response = http.request(request)
+      metrics.requests.successful += 1
+      metrics.responses.codes[response.code] += 1
+      response
+    rescue SocketError
+      metrics.error.socket += 1
+      raise
+    rescue IOError
+      metrics.error.io += 1
+      raise
+    rescue HTTPError
+
+The problem with classic Null Object is that methods chained twice will return a `NoMethodError`. What you can do is this:
+
+    class NullObject
+      def method_mising(*)
+        self
+      end
+    end
+
+Black holes are useful but they can also be dangerous--they can spread into areas of the code we hadn't intended for them to reach. Sometimes they can lead to silent failures in cases where it would have been better to see an exception.
+
+### Making Null Objects falsey.
+
+    class NullObject < BasicObject
+      def method_mising(*)
+      end
+
+      def respond_to_missing?(name)
+        true
+      end
+
+      def nil?
+        true
+      end
+
+      def !
+        true
+      end
+    end
+
+## 3.19: Substitute a benign value for nil
+
+Substitute a benign, known-good value for missing parameters. A known-good placeholder can eliminate tedious checks for the presence of optional information.
+
+Instead of putting defaults or checks in the middle of the method, put it in the start:
+
+    def render_member(member, group)
+      location = Geolocatron.locate(member.address) || group.city_location # Default data is placed at the start
+      ...
+    end
+
