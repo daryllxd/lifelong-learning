@@ -109,5 +109,3 @@ The way I tend to approach design is to choose a very small vertical slice of fu
 
 To sum up the overall point of this lesson: mock objects facilitate a particular design style, and if you're not using that approach in your projects, you probably will not experience their benefits.
 
-
-
