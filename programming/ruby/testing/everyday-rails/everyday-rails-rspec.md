@@ -1,20 +1,20 @@
 # Philosophy
-  
+
 - Tests should be reliable.
 - Tests should be easy to write.
 - Tests should be easy to understand.
 - We do not focus on speed.
 - We do not focus on being overtly DRY.
 
-## Gemzorz: 
+## Gems:
 
-    rspec-rails: Rails wrapper for rspec
-    factory_girl_rails: Replaces fixtures with factories.
-    faker: Generates names, emails addresses, other placeholders for factories.
-    capybara: Makes it easy to programmatically simulate your users' interactions with your web application.
-    database_cleaner: Helps make sure each spec run in RSpec begins with a clean state
-    launchy: Opens your default web browser on demand to show you what your application is rendering.
-    selenium_webdriver: Lets you do JS-based browser interactions with capybara
+- `rspec-rails`: Rails wrapper for rspec
+- `factory_girl_rails`: Replaces fixtures with factories.
+- `faker`: Generates names, emails addresses, other placeholders for factories.
+- `capybara`: Makes it easy to programmatically simulate your users' interactions with your web application.
+- `database_cleaner`: Helps make sure each spec run in RSpec begins with a clean state
+- `launchy`: Opens your default web browser on demand to show you what your application is rendering.
+- `selenium_webdriver`: Lets you do JS-based browser interactions with capybara
 
 `rspec-rails` and `factory_girl_rails` are used in both the development and test environments, specifically by generators. The others are only used when you actually run your specs, so they're not necessary to load in development.
 
@@ -32,7 +32,7 @@ Thanks to the beauty of Railsties, just by loading `rspec-rails` and `factory_gi
 
 You can manually specify settings for Rails' stock generators:
 
-> config/application.rb
+> `config/application.rb`
 
     config.generators do |g|
       g.test_framework :rspec,
@@ -63,9 +63,9 @@ You can manually specify settings for Rails' stock generators:
       g.fixture_replacement :factory_girl, dir: "spec/factories"
     end
 
-#### Alvays be cloning
+#### Always be cloning
 
-Every time you use `rake db:migrate`, you need to mirror that change in your database with `rake:db:test:clone`. Unknown db error = you havne't cloned yet.
+Every time you use `rake db:migrate`, you need to mirror that change in your database with `rake:db:test:clone`. Unknown db error = you haven't cloned yet.
 
 This is chainable with rake `db:migrate:db:test:clone` or you can use the shortcut `rmigc` to run a migration and clone the database with a single command.
 
@@ -99,7 +99,7 @@ When we add models via `model` or `scaffold`, the model spec file will be added 
 #### The new RSpec syntax
 
 > Old
-    
+
     it "is true when true" do
       true.should_be true
     end
@@ -150,13 +150,13 @@ We needed to persist the first contact in order to make the second contact not p
 
 #### Testing instance methods
 
-> models/contact.rb
+> `models/contact.rb`
 
     def name
       [firstname, lastname].join(' ')
     end
 
-> spec/models/contact_spec.rb
+> `spec/models/contact_spec.rb`
 
     it "returns a contact's full name as a string" do
       contact = Contact.new(firstname: "John", lastname: "Doe")
@@ -195,7 +195,7 @@ While describe/context are interchangeable, I use it like this: describe outline
         context "matching letters" do
           # matching examples
         end
-        
+
         context "non-matching letters" do
           # non-matching examples
         end
@@ -221,7 +221,7 @@ Problem: Fixtures can be easily broken, and Rails bypasses Active Record when it
 
 Factories are simple, flexible, building blocks for testing data. Con: Even DHH said that factories are a primary cause of slow test suites.
 
-> spec/factories/contacts.rb
+> `spec/factories/contacts.rb`
 
     FactoryGirl.define do
       factory :contact do
@@ -247,7 +247,7 @@ Update the code. (The created contact doesn't persist.)
 
 #### Association and Inheritance in Factories
 
-> spec/factories/phones.rb
+> `spec/factories/phones.rb`
 
     FactoryGirl.define do
       factory :phone do
@@ -270,7 +270,7 @@ Update the code. (The created contact doesn't persist.)
       end
     end
 
-> spec/models/phones_spec.rb
+> `spec/models/phones_spec.rb`
 
     describe Phone do
       it "does not allow duplicate phone numbers per contact" do
@@ -292,7 +292,7 @@ Update the code. (The created contact doesn't persist.)
 
 #### Generating more realistic fake data + Advanced associations/ Factory Girl callbacks
 
-> spec/factories/contacts.rb
+> `spec/factories/contacts.rb`
 
     require 'faker'
 
@@ -315,13 +315,13 @@ Update the code. (The created contact doesn't persist.)
       end
     end
 
-> Test if they have 3 phone numbers. spec/models/contact_spec.rb.
+> Test if they have 3 phone numbers. `spec/models/contact_spec.rb.`
 
     it "has three phone numbers" do
       expect(create(:contact).phones.count).to eq 3
     end
 
-> Add a verification to the number of phones. app/models/contact.rb
+> Add a verification to the number of phones. `app/models/contact.rb`
 
     validates :phones, length: { is: 3 }
 

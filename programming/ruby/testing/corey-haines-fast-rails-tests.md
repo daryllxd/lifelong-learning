@@ -1,13 +1,13 @@
 # Fast Rails Tests - Corey Haines
 [link](http://www.confreaks.com/videos/2133-arrrrcamp2011-fast-rails-tests)
 
-When tests run super long you just don't want to run tests anymore. the tdd cycle, the second-by-second thing we do to execute our system, is to run test, see they pass, write small test to say that your system does _this_, then make red, then simplest code possible to get test to pass, then run test again. in your cycle, you take about a minute per change. 
+When tests run super long you just don't want to run tests anymore. The TDD cycle, the second-by-second thing we do to execute our system, is to run test, see they pass, write small test to say that your system does _this_, then make red, then simplest code possible to get test to pass, then run test again. In your cycle, you take about a minute per change.
 
-The thing about Rails was when you do `rails new`, you have the `tests` folder. Also, a lot of people used to have the N+1 problem, but in Rails we don't have that problem. Then we figured out skinny  controller fat models. Our tests gave us the confidence that things are still working even as we refactor. We have this safety net, the tests. They verify that we aren't breaking anything. We don't have a QA department anymore.
+The thing about Rails was when you do `rails new`, you have the `tests` folder. Also, a lot of people used to have the N+1 problem, but in Rails we don't have that problem. Then we figured out skinny, controller fat models. Our tests gave us the confidence that things are still working even as we refactor. We have this safety net, the tests. They verify that we aren't breaking anything. We don't have a QA department anymore.
 
 There's a fundamental difference between *Tests First* and  *Test-Driven*. Test-driven means that you are also thinking of the design, in tests first you change the tests if they fail.
 
-Instead of putting band-aids like spork, ask yourself, what can you do to your design to make your things more testable. Design = better design. My definition of a better design is very simple. It's one that is easy to change. You can talk about individual parts and patterns like cohesion, coupling, etc., but they are all about how they are easy to change. Testable code is about having good design. We can react to the pain of testing not with band-aids like Spork, but with a better design.
+Instead of putting band-aids like Spork, ask yourself, what can you do to your design to make your things more testable. Design = better design. My definition of a better design is very simple. It's one that is easy to change. You can talk about individual parts and patterns like cohesion, coupling, etc., but they are all about how they are easy to change. Testable code is about having good design. We can react to the pain of testing not with band-aids like Spork, but with a better design.
 
 The core problem of slow Rails tests are not the hitting the database thing, that is why we mock it. The important thing is to isolate things. The huge core dependency is Rails itself. So why not react to the pain of testing from isolating yourself from the core thing that gives you pain, Rails itself.
 
@@ -65,7 +65,7 @@ Since you don't have to wait a ton of time, you can do the really really simples
 
 Take advantage of of duck-typing in Ruby. You don't really need AR at this point, just mock it!
 
-You can also stub out the Service Object in the AR model unit ttest.
+You can also stub out the Service Object in the AR model unit test.
 
     describe ShoppingCart do
       describe "#total_price" do

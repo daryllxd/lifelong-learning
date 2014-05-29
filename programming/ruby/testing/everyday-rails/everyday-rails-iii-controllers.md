@@ -131,12 +131,12 @@ New things to look at:
 
 #### Index method
 
-> spec/controllers/contacts_controller_spec.rb
+>` spec/controllers/contacts_controller_spec.rb`
 
     describe 'GET #index' do
       context 'with params[:letter]' do
 
-> Test to make sure an array of contacts matching the first-letter search is created and assigned to @contacts. match_array looks for an array's contents, but not their order.
+> Test to make sure an array of contacts matching the first-letter search is created and assigned to @contacts. `match_array` looks for an array's contents, but not their order.
 
         it "populates an array of contacts starting with the letter" do
           smith = create(:contact, lastname: 'Smith')
@@ -204,7 +204,7 @@ Stick with the repetition first, hehehe.
 
 #### Testing POST requests
 
-We need to pass the equivalent of params[:contact] or the contents of the form in which a user would enter a new contact.
+We need to pass the equivalent of `params[:contact]` or the contents of the form in which a user would enter a new contact.
 
 > This is why we have `attributes_for`, we don't pass in the object itself, but its hash values.
 
@@ -212,7 +212,7 @@ We need to pass the equivalent of params[:contact] or the contents of the form i
       post :create, contac: attributes_for(:contact)
     end
 
-> spec/controllers/contacts_controller_spec.rb
+> `spec/controllers/contacts_controller_spec.rb`
 
     describe "POST #create" do
       before :each

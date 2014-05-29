@@ -26,7 +26,6 @@ You can stub shit to return pre-defined content:
       end
     end
 
-
 ## VCR
 
 VCR - Has the concept of cassettes which will record your test suites outgoing HTTP requests and then replaying them for other test runs.
@@ -107,7 +106,7 @@ Verify stub response is being returned.
 I'm not a fan of fakes. It's a ton of overhead to mock the API, and it's too easy to get sometime wrong and discover it on Staging/Production. Why VCR?
 
 - Set your cassettes to expire after a few days (I do 3).
-- Add cassettes to .gitignore, they exist only to make your tests run faster.
+- Add cassettes to `.gitignore`, they exist only to make your tests run faster.
 - If integration with the service requires and API key, wrap specs that hit the API in `if ENV['FOO_API_KEY'].present?`.
 - The only things that should require VCR are the unit tests for the class that interacts directly with that API and integration tests. Make sure you use a stub instead of the class that hits the service in unit tests for collaborating objects.
 - You are attempting to test your real integration with the API. Do not think of VCR as a mocking service and don't try and use it as a replacement for Web Mocks. If you only use it as a helper to make your tests run faster and/or hitting API limits, it can work beautifully.
