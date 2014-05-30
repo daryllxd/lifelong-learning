@@ -1,3 +1,17 @@
+# 10 Skills Developers Should Invest In for 2014
+[link](https://medium.com/web-design-and-development/10-skills-developers-should-invest-in-for-2014-64eb28781489)
+
+1. Know a native mobile platform.
+2. Know an agile development process and toolset.
+3. Know how to estimate effectively.
+4. Know JS. Read JS: The Good Parts, understand prototypal inheritance, and learn how to think and program like a JS developer.
+5. Know a server side language.
+6. Basic HTML and CSS.
+7. How to quickly find information.
+8. How to maintain a project over time.
+9. Know Git well.
+10. Issue tracker.
+
 # What are the essential topics a programmer should become well educated in?
 
 ## Dima Korolev
@@ -30,7 +44,7 @@ First in mind, a programmer should be good and have a clear understanding of mat
 
 ## Anirudh Joshi
 
-How to negotiate for a higher salary. Hiring new workers is very expensive, and your salary is totally arbitrary. Always ask for more money. You will get it, and if you don't, jump ship, because screw those guys. 
+How to negotiate for a higher salary. Hiring new workers is very expensive, and your salary is totally arbitrary. Always ask for more money. You will get it, and if you don't, jump ship, because screw those guys.
 
 How to convince someone of doing something your way, without them noticing that it's your way.
 
@@ -97,7 +111,7 @@ Its tempting at times to write programs that satisfy your project requirement, a
 
 Start using git and shell ASAP. I know it doesn't seem important when TextEdit seems like it's all you could ever need for your standalone miniprojects, 17-year-old me, but you will deeply regret it when someone shows you a bash command a month into your first software internship that could have saved you ten minutes a day if only you'd known it existed. Or when you screw up your branch.
 
-Pretend that, a year from now, you come back and need to refactor the code you are writing in the present day. Is it modular? Are your lines wider than your screen? What the hell is it doing? 
+Pretend that, a year from now, you come back and need to refactor the code you are writing in the present day. Is it modular? Are your lines wider than your screen? What the hell is it doing?
 
 Whenever you find yourself turning down meaningful social opportunities to work on projects, STOP AND RE-EVALUATE YOUR LIFE. College is the easiest time to make friends; friends who will not only hang out with you, but in CS, will form an extremely valuable professional network in the future. You will have plenty of time to hole up in your basement at less exciting points in your life.
 
@@ -116,7 +130,7 @@ Whenever you find yourself turning down meaningful social opportunities to work 
 11. Use Google AdSense on your web site, and make money just by virtue of attracting traffic.
 12. Compile a complicated open source project from scratch, like OpenSim or Matterhorn.
 13. Read works of literature and, besides enjoying the ride, pay close attention to how the author tells the story and makes use of words. Your programs should be as carefully written as those works of art! (Thanks, Beki!)
-14. Get yourself involved in a software project where requirements are bound to change halfway through — that’s about 0.01% of homework projects and about 99.99% of real world projects, so find one of the latter kind. Finish the project with patience and the ability to take criticism in a constructive way. 
+14. Get yourself involved in a software project where requirements are bound to change halfway through — that’s about 0.01% of homework projects and about 99.99% of real world projects, so find one of the latter kind. Finish the project with patience and the ability to take criticism in a constructive way.
 15. Write an application using map-reduce. Run it on Google app-engine or amazon EC2
 
 ## Artie Gold

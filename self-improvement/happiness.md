@@ -1,6 +1,6 @@
 ## [A Formula for Happiness](http://www.nytimes.com/2013/12/15/opinion/sunday/a-formula-for-happiness.html?pagewanted=all&_r=0)
 
-After 40 years of research, they attribute happiness to three major sources: genes, events and values. 
+After 40 years of research, they attribute happiness to three major sources: genes, events and values.
 
 Psychologists and economists have studied happiness for decades. They begin simply enough — by asking people how happy they are. The richest data available to social scientists is the University of Chicago's General Social Survey, a survey of Americans conducted since 1972. This widely used resource is considered the scholarly gold standard for understanding social phenomena. The numbers on happiness from the survey are surprisingly consistent. Every other year for four decades, roughly a third of Americans have said they’re “very happy,” and about half report being “pretty happy.” Only about 10 to 15 percent typically say they’re “not too happy.”
 
@@ -34,5 +34,5 @@ If you can discern your own project and discover the true currency you value, yo
 
 The right to define our happiness, work to attain it and support ourselves in the process — to earn our success — is our birthright. And it is our duty to pass this opportunity on to our children and grandchildren.
 
-Free enterprise gives the most people the best shot at earning their success and finding enduring happiness in their work. 
+Free enterprise gives the most people the best shot at earning their success and finding enduring happiness in their work.
 
