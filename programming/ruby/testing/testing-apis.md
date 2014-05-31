@@ -32,9 +32,7 @@ Request specs are designed to drive behavior through the full stack, including r
     end
 
     RSpec.configure do |config|
-
       config.include Requests::JsonHelpers, type: :request
-
     end
 
 

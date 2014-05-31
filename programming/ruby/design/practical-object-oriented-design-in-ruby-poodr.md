@@ -959,3 +959,102 @@ The solution to the problem of costly tests is not to stop testing but instead t
 - Exposing design flaws. If a test requires painful setup, the code expects too much context. If testing one object drags a bunch of others, the code has too many dependencies.
 
 ## Knowing What to Test
+
+One simple way to get better value from tests is to write fewer of them. The safest way to accomplish this is to test everything just once and in the proper place.
+
+Think of an OO application as a series of messages passing between a set of black boxes. Dealing with every object as a black box puts constraints on what others are permitted to know and limits the public knowledge about any object to the messages that pierce its boundaries.
+
+Willful ignorance of the internals of every other object is at the core of design. Dealing with objects as if they are only and exactly the messages to which they respond lets you change a changeable application. Same with your tests. Each test is merely another application object that needs to use an existing class.
+
+Not only should you limit couplings, but the few you allow should be to stable things. The most stable thing about any object is its public interface, it logically follows that the tests you write should be for messages that are defined in public interfaces.
+
+Tests that make assertions about the values that messages return are tests of state. Such tests commonly assert that the results returned by a message equal an expected value. *Objects should make assertions about state only for messages in their own public interfaces. Following this rule confines test of message return values to a single place and removes duplication.*
+
+*For query messages, they do not need to be tested by the sending object. Query messages are part of the public interface of their receiver.*
+
+*For command mesages (messages that do have side effects), it is the responsibility of the sending object to prove that they are properly sent. Proving that a message gets sent it a test of behavior, not state, and involves assertions about the number of times, and with what arguments, the message is sent.*
+
+## Knowing When to Test
+
+You should write tests first, whenever it makes sense to do so. Writings tests first forces reusability to be built into an object from its inception; it would otherwise be impossible to write tests at all. Novice designers are best served by writing test-first code. If you are a novice, it's important to sustain faith in the value of tests. Done at the correct time and in the right amounts, testing and writing code tests-first will lower your overall costs.
+
+## Knowing How to Test
+
+### Testing Incoming Messages
+
+(We no longer care about a wheel, we just care about something that has the `diameter` method. Gear depends upon `Diameterizable`, `Wheel` implements it.)
+
+### Testing Outgoing Messages
+
+*Ignore query messages.* Tests that query a class's methods has to be in the class that owns it.
+
+
+*Proving command messages.* We have an observer:
+
+    class Gear
+      def initialize(arg)
+        @observer = args[:observer]
+      end
+
+      def changed
+        observer.changed(chainring, cog)
+      end
+    end
+
+Since `Gear` has to notify `observer` when cogs or chainrings change, you have to assert that the message gets sent, but we don't know anything about how `observer's changed` method returns. `observer's` tests are responsible for making assertions about the results of its changed method. The responsibility for testing a message's return value lies with its receiver.
+
+    def setup
+      @observer = MiniTest::Mock.new
+      @gear = Gear.new(..., observer: @observer)
+    end
+
+    def test_notifies_observers_when_cogs_change
+      @observer.expect(:changed, true, ....)
+      @gear.set_cog(27)
+      @observer.verify
+    end
+
+Expect `observer` to receive `changed`, and verify it after.
+
+All the mock did with the message was remember that it received it. *The fact that `Gear` works just fine even after you mock `observer's` `changed` method proves that `Gear` doesn't care about what that method actually does. `Gear's` only responsiblity is to send the message; this test should restrict itself to proving `Gear` does so.*
+
+If you have proactively injected dependencies, you can easily substitute mocks.
+
+### Testing Duck Types
+
+For the `preparer` example:
+
+    module PreparerInterfaceTest
+      def test_implements_the_preparer_interface
+        assert respond_to(@object, :prepare_trip)
+      end
+    end
+
+    class MechanicTest
+      include PreparerInterfaceTest
+
+      def setup
+        @mechanic = @object = Mechanic.new
+      end
+    end
+
+Defining `PreparerInterfaceTest` as a module allows you to write the test once and then reuse it in every object that plays the role. *The module serves as a test and as documentation.* It raises the visibility of the role and makes it easy to prove that any newly created `Preparer` successfully fulfills its obligations.
+
+Testing that the interface is actually used:
+
+    class TripTest
+      def test_requires_trip_preparation
+        @preparer = MiniTest::Mock.new
+        @trip = Trip.new
+        @preparer.expect(:prepare_trip, nil, [@trip])
+
+        @trip.prepare([@preparer])
+        @preparer.verify
+      end
+    end
+
+### Using Role Tests to Validate Doubles
+
+
+
+
