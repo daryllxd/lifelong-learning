@@ -1053,8 +1053,51 @@ Testing that the interface is actually used:
       end
     end
 
-### Using Role Tests to Validate Doubles
+### Testing Inherited Code
 
+*Superclass:* Assert that responds to the methods in the superclass.
 
+    module BicycleInterfaceTest
+      def test_responds_to_default_tire_size
+        assert_respond_to(@object, :default_tire_size)
+      end
 
+      def test_responds_to_default_chain
+        assert_respond_to(@object, :default_chain)
+      end
+    end
 
+Implement these in the super/subclasses.
+
+    class BicycleTest
+      include BicycleInterfaceTest
+    end
+
+    class RoadBikeTest
+      include BicycleInterfaceTest
+    end
+
+*Specifying Subclass Responsibilities.* Codify subclass responsibilities, just make sure they respond (not necessarily implement their own) these methods.
+
+    module BicycleSubclasstest
+      def test_responds_to_post_initialize
+        assert_respond_to(@object, :post_initialize)
+      end
+    end
+
+Test the subclasses:
+
+    class RoadBikeTest
+      include BicycleInterfaceTest
+      include BicycleSubclasstest
+    end
+
+*Confirming Superclass Enforcement.* The `Bicycle` class should raise an error if a subclass does not implement `default_tire_size`. Add this:
+
+    def test_forces_subclasses_to_implement_default_tire_size
+      assert_raises(NotImplementedError) { @bike.default_tire_size }
+    end
+
+*Testing Concrete Subclass Behavior.* It is important to test these specializations without embedding knowledge of the superclass into the test. `RoadBike`  implements `local_spares` and also responds to `spares`. We already have a test for spares, we just want to test `local_spares`.
+
+*Testing Abstract Superclass Behavior.* Create a `StubbedBike`. Use LSP to your advantage.
