@@ -149,7 +149,7 @@ As we consider how to collect input for a method, we are thinking about how to m
 
 Once we've determined the inputs an algorithm needs, we need to decide how to acquire those inputs. To ensure that a methods has collaborators that are reliable, we can do this:
 
-1. Coerce objects into th roles we need them to play.
+1. Coerce objects into the roles we need them to play.
 2. Reject unexpected values which cannot play the needed roles.
 3. Substitute known-good objects for unacceptable inputs.
 
