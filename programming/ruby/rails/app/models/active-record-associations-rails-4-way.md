@@ -49,7 +49,7 @@ AR caches the objects. You can reload it via explicitly telling the method `true
 
 *class_name*
 
-If we want to establish another `belongs_to` relationship from the Timesheet class to User, we can add an `approver_id` to the timesheets, and an `authorized_approver` column to the users table via amigration.
+If we want to establish another `belongs_to` relationship from the Timesheet class to User, we can add an `approver_id` to the timesheets, and an `authorized_approver` column to the users table via a migration.
 
     belongs_to :approver, class_name: 'User'
     belongs_to :user
@@ -61,7 +61,7 @@ Use this option to make Rails automatically update a counter field on the associ
     counter_cache: :number_of_children
     counter_cache: true #=> children_count
 
-You get to optimize performance ad teh cost of some extra database storage by using counter caches liberally, because Rails will no longer try to query the db for the associated records.
+You get to optimize performance ad the cost of some extra database storage by using counter caches liberally, because Rails will no longer try to query the db for the associated records.
 
 To use this, set the default value of things to 0 in the database! Otherwise the counter caching won't work.
 
@@ -72,7 +72,7 @@ This might make sense in a `has_one`/`belongs_to` pairing, but it is unlikely th
 *`foreign_key`: `column_name`*
 
 Rails will normally infer the setting from the name of the association by adding `_id` to it.
-    
+
     belongs_to :administrator, foreign_key: 'admin_user_id'
 
 *`inverse_of: name_of_has_asociation`*
