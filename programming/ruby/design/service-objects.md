@@ -1,3 +1,87 @@
+# Gourmet Service Objects
+[link](http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html)
+
+## A service object does one thing.
+
+    class AcceptInvite
+      def self.call(invite, user)
+        invite.accept!(user)
+        UserMailer.invite_accepted(invite).deliver
+      end
+    end
+
+## Conventions:
+
+- `app/services`. Use subdirectories for business logic-heavy domains. `app/services/invite/accept.rb` will define `Invite::Accept`. `app/services/invite/create.rb` will define `Invite::Create`.
+- Do verb-noun, no `Service`: `ApproveTransaction`, `SendTestNewsletter`, `ImportUsersFromCsv`.
+- Services respond to the `call` method.  `ApproveTransaction.call()` as opposed to `ApproveTransaction.approve()`.
+
+## Benefits:
+
+*Services show what my application does: `ApproveTransaction`, `CancelTransaction`, `BlockAccount`, `SendTransactionApprovalReminder`.*
+
+*Clean-up models and controllers.* Controllers turn the request (params, session, cookies) into arguments, pass them down to the service and redirect or render according to the service response.
+
+    class InviteController < ApplicationController
+      def accept
+        invite = Invite.find_by_token!(params[:token])
+
+        if AcceptInvite.call(invite, current_user)
+          redirect_to invite.item, notice: "Welcome"
+        else
+          redirect_to '/', alert: "Oops"
+        end
+      end
+    end
+
+Models only deal with associations, scopes, validations and persistence.
+
+    class Invite < ActiveRecord::Base
+      def accept!(user, time = Time.now)
+        update_attributes!(accepted_by_user_id: user.id, accepted_at: time)
+      end
+    end
+
+*DRY and Embrace change.* Keep service objects as simple and small as possible. Compose service objects with other service objects.
+
+*Clean up and speed up your test suite.* Services are easy and fast to test since they are small ruby objects with one point of entry (the `call` method). Complex service are now composed with other services, so you can split up your tests easily.
+
+*Call them from anywhere.* They can be called from controllers, other service objects, Resque jobs, Rake tasks, the console, test helps to setup the integration tests.
+
+*Real world services.* I add Virtus into the mix to handle parameters.
+
+[TODO]: THIS_PART
+
+*Values: The Return*
+
+1. Flavor 1: Fail loudly. Most services are not supposed to fail. They do not return anything meaningful but they raise an exceptions when something goes wrong.
+2. Flavor 2: Return persisted AR model, check for errors.
+
+    def create
+      ...
+      @invite = CreateInvite.call(attributes)
+
+      if @invite.persisted?
+        redirect_to @invite
+      else
+        render :new, alert: errors_for_humans(@invite.errors)
+      end
+    end
+
+3. Flavor 3: Response object.
+
+    class InviteController
+      def accept
+        result = AcceptInvitation.call(invite: Invite.find_by_token!(params[:token], user: current_user)
+      end
+
+      if result.success?
+        ...
+      else
+        ...
+      end
+    end
+
 # Railscasts #398
 
 Ending:  Now we've extracted nearly all the model's behavior, it is cleaner. We can use multiple service objects in an action, or we can use the same service object in multiple actions.
