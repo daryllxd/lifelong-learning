@@ -1,7 +1,7 @@
 # Working with Active Record
 
 > An object that wraps a row in a database table or view, encapsulates the database access, and adds domain logic on that data. -- Martin Fowler
- 
+
 By convention, an AR class named `Client` will be mapped to the `clients` table. Rails expects an `id` primary key. It should be an integer and incrementing of the key should be managed automatically by the database server when creating new records.
 
 - Each instance of an AR class = row.
@@ -117,7 +117,7 @@ Touching records: Updates the `updated_at` time field to indicate shit.
 
     class User
         belongs_to :client, touch: true # also calls user.client.touch
-        attr_readonly :social_security_number # doesnt change 
+        attr_readonly :social_security_number # doesnt change
     end
 
 Delete/destroy: `delete` means delete at an SQL level, and `destroy` means you can call callbacks and shit.
