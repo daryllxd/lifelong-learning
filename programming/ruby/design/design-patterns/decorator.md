@@ -85,4 +85,4 @@ The decorator is additive and the strategy is a replacement. This is why _strate
 - A presenter is *sometimes* a decorator.
 - A presenter is sometimes a composite.
 
-This is why presnters are usually in `app/presenters`.
+This is why presenters are usually in `app/presenters`.

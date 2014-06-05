@@ -51,7 +51,7 @@ In our case, we can add presentational logic to the models without affecting the
 
 ## Implementing a Decorator in Ruby:
 
-We can define this as a Decorator base class. The initial object should take whatever object you're about to decorate, they call this component. 
+We can define this as a Decorator base class. The initial object should take whatever object you're about to decorate, they call this component.
 
     class Decorator
       def initialize(component)
@@ -106,7 +106,7 @@ Implementing basic decorators is easy, but Draper adds a few helpful features:
 - Pretends to be a decorated object (helpful for `form_for` and such)
 - Easily decorate associations. If you're passing one record from your controller to your view, and you're climbing the association tree down, Draper can help.
 
-## Complex Views
+# Complex Views
 
     %dl.story-summary
       %dt Assinged to
