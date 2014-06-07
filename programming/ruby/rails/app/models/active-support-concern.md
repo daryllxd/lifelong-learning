@@ -74,3 +74,52 @@ Concerns approach can fall flat on its face because of the tight coupling that y
 
 It's OK to use mixins to improve code organization but people forget that mixins in Ruby are just a form of INHERITANCE. And concerns are an abuse of inheritance.
 
+
+# Reddit `/r/rails`
+[link](http://www.reddit.com/r/rails/comments/27dy1a/eli5_concerns/)
+
+Concerns are just modules you can include in your classes, instead of duplicating that code all over the place.
+
+---
+
+Many of our models have "tokens" that function as surrogate primary keys and are used in place of the database id in URLs and such. Because they have the same needs/properties:
+
+    module TokenFindable
+      extend ActiveSupport::Concern
+
+> A token needs to be generated during new record initialization
+
+      included do
+        after_initialize :make_token
+      end
+
+> This makes sure that it is unique
+
+      def make_token
+        if new_record?
+          self.token ||= SecureRandom.uuid
+          on_token_creation
+        end
+
+        true
+      end
+
+      # Extension point for models or any inheriting concerns to do
+      # work immediately after the token value is in place.
+      def on_token_creation
+      end
+
+> Override `to_param` to return the token instead of the database ID
+
+      def to_param
+        token || super
+      end
+    end
+
+The point of concerns is to take behavior that multiple models share and put it in one place. The tiny bit of code for concerns is worth it for the headaches it solves.
+
+---
+
+We always want to filter on whether things are active or not (we never delete, only archive) and to default status to active on new members. So we have `module Visibility`.
+
+Concerns are just Ruby modules. A sign of a badly designed Rails app is one where the `lib` folder is empty and all classes in `app/models` inherit from AR::Base. Fixing this design by moving stuff out from the models into mixins doesn't really help.
