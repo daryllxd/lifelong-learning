@@ -7,12 +7,11 @@ Also, a lot of it doesn't have anything to do with coding. This means that if yo
 
 I think there are two big reasons why it's hard to be a junior developer. First, there's a ridiculous amount of things to learn. Second, I think it's also really hard to learn how you can help your team, and not just feel like a helpless thing.
 
-
 ## 3-step plan for "so much to learn"
 
 1. *Get people to want to help you.* There are always things that you can do, even if you are isolated. People just aren't fundamentally different, wherever you go. A lot of this boils down to "building relationships", but I prefer to say it as getting to know people, and making friends. I personally find this hard since I am a strong introvert, but the thing is a lot of developers are pretty introverted as well. What I do is to try and pay attention to little details that people have, even about their lives outside of work. I sometimes mentally prepare stories to get conversations going. I'll think of something I did during the weekend, so I have non-generic answers to the question, "how was your weekend"? With a story to tell, this gets the back and forth going.
 
-I also think that if your company has a support team, you should make friends there. They know a lot about of the product and
+I also think that if your company has a support team, you should make friends there. They know a lot about the product.
 
 *Show you did your homework.* You want to make sure that you are not wasting their time. You want to make sure that you researched and learned some tactics before asking them. You can also ask them, "if you're busy, who else could I talk to about this?". When someone does help you, you could ask them, "is there somewhere I could've found this answer on my own?", and if there isn't, make one.
 
