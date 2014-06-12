@@ -5,6 +5,9 @@ Vanilla Vim
   Vex
   Sex
 
+gU(motion) - capitalize
+gu(motion) - lower case
+
 
 # Terminal shortcut
 C-h - delete one char
@@ -19,8 +22,6 @@ C-k - delete forward to end of line
 
 _ Black hole register. `"_d` to delete and not override current register.
 
-
-L-n to rename file
 RSpec let - gary bernhardt
 
 C-o on insert mode to execute one normal mode command before going back to insert mode.
@@ -99,20 +100,8 @@ combination of shit to select a method: /end v %
 C-w r to swap the buffers.
 C-w w to move cursor.
 
-# marks
-  ma - set mark "a" at current location
-  'a - jump to start of line of mark a
-  `a - jump to position (line and col) of mark a
-  d'a - delete from current line to line of mark a
-
-Sort properties in CSS: Select the lines and type `:sort`
-
-Inserting a line break: Just do r-Enter.
-
 To run normal mode commands across a range, we can visually select them then run `:normal A;` to do an append semicolon at the land. Helpful when you need to edit something across lines.
 Same with doing across the entire file, just do :%normal A;
 
 http://dalibornasevic.com/posts/43-12-vim-tips
-
-Swap chars: Xp in normal mode
 
