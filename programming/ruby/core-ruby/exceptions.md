@@ -1,3 +1,14 @@
+# List of Exceptions - Exceptional Ruby
+
+- `StandardError`: This class and all its subclasses will be rescued by a default `rescue` clause.
+- `RuntimeError`: The exception class we get when we call `raise` or `fail` without an explicit class. In a sense, `RuntimeError` is Ruby's miscellaneous exception. It says nothing about the failure except that there was one.
+- `NoMemoryError`
+- `ScriptError`: We have subclasses `LoadError` and `SyntaxError` to indicate failures in loading and executing Ruby scripts.
+- `SignalException`: These are raised when a Ruby process is signaled by the OS. (A big infrequent.)
+- `IOError`
+- `ArgumentError, RangeError, TypeError, IndexError`: Method was called incorrectly.
+- `SystemCallError`: You'll never see this, what you will see are its descendants, each of which are named `Errno::<ERROR SYMBOL>`, where `<ERROR SYMBOL>` is the symbolic name for a system error code.
+
 # Jim Weirich on Exceptions
 [link](http://devblog.avdi.org/2014/05/21/jim-weirich-on-exceptions/)
 
