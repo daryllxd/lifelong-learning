@@ -140,3 +140,8 @@ For a jagged block such as this, what you do is `<C-v>2j$A;<Esc>`.
     var bar = 'a'
     var foobar = foo + bar
 
+# Command-Line Mode
+
+*Tip 27: Meet Vim's Command Line.*
+
+When we press `:`, Vim switches into Command-Line mode. This mode has some resemblance to the command line that we use in the shell.
