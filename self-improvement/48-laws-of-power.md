@@ -181,9 +181,9 @@ Queen Elizabeth I dangled the possibility of marriage to all those who courted h
 
  The Rothschild banking family concentrated its wealth within a very tight-knit structure. Five brothers each controlled a part of the empire from Paris, Frankfurt, Vienna, Naples, to London.
 
-- Single-mindedness of purpose and total concentration on one goal will overwhelm the enemy every time. 
-- A single patron appreciates your loyalty and becomes dependent on your services. 
-- In the arts, being too single-minded can make you an intolerable bore. 
+- Single-mindedness of purpose and total concentration on one goal will overwhelm the enemy every time.
+- A single patron appreciates your loyalty and becomes dependent on your services.
+- In the arts, being too single-minded can make you an intolerable bore.
 
 24. Play the perfect courtier.
 
@@ -238,7 +238,7 @@ Cleopatra was always able to get people to do her bidding without them realizing
 
 29. Plan all the way to the end.
 
-- Take into account all possible obstacles and circumstances that may prevent you from achieveing your goal, and plan how you will overcome them.
+- Take into account all possible obstacles and circumstances that may prevent you from achieving your goal, and plan how you will overcome them.
 - When you see several steps ahead, you will no longer need to improvise along the way, and risk deviating from your plan.
 - Prepare alternatives and be open to adapt new routes to your goal.
 
@@ -361,7 +361,7 @@ Time is a human-made concept. Long time: years-long period of waiting for the ri
 
 47. Do not go past the mark you aimed for; in victory, learn where to stop.
 
-- The poweful know that the essence of strategy is controlling what comes next.
+- The powerful know that the essence of strategy is controlling what comes next.
 - There is no better time to stop and walk away than after a victory.
 
 48. Assume formlessness.
