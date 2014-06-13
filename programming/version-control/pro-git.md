@@ -21,9 +21,9 @@ You have a local version of the stuff you have, without connecting to the remote
  
 #### Git project
 - `Git` directory: where Git stores the metadata and object database for your project.
-- Working directory: A single checkout of one version of the project. 
+- Working directory: A single checkout of one version of the project.
 - Staging area: A simple file which contains info on what will go into your next commit.
- 
+
 #### Workflow
 - Modify files in your working directory.
 - Stage the files, adding snapshots of them to the staging area.
@@ -31,8 +31,8 @@ You have a local version of the stuff you have, without connecting to the remote
 
 ## 2.1 – Getting a Git Repository
 
-Navitage to directory
-  
+Navigate to directory
+
     $ git init
     $ git add (whatever you want) *.docx
     $ git add README
@@ -80,12 +80,13 @@ Although Git doesn't track file movement, Git figures things out when you rename
 
 Time description
 
-  Option        Description
-  -(n)          Show only the last n commits
-  --since, --after    Limit the commits to those made after the specified date.
-  --until, --before   Limit the commits to those made before the specified date.
-  --author        Only show commits in which the author entry matches the specified string.
-  --committer     Only show commits in which the committer entry matches the specified string.
+Option             | Description
+-------------------------------------------------------------------------------------------------
+-(n)               | Show only the last n commits
+--since, --after   | Limit the commits to those made after the specified date.
+--until, --before  | Limit the commits to those made before the specified date.
+--author           | Only show commits in which the author entry matches the specified string.
+--committer        | Only show commits in which the committer entry matches the specified string.
 
 ## 2.4 - Undoing Things
 
@@ -111,7 +112,7 @@ Time description
 
     $ git remote -v #shows the remote branches, and the branch they are pushed out.
     # origin    git://github.com/schacon/ticgit.git (fetch)
-    # origin    git://github.com/schacon/ticgit.git (push) 
+    # origin    git://github.com/schacon/ticgit.git (push)
     # bakkdoor  git://github.com/bakkdoor/grit.git
 
 #### Add a remote
@@ -142,10 +143,10 @@ Time description
 > Tagging [TODO]
 
 > Git Aliases
-  
+
     # you can do git co to checkout stuff
     $ git config --global alias.co checkout
-    
+
     # Combine the unstage and the reset commands to make it easier to unstage things
     $ git config --global alias.unstage ’reset HEAD --’
 
@@ -246,7 +247,7 @@ Unapplying a stash: Shitstorm.
 ----------
 ## [The difference between git pull, git fetch and git clone (and git rebase)](http://blog.mikepearce.net/2010/05/18/the-difference-between-git-pull-git-fetch-and-git-clone-and-git-rebase/)
 
-`git pull`: Pull down a remote from wherever, and instantly merge it into the branch you're in when you make the request. It runs `fetch` and `merge` byt default, or a rebase with `--rebase`.
+`git pull`: Pull down a remote from wherever, and instantly merge it into the branch you're in when you make the request. It runs `fetch` and `merge` by default, or a rebase with `--rebase`.
 
 `git fetch`: Same to pull, but no merging. It creates a local copy of a remote branch which you shouldn't manipulate directly.
 
