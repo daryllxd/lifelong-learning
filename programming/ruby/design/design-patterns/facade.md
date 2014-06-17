@@ -104,4 +104,3 @@ Ex: Open-uri standard library, you can make reading a resource via HTTP GET look
 
 *It's worth keeping in mind that pretty much every DSL you encounter is a Facade of some form or another.*
 
-

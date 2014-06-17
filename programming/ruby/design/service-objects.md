@@ -82,6 +82,32 @@ Models only deal with associations, scopes, validations and persistence.
       end
     end
 
+# Reddit on Service Layer vs. Eventing
+[link](http://www.reddit.com/r/rails/comments/1xfnan/skinny_rails_controllers/)
+
+## FYIAV
+
+- Eventing is based on magic. A butterfly flaps it's wings on the left, something else happens on the right as a result of, but not in coordination with, what happened on the left.
+- If more than one process needs to happen as a result of a primary action, controlling (or understanding) the order in which they happen with events is mind-bending.
+- They introduce surprise code. *Unless someone knows the way the eventing system is set up and configured, they are unlikely to even know that these other side-effects of their primary actions are happening, and thus unable to tell if they are appropriate or not.*
+- *They are almost completely untestable, and often introduce randomness into unrelated unit tests as you can no longer isolate the domain of your tests.*
+
+Service layers on the other hand are very explicit in many ways:
+
+- They are explicit handlers for coordinating complex orchestrations.
+- They can handle said orchestrations atomically.
+- They are extremely simple to unit test.
+
+In my Rails apps the models and the controllers are very thin, the lifecycle goes like this:
+
+- Client hits URL.
+- URL routes to controller/action.
+- Controller/action passes necessary inputs to appropriate service.
+- Service orchestrates the process and returns the result.
+- Controller/action returns response.
+
+*This isn't needed for every action you write, but I do it for any action that does more than one thing (create record + send email = Service).*
+
 # Railscasts #398
 
 Ending:  Now we've extracted nearly all the model's behavior, it is cleaner. We can use multiple service objects in an action, or we can use the same service object in multiple actions.
