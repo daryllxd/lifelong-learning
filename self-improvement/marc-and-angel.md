@@ -46,7 +46,7 @@
 
 *Stop exclusively looking to others for happiness.* You have to create stability in your own life first before you can share it with someone else.
 
-*Stop being idle.* 
+*Stop being idle.*
 
 *Stop thinking you’re not ready.* Nobody ever feels 100% ready when an opportunity arises.  Because most great opportunities in life force us to grow beyond our comfort zones, which means we won’t feel totally comfortable at first.
 
@@ -108,27 +108,22 @@
 
 *Being lazy and wishy-washy.* The world doesn’t owe you anything, you owe the world something.  So stop daydreaming and start DOING.  Develop a backbone, not a wishbone.  Take full responsibility for your life – take control.  You are important and you are needed.  It’s too late to sit around and wait for somebody to do something someday.  Someday is now; the somebody the world needs is YOU.
 
+# 16 Things Emotionally Strong People Don't Do
+[link](http://www.marcandangel.com/2014/06/15/16-things-emotionally-strong-people-dont-do/#more-755)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. *They don't let negativity and drama get the best of them.* Emotionally strong people tune out negativity to make room for positivity. Walk away from the nonsense around you. Focus on the positives, and soon the negatives will be harder to see.
+2. *They don't waste time feeling sorry for themselves.* Emotionally strong people don't sit around feeling sorry about their circumstances or how others have treated them. Instead, they take responsibility for their role in life, work on changing what can be changed, and keep in mind that life isn't always easy or fair. *In the end, happiness is not the absence of problems, but simply the ability to deal well with them. So look at what you have, instead of what you have lost.*
+3. *They don't think they need more to be happy.* Emotionally strong people know that happiness is a mindset of appreciation. In other words, happiness doesn't start when "this, that, or the other thing" is resolved. Happiness is what happens now when you appreciate what you have.
+4. *They don't compare their journey to everyone else's.* Social comparison is the thief of happiness. Do your best and don't compare your progress with that of others. They aren't you.
+5. *They don't envy and resent other people's success.* Emotionally strong people can genuinely appreciate and celebrate other people's success. They don't grow envious or feel cheated when others achieve something they are trying to achieve. Instead, they recognize that success comes with hard work, and they are willing to work hard for their own chance at success.
+6. *They don't expecte everything to be easy.* They don't view failures and delays as reasons to give up. Instead, they use failure as an opportunity to grow and improve. They are willing to keep trying until they get it right.
+7. *They don't say, "I can't."* If you really want to do something, you can and you will find a way. If you don't, you will surely find a long list of excuses. So stop saying "I wish" and start saying "I will."
+8. *They don't let fleeting distractions distract them from their dreams. Don't let the temptations of today distract you from what you deserve.* Don't let the temptations of today distract you from what you deserve. Stay emotionally strong. Do what you have to do now so you can do what you want to do later.
+9. *They don't get impatient and settle.* Good things come to those who are patient, while working hard for what they want most in life. If you know what you want, if you can see it, feel it, and move toward it in some small way every single day, it has to happen.
+10. *They don't make the exact same mistakes over and over again.* The second time you make a mistake, it's a choice. Emotionally strong people accept responsibility for their behavior and learn from their past mistakes. As a result, they don't keep repeating the same mistakes over and over. Instead, they grow and move on to better decisions and new lessons.
+11. *They don't resist change.* Emotionally strong people welcome positive change into their life and are willing to be flexible. They understand that change is inevitable and believe in their abilities to adapt. Change happens for a reason. Roll with it!
+12. *They don't waste time and energy on things they can't control.* Emotionally strong people don't complain over traffic jams and rainy days. *Instead, they focus on what they can control in their lives. They recognize that sometimes the only thing they can control is their attitude. Inner peace begins the moment you choose not to allow an uncontrollable event or person to control your emotions.*
+13. *They don't hang on every word other people say about them.* Emotionally strong people listen to their own heart and intuition, not the peanut gallery. So try not to take things other people say about you too personally. What they think and say is a reflection of them, not you. *Ultimately, you can't change how people treat you or what they say about you. All you can do is change how you react and who you choose to be around.*
+14. *They don't think everyone is out to get them.* Emotionally strong people choose to see the good in others. *The truth is, the world is full of good people. Whoever says otherwise hasn't looked around.*
+15. *They don't worry about pleasing everyone.* Emotionally strong people recognize they don't need to please everyone all the time. They're not afraid to say no or speak up when necessary. They strive to be compassionate and fair, but can handle other people being disappointed if they didn't live up to their unfair expectations. The bottom line thing is, pleasing everyone is impossible. May the bridges you burn light your way.
+16. *They don't think it's too late to start over. Let go of the idea that it's too late to start over. Remember, it's always better to be at the bottom of the ladder you want to climb than at the top you don't, even if it means beginning anew. Just because some things didn't work out as you had expected, or didnt' happen as fast as you thought they would is no excuse to give up on yourself. Time passes one way or the other. Do what you need to do, at the very least, you can look back someday and say, "I gave life my best shot."*
