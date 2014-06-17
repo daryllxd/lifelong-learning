@@ -144,3 +144,55 @@ With calls to Braintree littered throughout, switching to another vendor will re
     end
 
 Another good name for the new class would be `PaymentGatewayAdapter`, as it's an example of the adapter pattern.
+
+# Ruby Best Practices: Adapter
+[link](http://blog.rubybestpractices.com/posts/gregory/060-issue-26-structural-design-patterns.html)
+
+An Adapter is used when you want to provide a unified interface to a number of different objects that implement similar functionality. Ex: Active Record, it communicates to different databases but wraps them up in a common interface.
+
+The basic idea is that we want to be able to use a common interface while easily configuring which backend is used under the hood.
+
+    Marky.adapter = :rdiscount
+    Marky.adapter = :bluecloth
+
+> Wiring up the adapter:
+
+    module Marky
+      extend self
+
+      def adapter
+        return @adapter if @adapter
+        self.adapter = :rdiscount
+        @adapter
+      end
+
+      def adapter=(adapter_name)
+        case adapter_name
+        when Symbol, String
+          require "adapters/#{adapter_name}"
+          @adapter = Marky::Adapters.const_get("{adapter_name.to_s.capitalize}")
+        else
+          raise "Missing adapter #{adapter_name}"
+        end
+
+      def to_html(string)
+        adapter.to_html(string)
+      end
+    end
+
+> Actual adapter
+
+    module Marky
+      module Adapters
+        module Bluecloth
+          extend self
+            def to_html(string)
+              ::Bluecloth.new(string).to_html
+            end
+          end
+        end
+      end
+    end
+
+*Since all the adapters implement a `to_html()` method that share a common contract, `Marky.to_html()` will work regardless of what adapter gets loaded. The win here is that if libraries, applicatons, and frameworks rely on adapters rather than concrete implementations, the choice of which engine to use can be done differently in different environments.*
+

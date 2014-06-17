@@ -48,3 +48,44 @@ We can create a new class, `VideoAuthenticationProxy`.
       end
     end
 
+# Ruby Best Practices: Proxy
+[link](http://blog.rubybestpractices.com/posts/gregory/060-issue-26-structural-design-patterns.html)
+
+A Proxy is any object that acts as a drop-in replacement object that does a bit of work and then delegates to some other underlying object.
+
+    require "delegate"
+
+    class Quiz
+      def questions
+        @questions                  ||= HasManyAssociation.new([])
+        @questions.associated_class ||= Question
+
+        @questions
+      end
+    end
+
+    class Question
+      def initialize(params)
+        @params = params
+      end
+
+      attr_reader :params
+
+      def answer
+        params[:answer]
+      end
+    end
+
+    class HasManyAssociation < DelegateClass(Array)
+      attr_accessor :associated_class
+
+      def initialize(array)
+        super(array)
+      end
+
+      def create(params)
+        self << associated_class.new(params)
+      end
+    end
+
+In here we have a Quiz which has questions. Instead of initializing a `Questions` variable or something, a `HasManyAssociation` object is initialized and the logic for `create` is inside. Since there is also a `DelegateClass(Array)` it gains the array methods so we can call `questions[0]` etc. You can now reuse the `HasManyAssociation` for `Quiz` to add other `HasMany` relationships to it.
