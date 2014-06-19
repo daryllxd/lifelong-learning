@@ -85,8 +85,8 @@ OOP: Nested class wins over inheritance
 
 SpecificError -> StandardError -> Exception -> Object
 
-Raising and rescuing an error: 
-    
+Raising and rescuing an error:
+
     raise MySpecialError, "MyMessage"
     rescue MySpecialError => ex
         result = :exception_handled
@@ -129,7 +129,7 @@ abstracting the top and bottom bread slices to a library can be
 difficult in many languages.
 
 > Old
- 
+
     def count_lines(file_name)
       file = open(file_name)
       count = 0
@@ -240,3 +240,4 @@ Method missing: Do this to avoid shit
 They have different meanings. You should not implement `to_str` unless your object acts like a string, rather than just having a string representation. The only core class that implements `to_str` is String itself.
 
 `to_str` is an implicit cast, whereas `to_s` is an explicit cast. First, it implies that the object isn't really much of a string, so it's shorter. Also, `to_s` is shorter because more objects will have `to_s` methods, so you'll end up typing it more frequently. With `to_str`, we're tagging an object as much closer to being a string, so we give it the first three letters. It's almost half of a string!
+

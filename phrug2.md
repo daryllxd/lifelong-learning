@@ -54,4 +54,3 @@ T1 Micro instance, M1 small instance
 
 - YAGNI.
 - Third-Party APIs can be provided without Wordpress (Disqus + Google Analytics + Gist)
--

@@ -5,12 +5,12 @@
       puts "hello wordl"
     end
 
-##### Dependency 
+##### Dependency
     task :ask => [:greet] do
       puts "hello wordl"
     end
 
-##### Load your Rails environment 
+##### Load your Rails environment
     task :ask => [:greet] do
       puts "hello wordl"
     end
@@ -21,7 +21,7 @@ jquery-ujs: Unobstrusive JS, no more inline JS.
 
 Dev tools: Check Resource tab to see if JS is included, Network to see what actually happens.
 
-Create 
+Create
 
 ### 332: RefineryCMS Basics
 
@@ -38,7 +38,7 @@ It uses Rails and you can create an existing one on it, or not.
 - There is a content editing thingie there.
 
 Refinery goodies:
-	
+
 	routes.rb # mounts Refinery tehre
 	initializers/refinery # customizable stuff, such as for the company name
 	layout.css.sass # styling
@@ -58,7 +58,7 @@ Pow gives your app a consistent domain name so we don't use `localhost:3000` to 
 Nginx
 
 	$ brew install nginx
-	$ 
+	$
 
 
 
@@ -66,19 +66,4 @@ Nginx
 
 	sleep 10
 	$ cap deploy # restarts the app
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
