@@ -82,6 +82,91 @@ Models only deal with associations, scopes, validations and persistence.
       end
     end
 
+# Does My Rails App Need a Service Layer?
+[link](http://blog.carbonfive.com/2012/01/10/does-my-rails-app-need-a-service-layer/)
+
+"A service is an operation offered as an interface that stands alone in the model." In other words, a service is an action, not a thing. *Instead of forcing the operation into an existing object, we should encapsulate it in a separate, stateless service.*
+
+## Application Service
+
+*An application service is a service that provides non-infrastructure related operations that wouldn't come up when discussing the domain model outside the context of software.* Ex: Exporting account transactions as a CSV in a banking app because CSV has no meaning in the domain of banking.
+
+    class AccountCSVExporter
+      def self.to_csv(account)
+        CSV.generate do |csv|
+          account.transactions.each do |transaction|
+            csv << [transaction.amount, transaction.created_on]
+          end
+        end
+      end
+    end
+
+Application services improve the cohesiveness of your domain model by preventing software implementation details from leaking into it.
+
+## Domain Services
+
+*A domain service scripts a use-case involving multiple domain objects. Forcing this logic into a domain object is awkward because these use-cases often invovled rules outside the responsibility of any single object.*
+
+(Banking) A funds transfer would be an example of a domain service--transferring funds doesn't quite fit in either of the involved account objects, or perhaps a customer object, so it becomes a standalone service.
+
+    class FundsTransferService
+      def self.transfer(from, to, amount)
+        Account.transaction do
+          from.debit amount
+          to.credit amount
+        end
+      end
+    end
+
+An alternative implementation could be an instance method on `Account`, taking the account and destination account as parameters. However, transferring money between accounts feels like the responsibility of another object, not a core responsibility of an account. Domain services like this one really help maintain the core responsibilities of your domain objects.
+
+Another example of a domain service is a sitewide search across multiple domain models. Since it searches across multiple domain models it doesn't conceptually fit in any one particular model.
+
+    class SearchService
+      def self.search(query)
+        Sunspot.search(Document, Email, Appointment) do
+          fulltext query
+        end
+      end
+    end
+
+Simple CRUD operations are not domain services. Domain services should be short scripts, not simple 1-liners that delegate to an almost identical domain model interface.
+
+## Infrastructure Services
+
+An infrastructure service encapsulates access to an external system. Infrastructure services are often used by application and domain services. Ex: E-mail and message queues. *Infrastructure services make your domain model more reusable by separating out non-domain, “software” concerns.*
+
+    class AccountEmailService
+      def self.overdrawn_account(account)
+        email = AccountMailer.overdrawn_account account
+        email.deliver
+      end
+    end
+
+    class MessagingService
+      def self.overdrawn_account_sms(account)
+        Resque.enqueue SmsJob, "Account #{account.account_number} overdrawn!"
+      end
+    end
+
+## What is a Service Layer?
+
+*In PoEAA, Stafford defines a service layer as an application's boundary and set of available operations from the perspective of interfacing client layers. In other words, it's your application’s API.*
+
+## Supporting Multiple Clients
+
+Encapsulating your application's API allows it to be reused across multiple client controllers (ex: HTML and Thrift client). The resulting controllers are thinner and more cohesive.
+
+## Encapsulating Application Logic
+
+Domain logic = problem domain. Application logic = technical responsibilities, such as coordinating a workflow or sending an email.
+
+*In order to build a more cohesive and reusable domain model, application logic should be handled by infrastructure services, possibly in a service layer.* Putting application logic into a domain model used by multiple clients might have side effects. Ex: If you want HTML clients to be emailed after user registration but JSON clients not to, don't put the `send_welcome_email` in `User`, put them in the controller (`respond_to`), or in a service layer.
+
+## When Should I Use a Service Layer
+
+*The only reason to use a service layer is if you have to support multiple clients using different protocols.* HTTP and JSON have become the de facto client communication protocol and format, eliminating the need for a service layer. However, it's still beneficial to use Evans-like services from your controllers in order to encapsulate domain, application, and infrastructure logic and preserve the cohesiveness of your domain model. *Always remember to only build for today, not what could happen tomorrow.*
+
 # Reddit on Service Layer vs. Eventing
 [link](http://www.reddit.com/r/rails/comments/1xfnan/skinny_rails_controllers/)
 
