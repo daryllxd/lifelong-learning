@@ -8,7 +8,6 @@ Vanilla Vim
 gU(motion) - capitalize
 gu(motion) - lower case
 
-
 # Terminal shortcut
 C-h - delete one char
 C-w - delete one word

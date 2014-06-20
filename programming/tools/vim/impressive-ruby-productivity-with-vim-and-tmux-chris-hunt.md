@@ -4,7 +4,7 @@ Tmux is a server running on your machine, and clients connect to the server usin
 
     $ tmux new -s la
 
-Tmus Script (tmux.sh)
+Tmux Script (tmux.sh)
 
     tmux new-session -d -s my-app
     tmux new-window -t my-app:2 -n 'server' 'bundle exec rails server'
@@ -16,4 +16,11 @@ You can then run this (sh ./tmux.sh) and put that in iTerm2 (Preferences, Profil
 :Ag! MyAwesomeApp
 
 Effing plugins:
-surroung, tabular
+surround, tabular
+
+'dqwd'
+
+    :!spring rspec spec
+    :args `ag -l MyAwesomeApp`
+    :argdo %s/MyAwesomeApp/TodoApp/gc |
+    :argdo norm @q # Do macros!
