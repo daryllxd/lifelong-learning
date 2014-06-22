@@ -1,8 +1,69 @@
+Tip: On AR null objects, instead of this:
+
+    class NullUser
+      def purchases # user has_many purchases
+        []
+      end
+    end
+
+If someone calls user.purchases.something there will be a `NoMethodError`. We can do this though:
+
+    class NullUser
+      def purchases
+        Purchase.none
+      end
+    end
+
+`NullRelation` responds to every method that a normal instance of `Relation` would, and as a bonus, if you call `.none` on one of your model classes, it will also respond to all of the class methods.
+
+Reference: http://robots.thoughtbot.com/handling-associations-on-null-objects
+
+# Testing Null Objects
+[link](http://robots.thoughtbot.com/testing-null-objects)
+
+The problem with Null Objects is that when we change the public interface of the real object, we have to make a corresponding change in the Null Object that shadows it, and we can have `NoMethodError` exceptions.
+
+To ensure this requirement, I recently added a test that looked like this:
+
+    describe NullGraph do
+      it 'exposes the same public interface as Graph' do
+        expect(described_class).to match_the_interface_of Graph
+      end
+    end
+
+The matcher is this:
+
+    RSpec::Matchers.define :match_the_interface_of do
+      match do
+        missing_methods.empty?
+      end
+
+      failure_message_for_should do
+        "expected #{actual.name} to respond to #{missing_methods.join(', ')}"
+      end
+
+      def missing_methods
+        expected_methods - actual_methods - common_methods
+      end
+
+      def expected_methods
+        expected.map(&:instance_methods).flatten
+      end
+
+      def actual_methods
+        actual.instance_methods
+      end
+
+      def common_methods
+        Object.instance_methods
+      end
+    end
+
 # Nil is Unfriendly, with Joe Ferris (Thoughtbot Weekly Iteration 1)
 
 Nil is extremely unfriendly, and its not unwarranted.
 
-## Nil is contagious. 
+## Nil is contagious.
 
 If you have one `nil`, they jump out. Ex: `user.account.subscription.plan.price`. If you want to know the price that the user is paying, you go through all of these, and some of them are optional. Though we actually would rather just not traverse the chain to obey the Law of Demeter (if we repeat it here we might repeat it multiple times at other points of the app). We also have to deal with `nil` at every step of the chain (Demeter'd or not).
 
@@ -87,13 +148,14 @@ Assuming we have a `has_many`, we call the `super` method and explicitly raise a
 `github.com/mike-burns/wrapped`
 
 ## Nil is Unfriendly
+
 - Null object
 - Exceptions
 - Maybe. Use when you need different handling situations for `nil`.
 
 # DAS: How and Why to Avoid Nil
 
-IVARs return `nil`, [] returns `nil`, and {} returns `nil`. When we look for a hash of a key that doesn't exist, it returns nil. The `nil` percolates through and you get failures in points far from where we started.
+Uninstantiated instance variables by default return `nil`, [] returns `nil`, and {} returns `nil`. When we look for a hash of a key that doesn't exist, it returns nil. The `nil` percolates through and you get failures in points far from where we started.
 
 When we call a method on `nil`, we get "undefined method METHOD for `nil`". The problem is that the method that introduces a nil could be several methods deep. The introduction of the `nil` is not local to the trace.
 
