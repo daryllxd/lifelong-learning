@@ -92,7 +92,7 @@ For an existing system, the safest way to start the TDD process is to automate t
 
 ## Start Each Feature with an Acceptance Test
 
-We use terminology from the application's domain (not from the underlying technologies), so we aren't tied up about the implementation of the test. This also shields our acceptance test suite from changes to the system's technical infrastructure. If a third-party organization changes the protocol used by their services from FTP and binary files to web services/XML, we should not have to rework the tests for the systems' application logic.
+*We use terminology from the application's domain (not from the underlying technologies), so we aren't tied up about the implementation of the test.* This also shields our acceptance test suite from changes to the system's technical infrastructure. If a third-party organization changes the protocol used by their services from FTP and binary files to web services/XML, we should not have to rework the tests for the systems' application logic.
 
 When we write acceptance tests to describe a new feature, we expect them to fail until that feature has been implemented; new acceptance tests describe work yet to be done. Once passing, the acceptance tests now represent completed features and should not fail again. A failure means that there's been a regression and that we've broken our existing code.
 
@@ -102,7 +102,7 @@ When we write acceptance tests to describe a new feature, we expect them to fail
 
 Do the simplest case that could possibly work (simple should not be interpreted as simplistic). Degenerate cases don't add much to the value of the system anyway. Focusing on the failure cases at the beginning of a feature is bad for morale -- if we only work on error handling it feels like we're not achieving anything.
 
-*Start with the simplest success case, soe we'll have a better idea fo the real structure of the solution, and we can prioritize handling failures or other success cases.*
+*Start with the simplest success case, so we'll have a better idea fo the real structure of the solution, and we can prioritize handling failures or other success cases.*
 
 Example of incremental approach: moon program. The 7 missions had their own steps: (unmanned command module test, unmanned lunar module test, manned CSM in low Earth orbit, manned CSM and LM in low Earth orbit...
 
@@ -132,7 +132,7 @@ We grow our systems a slice of functionality at a time. As the code scales up, t
 
 *Separation of concerns.* When we have to change the behavior of a system, we want to change as little code as possible. If all the relevant changes are in one area of code, we don't have to hunt around the system to get the job done.
 
-Because we can't predict when we have to change any part of the system, we gather together code that wll change for the same reason. Ex: code to unpack messages from an Internet standard protocol will not change for the same reasons as business code that interprets those messages, so we partition the two concepts into different packages.
+Because we can't predict when we have to change any part of the system, we gather together code that will change for the same reason. Ex: code to unpack messages from an Internet standard protocol will not change for the same reasons as business code that interprets those messages, so we partition the two concepts into different packages.
 
 *Higher levels of abstraction.* The only way for humans to deal with complexity is to avoid it, by working at higher levels of abstraction.
 
@@ -172,13 +172,13 @@ Notifications are "fire and forget"; the object neither knows nor cares which pe
 
 *Adjustments.* Peers that adjust the objects' behavior to the wider needs of the system. Ex: policy objects that make decisions on the object's behalf, and components parts of the object if it's a composite. Ex: A `JTable` will ask a `TableCellRenderer` to draw a cell's value. If we change the renderer, the table will change its presentation.
 
-Dependencies must be passed in through the constructor. *Partially creating an object and then finishing it off by setting properties is brittle because the programmer has to remember teo set all the dependencies. (We get `NullPointerException`).*
+Dependencies must be passed in through the constructor. *Partially creating an object and then finishing it off by setting properties is brittle because the programmer has to remember to set all the dependencies. (We get `NullPointerException`).*
 
 Notifications and adjustments can be passed to the constructor as a convenience. They can be initialized to safe defaults and overwritten later. We then add methods to allow callers to change these default values, and add or remove listeners.
 
 *Composite Simpler Than the Sum of Its Parts*
 
-All objects in a system, except for primitive types built into the language, are composed of other objects. When composing objects into a new type, we want this new type to exhibit simpler behavior than all of its component parts considered together. The composite object's API must hide the existence of its component parts and the inteactions between them, and expose a simpler abstraction to its peers.
+All objects in a system, except for primitive types built into the language, are composed of other objects. When composing objects into a new type, we want this new type to exhibit simpler behavior than all of its component parts considered together. The composite object's API must hide the existence of its component parts and the interactions between them, and expose a simpler abstraction to its peers.
 
 Bad:
 
@@ -240,7 +240,7 @@ A test that is clumsy or unclear might be a hint that we've exposed too much imp
 
 ## Where Do Objects Come From?
 
-When code becomes complex  to understand, we can pull out cohesive units of functionality into smaller collaborating objects, which we can then unit-test independently. Splitting out a new object also forces us to look at the dependencies of the code we're pulling out.
+When code becomes complex to understand, we can pull out cohesive units of functionality into smaller collaborating objects, which we can then unit-test independently. Splitting out a new object also forces us to look at the dependencies of the code we're pulling out.
 
 Concern 1: How long should we wait before doing something? Concern 2: Occasionally it's better to treat this code as a spike--once we know what to do, just roll it back and reimplement cleanly.
 
@@ -296,7 +296,6 @@ Adapter objects are passive (reacting to calls from our code.) Sometimes, adapte
 
 In these cases, we do use mock objects when testing objects that integrate with third-party code, but only to mock the callback interfaces defined in the application.
 
-
 # A Worked Example
 ====================
 
@@ -344,7 +343,7 @@ We want our skeleton test to exercise our application as close to end-to-end as 
       private final ApplicationRunner application = new ApplicationRunner();
 
       @Test public void sniperJoinsAuctionUntilAuctionCloses() throws Exception {
-        auction.StartSellingItem();
+        auction.startSellingItem();
         application.startBiddingIn(auction);
         auction.hasReceivedJoinRequestFromSniper();
         auction.announceClosed();
@@ -366,7 +365,7 @@ We need to write:
 
 ## End-to-End Testing
 
-Tests run in parallel with th application and do not know precisely when the application is or isn't ready, unlike unit testing where a test drives an object directly in the same thread and so can make direct assertions about its state and behavior.
+Tests run in parallel with the application and do not know precisely when the application is or isn't ready, unlike unit testing where a test drives an object directly in the same thread and so can make direct assertions about its state and behavior.
 
 The technique is to poll for the effect and fail if it doesn't happen within a given time limit. This means that end-to-end testing is slower and more brittle, so failures might need interpretation. *Sometimes timing-related tests have to fail several times in a row before they're reported. This is unlike unit tests which must all pass every time.*
 
@@ -560,7 +559,7 @@ It took us a couple of attempts to get this design pointing in the right directi
 
 We've noticed that we've interleaved different domain levels, auction sniping, and chatting, in this one unit of code. The object that locks this code into Smack is the chat.
 
-*Compromsing on a Constructor.* Our experience is that busy constructors enforce assumptions that one day we will want to break, especially when testing, so we prefer to keep them very simple--just setting the fields.
+*Compromising on a Constructor.* Our experience is that busy constructors enforce assumptions that one day we will want to break, especially when testing, so we prefer to keep them very simple--just setting the fields.
 
 *Incremental Architecture.* The restructuring of Main is a key moment--we know have a structure that matches the "ports and adapters" architecture.
 
@@ -630,7 +629,7 @@ Support logging should be test-driven from somebody's requirements, such as audi
 
 Diagnostic logging is driven by the programmers' need for fine grained tracking of what's happening in the system. (Don't use this in production!)
 
-*Notification Rather Than Logging.* Writing tests agaisnt static global objects, including loggers, is clumsy. We have to either read from the file system or manage an extra appedner object for testing; we ahve to remember to clean up afterwards so the tests don't interfere with each other, and set the right level on the right logger.
+*Notification Rather Than Logging.* Writing tests against static global objects, including loggers, is clumsy. We have to either read from the file system or manage an extra appender object for testing; we have to remember to clean up afterwards so the tests don't interfere with each other, and set the right level on the right logger.
 
 Oftentimes code will do 2 things, the functional part and the logging part (breaks SRP). What we want:
 
@@ -639,7 +638,7 @@ Oftentimes code will do 2 things, the functional part and the logging part (brea
       filter.selectFor(location);
       support.notifyFiltering(tracker, location, filter);}
 
-The support object might be implemented by a logger, a message bus, pop-up windows, or whatever's appropriate; this detail is not relevant to the code at this level.
+The support object might be implemented by a logger, a message bus, pop-up windows, or whatever is appropriate; this detail is not relevant to the code at this level.
 
 Code is easier to test, because we (not the logging framework) own the support object, so we can pass in a mock. Now, we're testing for objects, rather than formatted contents of a string.
 
@@ -693,7 +692,7 @@ If we can break up the test class into slices that don't share anything, it migh
 
 Not all of the arguments might be dependencies. *We insist on dependencies being passed in to the constructor, but notifications and adjustments can be set to defaults and reconfigured later. When a constructor is too large, and we don't believe there's an implicit new type amongst the arguments, we can use more default values and only overwrite them for particular test cases.*
 
-Bad:
+> Bad:
 
     public class RacingCar {
       private final Track track;
@@ -750,7 +749,7 @@ Unit tests shouldn't be 1000 lines long, it should focus on at most a few classe
 
 # 21: Test Readability
 
-Teams that adopt TDD either see a boost in productivity because tests let them add feature with confidence, or the pace slows them down and the tests themselves become a burden. Test code should describe what production code does. *It's concrete about the values it uses as examples of what results to expect, but abstract about how the code works.* Production code is abstract about the values but concrete about how it gets the job done. When writing production code, we consider how we compose our objects to make up a working system. It's more important for test code to express the intention of its target code than to plug into a web of other objects.
+Teams that adopt TDD either see a boost in productivity because tests let them add features with confidence, or the pace slows them down and the tests themselves become a burden. Test code should describe what production code does. *It's concrete about the values it uses as examples of what results to expect, but abstract about how the code works.* Production code is abstract about the values but concrete about how it gets the job done. When writing production code, we consider how we compose our objects to make up a working system. It's more important for test code to express the intention of its target code than to plug into a web of other objects.
 
 ## Watch Out For:
 
@@ -783,7 +782,7 @@ All code should emphasize WHAT it does over HOW, including test code; the more i
 
 We also extract common features into methods that can be shared between tests for setting up values, tearing down state, making assertions, and occasionally triggering the event. The only caution with factoring out test structure is that we have to be careful not to make a test so abstract that we cannot see what it does anymore
 
-*Accentuate the positive. We conly catch exceptions in a test if we want to assert soemthing about them.*
+*Accentuate the positive. We only catch exceptions in a test if we want to assert something about them.*
 
 *Delegate to subordinate objects.* Sometimes helper methods aren't enough and we need helper objects to support the tests. We developed `ApplicationRunner`, `AuctionSniperDriver`, and `FakeAuctionServer` so we could write tests in terms of auctions and Snipers, not in terms of Swing and messaging.
 
@@ -793,4 +792,106 @@ Two approaches: Either we write the test we want to see and fill in the supporti
 
 *Literals and Variables.* Literal values without explanation can be difficult to understand because the programmers has to interpret whether a particular value is significant or is just an arbitrary placeholder. Better to have `public static final Chat UNUSED_CHAT = null` to show that we use `null` to represent an argument unused in production code.
 
+# 22: Constructing Complex Test Data
 
+Testing objects with complicated constructors is hard (in production we don't initialize always, but in tests we initialize for every test). The *object mother* pattern is an attempt to break this problem. This makes tests more readable by packaging up the code that creates new object structures and giving it a name. Another pattern is the builder pattern.
+
+    public class OrderBuilder {
+
+      public static OrderBuilder anOrder() {
+        return new OrderBuilder();
+      }
+
+      public OrderBuilder withCustomer(Customer customer) {
+        this.custoner = customer;
+        return this;
+      }
+
+      public OrderBuilder withOrderLines(OrderLines lines) {
+        this.lines = lines;
+        return this;
+      }
+
+      public OrderBuilder withDiscount(BigDecimal discountRate){
+        this.discountRate = discountRate;
+        return this;
+      }
+
+      public Order build() {
+        Order order = new Order(customer);
+        for(OrderLine line: lines) order.addLine(line);
+          order.setDiscountRate(discountRate);
+        }
+      }
+    }
+
+In here, if you just need an Order object, you can do this: `Order order = new OrderBuilder().build();` but if you need particular values within an object you can specify just those values and use defaults for the rest.
+
+    new OrderBuilder().withOrderLines(lines).withDiscount(new BigDecimal(5.00)).build()
+
+- They keep tests expressive and resilient to change.
+- They wrap up most of the syntax noise when creating new objects.
+- They make the default case simple, and special cases not much more complicated.
+- They protect the test against changes in the structure of its objects: If we ad an argument to a constructor, then all we have to change is the relevant builder and those tests that drove the need for the new argument.
+- Easier to spot errors. Compare:
+
+    TestAddresses.newAddress("14th Avenue", "Cubao")
+    newAddressBuilder().withStreet("14th Avenue").withCity("Cubao")
+
+[TODO]: TEST_BUILDERS.
+
+# 23: Test Diagnostics
+
+*The point of a test is not to pass but to fail. We want the production code to pass its tests, but we also want the tests to detect and report any errors that do exist. A "failing" test has actually succeeded at the job it was designed to do.*
+
+The situation we want to avoid is when we can't diagnose a test failure that has happened. The last thing we should have to do is crack open the debugger and step through the tested code to find the point of disagreement. We might end up in "debug hell", with deadlines to meet but no idea of how long a fix will take.
+
+# 24: Test Flexibility
+
+We also want to make sure that each test fails only when its relevant code is broken. Otherwise, we end up with brittle tests that slow down development and inhibit refactoring. Causes of brittleness:
+
+- Tests too tightly coupled to unrelated parts of the system or unrelated behavior of the objects they're testing.
+- Tests overspecify the expected behavior of the target code, constraining it more than necessary.
+- Duplication when multiple tests exercise the same production code behavior.
+
+*If an object is difficult to decouple from its environment because it has many dependencies or its dependencies are hidden, its tests will fail when distant parts of the system change.*
+
+*Test for Information, Not Representation.* Don't use things like `null`, create constants like `NO_CUSTOMER_FOUND` or `UNUSED_CHAT`.
+
+*Precise Assertions.* In a test, focus the assertions on just what's relevant to the scenario being tested. Avoid asserting values that aren't driven by the test inputs, and avoid reasserting behavior that is covered in other tests.
+
+Testing for equality doesn't scale well as the value being returned becomes more complex. Same with strings, you just want to know that the critical information is included.
+
+*Precise Expectations.* Each mock object test should specify just the relevant details of the interactions between the object under test and its neighbors. The combined unit tests for an object describe its protocol for communicating with the rest of the system.
+
+Allowances: We use them as stubs to feed values into the object, to get the object into the right state for the behavior we want to test. They support the interaction we're testing. We often use them as stubs to feed values into the object, to get the object into the right state for the behavior we want to test.
+
+*Allow Queries; Expect Commands.* Commands are calls that are likely to have side effects, to change the world outside the target object. Queries don't change the world, so they can be called any number of times.
+
+This rule helps to decouple the test from the tested object. If the implementation changes (caching, different algorithm), the test is still valid. (Though if we were writing a test for a cache, we would want to know exactly how the query is made.
+
+*Invocation Order.* Only enforce it when it matters.
+
+# 25: Testing Persistence
+
+# 26: Unit Testing and Threads
+
+# 27: Testing Asynchronous Code
+
+Ex of difficult: Not sure if buying or selling has happened before you test the result (HTTP stuff is being sent).
+
+The difficulty with testing asynchronous code is that a test triggers activity that runs concurrently with the test and therefore cannot immediately check the outcome of the activity. The test will not block until the activity has finished.
+
+This implies that every tested activity must have an observable effect: a test must affect the system so that its observable states becomes different. *2 ways to test: by sampling the observable state or listening for events it sends out.*
+
+Synchronizing by simply making each test wait for a fixed time is not practical. We know we'll have to wait for failing tests to time out, but succeeding tests should be able to finish as soon as there's a response from the code.
+
+[TODO]: THREADING.
+
+# A Brief History of Mock Objects
+
+"I had noticed a tendency to add getter methods to our objects to facilitate testing. This felt wrong, since it could be seen as violating OOP principles."
+
+How can we safely peel back and test layers like an onion without impacting its design? The solution was to focus on the composition of software components. We removed the getters from sections of our code and used a compositional strategy by adding constructors that took the objects we wanted to test via getters as parameters.
+
+More of our conversations were about expecting things to happen between our objects and we frequently had variables with names like `expectedURL` and `expectedServiceName` in our objects. We started adding variables like `actualURL` and `actualServiceName` to allow the injected test objects to throw exceptions with helpful messages.
