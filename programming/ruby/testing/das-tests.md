@@ -113,3 +113,12 @@ Better to speed up tests by not requiring `spec_helper` as opposed to performanc
 Use `active_support` for the `1.day.ago`.
 
 The spec times are exponential. These are exponential without the feature spec.
+
+# DAS: 47
+
+# DAS 59: When to Generalize in TDD
+
+Since I have a pending I need to generalize. I will generalize if possible. `return 0 if votes==0`. If sliming is harder than generalizing, then just generalize. I generalized because I trust `#map` (obvious and easy), consider edge cases.
+
+Mocking: Make sure to the next user that such a method is called, not other methods should be called.
+

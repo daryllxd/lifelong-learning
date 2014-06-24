@@ -48,7 +48,7 @@ Better to bind references in the views by an attribute on an object, rather than
 
 Placing functional code in the global namespace is rarely a good idea. It can cause collisions that are tough to debug and cost us development time.
 
-Module - where you put the application code. An app can contain several module, each one containing code for a specific function.
+Module - where you put the application code. An app can contain several modules, each one containing code for a specific function.
 
 Why?
 
