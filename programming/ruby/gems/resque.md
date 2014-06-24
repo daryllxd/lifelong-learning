@@ -253,3 +253,4 @@ We wanted this:
 Persistence, see what's pending, modify pending jobs in-place, tags, priorities, fast pushing/popping, see what workers are doing/have done, see failed jobs, kill fat, stale, and long-running workers, keep Rails loaded, distributed workers, don't retry failed jobs, don't release failed jobs.
 
 Redis has: atomic, O(1) list push/pop, ability to paginate over lists without mutating them, queryable keyspace, fast, easy to install, reliable Ruby client, can store arbitrary strings, has support for integer counters, persistent, has master-slave replication, and is network aware.
+

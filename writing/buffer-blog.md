@@ -49,7 +49,7 @@ Mitt Romney Says Something Bad, Again vs. Mitt Romney Says, “I Want The Middle
 
 2. *Use numbers: our brains can understand it more easily.* "X Simple Things You Can Do Today That Will Make You Happier, Backed By Science." Better to use digits and specific facts rather than broad statements.
 
-3. *Choose the right words.* The most popular blog posts had these words in their titles: 
+3. *Choose the right words.* The most popular blog posts had these words in their titles:
 
   - Smart
   - Surprising
@@ -96,7 +96,7 @@ Mitt Romney Says Something Bad, Again vs. Mitt Romney Says, “I Want The Middle
 
 7. *Make it surprising.* Presenting something unexpected--breaking a pattern--will help you to capture attention, according to their research. "8 Surprising New Instagram Statistics to Get the Most out of the Picture Social Network", "The surprising history of Twitter's hashtag and 4 ways to get the most out of them."
 
-8. *Use more verbs and less nouns.* 
+8. *Use more verbs and less nouns.*
 
 ## [8 Surprising New Instagram Statistics to Get the Most out of the Picture Social Network](http://blog.bufferapp.com/instagram-stats-instagram-tips)
 
@@ -118,7 +118,7 @@ ver 150 million users on the platform, 16 billion photos shared, and 1 billion l
 
 ## [7 Powerful Facebook statistics you should know for a more engaging Facebook page](http://blog.bufferapp.com/7-facebook-stats-you-should-know-for-a-more-engaging-page)
 
-1. *Photo posts get 39% more interaction.* Not only do photo posts get more engagement than links, videos or text-based updates, they actually account for 93% of the most engaging posts on Facebook. According to Kissmetrics, photos get 53% more likes, 104% more comments and 84% more click-throughs on links than text-based posts. 
+1. *Photo posts get 39% more interaction.* Not only do photo posts get more engagement than links, videos or text-based updates, they actually account for 93% of the most engaging posts on Facebook. According to Kissmetrics, photos get 53% more likes, 104% more comments and 84% more click-throughs on links than text-based posts.
 
   Wishpond’s data says that overall, photo posts get 120% more engagement than the average post, and photo albums actually get 180% more engagement.
 
@@ -128,25 +128,25 @@ ver 150 million users on the platform, 16 billion photos shared, and 1 billion l
 
 4. *Engagement rates on Thursday and Friday are 18% higher.* Compared to other days in the week, Buddymedia’s study found that engagement rates for Facebook are 18% higher on Thursdays and Fridays. As they put it, “the less people want to be at work, the more they are on Facebook!”
 
-  Apparently no industry has users that are engaged on Mondays or Tuesdays! 
+  Apparently no industry has users that are engaged on Mondays or Tuesdays!
 
 5. *Question posts get 100% more comments.* According to an infographic by Kissmetrics, they get 100% more comments than standard text-based posts. Words in the questions: "should," "would", "which", and "who."
 
 6. *35% of Facebook Fans like a page so they can participate in contests.* 35% of Facebook fans liked Facebook pages specifically to compete in contests. caption this photo’-style contests actually bring in 5.5 times more comments than regular posts.
 
-7. *42% of Fans like a page to get a coupon or discount.* 
+7. *42% of Fans like a page to get a coupon or discount.*
 
 ## [10 Surprising New Twitter Stats to Help You Reach More Followers](http://blog.bufferapp.com/10-new-twitter-stats-twitter-statistics-to-help-you-reach-your-followers)
 
 1. *Twitter engagement for brands is 17% higher on weekends.* If you’re trying to encourage your followers to engage with you on Twitter but you don’t want to work over the weekend, you could use Buffer to schedule tweets to be sent while you’re having a sleep-in.
 
-2. *Tweets with image links get 2x the engagement rate of those without.* 
+2. *Tweets with image links get 2x the engagement rate of those without.*
 
 3. *Tweets with less than 100 characters get 17% more engagement.* If you’re posting tweets with links, Dan Zarrella’s research shows that 120–130 characters will be your sweet spot.
 
 4. *Twitter’s fastest growing demographic is 55–64 year-olds.*
 
-5. *Tweets with hashtags get 2x more engagement.* 1 or 2 will get you 21% more engagement than if you add 3 or more. 
+5. *Tweets with hashtags get 2x more engagement.* 1 or 2 will get you 21% more engagement than if you add 3 or more.
 
 6. *66% of user-generated tweets that mention brands come from mobile users.* Make sure you link to mobile-friendly sites.
 
@@ -154,7 +154,7 @@ ver 150 million users on the platform, 16 billion photos shared, and 1 billion l
 
 8. *Amplifiers are 122% more likely to send direct messages.* Amplifiers—that is, users who are more likely to retweet than others, thus amplifying content—are more likely to send direct messages as well.
 
-9. *Your tweets have a 12x higher chance of being retweeted if you ask for it, and 23x higher if you actually spell out the word “retweet”.* 
+9. *Your tweets have a 12x higher chance of being retweeted if you ask for it, and 23x higher if you actually spell out the word “retweet”.*
 
 10. *Tweets that include links are 86% more likely to be retweeted.* Links, however, are more likely to increase your number of retweets than engagement rate.
 
@@ -195,3 +195,18 @@ GetResponse found that Thursday is the best day for both open rates and click-th
 By analyzing the behavior of each individual user, eBags sent out emails to users at the same time of day they had signed up for the email list.
 
 This actually worked incredibly well: click-through rates rose by 20% and conversion rates rose by 65%.
+
+# The Ideal Length of Everything Online, Backed by Research
+[link](http://blog.bufferapp.com/the-ideal-length-of-everything-online-according-to-science)
+
+- Twitter: 100 characters (71-100 range).
+- Facebook: Posts with 80 characters or less receive 66% higher engagement.
+- Google+, 1 line. 60 characters.
+- Headline, 6 words. We tend to absorb the first three words and the last three words of a headline. Worry about making the first and last 3 words.
+- The ideal length of a blog post is 7 minutes (1600 words), from Medium. What it does mean is that it's worth writing however much you really need. Don't feel constrained by presumed short attention spans. If you put in the effort, so will your audience.
+- Ideal width of a paragraph: 40-55 characters (8-11 words).
+- Email: 18-29 characters.
+- Presentation: 18 minutes.
+- Title tag: 55 characters (Google search result).
+- Domain name: 8 characters.
+
