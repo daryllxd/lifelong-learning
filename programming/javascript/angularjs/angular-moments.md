@@ -40,3 +40,11 @@ In this case, you can use `$timeout`, which is like `setTimeout`, but it wraps y
 
 If your code isn't wrapped in a function passed to $apply, and it throws an error, that error is thrown outside of AngularJS, which means any error handling being used in your application is going to miss it. $apply not only runs your code, but it runs it in a try/catch so your error is always caught, and the $digest call is in a finally clause, meaning it will run regardless of an error being thrown. That's pretty nice.
 
+- In JQuery, you control the visibility of elements by working with the element based on data. In AngularJS, *you control the visibility by tying it to the data and then manipulating the data.*
+- Managing the whole page? You need a service that encapsulates the data, so every controller can have the service injected.
+- Timeout works only if you inject the `$timeout`, otherwise you need to do the wrapping it in `$scope.$apply`.
+- Autocomplete is not super supported?
+- Controller dependency injection needs the arguments, which is weird.
+- Wrap specialized controllers for each part of the page.
+
+

@@ -190,3 +190,23 @@ We can also create methods in the player that fetches the `currentTime` and the 
       }
 
 [TODO]: OTHER_SERVICES.
+
+# `ng-newsletter` Part 7: Routing
+[link](http://www.ng-newsletter.com/posts/beginner2expert-config.html)
+
+We can support different page views by including template code in line in the main HTML, but that will lead to unmanageable code. Rather than including multiple templates in the view (`ng-include` can help), we break out the view into a layout and template views and only show a particular view based upon the URL.
+
+Angular allows us to break "partials" into views by declaring routes on the `$routeProvider`. We can use the browser's history API. To set up routing in the app, we specify where in our layout template we want to place the content of the new page. Ex:
+
+    <header>
+      <h1>Header</h1>
+    </header>
+    <div class="content">
+      <div ng-view></div>
+    </div>
+    <footer>
+      <h5>Footer</h5>
+    </footer>
+
+*The `ng-view` directive will inform the `$routeProvider` where to place the rendered template.* Then, to configure the routes, we'll configure the `$routeProvider` in our app.
+
