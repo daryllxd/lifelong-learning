@@ -66,5 +66,9 @@ If we have the books when we build the page, why do we need to make an AJAX call
 
 [TODO]: NO_AJAX_CALL_ON_CREATE.
 
-## 9: POST /books
+## DELETE `/books/:id`
 
+    %li{"ng-repeat" => "book in books"}
+      .btn.btn-default{"ng-click" => "delete(book)"
+        %i.icon-trash
+      {{ book.title }} by {{ book.author }}
