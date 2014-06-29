@@ -1,3 +1,7 @@
+New awesomesauce!!
+
+    d/Same # Delete until you match "Same"
+
 Vanilla Vim
 
 Make directories
@@ -5,21 +9,22 @@ Make directories
     :! mkdir -p spec/models
     :E spec/models/user_spec.rb
 
-  vsplit.
-  hsplit.
-  Ve
-  Se
+    vsplit.
+    hsplit.
+    Ve
+    Se
 
 gU(motion) - capitalize
 gu(motion) - lower case
 
 # Terminal shortcut
-C-h - delete one char
-C-w - delete one word
-C-u - delete to start of line
-C-k - delete forward to end of line
-- C-W delete word before cursor
-- C-R search history
+
+    C-h - delete one char
+    C-w - delete one word
+    C-u - delete to start of line
+    C-k - delete forward to end of line
+    - C-W delete word before cursor
+    - C-R search history
 
 ; , - Repeat last f, F, t, T
 

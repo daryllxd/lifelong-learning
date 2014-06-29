@@ -218,8 +218,103 @@ Pressing `<C-r><C-w>` in command mode to get the word under the cursor. `<C-r><C
 
 # 8: Navigate Inside Files with Motions
 
-`j` and `k` move up and down
+*Tip 49: Find by Character*
 
+    fc # Find the first occurence of "c"
+    ;  # Move to the next occurence
+    ,  # Move to the previous occurence
+
+Think like a Scrabble player. If you are searching for the word "excellent", use `fx`, not `fe` so you can reach it faster. Capitals and punctuation marks are also rare, find them.
+
+*Tip 51: Trace Your Selection with Precision Text Objects*
+
+    var tpl = [
+    '<a href="{url}">{title}</a>'
+    ]
+
+    vi} # Select inside the }
+    a"  # Select around the quotes
+    i>  # Inside >
+    it  # Inside an HTML tag
+    at  # Around an HTML tag
+    a]  # Around ]
+
+Vim's text objects consists of two characters, the first of which is always either `i` or `a`.
+
+    ci"#     # Change inside the "" (ex: in href) to #
+    citclick # Change inside of tag to "click"
+
+*Tip 53: Mark Your Place and Snap Back to It*
+
+    '{mark} # Moves to the line where the mark was set
+    `{mark} # Moves the cursor to the exact position where the mark was set
+
+Automatic Marks
+
+    `` # Position before the last jump within the current file
+    `. # Location of last change
+    `^ # Location of last insertion
+    `[ # Start of last change or yank
+    `] # End of last change or yank
+    `< # Start of last visual selection
+    `> # End of last visual selection
+
+# 9: Navigate Between Files with Jumps
+
+*Tip 55: Traverse the Jump List*
+
+Motions move around within a file, whereas jumps can move between files. We can inspect the contents of the jump list by running the command `:jumps`.
+
+Jumps:
+
+    [count]G                       # Jumpt to line number
+    //pattern<CR>/?pattern<CR>/n/N # Jump to next/previous occurence of pattern
+    H/M/L                          # Jump to top/middle/bottom of screen
+    gf                             # Jump to file name under cursor
+    <C-]>                          # Jump to definition of a keyword
+
+*Tip 56: Traverse the Change List*
+
+Vim records the location of our cursor after each change we make to a document.
+
+    :changes # See recent changes
+    g;       # Go forward in the change list
+    g,       # Go backward in the change list
+
+# IV: Registers
+
+# 10: Copy and Paste
+
+*60: Grok Vim's Registers*
+
+Vim has multiple registers for all cut, copy, and paste operations.
+
+    "{register} # Specifying which register we want to use. If we don't specify a register, then Vim will use the unnamed register.
+    "_d         # Use the black hole register!
+    "ayiw       # Yank in word to "a" register
+
+The Yank Register: When we use the `y{motion}` command, the specified text is copied not only into the unnamed register but also into the yank register, `0`.
+
+*Named registers: `#a` overwrites, and `#A` appends to the `a` register.*
+
+    "% # Name of the current file
+    "# # Name of the alternate file
+    ". # Last insertd text
+    ": # Last Ex command
+    "/ # Last search pattern
+
+*62: Paste from a Register*
+
+In Insert mode:
+
+    <C-r>" # Insert contents of the unnamed register
+    <C-r>0 # Insert contents of the yank register
+
+Pasting Line-wise Regions
+
+    gp/gP # Same as p/P, but they leave the cursor positioned at the end of the pasted text instead of at the beginning.
+
+# 11: Macros
 
 
 
