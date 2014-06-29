@@ -147,11 +147,12 @@ Always wrap instance variables in accessor methods instead of directly referring
 
   > Bad:
 
-  class ObscuringReferences
-  attr_reader :data
-               def initialize(data)
-               @data = data
-               end
+    class ObscuringReferences
+      attr_reader :data
+
+      def initialize(data)
+        @data = data
+      end
 
                def diameters
 # 0 is rim, 1 is tire
@@ -159,32 +160,33 @@ Always wrap instance variables in accessor methods instead of directly referring
                end
                end
 
-               We expect to be passed a two-dimensional array of rims and tires. While we use `attr_reader`, it is not enough. To iterate on the data, it has to know that rims are at `[0]` and tires are at `[1]`. *It depends upon the array's structure, and if that structure changes, then this code must change. When you have data in an array it's not long before you have references to the array's structure all over.*
+We expect to be passed a two-dimensional array of rims and tires. While we use `attr_reader`, it is not enough. To iterate on the data, it has to know that rims are at `[0]` and tires are at `[1]`. *It depends upon the array's structure, and if that structure changes, then this code must change. When you have data in an array it's not long before you have references to the array's structure all over.*
 
-               Direct references into complicated structures are confusing because they obscure what the data really is, and each reference needs to be changed when the structure of the array changes.
+Direct references into complicated structures are confusing because they obscure what the data really is, and each reference needs to be changed when the structure of the array changes.
 
-               You can use Ruby `Struct` to wrap a structure. Ex of taking the same data/parameters but changing the underlying data structure:
+You can use Ruby `Struct` to wrap a structure. Ex of taking the same data/parameters but changing the underlying data structure:
 
-               class RevealingReferences
-  attr_reader :data
-  def initialize(data)
-               @data = wheelify(data)
-               end
+      class RevealingReferences
+        attr_reader :data
 
-               def diameters
-               wheels.collect { |wheel| wheel.rim + (wheel.tire * 2) }
-               end
+        def initialize(data)
+          @data = wheelify(data)
+        end
 
-Wheel = Struct.new(:rim, :tire)
+        def diameters
+          wheels.collect { |wheel| wheel.rim + (wheel.tire * 2) }
+        end
 
-def wheelify(data)
-  data.collect {|cell| Wheel.new(cell[0], cell[1] }
+      Wheel = Struct.new(:rim, :tire)
+
+      def wheelify(data)
+        data.collect {|cell| Wheel.new(cell[0], cell[1] }
       end
-      end
+    end
 
-      The `diameters` method now has no knowledge of the internal structure of the array. *All it knows is that the wheels return an enumerable and that each enumerated thing responds to `rim` and `tire`. What were once references to `cell[1]` have been transformed into `wheel.tire`.*
+The `diameters` method now has no knowledge of the internal structure of the array. *All it knows is that the wheels return an enumerable and that each enumerated thing responds to `rim` and `tire`. What were once references to `cell[1]` have been transformed into `wheel.tire`.*
 
-      All knowledge of the structure of the incoming array has been isolated inside `wheelify`. If the input changes, the code will change in just this one place. This style of code allows you to protect against changes in externally owned data structures and to make your code more readable and intention revealing.
+All knowledge of the structure of the incoming array has been isolated inside `wheelify`. If the input changes, the code will change in just this one place. This style of code allows you to protect against changes in externally owned data structures and to make your code more readable and intention revealing.
 
 ## Enforcing SRP Everywhere
 
@@ -252,37 +254,37 @@ rim + (tire * 2)
 
                An object depends on another object if, when one object changes, the other might be forced to change in turn.
 
-               class Gear
-               attr_reader :chainring, :cog, :rim, :tire
+      class Gear
+        attr_reader :chainring, :cog, :rim, :tire
 
-                            def initialize(chainring, cog, rim, tire)
-  @chainring = chainring
-  @cog = cog
-  @rim = rim
-  @tire = tire
-  end
+        def initialize(chainring, cog, rim, tire)
+          @chainring = chainring
+          @cog = cog
+          @rim = rim
+          @tire = tire
+        end
 
-  def gear_inches
-  ratio * Wheel.new(rim, tire).diameter
-  end
+        def gear_inches
+          ratio * Wheel.new(rim, tire).diameter
+        end
 
-  def ratio
-  chainring / cog.to_f
-  end
-  end
+        def ratio
+          chainring / cog.to_f
+        end
+      end
 
-  class Wheel
-  attr_reader :rim, :tire
+      class Wheel
+        attr_reader :rim, :tire
 
-               def initialize(rim, tire)
-  @rim = rim
-  @tire = tire
-  end
+        def initialize(rim, tire)
+          @rim = rim
+          @tire = tire
+        end
 
-  def diameter
-rim + (tire * 2)
-  end
-  end
+        def diameter
+          rim + (tire * 2)
+        end
+      end
 
 ## An object has a dependency when it knows:
 
@@ -291,29 +293,29 @@ rim + (tire * 2)
   - The arguments that a message requires, Gear knows we Wheel needs a rim and a tire.
   - The order of those arguments, Gear knows the first argument to Wheel.new should be rim, and the second, tire.
 
-  *Each of these dependencies creates a chance that Gear will be forcd to change because of a change to Wheel.* Some degree of dependency between the two classes is inevitable (they must collaborate), but most of the dependencies above are unnecessary. These also make the code less reasonable, because they increase the chance that Gear will be forced to change, these dependencies turn minor code tweaks into undertakings where small changes cascade through the application.
+*Each of these dependencies creates a chance that Gear will be forcd to change because of a change to Wheel.* Some degree of dependency between the two classes is inevitable (they must collaborate), but most of the dependencies above are unnecessary. These also make the code less reasonable, because they increase the chance that Gear will be forced to change, these dependencies turn minor code tweaks into undertakings where small changes cascade through the application.
 
-  Gear depends on Wheel and four other objects, coupling Gear to five different things. When you want to use Gear in another context, you need to remember everything else. So it is impossible to reuse it as one, changes to one object forces changes in all.
+Gear depends on Wheel and four other objects, coupling Gear to five different things. When you want to use Gear in another context, you need to remember everything else. So it is impossible to reuse it as one, changes to one object forces changes in all.
 
-  Other dependencies: Where many messages are chained together to reach behavior that lives in a distant object (Law of Demeter). Tests that are too tightly coupled lead to incredible frustration because they break every time something is refactored. Test-to-code over coupling has the same consequence as code-to-code over-coupling.
+Other dependencies: Where many messages are chained together to reach behavior that lives in a distant object (Law of Demeter). Tests that are too tightly coupled lead to incredible frustration because they break every time something is refactored. Test-to-code over coupling has the same consequence as code-to-code over-coupling.
 
 ## Writing Loosely Coupled Code
 
-  def gear_inches
-  ratio * Wheel.new(rim, tire).diameter
-  end
+    def gear_inches
+      ratio * Wheel.new(rim, tire).diameter
+    end
 
-  The Gear knows the name of the Wheel class, and the code in Gear must be changed if Wheel's name changes. When `Gear` hard-codes a reference to `Wheel` deep inside the `gear_inches` method, it is explicitly declaring that it is only willing to calculate gear inches for instances of Wheel. Gear refuses to collaborate with any other kind of object, even if that object has a diameter and uses gears.
+The Gear knows the name of the Wheel class, and the code in Gear must be changed if Wheel's name changes. When `Gear` hard-codes a reference to `Wheel` deep inside the `gear_inches` method, it is explicitly declaring that it is only willing to calculate gear inches for instances of Wheel. Gear refuses to collaborate with any other kind of object, even if that object has a diameter and uses gears.
 
-  If your application expands to include objects such as disks or cylinders and you need to know the gear inches of gears which use them, you cannot. *It's not the class of the object that's important, it's the messsage you plan to send to it. Gear needs access to an object that can respond to `diameter`, a duck type. It is not necessary for `Gear` to know about the existence of the `Wheel` class in order to calculates `gear_inches`.*
+If your application expands to include objects such as disks or cylinders and you need to know the gear inches of gears which use them, you cannot. *It's not the class of the object that's important, it's the messsage you plan to send to it. Gear needs access to an object that can respond to `diameter`, a duck type. It is not necessary for `Gear` to know about the existence of the `Wheel` class in order to calculates `gear_inches`.*
 
-  `Gear` becomes less useful when it knows too much about other objects, if it knew less it could do more.
+`Gear` becomes less useful when it knows too much about other objects, if it knew less it could do more.
 
-  def gear_inches
-  ratio * wheel.diameter
-  end
+    def gear_inches
+      ratio * wheel.diameter
+    end
 
-# Gear expects a Duck that knows "diameter"
+  # Gear expects a Duck that knows "diameter"
   Gear.new(52, 11, Wheel.new(26, 1.5)).gear_inches
 
   Gear now uses the `@wheel` variable to hold, *but it doesn't know or care that the object might be an instance of the class `Wheel`.* Moving the creation of the new `Wheel` instance outside of `Gear` decouples the two classes--gear can now collaborate with any object that implements diameter. (Also, we just rearranged existing code).
@@ -356,17 +358,17 @@ rim + (tire * 2)
 
   > Good
 
-  def gear_inches
-  foo = ...? * diameter
-  end
+    def gear_inches
+      foo = ...? * diameter
+    end
 
-  def diameter
-  wheel.diameter
-  end
+    def diameter
+      wheel.diameter
+    end
 
-  The new `diameter` method is exactly the method that you would have written if you had many references to `wheel.diameter` sprinkled throughout Gear and you wanted to DRY them out. In the original code, `gear_inches` knew that wheel had a diameter, which couples `gear_inches` to an external object and one of its methods. Now, `gear_inches` is more abstract--`Gear` now isolates `wheel.diameter` in a separate method and `gear_inches` can depend on a message sent to `self`.
+The new `diameter` method is exactly the method that you would have written if you had many references to `wheel.diameter` sprinkled throughout Gear and you wanted to DRY them out. In the original code, `gear_inches` knew that wheel had a diameter, which couples `gear_inches` to an external object and one of its methods. Now, `gear_inches` is more abstract--`Gear` now isolates `wheel.diameter` in a separate method and `gear_inches` can depend on a message sent to `self`.
 
-  At least, if `Wheel` changes the name or signature of its implementation of diameter, the side effects to Gear will be confined to this wrapper method. This is necessary when a class contain embedded references to a message that is likely to change. Although not every external method is a candidate for this preemptive isolation, it's worth examining your code, looking for, and wrapping the most vulnerable dependencies.
+At least, if `Wheel` changes the name or signature of its implementation of diameter, the side effects to Gear will be confined to this wrapper method. This is necessary when a class contain embedded references to a message that is likely to change. Although not every external method is a candidate for this preemptive isolation, it's worth examining your code, looking for, and wrapping the most vulnerable dependencies.
 
 ### Remove Argument-Order Dependencies
 

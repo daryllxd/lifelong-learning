@@ -145,3 +145,81 @@ For a jagged block such as this, what you do is `<C-v>2j$A;<Esc>`.
 *Tip 27: Meet Vim's Command Line.*
 
 When we press `:`, Vim switches into Command-Line mode. This mode has some resemblance to the command line that we use in the shell.
+
+**On Vim Etymology.** `ed` was the original Unix text editor. In the context of "typists actually type faster than computers", it was vital that `ed` provide a terse syntax (`p` prints the current line, `%p` prints the current file). `ex` added a feature that turned the terminal screen into an interactive window that showed the contents of a file (real time). *The screen editing mode was sctivated by entering `:visual`, or `:vi` for short, and that's where the name `vi` came from.* Vim stands for vi improved.
+
+    C-w # Delete to start of previous word
+    C-u # Delete to strat of line
+
+It is sometimes quicker to use and Ex command than to get a job done with the Normal commands. Ex commands can be executed everywhere (you don't need to move from your cursor).
+
+*Tip 28: Execute a Command on One or More Consecutive Lines.*
+
+    :1 or 1G # Go to the line 1
+    :print   # Print it in the buffer
+    :3d      # Go to line 3 and delete it, as opposed to 3Gdd
+    :2,5d    # Delete each line from 2 to 5, inclusive.
+    :%p      # % is a shorthand for the entire line. This is why we do :%s/Practical/Pragmatic to replace the entire line.
+    :/<html>/.<\/html>/p # Pats from this pattern to the end.
+
+Some symbols:
+
+    1  # First line of the file
+    $  # Last line of the file
+    0  # Virtual line
+    .  # Line where the cursor is placed
+    'm # Line containing mark m
+    '< # Start of visual selection
+    '> # End of visual selection
+    %  # The entire file (shorthand for:1,$)
+
+    :0,$s/Go/Ro/g # Replace all instances of Go with Ro for basically the entire file.
+
+*Tip 29: Duplicate or Move Lines using `:t` and `:m` Commands*
+
+Copy: :copy, :co, :t
+
+    :6copy.  # Copy whatever is in line 6 and put it below the current line
+    :.t$     # Copy whatever is in the current line and put it at the end of the file
+    :'<,'>m$ # Move whatever is in the visual selection to the end of the file
+    @:       # Repeat the last Ex command.
+
+`:t.` duplicates the current line. This is the same as `yyp` but `yyp` uses a register, whereas `:t.` doesn't.
+
+*Tip 30: Run Normal Mode commands Across a Range.*
+
+`normal`: Execute several normal mode commands on a series of consecutive lines.
+
+    :'<,'>normal A; # To add semicolons to the end of several lines, select using visual mode first
+    :%normal I// # Comment out an entire JavaScript file
+
+Pressing `<C-r><C-w>` in command mode to get the word under the cursor. `<C-r><C-a>` to get the WORD under the cursor.
+
+*Tip 35: Run Commands in the Shell.*
+
+    :read !git diff # Execute git diff in the shell and insert its standard output below the cursor
+
+# Part II: Files
+
+# 6: Manage Multiple Files
+
+    :ls               # See the current file
+    :bnext/:bprevious # Switch to then next/previous buffer
+    <C-w>=            # Equalize width and height of all windows
+    <C-w>_            # Maximize height of active window
+    <C-w>|            # Maximize width of active window
+
+# 7: Open Files and Save Them to Disk
+
+    :e.      # Open file window for the current working directory
+    :E       # Open file explorer for the directory of the active buffer
+    :Se, :Ve # Open file explorer in a horizontal split window or vertical split window
+    :!mkdir -p hello/hi # Make directory named hello/hi in root directory.
+
+# 8: Navigate Inside Files with Motions
+
+`j` and `k` move up and down
+
+
+
+

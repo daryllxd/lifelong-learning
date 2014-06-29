@@ -1,9 +1,14 @@
 Vanilla Vim
 
+Make directories
+
+    :! mkdir -p spec/models
+    :E spec/models/user_spec.rb
+
   vsplit.
   hsplit.
-  Vex
-  Sex
+  Ve
+  Se
 
 gU(motion) - capitalize
 gu(motion) - lower case
@@ -17,7 +22,6 @@ C-k - delete forward to end of line
 - C-R search history
 
 ; , - Repeat last f, F, t, T
-\*, # - search for word under cursor
 
 _ Black hole register. `"_d` to delete and not override current register.
 
@@ -38,9 +42,8 @@ Under the hood, Rails.vim's :Econtroller, :Emodel use the :find command from Vim
 Opening vim:
 
   vim -u (load your own vimrc)
-  vim -o (load in vim splits)
 
-# Quick pasteing
+# Quick pasting
 yiw
 vep to copy over the word and paste in on the register
 go back and vep to copy over the first one.
@@ -65,9 +68,6 @@ combination of shit to select a method: /end v %
 
       yim to get everything inside the def, then ]] to jump to other class, then paste via p. boommmmmmm.
 
-      nerdtree
-      t to open file in new tab but stay on the saem thingie tab.
-
       - c-p open ctrlp in find file mode. tab to autocomplete dirs.
       inside: c-u to delete input field. c-w to delete word. c-p to find last
 
@@ -83,10 +83,6 @@ combination of shit to select a method: /end v %
   :h pattern
 
 # keymapping
-
-  keymapping - create a shortcut for combination of keys.
-
-  * [command]
 
   map! <f5> "hello world"<cr> when you go to insert mode, you can do this.
   map <leader>, :<c-u>echo 'helo wrodl'</cr>
