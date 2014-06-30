@@ -47,4 +47,7 @@ If your code isn't wrapped in a function passed to $apply, and it throws an erro
 - Controller dependency injection needs the arguments, which is weird.
 - Wrap specialized controllers for each part of the page.
 
+Deferred/promise:
+
+- Inject `$q` into the service/controller. Create a deferred object using `$q.defer()`. Then create a promise object with 2 functions - the first is called when the deferred object is resolved, and second when the deferred object is rejected. To resolve, call `deferred.resolve(params)`, the parameter will be passed onto the promise object's function. Or, you can use the promise method outside. To reject, call `deferred.reject(params)`.
 

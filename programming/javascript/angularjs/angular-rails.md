@@ -72,3 +72,33 @@ If we have the books when we build the page, why do we need to make an AJAX call
       .btn.btn-default{"ng-click" => "delete(book)"
         %i.icon-trash
       {{ book.title }} by {{ book.author }}
+
+# 10: Services
+
+    Expensify.factory 'Expense', () ->
+      self = {}
+      self
+
+We are going to add a method to our service to fetch a list of books and attach the books to the passed in `$scope`.
+
+    Expensify.factory 'Expense', ($http) ->
+      self = {}
+
+      self.getExpenses = (scope) ->
+        scope.searching = true
+        scope.url = "/api/v1/expenses/"
+        $http({method: 'GET', url: scope.url })
+          .success (response) ->
+            scope.searching = false
+            scope.expenses = response
+
+      self
+
+Inside the old controller, you can do this:
+
+    $scope.populateExpenses = () ->
+      Expense.getExpenses($scope)
+
+While this works, we are passing `scope` into our service. Let's create an implementation that uses AngularJS promises. *AngularJS comes with a promise service called `$q`.*
+
+

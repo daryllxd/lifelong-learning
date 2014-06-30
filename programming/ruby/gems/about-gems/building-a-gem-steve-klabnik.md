@@ -32,4 +32,4 @@ Code:
 
 To push to RubyGems:
 
-    $ bundle exce rake install
+    $ bundle exec rake install
