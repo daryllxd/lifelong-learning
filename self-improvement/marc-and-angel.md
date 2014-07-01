@@ -127,3 +127,28 @@
 14. *They don't think everyone is out to get them.* Emotionally strong people choose to see the good in others. *The truth is, the world is full of good people. Whoever says otherwise hasn't looked around.*
 15. *They don't worry about pleasing everyone.* Emotionally strong people recognize they don't need to please everyone all the time. They're not afraid to say no or speak up when necessary. They strive to be compassionate and fair, but can handle other people being disappointed if they didn't live up to their unfair expectations. The bottom line thing is, pleasing everyone is impossible. May the bridges you burn light your way.
 16. *They don't think it's too late to start over. Let go of the idea that it's too late to start over. Remember, it's always better to be at the bottom of the ladder you want to climb than at the top you don't, even if it means beginning anew. Just because some things didn't work out as you had expected, or didnt' happen as fast as you thought they would is no excuse to give up on yourself. Time passes one way or the other. Do what you need to do, at the very least, you can look back someday and say, "I gave life my best shot."*
+
+# 16 Things You Shouldn't Have to Justify to Anyone Else
+[link](http://www.marcandangel.com/2014/06/29/16-things-you-shouldnt-have-to-justify-to-anyone-else/)
+
+*Life is not about justifying yourself; it's creating yourself. Your life is yours alone. Others can try to persuade you, but they can't decide for you. They can walk with you, but not in your shoes.*
+
+Make this your lifelong motto: "I respectfully do not care." Say it to anyone who passes judgment on something you strongly believe in or something that makes you who you are.
+
+1. *Why you're putting yourself first.* There are only a few people in this world who will stay 100% true to you, and you should be one of them. Prioritize your own needs into your daily to-dos.
+2. *The need to express your emotions.* There's no reason to be ashamed for feeling something or acting out on it if it's real to you.
+3. *Your weirdness.* If you're lucky enough to have something that makes you different from everybody else, don't be ashamed and don't hide it.
+4. *Being unapologetically you.* We are never more alive than when we are being brave, and we can't be brave unless we are willing to take off our masks and be ourselves. It's about finding the courage to be real. *When perfectionism of any kind is driving us, shame is always riding shotgun and fear is the backseat diver. Don't do this to yourself.*
+5. *Not taking things personally.* Defend yourself from others by not taking the things they say and do personally. If you take everything personally, you will remain offended for the rest of your life.
+6. *Deciding to forgive.* Grudges are for those who insist that they are owed something. Forgiveness is for those who are confident enough to stand on their own two legs and move forward. In order to move forward, you must know why you felt the way you did, and why you no longer need to feel that way.
+7. *Who you choose to spend your time with.* It's more likely that what you will wish you could spend time with your loved ones as opposed to wishing your worked harder.
+8. *Not perfectly measuring up to everyone's else's progress.* Everyone needs their own time to travel their own distance. Great things in life don't happen when society tells you they're supposed to happen--they happen when they're meant to be.
+9. *Why you have failed, and why you aren't scared to fail again.* Failure is the opportunity to begin again, smarter than before.
+10. *The young-minded, foolish things you did.* I don't entirely approve of some of the things I've done in my life, but I am me, and I wouldn't be me if I hadn't learned along the way. *All wise old people were once young and foolish; that's how they became wise. Don't be ashamed of who you had to be to get to where you are today.*
+11. *Dressing down and not looking all fixed up every second.* You don't have to apologize to someone else for not looking a certain way; you have to apologize to yourself for feeling like you had to in the first place.
+12. *Your healthy eating habits.* Why do we need to stand up for ourselves when we choose to eat healthy?  Because for some reason, people tend to be skeptical that a person would actually just want to treat their body right and not be perpetually concerned with their shape and size.  Eat healthy because it's good for your health.
+13. *Working extra hard on your dreams.* A lot of people dream, and that is all they do. And while they are busy dreaming, the really happy people are busy doing something with their dreams.
+14. *Choosing to smile through the struggles.* Not every day will be good, but there will be something good about every day. Life doesn't get easier or more forgiving; you just get stronger and more resilient. Your positivity will help you realize that sometimes the bad things that happen in your life put you on a direct path to the best possible things that could ever happen to you.
+15. *The things you hope for.* Hope isn't the belief that life will always give you what you want; it's the belief that life will gradually reveal what's right.
+16. *Why you feel completely justified already.* You don't need a standing ovation or a bestseller or a promotion or a million bucks.  You are enough right now.  You have nothing to justify.  Care less about who you are to others and more about who you are to yourself.  You will have less heartaches and disappointments the minute you stop seeking from others the justification only YOU can give yourself.
+

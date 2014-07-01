@@ -101,4 +101,17 @@ Inside the old controller, you can do this:
 
 While this works, we are passing `scope` into our service. Let's create an implementation that uses AngularJS promises. *AngularJS comes with a promise service called `$q`.*
 
+# 11: Using `ng-resource` with Rails
 
+    Expensify.factory 'Book', ($resource) ->
+      $resource("books/:id")
+
+By adding `ngResource`, we get access to the `$resource` service. The first parameter is the URL the resource will use to perform CRUD operations. We add the following methods:
+
+    {
+      'get': { method: 'GET' }
+      'save': { method: 'POST' }
+      'query': { method: 'GET', isArray:true }
+      'remove': { method: 'DELETE' }
+      'delete': { method: 'DELETE' }
+    }
