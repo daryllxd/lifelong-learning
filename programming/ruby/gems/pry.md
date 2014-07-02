@@ -1,6 +1,6 @@
 
 ## Pry Rails
-    
+
     > show-routes
     > show-routes -G POST
     > show-source (might use this)
@@ -9,8 +9,8 @@
 ## Prying a file
 
     $ pry
-    > load "./file.rb" # Inside the file, you need to have: 
-    
+    > load "./file.rb" # Inside the file, you need to have:
+
     def a
         [1, 2, 3, 4, 5]
     end
@@ -23,25 +23,25 @@
 
 Installation
 
-	$ gem install pry pry-doc
-	$ pry -v
-	pry(main)>
+    $ gem install pry pry-doc
+    $ pry -v
+    pry(main)>
 
 Show documentation
 
-	pry(main)> show-doc Array#map
+    pry(main)> show-doc Array#map
 
 Cd into an object
-	
-	pry(main)> cd arr
-	pry(#<Array>)>
-	pry(#<Array>)>ls #list all methods
-	pry(#<Array>)>ls -h
-	pry(#<Array>)>show-source map! #Show implementation of underlying code.
+
+    pry(main)> cd arr
+    pry(#<Array>)>
+    pry(#<Array>)>ls #list all methods
+    pry(#<Array>)>ls -h
+    pry(#<Array>)>show-source map! #Show implementation of underlying code.
 
 Able to see shit via the `binding.pry` method. But you have to define the editor first. So you can `edit` the method.
 
-	pry(#<Order>) edit total
+    pry(#<Order>) edit total
 
 Stack trace: `wtf?` Longer stack trace: `wtf??`
 
@@ -55,13 +55,12 @@ The `ls` command is essentially a unified wrapper to a number of Ruby's introspe
 
 By default typing `ls` shows you the local variables defined in the current context, and any public methods or instance variables defined on the current object.
 
-Usage: 
+Usage:
 
-```
     ls [-m|-M|-p|-pM] [-q|-v] [-c|-i] [Object]
     ls [-g] [-l]
 
-options:
+Options:
 
     -m, --methods        Show public methods defined on the Object (default)
     -M, --module         Show methods defined in a Module or Class
@@ -75,8 +74,32 @@ options:
     -G, --grep           Filter output by regular expression
     -h, --help           Show help
 
-## Rails Conf 2013 Pry-- The Good Parts! by Conrad Irwin
+## Rails Conf 2013 Pry-- The Good Parts by Conrad Irwin
 
-Devs spend 60% of the time is spent debugging.
+Devs spend 60% of the time is spent debugging. Think of Pry has a lot of small features.
 
 Pry's variable on last output: `_`.
+
+    $ wtf?               # Show backtrace
+    $ _ex_               # Show last exception
+    $ cat basic_auth.rb  # Open a file inside of pry
+    $ require _file_     # _file_ is an alias of the last file taken.
+    $ $ BasicAuth.decode # Show source of the module
+    $ edit               # Give a method name and it will open in the editor. Pry has actually edited it.
+
+    $ play -l 19         # Playing the 19th line, same as executing it
+    $ cd new_post        # Go inside the variable
+    :1> ls               # Show the methods/instance variables inside the variable itself
+    :> edit --ex         # Opening the file itself and going to the last exception
+    $ .git diff          # Adding a dot before = running it in the Shell
+    :> edit --ex         # Opening the file itself and going to the last exception
+    $ puts "hello";      # Tell Pry to skip the output phase, just show side effects.
+
+Plugins:
+
+- `pry-rescue`: Automatically opens pry wherever you have an unhandled exception or test failure.
+- `pry-stack_explorer`: Lets you move up/down the call stack as though you had a binding.pry at ever level.
+- `BetterErrors.use_pry!`
+- `pry-debugger`: Adds break, step/next, continue.
+- `pry-plus`: Collection of the plugins.
+

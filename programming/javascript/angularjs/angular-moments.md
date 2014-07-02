@@ -51,3 +51,8 @@ Deferred/promise:
 
 - Inject `$q` into the service/controller. Create a deferred object using `$q.defer()`. Then create a promise object with 2 functions - the first is called when the deferred object is resolved, and second when the deferred object is rejected. To resolve, call `deferred.resolve(params)`, the parameter will be passed onto the promise object's function. Or, you can use the promise method outside. To reject, call `deferred.reject(params)`.
 
+ngResource
+
+- Inject it in the initializer/app bootstrap.
+- Back end must be RESTful.
+

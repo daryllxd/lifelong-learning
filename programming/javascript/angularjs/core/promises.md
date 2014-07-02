@@ -41,3 +41,12 @@ The deferred object has a property promise which represents the promise of this 
       deferred.resolve('cool');    # Sedn a "success" to the deferred object.
 
 [TODO]: CHANINING_PROMISES.
+
+# 12: Paging with Angular and Rails
+
+# 13: Directives
+
+Think of Directives as creating a DSL in HTML.
+
+    AngulaRails.directive 'arPaging', () ->
+      templateUrl: '/assets/paging.html'
