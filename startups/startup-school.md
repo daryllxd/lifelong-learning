@@ -22,16 +22,16 @@ There’s this culture in SV that makes startups seem glamorous, when it’s not
 
 The idea that there should be some social platform was there, early on. People want to learn about people, that’s a core thing in our psychology. There needed to be a common framework that we can develop around.
 
-Thiel was really focused with network effects, and as you build the company you have to focus on one or two things per day (out of the hundred things that come). Ex: we wanted people to add as many friends as possible. 
+Thiel was really focused with network effects, and as you build the company you have to focus on one or two things per day (out of the hundred things that come). Ex: we wanted people to add as many friends as possible.
 
 Another ex: we want to expand to schools which had an intense social connection with Harvard, too. Then another company named collegefacebook started in schools we weren’t at. When we feel that a competitor was getting ahead of us, we would “lockdown” and not even leave the house until we addressed the problem.
 
 We can’t get to some countries such as Russia, because their hacker team is so good and they have illegal file downloads.
 
-Clones are a big nuisance. But you do want to internationalize fairly early. 
+Clones are a big nuisance. But you do want to internationalize fairly early.
 
 I’m too obsessed with connecting people, I believe that when you connect people they can do cool things and I think this is the right thing to do.
- 
+
 # Mark Zuckerberg at Startup School 2012
 
 We needed the school-specific emails to verify authenticity.
@@ -65,7 +65,7 @@ I think technology extends human’s capacity to do things. Glasses extend your 
 I think it’s not about winning vs. losing (Facebook vs. Myspace) and Myspace was a better service early on for meeting new people. Facebook was more of for maintaining connections with people you knew. I think they were threatened by us and they tried to copy us, so it was doomed.
 
 The actual thought was that we wanted to be around the companies so we can figure out what to do with a new company.
- 
+
 # Nate Blecharczyk (AirBnb) at Startup School 2013
 
 You want your company to have hockey stick. It took us 4 years to serve 4 million guests, but in the last 9 months we have 5 million guests.
@@ -110,11 +110,6 @@ They then created the Obama O's and Capn McCains. They sold 500 of each, at $40 
 
 Then we met our users individually. Now you can book a lot of stuff: Treehouses, castles, boats, cars, co-working spaces, art galleries, tents.
 
-
-
-
-
-
 # Jack Dorsey at Startup School 2013
 
 The Art Spirit: Robert Henri. Art is simply a question of doing anything well. When the artist is alive in any kind of person, he becomes a self-expression people. He disturbs, upsets, enlightens, and opens up ways to better understanding.
@@ -124,3 +119,40 @@ The Art Spirit: Robert Henri. Art is simply a question of doing anything well. W
 I quit the one thing that was sure-fire and became a model, and got bored really fast, and now I'm back at technology again. I started getting interested solving problems: my own problems, and other people's problems. I think that's the single biggest thing I look for in ents, they genuinely want to solve problems, first their own, and then others.
 
 Carl Fisher, as a kid can't see very well. He quit school as a kid. Bike store -> car shop -> headlights -> car racing -> Miami Beach -> Montauk -> stock market crash, loses everything. It wasn't about the money, but it was about uncovering and disrupting markets boldly to leave everything behind for everyone to use.
+
+# Notes from Matt Knox Website
+[link](http://www.mattknox.com/startup.html)
+
+- Company must own the technology. Check what employers own. Microsoft practically owns everything you ever think of.
+- To avoid getting sued, don't piss off your former company.
+- Don't give titles because it is hard to get rid of them, hard to take people off the board.
+- Investor wants to hear about value proposition.
+- Moonlighting limits risk: it's not fun, but it works.
+- For funds, look to family and friends.
+- Software economics = 80% gross margin. Automate everything possible.
+- Customers must believe in the product and the team, have a budget, have a common problem, you know how to reach them.
+- VCs bring people, partners, and process. Money gives a competitive advantage, but not enough.
+- The goal for VCs is to hook them in 15 minutes!
+- A company should have a big goal (Google: Organize all the world's information.)
+- Tech must be: on track with a long term trend.
+- *Don't be afraidto be ahead of the curve. Keep telling your story.*
+- Marketing: "Find a parade and get in front of it."
+- Bring people together to tell your story.
+- "I'm an inventor, I became interested in long term trends because an invention has to make sense in the world in which it is finished, not the world in which it started."
+- Users can stand not having all the features, but they can't stand bugs.
+- Users love web sites that improve, they expect them to improve.
+- Startups have to make a good thing or you're toast.
+- Need to convert visitors into users.
+- Big threat in startup is themselves. Internal disputes, inertia, ignoring users.
+- *Intelligence is not the most important thing.*
+- Start-up workers have a ton of hard, random shit.
+- There's always new room for new stuff. We adjust to how things are, and think that's the way things have to be.
+- You can't fool VCs, they're professional.
+- Usability testing = get out in the hallway.
+- Blogging is a good way to spread the word.
+- Products that succeed solve problems/cause behavior change.
+- *If it takes more than 15 minutes to figure it out, you're hosed.*
+- *Food is important. People put their guard down when eating, mix with peopel you wouldn't normally otherwise.*
+- The secret sauce = the world's best engineers. Engineers need $$$, perks.
+- Blogging is a great equalizer.
+- Watch how people do things.
