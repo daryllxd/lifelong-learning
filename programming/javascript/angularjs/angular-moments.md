@@ -56,3 +56,4 @@ ngResource
 - Inject it in the initializer/app bootstrap.
 - Back end must be RESTful.
 
+- In directive `link`, you can pass in scope, elements, attrs and you can get the attrs via the markup's `data-facebook-id`. `attrs.facebookId` in the directive == `data-facebook-id` in the markup. Need to check for undefined, though.

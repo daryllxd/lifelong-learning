@@ -1,3 +1,12 @@
+# Railscasts 348: The Rails API Gem
+[link](http://railscasts.com/episodes/348-the-rails-api-gem?view=asciicast)
+
+    $ gem install rails-api
+    $ rbenv rehash
+    $ rails-api new hello
+
+Rails misses some features, such as the `respond_to` in the controller.
+
 # Building a tested, documented, and versioned JSON API using Rails 4
 [link](http://www.emilsoman.com/blog/2013/05/18/building-a-tested/)
 Use `rails-api` to remove the stuff that you don't need for an API. No more view layer that renders and HTML view for every request.
