@@ -115,3 +115,38 @@ By adding `ngResource`, we get access to the `$resource` service. The first para
       'remove': { method: 'DELETE' }
       'delete': { method: 'DELETE' }
     }
+
+# Working with Angular and Rails
+[link](http://rockyj.in/2013/10/24/angular_rails.html)
+
+- Yeoman + Grunt or Rails asset pipeline?
+- Use Rails-API: `$rails-api new <appname> -S -T` (no Sprockets, no RSpec)
+- `$ yo angular --coffee`
+- We run Rails on 3000 and Grunt on 9000.
+- In production, there is no grunt connect server which we use in development. We just serve our frontend code from Apache/Nginx, so we should not hard code the full Rails URL in the frontend code.
+- To solve CORS problem:
+
+> Gemfile
+
+    gem 'rack-cors'
+
+> `development.rb`
+
+    config.middleware.use Rack::Cors do
+      allow do
+        origins 'localhost:9000'
+        resource '*', :headers => :any, :methods => [:get, :post, :options, :delete]
+      end
+    end
+
+Comments:
+
+- No more view components (asset pipeline, layouts, templates, partials, helpers, form builders).
+- Rails' front-end tool set speeds up the development time enough that it is worth keeping in the stack.
+- Use Sprockets to handle the load order.
+- While server side views a lot of flexibility, they consume some server power, a large part of the response time in Rails is spent on building the views.
+- Easier to scale/switch to Scala/Clojure backend if you want.
+- Server-side templating is more mature, client-side is hard to maintain in big projects.
+- I feel like many of the apps that I've worked on don't warrant the level of interactivity and complexity that Angular is suited for in 90% of the views. Most of the app can be implemented quickly in server-side views, then just drop some Angular directives in.
+- If you're implementing a form that makes use of Angular, you'll end up having to make a decision between loading your data from the API or loading data from the DOM after the Rails form builder renders a form for the actual model, both wonky.
+

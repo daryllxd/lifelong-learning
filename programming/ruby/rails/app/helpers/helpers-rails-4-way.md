@@ -11,7 +11,7 @@
 
 `content_for?(name)`: Checks whether the template yields content under a particular name using the `content_for` helper method.
 
-    %body{class:content_for?(:right_col) ? 'one-column' : 'two-column'} 
+    %body{class:content_for?(:right_col) ? 'one-column' : 'two-column'}
       = yield
       = yield :right_col
 
