@@ -2,6 +2,17 @@ New awesomesauce!!
 
     d/Same # Delete until you match "Same"
 
+
+Automatic Marks
+
+    `` # Position before the last jump within the current file
+    `. # Location of last change
+    `^ # Location of last insertion
+    `[ # Start of last change or yank
+    `] # End of last change or yank
+    `< # Start of last visual selection
+    `> # End of last visual selection
+
 Vanilla Vim
 
 Make directories

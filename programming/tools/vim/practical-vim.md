@@ -299,7 +299,7 @@ The Yank Register: When we use the `y{motion}` command, the specified text is co
 
     "% # Name of the current file
     "# # Name of the alternate file
-    ". # Last insertd text
+    ". # Last inserted text
     ": # Last Ex command
     "/ # Last search pattern
 
@@ -315,6 +315,26 @@ Pasting Line-wise Regions
     gp/gP # Same as p/P, but they leave the cursor positioned at the end of the pasted text instead of at the beginning.
 
 # 11: Macros
+
+    @@ # Repeats the macro that was invoked last
+
+*65: Normalize, Strike, Abort.*
+
+- Normalize the cursor position: Use the `n`, `0`, `^`, `gg` etc. to make sure that we are at the same cursor as the previous one.
+- Strike your target with a reasonable motion: Use `w`, `b`, `e` and `ge`, not `h` and `l`.
+- Abort when a motion fails. A `k` at the first line fails (Vim beeps). *If a motion fails while a macro is executing, then Vim aborts the rest of the macro.*
+
+Parallel macro: Record the macro first, then select via visual block, then `:normal @a` to execute everything in parallel.
+
+*68: Append Commands to a Macro.*
+
+Instead of `qa` to record a macro, `qA` to append what you record to it. View the macro's contents by `:reg a`.
+
+[TODO]: 69: Act Upon a Collection of Files.
+
+# V: Patterns
+
+# 12: Matching Patterns and Literals
 
 
 
