@@ -1,4 +1,5 @@
 - Define an app by `ng-app` then inject the modules in it, such as high charts, the router, etc. The module is basically the boostrapper of the app.
+- `ng-bind` to bind to something in the `$scope`, ONE-WAY BINDING (scope to view). `ng-model` is intended to be put in the form elements and has TWO-WAY BINDING.
 - You can only have one app at a time in a page.
 - You separate the app by the controllers. In the controllers you also inject stuff inside.
 - Directives, these are defined like `ng-thingie`, then you can have different behaviors on them, they are kind of like jQuery binding events.
