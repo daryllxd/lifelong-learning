@@ -66,6 +66,33 @@ We can do this:
       });
 
 - `ng-controller`: Its purpose is to provide child scopes for the directives nested inside.
+- `ng-include`: Use this to fetch, compile, and include an external HTML fragment into your current application. (The URL of the template is restricted to the same domain/protocol unless whitelisted or wrapped as a trusted value.
+
+    <div ng-include="'/myTemplateName.html'" ng-controller="MyController" ng-init="name = 'World'">Hello {{ name }} </div>
+
+- `ng-switch`:
+
+    <div ng-switch on="person.name">
+      <p ng-switch-default>And the whinner is</p>
+      <h1 ng-switch-when="Ari">{{ person.name }}</h1>
+    </div>
+
+- `ng-view`: This directive sets the view location in the HTML where the router will manage and place the view elements for different routes.
+- `ng-if`: Use this to completely remove or recreate an element in the DOM based on an expression. If false, the element is removed, otherwise a clone of the element is reinserted into the DOM.
+- `ng-if` differs from `ng-show` and `ng-hide` in that it actually removed and recreates DOM nodes, rather than just showing and hiding them via CSS. When an element is removed from using `ng-if`, its associated scope is destroyed. When it comes back into being, a new scope is created and inherits from its parent scope using prototypal inheritance.
+- `ng-repeat:` *Use this to iterate over a collection and instantiate a new template for each item in the collection. Each item in the collection is given its own template and therefore its own scope. Special properties exposed:*
+
+    $index: Iterator offset of the repeated element (0..length-1)
+    $first, $middle, $last
+    $even, $odd
+
+    <ul ng-controller="PeopleController">
+      <li ng-repeat="person in people" ng-class="{even: !$even, odd: !$odd}">
+        {{person.name}} lives in {{person.city}}
+      </li>
+    </ul>
+
+- `ng-init`: Use this to set up state inside the scope of a directive when that directive is invoked. (This is usually just for educational purposes, better to create a controller and set up state within a model object.)
 
 
 
