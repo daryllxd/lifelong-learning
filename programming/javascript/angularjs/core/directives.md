@@ -93,8 +93,7 @@ We can do this:
     </ul>
 
 - `ng-init`: Use this to set up state inside the scope of a directive when that directive is invoked. (This is usually just for educational purposes, better to create a controller and set up state within a model object.)
-
-
+- `ng-bind`: Nearly the same as `{{}}`, except that you won't see something like `Hello, {{user.name}}` while the data is being loaded. Also, `{{}}` is much slower. `ng-bind` is a directive and will place a watcher on the passed variable.
 
 
 
