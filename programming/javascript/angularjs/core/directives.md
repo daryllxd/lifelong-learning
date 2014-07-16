@@ -94,13 +94,77 @@ We can do this:
 
 - `ng-init`: Use this to set up state inside the scope of a directive when that directive is invoked. (This is usually just for educational purposes, better to create a controller and set up state within a model object.)
 - `ng-bind`: Nearly the same as `{{}}`, except that you won't see something like `Hello, {{user.name}}` while the data is being loaded. Also, `{{}}` is much slower. `ng-bind` is a directive and will place a watcher on the passed variable.
+- `ng-cloak`: Alternative to `ng-bind`, use this on the element on the element containing `{{ }}`:
 
+    %p{"ng-cloak" => ""} {{ greeting }}
 
+- `ng-bind-template`: We can use this if we want to bind multiple expressions to the view.
 
+    %div{"ng-bind-template" => "{{ message }} {{ name }}"}
 
+- `ng-model`: This binds an `input`, `select`, `textarea`, or custom form control to a property on the surrounding scope. It handles and provides validation, sets related CSS classes on the element (`ng-valid`, `ng-invalid`, etc.) and registers the control with its parent form.
+-  `ng-show/ng-hide`: Shows or hides the given HTML element based on the expression provided to the attribute.
+- `ng-change`: Evaluates the given expression when the input changes. Since we deal with input, we use this in conjunction with `ngModel`:
 
+    %div{"ng-controller" => "EquationController"}
+      %input{"type" => "text", "ng-model" => "equation.x", "ng-change" => "change()"}
+      %code{{ equation.output }}
 
+    angular.module('myApp', [])
+      .controller('EquationController', function($scope) {
+        $scope.equation = {};
+        $scope.charge = function() {
+          $scope.equation.output = Number($scope.equation.x) + 2;
 
+- `ng-form`: We use this when we need to nest a form within another form. The normal HTML `form` tag doesn't allow us to nest our forms, but `ng-form` will.
+
+CSS classes set automatically:
+
+    ng-valid, ng-invalid, ng-pristine, ng-dirty
+
+Angular will not submit the form to the server unless the form has an `action` attribute specified. To specify which JS method should be called when a form is submitted, you use one of these directives:
+
+    ng-submit on the form element
+    ng-click on the first input[type=submit])
+
+To prevent double execution of the handler, use `ng-submit` or `ng-click` directives. In the following examples, we want to dynamically generate a form based on a JSON response from the server:
+
+    angular.module('myApp', [])
+      .controller('FormController', function($scope) {
+        $scope.fields = [
+          {placeholder: 'Username', isRequired: true},
+          {placeholder: 'Password', isRequired: true},
+          {placeholder: 'Email (optional)', isRequired: false}
+        ]
+      }
+
+      $scope.submitForm = function() {
+        alert('it works');
+      }
+
+    %form{"name" => "signup_form", "ng-controller" => "FormController", "ng-submit" => "submitForm()", "novalidate" => ""}
+      %div{"ng-repeat" => "field in fields", "ng-form" => "signup_form_input"}
+        %input{"type" => "text", "name" => "dynamic_input", "ng-required" => "field.isRequired", "ng-model" => "field.name", "placeholder" => "{{field.placeholder}}"}
+        %div{"ng-show" => "signup_form_input.dynamic_input.$dirty && signup_form_input.dynamic_input.$invalid"}
+          %span.error{"ng-show" => "signup_form_input.dynamic_input.$error.required"} This field is required.
+      %button{"type" => "submit", "ng-disabled" => "signup_form.$invalid"} Submit all
+
+- `ng-select`: Use this to bind data to an HTML `<select>` element. This directive is usually used in conjunction with `ng-model` and `ng-options`.
+
+    %div{"ng-controller" => "CityController"}
+      %select{ "ng-model" => "city", "ng-options" => "city.name for city in cities"}
+        %option{"value" => ""} Choose City
+      Best City: {{ city.name }}
+
+    angular.module('myApp', [])
+      .controller('CityController', function($scope) {
+        $scope.cities = [
+          {name: 'Seattle'}, {name: 'San Francisco'}, {name: 'Chicago'}...
+
+- `ng-class`: Dynamically sets the class of an element by binding an expression that represents all classes to be added. Duplicate classes will not be added.
+
+    %div{"ng-controller" => "LotteryController"}
+      %div{"ng-class" => "{red: x > 5}" "ng-if" => "x > 5"} You won!
 
 # Build custom directives with AngularJS
 [link](http://www.ng-newsletter.com/posts/directives.html)
