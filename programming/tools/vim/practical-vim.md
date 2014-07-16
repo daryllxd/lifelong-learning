@@ -12,7 +12,7 @@ Compound commands that I didn't know:
     S | cl
     S | ^C
 
-*Tip 3: Take One Step Back, Then Three Forward*
+*Tip 3: Take One Step Back, then Three Forward*
 
     Var foo = "method("+argument1+","+argument2+")";
 
@@ -336,5 +336,102 @@ Instead of `qa` to record a macro, `qA` to append what you record to it. View th
 
 # 12: Matching Patterns and Literals
 
+Vim's regular expression engine is different: certain characters have a special meaning by default in Vim's search field. To disable this, we use `very nomagic` literal switch.
 
+*73: Use the `\v` Pattern Switch for Regex Searches.*
 
+# 13: Search
+
+*79: Meet the Search Command.*
+
+- When we execute a search, Vim scans forward from the current cursor position, stopping on the first match that it finds. If nothing is found before the end of the document, Vim informs us "search hit BOTTOM, continuing at TOP".
+- If we use `?`, the search starts backward.
+- `n` to next match, `N` to previous match.
+- `/<CR>`: Jump forward to next match of same pattern, `?<CR>`: Jump backward to previous match of same pattern.
+- To mute search highlighting, we could run `:set nohlsearch` to disable the feature entirely, but we use `:nohlsearch` to set the search highlighting muted until the next time you execute a new or repeat the search command.
+
+*82: Count the Matches for the Current Pattern.*
+
+    :%s///gn # Counts the number of matches of the pattern. We are calling the substitute command, but the n flag suppresses the usual behavior. Instead of replacing each match with the target, it simply counts the number of matches and echoes the result below the command line.
+
+*83: Offset the Cursor to the End of a Search Match.*
+
+Use this to position your cursor after a search. Ex: `/lang/e<CR>` means after you match `lang`, you move to the end of the word. This means you can then execute stuff such as appending, which means you can use `.` to repeat commands again.
+
+*84: Operate on a Complete Search Match.*
+
+Let's say we want this:
+
+    class XhtmlDocument < XmlDocument; end
+    class XhtmlTag < XmlTag; end
+
+To:
+
+    class XHTMLDocument < XMLDocument; end
+    class XHTMLTag < XMLTag; end
+
+Strokes:
+
+    /\vX(ht)?ml\C<CR> # Find the matcher for the XML thingie
+    gU//e<CR> # We use //e to search from the start to the end of the search match.
+    // # Run the offset again
+
+# 14: Substitution
+
+*87: Meet the Substitute Command.*
+
+The substitute command needs a search pattern, a replacement string, and a range over which it will execute.
+
+    :[range]s[ubstitute]/{pattern}/{string}/[flags]
+
+Flags: `:h :s_flags`.
+
+    g # Act globally, change all matches within a line rather than just changing the first one.
+    c # Confirm or reject each change.
+    n # Suppress the usual substitute behavior, causing the command to report the numbero f occurences, not a change itself.
+    e # Silence error reporting.
+    & # Reuse the same flags from the previous substitute command.
+    % # Means the entire file (vertically, like `:%s/??/?/g`).
+
+Characters for the Replacement String:
+
+    \r # Carriage return
+    \t # Tab character
+    \1 # Insert first submatch
+    \2 # Second submatch
+    \0 # Entire matched pattern
+    &  # Entire matched pattern
+    ~  # Use {string} from the previous invocation of :substitute
+    \={VS} # Evaluate Vimscript expression, use result as replacement string
+
+Prompt options:
+
+    y     # Substitute
+    n     # Skip
+    q     # Quit substituting
+    l     # "last" -- Substitute this match, then quit
+    a     # "all" -- Substitute this and any remaining matches
+    <C-e> # Scroll the screen up
+    <C-y> # Scroll the screen down
+
+To reuse the last search pattern, leave the search field blank.
+
+*91: Replace with the Contents of a Register.*
+
+If the text already exists in the document, we can yank it into a register and use it in the replacement field. Then we can pass the contents of a register either by value or by reference.
+
+*Pass by Value:* We can replace things via this:
+
+    :%s//<C-r>0/g # Paste from register 0. Vim pastes the contents of register 0 in place, which means we can examine it before we execute the substitute command.
+
+*Pass by Reference:*
+
+    :%s//\=@0/g # The \= item tells Vim to evaluate a Vim script expression, We reference the contents of register 0 (the yank register) as @0. This means substitute the last pattern with the contents of the yank register.
+
+We can do this:
+
+    :let @/='Pragmatic Vim'
+    :let @a='Practical Vim'
+    :%x//\=@/g
+
+We set the search pattern, set the contents of the register (same thing as `"ay`), and then replace the thing.
