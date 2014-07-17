@@ -166,6 +166,95 @@ To prevent double execution of the handler, use `ng-submit` or `ng-click` direct
     %div{"ng-controller" => "LotteryController"}
       %div{"ng-class" => "{red: x > 5}" "ng-if" => "x > 5"} You won!
 
+# `ng-book` Directives Explained
+
+*The simplest way to think about a directive is that it is simply a function that we run on a DOM element. The function is expected to provide extra functionality on the element.*
+
+The `ng-click` directive gives an element the ability to listen for the `click` event and run an Angular expression when it receives the event. Directives are what makes the Angular framework so powerful, and we can also create them.
+
+    angular.module('myApp')
+      .directive('myDirective',
+        function($timeout, UserDefinedService) {
+          // directive definition goes here
+        })
+
+- `name` (string): The name of the directive as a string that we'll refer to inside of our views.
+- `factory_function` (function): *The factory function returns an object that defines how the directive behaves.* It is expected to return an object providing options that tell the `$compile` service how the directive should behave when it is invoked in the DOM.
+
+    angular.module('myApp')
+      .directive('myDirective',
+        function($timeout, UserDefinedService) {
+          // directive definition goes here
+          return {
+            // directive definition defined via options which we'll override here
+          }
+        })
+
+- We can also return a function instead of an object to handle this directive definition, but it is best practice to return an object as we've done above.
+- When a function is returned, it is often referred to as the `postLink` function, which allows us to define a function instead of an object. (This limits our ability to customize our directive, and, thus, is good for only simple directives.)
+- When Angular bootstraps our app, it will register the returned object by the name provided (first argument), and look for elements/attributes/comments/class names using that name when looking for these directives.
+
+*To avoid collision with future HTML standards it's best practice to prefix a custom directive with a custom namespace (Angular uses the `ng-` prefix.)*
+
+## Possible options for Angular directives and their return types
+
+    angular.module('myApp', [])
+      .directive('myDirective', function() {
+        return {
+          restrict: String,
+          priority: Number,
+          terminal: Boolean,
+          template: String or Template Function: function(tElement, tAttrs) { ... } ,
+          templateUrl: String,
+          replace: Boolean or String,
+          scope: Boolean or Object,
+          transclude: Boolean,
+          controller: String or function(scope, element, attrs, transclude, otherInjectables) { ... },
+          controllerAs: String,
+          require: String,
+          link: function(scope, iElement, iAttrs) { ... },
+          compile: return an Object or
+            function(tElement, tAttrs, transclude) {
+              return {
+                pre: function(scope, iElement, iAttrs, controller) { ... },
+                post: function(scope, iElement, iAttrs, controller) { ... },
+              }
+              // or
+                return function postLink(...) { ... }
+
+*Restrict (string).* `EACM` (element, attribute, class, comment). Suggested to use attributes because they work across all browsers, including older versions of Internet Explorer.
+
+*Priority (number).* Most directives omit this option, in which case it defaults to 0. `ngRepeat` sets this at 1000 so it always gets invoked before other directives on the same element. Higher priority = invoked first, if same priority, then the first directive invoked on the element is invoked first. *`ngRepeat` has the highest priority of any built-in directive.*
+
+*Terminal (boolean).* This is only relevant for directives on the same HTML element. This tells Angular to skip all directives on the element that comes after it (lower priority). If there is 1, 10, and 100, and terminal on 10, then 1 will not be applied.
+
+*Template (string|function).* Optional, if provided, it must be set to either a string of HTML or a function that takes two arguments, `tElement` and `tAttrs`, and returns a string value representing the element.
+
+      template: '\
+        <div> <-- single root element ->\
+          <a href="http://google.com">Click me</a>\
+          <h1>When using two elements, wrap them in a parent element</h1>\
+        </div>\
+
+- Since we have two nodes, wrap it in a parent element. Also, we have backslashes at the end of each line, so that Angular can parse multi-line strings correctly. Production code would rather that we use `templateUrl` because multi-line strings are a nightmare to look at and maintain.
+
+*`templateUrl` (string|function).* Optional, must be either a path to an HTML file, or a function that takes two arguments, `tElement` and `tAttrs`, the function must return the path to an HTML file as a string. These are passed through the built-in security layer that Angular provides (`$getTrustedResourceUrl`).
+
+The HTML file will be requested on demand via Ajax when the directive is invoked. (When developing locally, we should run a server in the background to serve up the local HTML templates from the file system. Failing to do so will raise a CORS error.
+
+Template loading is asynchronous (compilation and linking are suspended until the template is loaded). It is possible to cache one or more HTML templates prior to deploying an application. Caching is a better option is most cases because Angular doesn't need to make an AJAX request then.
+
+*Replace (boolean).* If provided, it must be set to `true`, since it is set to `false` by default. Normally a directive's template is rendered as a child of the div:
+
+    <div some-directive>Stuff</div>
+
+If we set replace as true:
+
+    replace: true
+    template: '<div>Stuff</div>'
+
+    <div>Stuff</div>
+
 # Build custom directives with AngularJS
 [link](http://www.ng-newsletter.com/posts/directives.html)
 
