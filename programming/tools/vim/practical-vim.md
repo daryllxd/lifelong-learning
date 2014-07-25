@@ -146,7 +146,7 @@ For a jagged block such as this, what you do is `<C-v>2j$A;<Esc>`.
 
 When we press `:`, Vim switches into Command-Line mode. This mode has some resemblance to the command line that we use in the shell.
 
-**On Vim Etymology.** `ed` was the original Unix text editor. In the context of "typists actually type faster than computers", it was vital that `ed` provide a terse syntax (`p` prints the current line, `%p` prints the current file). `ex` added a feature that turned the terminal screen into an interactive window that showed the contents of a file (real time). *The screen editing mode was sctivated by entering `:visual`, or `:vi` for short, and that's where the name `vi` came from.* Vim stands for vi improved.
+**On Vim Etymology.** `ed` was the original Unix text editor. In the context of "typists actually type faster than computers", it was vital that `ed` provide a terse syntax (`p` prints the current line, `%p` prints the current file). `ex` added a feature that turned the terminal screen into an interactive window that showed the contents of a file (real time). *The screen editing mode was activated by entering `:visual`, or `:vi` for short, and that's where the name `vi` came from.* Vim stands for Vi Improved.
 
     C-w # Delete to start of previous word
     C-u # Delete to strat of line

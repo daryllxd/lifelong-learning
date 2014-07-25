@@ -255,6 +255,43 @@ If we set replace as true:
 
     <div>Stuff</div>
 
+## Directive Scope
+
+The `$rootScope` object is created when we declare `ng-app` in the DOM:
+
+Every directive invoked within the DOM will:
+
+- Directly use the same object.
+- Create a new object that inherits from the object.
+- Create an object that is isolated from the object.
+
+*Just because a directive is nested within another directive does not necessarily mean its scope has been changed.* By default, child directives are given access to the exact same scope as their parent DOM noes.
+
+*Scope (boolean|object).* Scope is optional. It can be set to true or to an object, {}. By default, it is set to false.
+
+When set to true, a new scope object is created that prototypically inherits from its parent scope. If multiple directives on an element provide an isolate scope, only one new scope is applied. Root elements within the template of a directive always gets a new scope; thus, for those new objects, scope is set to true by default.
+
+The built-in `ng-controller` directive exists for the sole purpose of creating a new child scope that prototypically inherits from the surrounding scope. It creates a new scope that inherits from the surrounding scope.
+
+*Isolate scope:* This is the most confusing, but it is also the most powerful. Isolate scope is based on the ideology in OOP. Its use case is for reusable widgets that can be shared and used in unexpected contexts without polluting the scope around them or having their internal scope corrupted inadvertently.
+
+To do this, we'll need to set the scope property of the directive to an empty object ({}).
+
+    angular.module('myApp', [])
+      .controller('MainController', function($scope) {})
+      .directive('myDirective', function() {
+        return {
+          restrict: 'A',
+          scope: {},
+          template: '<div>Thingie</div>
+
+*Transclude.* Transclusion allows us to pass and entire template, including its scope, to a directive. Doing so gives us the opportunity to pass in arbitrary content and and
+
+
+
+
+
+
 # Build custom directives with AngularJS
 [link](http://www.ng-newsletter.com/posts/directives.html)
 
