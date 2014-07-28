@@ -306,7 +306,7 @@ Biggest cause of death for a startup: Dying because they didn't make what people
 - _Be flexible._ Know how much money to raise for survival, for getting office space/hiring people from school. Try to make a small round initially and expand when needed.
 - _Be independent._ Investors like it when you're ramen profitable, because it shows you've thought about making money, instead of working on amusing and technical problems.
 - _Don't take rejection personally._ VCs reject practically everyone lol. When you get a rejection, use the data that's in it, no waht's not.
-- _Be able to downshift into consulting (if appropriate).
+- _Be able to downshift into consulting (if appropriate)._
 - _Avoid inexperienced investors._
 - _Know where you stand._ Investors are indecisive. They tend to resist committing except to the extent you push them to. It's in their interest to collect the maximum amount of info while making the minimum amount of decisions.
 
