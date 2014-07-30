@@ -41,3 +41,18 @@ Anyone who's ever had anything on the front page of Hacker News will likely tell
 Write for businesses with real money. There are all sorts of reasons for writing and not everything you write needs to have the goal of converting people to paying customers. But writing without some specific goal can also be a waste of your time.
 
 *If Hacker News is part of your content marketing game plan, then you should be intentional about it. Write and focus on providing value for people who actually have money to spend.*
+
+# How Retargeting Gets our SaaS $650 for $
+[link](https://baremetrics.io/blog/saas-retargeting)
+
+Retargeting is a type of online advertising that resurfaces your brand/product around the web after a user has visited your site. After you've visited Baremetrics, you'll start seeing Baremetrics ads on other sites around the web, such as Facebook.
+
+The idea is that once you've expressed some level of interest in Baremetrics, you're much more likely to become a paying customer.
+
+Most people don't really notice or pay much attention to ads. To make people take notice and take action, you need to make it clear it's worth their while. *You need a strong value proposition.* If the value you're bringing to the table isn't immediately obvious, you'll need to do a lot more work and you're at risk of blowing a large amount of cash if you're not careful.
+
+Better to sell value and not the product itself.
+
+Retargeting has worked for Baremetrics because it is immediately recognized as a much needed solution to a big problem. Stripe offers little on the metrics side, so pretty much and SaaS Stripe user has a need for Baremetrics. They've also though about adding metrics, and have failed. *They are aware taht the problem Baremetrics is solvign is a major pain point. They've felt the pain and the solution to that pain is immediately obvious.*
+
+Someone finds their way to the Baremetrics site, reads about the product, loves the idea, but gets distracted or isn't convinced the premium price is worth it. But because they are constantly reminded of that pain, it takes relatively little work to get them to convert. They just need to be reminded of their pain. *Their pain is blatant and Baremetrics is a no-hassle fix.*
