@@ -28,3 +28,24 @@
 - Working hard has nothing to do with your body. It is your mind and your spirit which has to grow stronger.
 - If you were the person that you want to be, then what would that person do?
 
+# 5 Surprising Tricks to Increase Your Motivation Immediately
+[link](http://open.bufferapp.com/increase-your-motivation-tips/)
+
+1. *Strike a high-power pose for a jolt of confidence.* High-power: Having your body open. Chest out, arms spread, no slouch. Holding a high-power pose for as little as two minutes increases your testosterone levels, which are associated with confidence, and decreases your cortisol levels, which are associated with stress. Fake it till you make it!
+
+2. *Tell yourself that you're going to have a fresh start.* January 1 is a new year, but it is an arbitrary point in the lives of most people. January 1 may be a good date to set new commitments, but it's not much better than July 28. *If you just keep in mind that you're going to have a fresh start, whatever the motivation, then you're going to have a burst of energy.* These "intertemporal markers" encourage us in two ways: by making us disconnect from past failures, and by promoting a big-picture view of life.
+
+Believing either makes us more motivated to sequester away our failures and get things done. The idea is that we think of the past as the past, that tomorrow is a totally new day. So think of a recent event, be it a promotion, a breakup, or some other special occasion, and contrive a fresh start. You'll find it more believable than you think.
+
+3. *Grab some chocolate--or some other dopamine-releasing reward.* People who work hard, or are "go-getters", have higher levels of dopamine, while "slackers" have lower levels of dopamine. Chocolate is as effective as certain pharmaceuticals in inducing strong dopamine responses.
+
+Chocolate increases serotonin (promotes calm) and phenylethylamine (promotes stimulation). It triggers a release of dopamine (elevates your heart rate and increases motivation). It results in a mild antidepressant, because your brain responds to the stimulants by promoting blissful emotions.
+
+4. *Write a contract--and donate the proceeds to charity if you lose.* Place a bet on something and bet your friend that you'll do it, else money is donated (`stickk.com`).
+
+People tend toward hyperbolic discounting (overvaluing the short run relative to the long run). We know what's good right now isn't necessarily good for the long run. Commitment devices change this up so that choosing what feels good in the short run gets more costly.
+
+Also, there is a concrete goal.
+
+5. *See some green.* Sales are colored red because people react faster and more forcefully when they see the color. Green = for motivation and energy and creativity.
+
