@@ -226,3 +226,14 @@ To mentor and advise someone to be a leader means:
 - Coaching, based on listening to what people want from their life, career, and current job. Paying attention to people's feelings and needs, and showing concern.
 - Listening to advice and expertise; being collaborative and making decisions by consensus when appropriate.
 - Celebrating wins, laughing, knowing that having a good time together is not a waste of time but a way to build emotional capital.
+
+# 7 Ways to Sharpen Your Focus
+[link](http://www.huffingtonpost.com/dan-goleman/7-ways-to-sharpen-your-fo_b_4282640.html)
+
+1. Manage your settings instead of letting them manage your attention. Turn off those popups that tell you you've just gotten an email and ringtones.
+2. Mindful second thoughts help you tear away from those distractions. When you find yourself checking your email when you should be working on something else, just telling yourself "I'm distracted now" activates a brain circuit that makes it easier to drop what's irrelevant and get back to focusing on your work.
+3. Build up the mind's muscle for focus through a daily session of meditating on your breath. This is the mental equivalent of working out in the gym.
+4. Will power wanes with stress. Managing your stress better by reducing demands or deploying a relaxation method you can practice as needed keeps your focus high.
+5. Focus tanks when we are sleepy. No matter how many hours sleep you manage to get, the real measure of whether you are sleeping enough is whether you feel like dozing off during the day. A short mid-day nap reboots your brain.
+6. Eat high protein, low carb meals at breakfast and lunch. Carbs convert to sugar quickly, giving you a burst of energy and then a crash. Proteins becomes the brain's fuel more slowly, giving you a teady energy level that helps sustain focus.
+7. Sip your caffeine slowly. A steady low dose helps your focus go on and on. Too much at one gives you a high that ends in a focus crash.
