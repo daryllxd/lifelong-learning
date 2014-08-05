@@ -21,4 +21,3 @@
 
 Once the build task is complete you should see a new folder named dist. This contains all of the files that make up your web application. These are the files that should be deployed to the web server.
 
-
