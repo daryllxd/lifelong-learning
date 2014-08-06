@@ -1,3 +1,62 @@
+# A Practical Guide to AngularJS Directives
+[link](http://www.sitepoint.com/practical-guide-angularjs-directives/)
+
+A directive is something that introduces new syntax. Directives are markers on a DOM element which attach a special behavior to it. Ex: to teach HTML to create/display a date picker widget. The directive will somehow create an element that behaves like a date picker.
+
+To make the directives compliant, you can add `data-` or `x-` at the start.
+
+## The `link` Function and Scope
+
+The template produced by a directive is meaningless unless it's compiled against the right scope. By default, a directive does not get a new child scope (it gets the parent's scope). *To use the scope, we can make use of a function called `link`.*
+
+    <body ng-controller="MainCtrl">
+      <input type="text" ng-model="color" placeholder="Enter a color" />
+      <hello-world/>
+    </body>
+
+    app.directive('helloWorld', function() {
+      return {
+        restrict: 'AE',
+        replace: true,
+        template: '<p style="background-color:{{color}}">Hello World',
+
+        link: function(scope, elem, attrs) {
+          elem.bind('click', function() {
+            elem.css('background-color', 'white');
+            scope.$apply(function() {
+              scope.color = "white";
+            });
+          });
+
+          elem.bind('mouseover', function() {
+            elem.css('cursor', 'pointer');
+          });
+        }
+      };
+    });
+
+`link` takes three arguments:
+
+- `scope`: The scope passed to the directive (in this case, it's the same as the parent controller scope).
+- `elem`: Angular has a small part of JQuery (JQLite). This element is the wrapped element on which the directive is applied. If you have included JQuery in the HTML before AngularJS is included, this becomes JQuery wrapped instead of JQLite.
+- `attrs`: An object representing the HTML attributes attached to the element (you can access `<hello-world some-attribute>` via `attrs.someAttribute`).
+
+
+*The `link` function is mainly used for attaching event listeners to DOM elements, watching model properties for changes, and updating the DOM (in the previous snippet, we attached two listeners, `click` and `mouseover`.*
+
+`compile`: The compile function is used to perform DOM transformation before the `link` function runs. Just note that the `compile` function does not have access to the `scope`, and must return a `link` function.
+
+Most of the time, you will be working with the `link` function only, anyway. This is because most of the directives are concerned with registering event listeners, watchers, updating the DOM, etc., which are done inside the `link` function.
+
+## How Directives are Compiled
+
+When the application bootstraps, Angular starts parsing the DOM using the `$compile` service. This searches for directives in the markup and matches them against registered directives. Once all directives have been identified, Angular executes their `compile` functions. This returns a `link` function which is added to the list of `link` functions to be executed later. This is called the compile phase. After the compile phase is over, the linking phase, where the collected `link` functions are executed one by one, starts. This is where the templates produced by the directives are evaluated against correct scope and are turned into live DOM which reacts to events.
+
+# A Practical Guide to Angular JS Directives (Part Two)
+[link](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/)
+
+[TODO]: THIS!
+
 # `ng-book` Introduction to Directives
 
 Directives are Angular's method of creating new HTML elements that have their own customer functionality. *Directives can be combined with other directives and attributes (composition).*
