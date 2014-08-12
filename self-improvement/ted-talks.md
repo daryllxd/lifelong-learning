@@ -1,18 +1,47 @@
-## Larry Page: Where's Google going next?
+# Brene Brown: Listening to Shame
+[link](https://www.youtube.com/watch?v=psN1DORYYV0)
+
+The first vulnerability is not weakness. How many of you think honestly, when you're thinking about doing something vulnerable or saying something vulnerable, think of vulnerability and weakness synonymously? Majority of people do.
+
+Vulnerability is not weakness. *I define vulnerability as emotional risk, exposure, uncertainty. It fuels our daily lives. I've come to the belief that vulnerability is our most accurate measurement of courage, and to be vulnerable, to let ourselves be seen, to be honest.*
+
+I think that vulnerability is the birthplace of innovation, creativity, and change. To create is to make something that has never existed before. There's nothing more vulnerable than that. Adaptability to change is all about vulnerability.
+
+You've got to dance with the one who brung ya. And I did not learn about vulnerability and courage and creativity and innovation from studying vulnerability. I learned these things from studying shame. And so I want to walk you in to shame.
+
+You know what the big secret about TED is? This is like the failure conference. No, it is. You know why this place is amazing? Because very few people here are afraid to fail. And no one who gets on the stage, so far that I've seen, has not failed. I've failed miserably, many times. I don't think the world understands that because of shame.
+
+> Man in the Arena: "It is not the critic who counts, it is not the man who sits and points out how the doer of deeds could have done things better and how he falls and stumbles. The credit goes to the man in the arena whose face is marred with dust and blood and sweat. But when he's in the arena, at best he wins, at worst he loses, but when he fails, when he does, he does so daring greatly."
+
+"I'm going to do this." When we look up at the critic that we see pointing and laughing, 99% of the time, it is us. Shame drives two big tapes--"never good enough", and "who do you think you are?" The thing to understand about shame is it's not guilt. Shame is a focus on self, guilt is a focus on behavior. Shame is "I am bad." Guild is "I did something bad."
+
+Guilt: "I'm sorry, I made a mistake." Shame: "I'm sorry, I am a mistake."
+
+*Shame is highly correlated with addiction, depression, violence, aggression, bullying, suicide, eating disorders. Guilt is inversely correlated to those things.*
+
+Shame is organized by gender. For women, shame is do it all, do it perfectly, and never let them see you sweat. Shame for women is this web of unobtainable, conflicting, competing expectations about who we're supposed to be.
+
+For men, shame is to be perceived as weak. You show me a woman who can actually sit with a man in real vulnerability and fear, and I'll show you a woman who's done incredible work. You show me a man who can sit with a woman who's just had it, and his first response is not "I unloaded the dishwasher", but he really listens, I'll show you a guy who's done a lot of work.
+
+What do women need to do to conform to female norms? "Nice, thin and modest and use all available resources for appearance." Men: "always show emotional control, work is first, pursue status and violence.
+
+If we're going to find our way back to each other, we have to understand and know empathy, because empathy's the antidote to shame. If you put shame in a Petri dish, it needs three things to grow exponentially: secrecy, silence and judgment. If you put the same amount of shame in a Petri dish and douse it with empathy, it can't survive. *The two most powerful words when we're in struggle: me too.*
+
+We want you to go in. We want to be with you and across from you. And we just want, for ourselves and the people we care about and the people we work with, to dare greatly.
+
+# Larry Page: Where's Google going next?
 [link][https://www.youtube.com/watch?v=mArrNRWQEso]
 
 We're still in the early age of search. We're still not done. Your computer doesn't know where you are, what you know. We want computing to understand you.
 
-DeepMind, voice is very important. It can play video games and learn them on their own. Imagine if this intelligence is thrown onto your schedule. 
+DeepMind, voice is very important. It can play video games and learn them on their own. Imagine if this intelligence is thrown onto your schedule.
 
-
-
-## Sherwin Nuland: How electroshock therapy changed me
+# Sherwin Nuland: How electroshock therapy changed me
 [Link](https://www.youtube.com/watch?v=oEZrAGdZ1i8)
 
-Ever since that man had a notion that their college could be strange or depressed or schizophrenia, he was certain that these diseases came from evil spirits. 
+Ever since that man had a notion that their college could be strange or depressed or schizophrenia, he was certain that these diseases came from evil spirits.
 
-Hippocrates: Tried to look for herbs that would literally shake the spirits out. Upto the Renaissance, the prescriptiosn were of herbs that make people convulse.
+Hippocrates: Tried to look for herbs that would literally shake the spirits out. Up to the Renaissance, the prescriptions were of herbs that make people convulse.
 
 In the 17th-18th century they were searching for medications that were not camphor. People then thought in terms of electricity for convulsions.
 
@@ -20,7 +49,7 @@ In the 17th-18th century they were searching for medications that were not camph
 
 Divorce.
 
-## Elliot Krane: The mystery of chronic pain
+# Elliot Krane: The mystery of chronic pain
 [Link](http://www.ted.com/talks/elliot_krane_the_mystery_of_chronic_pain.html)
 
 Pain = symptom of a tumor or an infection or an inflammation or an operation.
@@ -35,11 +64,9 @@ Wrong wiring? The brain's glial cells spill out and become activated. In this ca
 
 Well, what do we do about that? What can we do in a case like Chandler's? We treat these patients in a rather crude fashion at this point in time. We treat them with symptom-modifying drugs -- painkillers -- which are, frankly, not very effective for this kind of pain. We take nerves that are noisy and active that should be quiet, and we put them to sleep with local anesthetics. And most importantly, what we do is we use a rigorous, and often uncomfortable, process of physical therapy and occupational therapy to retrain the nerves in the nervous system to respond normally to the activities and sensory experiences that are part of everyday life. And we support all of that with an intensive psychotherapy program to address the despondency, despair and depression that always accompanies severe, chronic pain.
 
-But the future is actually even brighter. The future holds the promise that new drugs will be developed that are not symptom-modifying drugs that simply mask the problem, as we have now, but that will be disease-modifying drugs that will actually go right to the root of the problem and attack those glial cells, or those pernicious proteins that the glial cells elaborate, that spill over and cause this central nervous system wind-up, or plasticity, that so is capable of distorting and amplifying the sensory experience that we call pain. So I have hope
+But the future is actually even brighter. The future holds the promise that new drugs will be developed that are not symptom-modifying drugs that simply mask the problem, as we have now, but that will be disease-modifying drugs that will actually go right to the root of the problem and attack those glial cells, or those pernicious proteins that the glial cells elaborate, that spill over and cause this central nervous system wind-up, or plasticity, that so is capable of distorting and amplifying the sensory experience that we call pain. So I have hope that in the future, the prophetic words of George Carlin will be realized, who said, "My philosophy: No pain, no pain."
 
-that in the future, the prophetic words of George Carlin will be realized, who said, "My philosophy: No pain, no pain."
-
-## Peter Singer: The why and how of effective altruism
+# Peter Singer: The why and how of effective altruism
 [Link](https://www.youtube.com/watch?v=Diuv3XZQXyc)
 
 Does it really matter that you don't have to walk around these children as you walk down your street?
@@ -48,13 +75,13 @@ Effective altruism: Combines both the heart and the head. Heart = you feel the c
 
 I think reason isn't just a tool to get whatever you want, but it also puts us into perspective.
 
-#### Four questions people ask:
+## Four questions people ask:
 1. What difference can I make? He calculated that his earnings can help 8K people and still live a comfortable life.
-2. Am I expected to abandom my career? 80,000 hours (expected hours in a career), he suggests go to Banking/Finance so you can give a lot of money for aid workers.
+2. Am I expected to abandon my career? 80,000 hours (expected hours in a career), he suggests go to Banking/Finance so you can give a lot of money for aid workers.
 3. Isn't charity bureaucratic and ineffective? Some charities are 1000s more helpful. It costs $40K to train a guard dog. It costs the same amount to cure 400-2000 people of blindness. So you think of the cost-effectiveness given scarcity.
 4. Isn't it a burden to give up too much? Sisyphus problem. Isn't this like consumer goods, though? You spend shit on stuff but you don't really like whatever?
 
-## [Jonathan Haidt: The moral roots of liberals and conservatives](http://www.ted.com/talks/jonathan_haidt_on_the_moral_mind.html)
+# [Jonathan Haidt: The moral roots of liberals and conservatives](http://www.ted.com/talks/jonathan_haidt_on_the_moral_mind.html)
 
 It really is a fact that liberals are much higher than conservatives on a major personality trait called openness to experience. People who are high in openness to experience just crave novelty, variety, diversity, new ideas, travel. People low on it like things that are familiar, that are safe and dependable.
 
@@ -64,12 +91,12 @@ This trait also tells us a lot about the kinds of groups people join. So here's 
 
 OK. This is a bit of a problem. Because if our goal is to understand the world, to seek a deeper understanding of the world, our general lack of moral diversity here is going to make it harder. Because when people all share values, when people all share morals, they become a team, and once you engage the psychology of teams, it shuts down open-minded thinking. When the liberal team loses, as it did in 2004, and as it almost did in 2000, we comfort ourselves. (Laughter) We try to explain why half of America voted for the other team. We think they must be blinded by religion, or by simple stupidity.
 
-The worst idea in all of psychology is the idea that the mind is a blank slate at birth. Developmental psychology has shown that kids come into the world already knowing so much about the physical and social worlds, and programmed to make it really easy for them to learn certain things and hard to learn others. Nature provides a first draft, which experience then revises. Built-in doesn't mean unmalleable; it means organized in advance of experience." OK, so what's on the first draft of the moral mind? 
+The worst idea in all of psychology is the idea that the mind is a blank slate at birth. Developmental psychology has shown that kids come into the world already knowing so much about the physical and social worlds, and programmed to make it really easy for them to learn certain things and hard to learn others. Nature provides a first draft, which experience then revises. Built-in doesn't mean unmalleable; it means organized in advance of experience." OK, so what's on the first draft of the moral mind?
 
 What are the sorts of things that people talk about across disciplines? That you find across cultures and even across species? We found five -- five best matches, which we call the five foundations of morality.
 
 - Harm/care. We have neural/hormonal programming that makes us really bond with others, care for others, feel compassion for others, especially the weak and vulnerable.
-- Fairness/reciprocity. There's actually ambiguous evidence as to whether you find reciprocity in other animals, but the evidence for people could not be clearer. 
+- Fairness/reciprocity. There's actually ambiguous evidence as to whether you find reciprocity in other animals, but the evidence for people could not be clearer.
 - In-group/loyalty. It's only among humans that you find very large groups of people who are able to cooperate, join together into groups, but in this case, groups that are united to fight other groups.
 - Authority/respect.But authority in humans is not so closely based on power and brutality, as it is in other primates. It's based on more voluntary deference, and even elements of love, at times.
 - Purity/sanctity. Political left: Food is moralized. (Think grain-fed stuff.)
@@ -80,7 +107,7 @@ Research says that it's not enough to just appeal to people's good motives. It r
 
 How did people cooperated enough to form Babylon, Rome, and Tenochtitlan? The answer, I think, is that they used every tool in the toolbox. It took all of our moral psychology to create these cooperative groups. Yes, you do need to be concerned about harm, you do need a psychology of justice. But it really helps to organize a group if you can have sub-groups, and if those sub-groups have some internal structure, and if you have some ideology that tells people to suppress their carnality, to pursue higher, nobler ends. And now we get to the crux of the disagreement between liberals and conservatives. Because liberals reject three of these foundations. They say "No, let's celebrate diversity, not common in-group membership." They say, "Let's question authority." And they say, "Keep your laws off my body."
 
-Liberals have very noble motives for doing this. Traditional authority, traditional morality can be quite repressive, and restrictive to those at the bottom, to women, to people that don't fit in. So liberals speak for the weak and oppressed. They want change and justice, even at the risk of chaos. This guy's shirt says, "Stop bitching, start a revolution." If you're high in openness to experience, revolution is good, it's change, it's fun. 
+Liberals have very noble motives for doing this. Traditional authority, traditional morality can be quite repressive, and restrictive to those at the bottom, to women, to people that don't fit in. So liberals speak for the weak and oppressed. They want change and justice, even at the risk of chaos. This guy's shirt says, "Stop bitching, start a revolution." If you're high in openness to experience, revolution is good, it's change, it's fun.
 
 Conservatives, on the other hand, speak for institutions and traditions. They want order, even at some cost to those at the bottom. The great conservative insight is that order is really hard to achieve. It's really precious, and it's really easy to lose. So as Edmund Burke said, "The restraints on men, as well as their liberties, are to be reckoned among their rights."
 
@@ -88,13 +115,13 @@ You can't just go charging in, saying, "You're wrong, and I'm right." Because, a
 
 So I think the point -- the point of my talk, and I think the point of TED -- is that this is a group that is passionately engaged in the pursuit of changing the world for the better. People here are passionately engaged in trying to make the world a better place. But there is also a passionate commitment to the truth. And so I think that the answer is to use that passionate commitment to the truth to try to turn it into a better future for us all. Thank you.
 
-## [Sam Harris: Science can answer moral questions](http://www.ted.com/talks/sam_harris_science_can_show_what_s_right.html)
+# [Sam Harris: Science can answer moral questions](http://www.ted.com/talks/sam_harris_science_can_show_what_s_right.html)
 
 It's generally understood that questions of morality -- questions of good and evil and right and wrong -- are questions about which science officially has no opinion. It's thought that science can help us get what we value, but it can never tell us what we ought to value.
 
 This illusion is dangerous because values are a certain kind of fact. They are facts about the well-being of conscious creatures.
 
-We don't feel compassion towrds rocks because we don't think rocks can suffer. We are also more concerned about primates than insects because they're exposed to a greater range of potential happiness and suffering. 
+We don't feel compassion towrds rocks because we don't think rocks can suffer. We are also more concerned about primates than insects because they're exposed to a greater range of potential happiness and suffering.
 
 All versions of human moralities are concerned about conscious experiences. Even if you believe in the aterlife, you are still concerned about consciousness and its changes.
 
@@ -112,7 +139,7 @@ Well-being can be redefined in the same way that physical health can be redefine
 
 > Just let that fact detonate in your brain for a minute: Your daughter gets raped, and what you want to do is kill her. What are the chances that represents a peak of human flourishing?
 
-> Now, to say this is not to say that we have got the perfect solution in our own society. For instance, this is what it's like to go to a newsstand almost anywhere in the civilized world. Now, granted, for many men it may require a degree in philosophy to see something wrong with these images. (Laughter) But if we are in a reflective mood, we can ask, "Is this the perfect expression of psychological balance with respect to variables like youth and beauty and women's bodies?" I mean, is this the optimal environment in which to raise our children? Probably not. OK, so perhaps there's some place on the spectrum between these two extremes that represents a place of better balance. 
+> Now, to say this is not to say that we have got the perfect solution in our own society. For instance, this is what it's like to go to a newsstand almost anywhere in the civilized world. Now, granted, for many men it may require a degree in philosophy to see something wrong with these images. (Laughter) But if we are in a reflective mood, we can ask, "Is this the perfect expression of psychological balance with respect to variables like youth and beauty and women's bodies?" I mean, is this the optimal environment in which to raise our children? Probably not. OK, so perhaps there's some place on the spectrum between these two extremes that represents a place of better balance.
 
 There are ways to not be on a moral peak. The ironic thing is that people who generally agree are religious demagogues of one form or another.
 
@@ -122,7 +149,7 @@ Whenever we are talking about facts certain opinions must be excluded. That is w
 
 So, this, I think, is what the world needs now. It needs people like ourselves to admit that there are right and wrong answers to questions of human flourishing, and morality relates to that domain of facts. It is possible for individuals, and even for whole cultures, to care about the wrong things, which is to say that it's possible for them to have beliefs and desires that reliably lead to needless human suffering. Just admitting this will transform our discourse about morality. We live in a world in which the boundaries between nations mean less and less, and they will one day mean nothing.
 
-## [Dan Ariely: What makes us feel good about our work?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work.html)
+# [Dan Ariely: What makes us feel good about our work?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work.html)
 
 Naive intuition: People care about the money, and when we give them money, we can direct them to work another way. So we give bonuses to bankers and pay in all kinds of ways.
 
@@ -138,7 +165,7 @@ Positive motivation with IKEA: He likes the stuff he built because he built it. 
 
 This is why we would not sell our kids but we would also not buy other people's kids. We think our kids are really valuable because of our time and connection.
 
-### [Mihaly Csikszentmihalyi: Flow, the secret to happiness](http://www.youtube.com/watch?v=fXIeFJCqsPs)
+# [Mihaly Csikszentmihalyi: Flow, the secret to happiness](http://www.youtube.com/watch?v=fXIeFJCqsPs)
 
 He group up in Europe/WW2 and he realized that just few grown-ups were able to withstand the tragedies of the war. He studied philosophy, art, religion to figure out the answer, and he encountered psych.
 
@@ -173,7 +200,7 @@ Relaxation is fine, but boredom is aversive. No challenge and it sucks. Most peo
 
 So, how do you put more in the flow channel?
 
-### [Zapatos nuevos: Pachi Tamer at TEDxRosario 2013](http://www.youtube.com/watch?v=13Dy45RHFlk)
+# [Zapatos nuevos: Pachi Tamer at TEDxRosario 2013](http://www.youtube.com/watch?v=13Dy45RHFlk)
 
 People have a lot of prejudices. As soon as they saw me approaching their car, they were closing the window or they looked away pretending that nobody was there, they were feeling uncomfortable with themselves for a while.
 
@@ -183,7 +210,7 @@ I foun
 
 
 
-### [Elon Musk: Mahalo Mentor Interview](http://www.youtube.com/watch?v=IgKWPdJWuBQ)
+# [Elon Musk: Mahalo Mentor Interview](http://www.youtube.com/watch?v=IgKWPdJWuBQ)
 
 I started Zip2 instead of going to graduate school in Stanford. I've had a long standing interest in sustainable tranport/energy. I decided to defer graduate studies and try starting an Internet company. I applied to Netscape and they didn't reply, so I just made my own company. Zip2 made software for news companies and we brought news companies to the web. I was more of an engineer that was asked to build things.
 
@@ -191,7 +218,7 @@ There's definitely lots of things that should be fixed about Paypal, but since I
 
 The goal for SpaceX is to develop the technologies necessary to make life multiplanetary. We're going to try to advance space exploration as much as possible. The key invention is a fully and rapidly reusable orbit-class rocket. If we make things fully reusable, we need to take into account the additional weight to make things more robust, the things you need to return to the launchpad, etc. I think we have a good shot of achieving that, in fact the cost of fuel is very small compared to the cost of the rocket itself. It has to be fully and rapidly reusable, like a plane. The cost of launch would drop by more than 100.
 
-### [Elon Musk: The Mind Behind Tesla, SpaceX, SolarCity...](http://www.youtube.com/watch?v=IgKWPdJWuBQ)
+# [Elon Musk: The Mind Behind Tesla, SpaceX, SolarCity...](http://www.youtube.com/watch?v=IgKWPdJWuBQ)
 
 I think we have to solve transport and sustainable energy. We need to find some sustainable means. A power plant is about 60% efficient in producing energy, compared to an internal combustion engine (20%), because the heat can be recycled in a power plant.
 
@@ -205,7 +232,7 @@ The goal of SpaceX is to advance Rocket Technology, we want a rapid and reusable
 
 Elon: I work a lot. Chris: He is able to bring technology, design and business in a way that few people done, and you're confident enough to bet on this thing. Elon: I think a good framework for thinking is physics. Boil things down to the fundamental truths, not by reasoning through analogy. We need this, but when you need something new, we need to apply the physics approach. Physics has a way of describing things that are counter-intuitive. I also think it's about listening to negative feedback.
 
-### [Andrew Stanton: The clues to a great story](http://www.youtube.com/watch?v=KxDwieKpawg)
+# [Andrew Stanton: The clues to a great story](http://www.youtube.com/watch?v=KxDwieKpawg)
 
 Storytelling is joke telling. It's knowing your pucnh line and your ending, knowing that everything you're saying is leading to a singular goal, and ideally confirming some truth that deepens our understandings of who we are as human beings.
 
@@ -245,9 +272,9 @@ Wonder: The magic ingredient. Wonder is honest, it's completely innocent, it can
 
 The first lesson I learned: Use what you know. Draw from it. It doesn't mean plot or fact. It means capturing a truth from your experiencing it, expressing values you personally feel deep down in your core.
 
-### [Let's Talk About Death: Stephen Cave at TEDxBratislava](http://www.youtube.com/watch?v=B0E_VNX1-Yk)
+# [Let's Talk About Death: Stephen Cave at TEDxBratislava](http://www.youtube.com/watch?v=B0E_VNX1-Yk)
 
-At some point, all children become aware of death. 
+At some point, all children become aware of death.
 
 In the evolution of our species, some of us became sophisticated enough to realize that we're going to die. We have to live in the knowledge is that one day, all of our accomplishments will be gone.
 
@@ -270,11 +297,11 @@ We should be skeptical about the truth of any of these stories. We should think 
 
 Epicurus argued that the fear of death is natural, but it is not rational. The idea of being gone is difficult to grasp. Wittgenstein: "death is not an event in life; we do not live to experience death."
 
-#### Imagine the book of your life. Its covers–its beginning and end–are your birth and your death. You can only know the moments in between, the moments which make up your life. It makes no sense for you to fear what is outside those covers, whether before your birth or after your death. And you needn't worry how long the book is, or whether it's a comic strip or an epic. 
+## Imagine the book of your life. Its covers–its beginning and end–are your birth and your death. You can only know the moments in between, the moments which make up your life. It makes no sense for you to fear what is outside those covers, whether before your birth or after your death. And you needn't worry how long the book is, or whether it's a comic strip or an epic.
 
-#### The only things is that you make it a good story.
+## The only things is that you make it a good story.
 
-### [Kelly McGonigal: How to Make Stress Your Friend](http://www.youtube.com/watch?v=RcGyVTAoXEU)
+# [Kelly McGonigal: How to Make Stress Your Friend](http://www.youtube.com/watch?v=RcGyVTAoXEU)
 
 People who experienced a lot of stress had a 43% increased chance of dying, but only if they believed that stress was harmful. People who did not perceive stress was bad did not die as much.
 
@@ -284,15 +311,15 @@ Oxytocin is a stress response. When oxytocin is released, it nudges you to tell 
 
 Each stressful even increases dying by 30%, but people who spent time caring for others showed no stress-related increase in chance to die. Caring increases resilience.
 
-#### When you choose to view your stress response as helpful, you create the biology of courage.
+## When you choose to view your stress response as helpful, you create the biology of courage.
 
-#### When you chooose to connect with others under stress, you can create resilience.
+## When you chooose to connect with others under stress, you can create resilience.
 
-### [Simon Sinek: How Great Leaders Inspire Action](http://www.youtube.com/watch?v=qp0HIF3SfI4)
+# [Simon Sinek: How Great Leaders Inspire Action](http://www.youtube.com/watch?v=qp0HIF3SfI4)
 
 All the great and inspiring organizations (Why Apple? Why MLK? Why the Wright brothers?) in the world think, act, and communicate the exact same way.
 
-#### The Golden Circle
+## The Golden Circle
 
 The Why, The How, The What.
 
@@ -326,7 +353,7 @@ MLK: Not really the best orator, but he believed stuff. Everyone went there not 
 
 ---
 
-### [James Flynn: Why our IQ levels are higher than our grandparents](http://www.youtube.com/watch?v=9vpqilhW9uI)
+# [James Flynn: Why our IQ levels are higher than our grandparents](http://www.youtube.com/watch?v=9vpqilhW9uI)
 
 * We don't just get more questions right in IQ tests, but we get higher IQ test results every generation.
 * If you score the people a century ago against modern norms they would have average IQ of *70* and if you score us against their terms we would have an average IQ of *over 130*.
@@ -341,20 +368,20 @@ MLK: Not really the best orator, but he believed stuff. Everyone went there not 
 
 ---
 
-### [Russell Foster: Why do we sleep?](http://www.youtube.com/watch?v=LWULB9Aoopc)
+# [Russell Foster: Why do we sleep?](http://www.youtube.com/watch?v=LWULB9Aoopc)
 
 * 36% of your life = spent sleeping. So sleep, at some level, is simportant.
 * Literature about sleep has changed throughout history from sleep is awesome to sleep sucks ("money never sleeps").
 * Now, we treat sleep as an enemy. Why? We think that we aren't doing anything when we are sleeping.
 
-#### But Why?
+## But Why?
 
 * _Restoration:_ The stuff we burn during the day, we restore during the night. Within the brain, there are some genes that are turned on during sleep and these are associated with restoration.
 * _Energy concentration:_ The energy saved when sleeping = 100 calories per night (assuming that the person didn't do much when awake). Not that efficient.
 * _Learning and memory consolidation:_ The ability to solve problems are enhanced threefold by a good night's sleep. The synaptic connections are strengthened when sleeping.
 * Most probably, we sleep for multiple reasons.
 
-### Sleep Deprivation
+# Sleep Deprivation
 
 * 1950s: 8 hours. 2013: 5-6.5 hours. Not enough! The body clock does not change when you work in shifts. Day sleep is not healthy!
 * An estimated 31% of drivers will fall asleep at the wheel at least once in their life and in the US this is a 100K accidents on the freeway associated with tiredness.
@@ -362,19 +389,19 @@ MLK: Not really the best orator, but he believed stuff. Everyone went there not 
 * Weight gain: If you sleep five hours or less, you have 50% chance to be more obese because the hunger hormone is released and it gets the brain to ask for more carbohydrates.
 * Stress: Sustained stress leads to suppressed immunity (tired people = higher infection, people with shift work = higher risk of cancer), increased risk of diabetes, cardiovascular disease.
 
-#### Am I getting enough sleep?
+## Am I getting enough sleep?
 
 * If you need an alarm clock, if you need stimulants, if you are grumpy, if your colleagues say you are tired, *then you probably are*.
 * Make your bedroom as dark as it possibly can, and slightly cold. Decrease light exposure. Turn off phones, computers. Don't drink caffeine before sleeping.
 * Do the things that you know will help you sleep.
 
-#### Myths
+## Myths
 
 * Not everyone needs 8 hours a day, it depends on the people.
 * Old people do not need less sleep.
 * *Early to bed, early to rise, makes a man wealthy and wise.* That's just plain wrong, there is no evidence that sleep time is correlated to socio-economic status.
 
-### Sleep Disruption
+# Sleep Disruption
 
 * In severe mental illnesses, there is alwasy sleep disruption.
 * Schizophrenic individuals were awake at night and sleeping during the day. Some of them had no ability to regulate their sleep.
@@ -384,7 +411,7 @@ MLK: Not really the best orator, but he believed stuff. Everyone went there not 
 
 ---
 
-### [Chip Conley - Measuring What Makes Life Worthwhile](http://www.youtube.com/watch?v=1QUF5QfnIbc)
+# [Chip Conley - Measuring What Makes Life Worthwhile](http://www.youtube.com/watch?v=1QUF5QfnIbc)
 
 *	Viet refugee Vivian found "joy" in toilets but she had an emotional connection with her employees and guests. She was taking care of people far away from home because she knew what it felt like to be away from home
 *	He noticed in Maslow's hierarchy saw that leaders knew that people are people. He used the hierarchy of rules to deal with people.
@@ -404,18 +431,7 @@ MLK: Not really the best orator, but he believed stuff. Everyone went there not 
 
 ---
 
-### [Daphne Bavelier: Your brain on video games](http://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games.html)
+# [Daphne Bavelier: Your brain on video games](http://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games.html)
 
 The average age of a gamer is 33 years old. It is pervasive throughout our society. Call of Duty had been played 68,000 years.
-
-
-
-
-
-
-
-
-
-
-
 

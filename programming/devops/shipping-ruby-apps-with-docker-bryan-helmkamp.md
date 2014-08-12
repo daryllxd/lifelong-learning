@@ -89,3 +89,17 @@ So when you run it, what it (`baseimage-docker`) gives you this:
     sshd    # See stuff running inside Docker itself.
 
 DEMO!
+
+## What is Your Delivery Unit?
+
+We want to use the same image/container for local development, CI, staging/prod. So you build once, run anywhere. You can also run the tests inside the container. We get to remove the "works on my machine", plus it doesn't matter what the OS for development was.
+
+Immutable infrastructure: So Chef is great, but the question is "why do we ever run Chef against the same server more than once?" The first time, you know what state it is. When you change the version of the package, sometimes its fine, sometimes it fails, but you create some kind of indeterminate state which is bad.
+
+With Docker, you can just create things again and again.
+
+Linux distributions are redundant (we don't need just Ubuntu or something). In fact there is a Linux distro (CoreOS) which is just Linux + Docker + just a few other things. So Linux distributions are unnecessary in containers, we can get small Linux distributions for the apps themselves. For the most case, you don't need to use Chef/Ansible.
+
+Behind the firewall installs, you can install a copy of an app, say Code Climate, inside an enterprise firewall.
+
+
