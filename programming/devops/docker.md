@@ -27,3 +27,5 @@ When we run multiple dedicated servers on one server, we call them virtual priva
 Docker is a way to interact with containers that makes it simpler to create and manage the containers. Before docker, I would have to learn multiple technologies to get a simple container working which could take me a month or more, now that I have docker, I could get a complex multi-container system working in an afternoon.
 
 Let's say I have an application that needs Redis, Memcached, Mongodb, and MySQL to talk to, in addition to a specific version of Ruby, specific system libraries, Imagemagick. I could manually manage virtual or dedicated servers by myself, where each new server would take a while to build. *Or I could write a dockerfile for my web application and specify that it needs services from public dockerfiles for MySQL, Mongodb, etc. Now my complicated application could be deployed fairly easily on a specialized Docker-based host, and VPS provider (Linode, AWS, Azure, Rackspace, Google), or even my own servers.*
+
+

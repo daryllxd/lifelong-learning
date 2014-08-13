@@ -102,4 +102,8 @@ Linux distributions are redundant (we don't need just Ubuntu or something). In f
 
 Behind the firewall installs, you can install a copy of an app, say Code Climate, inside an enterprise firewall.
 
+When you deploy things on Docker, there are things that do not fall under it's scope. So there is still some DIY required, ex: in the whole load balancer when you push out new versions.
 
+I'll be very surprised if the people in the room won't be using Docker over the next few years.
+
+If you're doing local development, you can make the files you are coding in available to the Docker image. So the Docker image can access the outside code.
