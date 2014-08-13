@@ -1,3 +1,44 @@
+# 2.x from the beginning (Official Capistrano docs)
+[link](https://github.com/capistrano/capistrano/wiki/2.x-From-The-Beginning)
+
+You have a domain name, found hosting, and did some reading on deploying Rails applications.
+
+## Decision List
+
+1. Web server: Apache, Lighttpd, nginx. If shared host, then this is already made for you.
+2. Database: MySQL/PostgreSQL/Oracle/SQLite.
+3. Ruby: JRuby, MRI Ruby?
+4. Application Layer: The part that actually runs your application. Mongrel/Thin/Passenger.
+5. Source Control: Subversion, Git.
+
+## Steps
+
+    $ capify . # Create the Capfile, which loads config/deploy.rb You usally leave the Capfile alone and tweak config/deploy.rb
+
+Deployment Directory Structure: A successful deployment with Capistrano will result in something like this:
+
+    deploy_to/releases
+    deploy_to/releases/20080819001122
+    deploy_to/shared
+    deploy_to/shared/logs
+
+Roles:
+
+- `web`: Where your web server runs. Requests form the web go straight here. For sites with lots of traffic, you might have two or three web servers running behind a load balancer.
+- `app`: This is where the app layer runs. You might need only a single web server, and have it send requests to any of 4-5 different app servers, via a load balancer.
+- `db`: This is where migrations are run. Some prefer to not actually run code on the server where the database lives, so you can just set this to one of the app servers if you prefer. Capistrano will deploy your application to servers in this role. The `:primary => true` bit just says that this is our "primary" database server.
+
+## Setting up the Server
+
+    $ cap deploy:setup # Log into your server and do some mkdirs. Make sure the permissions to deploy are okay.
+    $ cap deploy:check # Check both local and remote servers for stuff. If any of the  dependencies are not met, you'll get an error message indicating what the problems are.
+
+Database: You need the DBMS and the actual database itself. You also need `production` in your `config/database.yml` file.
+
+Pushing the code: `cap deploy:update` to copy the source code to the server, and update the "current" symlink to point to it, but it doesn't actually try to start your application layer.
+
+    $ cap deploy:restart # Restart the application layer
+
 # Deploying with Capistrano
 [link](http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html)
 
