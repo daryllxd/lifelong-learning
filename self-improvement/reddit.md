@@ -1,6 +1,35 @@
-## [What harsh truths have you learned as you have grown and aged?](http://www.reddit.com/r/AskReddit/comments/1tz33j/what_harsh_truths_have_you_learned_as_you_have/)
+# Good comment
+[link](http://np.reddit.com/r/GetMotivated/comments/2dcgpg/image_this_was_eyeopening_for_me_escaping_to_the/cjo61ua?context=3)
 
-#### No one's coming. It's you. You have to make your own life, your own luck, your future. Don't wait for life to happen to you, you have to go out there and make it happen for yourself.
+Don't rely on future-self to save yourself. You end up thinking that "future me" will work and will want to solve things.
+
+You can't rely on anything but the present. How the hell would the future save you if you aren't willing to do anything in the present? *What I had was very low self-compassion. I didn't perceive my future-self as a persona. I perceived my future-self as an escape.*
+
+By constantly focusing on some ideal future that we want to reach, we put our present minds in suspense. This suspense leads to anxiety, because we are constantly worried about something that has yet to come (and may never come). Eventually, this suspense and anxiety leads to fear. You've build up your future and your future-self so much that it seems terrifying to you that you may never reach it.
+
+*The constant idealization and focus on the future leads use to depicting it as "perfect". A perfect fantasy. So by constantly picturing something perfect, we expect it will take perfect actions to get there.* We condition our mind to believe that we have to do perfect actions to get our ideal future.
+
+*Focusing too much on the future promotes inaction.* And inaction further perpetuates anxiety and stress. We have this future that we escape to. We want it to be reality. But it's just too overwhelming and seemingly impossible to get to. So by not being able to do what it takes we become even more stressed. Stress is the mind and body killer. What you have here is a negative feedback loop filled with escapism, fear, and stress.
+
+*By building up our future-self as some awesome savior, we end up harming and eventually destroying them. Our future won't save us; we have to save our future.*
+
+## How
+
+1. Focus on the present. Focus on doing positive actions today to get you to that future. Come up with some concrete daily actions you can do for your goal. Nothing too strenuous.
+2. Self-compassion. Perceive your future-self as a person, not an abstraction or escape. Don't constantly rely on that future-person to clean up your mistakes. *Think about some negative things that you usually do which harms your future-self. Like binge-eating or procrastinating. Put yourself in that future-person's shoes. Think about how bad they feel. That future-person is suffering. Learn to love yourself enough that you don’t want to hurt any version of yourself.*.
+3. Learn to delay gratification. When we idealise the future, and have low self-compassion, what happens is that we struggle in delaying gratification. We focus on immediate pleasures instead of focusing on the present process that will lead to success. *The cost of something that feels good now can be dealt with by our future-self is how it goes. We have to flip that approach. We have to learn to delay gratification now so that our future-self can benefit.*
+
+Those who have low time preference are best at delaying gratification. What can lower our time preference? According to this economics study, mild positive affects (affects are feelings or emotions) can. Not surprisingly, if you feel good, you do good. You have more control over your decisions, and are less impulsive. Positivity begets positivity just like negativity begets negativity (like with the fear and stress feedback loop). We can induce mild positive affects onto ourselves to help us delay gratification. In the study they found that by getting people to watch funny clips of stand-up comedy (coincidentally enough, the stand-up comedian they watched was Robin Williams), those people then had a greater ability to delay gratification. So if you find yourself tempted, or want a quick boost in delaying gratification, watch a funny Youtube clip.
+
+Forcing yourself to smile, or laugh can also induce mild positive affect. The physical movement in doing these actions triggers your brain to induce the chemicals that are associated with them, like dopamine. It might feel awkward but it could make a difference.
+
+Unfortunately though, mild positive affects don't guarantee you’ll resist temptations, but they are still a useful tool to add to your arsenal in helping you become more disciplined.
+
+Escaping to the future and idealising your future-self leads to stress and disconnection in the present. Stress and disconnection leads to inaction. The present is what makes our future. We must save our future-self by: 1) Focusing on the present; 2) Having Self-compassion; 3) And delaying gratification (via positive affects and meditation).
+
+# [What harsh truths have you learned as you have grown and aged?](http://www.reddit.com/r/AskReddit/comments/1tz33j/what_harsh_truths_have_you_learned_as_you_have/)
+
+### No one's coming. It's you. You have to make your own life, your own luck, your future. Don't wait for life to happen to you, you have to go out there and make it happen for yourself.
 
 And don't be deterred by setbacks and failures. It's not how good you are at avoiding mistakes, it's how good you are when faced with adversity.
 
@@ -20,7 +49,7 @@ I'm not trying to pretend I know about your specific situation, but just reflect
 
 We have to also moderate how much we give, and how responsibly we set our boundaries. Even with those we love, and with those that love us the most. I used to struggle so terribly with people that would ask things of me, but only because I was the one that had a problem with saying no. Once I learned how to say no, how to rely on the ability of others to do the same and finally, how to read when people weren't being forthright with me and were getting worn out by me because they weren't setting healthy boundaries, all of my personal relationships improved.
 
-#### The world doesn't care if you are hurting or broken. It will run over you without blinking.
+### The world doesn't care if you are hurting or broken. It will run over you without blinking.
 
 "The world isn't against you my dear... it just doesn't care"
 
@@ -89,13 +118,13 @@ I actually just learned this this very month. It's good to know. Though I would 
 The world doesn't care if you are hurting or broken. It will run over you without blinking.
 Yet that should never be a reason to ignore the hurting and broken when you can do something to help.
 
-#### Reasonable minds can differ. Seriously, there are very smart, well-reasoned people who disagree with almost every opinion and belief you have, and that's okay.
+### Reasonable minds can differ. Seriously, there are very smart, well-reasoned people who disagree with almost every opinion and belief you have, and that's okay.
 
 The votes system is as good or bad (for me) as the voters' demographics.
 
 This has been a big thing for me to overcome in my mid-20s. I feel like certain beliefs I hold very close to me define me and if someone has different views than they have something against me.
 
-#### There's no speed limit on anything (in the metaphorical sense). Graduate at 30? Sure. First kiss at 12? Sure. Divorce at 21? Why not. PhD at 21? Go for it. A lot of walls exist, and there are walls we can never break down, but some of those walls are walls you build. You have the plans, just knock those down.
+### There's no speed limit on anything (in the metaphorical sense). Graduate at 30? Sure. First kiss at 12? Sure. Divorce at 21? Why not. PhD at 21? Go for it. A lot of walls exist, and there are walls we can never break down, but some of those walls are walls you build. You have the plans, just knock those down.
 
 This is my favorite. Often we see the world as a well organized performance that we get to play a part in once we graduate. No, we're already playing the part we create.
 
@@ -131,7 +160,7 @@ As someone who graduated high school at 30 I couldn't agree more. Many of my bar
 
 Some things will just never happen, I agree. But there are some things that we inhibit ourselves from, and its the ones we can change. Something about discretion is the better part of valor: knowing which hills I'm willing to die on and which battles are worth fighting. I'm no expert, lol.
 
-#### Sometimes love alone just isn't enough. You can be in a loving relationship with someone, but if the timing is wrong/you aren't on the same page in life, sometimes it just doesn't work no matter how much you love one another.
+### Sometimes love alone just isn't enough. You can be in a loving relationship with someone, but if the timing is wrong/you aren't on the same page in life, sometimes it just doesn't work no matter how much you love one another.
 
 This is something that occurred to me today as I go through a break up process. People would like to think that love is a cure-all for relationship issues, but sometimes circumstance/timing have to dictate what you do.
 
@@ -144,7 +173,7 @@ Make a person love themself.
 You HAVE to love your partner. That's totally given. But if you ONLY love them you're missing 90% of the equation.
 I love my husband. A shit ton. But more importantly I respect, admire, empathize, like, sympathize, agree with, and understand him.
 
-Adding to this: you can't change people. You can be with someone for years, and you can love them, and it can be a bad relationship which isn't worth being in. This seems like a stupid concept, but it's true - you can love the wrong person, and your love of them can blind you to how wrong they are for you. Eventually, you'll get used to not being loved the way you want and need, and you'll begin to settle for the good times, and count on those. 
+Adding to this: you can't change people. You can be with someone for years, and you can love them, and it can be a bad relationship which isn't worth being in. This seems like a stupid concept, but it's true - you can love the wrong person, and your love of them can blind you to how wrong they are for you. Eventually, you'll get used to not being loved the way you want and need, and you'll begin to settle for the good times, and count on those.
 
 I loved a guy in an opposites attract sort of way. But eventually, what I first saw as "constructive criticism" became judgement. Judgement became snider and crueler, until it was eventually almost apathetic. Don't love someone you don't feel you can rely on. Don't love someone who'll turn their phone off on you when you're upset, because they'll "deal with it later when it's more convenient." Don't love someone who sits and stares at you when you cry, and the next words out of their mouth aren't kind, but more of that judgement you've come to expect. Don't love someone you fear.
 
@@ -152,7 +181,7 @@ To clarify I dislike the coldness, not the people, I refuse to be a sink on some
 
 Went through a bad relationship a while back. It was long and coming for miles, but I can only see this now, much later. We loved each other and thought that would suffice, but it didn't. She was on a completely different page in life, and while I was ready to settle down and be with one person, the thought scared her immensely, even though she was about the same age as me. It was one of those doomed to fail things, and after a while, months before we actually broke up, I think we both realised that and we were just clutching to love.
 
-#### "You would worry less about what others think of you if you realized how seldom they do"
+### "You would worry less about what others think of you if you realized how seldom they do"
 
 This is freeing! Man, nobody cares if I look awesome today or if I look shit. Nobody cares what I do. Nobody will ever care about me as much as I care about myself - they're the stars in their own show, not me.
 
@@ -202,7 +231,7 @@ What helped me in my depression earlier in life was knowing how much I would hur
 
 It is more about waking up the morning after a massive night out on the booze with "The Fear". You start thinking about all the stupid things you did and how embarassing it is now. Truth is, everyone else thinking the same thing, what stupid things they did. Basically everyone to concerned thinking about the things they did rather than what you did.
 
-#### At some point you get old, and what makes you old will be unique to you. You don't know when it's going to happen or what you'll look like when it does finally happen, but it will happen. I'm 27 and FUCK, I am old. I have a full time job, a wife, a kid, a car payment, etc. But that doesn't make me old.
+### At some point you get old, and what makes you old will be unique to you. You don't know when it's going to happen or what you'll look like when it does finally happen, but it will happen. I'm 27 and FUCK, I am old. I have a full time job, a wife, a kid, a car payment, etc. But that doesn't make me old.
 
 What makes me old is the understanding that my family relies on me for just about everything. My wife would never admit it, but my mood alters hers a lot. I can tell that when I moan and groan for a few minutes about work, it kills her - she doesn't like it if I had a rough day. She's a reasonable person and wants my day to go well! So, I suck it up and tell her the truth; either that my day was great, or that it had a few rough patches but I got through it and will be better for having had the experience.
 
@@ -219,9 +248,9 @@ My wife is my best friend and is the most stable ground I can rely on - without 
 You're clearly not an English teacher. This isn't why you're old -- this is why you're responsible. And that's a beautiful, wonderful thing. So many people aren't, and don't care about what happens to the people who rely upon them. That said, as Mark Twain once said, the difference between the right word and the wrong word is like the difference between lightning and a lightning bug.
 You're old because your hangovers can last more than one day--not because you don't bother to get hung over anymore because that'd be irresponsible. Believe it or not, oldness is not a linear function of responsibility.
 
-#### You only spend your whole life with one person, which is yourself. If you don't like yourself, you will have an issue.
+### You only spend your whole life with one person, which is yourself. If you don't like yourself, you will have an issue.
 
-#### It doesn't matter how smart you think you are if you do not apply yourself. Don't be lazy, you will never be as happy as you could be otherwise.
+### It doesn't matter how smart you think you are if you do not apply yourself. Don't be lazy, you will never be as happy as you could be otherwise.
 
 I divide my officers into four groups. There are clever, diligent, stupid, and lazy officers. Usually two characteristics are combined. Some are clever and diligent -- their place is the General Staff. The next lot are stupid and lazy -- they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent -- he must not be entrusted with any responsibility because he will always cause only mischief.
 
@@ -237,7 +266,7 @@ This is why Forrest Gump is so fantastic. He just does. Running, or mowing, help
 
 "Hard work beats talent when talent doesn't work hard."
 
-#### "Time is more valuable than money. You can get more money, but you cannot get more time."
+### "Time is more valuable than money. You can get more money, but you cannot get more time."
 
 "Money circulates; time is spent."
 
@@ -251,7 +280,7 @@ I work as an engineer for a manufacturing company. Yes, my degree cost a lot of 
 
 Go into sales. Anyone can do it, just takes confidence and something to sell. Look at Bieber, you think he's worried about his education? Nope, sales.
 
-#### You are not special and are very much replaceable.
+### You are not special and are very much replaceable.
 
 To some people I am not. My mother, my son, my husband.
 
@@ -273,7 +302,7 @@ Nearly everybody I converse with on this website falls into probably the upper 1
 
 Guess what? It's not worth a fucking thing. Get off your ass. Study. Work. Make a fucking contribution to the human race. Yeah, you're smart as shit. We know. But you aren't owed a goddamn thing except what you earn.
 
-#### You won't ever reach an age where you will have things figured out completely.
+### You won't ever reach an age where you will have things figured out completely.
 The upside is that there is nothing to wait for; you are as qualified as you are going to get, and as confident as you let yourself be.
 
 This puts things into perspective for me. As someone who has been educated and trained for a certain profession, I've been terrified of entering the field and finally doing it on my own. I always feel like I need more practice and the responsibility scares me.
@@ -282,7 +311,7 @@ I have worked for several very large companies, and I can tell you with complete
 
 Every five years or so, I look back and think "christ, I didn't have a clue what I was doing then, did I?". It took a couple of those for me to work out that I'd never stop doing that.
 
-#### You can't force someone to change. It doesn't matter how much you care about them or they care about you.
+### You can't force someone to change. It doesn't matter how much you care about them or they care about you.
 
 You can encourage change and be hopeful. But you cannot force it.
 
@@ -300,13 +329,13 @@ As someone with a bad temper the only thing I found to work is to completely lea
 
 My dad always told me, "you don't change people, you change people" I really liked that.
 
-#### Your parents are lost, confused, emotionally damaged, and trying to figure life out just like everyone else.
+### Your parents are lost, confused, emotionally damaged, and trying to figure life out just like everyone else.
 
 There was a quote from a parent in Bones about this, went something like "Kids perceive us as gods and we can't help but dissapoint them."
 
 Be kind to your parents, they are just like you.
 
-## Even if you are the most deep and spiritual person, who values all of the little things in life, money still fucking matters. A lot.
+# Even if you are the most deep and spiritual person, who values all of the little things in life, money still fucking matters. A lot.
 
 Money is absolutely necessary and will bring you happiness by reducing stress and allowing you to go out and experience the world. Money is a physical representation of time (time well spent) and should be spent accordingly. I live by the notion that money will come and go but memories last forever.
 
@@ -341,7 +370,7 @@ If you get sick - if you have money you can afford quality care and time away fr
 If you get sick of what you're doing or need a break, you can afford to take time off and take a great holiday
 Need to figure out your life? If you're rich you can leave your job for a while and have a "sabbatical" or some time away.
 
-#### Doctors can't always help you. Stay healthy and try to stay out of the medical system for as long as you can.
+### Doctors can't always help you. Stay healthy and try to stay out of the medical system for as long as you can.
 Even if you live well, eat healthy, party moderately, exercise regularly and enjoy a stress free life, you might not live to see 60.
 
 Friends really are hard to come by. Find good people, even if you don't have anything in common, and work to cultivate relationships.
@@ -366,7 +395,7 @@ Putting in far less effort than you do when you're helping them.
 Constant lying &/or stealing.
 Holds you against their standards that they don't even follow.
 
-#### Just being nice to girls doesn't mean you deserve sex/relationships
+### Just being nice to girls doesn't mean you deserve sex/relationships
 
 More generally: You should be nice to people just because it's the right way to act, not because you want to get something from them.
 
@@ -384,7 +413,7 @@ As an addendum to this: Just because I'm nice to someone doesn't mean I want to 
 
 You don't really want what you say you want. You don't want nice guys. You don't really want equal pay, equal work, equal relationships, The current setup where women earn 40% of the money and spend 80% is a much better deal than equality, anyway, even if merely equal men weren't a visceral turn-off to women. You want a man who is a man, a man better than you are. A cool, aloof cat making mucho money doing man things, who doesn't care what you or anybody else thinks, a social superior who calls you on your BS and teases you unmercifully. You don't really want a faithful man - your subconscious won't really believe in a man's worth without other women's confirmation. (And guys: in order to maintain her interest you must stay a bit of a challenge, have other options, not be totally open nor always available.) Nor will your subconscious accept a nice guy, a mere good provider, an equal, a house-husband, an androgyne or a smitten adolescent. You may be able to sabotage your own desires long enough to waste your most attractive years acquiring student debt and degrees in a worthless or all-demanding field, putting off any chance of having kids until you're in your 30s, if ever.
 
-#### It's alright to be wrong. You become a much much better person when you realize this. It takes away a certain degree of selfishness that we all have at some point in our lives.
+### It's alright to be wrong. You become a much much better person when you realize this. It takes away a certain degree of selfishness that we all have at some point in our lives.
 
 People who can acknowledge their mistakes are people who are willing to become better. Those are people worth being around.
 
@@ -409,9 +438,9 @@ And it's really mature and validating to say to someone "You were right."
 
 I honestly believe that people are conditioned to not acknowledge their mistakes because most of the time, when somebody is wrong, the first thing that people do in response is mock and ridicule them. If we were certain that the admittance wouldn't be received in that way, I'm pretty sure people would accept their mistakes way more often.
 
-#### You can't fix everything that goes wrong in your life. Sometimes you just have to make the best of the situation and move forward.
+### You can't fix everything that goes wrong in your life. Sometimes you just have to make the best of the situation and move forward.
 
-#### Harsh truths?
+### Harsh truths?
 
 - Want to get that project done? Quit fucking procrastinating. If not now, when? Fuck that "novel you've been thinking about". Fuck your "idea for a product". Nobody gives a fuck about ideas. Either it's done or it isn't. Either you get it done or it stays and lives in your head forever. Fuck tomorrow. Today is all you fucking have, you lazy piece of shit.
 - Want to keep in touch with family better? Pick up your fucking phone and call them for 5 minutes. Tell them you love them. You or they could die before you're done reading this sentence.
@@ -439,15 +468,15 @@ I don't know you, but reading everything you said, I noticed a lot of excuses. J
 
 For what it's worth, I believe in you. Get up. Shake it all off. Make a to-do list. New year's is coming up. Make some resolutions and stick to them.
 
-#### Life isn't fair. But that's okay--do the best with what you've got and fight the good fight, and you'll have a great life regardless of what it throws at you.
+### Life isn't fair. But that's okay--do the best with what you've got and fight the good fight, and you'll have a great life regardless of what it throws at you.
 
 I had to deal with this a few times before I could accept it, but once I did, I was able to let go of trying to control everything and just accept that even if you do it ALL RIGHT, it can still go all wrong. I tell this to my 4 1/2 yr old son all the time, because kids have an innate sense of fairness and justice. My thinking is if he understands what's not fair as 4 yr old then a 5 yr old etc. he will be so prepared for life and have the necessary coping skills to successfully bounce back from hardships.
 
 I used to envy my friends because of how great their lives were. I would yell at my parents for not working hard enough (I thought that was why we were poor or were always struggling). As I grew older I realized that they busted their asses, but shit happens. Life isn't fair. We aren't all equally lucky, but I'll be damned if I won't keep up the good fight like they havw
 
-#### I am apparently not a hummingbird, so my diet of sugar and sugar water is not ideal.
+### I am apparently not a hummingbird, so my diet of sugar and sugar water is not ideal.
 
-#### Just because you are busy doesn't mean you are accomplishing anything.
+### Just because you are busy doesn't mean you are accomplishing anything.
 
 It's really, really difficult to put in 8 hours of work a day, five days a week. Most people take 8-9 hours to put in 2-3 hours worth of actual work in a day, if that.
 
@@ -456,7 +485,7 @@ It's all about environment. The reality is that the modern business environment 
 
 This is a very important realization if you want to get through university. I've known lots of people who were "working" their asses off and still failed the tests while others put in 3-4 hours of real work every other day and did really well.
 
-#### you won't succeed without taking on responsibility
+### you won't succeed without taking on responsibility
 
 And the more responsibility you take on the more people you are going to piss off.
 
@@ -464,7 +493,7 @@ I think you have to be careful with statements like that. I've seen a lot of rea
 
 You need to live with your decisions. Your life. If you've fucked up - there's no changing that. Sometimes those fuck ups are permanent fixtures on yourself, sometimes they will be a perpetual guilt on your mind, but you need to deal with those. There's no going back. Sometimes it won't even be your fault, but still, there's no going back. As much as you wish you could start it all again, you can't. You need to live with yourself.
 
-#### Sometimes someone just won't love you back, and it's hard but you just need to get on with life and find someone who will love you back.
+### Sometimes someone just won't love you back, and it's hard but you just need to get on with life and find someone who will love you back.
 
 If you'll excuse the metaphor: If someone jumps ship, you can't just drop anchor and hope they climb back aboard, you could spend your entire life trying to find someone who doesn't want to be found. The wind is going to keep blowing and it might take you somewhere good, somewhere better, or it might not, but you need to take control and set course in the direction that you want to move in, for yourself, rather than put another person in the drivers seat of your life (whether they want it or not).
 
@@ -492,7 +521,7 @@ Until then, the "delete facebook, hit the gym" mentality is a great one to have.
 
 Hopefully this person's love wasn't your only goal. It never should be because that will break a relationship right there. If it was you need to make some new goals, possibly steal someone else's till you can get your own. Then keep pushing forward, overcome those obstacles, and get to that point where thinking back about the person you were today makes you shake your head and smile because you're happy that things worked out the way they did.
 
-#### Being a victim won't get you anywhere. It gives others power over you and distracts you from winning the game of life.
+### Being a victim won't get you anywhere. It gives others power over you and distracts you from winning the game of life.
 
 There is no winning, only crossing the finish line.
 
@@ -502,7 +531,7 @@ this applies to ever group that lacks whatever "privilege" is popular at the mom
 
 Thats not to say that minorities don't face struggle and hardship, and I'm not discounting the pain they face. But I believe on focusing on the practical (what you can do with what your given) instead of the theoretical (how you feel). Want to stick it to the man? prove him wrong and get a PHD despite your background. Want to show skinny people up? Lose the weight or design and sell a brand of clothes if you are so convinced that fat is healthy. Taking a victim's attitude won't change the problem.
 
-#### No one knows what they're doing.
+### No one knows what they're doing.
 
 Fake it until you make it.
 
@@ -510,7 +539,7 @@ I a couple weeks back I thought I couldn't go zip lining because I am scared of 
 
 It is a slight exaggeration, but a lot of things in life can be succeeded in with just confidence
 
-#### Takes a lot of endurance and hard work to get rid of your fat.
+### Takes a lot of endurance and hard work to get rid of your fat.
 
 Not always. Turns out not eating for a while is a great way to lose a lot of weight way too quickly :P
 
@@ -521,7 +550,7 @@ Losing weight is simple, burn more calories than you consume.
 Actually doing it? Well that's where it gets tricky.
 Losing weight is simple, not easy.
 
-#### It's much harder to make new friends after you leave school.
+### It's much harder to make new friends after you leave school.
 
 The best thing to do is to find a community that you will love being a part of. There are few things in life that are more rewarding than being a part of something.
 
@@ -537,14 +566,14 @@ Nah it's not, I make far more friends since I left the suffocating social hierar
 Now i'm a qualified Snowsports Instructor, Dive Master and Surfing Instructor and I make countless new friends every week. I'm a socialite and feel comfortable just rocking up to people and chatting. Total change from those shitty school years.
 Everything is what you make of it, saying its hard to make friends is a self fulfilling prophecy, chances are you just need more sociable hobbies and hangouts.
 
-#### Meeting your heroes is typically disappointing -- you have to be your own hero.
+### Meeting your heroes is typically disappointing -- you have to be your own hero.
 
 I look at it differently. When I learn they are human it makes the goals i have seem a bit less impossible.
 
 I agree...That's why I've always liked Thomas Jefferson's interpretation of Jesus.
 A man, no matter how extraordinary, can be emulated; but a God?
 
-#### True friends are hard to find.
+### True friends are hard to find.
 
 I have a feeling that this is wicked true but nobody wants to believe it. Like others are just good quotes and you don't have a problem believing. But this is weird.
 
@@ -561,26 +590,26 @@ It took a long time for me to learn this but after I did my life improved tremen
 
 As you grow older you start hating more people. Why you ask? Because, small child, you start to see the realness in them. People start to show their true colors and they're not as pretty as your crayola 96 assorted color + 4 metallic crayons set. Nope. They will develop into people who are OK to talk to, but you have to be careful about what you tell them, or they might use it against you.
 
-#### Sometimes your boss isn't your boss for any decent reason. They may not be smarter than you, nor more skilled. Often they just knew someone. Only stay as long as it benefits you, opportunities don't always fall into your lap. You have to work for them and hunt them down.
+### Sometimes your boss isn't your boss for any decent reason. They may not be smarter than you, nor more skilled. Often they just knew someone. Only stay as long as it benefits you, opportunities don't always fall into your lap. You have to work for them and hunt them down.
 
 A lot of the time, you boss is your boss because they got the same job you did...just earlier. In bureaucracies, this means that if you don't like your boss, get a new job, because they're gonna be there for a long time.
 
 My farther who is the boss of a lot of people said this quote "being a boss is like running a football team, you got the players who do the work and ern the results, the trainers/on field manager makes sure that the players are doing everything right and I just sit up the back making sure that everyone's on task" he also loved sports.
 
-#### Part of being an adult is that every year someone dies that you were once close with.
+### Part of being an adult is that every year someone dies that you were once close with.
 
 I would say that the single defining feature of being an "Adult" is that people you love get ill and start to die. As a child you're sheltered from it or don't understand it, or it's just some musty distant relation you can't quite remember from aunt Mabels 70th birthday party who is now in a box. But when people close to you begin to die, or get horrible illnesses, and you HAVE to deal with the emotions, that's when life gets to be hard work and you fell like an adult.
 
 My dad had me when he was 40 and he was the baby of the family. I lost a lot of people close to me way before I left childhood. Now I'm just sort of resigned to the decline of myself and everyone else. It's depressing. I tell myself you know you and everyone will be dead. It's inevitable. Get out there. Enjoy yourself. But I can't seem to do it.
 
-#### Not everyone finds someone.
+### Not everyone finds someone.
 
 "There are millions of people out there who we've all unanimously decided are light-speed ugly and nobody kisses them on the lips even"-Louis CK
 
 Female primates (including humans) are considered "guaranteed fitness," which means all females capable of reproduction are guaranteed to reproduce if they simply agree to do so. Even without a marriage, relationship, etc.
 There are studies supporting this in humans. A female 1/10 can literally just ask to reproduce, and a male will oblige. The converse is not true for males asking females.
 
-#### Life's not fair. At all. Yes, this is basic but really think about it. Some people are born well off. They never have to work a day in their life, and they have everything handed to them.
+### Life's not fair. At all. Yes, this is basic but really think about it. Some people are born well off. They never have to work a day in their life, and they have everything handed to them.
 
 And just because some people have money does not mean that they're happy. Sometimes they're deeply miserable human beings. If you are generally unhappy, you would probably be just as unhappy if you were given money. Not only would you would find something else to worry about, you wouldn't have anything to work towards anymore.
 
@@ -588,7 +617,7 @@ Or life is neither unfair or fair, some people are born well off, and then get c
 
 And that's ok. Life is really fucking unfair and it's sad but nothing you do can change that. Nothing at all. Which is why it's ok.
 
-#### The harsh truth is that adult relationships really aren't all that different than from when your a teenager. Other harsh truths I've learned, is that people will only be friends with a loser in order to make themselves feel better about themselves when they are feeling sorry for themselves.
+### The harsh truth is that adult relationships really aren't all that different than from when your a teenager. Other harsh truths I've learned, is that people will only be friends with a loser in order to make themselves feel better about themselves when they are feeling sorry for themselves.
 
 You'll always stir up resentment when you've become more successful than friends and family.
 
@@ -607,7 +636,7 @@ Adult relationships require humility, compromise, sacrifice, and hard work. It's
 They're just different animals, with different rewards and pitfalls. Teenage relationships often revolve around the idea of soulmates, while an adult relationship hinges on a partnership. It's harder work, but cooperatively working to build something for each other is much more rewarding, in my opinion.
 I guess that's the fundamental difference, to me. A teenage relationship is often a case of each person doing what makes themselves happy and an adult relationship is often a case of each person doing what makes each other happy.
 
-#### I am going to die. No way anyone under 30 understands this.
+### I am going to die. No way anyone under 30 understands this.
 
 I am going to die. No way anyone under 30 understands this.
 From 30- to 35 you think "Damn I'm getting old. Just can't hang like I used to. Ha Ha".
@@ -631,7 +660,7 @@ I thinks it's awfully presumptuous to say that no way anyone under 30 understand
 
 I know I'm going to die, I don't see much point in banging on about it, I'm having too much fun living my life, it's not like it's sneaking up on me and I'll be all shocked and like "hey no fair" quite likely I won't care at that point too, being dead and all.
 
-#### Being 'grown up' is nowhere near as awesome as I thought it would be.
+### Being 'grown up' is nowhere near as awesome as I thought it would be.
 
 I have to disagree. I would never to back to being a child. As an adult you can do whatever you wish, you have the mental capacity to explore the world, you see beauty in smaller things, and most importantly of all I can eat my fucking ice cream before my meal because I'm a fucking adult.
 
