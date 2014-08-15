@@ -29,7 +29,7 @@ Escaping to the future and idealising your future-self leads to stress and disco
 
 # [What harsh truths have you learned as you have grown and aged?](http://www.reddit.com/r/AskReddit/comments/1tz33j/what_harsh_truths_have_you_learned_as_you_have/)
 
-### No one's coming. It's you. You have to make your own life, your own luck, your future. Don't wait for life to happen to you, you have to go out there and make it happen for yourself.
+## No one's coming. It's you. You have to make your own life, your own luck, your future. Don't wait for life to happen to you, you have to go out there and make it happen for yourself.
 
 And don't be deterred by setbacks and failures. It's not how good you are at avoiding mistakes, it's how good you are when faced with adversity.
 
@@ -41,31 +41,33 @@ I've been doing Test Driven Development (TDD) for the last year, which is a codi
 
 Because this becomes an intrinsic part of every single thing you do, you quickly become completely immune to failing. You're always failing. Failing is normal. When something actually fails, it's hard to care. That's normal. You just fix it and move on. Also, the constantly writing code to make your tests pass makes you really good at diving in and fixing non-working things. That's your default way of being under TDD. You are the person who constantly creates problems, then fixes them. If something else creates a problem, it's no problem. You can forgo the first part - creating the problem - and simply jump in and fix it. I've had moments where a problem cropped up, and it was a relief that it wasn't one I created. "Oh, good. A problem I didn't have to create first. Half the work is already done for me on this one." Now when I hear coworkers who don't do TDD sigh and say "this isn't working," I think "So?"
 
-"A ship is safe in harbor but that's not what ships are for."
+"A ship is safe in harbor, but that's not what ships are for."
 
 I think, though, you have to always take accountability for your relationships and never give yourself the luxury of feeling like a victim. If people have tread upon you, shame on them, but feeling victimized just encourages you to sit around and feel sorry for yourself. You just dig deeper into your problems.
+
 Instead, you can tell yourself "I never stood up for myself, so people are naturally treating me this way. No point in blaming them; I must learn to get better at standing up for myself." That kind of attitude puts you into the position for real growth. And in a sense, it's absolutely true: you are constantly training people how to treat you. If people routinely treat you like shit, the problem is you've been bad at training them.
+
 I'm not trying to pretend I know about your specific situation, but just reflecting in general.
 
 We have to also moderate how much we give, and how responsibly we set our boundaries. Even with those we love, and with those that love us the most. I used to struggle so terribly with people that would ask things of me, but only because I was the one that had a problem with saying no. Once I learned how to say no, how to rely on the ability of others to do the same and finally, how to read when people weren't being forthright with me and were getting worn out by me because they weren't setting healthy boundaries, all of my personal relationships improved.
 
-### The world doesn't care if you are hurting or broken. It will run over you without blinking.
+## The world doesn't care if you are hurting or broken. It will run over you without blinking.
 
-"The world isn't against you my dear... it just doesn't care"
+"The world isn't against you my dear, it just doesn't care."
 
 Reminds me of a line by Agatha Christie.. "Trouble should be easier to handle as we are older, but by then we know that world is not cruel, only indifferent, and that hurts even more."
 
-“The most terrifying fact about the universe is not that it is hostile but that it is indifferent, but if we can come to terms with this indifference, then our existence as a species can have genuine meaning. However vast the darkness, we must supply our own light.” ― Stanley Kubrick
+"The most terrifying fact about the universe is not that it is hostile but that it is indifferent, but if we can come to terms with this indifference, then our existence as a species can have genuine meaning. However vast the darkness, we must supply our own light." ― Stanley Kubrick
 
 "Well, I hate to break it to you, but there is no big lie. There is no system. The universe is indifferent."
 
 "Life will punch you in the face, wait for you to get back up so it can kick you in the stomach, but getting the wind knocked out of you is the only way to remind your lungs how much they love the taste of air." -Sarah Kay
 
-Alain de bottom talks about the problem of a metitocracy (holy shit totally am blanking out on spelling) has on happiness and reality. He says basically our society has come to believe we make our own destinity and because we really cant a lot of ppl turn the blame inward. 90 % of the things that happen our out of our control and we shouldnt be deluded to think that positive thinking or laws of attraction are going to move planets and stars in our favor.
+Alain de bottom talks about the problem of a meritocracy (holy shit totally am blanking out on spelling) has on happiness and reality. He says basically our society has come to believe we make our own destiny and because we really cant a lot of people turn the blame inward. 90 % of the things that happen our out of our control and we shouldn't be deluded to think that positive thinking or laws of attraction are going to move planets and stars in our favor.
 
-We all have or will suffer greatly. The question why me is an understandable one. The answer is.. why not you? Why should anyone be free from suffering? The fact that we all suffer is proof that the world is just. When I suffer (And I am on top of my shit) I try to remember that I am paying off a karmic debt. It doesn't hurt as bad.
+We all have or will suffer greatly. The question why me is an understandable one. The answer is, "why not you"? Why should anyone be free from suffering? The fact that we all suffer is proof that the world is just. When I suffer (And I am on top of my shit) I try to remember that I am paying off a karmic debt. It doesn't hurt as bad.
 
-As far as making our own luck... it's not as black and white. Why do inocent children fall ill? I do not know. I do however know that my Grandmother was given six months to live (lung cancer). She has been ill for two and a half years now. Soon she will be gone. I can not describe how greatful we are that she ate well, did not drink or smoke (I'm no angel), and exercised regularly.
+As far as making our own luck, it's not as black and white. Why do innocent children fall ill? I do not know. I do however know that my Grandmother was given six months to live (lung cancer). She has been ill for two and a half years now. Soon she will be gone. I can not describe how grateful we are that she ate well, did not drink or smoke (I'm no angel), and exercised regularly.
 
 Picking yourself up and being kicked back down... man has been asking this question since the beginning. The Book of Job is all about this. I find it to be B.S. but hey.. at least it isn't an apithetic exploration of the idea.
 
@@ -87,9 +89,9 @@ The trouble with depression - and I speak from experience here - is that it make
 
 If you get chickenpox then you break out in spots, and everyone understands it - you're still you, just a bit itchier and with spots all over you.
 
-When someone gets seriously depressed (to the point they can no longer function) they break out in sadness, self-absorbtion and generally being trying and frustrating to be around. The trouble is that unlike spots - where you're the same person and only the surface has changed - with depression often who you are changes. You aren't you any more... at least unless "you" was always an apathetic, miserable person wrapped up in their own head and who frequently lets down their friends or makes little effort to keep in contact with them.
+When someone gets seriously depressed (to the point they can no longer function) they break out in sadness, self-absorption and generally being trying and frustrating to be around. The trouble is that unlike spots - where you're the same person and only the surface has changed - with depression often who you are changes. You aren't you any more, at least unless "you" was always an apathetic, miserable person wrapped up in their own head and who frequently lets down their friends or makes little effort to keep in contact with them.
 
-If you have spots and you're an a relationship where looks are important (say, a celebrity spokesperson or model) then it's up to you to cover them up or otherwise manage them, or its understandable if the relationship breaks down or ends. Friendships are relationships based on personalities and behaviour, so if one party's personality and/or behaviour changes radically, it seems the height of self-entitlement to demand the relationship continues unaffected.
+If you have spots and you're in a relationship where looks are important (say, a celebrity spokesperson or model) then it's up to you to cover them up or otherwise manage them, or its understandable if the relationship breaks down or ends. Friendships are relationships based on personalities and behaviour, so if one party's personality and/or behaviour changes radically, it seems the height of self-entitlement to demand the relationship continues unaffected.
 
 I don't mean to round down on anyone - especially anyone who's depressed, but I've seen serious depression up close and personal, both from the inside and the outside, and this common "oh man, I got depressed and lost many of my friends; oh well I guess they weren't real friends anyway" is sometimes true but often deeply unfair.
 
@@ -99,10 +101,8 @@ TL;DR: No-one owes us friendship, and certainly not irrespective of our behaviou
 
 True friendship is generally shared with 2-5 people tops though, thats the issue is that a lot of people believe they have more true friends than that. Which is ridiculous, because you can't give so much of your own time to more people than that, especially if you are close to your own family to stay close with, or need to provide for your own spouse and children. True friendship is extremely limited, lets be sure to define it as maybe 2 true friend in our lives. More than that is a rarity.
 
-I used to feel this way too because I'd been so hurt and I looked at the world through a cynical and jaded lens. With the help of Martin Seligman's book on 'Learned Optimism' (he's the founder of the Positive Psychology movement), I learned (eventually!) to see the world through a new lens.
-A lens I chose, a lens that didn't mean helplessness and negativity. And the same life...that hadn't changed on the outside...changed completely for me! :O It was like some kind of miracle. I was SHOCKED.
-People became warm and friendly. And very helpful. Life was beautiful as well as painful. Life was worth living.
-Perspective is more powerful than any drug. Our beliefs create our world.
+I used to feel this way too because I'd been so hurt and I looked at the world through a cynical and jaded lens. With the help of Martin Seligman's book on 'Learned Optimism' (he's the founder of the Positive Psychology movement), I learned (eventually!) to see the world through a new lens. A lens I chose, a lens that didn't mean helplessness and negativity. And the same life...that hadn't changed on the outside...changed completely for me! :O It was like some kind of miracle. I was SHOCKED.
+People became warm and friendly. And very helpful. Life was beautiful as well as painful. Life was worth living. Perspective is more powerful than any drug. Our beliefs create our world.
 
 My best friend has been the most intimate relationship of my life. She has been my dearest friend for thirty years. The quality of our relationship puts the average marriage to shame in terms of friendship. However, if my dominant life habits were suddenly not life affirming for her, she would have to put distance between us. Life is harsh and all of us put great effort into just facing what we must face. Friendships exists because it helps those involved. When it ceases to be useful, it is not a bad thing for friendship to breakdown.
 
@@ -118,13 +118,13 @@ I actually just learned this this very month. It's good to know. Though I would 
 The world doesn't care if you are hurting or broken. It will run over you without blinking.
 Yet that should never be a reason to ignore the hurting and broken when you can do something to help.
 
-### Reasonable minds can differ. Seriously, there are very smart, well-reasoned people who disagree with almost every opinion and belief you have, and that's okay.
+## Reasonable minds can differ. Seriously, there are very smart, well-reasoned people who disagree with almost every opinion and belief you have, and that's okay.
 
 The votes system is as good or bad (for me) as the voters' demographics.
 
 This has been a big thing for me to overcome in my mid-20s. I feel like certain beliefs I hold very close to me define me and if someone has different views than they have something against me.
 
-### There's no speed limit on anything (in the metaphorical sense). Graduate at 30? Sure. First kiss at 12? Sure. Divorce at 21? Why not. PhD at 21? Go for it. A lot of walls exist, and there are walls we can never break down, but some of those walls are walls you build. You have the plans, just knock those down.
+## There's no speed limit on anything (in the metaphorical sense). Graduate at 30? Sure. First kiss at 12? Sure. Divorce at 21? Why not. PhD at 21? Go for it. A lot of walls exist, and there are walls we can never break down, but some of those walls are walls you build. You have the plans, just knock those down.
 
 This is my favorite. Often we see the world as a well organized performance that we get to play a part in once we graduate. No, we're already playing the part we create.
 
@@ -167,15 +167,17 @@ This is something that occurred to me today as I go through a break up process. 
 In a lot of ways, love makes it all harder and more complicated. I've wanted to unlove someone before, because it would make the right decision easier. I've always felt that relationships are a choice, but love generally isn't. And that's a bitch.
 
 Adding to your list of things that no amount of love can do:
+
 Pay the bills.
-Make a person love themself.
+
+Make a person love themselves.
 
 You HAVE to love your partner. That's totally given. But if you ONLY love them you're missing 90% of the equation.
 I love my husband. A shit ton. But more importantly I respect, admire, empathize, like, sympathize, agree with, and understand him.
 
 Adding to this: you can't change people. You can be with someone for years, and you can love them, and it can be a bad relationship which isn't worth being in. This seems like a stupid concept, but it's true - you can love the wrong person, and your love of them can blind you to how wrong they are for you. Eventually, you'll get used to not being loved the way you want and need, and you'll begin to settle for the good times, and count on those.
 
-I loved a guy in an opposites attract sort of way. But eventually, what I first saw as "constructive criticism" became judgement. Judgement became snider and crueler, until it was eventually almost apathetic. Don't love someone you don't feel you can rely on. Don't love someone who'll turn their phone off on you when you're upset, because they'll "deal with it later when it's more convenient." Don't love someone who sits and stares at you when you cry, and the next words out of their mouth aren't kind, but more of that judgement you've come to expect. Don't love someone you fear.
+I loved a guy in an opposites attract sort of way. But eventually, what I first saw as "constructive criticism" became judgement. Judgement became snider and crueler, until it was eventually almost apathetic. *Don't love someone you don't feel you can rely on. Don't love someone who'll turn their phone off on you when you're upset, because they'll "deal with it later when it's more convenient." Don't love someone who sits and stares at you when you cry, and the next words out of their mouth aren't kind, but more of that judgement you've come to expect. Don't love someone you fear.*
 
 To clarify I dislike the coldness, not the people, I refuse to be a sink on someone rather than a source of happiness to them. By being like this will I change anything? I can only hope so for at least a few people, probability dictates otherwise but I've never cared much for numbers anyways. I've learned in my short time on this earth that the nice guy always gets stepped on, it is for this reason that I choose to be just that as I would rather be stepped on than do so to an innocent stranger. In short, I refuse to be a certain way just because it is useful in society. I think there's value in loving people, even those who will tread on you and even if you can't make a person love themselves you can help them rebuild their life and give them an opportunity to try.
 
