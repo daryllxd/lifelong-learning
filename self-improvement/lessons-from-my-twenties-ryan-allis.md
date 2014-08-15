@@ -67,3 +67,103 @@ Research amazing people. Find people who are brilliant and caring, are 10-20 yea
 Pursue them repeatedly in a kind way. They will almost always respect your persistence. Explain your passion for the same thing, the "why" behind what you do, how you may be able to help them, and be 100% authentic.
 
 *Stay at it for a few months if that is what it takes. These are people who can change your whole life, so do what it takes.* Be authentic. Be super informed. Build trust. Stay in touch every 8 weeks with quick emails. Go to the same events and develop the relationship.
+
+## Jedi
+
+"A highly competent, super-connected, and deeply compassionate SOUL & SYSTEMS THINKER, working at the highest levels of societal structuring, whose passion has been fully unleashed toward achieving an identified deeply meaningful mission that awakens them with extraordinary focus and immense energy daily."
+
+- Highly competent
+- Super connected
+- Deeply compassionate
+- Systems thinker
+- Working to improve the world
+- Identified meaningful mission
+- Passion unleashed on achieving mission
+- Extraordinary focus
+- Immense vibrant energy
+
+## Happiness
+
+A person can make himself happy or miserable regardless of what is happening outside just by changing the contents of conciousness.  -- Mihali Csikszentmihali
+
+The ability to persevere despite obstacles & setbacks is the most important trait for succeeding in life. -- Mihali Csikszentmihali
+
+The hotter the temperature the iron is forged in, the stronger the steel. So don't be afraid of a struggle: often the greatest individuals are those who have been through the most.
+
+- True happiness occurs when your inhibitions of revealing your true self are extinct.
+- True happiness occurs when you can fully express yourself & bring your full passion into your daily work.
+- True happiness occurs when your daily work is actually the greatest contribution you can make to humanity with the gifts you have.
+- True happiness occurs when you are making a difference in the lives of others.
+
+*Living with joyfulness and ease is a choice that you can make.*
+
+## Health
+
+The food we eat literally becomes us as nutrients are absorbed and used.
+
+A combination of high calorie & high salt diet, with little physical activity greatly decreases the ability of the body to cure itself from cancerous cells.
+
+*78% of cancer is caused by tobacco, diet, sunlight, and alcohol.*
+
+At least every 3 months, do a complete digital detox, with no phones/laptops for at least 72 hours.
+
+## Meditation
+
+Breathing properly is important for meditation. Art of living happiness program, Isha foundation inner engineering course.
+
+Art of living silence (being completely silent) helps.
+
+## Habits
+
+"Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny." -- Mahatma Gandhi
+
+What you do repeatedly creates your life and your results. There is great power in hacking your habits. If you're not getting the results you want in life, adjust your habits.
+
+BE POSITIVE Always DO WHAT I SAY I’ll DO UNDERCOMMIT / OVERDELIVER BE TRANSPARENT GET TRACK OF TASKS REVIEW GOALS ANNUALLY PLAN FOR THE FUTURE SEEK OUT AMAZING PEOPLE IDENTIFY MENTORS Give hugs not handshakes SHARE WHAT I LEARN WITH OTHERS STAY IN TOUCH WITH my NETWORK CONTINUALLY LEARN READ WATCH EDUCATIONAL VIDEOS EXERCISE EAT HEALTHY FOODS SPEND TIME IN NATURE DAILY MEDITATION COMMUNICATE OFTEN Watch <30min/wk of tv SEEK TO UNDERSTAND FIRST
+
+## Communication
+
+- When you talk to people, look them in the eye.
+- When you greet people, bound up to them with energy and excitement.
+- When you talk to people, smile.
+- When you talk to people, be joyous, not stressed.
+- Always let your passion shine through.
+- Restate the other person's point before you add your own.
+- Never start a sentence with BUT.
+- Avoid saying the words "um" and "uh".
+- Any time you have something difficult to communicate, do it in person.
+- Avoid sending emails with more than 5 sentences.
+
+## Money
+
+The rich have their assets work for them. They have gained control over their expenses by focusing on acquiring and building assets. Their businesses pay more of their expenses, and they have few, if any, personal liabilities.
+
+Money is simply a store of value which enables two parties to exchange, even if they cannot barter.
+
+*Including all your savings, investments, and debt, what is your net worth right now?*
+
+1. Spend less money than you earn every month.
+2. Never go into debt for something that you do not need.
+3. Save early in life, as the law of compound interest helps a lot over time.
+
+After building up 3 months of salary in your savings account, start investing. Start investing $1000 per month as early as you can in life.
+
+To become a millionaire, either build a business or save & invest wisely for 30 years.
+
+18 years from now, your financial situation will be a function of the plan you put in place and the actions you take today.
+
+## Investing (Skipped)
+
+## Love
+
+Laughter, optimism, vibrant energy
+
+Before you can find someone else to fall in love with you, you must love yourself first. Because to find an amazing partner, you yourself must first be amazing.
+
+To find a partner who is following their dreams, you must first be following your dreams. To find a partner who is living passionately, you yourself must first be living passionately.
+
+Don't lead your partner on. Follow the golden rule in all relationships. Be playful and let the little kid inside out. Push your partner to get better and become the best version of themselves.
+
+## Values
+
+To be human is to have the ability to transcend our egocentric preconditioning and care so deeply for our children, partners, friends or even strangers that we would put their interest above our own no matter what it might cost us personally" - Ray Kurzweil
