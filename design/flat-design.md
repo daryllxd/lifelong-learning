@@ -31,3 +31,21 @@ Layers used in flat design do not intersect, leaving a distinct background image
 3. *Focus on color.* Flat design color palettes are often much brighter and more colorful than those for other sites. More hues (which tend to be vibrant). Primary and secondary colors are popular. *Retro colors: salmon, purple, green, blue.*
 
 Almost flat design: Some effects are added to the design scheme. Buttons may contain slight gradients or drop shadows. Designers typically pick one effect and use it exclusively in an almost flat project.
+
+# The Flattening of Design
+[link](http://bits.blogs.nytimes.com/2013/04/23/the-flattening-of-design/)
+
+Part of the push toward flat design was to try to escape the overabundance of design that looks digital, where things have started to look cliche.
+
+We have to design for the LCD so you can't load a site up with heavy graphics. The end result is that all feels less cluttered.
+
+When today's graphics are too busy--layered with gradients and elaborate typography--people are forced to try to navigate a clutter of information in a very small space.
+
+# Flat Web Design: Trend or Revolution?
+[link](http://blog.usabilla.com/flat-web-design-trend-or-revolution/)
+
+1. *Flat web design is honest.* We acknowledge the 2D nature of screen design. There is no attempt to add any 3D effects or trick the user into thinking they are interacting with anything else than a flat screen.
+2. *Flat web design is trendy.* It's trendy, light, modern. It uses typography and white space.
+3. *Flat web design is usable.* The idea is to remove all distracting design elements and really focus on the content and your users' goals. Using visual cues such as color/typography, you can guide your users and help them reach their goals.
+4. *Flat design is quick.* Your line of sight is directly drawn to the essential parts of the site.
+5. *Flat web design is scalable.* Responsive design!
