@@ -38,7 +38,7 @@ There is a 5 seconds delay with the `sleep(5)`. Let's move that fake process to 
 
 ## Writing a Job
 
-A good practice is to create an `app/jobs` folder and store your job classes there. *A Resque job is any Ruby class or module with a `perform` clas method.*
+A good practice is to create an `app/jobs` folder and store your job classes there. *A Resque job is any Ruby class or module with a `perform` class method.*
 
     class Sleeper
       @queue = :sleep
@@ -84,7 +84,7 @@ Resque provides a Sinatra application as a web interface to monitor the status o
 
 - Overview: List of queues and workers.
 - Failed: Shows which jobs failed along with the exception that was thrown.
-- Workers: Shows a lits of workers and their status.
+- Workers: Shows a list of workers and their status.
 - Stat: Displays overall stats of the Resque instance as well as a listing of all the keys in Redis.
 
 ## Starting Up the Workers
@@ -238,6 +238,21 @@ So with the dashboard controller:
     end
 
 *Before we startd to implement the job pattern, the `DashboardController` was unaware of the calculation that `Comment.total_word_count` did.* Now, it's still ignorant of the background work and caching going on behind the scenes.
+
+# How Queuing With Resque Works
+[link](http://girders.org/blog/2011/10/30/how-queuing-with-resque-works/)
+
+Resque's real power comes with the Redis NoSQL Key-Value store. Resque leans on the Redis list data type, withe each queue name as a key, and a list as the value.
+
+To enqueue, we use Redis RPUSH, to dequeue, we use Redis LPOP. Since these operations are atomic, queuers and workers do not have to worry about locking and synchronizing access. Data structures are not nested in Redis, and each element of the list (or set, hash, etc.) must be a string.
+
+Redis is a very fast, in-memory dataset that can persist to disk or save operations to a log file for recovery after a restart, and supports master-slave replication.
+
+## How Queuing with Resque Works
+
+Resque stores a job queue in a Redis list named `resque:queue:name`, and each element in the list is a hash serialized as a JSON string.
+
+Running Resque without Rails: Add `require resque/tasks` to the Rakefile.
 
 # Introducing Resque
 [link](https://github.com/blog/542-introducing-resque)
