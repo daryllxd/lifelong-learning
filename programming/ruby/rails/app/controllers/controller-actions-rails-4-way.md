@@ -2,13 +2,13 @@
 
 ## Index
 
-Provides a representation of a plural (or collection) resource. (Super generic, may be different.) 
+Provides a representation of a plural (or collection) resource. (Super generic, may be different.)
 
 > What it looks like
-    
-    class AuctionsController < ApplicationController 
+
+    class AuctionsController < ApplicationController
         def index
-            @auctions = Auction.all 
+            @auctions = Auction.all
         end
     end
 
@@ -16,12 +16,12 @@ View template: Displays info about each auction, with links to specific informat
 
 Authorization on bids: We can now organize the bids controller in such a way that access is nicely layered, using action callbacks only where necessary and eliminating conditional branching in the actions themselves.
 
-    resources :auctions do 
+    resources :auctions do
         resources :bids do
-            get :manage, on: :collection 
+            get :manage, on: :collection
         end
     end
-    
+
     resources:bids
 
 Now there is a distinction between `/bids` and  `/auctions/1/bids/manage`, and there is a `bids_url` and `manage_auction_bids_url`.
@@ -49,7 +49,7 @@ Add `before_action :admin_required, only: :destroy`.
         redirect_to products_url, notice: "Product deleted!"
     end
 
-    %p= link_to product.name, product 
+    %p= link_to product.name, product
     - if current_user.admin?
         %p= link_to "delete", product, method: :delete
 
@@ -62,11 +62,11 @@ Add `before_action :admin_required, only: :destroy`.
 > Tech
 
     protected
-    
+
     def auction
         @auction ||= current_user.auctions.build(params[:auction])
     end
-    
+
     helper_method:auction
 
 > Create action

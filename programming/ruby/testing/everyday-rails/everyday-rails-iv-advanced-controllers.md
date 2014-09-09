@@ -67,7 +67,7 @@ First, create a new factory for users.
 #### Testing the guest role
 
     describe "guest access" do
-      
+
       describe "GET #new do
         it "requires login"
           get :new
@@ -110,7 +110,7 @@ First, create a new factory for users.
 
     shared_examples("public access to contacts") do
       describe "GET #index" do
-      
+
         it "populates an array of contacts"
           get :index
           expect(assigns(:contacts)).to match_array [@contact]
@@ -166,7 +166,7 @@ Then include them in any describe or contact block.
 
     RSpec.configure do |config|
       ...
-      
+
       config.include LoginMacros
     end
 
@@ -181,7 +181,7 @@ Then include them in any describe or contact block.
 #### Custom RSpec matcher
 
 > spec/support/matchers/require_login.rb
-    
+
     RSpec::Matchers.define :require_login do |expected|
 
 > This is what we expect to happen when you replace to expect(something). Need to load full path.
@@ -264,7 +264,7 @@ Dependencies: `faker`, `capybara`, `database_cleaner`, `launchy`.
     end
 
 > spec/features/users_spec.rb
-  
+
     feature "User management" do
       scenario "adds a new user" do
         admin = create(:admin)
@@ -334,7 +334,7 @@ Use `shoulda-matchers` gem in the `:test` group of the Gemfile, you get new matc
 
 #### Mocks and stubs
 
-A *mock* is a some object that represents a real objet, for testing purposes. Test doubles. They are like Factory Girl, except they don't touch the DB.
+A *mock* is a some object that represents a real object, for testing purposes. Test doubles. They are like Factory Girl, except they don't touch the DB.
 
 A *stub* overrides a method call on a given object and returns a predetermined value for it. It is a fake method which will return a real result for the tests.
 
