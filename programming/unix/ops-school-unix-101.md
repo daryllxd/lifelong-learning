@@ -63,13 +63,13 @@ Windows: Windows Installer. Linux: APT (used by Debian/Ubuntu), RPM (used by Red
 
 ### dpkg and APT
 
-    $ apt-cache search dstat # Search for packages
-    $ apt-get install dstat # Install dstat
+    $ apt-cache search dstat        # Search for packages
+    $ apt-get install dstat         # Install dstat
     $ dpkg -i dstat_0.7.2-3_all.deb # Install the package directly
-    $ apt-get install dstat # To upgrade a package, ask apt to install it again. Same with dpkg and installing directly.
-    $ apt-get remove dstat # Uninstall a package
-    $ dpkg -r dstat # Uninstall a package
-    $ apt-get purge dstat # Removing a package still leaves behind any configuration files, in case you wish to reinstall the package again later. purge to fully delete packages/configuration files.
+    $ apt-get install dstat         # To upgrade a package, ask apt to install it again. Same with dpkg and installing directly.
+    $ apt-get remove dstat          # Uninstall a package
+    $ dpkg -r dstat                 # Uninstall a package
+    $ apt-get purge dstat           # Removing a package still leaves behind any configuration files, in case you wish to reinstall the package again later. purge to fully delete packages/configuration files.
     $ apt-get --purge remove dstat
     $ dpkg -P dstat
 
