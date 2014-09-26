@@ -29,7 +29,3 @@ Killing via the Unix tools:
 - Block directive: same structure as a simple directive, but instead of the semicolon , it ends with a set of additional instructions surrounded by braces.
 - Context: Has other directives inside braces.
 
-
-
-
-

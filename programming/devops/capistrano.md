@@ -104,4 +104,8 @@ Add custom deploy hooks. You can configure events and command to run after the c
 
 `restart` task is built into Capistrano and will be executed by Capistrano automatically after your deployment is complete. We use the `touch tmp/restart.txt` technique that's common to modern Rails applications powered by Passenger, but your web server may require a different command.
 
+# Deploying Rails Apps, Part 6: Writing Capistrano Tasks
+[link](http://vladigleba.com/blog/2014/04/10/deploying-rails-apps-part-6-writing-capistrano-tasks/)
+
+When we ran `cap install`, we actually invoked a task named `install` that created various files and directories.
 
