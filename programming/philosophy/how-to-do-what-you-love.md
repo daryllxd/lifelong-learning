@@ -75,3 +75,61 @@ Such developers have realized that if you never invent, your code cannot be bett
 
 I will not suggest that one or the other approach is the best way forward. I think that for each person, there is a natural affinity to invention or a natural dislike of the risks and time sinks involved. Some people feel deeply rewarded giving birth to something new after a long, arduous period of research, trial and error. These developers can often be insanely smart.
 
+## My Favorite Interview Question
+
+The question they asked was: How might you design a program that moderates or referees people playing Monopoly on the Internet?
+
+Monopoly is poorly defined. The official rules of Monopoly are silent on some critical questions and vague on others. This problem makes it a great interview question. It drives a lot of valuable interactions between the candidate and the interviewers. You have to ask questions, make assumptions, and know when to stop gathering requirements and start driving the design.
+
+This ‘problem’ makes it a great interview question. It drives a lot of valuable interaction between the candidate and the interviewers. You have to ask questions, make assumptions, and know when to stop gathering requirements and start driving the design.
+
+*If the candidate uses up all of the interview time trying to obtain perfect requirements, we have a problem. In the software development I do, the requirements are never perfect. I don't demand that a candidate try to create an agile, iterative process on the spot, but I look for someone who knows when to say “close enough, let’s move forward.”*
+
+The second reason I like this problem is that Monopoly requires more than just a simplistic object design. Competent software developers spend much more time on relationships, responsibilities, and constraints than they do on trying to prematurely optimize reuse through inheritance.
+
+Where do the rules live? In a noun-oriented design, the rules are smooshed and smeared across the design, because every single object is responsible for knowing everything about everything that it can ‘do’. All the verbs are glued to the nouns as methods.
+
+Let’s take a look at a simple rules question. If a player owns Baltic Avenue, can she add a house to it?
+
+Well, there’s a bunch of stuff about whether she can afford it and whether there is a house available in the bank. Where does that live? In the bank object? And there is a bunch of stuff about whether it is either the player’s turn or between turns. Where does that live?
+
+And there is a bunch of stuff about whether the property already has four houses. Where does that live? Somewhere in the property hierarchy? Sounds reasonable. Now what about mortgaged property? If Baltic is mortgaged, the answer is no. That’s easy. But what if Mediterranean Avenue is mortgaged? And what if, for example, Baltic has one house but Mediterranean has none? Where does that logic live? Both of these last two questions involve knowing something about the other properties of a colour group.
+
+Now you can debate which verbs belong to which nouns, but here is an opportunity to step back a bit and consider the larger implications of maintaining such a ‘classical’ OO design.
+
+OO programs can be brilliant communicators in some designs (“here’s everything I need to know about a Money Transfer”) and terrible in others. I think this is part of the appeal and effectiveness) of the Domain Specific Language approach. It does a better job of communicating its intentions than a simple OO design.
+
+Another issue about the rules. In software development, requirements often change. What kinds of requirements changes are easy with the design? What kinds are difficult?
+
+Now to close as rapidly as possible with what I consider an essential characteristic of a good design problem, and one that applies here. Monopoly is too large to solve in one interview. *The reason this is important is that it forces the designer to pick and choose what elements of the design to solve in limited time.*
+
+## Interlude: Idiocracy
+
+*Never hire an engineer on the basis of questions any idiot could answer. If you ignore the above maxim, the result of your negligence may one day wind up becoming your boss. If you take a job with a company that asks you questions any idiot could answer, sooner or later they’re going to put you on a project with some idiot who answered them.*
+
+## Take control of your interview
+
+*bjective: Think of three things you want the interviewer to know about you that you think they are unlikely to find out if they ask all the questions.*
+
+
+The important ideas are that (a) you want the interviewer to know about each of the three things, and that (b) the interviewer is unlikely to ask about all three if you don't exercise some control over the interview.
+
+First, don’t bother with how many years of technical experience you have with the company’s tools and platforms. If they are using in-house Common Lisp macros compiled to C and then distributed on a grid with MapReduce, I guarantee that they will ask whether you have any Lisp or distributed programming experience all by themselves.
+
+The three things you want to take into the interview should be stuff that matters to them but is hard for them to ask about. Think about the difference between yourself, presumably an expert in these areas, and someone who has only worked on one project with the same technology. You both touched all the same tools and code, but there’s something special about you, your extra experience means something. What is it?
+
+If you tell me that you have five years of experience, I have no idea whether you have five years of experience or whether you simply did the same thing over and over again. What is it that you learned that makes you special? What secrets to you possess that can't be listed on your resumé?
+
+For each person, there will be different answers. One person might say that their “secret sauce” is that they have learned the ins and outs of the platform, they know what works and what doesn't, they know how to work around the shortcomings. Another might emphasize the non-technical skills. I would personally be impressed with anyone who said that what makes them special is that they are very, very accurate when they estimate tasks and projects.
+
+Interviewer: What's your experience with Ruby?
+
+Interviewee: Well, I was the lead developer on the Certitude project. We built that with Rails and we included a fairly heavy dose of Ruby idioms, including a domain-specific language for pattern-matching and lots of dynamic meta-programming (answers the interviewer's question). One of the things I discovered on that project was the importance of a bomb-proof quality control process when you have such a powerful language. I customized our continuous integration server to track changed files, tests, bugs in a unified report interface so we could monitor the most troublesome modules. It really saved our bacon late in the project when we had to really tighten up our risk management to ship on time (the add on, emphasizing the process).
+
+Perhaps you didn't get a good opportunity to mention your three things and the interview is winding down to a close. Don't try a desperation coat tail where you try to stick two completely unrelated things together. Instead, try using a question to introduce one of your things indirectly.
+
+## So here's how to get started:
+
+- List your three things you want the interviewer to know about you that you think they are unlikely to find out if they ask all the questions;
+- Write a one-paragraph description of for each thing that you could use to ‘coat tail’ onto another question;
+- Think of a question you could ask for each thing that would naturally lead to a discussion.
