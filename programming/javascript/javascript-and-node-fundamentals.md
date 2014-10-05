@@ -6,6 +6,10 @@ Neil Gafter: "In my mind, a language construct is expressive if it enables you t
 
 Loose typing: String, Number (integer/real), Boolean, Undefined, Null.
 
-## Prototypal Nature
+Prototypal nature: No classes in JS because objects inherit directly from other objects which is called prototypal inheritance.
 
-No classes in JS because objects inherit directly from other objects which is called prototypal inheritance.
+`this` mutates and changes a lot, especially in jQuery, so reassign to a locally scoped variable before attempting to use `this` inside of a closure.
+
+# Coffeescript Fundamentals
+
+In JS classes are absent at all. We use prototypes instead. CS introduces the `class` keyword.
