@@ -13,3 +13,19 @@ Prototypal nature: No classes in JS because objects inherit directly from other 
 # Coffeescript Fundamentals
 
 In JS classes are absent at all. We use prototypes instead. CS introduces the `class` keyword.
+
+Comprehensions: Iterating over an array:
+
+    for a in arr
+      console.log a
+
+# Backbone.js Fundamentals
+
+Four classes:
+
+- Router: Mapping URL to methods.
+- View: Methods related to browser/user events, HTML output
+- Collection: A list of models with extra helpers such as `fetch()`
+- Model: An individual data item with extra helpers
+
+Main Router class, then all routes will be defined there.
