@@ -346,11 +346,6 @@ To do this, we'll need to set the scope property of the directive to an empty ob
 
 *Transclude.* Transclusion allows us to pass and entire template, including its scope, to a directive. Doing so gives us the opportunity to pass in arbitrary content and and
 
-
-
-
-
-
 # Build custom directives with AngularJS
 [link](http://www.ng-newsletter.com/posts/directives.html)
 

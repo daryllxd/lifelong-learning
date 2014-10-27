@@ -35,3 +35,9 @@ HTTP methods/verbs
 HATEOAS gonna hate
 
  You want only one entry point
+
+## How to Evaluate Your Rails JSON API for Performance Improvements
+[link](http://robots.thoughtbot.com/how-to-evaluate-your-rails-json-api-for-performance-improvements)
+
+- *The response object has properties the client doesn't use.* AM serializers instead of `#as_json`.
+- *Static responses aren't being cached effectively.* HTTP caching. CDN.
