@@ -123,3 +123,13 @@ Injection:
 *Factories:*  You get the value that is returned when the function reference is invoked.
 
 *Providers:* (`module.provider('providerName' ,function)`). When declaring `providerName` as an injectable argument you will be provided with `ProviderFunction().$get()`. They can be configured during the module configuration phase.
+
+# AngularJS Step-by-Step: Services
+[link](http://blog.pluralsight.com/angularjs-step-by-step-services)
+
+When I say service, I really just refer to a simple object that does some sort of work. The main public members of a service are functions, not properties, especially since having properties suggests some sort of state.
+
+SRP: The controller's job is to wire up the scope. If your controller is also responsible for making AJAX calls to fetch and update data, this is a violation of the SRP principle. Logic like that should be abstracted out into a separate service, then injected into the objects that need to use it.
+
+DIP: Objects should depend on abstractions, not concretions. In JS, you can look at any parameter of any function (constructor or otherwise) as an abstractions, since you can pass in any object for that parameter so long as it has the members on it that are used within that method. The key here is the ability to use DI--the ability to inject into other objects.
+

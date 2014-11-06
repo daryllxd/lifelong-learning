@@ -72,3 +72,16 @@ By default, AngularJS expressions don't have access to the `window` object unles
 
 Filters help in adding some conditional logic in your Angular templates.
 
+## All About the Built-In AngularJS Filters
+
+Extending filters with arguments: `{{ totalCost | currency:"USD$" }}`
+
+Filters inside of JS: `$filter('number')(15, 5)` which is equal to `{{ 15 | number:5 }}` which will render the number 15 as a string to five decimal places.
+
+    {{ copy | uppercase | lowercase }}
+    {{ defaultNumber | number:4 }} # 4 decimal places
+    {{ defaultNumber | currency:'$':4 }} # 4 decimal places
+    {{ userInfor | json }}
+    {{ previewCopy | limitTo: 250 }} # 250 characters
+
+    {{ thing | limitTo: 150 }}<span ng-if="copy.length > 150">...</span>
