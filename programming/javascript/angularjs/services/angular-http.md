@@ -1,4 +1,4 @@
-## `$http`
+## $http
 
     $http.get('/someUrl')
       .success (data, status, headers, config)
