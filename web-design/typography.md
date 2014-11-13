@@ -36,10 +36,10 @@ Using the CSS line-height property, you can easily assign space between your lin
 - If title, line-height is 150%.
 - Remember CSS selector p + p, paragraphs directly following another paragraph.
 
-		p + p {
-		text-indent: 2em;
-		margin-top: 0;
-		}
+    p + p {
+    text-indent: 2em;
+    margin-top: 0;
+    }
 
 - Hinting: Use a quality font that is optimized for the pixel grid.
 - Font size for body text: at least 16 px.
@@ -63,7 +63,7 @@ Using the CSS line-height property, you can easily assign space between your lin
 - Use wider letter and word spacing for emphasis?
 - Set body copy as justified left, ragged right?
 - Make use of CSS to set special capitalization rules (all uppercase, all lowercase, title case) automatically?
-- Apply underlining only for links?		
+- Apply underlining only for links?
 - Test the site in grayscale to make sure that foreground text contrasts sufficiently in value with background text?
 - If using light text on a dark background, consider making the text bolder or choosing a typeface with inherently thicker strokes?
 
@@ -90,60 +90,60 @@ Liquid layouts: adjusting the layout continuously to every possible width
 We believe that adaptive with as few as possible break points is the way to go, because readability is more important than having a layout that is always as wide as the viewport
 
 ## Hack Design 7.2 — Contrast Through Scale
- 
-Start with your base paragraph size. 
+
+Start with your base paragraph size.
 
 The size you choose for your paragraph settings is important for two reasons. Firstly, in most situations, your site will have more <p> elements than any other, so it’s only prudent to start with your most prolific element. In addition, best practice suggests that you determine the size of all other elements based on your P size.
 
 With young audiences, type can afford to be smaller and ignore guidelines that aid legibility. On Moshi Monsters, the use of all caps settings at small sizes, though less inherently legible, push a sense of ‘design’ to the fore.
 
-	body { font-size:100%; }
-	h1 { font-size: 2.25em; /* 16 x 2.25 = 36 */ }
-	h2 { font-size: 1.5em; /* 16 x 1.5 = 24 */ }
-	h3 { font-size: 1.125em; /* 16 x 1.125 = 18 */ }
-	h4 { font-size: 0.875em; /* 16 x 0.875 = 14 */ }
-	p { font-size: 0.75em; /* 16 x 0.75 = 12 */ }
+  body { font-size:100%; }
+  h1 { font-size: 2.25em; /* 16 x 2.25 = 36 */ }
+  h2 { font-size: 1.5em; /* 16 x 1.5 = 24 */ }
+  h3 { font-size: 1.125em; /* 16 x 1.125 = 18 */ }
+  h4 { font-size: 0.875em; /* 16 x 0.875 = 14 */ }
+  p { font-size: 0.75em; /* 16 x 0.75 = 12 */ }
 
 Or
 
-	body { font-size: 100%; }
-	h1 { font-size: 4em; /* 16 x 4 = 64 */ }
-	h2 { font-size: 2.5em; /* 16 x 2.5 = 40 */ }
-	h3 { font-size: 1.5em; /* 16 x 1.5 = 24 */ }
-	p { font-size: 1em; /* 16 x 1 = 16 */ }
+  body { font-size: 100%; }
+  h1 { font-size: 4em; /* 16 x 4 = 64 */ }
+  h2 { font-size: 2.5em; /* 16 x 2.5 = 40 */ }
+  h3 { font-size: 1.5em; /* 16 x 1.5 = 24 */ }
+  p { font-size: 1em; /* 16 x 1 = 16 */ }
 
 Consider ratios
 
-	h1 - 41.886784 x 1.618 = 67.773
-	h2 - 25.888 x 1.618     = 41.887
-	h3 - 16 x 1.618         = 25.888
-	p - 16 x 1	   = 16
+  h1 - 41.886784 x 1.618 = 67.773
+  h2 - 25.888 x 1.618     = 41.887
+  h3 - 16 x 1.618         = 25.888
+  p - 16 x 1     = 16
 
 
 ## Hack Design 8.1 — The Elements of Typographic Style Applied to the Web
 
 To change the word spacing, you should specify a length in ems. This length is added to the existing word space; that is to say word-spacing does not set the actual space between words, it sets an increment to the existing spacing.
 
-	p {
-	word-spacing:0.25em }
-	H1 {
-	word-spacing:-0.125em }
+  p {
+  word-spacing:0.25em }
+  H1 {
+  word-spacing:-0.125em }
 
 #### Measure
 
 Characters in a single line of column or text. 45-75 characters (66-characters is regarded as ideal).
 
-From a typographical perspective, the most appropriate method is to set box width in ems (elastic layout) as it ensures the measure is always set to the typographer’s specification. 
+From a typographical perspective, the most appropriate method is to set box width in ems (elastic layout) as it ensures the measure is always set to the typographer’s specification.
 
-	&#8194; en space  
-	&#8195; em space  
-	&#8196; 3-per-em space  
-	&#8197; 4-per-em space  
-	&#8198; 6-per-em space  
-	&#8199; figure space  
-	&#8200; punctuation space  
-	&#8201; thin space  
-	&#8202; hair space  
+  &#8194; en space  
+  &#8195; em space  
+  &#8196; 3-per-em space  
+  &#8197; 4-per-em space
+  &#8198; 6-per-em space  
+  &#8199; figure space  
+  &#8200; punctuation space  
+  &#8201; thin space  
+  &#8202; hair space  
 
 Another method would be to apply the white-space:pre property in css to retain the white space formatting. However if you are using white space to format a passage of text, for instance computer code or poetry, then you should enclose the passage in a pre element as this is a more semantic way to preserve the white space pre-formatting.
 
@@ -153,11 +153,11 @@ Add and delete vertical space in measured intervals
 
 IF text = 12px, line-height = 1.5em (each line is 18px in height), the vertical spacing between blocks must also be 18px.
 
-	p {
-		line-height: 1.5;
-		margin-top: 1.5em;
-		margin-bottom: 1.5em 
-	}
+  p {
+    line-height: 1.5;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em
+  }
 
 On the Web, images in sidebars and within the main body of text are almost always guilty of disrupting the rhythm of text. The same rules should be applied to images as to headings: any image and associated caption should take up multiples of the basic line height.
 
@@ -167,17 +167,17 @@ If you don't put spacing between paragraphs you can use text-indent:1em;  to ind
 
 Ornamented indention;
 
-	p {
-		display: inline
-	}
-	p + p:before { 
-		content: "2761"; 
-		padding-right: 0.1em;
-		padding-left: 0.4em 
-	}
+  p {
+    display: inline
+  }
+  p + p:before {
+    content: "2761";
+    padding-right: 0.1em;
+    padding-left: 0.4em
+  }
 
 Add extra lead before and after block quotations: add a gap between a block quotation and the main text by applying a top and bottom margin to the blockquote. Indent or center them.
 
-	blockquote {
-		margin:1.5em 
-	}
+  blockquote {
+    margin:1.5em
+  }
