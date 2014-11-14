@@ -7,7 +7,7 @@ Ex: Devise `confirmable`, if you forgot to pass a date to `:confirmed_at`, the c
 
 ## Models
 
-Factory methods, queries, scopes, general validations *which are always applicable* , domain constraints such as "you cannot assign users from other organizations to other organizations". *Putting this kind of logic inA controllers' `:before_filter` or permission classes is not enough, I want to ensure the integrity of the data and make it impossible to bypass this restriction.*
+Factory methods, queries, scopes, general validations *which are always applicable* , domain constraints such as "you cannot assign users from other organizations to other organizations". *Putting this kind of logic in a controllers' `:before_filter` or permission classes is not enough, I want to ensure the integrity of the data and make it impossible to bypass this restriction.*
 
     validate :ensure_valid_organization
 
@@ -231,5 +231,4 @@ In many applications you may encounter a situation where a concept deserves own 
             raise RoleRank::InvalidRole, "Specified Role Doesn't Exist"
           end
         end
-
     end

@@ -25,11 +25,11 @@
 
 - Switch db adapter
 - Add dev gems: `better_errors`, `binding_of_caller`, `thin`, `pry`, `quiet_assets`, git repo
-- Consider if I'll be useing hstore for postgres and add a migration to serve it.
+- Consider if I'll be using hstore for postgres and add a migration to serve it.
 - Models/routes.
 - No staged version of the app until schema, routes, controllers are set up enough to provide a working system with core functionality.
 - Rails composer, suspenders, railsbricks
-- exception_notification. Absolute bloody life-saver.
+- `exception_notification`. Absolute bloody life-saver.
 - slim and sass, get bourbon installed
 - Guard and Rspec and start writing some tests.
 
