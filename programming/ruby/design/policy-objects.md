@@ -69,4 +69,4 @@ Boolean externality: In theory, all the important information has been rolled up
 
 #### Comments
 
-With a Result or Either type, you can communicate more information about why something happened. In Ruby, this would mean returnign a tuple of `(true/false, String)` instead of just a bool.
+With a Result or Either type, you can communicate more information about why something happened. In Ruby, this would mean returning a tuple of `(true/false, String)` instead of just a bool.
