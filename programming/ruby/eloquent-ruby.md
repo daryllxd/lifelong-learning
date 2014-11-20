@@ -61,3 +61,21 @@ Strings hold some data that we are processing. Strings also represent things in 
 *Strings are optimized for the data processing side of strings while symbols are meant to take over the "stands for" role.* Since we don't use symbols for data processing tasks, they lack most of the string manipulation methods.
 
 Use strings for data, for things you might want to truncate, turn to uppercase, or concatenate. Use symbols when you simply want an intelligible things that stands for something in your code.
+
+## Chapter 7: Treat Everything Like an Object--Because Everything Is
+
+Classes act as containers for methods. They are also factories, factories for making instances.
+
+Ruby treats self as a sort of default object. When you call a method without an explicit object reference, Ruby assumes that you meant to call the method on `self`.
+
+This is why we have `-3.abs`, not `abs(-3)`, because we literally call the `abs` function on -3.
+
+Private: *You cannot call a private method with an explicit object reference.* Private methods are callable from subclasses, because you don't need an explicit object reference to call a superclass method from a subclass.
+
+You can still actually call `private` methods by using the `send` method (`doc.send(:word_count)` won't raise an exception, even if `word_count` is private.
+
+Assigning a value to a local variable/if statements are not method calls, but a large part of Ruby is. Even `private` is just a method implemented inside the Ruby interpreter.
+
+## Chapter 8: Embrace Dynamic Typing
+
+When we call methods, we do not ask that the argument be of a particular class. *Ruby simply assumes that if an object has the right kind of methods, then it is the right kind of object. If you continue to write static type style base classes, your code will continue to be much bulkier than it might need to be.*
