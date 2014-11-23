@@ -79,3 +79,72 @@ Assigning a value to a local variable/if statements are not method calls, but a 
 ## Chapter 8: Embrace Dynamic Typing
 
 When we call methods, we do not ask that the argument be of a particular class. *Ruby simply assumes that if an object has the right kind of methods, then it is the right kind of object. If you continue to write static type style base classes, your code will continue to be much bulkier than it might need to be.*
+
+What not to do: Pseudo-static type checking, such as `kind_of? String`. *When you are coding, anything that reduces the number of revolving mental plates is a win. From this perspective ,a typing system that you can sum up in a short phrase, "The method is either there or it is not," has some definite appeal. if the problem is complexity, the solution might just be simplicity.*
+
+The problem with duck typing: if we miss the memo saying that `Document` now expects `@title` to have a `long_name` method, we get `NoMethodError`. To avoid mixing your types, write the clearest, most concise code you can, which explains why Ruby programmers places such a high premium on clear and concise code.
+
+So, how do you take advantage of dynamic typing? First, don't create more infrastructure than you really need. Keep in mind that Ruby classes don't need to be related by inheritance to share a common interface; they only need to support the same methods. *Don't obscure yoru code with pointless checks to see whether `this` really is an instance of `that`.*
+
+## Chapter 9: Write Specs
+
+Unless you want to spend all your waking hours running tests manually, you need a test framework, a framework that will let the computer exercise the code for you. *A key part of the Ruby style of programming is that no class, and certainly no program, is ever done if it lacks automated tests.*
+
+Much of the code of a `Test::Unit` test is about the test and not about the code that you are testing. In a more perfect world, the test would focus on the behavior itself, so that the test would read something like this:
+
+*About the Document class: When you have a document instance, it should hang onto the text that you give it. It should also return an array containing each word in the document when you call the words method. And it should return the number of words in the document when you call the word_count method.*
+
+The code above isn't a test, it's a description. The description says that the `Document` class should hold on to the contents. We don't assert things; we say that they should happen. Thus, we don't assert that `word_count` returns 4, we say that `word_count` should equal 4.
+
+Stubs - an object that implements the same interface as one of the supporting cast members, but returns canned answers when its methods are called. To use the `stub` method, you pass in a hash of method names (as symbols) and the corresponding values you want those methods to return. The `stub` method will give you back an object equipped with exactly those methods, methods that will return the appropriate values.
+
+*Mocks - a mock is a stub with an attitude. Along with knowing what canned responses to return, a mock also knows which methods should be called and with what arguments.* Critically, a disappointed mock will fail the tests.
+
+#### RubySpec: If Method Check
+
+    describe "The if expression" do
+      it "evaluates body if expression is true" do
+        a = []
+        if true
+          a << 123
+        end
+        a.should == [123]
+      end
+
+      it "does not evaluate body if expression is false" do
+        a = []
+        if false
+          a << 123
+        end
+        a.should == []
+      end
+      # Lots and lots of stuff omitted
+    end
+
+#### RubySpec: Array.each Method Check
+
+    describe "Array#each" do
+      it "yields each element to the block" do
+        a = []
+          x = [1, 2, 3]
+          x.each { |item| a << item }.should equal(x)
+          a.should == [1, 2, 3]
+      end
+        # Lots of stuff omitted
+    end
+
+Ideally, the tests for your whole system should run in at most a few minutes. Longer running tests are fine, but unit tests should run quick with the setup that every developer has. They are your first line of defense, and in order to be any good they must be run often.
+
+Tests also need to be independent of one another. You want to carefully avoid having one test rely on the output of a previous tests. Don't create a file in one test and expect it to be there in another.
+
+Sometimes, even stuff like this works:
+
+    Document.new('title', 'author', 'stuff').should_not == nil
+
+This guarantees:
+
+- Document is a class.
+- It is found in the `document.rb` file.
+- The `document.rb` file doesn't really contain any really egregious Ruby syntax errors.
+- `Document.new` will take three arguments.
+- `Document.new` actually returns something and it doesn't throw an exception.
