@@ -148,3 +148,195 @@ This guarantees:
 - The `document.rb` file doesn't really contain any really egregious Ruby syntax errors.
 - `Document.new` will take three arguments.
 - `Document.new` actually returns something and it doesn't throw an exception.
+
+## Part II: Classes, Modules, and Blocks
+
+#### Construct Your Classes From Short, Focused Methods
+
+Despite shelves full of books on software architecture, enough UML diagrams to fill an art museum, and design meetings that seem to last longer than the pyramids, building software mostly comes down to writing one method after another.
+
+Mission: Take in a text string, produce two arrays. First array: All of the words in the original text. Second array: Integer indices, one index in the second array for each word in the original document.
+
+    Input: This specification is the specification for a specification
+    Array 1: ["This", "specification", "is", "the", "for", "a"]
+    Array 2: [0, 1, 2, 3, 1, 4, 5, 1]
+
+    class TextCompressor
+      attr_reader :unique, :index
+
+      def initialize( text )
+        @unique = []
+        @index = []
+        add_text( text )
+      end
+
+      def add_text( text )
+        words = text.split
+        words.each { |word| add_word( word ) }
+      end
+
+      def add_word( word )
+        i = unique_index_of( word ) || add_unique_word( word )
+        @index << i
+      end
+
+      def unique_index_of( word )
+        @unique.index(word)
+      end
+
+      def add_unique_word( word )
+        @unique << word
+        unique.size - 1
+      end
+    end
+
+#### Composing Methods for Humans
+
+What we have just done to the `TextCompressor` is to apply the *composed method* technique to it. This advocates dividing your class into methods that have three characteristics.
+
+- Each method should do a single thing--focus on solving a single aspect of the problem.
+- Each method needs to operate at a single conceptual level--don't mix high level logic with the nitty-gritty details. *A method that implements the business logic around currency conversions should not suddenyl veer off into the details of how the various accounts are stored in a database.*
+- Finally, each method needs to have a name that reflects its purpose. Done right, the method names guide you through the logic of the code.
+
+Conceptually, some methods deal with the messy details of array indexes, while other methods operate at a higher conceptual level. Each of the methods also have a carefully chosen name, a name that tells the reader exactly what the method does.
+
+Bad:
+
+    def prose_rating
+        if pretentious_density > 0.3
+          if informal_density < 0.2
+            return :really_pretentious
+          else
+            return :somewhat_pretentious
+          end
+        elsif pretentious_density < 0.1
+          if informal_density > 0.3
+            return :really_informal
+    end
+          return :somewhat_informal
+        else
+          return :about_right
+        end
+    end
+
+Good: Composed methods.
+
+    def prose_rating
+      return :really_pretentious if really_pretentious?
+      return :somewhat_pretentious if somewhat_pretentious?
+      return :really_informal if really_informal?
+      return :somewhat_informal if  somewhat_informal?
+      return :about_right
+    end
+
+    def really_pretentious?
+      pretentious_density > 0.3 && informal_density < 0.2
+    end
+
+    def somewhat_pretentious?
+      pretentious_density > 0.3 && informal_density >= 0.2
+    end
+
+#### Example: ActiveRecord::Base#find
+
+    def find(*args)
+      options = args.extract_options!
+      validate_find_options(options)
+      set_readonly_option!(options)
+      case args.first
+        when :first then find_initial(options)
+        when :last  then find_last(options)
+        when :all   then find_every(options)
+        else             find_from_ids(args, options)
+      end
+    end
+
+## Chapter 11: Define Operators Respectfully
+
+One of the nice things about Ruby is that the language keeps very few secrets from its programmers. You can create your own `Float` class.
+
+    sum = first + second
+    sum = first.+(second)
+
+    result = first + second * (third - fourth)
+    result = first.+second.*(third.-(fourth))
+
+`<<` is popular because it has taken a second meaning as the concatenation, or "add another one" operator.
+
+Ruby programmers can also define a methods that will make their objects look like arrays or hashes: `[]` and `[]=`. Although technically these bracketed methods are not operators, the Ruby parser sprinkles some very operator-like syntactic sugar on them: When you say `foo[4]`, you are really calling the `[]` method on `foo`, passing in 4 as an argument.
+
+If you are writing a collection class, it's an easy decision to add an `<<` operator. In the same vein, if your class has some natural indexing tendencies, then defining `[]` and `[]=` may not be a bad idea.
+
+You can also do something like this:
+
+    department = employee_1 + employee_2
+
+You can invent your own operator-based object calculus, with a hierarchy of increasingly complex organizational types and a rich set of operators
+
+You can do `Time.now + 50` but not `50 + Time.now`.
+
+## Chapter 12: Create Classes That Understand Equality
+
+- `equal?`: Tests for object identity.
+- `==`: This will only return true if the objects being compared are identically the same object. Unlike `equal?`, you are free to implement any kind of "same value comparison."
+
+    def ==(other)
+      return false unless other.instance_of?(self.class) # makes sure also DocumentIdentifier
+      folder == other.folder && name == other.name       # qualifies to make sure same folder and same name
+    end
+
+If we would rather not have class checks, we can do:
+
+    def ==(other)
+      return false unless other.respond_to?(:folder) # check if receptive to method .folder
+      return false unless other.respond_to?(:name)
+      folder == other.folder && name == other.name
+    end
+
+When subclassing, you can do things like this:
+
+    def ==(other)
+        if other.instance_of? VersionedIdentifier        # if subclassed, check version
+          other.folder == folder &&
+          other.name == name &&
+          other.version == version
+        elsif other.instance_of? DocumentIdentifier
+          other.folder == folder && other.name == name   # if not, folder and name is enough
+        else
+          false
+        end
+      end
+    end
+
+But better to do things like this:
+
+    def as_document_identifier
+      DocumentIdentifier.new(folder, name)
+    end
+
+- `===`.
+
+This is whatever the author of the class wants it to mean. The main usage for the `===` operator is in `case` expressions, since
+
+    case foo
+    when bar
+      baz
+    when quux
+      flurb
+    else
+      blarf
+    end
+
+Gets translated to
+
+    _temp = foo
+
+    if bar === _temp
+      baz
+    elsif quux === _temp
+      flurb
+    else
+      blarf
+    end
+
+- `eql?`:
