@@ -97,8 +97,8 @@ We have `:if` and `:unless` options to determine at runtime whether a validation
 Argument types
 
 - Symbol: The name of a method to invoke as a symbol. (Most common option)
-- String: A snipper of Ruby code to `eval` can be useful tbut this is actually slow. 
-- A block of code to be `instance_eval`'d, so that `self` is the current record. 
+- String: A snipper of Ruby code to `eval` can be useful tbut this is actually slow.
+- A block of code to be `instance_eval`'d, so that `self` is the current record.
 
 Sample: The `if` and the method are symbols. They are executed when they need to be.
 
@@ -124,11 +124,6 @@ What happens is we can set up a variable to store whether "user is coming from t
 
     @user.updating_password = true
     @user.save
-
-
-
-
-
 
 - `validates_absence_of`
 - `validates_each`
