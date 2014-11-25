@@ -1,3 +1,7 @@
+## Serializing in JSON
+
+    serialize :preferences, JSON
+
 ## serialize APIdock
 [Link](http://apidock.com/rails/ActiveRecord/AttributeMethods/Serialization/ClassMethods/serialize)
 
@@ -46,7 +50,7 @@ Serialize has the obvious disadvantage that you can't search by SQL on it. *So y
 
 Its advantage is that it can be very fast, especially if you have to handle rather complex structures.
 
-An example: We have about 12,000 products in our database. Each product is tagged with technical data that can be a bit complex. There is simple data like color, size, weight (but a lot of it, like 100 values for each item) and there is more complex data like items belong to certain car models (down to the build year level). Collecting this data and put it in a nice data structure is rather slow. While this data is still in tables whenever somebody edits it I write it in serialized form into the product table. So if I want to display it I have the whole tree structure immediately. 
+An example: We have about 12,000 products in our database. Each product is tagged with technical data that can be a bit complex. There is simple data like color, size, weight (but a lot of it, like 100 values for each item) and there is more complex data like items belong to certain car models (down to the build year level). Collecting this data and put it in a nice data structure is rather slow. While this data is still in tables whenever somebody edits it I write it in serialized form into the product table. So if I want to display it I have the whole tree structure immediately.
 
 (Since we search with Apache Solr there is more of this moving around data between different systems and forms of storage anyway, so not much extra overhead, otherwise you want to avoid storing identical information in different places).
 
