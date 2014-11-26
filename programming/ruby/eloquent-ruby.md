@@ -339,4 +339,99 @@ Gets translated to
       blarf
     end
 
-- `eql?`:
+- `eql?`: This is not actually called directly, until you try to use your object as a key in a hash. You cannot fetch IDs set inside a hash even if it has been set before with the same objects. This is because of the way hash tables are used, and the hash codes differ from each other.
+
+    1 == 1.0, according to Ruby (it converts the Fixnum to a flow before doing the comparison)
+
+#### Comparable
+
+    `<=>` operator: Comparable will add a <, <=, >=, and > in the class, all of which rely on the <=> method to come up with the right answer.
+
+Ruby classes treat `===` as an alias for `kind_of?`.
+
+## Chapter 13: Get the Behavior You Need with Singleton and Class Methods
+
+A singleton method is a method that is defined for exactly one object instance. "No other Spec::Mocks::Mock instance has an `available?` method, but I'm special."
+
+    hand_built_stub_printer = Object.new
+
+    class << hand_built_stub_printer
+      def available?                    # Singleton method
+        true
+      end
+    end
+
+A singleton class sits between every object and its regular class. This starts out a methodless shell, but you can add something to it.
+
+*Class methods are singleton methods.*
+
+## Chapter 14: Use Class Instance Variables
+
+Class variables:
+
+    @@default_paper_size = :a4
+
+    def self.default_paper_size
+      @@default_paper_size
+    end
+
+*If the class variable is not defined in the current class, Ruby will look up the inheritance tree for it, FIRST.*
+
+## Chapter 15: Use Modules as Name Spaces
+
+Modules can also hold constants, so we can do this:
+
+    module Rendering
+      DEFAULT_FONT = Font.new('default')
+    end
+
+    Rendering::DEFAULT_FONT
+
+You can also use modules to enclose individual methods.
+
+    module WordProcessor
+      def self.points_to_inches(points)
+        ...
+      end
+    end
+
+You can separate modules (declare some parts of the modules in different files).
+
+You can take advantage of the objectness of modules to swap out whole groups of related classes and constants at runtime. We can do this:
+
+    module TonsOfToner
+      class PrintQueue
+      end
+
+      class Administration
+      end
+    end
+
+    class OceansOfInk
+      class PrintQueue
+      end
+
+      class Administration
+      end
+    end
+
+We can do stuff like:
+
+    print_module = TonsOfToner or print_module = OceansOfInk
+
+If you find yourself creating a lot of names that all start with the same word, you may need that kind of a module. If you want to enclose stand-alone utility methods in a module, make sure that you define those methods as module-level methods.
+
+    module WordProcessor
+      def self.points_to_inches # Do this, not def points_to_index, because the second case needs to be mixed in to be used.
+      end
+    end
+
+## Chapter 16: Use Modules as Mixins
+
+You can insert, or "mix in", modules into the inheritance tree of your classes. Ex: If you need a method to be used in different classes, you can `include` it in. If you need to mix in for the class, you can `extend` the class.
+
+    class Document
+      class << self
+        include Finders
+      end
+    end
