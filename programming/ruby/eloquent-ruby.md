@@ -435,3 +435,13 @@ You can insert, or "mix in", modules into the inheritance tree of your classes. 
         include Finders
       end
     end
+
+When you include a module in a class, Ruby rewires the class hierarchy a bit, inserting the module as a sort of pseudo superclass of the class.
+
+If you find yourself writing your own mixin module, ask yourself: *What is the interface between my module and its including class?* Since mixing in a module sets up an inheritance relationship between the including class and the module, you need to let your users know what that relationship is going to be before they start mixing.
+
+In the wild: `DataMapper` is like ActiveRecord, but it doesn't require inheriting from class, it is done with a module. By including one module (`DataMapper::Resource`), your class gains all the equipment it needs to persist itself in a database.
+
+## Chapter 17: Use Blocks to Iterate
+
+When you tack a block onto the end of a method call, Ruby will package up the block as sort of a secret argument and (behind the scenes) pass this secret argument to the method.
