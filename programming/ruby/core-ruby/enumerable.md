@@ -1,15 +1,70 @@
-## Enumerable
+## Ruby Enumerable Magic: The Basics
+[link](http://kconrails.com/2010/11/30/ruby-enumerable-primer-part-1-the-basics/)
+
+Ruby's arrays use Enumerable. To use this, we define the `each` method:
+
+    class Team
+      include Enumerable
+
+      attr_accessor :members
+
+      def initialize
+        @members = []
+      end
+
+      def each(&block)
+        @members.each(&block)
+      end
+    end
+
+Basically what happens is that every time you call a `Team.each`, you iterate over the `@members`. (It is really common to just do this with the `Enumerable` module, forwarding the each over to an instance variable.) You are also able to use the other collection class methods (`map`, `filter`, etc...) because you defined the `each` method.
+
+#### Unary Ampersand
+
+There is no `&:` operator in Ruby. *What you see in `&:capitalize` is `&` and `:capitalize` pushed together. The first character is the unary ampersand, the second is a Ruby symbol being passed to the operator.*
+
+When Ruby sees the unary ampersand on the last argument of a method, it tries to convert it to a proc and run it.
+
+    class Translator
+      def speak &language
+        language.call(self)
+      end
+
+      protected
+
+      def french
+        'bon jour'
+      end
+
+      def spanish
+        'hola'
+      end
+
+      def turkey
+        'gobble'
+      end
+
+      def method_missing *args
+        'awkward silence'
+      end
+    end
+
+    translator.speak(&:spanish) #=> "hola"
+    translator.speak(&:turkey) #=> "gobble"
+    translator.speak(&:italian) #=> "awkward silence"
+
+## Enumerable API
 
 > The `Enumerable` mixin provides collection classes with several traversal and searching methods, and with the ability to sort. The class must provide a method `each`, which yields successive members of the collection.
 
 #### Filtering
 
 `all?`: Returns true if block never returns false or nil.
-    
+
     %w[ant bear cat].all? { |word| word.length >= 3 } #=> true
 
 `any?`: Returns true if block HAS a true
-    
+
     %w[ant bear cat].any? { |word| word.length >= 4 } #=> true
 
 `chunk`: Better to use if the array is sorted. Literally creates chunks nung mga magkakatabi na pasok sa condition.
@@ -17,7 +72,7 @@
 `detect(ifnone = nil){|obj| block }`: Return first match, if no object matches, call ifnone. Aliased as find.
 
 `find_all{|obj| block}`: Filter out all that follows the condition.
-    
+
     (1..10).find_all { |i| i % 2 == 0 } # Get all evens
 
 `find_index(value), find_index {|obj| block }`: Returns the index of the first matcher.
@@ -46,7 +101,7 @@
 `collect` (aliased as `map`): Returns a new array with the results of the block once for every element in the enum.
 
 `collect_concat` (Aliased as `flat_map`): Returns a new array with the concatenated results of running block once.
-    
+
     [1, 2, 3, 4].flat_map { |e| [e, -e] } #=> [1, -1, 2, -2, 3, -3, 4, -4]
 
 `cycle(n=nil){}`: Continuously call the block for each element of enum repeatedly n times or forever if none or nil is given as n. If no block is given, an enumerator is returned.
@@ -55,19 +110,19 @@
     [a, b, c].cycle(2) { |x| puts x }  # print, a, b, c, a, b, c.
 
 `each_cons(n){}`: Iterate the given block for each element and the next n elements.
-    
+
     (1..10).each_cons(3) { |a| p a }
     # outputs below
     [1, 2, 3], [2, 3, 4], ... [8, 9, 10]
 
 `each_slice(n){}`: Iterate over each slice of `<n>` elements. If no block is given, return an enumerator.
-    
+
     (1..10).each_slice(3){|a| p a} [1, 2, 3] [4, 5, 6] [7, 8, 9] [10]
 
 `each_with_index`: each but has an index passed in
 
 `each_with_object(obj){|elem, obj| a << i * 2}`: Iterate over the given block for each element with an arbitrary object, and reutrn the initially given object.
-    
+
     (1..10).each_with_object([]) { |i, a| a << i*2 }
     [2, 4, 6 ... 20]
 
@@ -101,7 +156,7 @@ Combines all elements of enum by applying a binary operation, specified by a blo
 If you specify a block, then for each element in enum the block is passed an accumulator value (memo) and the element. If you specify a symbol instead, then each element in the collection will be passed to the named method of memo. In either case, the result becomes the new value for memo. At the end of the iteration, the final value of memo is the return value for the method.
 
 If you do not explicitly specify an initial value for memo, then the first element of collection is used as the initial value of memo.
-    
+
     # Sum some numbers
     (5..10).reduce(:+)                             #=> 45
     # Same using a block and inject
@@ -138,7 +193,7 @@ If you do not explicitly specify an initial value for memo, then the first eleme
     a.zip([1, 2], [8])       #=> [[4, 1, 8], [5, 2, nil], [6, nil, nil]]
 
 #### Grouping
-    
+
 `group_by{|obj| block}`: Groups the collection by result of the lock and returns a hash wehre the keys are the evaluated result from the block and the values are arrays of elements in the collection that correspond to the key.
 
     (1..6).group_by { |i| i%3 }   #=> {0=>[3, 6], 1=>[1, 4], 2=>[2, 5]}

@@ -445,3 +445,35 @@ In the wild: `DataMapper` is like ActiveRecord, but it doesn't require inheritin
 ## Chapter 17: Use Blocks to Iterate
 
 When you tack a block onto the end of a method call, Ruby will package up the block as sort of a secret argument and (behind the scenes) pass this secret argument to the method.
+
+Example of an iterator:
+
+    class Document
+      def each_word
+        word_array = words
+        index = 0
+        while index < words.size
+          yield( word_array[index] )
+          index += 1
+        end
+      end
+    end
+
+    d = Document.new("a", "b", "c")
+    d.each_word { |word| puts word }
+
+Iterator over two words:
+
+    class Document
+      def each_word_pair
+        word_array = words
+        index = 0
+        while index < (words.size-1)
+          yield( word_array[index], word_array[index+1] )
+          index += 1
+        end
+      end
+
+#### Enumerable: Your Iterator on Steroids
+
+
