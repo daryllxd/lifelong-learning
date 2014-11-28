@@ -573,3 +573,13 @@ The difference between `Proc.new` and `lambda`: If `Proc`, Ruby will try to retu
     end
 
 Rake/Capistrano: Both use saved code blocks. Both tools are built around the idea of a task--some defined bit of work that occasionally needs doing (Rake for local, Capistrano for machines scattered across the network).
+
+## Part III: Metaprogramming
+
+## Chapter 20: Use Hooks to Keep Your Program Informed
+
+A hook is code that gets called to tell you that something is about to happen or has already happened. Ex: when you create a new subclass, you call the `inherited` method.
+
+    def self.inherited(new_subclass)
+      puts "Hey #{new_subclass} is not a subclass of #{self}!"
+    end
