@@ -476,4 +476,100 @@ Iterator over two words:
 
 #### Enumerable: Your Iterator on Steroids
 
+By adding `Enumerable` and the `each` method, you add a ton of collection-related methods to your class, methods that all rely on your `each` method.
 
+    each_cons: Takes an integer and a block, and will repeatedly call the block, each time passing in an array of consecutive elements from the collection.
+    each_slice: breaks up the collection in chunks of a given size and passes those into the block.
+
+If you have the `<=>` method, you can also use `Enumerable.sort`.
+
+Core Ruby: `resolv`
+
+    require 'resolv'
+    Resolv.each_address('www.google.com') {|x| puts x}
+
+Core Ruby: `prime`
+
+    require 'mathn'
+    Prime.each {|x| puts "The next prime is #{x}"}
+
+## Chapter 18: Execute Around with a Block
+
+    def do_something
+      with_logging('load') { @doc = Document.load('resume.txt') }
+
+      with_logging('save') { @doc.save }
+    end
+
+    def with_logging(description)
+      begin
+        @logger.debug("Starting #{description}")
+        yield
+        @logger.debug("Completed #{description}")
+      rescue
+        @logger.error("#{description} failed!!")
+        raise
+      end
+    end
+
+We are able to do operations, but with logging. We can basically do anything with logging.
+
+#### When It Absolutely Must Happen
+
+Use execute around when you have something that needs to happen before or after some operation, or when the operation fails with an exception. *Instead of sprinkling intention-obscuring code far and wide, build a method that takes a code block. Inside the method you do whatever preparation needs doing (in the example it was logging a message).*
+
+Execute around also helps you get your objects initialized: you can change the Document initialize method to take a block, one that it calls with the new `Document` instance:
+
+    def initialize(title, author, content="")
+      @title = title
+      @author = author
+      @content = content
+      yield(self) if block_given?
+    end
+
+*The only arguments you should pass from the application into an execute around method are those that the execute around method itself, not the block, will use.*
+
+To return things from the block though:
+
+    return_value = yield
+    @logger.debug('something something')
+    return_value
+
+## Chapter 19: Save Blocks to Execute Later
+
+Ruby treats a code block appended to the end of a method call as sort of an implicit parameter to the call, a parameter that only `yield` and `block_given?` know how to get at.
+
+Explicit calling: Ampersand
+
+    class Document
+      def on_save(&block)
+        @save_listener = block
+      end
+
+      def on_load(&block)
+        @load_listener = block
+      end
+
+      def save(path)
+        @save_listener.call(self, path) if @save_listener
+      end
+    end
+
+You create an `on_save` block that will be executed only if you really want to. We wait until someone actually calls the `content` method before firing off the block. If you never call `content`, then the block will never get called.
+
+`lambda`: the reserved word for a block variable.
+
+The difference between `Proc.new` and `lambda`: If `Proc`, Ruby will try to return not just from the block but from the method that created the block, if `lambda`, it will simply return from the block and no further.
+
+#### Getting rid of stuff
+
+    def some_method(doc)
+      big_array = Array.new(10000000)
+
+      big_array = nil                   # We need to "dispose" of this because if not, big_array will be in memory while the document is loaded
+      doc.on_load do |d|
+        puts "Hey I've been loaded"
+      end
+    end
+
+Rake/Capistrano: Both use saved code blocks. Both tools are built around the idea of a task--some defined bit of work that occasionally needs doing (Rake for local, Capistrano for machines scattered across the network).
