@@ -583,3 +583,110 @@ A hook is code that gets called to tell you that something is about to happen or
     def self.inherited(new_subclass)
       puts "Hey #{new_subclass} is not a subclass of #{self}!"
     end
+
+Ex of hooks: Using different reader classes to read files.
+
+    class YAMLReader < DocumentReader
+      def self.can_read?(path)
+        /.*\.yaml/ =~ path
+      end
+
+      def initialize(path)
+        @path = path
+      end
+    end
+
+#### Superclass
+
+    class DocumentReader
+      class << self
+        attr_reader :reader_classes
+      end
+
+      @reader_classes = []
+
+      ## To read, you create a reader and call the read method
+      def self.read(path)
+        reader = reader_for(path)
+        return nil unless reader
+        reader.read(path)
+      end
+
+      def self.reader_for(path)
+        reader_class = Document.reader_classes.find do |klass|
+          klass.can_read?(path)
+        end
+        return reader_class.new(path) if reader_class
+        nil
+      end
+
+      ## Whenever you inherit from the Reader, add the subclass to the reader_classes
+      def self.inherited(subclass)
+        DocumentReader.reader_classes << subclass
+      end
+
+#### Module Inclusion
+
+    module WritingQuality
+      def self.included(klass)
+        puts "I've been included in #{klass}"
+      end
+    end
+
+    ## When included, extend the class methods
+    def self.included(host_class)
+      host_class.extend(ClassMethods)
+    end
+
+#### Others
+
+    at_exit
+    method_missing
+    method_added - when methods are being added to a class
+    trace_var - changes to global variables
+    set_trace_func - supply a block that will get called whenever a method gets called or returns, whenever a class definition is opened or closed, whenever an exception gets raised, or when a line of code gets executed
+
+## Chapter 21: Use `method_missing` for Flexible Error Handling
+
+When Ruby fails to find a method, it calls `method_missing`.
+
+    def method_missing(method_name, *args)
+    end
+
+Logging the error, but returning the same error message
+
+    def method_missing(method_name, *args)
+      File.open('document.error', 'a') do |f|
+        f.puts("Bad method called #{method_name}")
+        f.puts("with #{args.size} arguments")
+      end
+      super
+    end
+
+`const_missing` exists.
+
+## Chapter 22: Use `method_missing` for Delegation
+
+    def method_missing(name, *args, &block)
+      check_for_expiration
+      @original_document.send(name, *args, &block)
+    end
+
+`send` lets you make arbitrary method calls on some other object. Even if there is a missing method on `@original_document`, it will raise an exception (like before).
+
+#### `SimpleDelegator`
+
+    require 'delegate'
+
+    class DocumentWrapper < SimpleDelegator
+      def initialize(real_doc)
+        super(real_doc)
+      end
+    end
+
+We now have a fully functional wrapper for any document:
+
+    text =  'The Hare was once boasting of his speed...'
+    real_doc = Document.new( 'Hare & Tortoise', 'Aesop', text )
+    wrapper_doc = DocumentWrapper.new( real_doc )
+
