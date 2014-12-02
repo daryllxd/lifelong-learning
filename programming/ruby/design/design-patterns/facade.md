@@ -104,3 +104,15 @@ Ex: Open-uri standard library, you can make reading a resource via HTTP GET look
 
 *It's worth keeping in mind that pretty much every DSL you encounter is a Facade of some form or another.*
 
+## Design Patterns in Ruby: Facade
+[link](http://designpatternsinruby.com/section02/facade.html)
+
+A facade is a simple interface to a complex subsystem.
+
+The one true enemy is complexity. If we could say all the programming things we want in a simple way, then our work would be a lot easier. The Facade says that if you cannot avoid complexity, then the next best thing to do is to isolate it, to keep it from contaminating your whole system.
+
+Software facades are just a compromise--you are trying to expose just the functionality that you need while holding back the tide of complexity. You want to expose enough of the underlying system to allow the clients of the facade to get their work done, without reproducing original complex interface in just another form.
+
+The trouble with adding features to your subsystem via its facade are many. First, you are muddying up the purpose of your facade: it is suppose to be there to simplify access to the subsystem, not to enhance the thing. Second, if you add features to your facade and then later realize that you need a second facade for the same subsystem, the second facade is not going to have all those nifty new features. If you need to add features to your subsystem, add them to your subsystem – remember, open classes in Ruby means never having to say you are sorry. If you can't do that, then enhance your subsystem in some other class (perhaps with a decorator?) and build a facade on that.
+
+Facades are meant to be seawalls, holding back the tide of complexity. You can't do that and add features at the same time.
