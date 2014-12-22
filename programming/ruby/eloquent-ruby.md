@@ -66,7 +66,7 @@ Use strings for data, for things you might want to truncate, turn to uppercase, 
 
 Classes act as containers for methods. They are also factories, factories for making instances.
 
-Ruby treats self as a sort of default object. When you call a method without an explicit object reference, Ruby assumes that you meant to call the method on `self`.
+Ruby treats `self` as a sort of default object. When you call a method without an explicit object reference, Ruby assumes that you meant to call the method on `self`.
 
 This is why we have `-3.abs`, not `abs(-3)`, because we literally call the `abs` function on -3.
 
