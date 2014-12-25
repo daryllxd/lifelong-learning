@@ -43,3 +43,17 @@ AS does not load anything by default.
 - `instance_variable_names`: Returns an array, includes `@`.
 - `silence_warnings`
 - `in?`: Tests if an object is included in another object.
+
+#### Extensions to Module
+
+[TODO]: This
+
+#### Extensions to Class
+
+- `class_attribute`: declares one or more inheritable class attributes that can be overridden at any level down the hierarchy.
+
+    class A
+      class_attribute :x, instance_writer: false # Prevent instances from modifying the class attribute
+    end
+
+    class B < A; end

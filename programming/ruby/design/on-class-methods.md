@@ -102,7 +102,6 @@ Also, every piece of code won't be coupled to the global class name. You can't e
 
 - Not a fan. You've created a new method and memoized it for what benefit? Readability? The original example has a clear purpose: to encapsulate an algorithm with the `#perform` method. All you've done is create more methods for the sake of keeping methods small--harder to follow and more complicated IMO.
 - The main goal is readability, smaller methods are easier to change/understand and they have more potential to be re-used in other methods.
-
 - Bryan: The benefit I try to achieve with extracting methods is to improve the readability of each method by keeping them at the same level of abstraction. It's the essence of the Composed Method pattern. The change to the analytics client instantiation looks silly when your when you remove all the context, but in the context of the full example it's about organizing things within the class.
 - *Once you've achieved Composed Methods, you can read through a method without your brain having to switch back and forth between high level ("we POST one user at a time") and low level ("the analytics client requires an API key") details.*
 - *In my experience, Complex methods (where you are jumping up and down between different levels of detail) are less preferable than using private methods to apply the Composed Method pattern within a class.* If the resulting class is too complex (e.g. you feel like you want to test the private methods directly), then I look at ways to extract an additional class.
