@@ -54,6 +54,8 @@ AS does not load anything by default.
 
     class A
       class_attribute :x, instance_writer: false # Prevent instances from modifying the class attribute
+
+
     end
 
     class B < A; end
