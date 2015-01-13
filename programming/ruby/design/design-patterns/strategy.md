@@ -67,3 +67,76 @@ What happens is that instead of `Newsletter::Generators::HTML.new.render`, we ha
 The point is that we can change how the clients (Html and Markdown) execute because the client knows that in the base class that there is a `render` method, and regardless of the strategy, it could be executed. We just specify a contract (in this case we need to return a string).
 
 Template method is used if we can rely on simple inheritance. But if we need something longer we can use strategy method. Many applications in Ruby use Omniauth.
+
+## Design Patterns in Ruby -- Strategy
+
+Problem with Template Method: Basing your design on inheritance means that your classes are tangled up with their superclass. Inheritance-based techniques such as the TM pattern also limit our runtime flexibility.
+
+Whet if, instead of creating a subclass for each variation, we tear out the whole annoyingly varying chunk of code and isolate it in its own class?
+
+    class Formatter
+      def output_report( title, text )
+        raise 'Abstract method called'
+      end
+    end
+
+    class HTMLFormatter < Formatter
+      def output_report( title, text )
+        puts('<html>')
+        puts('  <head>')
+        puts("    <title>#{title}</title>")
+        puts('  </head>')
+        puts('  <body>')
+        text.each do |line|
+          puts("    <p>#{line}</p>" )
+        end
+        puts('  </body>')
+        puts('</html>')
+      end
+    end
+
+    class PlainTextFormatter < Formatter
+      def output_report(title, text)
+        puts("***** #{title} *****")
+        text.each do |line|
+          puts(line)
+        end
+      end
+    end
+
+New report implementation, you have a strategy implemented, based on the `formatter` which is inside the `Report` class.
+
+    class Report
+      attr_reader :title, :text
+      attr_accessor :formatter
+
+      def initialize(formatter)
+        @title = 'Monthly Report'
+        @text =  [ 'Things are going', 'really, really well.' ]
+        @formatter = formatter
+      end
+
+      def output_report
+        @formatter.output_report( @title, @text )
+      end
+    end
+
+*The key idea underlying the Strategy pattern is to define a family of objects, the strategies, which all do the same thing-in our example, format the report.* Not only does each strategy object perform the same job, but all of the objects support exactly the same interface.
+
+Given that all of the strategy objects look alike from the outside, the user of the strategy-called the context class-can treat the strategies like interchangeable parts. Thus, it does not matter which strategy you use, because they all look alike and they all perform the same function.
+
+We can achieve better separation of concerns by pulling out a set of strategies from a class. By using Strategy, we remove `Report` of any responsibility for or knowledge of the report file format.
+
+The Strategy pattern does have one thing in common with the Template Method pattern: Both patterns allow us to concentrate the decision about which variation we are using in one or a few places. With the Template Method pattern, we make our decision when we pick our concrete subclass. In the Strategy pattern, we make our decision by selecting a strategy class at runtime.
+
+#### Sharing Data between the Context and the Strategy
+
+The `Report` can pass itself as a context:
+
+    def output_report
+      @formatter.output_report(self)
+    end
+
+Here Report passes a reference to itself to the formatting strategy, and the for- matter class calls the new title and text methods to get the data it needs.
+
+[TODO]: THIS!
