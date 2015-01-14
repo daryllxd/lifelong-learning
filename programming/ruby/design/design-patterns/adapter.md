@@ -196,3 +196,61 @@ The basic idea is that we want to be able to use a common interface while easily
 
 *Since all the adapters implement a `to_html()` method that share a common contract, `Marky.to_html()` will work regardless of what adapter gets loaded. The win here is that if libraries, applicatons, and frameworks rely on adapters rather than concrete implementations, the choice of which engine to use can be done differently in different environments.*
 
+## Design Patterns in Ruby -- Adapter
+
+Encrypter class:
+
+    class Encrypter
+      def initialize(key)
+        @key = key
+      end
+
+      def encrypt(reader, writer)
+        key_index = 0
+        while not reader.eof?
+          clear_char = reader.getc
+          encrypted_char = clear_char ^ @key[key_index]
+          writer.putc(encrypted_char)
+          key_index = (key_index + 1) % @key.size
+        end
+      end
+    end
+
+To encrypt a file, we take two files (one for reading, one for writing), and a key, then we write an encrypted version of the input file to the output file. But what happens if we want to secure a string, not a file?
+
+We write an adapter:
+
+    class StringIOAdapter
+      def initialize(string)                    # Take in a string, initialize the position
+        @string = string
+        @position = 0
+      end
+
+      def getc                                  # String does not have getc, implement getc which allows the Encrypter to access each character in the string one by one, keeping track of the position
+        if @position >= @string.length
+          raise EOFError
+        end
+        ch = @string[@position]
+        @position += 1
+        return ch
+      end
+
+      def eof?
+        return @position >= @string.length
+      end
+    end
+
+Implementation:
+
+    encrypter = Encrypter.new('XYZZY')
+    reader= StringIOAdapter.new('We attack at dawn')    # Create the Adapter and wrap the String around it
+    writer=File.open('out.txt', 'w')
+    encrypter.encrypt(reader, writer)                   # Encrypt the adapted String
+
+The client (`Encrypter`) knows about some target class (`File`), and a reference to the target object (the `String` itself), but unknown to the client, the target object is really an adapter (`StringIOAdapter`), and buried inside the adapter is a reference to the adaptee, which actually performs the work.
+
+Other ways of implementing an `Adapter`: Modifying the class, or modifying the instance.
+
+Adapter if: The interface mismatch is extensive and complex, or if you have no idea how this class works.
+
+Modify a class if: The modifications are simpler, and you understand the class you are modifying.
