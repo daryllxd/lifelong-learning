@@ -72,7 +72,7 @@ Template method is used if we can rely on simple inheritance. But if we need som
 
 Problem with Template Method: Basing your design on inheritance means that your classes are tangled up with their superclass. Inheritance-based techniques such as the TM pattern also limit our runtime flexibility.
 
-Whet if, instead of creating a subclass for each variation, we tear out the whole annoyingly varying chunk of code and isolate it in its own class?
+What if, instead of creating a subclass for each variation, we tear out the whole annoyingly varying chunk of code and isolate it in its own class?
 
     class Formatter
       def output_report( title, text )
@@ -137,6 +137,37 @@ The `Report` can pass itself as a context:
       @formatter.output_report(self)
     end
 
-Here Report passes a reference to itself to the formatting strategy, and the for- matter class calls the new title and text methods to get the data it needs.
+Here `Report` passes a reference to itself to the formatting strategy, and the for matter class now has access to whatever instance variables the `Report` has.
 
-[TODO]: THIS!
+    class HTMLFormatter < Formatter
+      def output_report(context)
+        puts('<html>')
+        puts(' <head>')
+        puts(" <title>#{context.title}</title>") puts(' </head>')
+        puts(' <body>')
+        context.text.each do |line|
+              puts("    <p>#{line}</p>")
+        end
+        puts('  </body>')
+        puts('</html>')
+      end
+    end
+
+(We can remove the base `Formatter` class since it just serves as an interface.)
+
+Lambdas can also be executed by changing the `output_report` to use `call`:
+
+    def output_report
+        @formatter.call( self )
+    end
+
+We can then pass lambdas in:
+
+    report = Report.new { |context|
+      puts("***** #{context.title} *****")
+      context.text.each do |line|
+        puts(line)
+      end
+    }
+
+*The easiest way to go wrong with the Strategy pattern is to get the interface between the context and the strategy object wrong.* Bear in mind that you are trying to tease an entire, consistent, and more or less self-contained job out of the context object and delegate it to the strategy. You need to pay particular attention to the details of the interface between the context and the strategy as well as to the coupling between them.
