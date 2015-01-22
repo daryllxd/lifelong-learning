@@ -64,3 +64,32 @@ Simple service: User management system. This could be used across multiple appli
       end
 
 *Only the public interface of the service is being tested.* Sinatra provides a convenient way to write tests against HTTP service entry points. These are the most important tests for the service because they represent what consumers see. *Tests can be written for the models and code behind the service, but the consumers of the service really only care about its HTTP interface.* Testing only at this level also makes the tests less brittle because they aren't tied to the underlying implementation.
+
+However, the tests still require a user account to test against. Two possible options to deal with test data--service can either load a set of fixtures when started in a test environment, or ensure that `user create` works before the other tests are ran.
+
+#### Implementing GET User
+
+> `service.rb`: Contains the entire service.
+
+    require 'rubygems'
+    require 'activerecord'
+    require 'sinatra'
+    require 'models/user'
+
+    env_index = ARGV.index("-e")
+    env_arg = ARGV[env_index + 1] if env_index
+    env= env_arg || ENV["SINATRA_ENV"] || "development"
+    databases = YAML.load_file("config/database.yml")
+    ActiveRecord::Base.establish_connection(databases[env])
+
+    get '/api/v1/users/:name' do
+      user = User.find_by_name(params[:name])
+      if user
+        user.to_json
+      else
+        error 404, { error: 'user not found'}.to_json
+      end
+    end
+
+Starting the service: `ruby service.rb -p 3000`
+
