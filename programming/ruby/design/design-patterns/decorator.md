@@ -86,3 +86,48 @@ The decorator is additive and the strategy is a replacement. This is why _strate
 - A presenter is sometimes a composite.
 
 This is why presenters are usually in `app/presenters`.
+
+## Design Patterns in Ruby -- Decorator
+
+How do you add features to your program without turning the whole thing into a huge, unmanageable mess? To split the internal workings of objects, use Template Method. To split off whole chunks of algorithms, use Strategy. To react to requests coming into your objects, use Command.
+
+To vary the responsibilities of an object, use the Decorator pattern. This enables you to add enhancement to an existing object. The Decorator pattern also allows you to layer features atop one another so that you can construct objects that have exactly the right set of capabilities that you need for any given situation.
+
+#### Example
+
+You have text that needs to be written to a file. In your system, sometimes you want to write out just the plain, unadorned text, while at other times you want to number each line as it gets written out. Sometimes, you want to add a time stamp, sometimes, you need a checksum from the text so that you can ensure it was written and stored properly.
+
+    class EnhancedWriter
+      attr_reader :check_sum
+
+      def initialize(path)                              # Constructor needs a file immediately
+        @file = File.open(path, "w")
+        @check_sum = 0
+        @line_number = 1
+      end
+
+      def write_line(line)                              # EnhancedWriter.new('out.txt').write_line('a plain line')
+        @file.print(line)
+        @file.print("\n")
+      end
+
+      def checksumming_write_line(data)                 # EnhancedWriter.new('out.txt').checksumming_write_line('a line with checksum')
+        data.each_byte {|byte| @check_sum = (@check_sum + byte) % 256 }
+        @check_sum += "\n"[0] % 256
+        write_line(data)
+      end
+
+      def timestamping_write_line(data)
+        write_line("#{Time.new}: #{data}")
+      end
+
+      def numbering_write_line(data)
+        write_line("%{@line_number}: #{data}")
+        @line_number += 1
+      end
+
+      def close
+        @file.close
+      end
+    end
+
