@@ -37,3 +37,36 @@ Sometimes, we will send an ACH file that isn't quite right, but is close enough 
 
 *It's important to note that ACH is not a real-time system. Rather, things are processed in batches at 6:30pm EST, 12:30am EST, and 3:00am EST. As a result, funds can take days to settle.*
 
+#### Timing of the ACH transfers
+
+*Leg1: Originator -> OFDI (our bank) by Day1, 7:00pm.*
+
+Banks will ask you to SFTP your ACH file to them by a certain time for processing (referred to as the ACH cut-off time). Once the 7pm deadline hits, our bank will validate that our ACH files pass a series of sanity checks, and they'll take steps to verify taht the files came from us.
+
+*Leg 2: ODFI -> Federal Reserve -> RDFI by Day 2, 12:01am.*
+
+Once our bank has deemed our ACH file acceptable, they'll forward the ACH file to the Federal Reserve for processing. *The ACH protocol is a next-day settlement system. That means that ACH debit requests sent to the Federal Reserve are processed around midnight and made available to the RDFI (receiving bank) around the same time.*
+
+*Leg 3: RDFI -> Receiver by Day 2, ~5:00am.*
+
+The receiving bank will pick up the notification of the credit sometime in the morning when they open for business (let's say 5am for simplicity's sake) and will decrement the funds in their customer's account at that time.
+
+*As you can see, timing for non-returned ACH transfers is quite straightforward: ACH files originated before 7pm are settled the following morning.*
+
+#### ACH Returns
+
+*Leg 4: RDFI -> Federal Reserve -> ODFI by Day 4, 12:01am.*
+
+*When the RDFI receives word of the ACH debit at the start of day 2, they are given until the end of the next business day to tell the Federal Reserve that they want to return the ACH debit.* Sometimes, a bank moves quickly and will notify the Federal Reserve by the end of the same day. Most of the time, however, the banks will notify the Federal Reserve as late as possible, which is the end of day 3.
+
+Once the Federal Reserve receives a return, they will let ODFI know that the ACH debit was returned that evening.
+
+There is a notable exception to the next-day deadline: If the customer notifies the bank that they did not authorize the ACH debit (for example, in the case of a fraudster using a stolen bank account), the RDFI is allowed 60 days to return the ACH debit. Because of this, the ACH protocol is very consumer friendly, since the originator of the ACH debit must now return the money they debited and try to get back whatever was given in return for the debit.
+
+*Leg 5: ODF -> Originator by Day 4, ~5:00am.*
+
+The ODFI bank will pick up the notification of the return sometime in the morning when they open for business  and will forward it on to the originator. *It's important to note that the ACH system never provides positive confirmation that an ACH debit has gone through successfully. THE ONLY RESPONSE AN ACH ORIGINATOR MAY GET IS ON NOTIFYING THEM OF A RETURN.* Because of this "no news is good news" policy, it is wise for originators of ACH debits to wait for 3 additional business days of "no news" to ship their product to the customer.
+
+Though the ACH system is described as a next-day settlement system, in practice, it is not because of this.
+
+An addendum to the ACH protocol to support same-day ACH settlement is something that is almost unanimously desired by the ACH community. The good news is that NACHA, the governing organization behind ACH, has recently announced plans to roll out a same-day ACH protocol. The challenge is coordinating the adoption of the new protocol across all participating banks. Once fully implemented, the same-day ACH system would likely cut one day from the timelines outlined here.
