@@ -12,6 +12,8 @@
 - Dont forget pandan for rice
 - Blowtorch can be helpful on a marshmallow, then melt all chocolates to make "fondue"
 - No black tying strings it is easy to lose
+- Check tent campsite for stones/rocks so it is nicer for you to sleep
+- Since the tent is freestanding clean out debris before you dismantle it
 
 ## Tagapo: June 5 2015
 
