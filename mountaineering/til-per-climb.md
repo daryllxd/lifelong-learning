@@ -1,3 +1,23 @@
+## Random talk
+
+- Gap between bottle and fire because the bottle cools the fire
+- Pillowcase
+- UV Rashguard is needed. Need to apply sunscreen every 2 hours.
+- Try to get a Columbia Silver Ridge for your trekking polo top to prevent UV.
+- If you're hiking uphill, lace your shoes more loosely to allow for blood flow. If going downhill, lace your shoes more tightly to keep your feet in place and not rubbing the toes of your shoes.
+- Longer hikes: When resting every hour, elevate your feet for 5-10 minutes.
+- Snacks: Dried fruit? :)
+
+## Pico de Loro: June 27 2015
+
+- It is still nearly impossible for you to sleep for an early morning trip so better to sleep before super
+- Go for long-sleeved shirt rather than short-sleeved shirt + rash guard combo (you might lose the rash guard, more parts, aesthetically better in photos)
+- The Mountainsmith trekking poles are not so good, they jam frequently :(
+- Need a new carabiner for the Camelbak on the daypack
+- Try just bringing sandwiches for trail food as opposed to buying expensive foods. Rebisco works
+- Near impossible to do 2 dayhikes on Sat/Sun because of sleep deprivation. Try Fri-Sun next time.
+- Fire vs mosquitoes
+
 ## Ugo: June 13-14 2015
 
 - Bring toothpaste
@@ -24,6 +44,7 @@
 - Delirium in campsite: take a nap
 - Important: Some people don't want your help, they are doing the climb to prove something to themselves, as a social person recognize it
 - Don't forget extra batteries for your homies
+- When splitting a tent, you have to be near the person you are splitting the tent with, so when you reach the campsite, you can pitch easily
 
 ## Tibig: June 6-7 2015
 
