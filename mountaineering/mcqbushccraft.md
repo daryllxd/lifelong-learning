@@ -20,3 +20,19 @@
   - Beeswax for natural cordage.
   - Needle/thread.
   - Sharpening stone. (Smurf poop)
+
+## Bushcraft Basics Ep07: Water Containers
+[link](https://www.youtube.com/watch?v=qYFK72w1az4)
+
+- Stainless steel mug
+- Pathfinder water bottle nesting cup set
+- Titanium: Get the thick ones!
+- Vargo cup?
+
+## Bushcraft Fishing: Building a Kit (Non UK Legal)
+[link](https://www.youtube.com/watch?v=lXEcZZvLB8Q)
+
+- Eddy, a bit deep, not the shallow/fast moving waters
+- When raining, I don't go out, visibility is bad and your chances go down
+- Clear the patches so when you throw a line, there won't be much snags
+- Head of the worm on the hook
