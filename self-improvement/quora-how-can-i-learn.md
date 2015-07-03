@@ -1,5 +1,7 @@
 # How can I learn as much as possible in my life?
 
+https://www.quora.com/How-can-I-learn-as-much-as-possible-in-my-life
+
 # Robert Frost, engineer/instructor at NASA
 
 Seven step process:
