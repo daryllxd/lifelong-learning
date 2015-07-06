@@ -1,3 +1,20 @@
+## Maculot: July 4 2015
+
+- FUCK IT IS STILL HARD FOR YOU TO SLEEP BEFORE THE CLIMB
+- Repair kit for torn packs and torn shorts, learn how to use it
+- Packed lunch--double check itinerary to ensure that you don't buy overpriced lunches.
+- Really, really, avoid overpopulated mountains during the weekends because your itinerary will be delayed.
+- Save itinerary and times on your phone or print it out, don't be lazy about this
+- Literally any place in Lipa is good for Lomi.
+- First trip to Batangas on Jam Liner is 4am, next is 5am.
+- Maculot can be climbed at any time, even at night.
+- Last trips out of Batangas are around 8pm, some 9pm.
+- Heavy traffic from Cuenca to Lipa at night.
+- Just do not drink soft drinks.
+- Put ice in the hydration pack it will last for the first x hours.
+- Better to just pool everyone's money and accounting after.
+- Pen and paper may be needed to write stuff down.
+
 ## Random talk
 
 - Gap between bottle and fire because the bottle cools the fire
