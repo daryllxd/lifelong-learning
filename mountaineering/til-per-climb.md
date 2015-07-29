@@ -1,3 +1,45 @@
+## Purgatory: July 25-26 2015
+
+- Take Bonamine before every mountain wherein you go through a zigzag road trail.
+- Everyone needs at least 30L pack, having a smaller pack will force you to make hasty decisions and possibly underpack.
+- Always bring tying strings/pegs even if you may not need them because you never know when you need a tempo shelter.
+- Precooking works, but bring spices so you can continue seasoning while cooking.
+- When putting pots and pans over the spider stove, add an allowance for the weight of the handle.
+- When transferring fluids, take care to think of which surfaces the liquid will land on if it spills (ex: THE STOVE).
+- It seems like a good idea to invest in a multifuel stove (butane is hard to control).
+- Everyone needs a malong, extra socks (wool), either sleeping bag or emergency blanket for the campsite.
+- 2 takal of rice for 2 meals for 2 people is correct ratio.
+- Get an egg holder.
+- Bring multivitamins next time.
+- Hiking is better with contact lens on.
+- Tacos break, try getting pita bread next time for taco-style dishes. Also need more than 2 tomatoes.
+- No more cooking oil, they sleep, just use olive oil.
+- Small containers for food coloring can be bought at Savemore, just remove the contents. Can be used for soap too.
+- Trekking pole on stone steps--place it in the center of the step.
+- Possibly get a shoe bag stuff sack so your dirty shoes won't float at the outside of the pack.
+- Level up in rice cooking.
+- Nips is imba trail food. 2 Nips per day per person.
+- Good Taste in Baguio = good food value, 90 for most meals and there are group options.
+- Good thing that I was able to sleep on the journey home. :)
+
+## Talamitam/Tagaytay: July 17 2015
+
+- Get used to sleeping in a hammock, also you have to master slip knot since all the other hitches are hard to untie with
+- Early morning hikes (starting at around 4-5am) are awesome. I actually think we woke the guides up.
+- Egg holder if you plan on bringing noodles when you go up
+- Fire building, you can only put wet wood on the fire if you are confident that the flame is powerful enough to cause the water vapor to evaporate before burning the wood itself
+- It is possible to create a tempo shelter out of cogon grass, there just has to be the right way of cording it
+- #squadgoals are awesome, good way to motivate everyone to finish the climb.
+- Still need to increase core/back strength, you lean forward when you climb.
+- Skyway toll is around +30 to +50.
+- Tagaytay Mahogany Market costs: 2 Bulalo, 1 Tawilis, 16 cups of rice, 7 soft drinks: 1325.
+- Nasugbu is about 30 minutes from Tagaytay.
+- Possibly add facial wash to your soap kit.
+- Don't forget trekking polo and jogging pants.
+- Machete grip: put lanyard on the wrist
+- Ferrocerium and knife: Use the spine, not the blade
+- Next time take a lot of pictures.
+
 ## Maculot: July 4 2015
 
 - FUCK IT IS STILL HARD FOR YOU TO SLEEP BEFORE THE CLIMB
