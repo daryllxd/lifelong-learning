@@ -1,3 +1,12 @@
+## Batulao: August 1 2015
+
+- Need a smaller trash bag so your shit doesn't spill when you just put it in a pocket.
+- Bring FA even if you have a designated FA already.
+- Good thing you brought a lot of painkiller.
+- The Pork and Beans they sell in the market do not have a lot of calories in them. Not really good trail food.
+- All boys = not that many pictures.
+- Figure out a way to keep cooler during hot climbs especially in the Batangas mountains.
+
 ## Purgatory: July 25-26 2015
 
 - Take Bonamine before every mountain wherein you go through a zigzag road trail.
@@ -9,16 +18,19 @@
 - It seems like a good idea to invest in a multifuel stove (butane is hard to control).
 - Everyone needs a malong, extra socks (wool), either sleeping bag or emergency blanket for the campsite.
 - 2 takal of rice for 2 meals for 2 people is correct ratio.
-- Get an egg holder.
+- Get an egg holder. 60 from Brown Trekker.
 - Bring multivitamins next time.
 - Hiking is better with contact lens on.
 - Tacos break, try getting pita bread next time for taco-style dishes. Also need more than 2 tomatoes.
 - No more cooking oil, they sleep, just use olive oil.
-- Small containers for food coloring can be bought at Savemore, just remove the contents. Can be used for soap too.
-- Trekking pole on stone steps--place it in the center of the step.
+- Small containers for food coloring can be bought at Savemore, just remove the contents. You can put olive oil inside. This can also be used for soap.
+- Trekking pole on stone steps--place it in the center of the step, you tripped here.
 - Possibly get a shoe bag stuff sack so your dirty shoes won't float at the outside of the pack.
-- Level up in rice cooking.
-- Nips is imba trail food. 2 Nips per day per person.
+- Level up in rice cooking. Try stirring the rice after it boils.
+- Nips is imba trail food. 2 Nips per day per person seems to be a good ratio.
+- Even on a major climb, I just consumed 1L of water the first day. (I think I also consumed 500ml Gatorade.
+- Need a more compact first aid kit.
+- Get a sleeping bag for lining the hammock, you will die outside if you don't.
 - Good Taste in Baguio = good food value, 90 for most meals and there are group options.
 - Good thing that I was able to sleep on the journey home. :)
 
