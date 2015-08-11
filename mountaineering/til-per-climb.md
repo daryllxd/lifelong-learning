@@ -1,14 +1,43 @@
+## Tarak Ridge: August 8-9 2015
+
+- Cooked: Tacos on Pita Bread, Banana Oatmeal, Beef Salpicao
+- Tarak Ridge has parking/shower facilities at the jump-off. Parking: 100, shower: 20.
+- Before leaving, ensure that everyone has headlamps and enough water.
+- It's a good idea to practice overnight hikes with a fully loaded pack, so you don't get surprised with the weight of the pack when you do hike fully loaded.
+- Tempo shelter (lean-to) drainage, once you have the four corners up, one of the midpoints of the sides should be anchored to a lower spot so there is drainage.
+- Tempo shelter taut line, do the taut line first on a loose string then just tension it later (easier to do the turns around the rope this way).
+- Bring extra plastics for garbage disposal. They weigh nearly nothing and you can just bring them again to the next climb.
+- It was a bad idea to bring non-trekking shorts (they were made of cotton so it doesn't dry easily).
+- Marks & Spencer thermal underpants worked, problem is no pockets.
+- It seems okay to not bring the malong if you have thermal underpants already. Plus, waterproof the malong!
+- Don't forget a trowel, or you can just use a bolo or a can of Maling for digging.
+- Be wary of your cap. It can easily get lost, especially once you're wearing your headgear.
+- Put your clothes in the dry bag, and your electronics in the zip lock. Electronics = earphones, iPod, no need for Powerbank because the iPod lasta a long time especially on airplane mode.
+- Turn off the Happymobile phone when you're not using it!
+- The small bottles are awesome, you can season the meat while it is being cooked.
+- Chop chicken/beef when frying, plus close the lid, for maximum flavor.
+- It's okay to have excess garlic/onion/tomato, you can saute them and put them anywhere.
+- When precooking chicken, some "latak" or small bits might float to the top, remove them, those are bad.
+- It's a good idea to bring a true pan scrubber (metal) if you know there is a river.
+- When adding salt or pepper to a dish, don't shake it onto the cookset, shake it onto the spoon, so even if it spills, it's not a big deal.
+- Toothbrush must be accessible (top of pack not inside of top of pack).
+- Eat before leaving the jump-off point, or you'll get hungry on the way home.
+- Just be prepared for every FA emergency, you got burned and didn't bring ointment.
+- Thinking of getting lighter sandals, but that would make the walks to/from the jump-off point harder.
+
 ## Batulao: August 1 2015
 
-- Need a smaller trash bag so your shit doesn't spill when you just put it in a pocket.
+- Need a smaller trash bag so your shit doesn't spill when you just put it in a pocket. This time, pork and beans spilt.
 - Bring FA even if you have a designated FA already.
 - Good thing you brought a lot of painkiller.
 - The Pork and Beans they sell in the market do not have a lot of calories in them. Not really good trail food.
 - All boys = not that many pictures.
 - Figure out a way to keep cooler during hot climbs especially in the Batangas mountains.
+- If you have a sort of physically unfit member in the team, compensate accordingly. You could have brought a stove for cooking/eating lunch easily.
 
 ## Purgatory: July 25-26 2015
 
+- Cooked: Tacos, Bacon, Rosemary/Basil Chicken
 - Take Bonamine before every mountain wherein you go through a zigzag road trail.
 - Everyone needs at least 30L pack, having a smaller pack will force you to make hasty decisions and possibly underpack.
 - Always bring tying strings/pegs even if you may not need them because you never know when you need a tempo shelter.
@@ -36,6 +65,7 @@
 
 ## Talamitam/Tagaytay: July 17 2015
 
+- Cooked: Some weird Pancit Canton dish
 - Get used to sleeping in a hammock, also you have to master slip knot since all the other hitches are hard to untie with
 - Early morning hikes (starting at around 4-5am) are awesome. I actually think we woke the guides up.
 - Egg holder if you plan on bringing noodles when you go up
@@ -54,18 +84,18 @@
 
 ## Maculot: July 4 2015
 
-- FUCK IT IS STILL HARD FOR YOU TO SLEEP BEFORE THE CLIMB
-- Repair kit for torn packs and torn shorts, learn how to use it
-- Packed lunch--double check itinerary to ensure that you don't buy overpriced lunches.
+- FUCK IT IS STILL HARD FOR YOU TO SLEEP BEFORE THE CLIMB.
+- Get a repair kit for torn packs and torn shorts, learn how to use it.
+- Packed lunch--double check itinerary to ensure that you don't buy overpriced lunches. Maculot has a lot of areas where you can cook lunch in.
 - Really, really, avoid overpopulated mountains during the weekends because your itinerary will be delayed.
-- Save itinerary and times on your phone or print it out, don't be lazy about this
-- Literally any place in Lipa is good for Lomi.
+- Save itinerary and times on your phone or print it out, don't be lazy about this.
+- Literally any place in Lipa is good for Lomi..
 - First trip to Batangas on Jam Liner is 4am, next is 5am.
 - Maculot can be climbed at any time, even at night.
 - Last trips out of Batangas are around 8pm, some 9pm.
 - Heavy traffic from Cuenca to Lipa at night.
 - Just do not drink soft drinks.
-- Put ice in the hydration pack it will last for the first x hours.
+- Put ice in the hydration pack as it will last for the first x hours.
 - Better to just pool everyone's money and accounting after.
 - Pen and paper may be needed to write stuff down.
 
@@ -175,24 +205,23 @@
 - Always wear hipbelt sobrang mabilis mapagod ang shoulder, better talaga if back na lang
 - Crossing logs, sit if you have to, low center of gravity
 - Mandatory to have gloves
-- Rash guards are really for rashes
-- When climbing do not wear windbreaker or jacket. just go with baselayer... you will produce heat anyway. just wear your windbreaker when you are at top
-- Survival blanket will save your frigging ass so DO NOT RUIN IT
-- Know where the damned trowel is at all times
+- Rash guards are really for rashes.
+- When climbing do not wear windbreaker or jacket. Just go with baselayer... You will produce heat anyway. Just wear your windbreaker when you are at the camp site.
+- Survival blanket will save your frigging ass so DO NOT RUIN IT.
+- Know where the damned trowel is at all times.
 
 ## Makiling
 
-- Trail food
-- Easily accessible hydration. Proper way of hydration
-- Hindi porket nagawa mo yung 10k ibig sabihin kaya mo na yung climb, iba yun
-- Practice cooking at home so you can actually do shit
-- Hydrite is your friend
-- More than 1 pair of pants mawawarat pants mo
-- Number of days+1!
+- Bring a lot of trail food, you can just eat them anyway. If there really is still excess trail food, then give it to mountain kids.
+- Do not bring a big ass 5L. Easily accessible hydration. Proper way of hydration
+- Finishing a 10K in the alloted time doesn't really mean that you can just climb randomly.
+- Practice cooking at home so you can actually contribute to the cooking.
+- Hydrite is your friend.
+- Bring 3 shirts (one for trekking, one for the camp, and one for going home), and 2 pairs of pants (1 for trekking, 1 for camp/going home).
 
 ## Bungkol Baka
 
-- Windbreaker near top of pack
-- Precooking, do not cook the
-- Vegetables rot easily
-- We do not wear flip flops because of the risk of ankle sprains
+- Put the windbreaker near the top of the pack, consider it something that you need in an instant.
+- Precook, not cook. If you cook the Beef Broccoli it will rot faster. Vegetables rot easily.
+- Really listen to the UPM peeps when they are discussing BMC skills. You'll regret it later.
+- We do not wear sandals when trekking because of the risk of ankle sprains.
