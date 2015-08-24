@@ -1,6 +1,41 @@
+## Purgatory (UPM Induction): August 29-31 2015
+
+- Cooked: Chicken Salpicao, Sausage Surprise, Beef with Mushroom.
+- Easier if 2 small tents than 1 big tent to distribute weight.
+- 1 2-3 person cookset is enough for 4 people.
+
+## Random talk
+
+- A lot of SAR operations deal with subjects out on dayhikes. If you're in full backpacking mode you probably have a ton of gear and can handle getting twisted up a bit. Day hikers generally don't have a way to stay warm and dry as the elements shift.
+- People with decent wilderness experience tend to walk far and long when lost.
+- The more lost you get trying to find your way out, the harder it is for SAR to find you. Just leave an itinerary with an exact route with a family member or friend and tell them that if something seems wrong, to contact the police.
+
+## Balingkilat: August 15-16 2015
+
+- Cooked: Chicken BBQ, Java rice, Grilled Hotdog, Onion omelette.
+- Climbing is really really fun if you go with your UPM batchmates.
+- Hotdog takes a long time to grill.
+- Onion takes a long time to grill and what you made sucked.
+- No need to preheat the pan if it is made of aluminum (it will melt).
+- You need to practice doing stuff outside while it's hot.
+- It's hard to refill your hydration pack when you have an earth pad in the pack as well.
+- When renting a van, rent a van with space in the back for the bags.
+- Always wear two layers of socks (or one thick layer) so you don't hurt your feet while walking on stones.
+- Double check hygienics bag before leaving, so you don't leave important stuff at home. Even if you bought it, you might have forgotten to put it in your pack.
+- Be wary of spilling hot soup over your legs.
+- Double check kneepads if yours are too tight. Or maybe you don't need them anymore. :)
+- Double check the logistics of putting ice in the hydration pack and covering with the windbreaker.
+- Convertible pants gave way :(
+- Figure out alternate tying methods of string for hammocks.
+- Cut your nails, really.
+- You can consider wet wipes and tissue paper as group equipment.
+- Butane dissipates if you don't have the cover.
+- RubyConf flipflops are around 200g lighter than your Sandugo sandals--they suck for walking but they are lighter/take up less space.
+- Instead of Gatorade, just take up water with Hydrite.
+
 ## Tarak Ridge: August 8-9 2015
 
-- Cooked: Tacos on Pita Bread, Banana Oatmeal, Beef Salpicao
+- Cooked: Tacos on Pita Bread, Banana Oatmeal, Chicken Salpicao
 - Tarak Ridge has parking/shower facilities at the jump-off. Parking: 100, shower: 20.
 - Before leaving, ensure that everyone has headlamps and enough water.
 - It's a good idea to practice overnight hikes with a fully loaded pack, so you don't get surprised with the weight of the pack when you do hike fully loaded.
