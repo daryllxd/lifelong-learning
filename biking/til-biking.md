@@ -1,3 +1,12 @@
+## First Ride to UP/Office
+
+- Kalayaan from Cubao is a long-ass uphill
+- Prepare for hills by downshifting prematurely
+- Increase height of seat (you should be able to stand over your bike just barely)
+- Hard to breathe with a mask
+- Camelbak Eddy is too big for the Topeak
+- Don't wear boots if raining, wear slippers. :)
+
 ## House-Ortigas-White Plains-House
 
 - Need to learn how to use a bike pump
