@@ -1,8 +1,38 @@
 ## Purgatory (UPM Induction): August 29-31 2015
 
-- Cooked: Chicken Salpicao, Sausage Surprise, Beef with Mushroom.
+- Cooked: Chicken Salpicao, Sausage Surprise.
 - Easier if 2 small tents than 1 big tent to distribute weight.
-- 1 2-3 person cookset is enough for 4 people.
+- 1 2-3 person cookset is enough for 4 people. But the problem with a small cookset is that the food inside is hard to cook if there are big cuts since the cookset is so small, so the spices don't mix.
+- Check the ultralight containers to ensure they don't spill since your Salpicao sauce got spilled.
+- When preparing a meal, always have a head chef for a specific meal and defer to their decisions so we don't have a "too many cooks" situation.
+- If you bring petroleum jelly, actually use it.
+- Check everyone's gear just to make sure you don't miss that people actually have this gear bought (you forgot a stove).
+- Check knife sharpness before leaving the house. Good thing you bought a sharpening stone.
+- Don't let emergency blankets get wet, though they are waterproof,
+- Get better emergency blankets: SOL or NDUR.
+- Bring extra Ziplock bags, for trash, or for when you need separate waterproofing (these things condense).
+- Put bus clothes in their own Ziplock bag so they won't take up all the space in the dry bag.
+- Just get a rubber mat since your "earth pad" sucks in terms of waterproofing.
+- Bent pole: Needs a splint to reconnect it, you can't just use duct tape (esp. since duct tape sucks when it's wet).
+- Tent pitching: The rainfly must be separated from the body. Double check this by going inside the tent and checking that it is separated, and that the fabric sew lines are aligned.
+- Tent pitching: Figure out how bathtub construction works. When pitched correctly, the tent body's sides will lift up, protecting the center portion from water.
+- Tent pitching: Ground sheets must be smaller than the tent. Cut the ground sheet if you have to.
+- Tent pitching: You only guy out the side of the tent where the wind will heat.
+- Tempo shelter leaks. Figure out where the leak is.
+- Don't get crappy trekking poles. Their locking mechanisms usually suck.
+- Body heat is imbalanced. Don't be afraid to footsie someone for the sake of body heat.
+- People have their own pace and as a GL you have to let them go at their own pace.
+- Dogs will go into flysheets to get food.
+- While you were disciplined in keeping the fleece/thermal pants dry, the inner lining of your jacket got wet, rendering it useless.
+- In case the tent floor gets wet, you need a way to remove the water. While it was good that you had a cotton shirt, you could have had a more absorbent material.
+- Bring contact lens solution in an ultralight container. Your solution spilled.
+- After the first day, a 3 day 2 night hike is just like a normal overnight climb, so compensate with your water accordingly.
+- GL is responsible for all group members. Make decisions for people who are cold, tired, and can't think clearly.
+- Ensure that iPod touch is on Airplane mode.
+- The Lenovo phone batter actually lasts a long time.
+- DO NOT EVER URINATE NEAR A FREAKING WATER SOURCE, even if it was a lapse of judgment.
+- When whistling for a rest stop, be decisive. Where you whistle is when you will stop.
+- You are a UPM member now, and everything you do will be judged accordingly. Keep your physical fitness and skills sharp.
 
 ## Random talk
 
