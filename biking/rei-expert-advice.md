@@ -15,7 +15,3 @@
 - Go into a gear that's low enough that you're neither spinning rapidly nor having to stand on the pedals to crank them forward. Then, keep your cadence steady and smooth.
 - *For a beginner, the tendency is to shift before you actually start climbing the hill. But as your learn to move your weight fore and aft to maintain balance and traction, you can modify your shifting to maintain speed.*
 - Once you feel more comfortable climbing, maintain your cadence on your current gear until you feel like you're about to life out of the saddle to continue pedaling. At this point, shift into a lower gear.
-
-
-
-

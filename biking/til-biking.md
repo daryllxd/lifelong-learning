@@ -1,3 +1,9 @@
+## Random
+
+- Put things you hold on your left hand
+- Tune up @Iron Bike costs 100
+-
+
 ## First Ride to UP/Office
 
 - Kalayaan from Cubao is a long-ass uphill
