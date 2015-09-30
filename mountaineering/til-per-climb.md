@@ -1,3 +1,17 @@
+## Al-Al/Tabayoc: September 26-27 2015
+
+- Cooked: Garlic chicken.
+- Always check your stuff, you lost your expensive cap. It's okay though--for small, easy to lose things, better to just get inexpensive options (such as buffs).
+- Not having a backpack cover sucks. Now you have to clean your bag.
+- First aid is really important, I'm considering moving it to pocket status.
+- Once again, extra contact lens fluid? Or better if you have an extra contact lens holder, just in case the first one's lens fluid gets spilled.
+- Losing the contact lens sucks, because you were forced to use eyeglasses, which made it harder to see (especially with moisture), so it was easier to get lost.
+- First time to legitimately get lost. Check trail signs, stop, ALWAYS bring a whistle.
+- Need to practice packing with the insulator mat you bought, it folds differently/takes up a lot of volume. Consider getting a rubber foam (much thinner).
+- Levelled up in terms of instinct when going down. More practice is needed.
+- No need to bring the assault pack up Al-Al, you could have just left it. As a result it was harder to pack stuff :(
+- Don't bring too much food :(
+
 ## Purgatory (UPM Induction): August 29-31 2015
 
 - Cooked: Chicken Salpicao, Sausage Surprise.
