@@ -1,3 +1,28 @@
+## Banahaw de Liliw: October 10-11 2015
+
+- Cooked: Spicy basil chicken. :)
+- Lost your backpack cover :(
+- Do not put saucy stuff in zip lock containers, they can spill (and they spilt this climb).
+- The search for the perfect container for sauces continues. Plastic bags evidently get dirty.
+- Butane container with white solid: solidified butane. Just scrape it off and try again.
+- Hammock tempo shelter: lower the walls to make it like an A-type tent. Or you can peg the head or bottom part to prevent cold from going in.
+- Your trekking polo is actually hot (even if you roll up the sides). Do not use for hot climbs.
+- Try wearing desert clothing next time (loose-fitting, sun-shielding body coverings).
+- You're better at cold management. Just need a solid base layer to complete the anti-cold suit.
+- Your sleeping bag has a bugnet. If you wore that, then you might have not gotten that many insect bites.
+- Might not need to bring trekking poles anymore, they honestly just kept on bumping the trees. They were useful as VSS, but not really since there were places for VSS anyway.
+- Need to bring tissue paper/cheap pan scrubber for cleaning pans better. One of the most irritating things ever is cleaning the dishes anyway.
+- TL has final say on everything. Should not compromise to ATL/GLs because of their batch/status.
+- Group X is almost an independent climb, but they can be ordered around by TL if it is really needed.
+- Trail formation: Find slowest person and move him to the front. Put fastest behind him to speed things up.
+- Trail formation: Cycle each group member around.
+- It's actually tiring to be a GL because you are constantly waiting for the last person to catch up (for trail formation purposes).
+
+## Daraitan: October 3 2015
+
+- Don't forget wet wipes/trowel.
+- It's really hard to have people who are super slow because they compromise the itinerary.
+
 ## Al-Al/Tabayoc: September 26-27 2015
 
 - Cooked: Garlic chicken.
