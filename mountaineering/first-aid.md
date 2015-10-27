@@ -25,3 +25,18 @@
   - Vaseline.
   - Burn creams/dressings.
   - Medical manuals/basic first aid instructions.
+
+## MCQBushcraft
+
+- 2 packets of tissue. Ideal for a cut. Good for hygiene and toilet paper as well.
+- Toothbrush (with fresh water).
+- Flashlight.
+- Ziplock bag: You can put cold water in it for when you get burned.
+- Mirror so you can see yourself.
+- Scissors to do some chopping with.
+- Tweezers to get thorns out.
+- Needles and thread for repairing equipment. Not really for stitching yourself, just for the repair kit.
+- Sterile adhesive dressing for blisters.
+- Antiseptic cream, antiseptic wipes.
+- Jetstream whistle.
+- Emergency blanket.

@@ -1,3 +1,23 @@
+## Banahaw de Pinagheneralan: October 24-25 2015
+
+- Cooked: Tacos.
+- Lost: One wool sock (!), whistle.
+- Carabiners are fun.
+- Rice spilt, do not use zip lock bags. Get a dedicated container for rice (Gatorade bottle, or something from Daiso).
+- Consider bringing Gatorade or Pocari Sweat powder to your climbs.
+- Glass bottles are heavy.
+- Lipa is that plant.
+- No need to cook in 2 batches if everything can fit in one pot anyway, just ratio up.
+- Practice perfecting rice, your rice sort of got burnt.
+- Preserving lettuce: blanch and wrap in newspaper.
+- Don't chop veggies it will speed up the rotting process.
+- Hard to put on bugnet while in the hammock.
+- Petroleum jelly on nuts area to prevent chafing. :(
+- Good practice to hike without trekking poles to get better at going down.
+- Regular exercise and proper diet is still needed.
+- Thinking of changing tempo shelter tying string lengths (they are sort of too long), but you can YOLO for now.
+- When taking a bus home, make sure it's an express one.
+
 ## Banahaw de Liliw: October 10-11 2015
 
 - Cooked: Spicy basil chicken. :)
