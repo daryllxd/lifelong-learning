@@ -1,4 +1,24 @@
-## Banahaw de Pinagheneralan: October 24-25 2015
+## Napulauan: December 25-28, 2015
+
+- Cooked: Chicken curry.
+- YOU JUST DID A 7/9 CLIMB :)
+- Patis = possible substitute for salt
+- Simmer shit to cook it.
+- Pre-chop chicken after pre-cooking so you don't need to chop it in the camp site.
+- You will lose your form if you don't exercise regularly, so keep up biking/walking up stairs. Add strength training/core work. Especially if you want to bring an SLR with you! :)
+- Don't underestimate descent, just fill your hydro pack with water (since you filled up just about half, you ran out and gassed out on the descent).
+- Ensure shoelaces are tight before going down.
+- Put petroleum jelly on your soles before going down.
+- Two trekking poles suck when going down, it's actually preferable to not have a pole than have 2.
+- Ensure group has trowel (this contributed to you not eating a lot of lunch because you might take a crap without a trowel).
+- You can buy decent outer/snow wear at H&M and Uniqlo.
+- Practice more on stoves that aren't yours.
+- Get fire starter since you suck at lighters.
+- Pocari + water tastes horrible.
+- Light My Fire mess kit: convenient, but not necessary when going up a long climb. Sort of takes up a lot of space, is triangular (so hard to stack), and it's hard to put food inside the container (since it's triangular there will be spaces). The sealed thingie is good for holding rice though (it will hold about 1.8 cups of rice).
+- The most UPM climb ever :)
+
+## Banahaw de Pinagheneralan: October 24-25, 2015
 
 - Cooked: Tacos.
 - Lost: One wool sock (!), whistle.
@@ -18,7 +38,7 @@
 - Thinking of changing tempo shelter tying string lengths (they are sort of too long), but you can YOLO for now.
 - When taking a bus home, make sure it's an express one.
 
-## Banahaw de Liliw: October 10-11 2015
+## Banahaw de Liliw: October 10-11, 2015
 
 - Cooked: Spicy basil chicken. :)
 - Lost your backpack cover :(
@@ -38,12 +58,12 @@
 - Trail formation: Cycle each group member around.
 - It's actually tiring to be a GL because you are constantly waiting for the last person to catch up (for trail formation purposes).
 
-## Daraitan: October 3 2015
+## Daraitan: October 3, 2015
 
 - Don't forget wet wipes/trowel.
 - It's really hard to have people who are super slow because they compromise the itinerary.
 
-## Al-Al/Tabayoc: September 26-27 2015
+## Al-Al/Tabayoc: September 26-27, 2015
 
 - Cooked: Garlic chicken.
 - Always check your stuff, you lost your expensive cap. It's okay though--for small, easy to lose things, better to just get inexpensive options (such as buffs).
@@ -57,7 +77,7 @@
 - No need to bring the assault pack up Al-Al, you could have just left it. As a result it was harder to pack stuff :(
 - Don't bring too much food :(
 
-## Purgatory (UPM Induction): August 29-31 2015
+## Purgatory (UPM Induction): August 29-31, 2015
 
 - Cooked: Chicken Salpicao, Sausage Surprise.
 - Easier if 2 small tents than 1 big tent to distribute weight.
@@ -99,7 +119,7 @@
 - People with decent wilderness experience tend to walk far and long when lost.
 - The more lost you get trying to find your way out, the harder it is for SAR to find you. Just leave an itinerary with an exact route with a family member or friend and tell them that if something seems wrong, to contact the police.
 
-## Balingkilat: August 15-16 2015
+## Balingkilat: August 15-16, 2015
 
 - Cooked: Chicken BBQ, Java rice, Grilled Hotdog, Onion omelette.
 - Climbing is really really fun if you go with your UPM batchmates.
@@ -122,7 +142,7 @@
 - RubyConf flipflops are around 200g lighter than your Sandugo sandals--they suck for walking but they are lighter/take up less space.
 - Instead of Gatorade, just take up water with Hydrite.
 
-## Tarak Ridge: August 8-9 2015
+## Tarak Ridge: August 8-9, 2015
 
 - Cooked: Tacos on Pita Bread, Banana Oatmeal, Chicken Salpicao
 - Tarak Ridge has parking/shower facilities at the jump-off. Parking: 100, shower: 20.
@@ -149,7 +169,7 @@
 - Just be prepared for every FA emergency, you got burned and didn't bring ointment.
 - Thinking of getting lighter sandals, but that would make the walks to/from the jump-off point harder.
 
-## Batulao: August 1 2015
+## Batulao: August 1, 2015
 
 - Need a smaller trash bag so your shit doesn't spill when you just put it in a pocket. This time, pork and beans spilt.
 - Bring FA even if you have a designated FA already.
@@ -159,7 +179,7 @@
 - Figure out a way to keep cooler during hot climbs especially in the Batangas mountains.
 - If you have a sort of physically unfit member in the team, compensate accordingly. You could have brought a stove for cooking/eating lunch easily.
 
-## Purgatory: July 25-26 2015
+## Purgatory: July 25-26, 2015
 
 - Cooked: Tacos, Bacon, Rosemary/Basil Chicken
 - Take Bonamine before every mountain wherein you go through a zigzag road trail.
@@ -187,7 +207,7 @@
 - Good Taste in Baguio = good food value, 90 for most meals and there are group options.
 - Good thing that I was able to sleep on the journey home. :)
 
-## Talamitam/Tagaytay: July 17 2015
+## Talamitam/Tagaytay: July 17, 2015
 
 - Cooked: Some weird Pancit Canton dish
 - Get used to sleeping in a hammock, also you have to master slip knot since all the other hitches are hard to untie with
@@ -206,7 +226,7 @@
 - Ferrocerium and knife: Use the spine, not the blade
 - Next time take a lot of pictures.
 
-## Maculot: July 4 2015
+## Maculot: July 4, 2015
 
 - FUCK IT IS STILL HARD FOR YOU TO SLEEP BEFORE THE CLIMB.
 - Get a repair kit for torn packs and torn shorts, learn how to use it.
@@ -233,7 +253,7 @@
 - Longer hikes: When resting every hour, elevate your feet for 5-10 minutes.
 - Snacks: Dried fruit? :)
 
-## Pico de Loro: June 27 2015
+## Pico de Loro: June 27, 2015
 
 - It is still nearly impossible for you to sleep for an early morning trip so better to sleep before super
 - Go for long-sleeved shirt rather than short-sleeved shirt + rash guard combo (you might lose the rash guard, more parts, aesthetically better in photos)
@@ -243,7 +263,7 @@
 - Near impossible to do 2 dayhikes on Sat/Sun because of sleep deprivation. Try Fri-Sun next time.
 - Fire vs mosquitoes
 
-## Ugo: June 13-14 2015
+## Ugo: June 13-14, 2015
 
 - Bring toothpaste
 - Compartmentalize kikay kit
@@ -271,7 +291,7 @@
 - Don't forget extra batteries for your homies
 - When splitting a tent, you have to be near the person you are splitting the tent with, so when you reach the campsite, you can pitch easily
 
-## Tibig: June 6-7 2015
+## Tibig: June 6-7, 2015
 
 - Gain knowledge of how to cook sinigang: Meat first then tomato/onion then string beans then eggplant
 - If you properly precook the meat will last for a week
@@ -287,12 +307,12 @@
 - Since the tent is freestanding clean out debris before you dismantle it
 - Knick knacks as trail food is not that good since the chocolate melts
 
-## Tagapo: June 5 2015
+## Tagapo: June 5, 2015
 
 - Notify your contact person
 - Charge phone before leaving
 
-## Binacayan/Pamitinan: May 28 2015
+## Binacayan/Pamitinan: May 28, 2015
 
 - Bring a tarp at the back of the vehicle always
 - Bring newspaper and plastic at back of vehicle
@@ -300,18 +320,18 @@
 - Practice going on top of stones to conquer your fear of heights
 - Sometimes no trail food needed if maikli lang talaga yung distance
 
-## Pinatubo via 4x4: May 23 2015
+## Pinatubo via 4x4: May 23, 2015
 
 - Do not leave trek pole in the car
 
-## Sembrano: May 21 2015
+## Sembrano: May 21, 2015
 
 - Navigation
 - Trail sign seeing
 - The ability to fashion tungkods from nowhere
 - Use gatorade cover as spoon if there is no spoon
 
-## Binacayan/Pamitinan: May 16-17 2015
+## Binacayan/Pamitinan: May 16-17, 2015
 
 - You can cover hydration with malong or insulators to still keep it cold
 
