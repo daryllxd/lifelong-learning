@@ -16,6 +16,7 @@
 - Get fire starter since you suck at lighters.
 - Pocari + water tastes horrible.
 - Light My Fire mess kit: convenient, but not necessary when going up a long climb. Sort of takes up a lot of space, is triangular (so hard to stack), and it's hard to put food inside the container (since it's triangular there will be spaces). The sealed thingie is good for holding rice though (it will hold about 1.8 cups of rice).
+- Fastest person in the group should have cookset + stove.
 - The most UPM climb ever :)
 
 ## Banahaw de Pinagheneralan: October 24-25, 2015

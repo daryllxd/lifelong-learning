@@ -7,4 +7,5 @@
 - Tire: 350
 - Inner tube: 180
 - Repair cost for tire: 50
+- Repair cost/front tire/inner tube change/brake cable change/brake pad change: 1000
 
