@@ -30,4 +30,12 @@
 #### Thawing Chicken in the Microwave
 
 - Unwrap your pieces of chicken. Place them in a microwave-safe bowl so that juices do not leak while the chicken is being thawed.
+- Set microwave to defrost. If you do not know how long you should defrost your specific amount of chicken for, defrost the meat for 2 minutes. Let stand for 1 minute and then check the progress. *Make sure that the chicken does not start to cook.*
+
+#### Warnings
+
+- Be sure to wash your hands before and after handling raw chicken.
+- Whole chickens do not thaw well in the microwave. You can still use this method for a whole chicken but there is a higher risk of bacterial growth.
+- Avoid defrosting chicken at room temperature on your kitchen counters because if you leave your chicken at room temperature for too long there is a high risk of bacterial growth.
+- *Be sure not to rinse the chicken before cooking because of risk of bacteria transfer as outlined in latest health guidelines.*
 
