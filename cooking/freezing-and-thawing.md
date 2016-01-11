@@ -1,3 +1,27 @@
+## National Center for Home Food Preservation
+[link](http://nchfp.uga.edu/how/freeze/containers.html)
+
+#### Containers for Freezing
+
+- Foods for your freezer must have proper packaging materials to protect their flavor, color, moisture content and nutritive value from the dry climate of the freezer.
+- Do not freeze fruits and vegetables in containers with a capacity of over one-half gallon. *Foods in larger containers freeze too slowly.*
+
+Packing materials should have certain characteristics:
+
+- Moisture vapor resistant
+- Durable and leakproof
+- Not become brittle and crack at low temperatures
+- Resistant to oil, grease, and water
+- Protect foods from the absorption of off flavors or odors
+- Easy to seal
+- Easy to mark
+
+Rigid containers made of plastics or glass are suitable for all packs and are good for liquid packs. Cardboard cartons for cottage cheese, ice cream and milk are not sufficiently moisture vapor resistant to be suitable for long term freezer storage, unless they are lined with a freezer bag or wrap.
+
+*Glass jars break at freezer temperatures.* If using glass jars, choose with mouth dual purpose jars made for freezing and canning. If standard canning jars are used for freezing, leave extra headspace to allow for expansion of foods during freezing.
+
+Flexible freezer bags and moisture-vapor resistant wrapping materials such as plastic freezer wrap, freezer paper and heavy-weight aluminum foil are suitable for dry packed products with little or no liquid.
+
 ## How to Freeze and Thaw Your Food the Right Way
 
 - *Meat.* Air will dry out your meats and cause it to lose flavor, texture, and sometimes its rich color. Wrap them in freezer paper, put the wrapped meat in a plastic bag, and then remove the air before freezing. *The easiest way to remove the air from a bag is just with a plastic straw. You seal the bag around the straw, suck the air out, and then quickly seal the bag.*
@@ -38,4 +62,5 @@
 - Whole chickens do not thaw well in the microwave. You can still use this method for a whole chicken but there is a higher risk of bacterial growth.
 - Avoid defrosting chicken at room temperature on your kitchen counters because if you leave your chicken at room temperature for too long there is a high risk of bacterial growth.
 - *Be sure not to rinse the chicken before cooking because of risk of bacteria transfer as outlined in latest health guidelines.*
+
 
