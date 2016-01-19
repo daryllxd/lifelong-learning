@@ -8,4 +8,10 @@
 - Inner tube: 180
 - Repair cost for tire: 50
 - Repair cost/front tire/inner tube change/brake cable change/brake pad change: 1000
+- Bike light CatEye Volt front light: 1350
+- Brake cable (Shimano): 150
+- Cable guard x2: 20
+- Repair cost for brake: 100
+- Tire lever x3: 150
+
 
