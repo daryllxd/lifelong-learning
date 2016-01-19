@@ -13,5 +13,12 @@
 - Cable guard x2: 20
 - Repair cost for brake: 100
 - Tire lever x3: 150
-
+- Giyo pump: 350
+- Groupset tiagra: 12000
+- Dropbar easton: 1500
+- Bar tape mzone: 450
+- Flower: 100
+- Shifter 850
+- V-brake 1500
+- Shifer cable for back brake: 100
 
