@@ -1,3 +1,21 @@
+## Balagbag Trail Run: April 3, 2016
+
+- Hydrite still tastes like shit. Get Gatorade next time.
+- Put ice in the hydration pack because you'll be going at a higher BPM.
+- Try getting a sleeved jersey with rashguard set up next time.
+- Things to bring--extra clothes, slippers, rashguard, soap or wet wipes, whey.
+- Descending--just practice till you get it.
+- 5AM is a bit too late.
+
+## Tapulao Habol Team: March 26-27, 2016
+
+- Cooked: Lemon/Paprika Chicken with Pesto Pasta.
+- Ensure you have everything present in the correct place the night before.
+- 1 hour is too short of a trekking time.
+- You have to use a bugnet every time you use a hammock because insects are everywhere.
+- It's very hard to do anything at night without a headlamp.
+- Need to improve your balance/core strength somehow, as while you are okay ascending/cardio-wise, you still think twice on the rocks when descending.
+
 ## Napulauan: December 25-28, 2015
 
 - Cooked: Chicken curry.
