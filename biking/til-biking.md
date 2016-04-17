@@ -1,3 +1,9 @@
+## Las Pinas-La Mesa (April 2, 2016)
+- The 11-32 is a hassle because it promotes no-downshifting behavior.
+- Practice climbing with ass form since you are doing it asymmetrically.
+- Very cheap to buy water at refilling stations.
+- Commonwealth is not as scary as you think it is.
+
 ## Bike to UP (March 2, 2016)
 - Warm up first before going all out, or stretch before, as you will get muscle pain
 - 22-23kph is doable
