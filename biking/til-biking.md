@@ -1,3 +1,11 @@
+## Shotgun (April 16, 2016)
+- 11-28 also sucks for climbing, you get exhausted easily. Apparently this is already a "climb-safe" gearing, so you still have to improve your legs, suffering potential, and weight.
+- Practice out of the saddle at threshold for long climbs.
+- Caliper brakes--need to keep it locked always, you nearly died.
+- Practice descending turning to the right.
+- Practice mounting the bike with the left pedal as the first stroke.
+- Always always have a multitool.
+
 ## Las Pinas-La Mesa (April 2, 2016)
 - The 11-32 is a hassle because it promotes no-downshifting behavior.
 - Practice climbing with ass form since you are doing it asymmetrically.
