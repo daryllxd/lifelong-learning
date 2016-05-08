@@ -1,3 +1,13 @@
+## TNF 22K Trail Run: May 1, 2016
+
+- Really proud of yourself for digging deep and finishing the race while maxing out.
+- Just run or climb stairs to increase calf muscle, cardio is okay already, you just got cramped as heck.
+- Increase ability to suffer by climbing more stairs.
+- Bring salt sticks and take them when you feel you are starting to cramp.
+- Good management of eating while on the run, think about gels next time.
+- Too much water brought during the run, just drank about 500ml anyway.
+- Do not combine water and Gatorade, it tastes like ass.
+
 ## Balagbag Trail Run: April 3, 2016
 
 - Hydrite still tastes like shit. Get Gatorade next time.
