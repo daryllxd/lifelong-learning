@@ -1,3 +1,14 @@
+## San Fernando again (May 7, 2016)
+
+- So many flats.
+- Do not leave people behind in a group ride, be patient and ride.
+- 23-24kph over flats is doable/chill pace, 27 is pushing it.
+- Not really enjoying North trips because of the dust/heat factor.
+
+## Tagaytay
+
+- The heat when going back to Manila is sweltering.
+
 ## Shotgun (April 16, 2016)
 - 11-28 also sucks for climbing, you get exhausted easily. Apparently this is already a "climb-safe" gearing, so you still have to improve your legs, suffering potential, and weight.
 - Practice out of the saddle at threshold for long climbs.
