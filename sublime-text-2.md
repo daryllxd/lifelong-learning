@@ -1,11 +1,11 @@
 # Sublime
 
-Open Dash: Ct-H 
+Open Dash: Ct-H
 
 Ctags: Ct-T-T
 
 ## Views
-	
+
 	C-R							Show outline (!)
 	C-M-2						2 views
 	Ct-1 or Ct-2 		Focus on view
@@ -30,7 +30,7 @@ Ctags: Ct-T-T
 ## Selection
 
 	Ct-C-G					Select all instances of the word (!)
-	M-LClick				Select column					
+	M-LClick				Select column
 	C-D							Select a word
 	C-L							Select a line
 	Ct-C-M					Select everyting inside the bracket
@@ -54,7 +54,7 @@ Ctags: Ct-T-T
 ## Deleting Stuff
 
 	Fn+Del					Forward delete
-	Fn+C+Del				Forward delete word 
+	Fn+C+Del				Forward delete word
 	C-S-k						Delete line without highlighting it first
 	C-K							Delete line
 	Ct-Del					Backspace word

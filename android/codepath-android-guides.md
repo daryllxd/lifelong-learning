@@ -92,7 +92,7 @@ The last child added to a FrameLayout will be drawn on top of all the previous c
 
 Layout width, layout_height, text, background, textColor
 
-#### Input Views 
+#### Input Views
 
 
 
