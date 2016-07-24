@@ -38,3 +38,4 @@
 - Need a better rain jacket/shell, almost always this will be needed.
 - Instead of just one pair, bring two pairs of pants, mountain hiking pants would probably be awesome.
 - Running shoes instead of sneakers, expect long walks so you might as well make it fun for yourself.
+- Bring a padlock just in case you need to put your stuff in a locker.
