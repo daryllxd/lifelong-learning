@@ -19,4 +19,44 @@
 - We never capitalize a string. We return a capitalized copy of a string. `String.capitalize(name)`. This is different from `name.capitalize()` since we are indicating that we are NOT changing the internal representation of the name, and that we are transforming it.
 - [http://web.mit.edu/6.005/www/fa15/classes/09-immutability/](Risky examples) - If you pass mutable values around, if you reuse the mutated value at some point for other purposes (like reuse or performance), you will get a bug. Simplest solution: Always return a copy of the thing, not the thing itself.
 
->>>>>>> Add Programming Elixir: Immutability.
+#### Elixir Basics
+
+Value types
+
+- *Integers.* May contain underscores (`1_000_000`). No fixed limit on the sizes of integers.
+- *Floats.* At least 1 digit before and after the decimal point.
+- *Atoms.* Like symbols in Ruby? `:hello`, `:is_binary?`. Two atoms with the same name will compare as being equal.
+- *Ranges.*
+- *Regular expressions.*
+
+System types
+
+- *PIDs and Ports.*
+- References. The function `make_ref` creates a globally unique reference, no other reference will be equal to it.
+
+Collection types
+
+- *Tuples.* A tuple is an ordered collection of values. Once created, a tuple cannot be modified. `{ status, count, action } = {:ok, 42, "next" }`.
+- It is common for functions to return a tuple where the first element is the atom `:ok` if there were no errors.
+
+      { status, file } = File.open("Rakefile") -> { :ok, #PID<0.39.0>}
+
+- *Lists.* A list is a linked data structure. Head/tail, the tail is a list also. Lists are easy to traverse linearly, but are expensive to access in random order. Lists are also immutable, so if we want to remove the tail, we can just return a pointer to the tail.
+
+      iex> [1, 2, 3] ++ [4, 5, 6] # [1, 2, 3, 4, 5, 6]
+      iex> [1, 2, 3, 4] -- [2, 4] # [1, 3]
+      iex> 1 in [1, 2, 3, 4]      # true
+      iex> "hehe" in [1, 2, 3, 4] # false
+
+- *Keyword lists.*
+
+      iex> [name: "Dave", city: "Dallas", likes: "Programming"]
+      iex> [{:name, "Dave"}, {:city, "Dallas"}, {:likes, "Programming"}]
+
+- *Maps.*
+
+      iex> ${key => value, key => value}
+      iex> ${"AL" => "Alabama", "WI" => "Wisconsin"}
+      iex> ${{:error, :enoent} => :fatal, {:error, :busy} => :retry}
+      iex> ${
+
