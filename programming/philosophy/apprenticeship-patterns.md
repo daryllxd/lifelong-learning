@@ -3,7 +3,7 @@
 
 - Mastering is more than just knowing. It is knowing in a way that lightens your load.
 - If you're worried that your current job is rotting your brain, it probably is.
-- The best way to learn is to be in the same people who are trying to achiever some goal using the skills you wish to learn.
+- The best way to learn is to be in the same people who are trying to achieve some goal using the skills you wish to learn.
 - "How long will it take to master Aikido?", a prospective student asks. "How long do you expect to live?" is the only response.
 - Expose your ignorance. *Tomorrow I need to look stupider and feel better about it. This staying quiet and trying to guess what's going on isn't working so well.*
 - Just as the runner training for a marathon develops stronger leg muscles. She's not training to have strong legs; she's training to run. Like the motivated developer who after working on a Python project for two years achieves a deep knowledge of Python, the marathon runner's strong leg muscles are a means, not an end.
