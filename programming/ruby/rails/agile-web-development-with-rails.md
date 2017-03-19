@@ -48,7 +48,7 @@ Modules: Hold a collection of methods, constants. They act as a namespace and th
 Actions:
 
     <%= link_to 'Show', product %><br/>
-    <%= link_to 'Edit', edit_product_path(product) %><br/> 
+    <%= link_to 'Edit', edit_product_path(product) %><br/>
     <%= link_to 'Destroy', product, :confirm => 'Are you sure?', :method => :delete %>
     <%= cycle('list_line_odd', 'list_line_even') %>"
     <%= truncate(strip_tags(product.description), :length => 80) %>
@@ -64,7 +64,7 @@ Actions:
     class StoreController < ApplicationController
       def index
           @products = Product.all # abstract from models
-      end 
+      end
     end
 
     class Product < ActiveRecord::Base
@@ -91,12 +91,12 @@ Actions:
 
         private
 
-      def current_cart 
+      def current_cart
         Cart.find(session[:cart_id])
       rescue ActiveRecord::RecordNotFound # create new cart if Cart not found
         cart = Cart.create session[:cart_id] = cart.id
         cart
-      end 
+      end
     end
 
     class Cart < ActiveRecord::Base

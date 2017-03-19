@@ -22,7 +22,7 @@ Array of words: can be done with %w
     a = %w{ant bee cat} = [‘ant’, ‘bee’, ‘cat’]
 
 Hash default value: Hash.new(1) (1 is the default value)
- 
+
 #### Blocks and Iterators
 
 You can use code blocks to implement callbacks and iterators, and then execute them using yield.
@@ -58,7 +58,7 @@ Reading and Witing
     puts = add a newline
     print = doesn’t add a newline
     printf = like C
- 
+
 
 ## 3: Classes, Objects, Variables
 
@@ -87,8 +87,8 @@ This means it looks like there is a holding variable, when in reality there isn�
 
     Class SongList
     @@plays = 0 #classes must be initialized before they are used
-    	MAX_TIME = 5 * 60 
-    	
+    	MAX_TIME = 5 * 60
+
     	def SongList.is_too_long(song)
     		return song.duration > MAX_TIME
     	end
@@ -116,9 +116,9 @@ class Demo
 Access control
 
   class Accounts
-    def initialize(checking, savings) 
+    def initialize(checking, savings)
     @checking = checking @savings = savings
-    end 
+    end
 
   private
 
@@ -148,7 +148,7 @@ Person2 = Person1.dup
 Person1[0] = “J”
 Person1 -> “Jim”, Person2 -> “Time
 Person1.freeze -> prevents other people from modifying the object.
- 
+
 Chapter 5: Standard Types
 Numbers
 
@@ -161,7 +161,7 @@ Underscores are ignored.
 ## 0xaabb: Hexadecimal
 
 ## 0377: Octal
--0b10_1010: Binary 
+-0b10_1010: Binary
 
 Iterators
 
@@ -179,7 +179,7 @@ try_convert(obj) -> attempt conversion back to string or nil if obj cannot be co
 
 str * integer -> new_str: returns a new String containing integer copies of the old one.
 "Ho! " * 3 => "Ho! Ho! Ho! "
- 
+
  str << integer -> str, str.concat(33): concatenate. int is not automatically converted to string
 
  string <=> other_string -> -1, 0, +1 or nil
@@ -305,7 +305,7 @@ str * integer -> new_str: returns a new String containing integer copies of the 
   str.start_with
   str.strip, str.strip!
 
-  str.sub(pattern) => replace the first occurence of the pattern 
+  str.sub(pattern) => replace the first occurence of the pattern
 
   str.swapcase(!) (change cases)
   str.to_c => to complex number
@@ -386,12 +386,12 @@ Starts with a small letter. If you start with a big letter Ruby will first guess
 
     class TaxCalculator
       def initialize(name, &block)
-        @name, @block = name, block 
+        @name, @block = name, block
       end
 
       def get_tax(amount) 
         "#@name on #{amount} = #{ @block.call(amount) }"
-      end 
+      end
     end
 
     tc = TaxCalculator.new("Sales tax") {|amt| amt * 0.075 } tc.get_tax(100) → "Sales tax on 100 = 7.5"
@@ -428,19 +428,19 @@ If assigning to an object or element reference, the forms are special because th
 
     class Amplifier
         def volume=(new_volume)
-          self.left_channel = self.right_channel = new_volume 
+          self.left_channel = self.right_channel = new_volume
         end
     end
 
 Ruby assignments are effectively performed in parallel, so the values assigned are not affected by the assignment itself.
-    
+
     a, b = b, a
 
 The values on the right are evaluated first in the order by which they appear.
 
     x=0 →0 
     a,b,c = x,(x+=1),(x+=1) → [0,1,2]
- 
+
 > No auto-increment and auto-decrement operators in Ruby, you have to use the += and == forms instead.
 
 #### Booleans and If-then
@@ -459,7 +459,7 @@ The values on the right are evaluated first in the order by which they appear.
 If and case statements can be super terse:
 
     if song.artist == "Gillespie": handle = "Dizzy"
-    elsif song.artist == "Parker": handle = "Bird" 
+    elsif song.artist == "Parker": handle = "Bird"
     else handle = "unknown"
     end
 
@@ -483,10 +483,10 @@ Tests are done as: comparison === target.
 
 #### Case Polymorphism
 
-    case shape 
+    case shape
       when Square, Rectangle # ...
       when Circle # ...
-      when Triangle # ... 
+      when Triangle # ...
       else # ...
     end
 
@@ -528,7 +528,7 @@ Mixins
 By including a module inside a class, the module’s instance methods are suddenly available as methods in the class as well. They get mixed in.
 module Debug
 def who_am_i?
-"#{self.class.name} (\##{self.id}): #{self.to_s}" 
+"#{self.class.name} (\##{self.id}): #{self.to_s}"
 end
 end
 
@@ -540,7 +540,7 @@ class EightTrack
 
 ph = Phonograph.new("West End Blues") 
 et = EightTrack.new("Surrealistic Pillow")
-ph.who_am_i? → "Phonograph (#935520): West End Blues" 
+ph.who_am_i? → "Phonograph (#935520): West End Blues"
 et.who_am_i? → "EightTrack (#935500): Surrealistic Pillow"
 
 
@@ -560,8 +560,8 @@ end
 def each @string.scan(/[aeiou]/) do |vowel|
           yield vowel
 end
-end 
-vf = VowelFinder.new("the quick brown fox jumped") 
+end
+vf = VowelFinder.new("the quick brown fox jumped")
 vf.inject {|v,n| v+n } → "euiooue"
 Including Other Files
 
@@ -574,14 +574,14 @@ require ‘filename’
 Local variables in a loaded or required file are not propagated to the scope that loads or requires them.
 
 Require is an executable statement: it could be inside an if or it could include a string you just built.
- 
+
 
 ## 10: Reading and Writing Files
 
- 
+
 
 ## 11: Threads and Processes
- 
+
 
 ## 12: Unit Testing
 Structuring Tests
@@ -607,7 +607,7 @@ self.two = 2
 end
 end
 
-obj = Incorrect.new 
+obj = Incorrect.new
 obj.one → nil
 obj.two → 2
 
@@ -618,7 +618,7 @@ Output written to a terminal may be buffered: always used nonbuffered I/O (set s
 Text from file is a string, and has to be converted to a number via the Integer(num1) method or via map.
 
 Benchmark, profiler.
- 
+
 
 ## 14: Ruby and Its World
 ruby –w “Hello World”
@@ -640,7 +640,7 @@ Autocomplete: tab-tab
 Exit, quit, irb_exit, irb_quit
 
 ## 16: Documenting Ruby
- 
+
 
 ## 17: Package Management with RubyGems
 
