@@ -110,3 +110,48 @@ Opening a file:
     $ elixir hello.exs
     iex> c "hello.exs"
 
+#### Functions Can Return Functions
+
+    iex> fun1 = fn -> fn -> 'hello' end end
+    iex> fun1.().() -> Evaluating the outer, and then the inner function
+
+    iex> greeter = fn(name) -> (fn -> "Hello #{name}" end) end
+    # This is a function that creates a function that can greet people based on the name
+    iex> dave_greeter = greeter.("Dave")
+    iex> dave_greeter.() => "Hello Dave"
+
+- *This works because functions in Elixir automatically carry with them the bindings of variables in the scope in which they are defined.* When the inner function is defined, it inherits this scope and carries the binding of `name` around with it. This is a *closure*, the scope encloses the bindings of its variables, packaging them into something that can be saved and used later.
+
+    iex> add_n = fn n -> (fn y -> n + y end) end
+    # This is a function that will, given a parameter n, will create a function that if
+    # given a parameter y, will add x to y
+    iex> add_two = add_n.(2)
+    iex> add_two.(6) => 7
+
+#### Passing Functions as Arguments
+
+    iex> times_2 = fn n -> n *2 end
+    iex> apply = fn(fun, value) -> fun.(value) end
+    # This is a function that will evaluate a passed function with a passed value
+    iex> apply.(times_2, 6)
+
+- Ex: `map`: `Enum.map` takes in a list and a function, and applies the function to each element of the collection.
+- Pinned Values: pin operator.
+- The &Notation: Works like this:
+
+    iex> add_one = &(&1 + 1) # This is like add_one = fn(n) -> n + 1 end
+    iex> add_stuff = &(&1 + &2)
+    iex> speak = &(IO.puts(&1))
+    iex> speak.("hehe")
+    iex> divrem = &{ div(&1, &2), rem(&1, &2) }
+
+- Creating an anonymous function from a known function using the & operator
+
+    iex> l = &length/1 #=> The length method already exists
+    iex> l.([1,2,3]) #=> 3, call the function with 1 arity
+
+- Cool stuff
+
+    iex> Enum.map [1, 2, 3], &(&1 + 1) #=> [2, 3, 4]
+
+

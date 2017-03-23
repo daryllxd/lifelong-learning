@@ -1,3 +1,20 @@
+speak = &(IO.puts(&1))
+speak.("eheh")
+
+# hehe
+
+divrem = &{ div(&1, &2), rem(&1, &2) }
+IO.puts(divrem.(5,2))
+
+add_n = fn (n) -> (fn(other) -> n + other end) end
+haha = add_n.(5)
+IO.puts(haha.(7))
+
+adding = &(&1 + &2)
+
+IO.puts(adding.(1, 2))
+
+
 list_concat = fn (a, b) -> a ++ b end
 hello = fn(a) -> IO.puts(a) end
 
@@ -23,3 +40,5 @@ hello.(rem_fiz.(10))
 hello.(rem_fiz.(11))
 hello.(rem_fiz.(12))
 hello.(rem_fiz.(13))
+
+
