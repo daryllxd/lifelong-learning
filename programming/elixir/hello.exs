@@ -4,7 +4,7 @@ speak.("eheh")
 # hehe
 
 divrem = &{ div(&1, &2), rem(&1, &2) }
-IO.puts(divrem.(5,2))
+# IO.puts(divrem.(5,2))
 
 add_n = fn (n) -> (fn(other) -> n + other end) end
 haha = add_n.(5)
@@ -42,3 +42,29 @@ hello.(rem_fiz.(12))
 hello.(rem_fiz.(13))
 
 
+defmodule Times do
+  def double(n) do
+    haha = n * 2
+    haha * 2
+  end
+
+  def double2(n), do: n * 2
+end
+
+
+IO.puts(Times.double(4))
+IO.puts(Times.double2(4))
+
+
+defmodule Factorial do
+  def of(0), do: 1
+  def of(n), do: n * of(n-1)
+end
+
+IO.puts(Factorial.of(9))
+
+
+defmodule Factorial2 do
+  def of(n), do: n * of(n-1)
+  def of(0), do: 1
+end

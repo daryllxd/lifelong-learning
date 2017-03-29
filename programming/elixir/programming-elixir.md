@@ -154,4 +154,35 @@ Opening a file:
 
     iex> Enum.map [1, 2, 3], &(&1 + 1) #=> [2, 3, 4]
 
+#### Modules and Named Functions
+
+    defmodule Times do
+      def double(n) do
+        n * 2
+      end
+    end
+
+    same as
+
+    def double2(n), do: n * 2
+
+    Times.double(4) #=> 8
+
+- A named function is identified by both its name and its arity.
+- Calling multiple arity? This is common in f(x)al languages--look for the simplest possible case with a definite answer. This is the anchor. Then, look for a recursive solution that will end up calling the anchor case.
+
+    # This will attempt to pattern match according to the order
+    defmodule Factorial do
+      def of(0), do: 1
+      def of(n), do: n * of(n-1)
+    end
+
+- Order matters, this will work but you will get a warning
+
+    # Can't get to the second case
+    defmodule Factorial do
+      def of(n), do: n * of(n-1)
+      def of(0), do: 1
+    end
+
 
