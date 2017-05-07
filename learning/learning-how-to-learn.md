@@ -184,3 +184,4 @@
 - Use deliberate practice. Practice the hard things to gain full mastery of the material.
 - Einstellung is when your initial thought/pattern prevents a better idea/solution from being found.
 - The Law of Serendipity.
+

@@ -22,4 +22,4 @@
 - Not reading the textbook before you start working on problems.
 - Not clearing up points of confusion.
 - Thinking you can learn deeply when you are being constantly distracted.
-- Not getting enough sleep. Your brain pieces together problem-solving techniques when you sleep. Prolonged fatigue allows toxins to build up in the brain that disrupt the neural connections you need to think quickly and well.
+- Not getting enough sleep. Your brain pieces together problem-solving techniques when you sleep.
