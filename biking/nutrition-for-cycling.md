@@ -2,7 +2,7 @@
 [link](https://www.youtube.com/watch?v=eeIA261_gSw&index=34&list=WL)
 
 - Everyday nutrition vs ride-day nutrition. In the saddle you have high calorie needs based on METS (metabolic equivalents), you might need 12-13 up to 18 times the calories you need on the bike as opposed to off the bike.
-- 60% carb, 20% pro, 20% fat normal day, on race day needs change. When you are doing aerobic activity, it prefers to use carbs as fuel. Proteins and fats are hard to use as fuel.
+- 60% carb, 20% pro, 20% fat normal day, on race day. When you are doing aerobic activity, the body prefers to use carbs as fuel. Proteins and fats are hard to use as fuel.
 - You want to distribute your calories throughout your day. This is the healthy way to lose/maintain/gain weight. Body would rather not go into a feast-and-famine scenario because we are good in hoarding calories.
 - People normally have no idea of what their calories/carb/protein/fat numbers are (and people who know their numbers aren't really different).
 - Aero bikes and gear would probably save 6 minutes in a 40km time trial, but being fit would probably save 12 minutes.
