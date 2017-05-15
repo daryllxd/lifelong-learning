@@ -18,7 +18,7 @@
 
 *Outside money is Plan Z.* We're in a service economy now. If you're running a business like that, avoid outside funding. Spending other people's money may sound great, but there's a noose attached. Here's why: You give up control. "Cashing out" begins to trump building a quality business. You wind up building what investors want instead of what customers want. Raising money is incredibly distracting. Seeking funding is difficult and draining.
 
-*You need less than you think.* There's nothing wrong with being frugal. When we launched our first product, we did it on the cheap. We didn't get our own office; we shared space with another company. We didn't get a bank of servers; we had only one. We didn't advertise; we promoted by sharing our experiences online. We didn't hire someone to answer customer e-mails; the company founder answered them himself. And everything worked out just fine. Great companies start in garages all the time. Yours can too. 
+*You need less than you think.* There's nothing wrong with being frugal. When we launched our first product, we did it on the cheap. We didn't get our own office; we shared space with another company. We didn't get a bank of servers; we had only one. We didn't advertise; we promoted by sharing our experiences online. We didn't hire someone to answer customer e-mails; the company founder answered them himself. And everything worked out just fine. Great companies start in garages all the time. Yours can too.
 
 *Building to flip is building to flop.* You need a commitment strategy, not an exit strategy. If your whole strategy is based on leaving, chances are you won't get far in the first place. Move to an island and sip pina coladas all day? Will that really satisfy you? Will money alone truly make you happy? Are you sure you'll like that more than running a business you actually enjoy and believe in? That's why you often hear about business owners who sell out, retire for six months, and then get back in the game. They miss the thing they gave away.
 
@@ -55,26 +55,26 @@
 - What could you be doing instead?
 - Is it really worth it? Is the meeting worth pulling 6 people off work? Is it worth pulling an all-nighter, or could you just finish it tomorrow? Is it worth getting stressed over a competitor's press release? It it worth spending your money on advertising?
 
-####  Meetings are toxic 
+####  Meetings are toxic.
 
-*The worst interruptions of all are meetings.* Here's why: 
+*The worst interruptions of all are meetings.* Here's why:
 
-- They're usually about words and abstract concepts, not real things. 
+- They're usually about words and abstract concepts, not real things.
 - They usually convey an abysmally small amount of information per minute.
-- They drift off-subject easier than a Chicago cab in a snowstorm. 
-- They require thorough preparation that most people don't have time for. 
-- They frequently have agendas so vague that nobody is really sure of the goal.- They often include at least one moron who inevitably gets his turn to waste everyone's time with nonsense. 
+- They drift off-subject easier than a Chicago cab in a snowstorm.
+- They require thorough preparation that most people don't have time for.
+- They frequently have agendas so vague that nobody is really sure of the goal.- They often include at least one moron who inevitably gets his turn to waste everyone's time with nonsense.
 
 When you think about it, the true cost of meetings is staggering. Let's say you're going to schedule a meeting that lasts one hour, and you invite ten people to attend. That's actually a ten-hour meeting, not a one-hour meeting. You're trading ten hours of productivity for one hour of meeting time.
 
 #### Fixing a Meeting
 
-- Set a timer. When it rings, meeting's over. Period. 
-- Invite as few people as possible. 
-- Always have a clear agenda. 
-- Begin with a specific problem. 
-- Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes. 
-- End with a solution and make someone responsible for implementing it. 
+- Set a timer. When it rings, meeting's over. Period.
+- Invite as few people as possible.
+- Always have a clear agenda.
+- Begin with a specific problem.
+- Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes.
+- End with a solution and make someone responsible for implementing it.
 
 *Illusions of agreement.* If you need to explain something, try getting real with it. Instead of describing what something looks like, draw it. That's why you want to get to something real right away. That's when you get true understanding. Get the chisel out and start making something real. Anything else is just a distraction.
 
@@ -92,17 +92,17 @@ Long lists don't get done. Long lists collect dust. Long lists are guilt trips. 
 
 *Make tiny decisions.* When you make tiny decisions, you can't make big mistakes. These small decisions mean you can afford to change. There's no big penalty if you mess up. You just fix it. Attainable goals like that are the best ones to have. Ones you can actually accomplish and build on. You get to say, "We nailed it. Done!"
 
-## Competitors 
+## Competitors
 
 *Don't copy.* The problem with this sort of copying is it skips understanding--and understanding is how you grow. You have to understand why something works or why something is the way it is. When you just copy and paste, you miss that. So much of the work an original creator puts into something is invisible. Plus, if you're a copycat, you can never keep up. You're always in a passive position. How do you know if you're copying someone? If someone else is doing the bulk of the work, you're copying. Be influenced, but don't steal.
 
 *Decommoditize your product.* But there's a great way to protect yourself from copycats: Make you part of your product or service. Inject what's unique about the way you think into what you sell. Zappos sets itself apart by injecting CEO Tony Hsieh's obsession with customer service into everything it does. Pour yourself into your product and everything around your product too: how you sell it, how you support it, how you explain it, and how you deliver it.
 
-*Pick a fight.* If you think a competitor sucks, say so. When you do that, you'll find that others who agree with you will rally to your side. Having an enemy gives you a great story to tell customers, too. Taking a stand always stands out. And that's a good way to get people to take notice. 
+*Pick a fight.* If you think a competitor sucks, say so. When you do that, you'll find that others who agree with you will rally to your side. Having an enemy gives you a great story to tell customers, too. Taking a stand always stands out. And that's a good way to get people to take notice.
 
 *Underdo your competition.* When you get suckered into an arms race, you wind up in a never-ending battle that costs you massive amounts of money, time, and drive. And it forces you to constantly be on the defensive, too. Defensive companies can't think ahead; they can only think behind. Do less than your competitors to beat them. Solve the simple problems and leave the hairy, difficult, nasty problems to the competition.
 
-*Who cares what they're doing?* In the end, it's not worth paying much attention to the competition anyway. It's a terrible mindset that leads to stress and anxiety. It's a pointless exercise anyway. The competitive landscape changes all the time. Your competitor tomorrow may be completely different from your competitor today. It's out of your control. What's the point of worrying about things you can't control? 
+*Who cares what they're doing?* In the end, it's not worth paying much attention to the competition anyway. It's a terrible mindset that leads to stress and anxiety. It's a pointless exercise anyway. The competitive landscape changes all the time. Your competitor tomorrow may be completely different from your competitor today. It's out of your control. What's the point of worrying about things you can't control?
 
 ## Evolution
 
@@ -119,31 +119,31 @@ Long lists don't get done. Long lists collect dust. Long lists are guilt trips. 
 #### Marketing is not a department.
 
 *Marketing is something everyone in your company is doing 24/7/365.*
- 
-Every time you answer the phone, it's marketing. 
 
-Every time you send an e-mail, it's marketing. 
- 
-Every time someone uses your product, it's marketing. 
- 
-*Every word you write on your Web site is marketing.* 
- 
-If you build software, every error message is marketing. 
- 
-If you're in the restaurant business, the after-dinner mint is marketing. 
- 
-If you're in the retail business, the checkout counter is marketing. 
- 
-If you're in a service business, your invoice is marketing. 
- 
+Every time you answer the phone, it's marketing.
+
+Every time you send an e-mail, it's marketing.
+
+Every time someone uses your product, it's marketing.
+
+*Every word you write on your Web site is marketing.*
+
+If you build software, every error message is marketing.
+
+If you're in the restaurant business, the after-dinner mint is marketing.
+
+If you're in the retail business, the checkout counter is marketing.
+
+If you're in a service business, your invoice is marketing.
+
 *Recognize that all of these little things are more important than choosing which piece of swag to throw into a conference goodie bag.* Marketing isn't just a few individual events. It's the sum total of everything you do.
 
 *Welcome obscurity.* Use this time to make mistakes without the whole world hearing about them. Obscurity helps protect your ego and preserve your confidence. You don't want everyone to watch you starting your business. It makes no sense to tell everyone to look at you if you're not ready to be looked at yet. And keep in mind that once you do get bigger and more popular, you're inevitably going to take fewer risks. Now's the time to take risks without worrying about embarrassing yourself.
 
-*Build an audience.* The most fortunate companies have audiences. Instead of going out to reach people, you want people to come to you. This is the most receptive group of customers and potential customers you'll ever have. When you build an audience, you don't have to buy people's attention--they give it 
+*Build an audience.* The most fortunate companies have audiences. Instead of going out to reach people, you want people to come to you. This is the most receptive group of customers and potential customers you'll ever have. When you build an audience, you don't have to buy people's attention--they give it
 *to you.*
 
-*Out-teach your competition.* Teaching probably isn't something your competitors are even thinking about. Most businesses focus on selling or servicing, but teaching never even occurs to them. Teach and you'll form a bond you just don't get from traditional marketing tactics. They'll respect you more. Even if they don't use your product, they can still be your fans. 
+*Out-teach your competition.* Teaching probably isn't something your competitors are even thinking about. Most businesses focus on selling or servicing, but teaching never even occurs to them. Teach and you'll form a bond you just don't get from traditional marketing tactics. They'll respect you more. Even if they don't use your product, they can still be your fans.
 
 *Emulate chefs.* The great chefs share everything they know. They put their recipes in cookbooks and show their techniques on cooking shows. A recipe is much easier to copy than a business. They know those recipes and techniques aren't enough to beat them at their own game.
 
@@ -159,9 +159,9 @@ If you're in a service business, your invoice is marketing.
 
 ## Hiring
 
-*Do it yourself first.* Never hire anyone to do a job until you've tried to do it yourself first. That way, you'll understand the nature of the work. You'll know what a job well done looks like. You'll know how to write a realistic job description and which questions to ask in an interview. You'll also be a much better manager, because you'll be supervising people who are doing a job you've done before. 
+*Do it yourself first.* Never hire anyone to do a job until you've tried to do it yourself first. That way, you'll understand the nature of the work. You'll know what a job well done looks like. You'll know how to write a realistic job description and which questions to ask in an interview. You'll also be a much better manager, because you'll be supervising people who are doing a job you've done before.
 
-*Hire when it hurts.* Always ask yourself: What if we don't hire anyone? Can we solve the problem with a slice of software or a change of practice instead? Similarly, if you lose someone, don't replace him immediately. You'll often discover you don't need as many people as you think. The right time to hire is when there's more work than you can handle for a sustained period of time. 
+*Hire when it hurts.* Always ask yourself: What if we don't hire anyone? Can we solve the problem with a slice of software or a change of practice instead? Similarly, if you lose someone, don't replace him immediately. You'll often discover you don't need as many people as you think. The right time to hire is when there's more work than you can handle for a sustained period of time.
 
 *Strangers at a cocktail party.* Hire a ton of people rapidly and a "strangers at a cocktail party" problem is exactly what you end up with. There are always new faces around, so everyone is unfailingly polite. You need to be able to tell people when they're full of crap. If that doesn't happen, you start churning out something that doesn't offend anyone but also doesn't make anyone fall in love.
 
@@ -193,7 +193,7 @@ The number-one principle to keep in mind when you apologize: How would you feel 
 
 Keep in mind that you can't apologize your way out of being an ass. Even the best apology won't rescue you if you haven't earned people's trust. Everything you do before things go wrong matters far more than the actual words you use to apologize.
 
-*Put everyone on the front lines.* The people who make the product work in the "kitchen" while support handles the customers. Unfortunately, that means the product's chefs never get to directly hear what customers are saying.Listening to customers is the best way to get in tune with a product's strengths and weaknesses. Everyone on your team should be connected to your customers--maybe not every day, but at least a few times throughout the year. That's the only way your team is going to feel the hurt your customers are experiencing. It's feeling the hurt that really motivates people to fix the problem. And the flip side is true too: The joy of happy customers or ones who have had a problem solved can also be wildly motivating. 
+*Put everyone on the front lines.* The people who make the product work in the "kitchen" while support handles the customers. Unfortunately, that means the product's chefs never get to directly hear what customers are saying.Listening to customers is the best way to get in tune with a product's strengths and weaknesses. Everyone on your team should be connected to your customers--maybe not every day, but at least a few times throughout the year. That's the only way your team is going to feel the hurt your customers are experiencing. It's feeling the hurt that really motivates people to fix the problem. And the flip side is true too: The joy of happy customers or ones who have had a problem solved can also be wildly motivating.
 
 *Take a deep breath.* After you introduce a new feature, change a policy, or remove something, knee-jerk reactions will pour in. Resist the urge to panic or make rapid changes in response. If you ride out that first rocky week, things usually settle down. Also, remember that negative reactions are almost always louder and more passionate than positive ones. So when people complain, let things simmer for a while. Let them know you're listening. But explain that you're going to let it go for a while and see what happens.
 
@@ -201,7 +201,7 @@ Keep in mind that you can't apologize your way out of being an ass. Even the bes
 
 *You don't create a culture.* You don't create a culture. It happens. This is why new companies don't have a culture. Culture is the byproduct of consistent behavior. If you encourage people to share, then sharing will be built into your culture. If you reward trust, then trust will be built in. If you treat customers right, then treating customers right becomes your culture. Culture isn't a foosball table or trust falls. It isn't policy. It isn't the Christmas party or the company picnic. Those are objects and events, not culture. And it's not a slogan, either.
 
-*Decisions are temporary.* Don't make up problems you don't have yet. It's not a problem until it's a real problem. It's easy to shoot down good ideas, interesting policies, or worthwhile experiments by assuming that whatever you decide now needs to work for years on end. It's just not so, especially for a small business. If circumstances change, your decisions can change. Getting a product or service off the ground is hard enough without inventing even more obstacles. 
+*Decisions are temporary.* Don't make up problems you don't have yet. It's not a problem until it's a real problem. It's easy to shoot down good ideas, interesting policies, or worthwhile experiments by assuming that whatever you decide now needs to work for years on end. It's just not so, especially for a small business. If circumstances change, your decisions can change. Getting a product or service off the ground is hard enough without inventing even more obstacles.
 
 *Skip the rock stars.*  We're all capable of bad, average, and great work. The environment has a lot more to do with great work than most people realize. Cut the crap and you'll find that people are waiting to do great work. Rockstar environments develop out of trust, autonomy, and responsibility. They're a result of giving people the privacy, workspace, and tools they deserve. Great environments show respect for the people who do the work and how they do it.
 
@@ -213,16 +213,16 @@ Keep in mind that you can't apologize your way out of being an ass. Even the bes
 
 *Sound like you.* When you speak big, you sacrifice one of a small company's greatest assets: the ability to communicate simply and directly, without running every last word through a legal-and PR-department sieve. Language is often your first impression--why start it off with a lie? Don't be afraid to be you. Talk to customers the way you would to friends. Explain things as if you were sitting next to them. Avoid jargon or any sort of corporate-speak. Write to be read, don't write just to write. Whenever you write something, read it out loud. Does it sound the way it would if you were actually talking to someone? If not, how can you make it more conversational? And when you're writing, don't think about all the people who may read your words. Think of one person. Then write for that one person.
 
-*Four-letter words.* There are four-letter words you should never use in business. They're not fuck or shit. They're need, must, can't, easy, just, only, and fast. These words get in the way of healthy communication. When you use these four-letter words, you create a black-and-white situation. 
+*Four-letter words.* There are four-letter words you should never use in business. They're not fuck or shit. They're need, must, can't, easy, just, only, and fast. These words get in the way of healthy communication. When you use these four-letter words, you create a black-and-white situation.
 
 Here's what's wrong with some of them:
 
-- Need. Very few things actually need to get done. Instead of saying "need," you're better off saying "maybe" or "What do you think about this?" or "How does this sound?" or "Do you think we could get away with that?" 
-- Can't. When you say "can't," you probably can. Sometimes there are even opposing can'ts: "We can't launch it like that, because it's not quite right" versus "We can't spend any more time on this because we have to launch." Both of those statements can't be true. Or wait a minute, can they? 
+- Need. Very few things actually need to get done. Instead of saying "need," you're better off saying "maybe" or "What do you think about this?" or "How does this sound?" or "Do you think we could get away with that?"
+- Can't. When you say "can't," you probably can. Sometimes there are even opposing can'ts: "We can't launch it like that, because it's not quite right" versus "We can't spend any more time on this because we have to launch." Both of those statements can't be true. Or wait a minute, can they?
 - Easy. Easy is a word that's used to describe other people's jobs. "That should be easy for you to do, right?" But notice how rarely people describe their own tasks as easy. For you, it's "Let me look into it"--but for others, it's "Get it done."
- 
+
 These four-letter words often pop up during debates (and also watch out for their cousins: everyone, no one, always, and never). Once uttered, they make it tough to find a solution. They box you into a corner by pitting two absolutes against each other. That's when head-butting occurs. You squeeze out any middle ground. And these words are especially dangerous when you string them together: "We need to add this feature now. We can't launch without this feature. Everyone wants it. It's only one little thing so it will be easy. You should be able to get it in there fast!" Only thirty-six words, but a hundred assumptions. That's a recipe for disaster.
 
-## Conclusion: Inspiration is perishable 
+## Conclusion: Inspiration is perishable
 
 *We all have ideas.* Ideas are immortal. They last forever. What doesn't last forever is inspiration. Inspiration is like fresh fruit or milk: It has an expiration date. If you want to do something, you've got to do it now. You can't put it on a shelf and wait two months to get around to it. You can't just say you'll do it later. Later, you won't be pumped up about it anymore. If you're inspired on a Friday, swear off the weekend and dive into the project. When you're high on inspiration, you can get two weeks of work done in twenty-four hours. Inspiration is a time machine in that way. Inspiration is a magical thing, a productivity multiplier, a motivator. But it won't wait for you. Inspiration is a now thing. If it grabs you, grab it right back and put it to work.

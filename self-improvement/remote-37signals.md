@@ -46,4 +46,4 @@
 # Life of a remote worker
 
 - Create separation between work and play with different clothes, spaces, and times.
-- Experiment with different setups: working remotely only in the morning, working in public spaces, or renting a desk at a local office. 
+- Experiment with different setups: working remotely only in the morning, working in public spaces, or renting a desk at a local office.
