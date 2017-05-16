@@ -42,3 +42,50 @@
 - Students today don't start in deep attention. They start in hyper attention. The pedagogical challenge will be to combine hyper attention with deep attention and to cultivate both.
 - Chronic media multitaskers performed worse than otherwise similar peers on analytic questions drawn from the LSAT.
 - *"I don't think that law students in classrooms are sitting there thinking, Boy, I'd rather play Freecell than learn the law," Nass says. "I don't think that's the case. What happens is that there's a moment that comes when you say, Boy, I can do something really easy, or I can do something really hard."*
+
+## Remembering, as an Extreme Sport
+[Reference](https://well.blogs.nytimes.com/2014/05/19/remembering-as-an-extreme-sport/)
+
+- The difference between memory athletes and the rest of us is in a cognitive ability that's not a direct measure of memory, but attention.
+- Greek poet Simonides of Ceos is credited with first describing the method.
+- Everyone uses the same techniques re: memory palace. Other techniques are not as effective.
+- Average IQ: 130. Average study time: 1000-2000 hours and counting.
+- The competitors say that "Once any given competition is over, the numbers or words or facts are gone." But the science says they can still recall a significant amount of words they memorized on Day 1.
+- But to install a fresh image in the memory palace, they must clear the old one (*attentional control*).
+- Stroop test: people see words flashing on a computer with a color in the background. If the word is the same as the color, people are faster.
+- Memory athletes are older than students, which means that they should be worse since memory decreases with age, but they do better. While attentional control is not a direct measure of memory, we know that it certainly serves memory.
+- *Memory champions are not only exceptional at remembering, but also at forgetting.*
+-Remembering and forgetting are not necessarily the enemies of each other.
+
+## Poor health, lifestyle factors linked to memory complaints, even among younger adults
+[Reference](https://medicalxpress.com/news/2014-06-poor-health-lifestyle-factors-linked.html)
+
+- If you're depressed, don't get enough exercise, or have high blood pressure, you may find yourself complaining about memory problems, even if you're a young adult.
+- Depression, low levels of education, physical inactivity and high blood pressure increased the likelihood of memory complaints in younger, middle-aged, and older adults.
+- Depression was the strongest single risk factor for all memory complaints in all age groups.
+- For younger adults, stress may play more of a role, and the ubiquity of technology may impact their attention span, making it harder to focus and remember.
+- Education is a key element of "cognitive reserve", the ability to compensate for progressive brain pathology.
+
+## Healthy lifestyle choices mean fewer memory complaints, poll finds
+[Reference](https://medicalxpress.com/news/2013-05-healthy-lifestyle-choices-memory-complaints.html#nRlv)
+
+- Older adults were more likely to report engaging in healthy behaviors than middle-aged and younger adults.
+- A higher than expected percentage of young adults complained about their memory.
+- More healthy lifestyle behaviors means less likely to complain about memory issues.
+- Only 12 percent of older adults smoked, compared with 25 percent of young adults and 24 percent of middle-aged adults.
+
+### How Studying or Working Abroad Makes You Smarter
+
+- Multicultural engagement predicts how "integratively complex" their thinking became.
+- Students who adopted an open and adaptive attitude towards foreign cultures became more able to make connections using disparate ideas.
+- People who have international experience or identify with more than one nationality are better problem solvers and display more creativity.
+- They are also more likely to create new businesses and products and to be promoted.
+
+## This is the kind of music you should listen to at work
+[Reference](http://www.telegraph.co.uk/business/2016/06/02/this-is-the-kind-of-music-you-should-listen-to-at-work/)
+
+- Music is a very powerful management tool if you want to increase not only the efficiency of your workforce, but also their mental state, their emotional state, and how they're going to become more positive about their work.
+- Classical music if your work involves numbers or attention to detail.
+- Pop music if your work involves data entry or working to deadlines. Best for spell-checking.
+- Ambient music (as ignorable as it is interesting). Highest level of accuracy for respondents completing tasks involving equations.
+- Dance music if your work involves proof-reading and problem solving.

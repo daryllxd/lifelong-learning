@@ -185,3 +185,113 @@
 - Einstellung is when your initial thought/pattern prevents a better idea/solution from being found.
 - The Law of Serendipity.
 
+## Procrastination and Memory
+
+- Building solid chunks in long term memory takes time. You do not want to put this off until the last moment.
+- One tool: Pomodoro technique.
+- Inner zombies: The routine your brain goes through that want to focus on making the here and now better.
+- Not all procrastination is bad.
+- Good learning is a bit by bit activity. You want to avoid cramming.
+- Willpower uses a lot of neural resources. You shouldn't use willpower to vent off procrastination unless you need to.
+- Procrastination: Unhappy feeling -> funneling attention onto a more pleasant task -> feel happy -> feel bad about what just happened.
+- Procrastination offers temporary excitement/relief from boring reality.
+- You'll create stories and devise irrational excuses that sounds reasonable (if I study too early I'll forget the thing).
+- The higher you go in your studies, the more important it is to fight procrastination.
+- YOU should be making the decision, not your zombies.
+- Procrastinators just put off one little thing, then they get used to it, but the long term effects are not so good.
+
+## Zombies Everywhere
+
+- Backing out of the driveway for the first time is hard. But once you've chunked it, it becomes easy. Same with riding a bicycle.
+- Chunking is related habit. Habit is an energy saver for us.
+- You get into a habitual zombie mode. The thing about habit is that you don't think about it, so it saves you energy.
+- Four parts of habits
+  - The cue. This is the trigger that launches your zombie mode. Text message -> "stop work".
+  - The routine. The brain's habitual response when it receives the cue.
+  - The reward. Every habit develops/continues because it gives us some element of pleasure. Find a way to reward good study habits.
+  - The belief. Habits have power because of your belief in them. To change a habit, you need to change your underlying habit.
+
+## Process Vs. Product
+
+- When it comes to learning in general, it's perfectly normal to experience negative emotions. It's how you handle the thing. Non-procrastinators put their negative feelings aside with things like "quit wasting time and just get on with it, you'll feel better about it".
+- If you find yourself avoiding tasks, you can reframe things.
+- Focus on process: the flow of time and the habits/actions associated with that time. Product is "a homework assignment that I have to finish". Your attention should be related to processes/habits.
+- Avoid focusing on answering the questions. Focus on the small chunks over time to answer the questions or tests. The whole point is you calmly put forth your best forth in this small time period.
+- This is why a Pomodoro is nice because you focus on the time but not on the task.
+- The zombie likes processes because it can focus on this thing. So focus on a process rather on a product, you let yourself relax into the flow of the work.
+- When a distraction arises, just let it flow by. Quiet spaces or noise cancelling headphones can be really helpful when they're trying to concentrate.
+
+## Harnessing Your Zombies to Help You
+
+- You want to just overwrite parts of a habit.
+- Look to change your reaction to the cue.
+  - The cue. Recognize what launches you into the zombie procrastination mode. Location, time, how you feel, reactions. Is it a web surfing thing, or a text message, or what? Prevent the most damaging cues by shutting off your phone or keeping yourself from the Internet.
+  - The routine. To rewire, develop a plan. Remove potent distractions. These can be something like finding your favorite chair, finding your favorite place, and savor your victories when they work. Pomodoro can work here.
+  - The reward. Why are you procrastinating? How about getting yourself a feeling of pride or sense of satisfaction when you finished the thing? Remember that habits are powerful because they create neurological cravings. *Only when your brain starts expecting a reward would the important rewiring take place that will allow you to create new habits.* The better you get at something, the more enjoyable it can become.
+  - The belief. You may find that when the going gets stressful, you long to want to go back to bad habits. Hang out with like-minded people.
+
+## Juggling Life and Learning
+
+- Once a week, write a list of key tasks.
+- Write a daily to-do list during the evening before so you can enlist your zombies subconsciously for the day.
+- By moving to Pomodoro mode, I've switched to a process orientation.
+- I use things like cleaning to be diffused learning breaks.
+- With experience, you'll find out how fast tasks take.
+- Planning your quitting time is as important as planning your working time.
+- Cal Newport: 5pm quitting time.
+- Work on the most important/most disliked task first.
+- Remember: Planning well is trying. Lady Luck favors the one who tries.
+
+## Summary
+
+- Planing Journal.
+- Commit yourself to certain routines and tasks each day.
+- Arrange your work into a series of small challenges.
+- Make sure your zombies have rewards.
+- Delay rewards until you finish the task.
+- Watch for procrastination cues.
+- Put yourself in new locations.
+- Gain trust in your new system.
+- Have backup plans for when you still procrastinate.
+- Eat your frogs first.
+
+## Diving Deeper into Memory
+
+- A mind is built to retain general information about a place. You can enhance your ability to remember if you tap into this visual memory. Our ancestors needed to remember locations but not names/numbers, after all.
+- Images connect to your right hemisphere. The more neural hooks you can build by evoking the senses, the easier it is to remember.
+- Idea should be memorable: "flying mule bringing f=ma to the couch".
+- Writing or saying what you're trying to learn seems to retain the thing.
+- The more you can term what you're trying to memorize in something memorable, the easier things could be.
+- Index cards.
+- Great flash card systems like Anki have spaced repetition algorithms.
+
+## What is Long Term Memory?
+
+- At the age of 27, Mr. HM had an operation which took out his hippocampus. His epilepsy was cured, but he can no longer remember new things.
+- You can have a normal conversation with HM, but after a few minutes, he can't remember who you are or what you talked about.
+- He can learn motor skills but he cannot remember how he learned it.
+- Hippocampus: Without it and its inputs, we can't remember things.
+- Memories are not fixed, but are living, breathing parts of your brain that are changing all the time.
+- Memories can be reconsolidated.
+- By suggesting or imagining, you can change memories. You can recall an old memory with a new context.
+- This is why it is effective to space-learn. You may retrieve something during the exam, but it will fade from memory.
+- Glial cells/astrocytes: When human astrocytes were put into mice, they were better. Einstein had more astrocytes than the normal human.
+- Astrocytes: Provide nutrients to neurons, maintain extracellular ion balance, and are involved with repair following injury.
+
+## Creating Meaningful Groups and the Memory Palace Technique
+
+- Better to associate numbers with a year you know. 11 = 100 meter dash. 18 = debut. 104 = "old but happy great grandma."
+- Medicine: acronyms to memorize hand bones or cranial bones.
+- Memory palace technique: Grouping things you want to remember. This is good to remember unrelated items like a grocery list. Think that you are in the place with the mental images of a bunch of things that you want to remember.
+- This is hard at first but after, you can be fast.
+- The memory process itself becomes an exercise in creativity. This is because you are creating wild/unexpected possibilities of neural connections.
+- As you begin to internalize parts of the material, you come to understand it more deeply.
+
+## Summing Up Memory
+
+- 2 main memory systems: Long term memory/storage warehouse. Extend practice to several days to build better memories.
+- Working memory: Just 4 things. This is why you make to-do lists, so they don't occupy your memory list.
+- To begin tapping into your visual memory system, make a memorable visual image about a concept you want to remember.
+- Meaningful groups: Associate numbers with years or acronyms.
+- Memory palace.
+- By memorizing material you understand, you are reinforcing the concept that you want to learn.
