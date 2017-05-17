@@ -31,7 +31,3 @@ Your goal is to increase the weight each workout. If you get five reps on each s
 Unlike many guys believe, you don't need to train a muscle directly for it to grow. You don't need to do a dozen of exercises each workout to hit your muscles from every angle. And the best way to gain muscle is NOT to train until failure to get “pumped” and wake up sore.
 
 The key to building muscle isn't the amount of exercises, it's the intensity. Squatting 100kg for 5x5 is a workout by itself. *You're happy you don't have to do more than three exercises per workout.*
-
-
-
-
