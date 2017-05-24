@@ -295,3 +295,114 @@
 - Meaningful groups: Associate numbers with years or acronyms.
 - Memory palace.
 - By memorizing material you understand, you are reinforcing the concept that you want to learn.
+
+## How to Become a Better Learner
+
+- Physical exercise. In a few places, new neurons are born every day. One of these places is in the hippocampus.
+- New neurons die if you don't rescue them. Exercise is more effective than any other drug in the market for improving your learning. Gym and recess are important parts of the curriculum.
+- Critical period for first language acquisition: puberty.
+- You can apparently fix lack of depth perception with practice. Practice can repair or train the brain.
+- Zombies can't learn. Learning, planning, language, these are what makes us human.
+- Until this happens, there may be a little bit of zombie in you.
+- Learning is too important to be left behind in the classroom.
+
+## Introduction to Renaissance Learning and Unlocking Your Potential
+
+- Learn using metaphor and analogy
+- Learning doesn't progress logically. It's not like everyday you do something. Sometimes you hit a wall. This seems to happen when your mind restructures its understanding. (Ex: learning foreign languages.) This is a natural phenomenon, wherein your mind s wrestling deeply with the material.
+
+## Create a Lively Visual Metaphor or Analogy
+
+- The more visual, the better. Ex: Visualize electrical current as water, electrical power as a push.
+- When chemists began to understand the structure of molecules, they used metaphors.
+- Pretend that you are the concept you are trying to understand.
+- Chemistry: cation = cat = paws = positive. Anion = negative = onion = makes you cry.
+- Metaphors are good to get out of Einstellung (being blocked by your way of thinking).
+
+## No Need for Genius Envy
+
+- Science vs Athletics: You don't get to know how to hit a baseball in a day. You repeat/chunk it. In the same way, once you do something in math/science, you don't have to keep explaining the how to yourself.
+- At some point you just figure out that you add exponents. By doing things a lot, you figure out the HOW in addition to the WHY.
+- People learn by trying to make sense of the information they perceive.
+- Experts have to make fast decisions by dealing with the consolidation of chunks.
+- Are they necessarily gifted? Well, intelligence and chunking memory slots does matter to some degree. However, it does make you lees creative using Einstellung. A superb memory can hold its thoughts more securely.
+- Having a somewhat smaller working memory can make you more creative. If things aren't locked up more tightly, you can get more ideas from other parts of your brain.
+- It is practice, particularly DELIBERATE practice on the hardest part of the material, that can lift your mental ability.
+- Imposter syndrome: If you suffer from feelings of inadequacy, remember that most people feel them too.
+
+## Change Your Thoughts, Change Your Life
+
+- Santiago Cajal--juvenile delinquent who became the father of neuroscience.
+- Myelin sheaths are said to not fully form until your twenties.
+- When you use neural circuits/practice things, you improve your myelin sheaths.
+- It seems people can enhance the development of their neural circuits by practicing thoughts that use those neurons.
+- Cajal: "Although brilliant people can do exceptional work, they can be careless and biased."
+- Anyone can change their own brain so even the least gifted can produce an abundant harvest.
+- Charles Darwin was a poor student in school. Out on his own, Darwin was able to look with fresh eyes at the data he was collecting.
+- There will always be those who criticize or attempt to undermine any effort or achievement you make.
+- If you flunk a test, you may also encounter critics who say you don't have what it takes.
+- Tune people out if you discover that their interests lie in undercutting you.
+- Mastering such dispassion can be difficult--not everyone is naturally good hearted towards us.
+- Take pride in aiming your success because of the very things that make other people say you can't do it. Take pride in who you are, especially the qualities that make you different, and use them as a secret talisman for success. Use your natural contrariness to defy the always present prejudices from others about what you accomplish.
+
+## The Value of Teamwork
+
+- Broad-perspective perceptual disorder: They can still function, but only partially. They can retain their intelligence if it was a skill they've had before. But an interesting anomaly, they would conclude something nonsensical, such as that a hot dog stand had a profit and loss statement with a loss of nearly a billion dollars. There's no "hmm that answer doesn't make sense".
+- The right hemisphere helps us step back and put our work into big picture perspective. People with damage to the right hemisphere are unable to gain "aha" insights. People with strokes can remind us of the dangers of not using our full cognitive abilities, which involve many areas of our brain.
+- The right h serves as a devil's advocate, while the left h tries to cling tenaciously to the way things were. The left h interprets the world for us and will go to great lengths to keep those interpretations unchanging.
+- Problem with the focus, left h leaning mode of analysis is that is provides analytical, but rigid/dogmatic/egocentric approach.
+- Step back and recheck to make sure you use both hemispheres.
+- YOU are the easiest person to fool.
+- This is why it's good to work with other people. After all, every one has blind spots.
+- Friends and teammates can serve as a larger scale diffuse mode. The importance of working with others doesn't just relate to learning.
+
+## A Test Checklist
+
+- The effort you put into test-taking is of fundamental importance.
+- Testing has a wonderful way of concentrating the mind.
+- Checklist by Richard Felder:
+  - Did you make a serious effort to understand the text?
+  - Did you work with classmates on homework problems or at least check your solutions with others?
+  - Did you participate actively in homework group discussions contributing ideas and asking questions? Did you consult with the instructor or teaching assistants when you were having trouble with something?
+  - Did you understand all your homework problem solutions when they were handed in?
+  - Did you ask in class for explanations of homework problem solutions that weren't clear to you?
+  - If you had a study guide, did you carefully go through it before the test and convince yourself you could do everything on it?
+  - Did you attempt to outline lots of problem solutions quickly without spending time on the Algebra in calculations?
+  - Did you go over the study guide and problems with class mates and quiz one another?
+  - If there was a review session before the test, did you attend and asked questions about anything you weren't sure about?
+  - And lastly, did you get a reasonable night's sleep before the test?
+
+## Hard Start--Jump to Easy
+
+- Better to concentrate on tough problems first (especially with concentrating on focus mode immediately).
+- Start on the hard problems then jump to the easy ones. You put the hard thing in mind then you switch attention from it/diffuse mode.
+- When you return to the more difficult problems, you'll be pleased that the next steps may be obvious.
+- It's like while you are waiting for the steak to fry, you can slice tomatoes, or season the soup.
+- The problem is that you have the self-discipline to pull yourself off the problem after you find yourself stuck for a minute or two.
+- Sometimes people are concerned that starting a problem and then pulling away might cause confusion on an examination.
+
+## Final Helpful Hints for Tests
+
+- The story you tell yourself about why you're stressed makes all the difference.
+- Shift your thinking from "this test has made me afraid" to "this test has got me excited to do my best".
+- Momentarily turn your attention to your breathing. Relax your stomach, place your hand on it, and slowly draw a deep breath.
+- Multiple choice questions: Cover them up first and try to recall.
+- If a practice test is easier, why is it? Maybe you had an answer key at hand.
+- Plan B for the alternate career: once you have a plan for the worst possible contingency, you will be surprised that the fear will begin to subside.
+- Good worry/bad worry: Good worry helps provide motivation and focus, bad worry just wastes energy.
+- The day before the test, look over the materials to brush up on them. Don't push your brain too hard, you won't run a ten mile race the day before running a marathon.
+- Checking your answers from different perspectives provides an opportunity for verifying what you've done.
+- When checking your work, if you start more towards the back, it seems to give your brain a good perspective.
+
+## Summary
+
+- To understand concepts, create a metaphor (the more visual, the better).
+- If you change your thoughts, you can change your life.
+- Take pride in aiming for success because of the things that make other people say you can't do it.
+- Check your work.
+- Overconfidence in your results can result from one mode of thinking.
+- Taking a test is serious business, so make a test preparation checklist.
+- Hard start jump to easy technique.
+- Change your interpretation of stress to work for you? Make it "this test has got me excited to do my best".
+- If you're panicked on a test, momentarily turn your attention to your breathing.
+- Whenever possible, you should blink, shift your attention, and double check your answers using a big picture perspective.

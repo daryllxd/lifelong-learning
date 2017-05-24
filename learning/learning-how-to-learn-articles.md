@@ -89,3 +89,27 @@
 - Pop music if your work involves data entry or working to deadlines. Best for spell-checking.
 - Ambient music (as ignorable as it is interesting). Highest level of accuracy for respondents completing tasks involving equations.
 - Dance music if your work involves proof-reading and problem solving.
+
+## Optional: Caroline on Learning Something Difficult that Others Think Isn't You
+
+- I now have new passions for engines/power tools/coding/stuff.
+- I worked my butt off for 4 years and I got through and it paid off when I got a job in Lockheed Martin. I feel that I am valued in my job for my technical and my people skills. It is good to feel proud of yourself for working really hard to do something you aren't really good at.
+
+## Optional Interview with 4 Time US Memory Champion Nelson Dellis
+
+- Not a natural memory expert. I taught myself this many, many years ago. I train it using memory techniques and a lot of practice.
+- I'm training for competitions (it's my work) so I spend hours a day training. Numbers are harder, I have pictures for each number.
+- Remembering names: Any memory technique involves visualization, turning them into a picture, then attach that image to a location. Use a memory palace, attach these images to this place.
+- For names, use a distinguishing feature about them for their name. I focus about some physical appearance/distinguishing feature in them, then I figure out their name, then I think about a new location for them.
+- I may not get all names immediately, so what I recommend is go and talk to those people, and don't expect to remember their name again. The key to remembering names is to not be embarrassed.
+- Memory is about paying attention. Since I am not the best, I have to make an effort. When I get business cards, I write stuff that stick out with this person. Stuff that was important to you. I keep a file of those and it reminds me of how many people I meet. It becomes a game and I feel it becomes more fun that day.
+- How to memorize difficult, theoretical concept to memorize things that are outside the specific bounds like cards, numbers, faces? It's like when you're going to the gym, you exercise specific muscles. *For complex systems, the basics are this: come up with a picture.* You want to turn something abstract and complicated into something your brain can understand. Secondly, store it somewhere, the memory palace.
+- The difficult thing is coming up with the picture.
+- With text, it's difficult because there are a lot of words. You can pick up the general ideas but memorizing a speech or poems word for word, those are the hard ones.
+- When you're trying to memorize a text in general, find these key points and now you've reduced those text into a group of words. This turns them into storing things into a memory palace.
+- This is more of studying how to take care of your brain, not just memory.
+- Just being active is good for the brain.
+- Be social.
+- Fish oil/omega 3.
+- When you age and you have responsibilities, that's where memory really springs from. Our inner child. To have a good memory, you have to explore that world a bit more. Be a bit silly, a bit more fun.
+- Memory game that people take and the goal is to find people who have naturally good memories. We want to find people that have this naturally. (Dart Neuroscience).
