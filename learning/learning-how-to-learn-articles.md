@@ -113,3 +113,137 @@
 - Fish oil/omega 3.
 - When you age and you have responsibilities, that's where memory really springs from. Our inner child. To have a good memory, you have to explore that world a bit more. Be a bit silly, a bit more fun.
 - Memory game that people take and the goal is to find people who have naturally good memories. We want to find people that have this naturally. (Dart Neuroscience).
+
+## How to Have A Thicker Skin for Negative Feedback
+[Reference](https://www.forbes.com/sites/work-in-progress/2014/10/22/how-to-have-a-thicker-skin-for-negative-feedback/#6471d26c1e22)
+
+- When you get in the practice or hearing, and then surviving, feedback, it loses some power.
+- *Compassionate Detachment.* Distance yourself from the outcome of a story. Separate your extreme emotions from the feedback by telling yourself that "I can only see the feedback if I quiet the noise."
+- *Don't Isolate Yourself.* When you get in the habit of processing hard moments with those more experienced than you, you give yourself the gift of support.
+- *Demote Your Inner Perfectionist.* Doing things perfectly almost never happens. BTW, knowing someone is a perfectionist steers them away from hard-hitting feedback that's most instructive. Thank your perfectionist for her concern, then explain that progress is always made in a jagged, up and down trajectory--rarely is it perfectly linear.
+- *Have a Go-To Mantra.* "I'll stay open." "I tolerate and gain from tough feedback." Mantras strike a chord in us, are easy to remember and repeat, and quickly reinforce a needed message.
+
+## Compassionate Detachment: The Being and Doing of Coaching Part One
+[Reference](https://realbalancewellness.wordpress.com/2011/05/11/compassionate-detachment-the-being-and-doing-of-coaching-part-one/), [Reference](http://helenabbott.com/coaching-and-personal-development/compassionate-detachment-what-the/)
+
+- All human helpers need to give as much attention to *how to be as to what to do*.
+- "The way in which I relate to others when I allow them to deal with their own problems and become responsible for their own issues, while I express a loving concern for the nature of their current predicament, and stay detached from the outcome."
+- "I care so much that I deliberately step back so that the other person can come to that point where they decide to resolve for themselves."
+- Be lovingly present to help the individual, but not to rescue.
+- Clear our own consciousness and bring forth our nonjudgmental, open, and accepting self. We have to honor their experience.
+- This is also about giving ourselves permission to protect ourselves. *We want the very best for our clients and will give our best toward that goal, but we give up ownership of where and how our client chooses to travel in the process of pursuing a better life.*
+- "The most precious gift we can offer others is our presence." - Thich Nhat Hanh
+
+## How Successful People Stay Calm
+[Reference](https://www.forbes.com/sites/travisbradberry/2014/02/06/how-successful-people-stay-calm/#75e1eba52f79)
+
+- Prolonged stress causes degeneration in the area of the brain responsible for self-control.
+- Stress is necessary--our brains are wired such that it's difficult to take action until we feel at least some level of this emotional state (optimal performance peaks under the heightened activation that comes with moderate levels of stress).
+- The onset of stress entices the brain into growing new cells responsible for improved memory.
+- As the human brain evolved and increased in complexity, we've developed the ability to worry and perseverate on events, which creates frequent experiences of prolonged stress.
+- *Stress increases risk of heart disease, depression, obesity, and decreases your cognitive performance.* Fortunately, the bulk of your stress is subjective and under your control.
+
+### Techniques
+
+- They appreciate what they have. Being grateful improves your mood, because it reduces the stress hormone cortisol by 23%.
+- They avoid asking "What If?" Asking this question usually just takes them to a place they don't want--or need--to go.
+- Staying positive. You have to give your wandering brain a little help by consciously selecting something positive to think about. Think about your day and identify one positive thing that happened, no matter how small. Or perhaps you're looking forward to an exciting event that you can focus your attention on.
+- Disconnecting: You give yourself a break from stress. It is hard to enjoy a stress-free moment outside of work if you get a work email. Choose blocks of time where you cut the cord and go offline. You'll be amazed at how refreshing these breaks are and how they reduce stress by putting a mental recharge into your weekly schedule.
+- Limiting caffeine: Adrenaline is the source of the "fight or flight" response. When you are in a hyperaroused state of stress, your emotions overrun your behavior.
+- Sleep. Your brain literally recharges so you wake up alert and clear-headed. Your self-control, attention, and memory are all reduced when you don't get enough, or the right kind--of sleep.
+- Squashing negative self-talk. When you've slowed down the negative momentum of your thoughts, you will be more rational and clear-headed.
+- Reframing the perspective. You can't control your circumstances, but you can control how you respond to them. Put the situation in perspective.
+- Breathe: By focusing only on your breathing, you prevent your mind from wandering.
+- Support system!
+
+## How curiosity changes the brain to enhance learning
+[Reference](https://www.sciencedaily.com/releases/2014/10/141002123631.htm)
+
+- The more curious we are about a topic, the easier it is to learn information about that topic.
+- Curiosity affects memory.
+- If people were highly curious to find out the answer to a question, they were better at learning that information.
+- After their curiosity was aroused, they showed better learning of entirely unrelated information that they encountered but were not necessarily curious about.
+- When curiosity is stimulated, there is increased activity in the brain circuit related to reward.
+- When curiosity motivated learning, there was increased activity in the hippocampus, a brain region that is important for forming new memories, as well as increased interactions between the hippocampus and the reward circuit.
+- Learning what might be considered boring material could be enhanced if teachers or managers are able to harness the power of students' and workers' curiosity about something they are naturally motivated to learn.
+
+## Master of many trades
+[Reference](https://aeon.co/essays/we-live-in-a-one-track-world-but-anyone-can-become-a-polymath)
+
+- Monopath: A person with a narrow mind, a one-track brain, a bore, a super-specialist, an expert with no other interests.
+- Adam Smith (polymath who wrote not only on economics but also philosophy, astronomy, literature, and law) noted that the division of labor was the engine of capitalism, but the mental mutilation followed the strict division of labor.
+- As long as a boring job retains an element of physicality, one can find a rhythm, entering a flow state wherein time passes easily and the hard labor is followed by a big sense of accomplishment.
+- The average job now is done by someone who is stationary in front of some kind of screen.
+- Someone with just one overriding interest is tunnel-visioned, a bore, but also a specialist, an expert.
+- It is more normal to be a polymath: "a man can do all things if he will". During the Renaissance, polymathy was part of the idea of the "perfected man", the manifold master of intellectual, artistic, and physical pursuits.
+- Science likes to project itself as clean, rational, where in fact it is driven by funding and ego. Above all, it is polymathic, as new ideas frequently come from the cross-fertilization of two separate fields.
+- To come up with ideas like a phone (computer + camera + GPS tracker), you need to know things outside your field.
+- Learning depends on the nucleus basalis, located in the basal forebrain. This bit of the brain produces significant amounts of acetylcholine, a neurotransmitter that regulates the rate at which new connections are made between brain cells.
+- When the nucleus basalis is switched on, acetylcholine flows and new connections occur. When it is switched off, we make far fewer new connections.
+- *The nucleus basalis only switches on when a novel situation, a shock, or intense focus (maintained through repetition or continuous application) occurs.*
+
+- Martial arts: Studying for an hour a day, three days a week = minimal progress. For a further year, five hours a day five days a week. The gains were dramatic and permanent, resulting in a black belt and an instructor certificate.
+- There is nothing special about me, but I worked at it and I got it.
+- People as old as 90 who actively acquire new interests that involve learning retain their ability to learn.
+- *But if we stop taxing the nucleus basalis, it begins to dry up.* In some older people it has been shown to contain no acetylcholine — they have been 'switched off' for so long the organ no longer functions (can lead to Alzheimers/dementia). After only short periods of trying, the ability to make new connections develops. You really have to learn something new.
+- *Over-specialization retreats into defending what one has learnt, rather than making new connections.*
+- Studying the performance arts (dance, music, acting) actually improves one's ability to learn anything else. The performing arts generated much higher levels of motivation than other subjects.
+- The old Renaissance idea of mastering physical as well as intellectual skills appears to have real grounding in improving our general ability to learn new things.
+- *If we exclude the physicality of existence and reduce everything worth knowing down to book-learning, we miss out on a huge chunk of what makes us human.*
+-There is often something rather obvious about people with narrow interests — they are bores, and bores always lack a sense of humour. They just don’t see that it's absurd to devote your life to a tiny area of study and have no other outside interests.
+
+## To Really Learn, Quit Studying and Take a Test
+[Reference](http://www.nytimes.com/2011/01/21/science/21memory.html)
+
+- Students who read a passage, then took a test asking them to recall what they had read, retained about 50% more of the information a week later than students who used two other methods.
+- One method: repeatedly studying the material.
+- Other method: Drawing detailed diagrams documenting what they are learning.
+- *Learning is all about retrieving, all about reconstructing our knowledge.*
+- First experiment: Read about a scientific subject, then take an exam a week after.
+- Second experiment: Same but with concept mapping.
+- When we use our memories by retrieving things, we change our access to that information. What we recall becomes more recallable in the future.
+- It may be that the struggle involved in recalling something helps reinforce it in our brains. The struggle helps you learn, but it makes you feel like you're not learning. "I don't know it that well. This is hard." as opposed to when rereading texts: "This is easier, I read this already."
+
+## Feel like a fraud?
+[Reference](http://www.apa.org/gradpsych/2013/11/fraud.aspx)
+
+- Most people with impostor feelings suffer in silence. People don't talk about it.
+- Many people who feel like impostors grew up in families that placed a big emphasis on achievement. Parents who send mixed messages (over-praise and criticism) can increase the risk of future fraudulent feelings.
+- Impostor feelings more strongly predicted mental health problems than did stress related to one's minority status.
+- Differing from the majority of your peers (race, gender, sexual orientation) can fuel the sense of being a fraud.
+- Impostor syndrome is linked to perfectionism. Ultimately, this becomes a cycle.
+
+### Fasting Impostor Feelings
+
+- Talk to your mentors. Supportive, encouraging supervision, and sharing your feelings with a mentor.
+- Recognize your expertise. Try teaching a younger student.
+- Remember what you do well--most high achievers are pretty smart people, and many smart people wish they were geniuses. Write down the things you are good at, and the areas that might need *work*.
+- Realize no one is perfect.
+- Reframe the way you think about your achievements. Rather than spending 10 hours on an assignment, cut yourself off at eight.
+- Individual therapy.
+
+## Making a Backup Plan Undermines Performance
+[Reference](https://hbr.org/2016/09/making-a-backup-plan-undermines-performance)
+
+- When we think about what we'll do if we fail to achieve our goals, we are less likely to succeed.
+- Benefit to backup plans: psychological comfort, and you can just do the backup plan. However there is a cost.
+- Those who had thought through backup plans reported devoting less effort to the goals they were trying to achieve: getting a promotion, earning a graduate degree, or becoming a vet.
+- *If you prepare for failure, then you may be more likely to fail.*
+- Try to put off the backup plan until you've put as much effort as possible into your primary goal.
+
+## Big Data MOOC Research Breakthrough: Learning Activities Lead to Achievement
+[Reference](http://blogs.edweek.org/edweek/edtechresearcher/2014/03/big_data_mooc_research_breakthrough_learning_activities_lead_to_achievement.html)
+
+- Doing stuff may very well be one of the reasons why people do more stuff or do good at stuff.
+- Correlation between the number of minutes a student spends on Khan Academy and test scores.
+- Kids who do more math stuff on Khan Academy do better on math tests (not a function of kids who do well in math like KA more and spend more time on it).
+- *Measures of student effort eclipse all other variables examined in the study, including demographic descriptions of the students, course subject matter, and student use of support services.* Although support services are important, they are overshadowed by students' degree of effort devoted to their courses. This overall finding may indicate that accountable activity by students may be a key ingredient of student success in this environment.
+- Learners who complete activities are more likely to complete the course than peers who completed no activities.
+
+## Researchers debunk myth of 'right-brained' and 'left-brained' personality traits
+[Reference](https://www.sciencedaily.com/releases/2013/08/130814190513.htm)
+
+- No evidence with brain imaging that indicates some people are right-brained or left-brained.
+- While it's true that some brain functions occur in one or the other side of the brain (language left, attention right), people don't tend to have a stronger left- or right-sided brain network.
+- Personality types have nothing to do with one hemisphere being more active, stronger, or more connected.
+
