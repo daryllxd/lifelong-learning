@@ -34,3 +34,14 @@ As long as you are not picking up your speedwork very suddenly at the same time,
 
 *This means not only that you should take a rest day after your long run (and you certainly should), but also that you should think in terms of an entire week of rest after high-mileage efforts.* Every two or three weeks, indulge your legs with a rest week by cutting down your weekly mileage by 10 or even 20 percent. The next week, you can resume your normal mileage again.
 
+## The Basics Of Base Training For Runners
+
+- The goal of base training is to develop a runner's aerobic potential before implementing anaerobic training in the form of interval work. This is why you have to develop the aerobic system to its maximum.
+- Fartlek
+
+## Coach Culpepper: The Beauty Of The Base Phase
+[Reference](http://running.competitor.com/2014/01/training/coach-culpepper-the-beauty-of-the-base-phase_64398)
+
+- False fitness: a surface fitness level that can crumble due to missed training, illness, injury, and life issues.
+- 4 week window of nothing but running and building your overall mileage to your lifetime maximum. No workouts except for one day a week of a few strides. Weekly long run should gradually increase during this period and be more of a moderate effort vs an easy day effort.
+- You should increase your weekly mileage by roughly 10 each week including increasing the long run by 15% each week.
