@@ -7,7 +7,7 @@ Watch how they treat people from whom they have nothing to gain. Lots of people 
 
 "You can tell the greatness of a man by what makes him angry." - Abraham Lincoln
 
-There is popular belief that ‘true colours’ of a person are revealed under situations of stress and pressure and how they behave therein. However I am inclined to disagree. Stress and pressure make base survival instincts kick in – and the result is not pretty. Different people have different coping mechanisms; and though some people may deal with bad situations more gracefully than others I don't think that should be the yardstick of measuring anyone.
+There is popular belief that 'true colours' of a person are revealed under situations of stress and pressure and how they behave therein. However I am inclined to disagree. Stress and pressure make base survival instincts kick in – and the result is not pretty. Different people have different coping mechanisms; and though some people may deal with bad situations more gracefully than others I don't think that should be the yardstick of measuring anyone.
 
 People might sulk, withdraw, scream, cry or maintain nonchalance – but I believe all that is momentary and in the situational context. It does not mean that those people are not nice. On the other hand, the people who are able to deal with pressure situations too well, are either very experienced in this regard or maybe apathetic or unemotional in general. I am sure all great leaders show this trait. They consciously learn it because they can't be losing their heads as this would demoralize their teams. People who lead armies into war are especially trained in maintaining calm in tough situations.
 
