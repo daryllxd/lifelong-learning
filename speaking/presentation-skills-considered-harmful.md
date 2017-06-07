@@ -20,5 +20,3 @@ What matters most is that the presentation is an enabler for something bigger. *
 Pose a question. You don't have to announce that you're going to answer it. If you're looking for an opening phrase, try *"Imagine you want to..."* and then go. And whatever you do, do NOT try to "establish your credibility".
 
 When I give a presentation, nobody is allowed to introduce me. If they insist, it must only be your name. And I do not introduce myself. In that way, you go to the podium as a UI rather than The Presenter.
-
-

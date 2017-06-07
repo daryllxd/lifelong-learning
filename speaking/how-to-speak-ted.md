@@ -19,4 +19,3 @@ Four cornerstones to make our speech powerful
 4. Love. Wishing people well. *Tempered with love, honesty is a great thing. If you're really wishing somebody well, it's very hard to judge them at the same time.*
 
 Register: you can locate your voice. It's different to talk in the nose and to talk in the throat. If you want weight, you need to go down to the chest. *We vote for politicians with lower voices, because we associate depth with power and authority.* Timbre: We prefer voices which are rich, smooth, warm. You can train. There are amazing things you can do with breathing, with posture, and with exercises to improve the timbre of your voice.
-

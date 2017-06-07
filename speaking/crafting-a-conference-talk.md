@@ -20,5 +20,3 @@ Better to not write content straight into Keynote. Once text is in Keynote, I te
 *Embed screencasts instead of live coding.* Rather than expend thirty seconds in context switching between my code and my slide deck, I use Screenflow to record/edit screencasts.
 
 *Use a remote.* I use a Logitech R400 presenter, bring extra AAA batteries.
-
-
