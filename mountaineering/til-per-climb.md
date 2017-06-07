@@ -1,3 +1,23 @@
+## Daraitan 2017-06-03
+
+- Forgot mess kit, forgot toothbrush. With the move to the new house, we will be able to organize everything.
+- For some reason, still not a good descender. Just more practice.
+- Got dehydrated. Just bring full pack things to do some training if you are being a guide in the climb.
+- LNT: Everyone has to bring their trash bag.
+- Recoverite sounds like a good idea.
+- Hammock hanging: Hang high. :)
+- Need to have a better power to weight ratio, aka lose freaking weight!
+
+## Bira-Bira
+
+- Cooked: Sausage stuff.
+
+## Batolusong
+
+-
+
+## Gulugod-Baboy
+
 ## TNF 22K Trail Run: May 1, 2016
 
 - Really proud of yourself for digging deep and finishing the race while maxing out.

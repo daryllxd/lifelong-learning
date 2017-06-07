@@ -20,7 +20,7 @@
 ## Tips for Backpacking in the Rain
 [link](https://www.youtube.com/watch?v=rQ7ilW50Wpw)
 
-- Bringing rain gear is a must! It loses it water repelling over time.
+- Bringing rain gear is a must! It loses its water repelling over time.
 - No cotton, when it gets wet, it takes a long time to dry. It will also make you colder because it will sap heat from your body.
 - Quick-drying synthetic shirts and underwear. For natural materials, wool.
 - Feet: Wool or synthetic socks, not cotton. Try waterproofing your socks.
@@ -33,4 +33,3 @@
 - Be prepared: food, clothing, plan for injuries.
 - Pack light.
 - Leave no trace.
-
