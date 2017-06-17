@@ -1,3 +1,12 @@
+## Tarak Ridge 2017-06-17
+
+- Cooked: Chicken teriyaki.
+- Insulation takes up way too much space.
+- Food for 7 people: About 0.8 kg is enough.
+- Java rice is low hanging fruit for something that tastes really good.
+- A tent is really too heavy. Also, doesn't make sense to bring the hammock.
+- I think the shoes might not be holding up.
+
 ## Daraitan 2017-06-03
 
 - Forgot mess kit, forgot toothbrush. With the move to the new house, we will be able to organize everything.
