@@ -1,6 +1,6 @@
 ## The Starting Line
 
-*Build Less:* Do less than your com- petitors to beat them. Solve the simple problems and leave the hairy, difficult, nasty problems to everyone else. Instead of one- upping, try one-downing. Instead of outdoing, try underdoing.
+*Build Less:* Do less than your competitors to beat them. Solve the simple problems and leave the hairy, difficult, nasty problems to everyone else. Instead of one- upping, try one-downing. Instead of outdoing, try underdoing.
 
 Less features
 Less options/preferences
@@ -15,7 +15,7 @@ The key here is understanding that you’re not alone. If you’re having this p
 
 > Born out of necessity: Campaign Monitor really was born out of necessity. For years we’d been frustrated by the quality of the email marketing options out there. We consciously decided not to look at what everyone else was doing and instead build something that would make ours and our customer’s lives a little easier. As it turned out, we weren’t the only ones who were unhappy with the options out there. - David Greiner, founder, Campaign Monitor
 
-> You need to care about it: When you write a book, you need to have more than an interesting story. You need to have a desire to tell the story.You need to be personally invested in some way. If you’re going to live with something for two years, three years, the rest of your life, you need to care about it. - Malcolm Gladwell, author 
+> You need to care about it: When you write a book, you need to have more than an interesting story. You need to have a desire to tell the story.You need to be personally invested in some way. If you’re going to live with something for two years, three years, the rest of your life, you need to care about it. - Malcolm Gladwell, author
 
 *Fix Time and Budget, Flex Scope:* Here’s an easy way to launch on time and on budget: keep them fixed. Never throw more time or money at a problem, just scale back the scope. If you can’t fit everything in within the time and budget allot- ted then don’t expand the time and budget. Instead, pull back the scope. There’s always time to add stuff later – later is eternal, now is fleeting. It’s better to make half a product than a half-assed product (more on this later).
 
@@ -43,7 +43,7 @@ If your app doesn’t excite you, something’s wrong. If you’re only working 
 
 Here’s where staying lean really helps you out. The ability to change on a dime is one thing small teams have by default that big teams can never have. This is where the big guys envy the little guys. What might take a big team in a huge organization weeks to change may only take a day in a small, lean organiza- tion. That advantage is priceless. Cheap and fast changes are small’s secret weapon.
 
-> Emergence: Many common software development practices have the unfortunate side- effect of eliminating any chance for emergent behavior. Most attempts at optimization – tying something down very explicitly – reduces the breadth and scope of interactions and relationships, which is the very source of emergence. In the flocking birds example, as with a well-designed system, it’s the interactions and relationships that create the interesting behavior. 
+> Emergence: Many common software development practices have the unfortunate side- effect of eliminating any chance for emergent behavior. Most attempts at optimization – tying something down very explicitly – reduces the breadth and scope of interactions and relationships, which is the very source of emergence. In the flocking birds example, as with a well-designed system, it’s the interactions and relationships that create the interesting behavior.
 
 > The harder we tighten things down, the less room there is for a creative, emergent solution.Whether it’s locking down requirements before
 they are well understood or prematurely optimizing code, or inventing complex navigation and workflow scenarios before letting end users play with the system, the result is the same: an overly complicated, stupid system instead of a clean, elegant system that harnesses emergence.
@@ -71,10 +71,10 @@ to know the purpose of your product – the vision. Think big. Why does it exist
 
 Your vision should be brief too. A sentence should be enough to get the idea across. Here’s the vision for each of our products:
 
-- Basecamp: Project management is communication 
-- Backpack: Bring life’s loose ends together 
+- Basecamp: Project management is communication
+- Backpack: Bring life’s loose ends together
 - Campfire: Group chat over IM sucks
-- Ta-da List: Competing with a post-it note 
+- To-do List: Competing with a post-it note
 - Writeboard: Word is overkill
 
 This vision led us to keep Basecamp as open and transparent as possible. Instead of limiting communication to within a firm, we gave clients access too. We thought less about permissions and more about encouraging all participants to take part. The vision is why we skipped charts, graphs, tables, reports, stats, and spreadsheets and instead focused on communication priorities like messages, comments, to-do lists, and sharing files.

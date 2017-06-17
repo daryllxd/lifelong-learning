@@ -40,20 +40,20 @@ If your skills deficiency is a product of ineffective teaching or studying, then
 
 #### OOP
 
-1. Phase 1: "OOP is just records with methods" 
-2. Phase 2: "OOP methods are just functions running in a mini-program with its own global variables" 
-3. Phase 3: "The global variables are called fields, some of which are private and invisible from outside the mini-program" 
-4. Phase 4: "The idea of having private and public elements is to hide implementation details and expose a clean interface, and this is called Encapsulation" 
+1. Phase 1: "OOP is just records with methods"
+2. Phase 2: "OOP methods are just functions running in a mini-program with its own global variables"
+3. Phase 3: "The global variables are called fields, some of which are private and invisible from outside the mini-program"
+4. Phase 4: "The idea of having private and public elements is to hide implementation details and expose a clean interface, and this is called Encapsulation"
 5. Phase 5: "Encapsulation means my business logic doesn't need to be polluted with implementation details"
 
 *Phase 5 looks the same for all languages, since they are all really trying to get the programmer to the point where he can express the intent of the program without burying it in the specifics of how.*
 
 #### Functional
 
-1. Phase 1: "Functional programming is just doing everything by chaining deterministic functions together" 
-2. Phase 2: "When the functions are deterministic the compiler can predict when it can cache results or skip evaluation, and even when it's safe to prematurely stop evaluation" 
-3. Phase 3: "In order to support Lazy and Partial Evaluation, the compiler requires that functions are defined in terms of how to transform a single parameter, sometimes into another function. This is called Currying" 
-4. Phase 4: "Sometimes the compiler can do the Currying for me" 
+1. Phase 1: "Functional programming is just doing everything by chaining deterministic functions together"
+2. Phase 2: "When the functions are deterministic the compiler can predict when it can cache results or skip evaluation, and even when it's safe to prematurely stop evaluation"
+3. Phase 3: "In order to support Lazy and Partial Evaluation, the compiler requires that functions are defined in terms of how to transform a single parameter, sometimes into another function. This is called Currying"
+4. Phase 4: "Sometimes the compiler can do the Currying for me"
 5. Phase 5: "By letting the compiler figure out the mundane details, I can write programs by describing what I want, rather than how to give it to me"
 
 ## 3. Deficient research skills / Chronically poor knowledge of the platform's features
@@ -374,7 +374,7 @@ Programs are infrastructure: they're built to serve a specific need, but needs a
 
 #### How to acquire this trait
 
-The first attempt to solve a program in code will always bear the artifacts of discovery: discovering the true nature of the problem, discovering the features of the platform, and discovering the best way to solve it. The second attempt will be more stable, but might inherit too much cautionary baggage and become a nightmare to extend. And so many programs today are like the Firth of Forth Bridge: disgustingly over-engineered. 
+The first attempt to solve a program in code will always bear the artifacts of discovery: discovering the true nature of the problem, discovering the features of the platform, and discovering the best way to solve it. The second attempt will be more stable, but might inherit too much cautionary baggage and become a nightmare to extend. And so many programs today are like the Firth of Forth Bridge: disgustingly over-engineered.
 
 Sometimes it's the developer's first crack at the problem and looks like a lawn mowed by a dog, sometimes it's their second attempt and looks like the dog installed grass-cutting laser turrets every 2 feet. It can take a third try before the designer understands the problem completely and knows how much, or how little they need to do.
 
@@ -398,7 +398,7 @@ Hit #5 and you can call yourself a Zen Apprentice. Do it for a decade until you 
 
 ## 4. Fascinated by the incomprehensible
 
-I am only just beginning to understand what a Fourier Transform does, but I've been studying them because I have the damn persistent feeling that I could be using them somehow. I don't know what I would use them for yet, but maybe I will someday. What I do know is that what I don't know will cost me in useless labor. 
+I am only just beginning to understand what a Fourier Transform does, but I've been studying them because I have the damn persistent feeling that I could be using them somehow. I don't know what I would use them for yet, but maybe I will someday. What I do know is that what I don't know will cost me in useless labor.
 
 #### Symptoms
 
@@ -418,7 +418,7 @@ This tends to start in childhood but can be cultivated in adulthood if you can c
 
 When you hear or read something you don't recognize then Google it or hit Wikipedia. For a programmer an equally superior resource is Ward Cunningham's Wiki, which deserves weeks of your life.
 
-Computer programming has annexed all of the sciences and the feedback loop is so wide it stuns gods. From biology we took Genetic Algorithms. From climatology we took chaos theory. Biologists now use our work to fold proteins. Climatologists now use our simulations to predict armageddon. Everything informs us, and we inform everything. Either probe the unfathomable or retire on a "blub" programmer's salary. 
+Computer programming has annexed all of the sciences and the feedback loop is so wide it stuns gods. From biology we took Genetic Algorithms. From climatology we took chaos theory. Biologists now use our work to fold proteins. Climatologists now use our simulations to predict armageddon. Everything informs us, and we inform everything. Either probe the unfathomable or retire on a "blub" programmer's salary.
 
 ## 5. Compelled to teach
 
@@ -481,7 +481,7 @@ The worst optimizations favor profit over beauty, and between the two it's beaut
 
 #### How to acquire this trait
 
-*As Tyler Durden says you must know--not fear--know that someday you will die.* Your nice condo with Ikea furniture is a side effect, not a reward. If you are not a unique, beautiful snowflake then what you create has to be. 
+*As Tyler Durden says you must know--not fear--know that someday you will die.* Your nice condo with Ikea furniture is a side effect, not a reward. If you are not a unique, beautiful snowflake then what you create has to be.
 
 *It's also known as pride in one's work. Remember that emotional detachment from code is a virtue, but this doesn't mean emotional detachment from your work is, too. In fact, another way to become emotionally detached from code is to put your interest into the outcome instead.* The outcome you should be thinking of is a lady who's going to get fired if she doesn't deliver the output of your program at 4:59pm sharp.
 
@@ -565,7 +565,7 @@ I don't think I live up to this because I like to use MonoTouch to write iOS app
 
 These guys are as comfortable with platform diversity as they are with having multiple vegetables on the same dinner plate. I said "thinking in code" and "emotional detachment" were virtues, and this is the bonus that comes for free. While these programmers appreciate abstraction they don't automatically appreciate generalization. If there was no advantage to be had in a new platform, then why was it ever created?
 
-*There's a thousand computer languages because there's a thousand classes of problems we can solve with software.* In the 1980s, after the Macintosh debut, a hundred DOS products were ported to the new mouse-driven platform by clubbing the Alto-inspired UI over the head and brute-forcing the keyboard-driven paradigms of PCs into the Mac's visual atmosphere. Most of these were rejected by Apple or the market, and if they came back for a second try they came back because somebody flipped open the spiral-bound HIG and read it sincerely. 
+*There's a thousand computer languages because there's a thousand classes of problems we can solve with software.* In the 1980s, after the Macintosh debut, a hundred DOS products were ported to the new mouse-driven platform by clubbing the Alto-inspired UI over the head and brute-forcing the keyboard-driven paradigms of PCs into the Mac's visual atmosphere. Most of these were rejected by Apple or the market, and if they came back for a second try they came back because somebody flipped open the spiral-bound HIG and read it sincerely.
 
 Maybe Excel needed to emulate Lotus 1-2-3's slash-driven menus. Maybe AutoCAD still needs to host a command line. But the designers of both never neglected the new world and that's why they're still famous today. Objective-C has Categories, C# has Extensions, but they're not quite alike and they're not quite the same. What's a Key-Value Observer to one might be like an Event to the other, which is as informative as saying an opportunity is the same as permission.
 
@@ -573,7 +573,7 @@ Maybe Excel needed to emulate Lotus 1-2-3's slash-driven menus. Maybe AutoCAD st
 
 *New platforms either debut a new language or new conventions that are unique, and at whatever level that is you need to learn a new vocabulary. Even if it looks like they took an existing platform and "tweaked" it, the tweak in question must have significance.* They say a Big Mac's Special Sauce is just Thousand Island dressing with more sweet pickle.
 
-To manage a single product written to multiple platforms you need to abstract your product, not the platform its delivered to. You do that through elimination, by stripping platform-specific code out of your product's soul. If you can master "Eager to fix what isn't broken" then go bonkers on your code until there's only a few chunks left on the coroner's table; that's the part that stays. 
+To manage a single product written to multiple platforms you need to abstract your product, not the platform its delivered to. You do that through elimination, by stripping platform-specific code out of your product's soul. If you can master "Eager to fix what isn't broken" then go bonkers on your code until there's only a few chunks left on the coroner's table; that's the part that stays.
 
 The simpler it is, the easier to modularize. The easier to modularize, the easier to separate concerns. The easier to separate concerns, the less has to change to fix bugs and add features. The less has to change, the easier to translate those changes to another system. Don't rely on automatic methods--it's like relying on a cat to tie your shoelaces.
 

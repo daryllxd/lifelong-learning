@@ -19,4 +19,3 @@ I understand asking for help. Some of you are good at asking for help, but I'm a
 I'm becoming less and less interested with what individual programmers can accomplish. There are a lot of rabbit holes underneath. We can only accomplish so much. So get social.
 
 Learning to program, that's an easy part. Learning to be a programmer, that's the hard part.
-
