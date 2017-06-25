@@ -13,7 +13,7 @@
 > Don't forget the confirm thing on the link_to when you have to delete: `link_to "Delete", post_path(@post), :method => :delete, :confirm => "Are you sure?"`
 > Active Record: Post.find(478, 1134) to get the posts in a range. Then Post.find(100..105.to_a to get the posts in the reverse ragnge.)
 > Rake task in lib/tasks to do stuff. In learn.
-> ActiveRecord stuff: order, the `find_each` and `find_in_batches` to do some chunking, 
+> ActiveRecord stuff: order, the `find_each` and `find_in_batches` to do some chunking,
 > Remember eager loading, `Post.includes(:user).limit(10)`, not `Post.limit(10)` because the latter will have n+1 database queries.
 > Default scope and unscoped.
 > Post.minimum("comments")

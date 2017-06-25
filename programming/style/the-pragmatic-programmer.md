@@ -45,7 +45,7 @@
 
 #### Goals
 - Learn at least one new language every year.
-- Read a technical book each quarter. 
+- Read a technical book each quarter.
 - Read nontechnical books, too. Computers are used by people—people whose needs you are trying to satisfy.
 - Experiment with different environments. If you've worked only in Windows, play with Unix at home.
 - Stay current. Subscribe to trade magazines and other journals.
@@ -59,7 +59,7 @@
 #### Communicate!
 - It's not just what you've got, but also how you package it. Having the best ideas, the finest code, or the most pragmatic thinking is ultimately sterile unless you can communicate with other people.
 - Know What You Want to Say. Write an outline. Then ask yourself, "Does this get across whatever I'm trying to say?" Refine it until it does.
-- Know Your Audience  
+- Know Your Audience
 - There is no excuse today for producing poor-looking printed documents. Modern word processors (along with layout systems such as LaTeX and troff) can produce stunning output.
 - If possible, involve your readers with early drafts of your document.
 
@@ -131,7 +131,7 @@
 - Insurance against obsolescence: As long as the data survives, you’ll have a chance to use it, period.
 - Leverage: Virtually every tool in the computing universe operates, and can operate, on plain text. Unix works on the philosophy of small tools who can do their work well.
 - Easier testing
- 
+
 #### Shell Games
 - The workbench is the command shell. From the shell prompt, you can invoke your full repertoire of tools, and from the shell, you can lunch applications, debuggers, browsers, editors, and utilities.
 
@@ -147,7 +147,7 @@
 
 #### Debugging
 - Embrace the fact that debugging is just problem solving, and attack it as such. Fix the problem, not the blame.
-- Resist the urge to fix the symptoms you see, it’s more likely that the actual fault may be several steps removed from what you are observing. 
+- Resist the urge to fix the symptoms you see, it’s more likely that the actual fault may be several steps removed from what you are observing.
 - Make sure you are working on code that compiled cleanly.
 
 #### Debugging Strategies
@@ -209,14 +209,14 @@ The Law of Demeter for functions: Any method of an object should call only metho
 - The cost: Your module must delegate and manage any and all subcontractors directly, without involving clients of your module. So you will be writing a large number of wrapper methods that simply forward the request on to a delegate.
 - Problem with including a header file, you are unnecessarily making everything that uses a Person class also include the header file for Date. Once this kind of usage, you will find that including one header file ends up including most of the rest of the system.
 
-		public void showBalance(BankAccount acct) { 
-		Money amt = acct.getBalance(); 
+		public void showBalance(BankAccount acct) {
+		Money amt = acct.getBalance();
 		printToScreen(amt.printFormat());
 		}
 
 - In here the showBalance function is still coupled to the Money class, we should separate it like this:
 
-		void showBalance(BankAccount b) { 
+		void showBalance(BankAccount b) {
 		b.printBalance();
 		}
 
@@ -225,7 +225,7 @@ _No amount of genius can overcome a preoccupation with detail. – Levy’s Eigh
 
 - First, we want to make our systems highly configurarable (not just screen colors, but deeply ingrained items such as the choice of algorithms, database products, middleware technology, and UI style. These items should be implemented as configuration options, not through integration or engineering.
 - Use metadata to describe configuration options for an application: tuning parameters, user preferences, the installation directory, etc.
-- Under Windows, either an initialization file or entries in the system Registry are typical. 
+- Under Windows, either an initialization file or entries in the system Registry are typical.
 
 #### Metadata-Driven Applications
 - We want to configure and drive the application via metadata as much as possible. Our goal is to think declaratively and create highly dynamic and adaptable programs.
@@ -267,6 +267,3 @@ _No amount of genius can overcome a preoccupation with detail. – Levy’s Eigh
 - Tools to check the system’s integrity
 - Ability to run multiple versions of the system for training
 - A splash screen customized for their organization
-
-
-
