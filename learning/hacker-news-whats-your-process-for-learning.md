@@ -1,0 +1,31 @@
+## Ask HN: What's Your process for learning?
+[Reference](https://news.ycombinator.com/item?id=14637859)
+
+- I must have something I want to accomplish as a reason to learn something new. I have to think of creating an app with the programming language that I'm learning and I will consume every information I can in order to make it happen. Used this to learn new programming languages, surf fishing, technical analysis/investments in the stock market, grow plants, electronics, cooking.
+- Books - reading them like 5 times. First pass, to establish a mental framework. Second pass, retain 20%, third pass, retain 30%. Goals are counterproductive until you are somewhat comfortable, but not when starting out. When in uncharted territory, the best thing you can do is to walk around a bit and make sure you stay engaged. *If you move to a new city, you probably walk around the neighborhood for a bit, then to the neighborhood next to yours.*
+- Casual learning, split time across various subjects and do whatever feels interesting. By creating my own ladder for learning, it represents me taking responsibility for my own learning.
+- Mastering the foundations--I believe in book learning before playing whack-a-mole around the Internet, simply because you aren't at the point where you can differentiate the signal from the noise.
+- Learn yourself first. By absolutely honest with yourself about your interests, your limitations, and the answers, via a long journey of trial and error will eventually come to you. *The fact is, we aren't all able to fit into a mold, and no matter how much advice you read, advice reading is pretty much worthless without a grounding on failure.*
+- Doing--if I have a project (ex: I want to have an Internet music player that sits on my cupboard and doesn't require my tablet), I will decide on a platform, build something that decodes an MP3 stream, think about hardware, and think about an enclosure.
+- Useful answers to questions asked online:
+  - A suggestion to alternative solutions
+  - A different approach to how I solve my problem
+  - A specific answer to the question I asked
+  - Collaborations
+  - Supportive comments
+  - Understanding about a trade-off
+- Morning = best for challenging subjects, night = softer topics like history and politics.
+- If you want to learn how to do something, and you are not doing the thing, then you might find yourself not learning.
+- Work on multiple aspects of your brain at once. Say the name of the chord, visualize it on the keyboard, feel the shape of your hands to make to play the chord, and listen to the sound of the chord.
+- I don't like the psychological weight of todo lists, so I maintain lists of interesting stuff, and several hundred browser tabs, but they're mostly things to be checked off, and languish peacefully for long periods.
+- Bookmarks/tagging - I have 10k bookmarks.
+- Maintain a reading list/backlog. Short, medium, long-term lists.
+- Hands-on experience. Struggle through problems before you give up and look online.
+- I only work on personal things at night.
+- Iterate over your system. A good system can have returns in the long run, but it also reduces stress, you wan to enjoy learning, enjoy the tasks you're doing, and not have to worry about other things. This involves writing scripts.
+- Study
+  - Collect data in a reference note.
+  - Create flashcards.
+  - Search and create questions/exercises.
+  - Explain the subject in a piece of paper.
+  - Apply the knowledge in quizzes and practical projects.
