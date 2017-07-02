@@ -14,7 +14,4 @@ module M
     end
   end
 end
-
 ```
-
-
