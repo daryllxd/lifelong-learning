@@ -91,7 +91,48 @@
 - We are literally designed to sleep a few hours after dark.
 - Melatonin, HGH, and more are secreted in their strongest doses when your sleep is lined up properly. The best dose of HGH (youth hormone) is if you're sleeping during those primetime hours.
 - This is why some people get 8 hours of sleep bu don't feel well rested when they wake up.
+- International Agency for Research on Cancer: "Overnight shift work is a Group 2A carcinogen--working overnight is a strong enough cancer-causing agent to be lumped in with lead exposure and UVA radiation."
+- Melatonin: strong antiestrogenic effects (inhibits breast cancer), your body produces this every night if you're getting the sleep you really require.
+- Too much estrogen in men: depression of secondary sex characteristics (stunted growth, lack of body hair, higher voice), increase in growth of breast tissue, and cancer.
+- *Women who worked the night shift had a 30% greater incidence of breast cancer.*
+- Higher incidences of diabetes in shift workers.
+- Rate of workplace injury did not go down for night-shift workers in the last 30 years.
+- The average life span of physicians is up to 10 years less than the general public in some regions.
+- A short sleep debt can be cleaned up by your body with good sleep, good nutrition, and smart exercise to help move things along.
 
+### Fix Your Gut to Fix Your Sleep
+
+- Food is information--the types of food you eat incite processes that determine what your body, health, and sleep will look like.
+- Serotonin impacts your brain and sleep more powerfully than almost anything you can think off.
+- The human gut is a mass of neural tissue, filled with 30 types of neurotransmitters. This is the enteric nervous system (second nervous system).
+- The gut is found to contain at least 400 times more melatonin than the pineal gland in your brain.
+- The health of your gut will always have a tremendous impact on the quality of your sleep.
+- Things that can damage your gut bacteria:
+  - Agricultural chemicals (pesticides, fungicides).
+  - Processed foods (excess sugars).
+  - Repeated antibiotic use.
+  - Chemical food additives and preservatives.
+  - Chlorinated water.
+- Diet soda: highly processed, it can break your metabolism.
+- The body has evolved to recognize the nutrients that it can extract from whole foods. No guarantee that you can process vitamin C from a supplement.
+- Nutrients
+  - Selenium: Brazil nuts, sunflower seeds, beef, oysters, chicken, mushrooms.
+  - Vitamin C: Low blood levels of vitamin C were more prone to waking up during the night. Bell peppers, vegetables, kiwi, strawberries, citrus fruits, papayas.
+  - Trytophan: Turkey, chicken, eggs, sweet potatoes, chia seeds, hemp seeds, bananas, pumpkin seeds.
+  - Potassium: Bananas, leafy greens, potatoes, broccoli, avocados.
+  - Calcium: Kale, mustards, sardines, sea veggies, sesame seeds.
+  - Vitamin D: Swordfish, salmon, tuna, mackerel, shiitake mushrooms. What you want is Vitamin D3.
+  - Omega-3s.
+  - Melatonin: Tart cherries, walnuts, ginger root, asparagus.
+  - Vitamin B6: Helps modulate your stress response. Bananas, yogurt, cashews, peanut butter, almonds, avocados, fish, tomatoes, spinach, sweet potatoes, sea veggies, eggs.
+  - Probiotics: sauerkraut, kimchi, pickles, miso, yogurt, kefir.
+
+#### Magnesium
+
+- Magnesium: Balances blood sugar, optimizes circulation and blood pressure, relaxes muscles, reduces pain, and calms the nervous systems. This also tends to get depleted fast.
+- 80% US is deficient in magnesium.
+- Magnesium can be taken in through the skin. Epsom salt: a form of magnesium called magnesium sulfate.
+- Things like magnesium bath flakes and magnesium oils are usually 20% absorbable at best.
 
 ### Power Tips
 
@@ -109,3 +150,17 @@
 - Mattress pads can be used that help regulate your body temperature.
 - Cooling of the room is a must, but some people will feel great all night with a fluffy comforter, some with a few bed sheets, and some would feel better using an additional cooling pad.
 - Socks. If your hands or feet are too cold, it could be a sign of poor circulation.
+- To get the highest-quality possible, you have to get to bed within a few years of it getting dark outside. Somewhere between 9:00 pm and 11:00 pm. By doing this, you are giving yourself a huge hormonal advantage.
+- To help reset your sleep cycle, get some sunlight as soon as possible when you wake up. This is going to help boost your natural cortisol levels and fully wake your system up.
+- Don't work the night shift. *If you had to get a different job and work normal hours to save the life of someone you love, you'd find a way. You'd always find a way. It's just that we tend to settle and get comfortable in our story unless are backs against the wall and the pain is bad enough. We are the most creative, industrious, resourceful beingso n the planet WHEN WE WANT TO BE.*
+- Varying sleep cycles (2-3 nights overnight) is just as bad. Better to just have 2 months overnight, 10 months on the natural so the bodies get to be in sync with their natural circadian clocks.
+- To make your mornings better and more energetic, set your alarm to coincide with the 90 minute sleep cycles instead of the standard 8 hours of sleep.
+- Keep the topical magnesium and apply it right before you sleep.  Anywhere you are sore, in the center of your chest, around your neck and shoulders. Spray it on liberally.
+- Mg in your diet: green leafy vegetables, pumpkin/sesame seeds, Brazil nuts.
+- Trouble in the GI tract/parasites. Fastest way to do this: stool test.
+
+### Create a Sleep Sanctuary
+
+- It's hard to change some habits because the brain uses myelin.
+- When you step into your bedroom, parts of your brain might light up expecting to watch television. Your brain goes through what it's used to, not what you want it to do.
+- Air ionizer/purifier to remove negative ions in the air (oxidize odors, fungi).
