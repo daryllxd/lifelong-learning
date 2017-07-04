@@ -3,7 +3,7 @@
 
 Everywhere you go, whether it be the bathroom or an important meeting, always walk like you're going somewhere important. When I started focusing on walking with purpose, at first it felt really stupid. Then, people started wanting to walk with me, for no real reason.
 
-I tried to imagine that I was carrying something really important, since I was usually carrying a book to class. I'd switch it up every once in a while to keep it feeling important. *Like one day I imagineds I was on my way to turn in an essay I spent the last 3 weeks pouring my sould into. I know this essay is badass and the teacher is going to love it. You don't dump your heart into something like that and just shlop it onto the pile of other papers. You place it down with pride.*
+I tried to imagine that I was carrying something really important, since I was usually carrying a book to class. I'd switch it up every once in a while to keep it feeling important. *Like one day I imagined I was on my way to turn in an essay I spent the last 3 weeks pouring my soul into. I know this essay is badass and the teacher is going to love it. You don't dump your heart into something like that and just shlop it onto the pile of other papers. You place it down with pride.*
 
 The Book of the Five Rings.
 
@@ -33,6 +33,5 @@ Micromomentum (on a day to day basis) and macromomentum (overall change after th
 Openers: "I'm Andrew", observational openers about what is happening, situational starters such as "so are you guys studying or working" etc. Meetup.com is nice for expanding one's social circle. *Friendships = chemistry + consistent interaction over time.*
 
 Overall, I think forcing yourself to talk to strangers is an expressway for developing yourself into a better person. It's one of the quickest ways to gain confidence in yourself, and makes you realize that you aren't on the "outside looking in" and that everyone else doesn't possess some sort of "social secret" that you aren't being let on. As I have learned recently, a lot of people fear being in social situations where they don't know anyone and feel that their social skills are lacking.
-
 
 However, unless you are lucky enough to work from home and can sometimes get through days without ever leaving your own walls, I don't know if going out and forcing conversation with random people in grocery stores is completely necessary to become better at socializing and expanding your social circle. Again, cashiers are a gold mine for small-talk practice, and probably what got me to finally bust out of my shell a few years ago. They have to be nice to you, and if things are awkward you probably won't ever see them again. And as a former employee in the service sector, I appreciated few things more than a customer that would break me out my mindless routine and treat me like an actual person.
