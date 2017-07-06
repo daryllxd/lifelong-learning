@@ -1,3 +1,14 @@
+## How to Clear Your Computer of Focus-Draining Distraction
+
+- People performed poorly on cognitive tasks when objects in their field of vision were in disarray as opposed to neatly arranged. Same with digital environments.
+- Extra distractions act as triggers, causing us to do unimportant tasks--costing us wasted time and focus.
+- Sluggish computing: every open tab on your web browser uses your machine's processing and memory resources.
+- Removing triggers: Bartender app.
+- The more tabs open, the less likely I was to reboot my machine and web browser, preventing updates and further slowing down my computer.
+- Articles to read later go to Pocket.
+- Open tabs I think I might need some day go to Evernote.
+- Every Friday: Friday "flush" to clear out clutter.
+
 # [HOOKING USERS IN 3 STEPS: AN INTRO TO HABIT TESTING](http://www.nirandfar.com/2012/04/hooking-users-in-3-steps.html)
 
 The truly great consumer technology companies of the past 25 years have all had one thing in common: they created habits. This is what separates world-changing businesses from the rest. Apple, Facebook, Amazon, Google, Microsoft, and Twitter are used daily by a high proportion of their users and their products are so compelling that many of us struggle to imagine life before they existed.
@@ -14,7 +25,7 @@ A good short-cut might be to take an average of how often you and the people in 
 
 One thing to note: the more frequently your product is used, the more likely it is to form a user habit. That's not to say that web products that are used rarely can't be good business, they just aren't habit forming and thus have different characteristics. Viable, though non-habit forming businesses tend to be more transactional and require constant outreach to customers to stay top-of-mind.
 
-Expedia, Travelocity, and the rest, are used too infrequently by their average customers to form a habit, so they constantly compete for attention. These are viable, even profitable companies, but since they are non-habit forming products they are open to greater competitive threat. Products used daily naturally create barriers to entry in their markets.
+*Expedia, Travelocity, and the rest, are used too infrequently by their average customers to form a habit, so they constantly compete for attention.* These are viable, even profitable companies, but since they are non-habit forming products they are open to greater competitive threat. Products used daily naturally create barriers to entry in their markets.
 
 This is where hiring a stats whiz can prove exceedingly helpful. Instead of pulling your engineers away from their crucial jobs building the product or even worse, getting your business people to do it, consider hiring a grad student fluent in statistics to help you quantify how many of your users are hooked.
 
@@ -43,19 +54,17 @@ Why do people lose interest in a few days or weeks? Why does the power of these 
 
 *Online games like FarmVille suffer from what I call "finite variability", an experience that becomes predictable with use.* While Breaking Bad built suspense over time, eventual interest in the show waned when it finally concluded. With plot lines known and the central mysteries revealed, the show just wouldn't seem as interesting the second time around.
 
-Businesses with finite variability must constantly churn out new content and experiences to cater to their customers' insatiable desire for novelty. Contrast with companies making products with infinite variability, like games. Games played to completion offer finite variability while those played with other people have higher degrees of infinite variability.
+*Businesses with finite variability must constantly churn out new content and experiences to cater to their customers' insatiable desire for novelty.* Contrast with companies making products with infinite variability, like games. Games played to completion offer finite variability while those played with other people have higher degrees of infinite variability.
 
 Content consumptions is finitely variable, but content creation is infinitely variable. Platforms like Youtube, Facebook, Pinterest, and Twitter all leverage user-generated content to provide visitors with a never-ending stream of newness.
 
 # Is Some Tech Too Addictive?
 [link](https://medium.com/behavior-design/is-some-tech-too-addictive-5ddda4ee53b2)
 
-Having rabid users is not a problem most companies face. The much more common dilemma is a lack of customer engagement. But is there ever too much of a good thing?
-
-The trouble is this: The attributes that make certain products engaging also make them potentially addictive. There is no way to separate the fun of gaming, for example, with its potential for abuse. Social media is exciting principally because it utilizes the same variable rewards that make slot machines compelling. Spectator sports or television watching, enjoyed by billions of people, share common traits with the primary function of illicit drugs — they provide a portal to a different reality. If what we’re watching is engaging, we experience the high of being mentally elsewhere.
-
-Visit your local sports bar and watch the people during a big game. During the most exciting parts of the game, they'll be in a state similar to "the zone".
-
-Though Dr. Chance's story reveals the power some technologies have on some people, the fact is most people do not get hooked. According to Wang, only 3% of users walk the 25,000 daily steps Chance was logging. Continued repetition of a behavior despite adverse consequences is very small. Studies show that relatively few people are susceptible to addiction and that even those who do get addicted quit their dependencies when they change life stage or social context.
-
-However, any company collecting user information can no longer take cover under the same excuse. Tech companies know exactly who their users are and how much time they are spending with their services. If they can hypertarget advertising, they can identify harmful abuse.
+- The attributes that make certain products engaging also make them potentially addictive.
+- There is no way to separate the fun of gaming, for example, with its potential for abuse.
+- Social media is exciting principally because it utilizes the same variable rewards that make slot machines compelling.
+- Spectator sports or television watching, enjoyed by billions of people, share common traits with the primary function of illicit drugs — they provide a portal to a different reality.
+- If what we’re watching is engaging, we experience the high of being mentally elsewhere.
+- Sports bar people: they will be in a state similar to "the zone".
+- Only 3% of users walk the 25,000 daily steps Dr. Chance was logging. Continued repetition of a behavior despite adverse consequences is very small. Studies show that relatively few people are susceptible to addiction and that even those who do get addicted quit their dependencies when they change life stage or social context.
