@@ -67,5 +67,3 @@ Global listeners: `Wisper::GlobalListeners.add_listener(StatisticsListener.new)`
 - Isolated testing is easier because we can do away with requiring Rails tests
 - Clear objects exist between objects in different layers
 - Moving to async is easier since we can execute from a background job without Rails loaded
-
-
