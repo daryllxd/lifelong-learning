@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<root>
+  <appdef>
+    <appname>KINDLE</appname>
+    <equal>com.amazon.Kindle</equal>
+  </appdef>
+  <item>
+    <name>Vim mode in Kindle</name>
+    <only>KINDLE</only>
+    <identifier>private.vim_mode_in_kindle</identifier>
+    <autogen>
+      __KeyToKey__
+      KeyCode::J, KeyCode::CURSOR_DOWN
+    </autogen>
+    <autogen>
+      __KeyToKey__
+      KeyCode::K, KeyCode::CURSOR_UP
+    </autogen>
+  </item>
+  <item>
+    <name>My Excel Hacks (effective only on Excel)</name>
+    <appendix>Change Command+2 to Ctrl+U</appendix>
+    <appendix>Change Command+3 to Ctrl+Shift+F2</appendix>
+    <appendix>Change Control+A to Home</appendix>
+    <appendix>Change Control+E to End</appendix>
+    <identifier>private.app_excel_command2_to_ctrlu</identifier>
+    <only>EXCEL</only>
+    <autogen>--KeyToKey-- KeyCode::KEY_2, VK_COMMAND, KeyCode::U, ModifierFlag::CONTROL_L</autogen>
+    <autogen>--KeyToKey-- KeyCode::KEY_3, VK_COMMAND, KeyCode::F2, ModifierFlag::SHIFT_L</autogen>
+    <autogen>--KeyToKey-- KeyCode::A, VK_CONTROL, KeyCode::HOME</autogen>
+    <autogen>--KeyToKey-- KeyCode::E, VK_CONTROL, KeyCode::END</autogen>
+  </item>
+  <item>
+    <name>My Excel Hacks (effective only on Excel)</name>
+    <appendix>Ctrl+Shift+Q to Enter</appendix>
+    <identifier>Ctrl+Shift+Q to Enter</identifier>
+    <autogen>--KeyToKey-- KeyCode::Q, ModifierFlag::CONTROL_L | ModifierFlag::SHIFT_L, KeyCode::RETURN, </autogen>
+  </item>
+  <appdef>
+    <appname>PREVIEW</appname>
+    <equal>com.apple.Preview</equal>
+  </appdef>
+  <item>
+    <name>Vi Navigation in Preview</name>
+    <identifier>private.preview.vinav</identifier>
+    <only>PREVIEW</only>
+    <uielementrole_not>AXTextField, AXTextArea</uielementrole_not>
+    <modifier_only>
+      ModifierFlag::NONE,
+      ModifierFlag::SHIFT_L | ModifierFlag::NONE,
+      ModifierFlag::SHIFT_R | ModifierFlag::NONE,
+    </modifier_only>
+    <appendix>Navigate using the HJKL keys</appendix>
+    <autogen>__KeyToKey__ KeyCode::J, KeyCode::CURSOR_DOWN</autogen>
+    <autogen>__KeyToKey__ KeyCode::K, KeyCode::CURSOR_UP</autogen>
+    <autogen>__KeyToKey__ KeyCode::H, KeyCode::CURSOR_LEFT</autogen>
+    <autogen>__KeyToKey__ KeyCode::L, KeyCode::CURSOR_RIGHT</autogen>
+  </item>
+  <item>
+    <name>Vi Zoom in Preview</name>
+    <identifier>private.preview.vizoom</identifier>
+    <only>PREVIEW</only>
+    <uielementrole_not>AXTextField, AXTextArea</uielementrole_not>
+    <modifier_only>
+      ModifierFlag::NONE,
+      ModifierFlag::SHIFT_L | ModifierFlag::NONE,
+      ModifierFlag::SHIFT_R | ModifierFlag::NONE,
+    </modifier_only>
+    <appendix>Zoom using E/R: out/in</appendix>
+    <appendix>Zoom to fit: F</appendix>
+    <appendix>Zoom to 100%: D</appendix>
+    <autogen>__KeyToKey__ KeyCode::F, KeyCode::KEYPAD_9, VK_COMMAND</autogen>
+    <autogen>__KeyToKey__ KeyCode::D, KeyCode::KEYPAD_0, VK_COMMAND</autogen>
+    <autogen>__KeyToKey__ KeyCode::R, KeyCode::KEYPAD_PLUS, VK_COMMAND</autogen>
+    <autogen>__KeyToKey__ KeyCode::E, KeyCode::KEYPAD_MINUS, VK_COMMAND</autogen>
+  </item>
+  <appdef>
+    <appname>KINDLE</appname>
+    <equal>com.amazon.kindle</equal>
+  </appdef>
+  <item>
+    <name>Vi Navigation in Kindle</name>
+    <identifier>private.kindle.vinav</identifier>
+    <only>KINDLE</only>
+    <modifier_only>
+      ModifierFlag::NONE,
+      ModifierFlag::SHIFT_L | ModifierFlag::NONE,
+      ModifierFlag::SHIFT_R | ModifierFlag::NONE,
+    </modifier_only>
+    <appendix>Navigate using the HJKL keys</appendix>
+    <autogen>__KeyToKey__ KeyCode::J, KeyCode::CURSOR_DOWN</autogen>
+    <autogen>__KeyToKey__ KeyCode::K, KeyCode::CURSOR_UP</autogen>
+    <autogen>__KeyToKey__ KeyCode::H, KeyCode::CURSOR_LEFT</autogen>
+    <autogen>__KeyToKey__ KeyCode::L, KeyCode::CURSOR_RIGHT</autogen>
+  </item>
+</root>
