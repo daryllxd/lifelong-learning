@@ -8,6 +8,47 @@
 - Nutrigenomics: how the food you eat affects your genetic expression.
 - Sleep determines the quality of "copies" that your body prints out of you.
 
+### Power Tips
+
+- When you have a big task coming up, pull out a calendar and plan ahead how you can get your ideal number of sleep hours in. If it's important to you, you'll schedule it. Stick to that schedule as well as you can, and know that you will get the work done better and faster if you're more rested.
+- Reframe your idea of sleep, instead of it being "something you have to do", see it as a special treat for yourself and love the entire process. *I've got a hot date with sleep tonight, and we are really going to get it on!* Treat yourself to some incredible sleep, you deserve it.
+- The body clock is most responsive to sunlight in the early morning, between 6 am and 8:30 am.
+- Getting direct sunlight outdoors for at least half an hour has been shown to produce the most benefit. Even rainy weather is better than indoor lighting.
+- Use your break time to get sun on your skin. Even on an overcast day, the sun's rays will make their way through and positively influence your hormone function. Take your 10-15 minute breaks outdoors or near a window, or eat your lunch outside.
+- Only getting sunlight through a window is not that good, you need UVB which might not permeate the windows.
+- Sunglasses inhibit the natural exposure of light you need to assure healthy hormonal secretions and healthy sleep.
+- Seasonal affective disorder--a form of depression that tends to occur during the darker winter months. You can have devices like mirrors, visors, etc. to help treat yourself.
+- Set an unbreakable caffeine curfew. For most people, that's 2:00 pm.
+- You can do caffeine in the morning for a cortisol boost.
+- Warm bath 1 1/2 hours to 2 before sleeping. Core temp will rise and then fall around the time you turn in for the night.
+- Mattress pads can be used that help regulate your body temperature.
+- Cooling of the room is a must, but some people will feel great all night with a fluffy comforter, some with a few bed sheets, and some would feel better using an additional cooling pad.
+- Socks. If your hands or feet are too cold, it could be a sign of poor circulation.
+- To get the highest-quality possible, you have to get to bed within a few years of it getting dark outside. Somewhere between 9:00 pm and 11:00 pm. By doing this, you are giving yourself a huge hormonal advantage.
+- To help reset your sleep cycle, get some sunlight as soon as possible when you wake up. This is going to help boost your natural cortisol levels and fully wake your system up.
+- Don't work the night shift. *If you had to get a different job and work normal hours to save the life of someone you love, you'd find a way. You'd always find a way. It's just that we tend to settle and get comfortable in our story unless are backs against the wall and the pain is bad enough. We are the most creative, industrious, resourceful beings on the planet WHEN WE WANT TO BE.*
+- Varying sleep cycles (2-3 nights overnight) is just as bad. Better to just have 2 months overnight, 10 months on the natural so the bodies get to be in sync with their natural circadian clocks.
+- To make your mornings better and more energetic, set your alarm to coincide with the 90 minute sleep cycles instead of the standard 8 hours of sleep.
+- Keep the topical magnesium and apply it right before you sleep.  Anywhere you are sore, in the center of your chest, around your neck and shoulders. Spray it on liberally.
+- Mg in your diet: green leafy vegetables, pumpkin/sesame seeds, Brazil nuts.
+- Trouble in the GI tract/parasites. Fastest way to do this: stool test.
+- House plant.
+- Make an agreement to keep office work out of the bedroom.
+- Good sleep nutrients and foods for sexual health.
+- Remove light inside the bedroom, too. Alarm clocks with blue or white digits.
+- Lowering the luminosity of the lights or using different color bulbs is a great idea.
+- Himalayan salt lamps?
+- Even in the midday sun, no light should be sneaking in unless you want it to.
+- Make sure to get in some activity during the first part of the day, regardless.
+- Take out a schedule and block off specific appointment times for you to work out.
+- The best form of exercise is the one you enjoy.
+- Get an accountability partner.
+- Sleep also impacts your exercise.
+- Lift weights at least 2 days a week.
+- Snack close to bedtime: High-fat, low-carb snack.
+- Carbs are not inherently bad, it's just the timing of these that make the difference.
+- 90 minutes last meal before going to bed.
+
 ### Know the Value of Sleep
 
 - Being awake is catabolic (breaks you down), being asleep is anabolic (builds you up).
@@ -134,33 +175,136 @@
 - Magnesium can be taken in through the skin. Epsom salt: a form of magnesium called magnesium sulfate.
 - Things like magnesium bath flakes and magnesium oils are usually 20% absorbable at best.
 
-### Power Tips
-
-- When you have a big task coming up, pull out a calendar and plan ahead how you can get your ideal number of sleep hours in. If it's important to you, you'll schedule it. Stick to that schedule as well as you can, and know that you will get the work done better and faster if you're more rested.
-- Reframe your idea of sleep, instead of it being "something you have to do", see it as a special treat for yourself and love the entire process. *I've got a hot date with sleep tonight, and we are really going to get it on!* Treat yourself to some incredible sleep, you deserve it.
-- The body clock is most responsive to sunlight in the early morning, between 6 am and 8:30 am.
-- Getting direct sunlight outdoors for at least half an hour has been shown to produce the most benefit. Even rainy weather is better than indoor lighting.
-- Use your break time to get sun on your skin. Even on an overcast day, the sun's rays will make their way through and positively influence your hormone function. Take your 10-15 minute breaks outdoors or near a window, or eat your lunch outside.
-- Only getting sunlight through a window is not that good, you need UVB which might not permeate the windows.
-- Sunglasses inhibit the natural exposure of light you need to assure healthy hormonal secretions and healthy sleep.
-- Seasonal affective disorder--a form of depression that tends to occur during the darker winter months. You can have devices like mirrors, visors, etc. to help treat yourself.
-- Set an unbreakable caffeine curfew. For most people, that's 2:00 pm.
-- You can do caffeine in the morning for a cortisol boost.
-- Warm bath 1 1/2 hours to 2 before sleeping. Core temp will rise and then fall around the time you turn in for the night.
-- Mattress pads can be used that help regulate your body temperature.
-- Cooling of the room is a must, but some people will feel great all night with a fluffy comforter, some with a few bed sheets, and some would feel better using an additional cooling pad.
-- Socks. If your hands or feet are too cold, it could be a sign of poor circulation.
-- To get the highest-quality possible, you have to get to bed within a few years of it getting dark outside. Somewhere between 9:00 pm and 11:00 pm. By doing this, you are giving yourself a huge hormonal advantage.
-- To help reset your sleep cycle, get some sunlight as soon as possible when you wake up. This is going to help boost your natural cortisol levels and fully wake your system up.
-- Don't work the night shift. *If you had to get a different job and work normal hours to save the life of someone you love, you'd find a way. You'd always find a way. It's just that we tend to settle and get comfortable in our story unless are backs against the wall and the pain is bad enough. We are the most creative, industrious, resourceful beingso n the planet WHEN WE WANT TO BE.*
-- Varying sleep cycles (2-3 nights overnight) is just as bad. Better to just have 2 months overnight, 10 months on the natural so the bodies get to be in sync with their natural circadian clocks.
-- To make your mornings better and more energetic, set your alarm to coincide with the 90 minute sleep cycles instead of the standard 8 hours of sleep.
-- Keep the topical magnesium and apply it right before you sleep.  Anywhere you are sore, in the center of your chest, around your neck and shoulders. Spray it on liberally.
-- Mg in your diet: green leafy vegetables, pumpkin/sesame seeds, Brazil nuts.
-- Trouble in the GI tract/parasites. Fastest way to do this: stool test.
-
 ### Create a Sleep Sanctuary
 
 - It's hard to change some habits because the brain uses myelin.
 - When you step into your bedroom, parts of your brain might light up expecting to watch television. Your brain goes through what it's used to, not what you want it to do.
 - Air ionizer/purifier to remove negative ions in the air (oxidize odors, fungi).
+- Good idea to have plants in the home/room. English ivy: NASA lists this as the number one air-filtering houseplant.
+- Perennial snake plant.
+- The sound of water, or improving the air quality, do whatever it takes for you to feel relaxed and comfortable in your sleep sanctuary.
+
+### Have a Big "O"
+
+- Having an orgasm can be like a full-on sedative for most people.
+- Oxytocin levels are increased through orgasm, and it has a calming effect that counters the effects of cortisol and helps to promote sleep.
+- Sex is another way you can keep up your body's release of this powerful anti-stress neurotransmitter.
+- Norepinephrine synthesizes melatonin.
+- Vasopressin, prolactin.
+- Good sleep also leads to good sex.
+
+### Get It Blacked Out
+
+- The skin has receptors that can pick up light.
+- Sleep is not just about covering the eyes, it's about creating a sleep environment that helps bring about the best sleep possible.
+- *Sleeping in total darkness is so significant that nighttime light has been dubbed "light pollution."*
+- Get the popular "blackout" curtains that are available from most retailers.
+- The room should be so dark that you can't see your hands in front of your face.
+- Sleeping in total darkness is something that our genes expect us to do. It's not uncommon to have lights of some time beaming in your room all night long.
+- Night: Try using the soft light of candles or lamps with red bulbs. Not just about the color of light, but the luminance.
+
+### Train Hard (But Smart)
+
+- When you sleep is when your body releases large amounts of beneficial hormones and repairs you to build you up.
+- People who exercised at 7:00 am slept longer and had a deeper sleep cycle than the other two groups.
+- Problem with working out in the evening: it raises your core temp and it can take 4-6 hours before it goes down again.
+- Good time to exercise at 4:30 pm if you are expecting to sleep at 10:00 pm. By that time the stress hormones from the workout have subsided, the "rest and digest" system has taken over, and your core body temp has dropped down to set the optimal internal environment.
+- Big spike of cortisol in the early morning.
+- Sleep deprivation is one of the biggest triggers for accelerated loss of your telomere length.
+- 100 minutes a week of exercise: telomeres are for 5-6 years younger.
+- Best hormonal response: lifting weights.
+- Exercise: Makes people fall asleep faster, shorter wake time, higher total sleep time, higher sleep efficiency.
+- Consistent exercise.
+
+### Get Your "Friends" Out of Your Room
+
+- Electronic teddy bear.
+- Just use an actual alarm clock.
+
+### Lose Weight and Don't Find It Again
+
+- Being overweight causes severe stress to your internal organs and nervous system, and it disrupts your endocrine system like few things can.
+- After consuming a meal, overweight people secrete higher levels of cortisol.
+- Higher cortisol = higher blood sugar, lower insulin sensitivity, increased levels of inflammation.
+- Sleep apnea: Pauses in breathing or infrequent breathing during sleep. As the person gains weight, the risk of sleep-disordered breathing increases due to compromised respiratory function.
+- Just have a better ratio of all three macronutrient groups for you and your metabolism.
+- Micronutrients: Just eat real food.
+- You might still be eating too many calories but have bad nutrition. The body will let you know in the form of hunger that it needs nutrients, you replenish it with bad food, and you are still hungry after.
+- *By focusing on eating micronutrient-rich food as the bulk of your diet, you will ensure that your body is producing leptin and filling the nutritional gaps that made you hungry in the first place.*
+- Keep insulin down through the first part of the day. Morning is time to get things like a vegetable omelet in.
+
+### Go Easy on The Bottle
+
+- About alcohol. I don't drink anyway.
+
+### Play Your Position
+
+- Maintain the stability of your spine.
+- Sleeping on your back: the most accurate. Less likelihood of digestive distress, acid reflux, and allows facial skin to breathe.
+- Bad side with sleeping on your back: Higher chance of sleep apnea.
+- Bad mattress: Better to be sleeping on the floor. Just make sure your spine is not sinking in.
+- Most people report that they prefer to sleep on their side, and for good reason.
+- Mattresses should be replaced every 7 years.
+- When a mattress is delivered, when they say "let the room air out", it's because mattresses are treated chemically. You can absorb (not just smell) these gases.
+
+### Calm Your Inner Chatter
+
+- Meditation--sitting quietly and focusing on your breathing, or counting your steps as you walk around the park.
+- Meditation is an effective treatment for insomnia.
+- Beta waves: for wakefulness. Alpha waves: for relaxedness. The ability to change your brain waves is one of the reasons meditation works.
+- Fight-or-flight response: reaction to a perceived harmful event, attack, or threat to survival.
+- Sympathetic nervous system: stressed. Breathing deep is powerful.
+- Mindfulness meditation: Be here, now!
+- Meditate:
+  - Before you go into bed, not while you're in the bed.
+  - If you're constantly waking up in the middle of the night, there might be a couple of potential causes.
+  - Hormonal imbalance, low blood sugar, problem in the GI tract, psychological stress.
+  - Psychological stress results from things we know we "need to do" or haven't let go of.
+  - If you are agitated on frustrated, then by all means give yourself permission to get out of bed and journal or read.
+
+### Use Smart Supplementation
+
+- Ideally, you first need to address the lifestyle issues that are actually causing the sleep problem.
+- Chamomile: Can be used as a mild sedative and sleep inducer.
+- Kava kava.
+- Valerian.
+
+### Be Early to Rise
+
+- It's only in the last 100 years that we've overridden the patterns of sleep and wakefulness.
+- Our eyesight, sense of smell, and hearing sucks in the darkness.
+- The lack of consistency may be one of the biggest issues: the irregular sleeping hours prevent your brain from settling into a pattern, creating a state of perpetual jet lag.
+- It's not just how you sleep, but when you sleep, that helps to create the best version of you.
+- Early birds are more proactive than evening people.
+- To wake up earlier:
+  - Get excited. The night before, think of one thing that you'd like to do in the morning that excites you.
+  - Jump out of bed. "Yes, I'm alive!"
+  - Put your alarm across the room.
+- Drink a glass of water first thing in the morning.
+- Go to bed within 30 minutes of the same time each night and wake up at the same time each day.
+
+### Use Bodywork That Works
+
+- Test subjects receiving massages experienced improved sleep and an increase in serotonin levels.
+- Problem: People drink coffee to charge but don't do the opposite/reverse.
+- Book yourself a massage.
+- Progressive muscle relaxation: A relaxation exercise in which you systematically tense and then relax all the muscle groups in your body.
+- Foam roller? Any self massage things.
+
+### Dress for the Occasion
+
+- Don't wear tight clothes, as they can literally cut off the flow of your lymphatic system.
+- Tight socks are bad.
+- Women who slept in their bras had a 60% greater risk for developing breast cancer (?).
+- If you and your partner both sleep in the nude, you can reap the benefits of oxytocin.
+
+### The 14-Day Sleep Makeover
+
+- Bedtime ritual. Before sleeping, listen to a podcast, talk with someone, meditate, journal, take a bath.
+- Get topical magnesium.
+- Gratitude log or gratitude journal. What are you excited about for tomorrow?
+- Try to get a few minutes of direct sunlight.
+- 5 to 10 minutes of exercise.
+- Book a massage.
+- Alternative lighting for your room: low blue light bulbs, a salt lamp, a lamp with a dimmer, or candles.
+- Self-massage or bodywork.
