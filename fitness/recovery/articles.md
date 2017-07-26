@@ -1,3 +1,23 @@
+## 17 Scientifically Proven Ways to Speed Recovery
+
+- Sleep. Protein synthesis.
+- Music. Relaxing tunes aid in exercise recovery.
+- Protein before bed.
+- Protein in the morning.
+- Chocolate milk.
+- Tart cherry juice and supplements might help reduce the swelling that occurs when muscles are damaged.
+- Water.
+- No booze.
+- Foam rolling--the soreness occurs when our muscles and fascia (connective tissue running throughout the body) become knotted.
+- Massage.
+- Protein before workout.
+- Protein post-workout.
+- Daytime nap.
+- Rest between days.
+- Compression garments.
+- Cold bath.
+- Anti-inflammatory medications like turmeric and ginger, however if you're trying to build muscle, drugs like ibuprofen and aspiring may hinder muscle growth.
+
 ## Ride Hard, Recover Harder
 [Reference](http://www.bicycling.com/training/fitness/ride-hard-recover-harder)
 
