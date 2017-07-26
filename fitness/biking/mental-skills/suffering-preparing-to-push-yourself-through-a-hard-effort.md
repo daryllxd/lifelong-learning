@@ -15,7 +15,6 @@
 - Power word. You need a word that you say when you make that extra push. "Push." "Max out." "Go." Practice using your power cue work the next time you have intervals during a training ride.
 - Control your thoughts so that they work for you instead of against you!
 
-
 **You can say that climbers suffer the same as the other riders, but they suffer in a different way. You feel the pain, but you’re glad to be there. -- Richard Virenque**
 
 #### Relaxing Your Body
