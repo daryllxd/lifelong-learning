@@ -1,3 +1,14 @@
+## Ugo 2017-07-23
+
+- Cooked: Kare-kare.
+- Need to know how to blanch, some of the vegetables went bad.
+- Rethink underwear strategy, but have to put the powders to prevent chafing.
+- Need to be better at recovery.
+- Didn't really bonk which was good.
+- Clean your bag!
+- Trail runners are sort of falling apart now.
+- Sleeping pad--I sort of want the Therm-a-Rest now.
+
 ## Tarak Ridge 2017-06-17
 
 - Cooked: Chicken teriyaki.
