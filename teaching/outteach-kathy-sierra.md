@@ -43,4 +43,3 @@ The people who will make your tutorials and docs are your community. Community c
 - Make your community leaders/active participants HEROES.
 -  Host an offline retreat for the key community leaders.
 - Keep teaching members to teach other members. Give everyone a crash course in learning theory.
-

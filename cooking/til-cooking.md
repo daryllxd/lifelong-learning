@@ -1,2 +1,9 @@
-
+- Keeping eggplants preserved
+  - Boil water, add salt, boil an eggplant.
+  - Put the eggplant in an ice bath after.
+  - Transfer eggplant, and place in the refrigerator.
+  - When it's cool, place in the container.
+- Waiting for things to boil: a good indication of if it has been cooked or not. Ex: boiling pork + garlic + onion.
+- Precooking pork: Just a bit longer than chicken.
+- Eggplant can get rotten quickly.
 - Butter: Wrap in foil because it will oxidize, foil keeps the oxygen out. You can also
