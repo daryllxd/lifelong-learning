@@ -1,4 +1,4 @@
-## Look for These “Green Flags” When Dating Someone New
+## Look for These "Green Flags" When Dating Someone New
 [Reference](http://lifehacker.com/look-for-these-green-flags-when-dating-someone-new-1774772510?utm_campaign=socialflow_lifehacker_facebook&utm_source=lifehacker_facebook&utm_medium=socialflow)
 
 - They communicate well about their thoughts and feelings, and give you the chance to do the same.

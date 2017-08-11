@@ -62,3 +62,36 @@
 - Figure out what they value, or to reframe your proposition to them in a way that makes them feel like they got a good deal.
 - "Door in the Face": Ask for a borderline unreasonable amount. Then back off and ask for an amount that is closer to your actual goal. Second figure will seem far more reasonable than the first figure. It's a "win" for them.
 - "Foot in the Door": Small favors or concessions, and gradually work up to your desired ask. Your goal with that figure is to gain agreement and goodwill with the other person.
+
+### How to Gain Trust and Credibility
+
+- Neighbors on the same floor tended to be friends and people who lived near the mailboxes and staircases were friends with people on different floors.
+- Friendship/trust increase linearly with simple interaction and exposure. The more we see someone, the more likely we will become friends with them and come to trust them.
+- Typical sales cycle: Make sure you have many point of contact with them. So this makes you trust them more if they are present in your life.
+- Trust: Simply show up.
+- Credibility
+  - Highlight past experience and your qualifications.
+  - Display how much you care.
+  - Similarity: dress, body language, speaking style.
+  - Appear assertive. People can trust your judgments because you know the other side of the argument and can convincingly make those arguments go away.
+  - Social proof: this is why it's good to have an introduction.
+- Bad for credibility
+  - Don't contradict yourself. When in doubt, leave it out.
+  - Avoid being overly polite.
+
+### How to Work Well With Others
+
+- Stimulus-value-role theory.
+  - *Stimulus stage.* Evaluating people based on their physical attributes and superficial traits. We seek people who are attractive, but also of a similar age, appearance, and perception of status. This is why 90-year olds who are friends with 20-year olds look weird.
+  - *Value stage.* Finding people that share our thoughts and morals.
+  - *Role stage.* How people will complement us in working toward a shared goal. The deepest friendships function in a sense like business relationships--there has to be ultimate compatibility and a sense of benefit for each party.
+- People filter their contacts on a subconscious level--simply by being aware that this subconscious filtering process is taking place, you can put yourself in a better position. Ex: look the part in that you also wear the same jersey.
+- Next: present that you have the same morals and values as him, regardless of your background or pedigree.
+- Once you have shown that you look and act the part, you want to show that you share similar activities, and you can work together, without any hint of conflict.
+- If you can travel together, then you have shown compatibility and chemistry on a far deeper level.
+- Role stage: you can function and actually work well together. *Why business gets done on the golf course and or bar napkins--people are able to decide that they can work with each other's reciprocal abilities, and move into each other's inner circle.*
+- Females: Are less competitive and more collaborative in nature.
+- Males: Are more competitive and their self-image doesn't take a hit when they're put in a competitive environment.
+- *Avoid competition and comparison in social settings, unless you know the outcome will make the other person feel better about themselves.*
+- When you are working together, focus on the shared goal at hand and not individual contributions. Everything is equal in pursuit of the goal.
+- Remember that the overarching goal of any interaction, whether social or work-related, is not to look good by crushing another person. Your overarching goal should be to build rapport and comfort, and in this chapter, specifically to showcase the trai
