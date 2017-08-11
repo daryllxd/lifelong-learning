@@ -28,3 +28,32 @@
 - *Exercising too much.* Fatigue and trouble sleeping can serve as a sign that you're pushing your body beyond its limits. Workouts also cause a spike in cortisol. If you're not striking the right balance between activity and rest, you can overload your system with physical stress just as you can with emotional or mental pressure.
   - The fix: Try taking a few days of complete rest.
 - *You have a urinary tract infection.* Women who have UTIs also report fatigue and a general sense of illness, and the rate increases among those 40 or older.
+
+## Top 10 Ways to Boost Your Energy
+[Reference](http://www.webmd.com/women/features/10-energy-boosters#1)
+
+- *Magnesium.* Almonds, hazelnuts, or cashews. Whole grains, fish.
+- *Walking.* Brisk 10 minute walk gives you energy for 2 hours.
+- *Power nap.* Pushing our brains can zap energy.
+- *Don't skip breakfast.*
+- *Stress.*
+- *Drink more water and less alcohol.*
+- *Whole grains, not that much on sugar.* When you're eating a sweet food, you get a spike in blood sugar.
+- *Power snack.* Protein, a little fat, some fiber--peanut butter on a cracker, or yogurt with nuts.
+- *Milk + coffee + almonds.*
+- *Check thyroid, you might have anemia.*
+
+## 11 Rules for All-Day Energy
+[Reference](http://www.goodhousekeeping.com/health/wellness/advice/g123/get-more-energy/?)
+
+- *Sunlight.*
+- *Protein-powered breakfast.* Add peanut butter and a banana, whole-grain cereal with low- or non-fat milk and fruit low-fat plain yogurt with berries.
+- *Water.* When deprived of water, people feel nearly twice as tired and one -third less alert.
+- *Caffeine timing.* Just sips over a span of a few hours, better if in the afternoon.
+- *Green or white tea.*
+- *Refuel with the right snack.* Bananas, apple, orange, grapes, or low-fat cheese/yogurt.
+- *No high-fat meals like pizza, burgers, mac/cheese.* Just whole grain, a vegetable or fruit, and a lean protein.
+- *Take a stroll.* 20 minute walk after lunch will pick you up without tiring you out.
+- *Nap.*
+- *Wash your face.*
+- *Sleep a bit earlier for the next day.*
