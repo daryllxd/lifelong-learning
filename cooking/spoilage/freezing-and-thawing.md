@@ -62,5 +62,3 @@ Flexible freezer bags and moisture-vapor resistant wrapping materials such as pl
 - Whole chickens do not thaw well in the microwave. You can still use this method for a whole chicken but there is a higher risk of bacterial growth.
 - Avoid defrosting chicken at room temperature on your kitchen counters because if you leave your chicken at room temperature for too long there is a high risk of bacterial growth.
 - *Be sure not to rinse the chicken before cooking because of risk of bacteria transfer as outlined in latest health guidelines.*
-
-
