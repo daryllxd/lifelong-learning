@@ -1,6 +1,21 @@
 
-- Roasted garlic: Put in oven.
+## Beginners Guide to Cooking Vegetables
+[Reference](https://www.youtube.com/watch?v=zu8FS3-MIAs)
 
+- Roasted garlic: Put in oven.
+- Potatoes--just salt, pepper, whatever spice. Season first, then put oil (a lot so they don't get burned). Tin foil is good to trap the heat. Then you put them all on the same floor or something.
+- Oven temperature, feel it out.
+- Onion--cut top and bottom, half, then remove the skin.
+- Stir-fry, high heat. For stir-fry, you want everything to be prepared before you get them in the pan. Greens first before garlic so they don't burn. Soy sauce and vinegar. Stir-frying vinegar cooks out the bitterness.
+- Honey mustard: Literally honey, mustard, and some mayonnaise.
+- Microwaving: plastic wrap keeps the moisture of the carrots in.
+- Steaming: Just put some water and put in the broccoli after. Broccoli stems, smaller cuts than the florets.
+- One leafy and one woody herb.
+- Portobello mushrooms have more flavor than white button mushrooms.
+- Bell pepper: doesn't really matter, the green is the same as the red but it is just less ripe and less flavor.
+- Bases for sauces: mayonnaise, sour cream, yogurt.
+- Chicken thigh or breast?
+- Bacon: thick cut, cooks a lot better/no shriveled up stuff.
 
 ## 15 More Mistakes Most Beginner Cooks Make
 [Reference](https://www.youtube.com/watch?v=6bN_crxaVsg)

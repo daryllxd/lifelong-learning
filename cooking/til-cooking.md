@@ -1,3 +1,13 @@
+- Even chicken.
+- Lightly salt and pepper.
+- Heat pan on high.
+- Medium heat, 1 minute on one side.
+- Flip other side 1 minute.
+- Lid on, 10 minutes, low heat.
+- After 10 minutes, lid still on, let it sit.
+
+- Brining pork chop: 4 tbsp salt on 4 cups water, dissolve pork chop inside with aromatics.
+
 - When cooking french toast, do not include crust because it will soggy.
 
 ## What Is Simmering and Why Does It Matter?
