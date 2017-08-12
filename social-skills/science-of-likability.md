@@ -94,4 +94,140 @@
 - Males: Are more competitive and their self-image doesn't take a hit when they're put in a competitive environment.
 - *Avoid competition and comparison in social settings, unless you know the outcome will make the other person feel better about themselves.*
 - When you are working together, focus on the shared goal at hand and not individual contributions. Everything is equal in pursuit of the goal.
-- Remember that the overarching goal of any interaction, whether social or work-related, is not to look good by crushing another person. Your overarching goal should be to build rapport and comfort, and in this chapter, specifically to showcase the trai
+- Remember that the overarching goal of any interaction, whether social or work-related, is not to look good by crushing another person. Your overarching goal should be to build rapport and comfort, and in this chapter, specifically to showcase the traits and value that will move you through people's friendship stages.
+
+### How to be More Endearing
+
+- Perfect people scare and intimidate us. We're uncomfortable around them, and they make us self-conscious in ways we never thought possible.
+- Batman and Spiderman are more popular than Superman because Superman is literally a super man. Batman/Spiderman are powerful, yet deeply vulnerable characters. They also have their internal struggles.
+- They are extremely humanizing characters and are much more relatable to us than Superman. People are moved to feel for Spiderman and Batman because they can point to their own internal battles and how they've overcome them.
+- *Not being perfect is endearing to people.* Vulnerability is attractive, relatable, and also ensure that you aren't intimidating to others. Don't pretend you're perfect.
+- *The Pratfall Effect: flaws, hiccups, and imperfections which showed people to be vulnerable made people likable.* You are making others comfortable and easing their fear of judgment. This is why we are uncomfortable around perfection--because we feel we will be judged and inevitably come up short.
+- If we are around someone charismatic, we might not want to say anything out of fear. If we are around someone amazingly beautiful, we might hide our faces as not to be compared to them. If we're around someone shockingly intelligent, we might not want to voice our opinions for fear of being found wrong and humiliated.
+- The substitute teacher that curses--the class will relax because they felt like they had to be on their best behavior, and now they know their substitute teacher is actually going to be lenient and relaxed.
+- If you have a quirk or eccentricity, it is probably the reason why a lot of your friends are drawn to you. Your value to your friends definitely doesn't come from a place of perfection. They like you because of your imperfections and what makes you uniquely you. In fact, you probably have imperfections or quirks in common, and that's what drew you to each other in the first place.
+- *The Losada Ratio: The ratio of how much positive feedback is required to lessen the sting of negative feedback.* 5-6 positive statements to 1 critical feedback.
+- People are more sensitive than they present themselves to be, and you can choose to acknowledge this or not. Just err on the side of positive and good natured will do you good.
+- Participants asking their partner for advice rated the partner higher on competence.
+- Ask people about their expertise.
+
+### How to Convince People to Act
+
+- *Reactance theory: if we are told we can't do anything, we immediately want to do it, not because of the action itself, but because we feel psychological discomfort with being told we can't do something, and we seek to prove to ourselves that we indeed can.*
+- Ex: Putting a sign saying "do not write stuff on the walls" makes people want to put more graffiti on that sign.
+- People hate being told to do something.
+
+### How to Lead Anyone
+
+- There is always only one head of state for every country in the world.
+- Sometimes we just want to be told what to do. Sometimes we have surprising clarity about what we know and don't know and rely upon others to provide guidance and direction.
+- Every friend group has an unofficial leader.
+
+#### Six Types of Leaders
+
+- *Visionary.* Come with me to a better world.
+- *Coaching.* Try this, you might learn from it.
+- *Affiliate.* Only if everyone feels good about it.
+- *Democratic.* What does everyone think?
+- *Pace-setting.* Do more faster.
+- *Commanding.* Do what I say.
+
+- *Visionary:*
+  - They speak to people's desire to be part of something bigger than themselves. Shared vision--more abstract and motivational in setting priorities.
+  - Mandela, Martin Luther King Jr. Visualizing a world free from discrimination.
+  - This works best for people who are looking to fill a gap or a void.
+  - This person is looking for direction and would be open minded to ideas and directions you have.
+- *Coaching leader:*
+  - Focused on individuals instead of an overarching vision or goal.
+  - Coaches are focused on improving the skills of each individual player so they can contribute to the team's success.
+  - This might seem like micromanaging.
+  - Do this if dealing with people who are a long way off from reaching their full capabilities.
+- *Affiliate leader.*
+  - They emphasize interpersonal relationships and emotional needs.
+  - Emotional buy-in and investment above all else.
+- *Democratic leader.*
+  - Seeks to build consensus.
+  - Best if highly organized and adept at gathering information.
+- *Pace-Setting leader.*
+  - Leader shows high amount of ambition and makes everyone else adapt to their high standards.
+  - Light on guidance, high on metrics and deliverables.
+  - Bad usage shows a lack of emotional intelligence and compassion.
+  - Best if people are already competent and motivated. They are capable, and just need a push to take them to the next level.
+- *Commanding leader.*
+  - Expect to be listened to, commands and orders. They motivate people through fear or intimidation.
+  - This is why the military is so intentional in breaking the recruits down, so they can command absolute compliance and get them to do things like march into gunfire.
+  - Last resort, in the long term, this will wear on anyone.
+
+### How to Avoid Being Judged
+
+- The less knowledge we have about someone, the more we judge them because we have the tendency to fill in the blanks with information largely drawn from stereotypes.
+- Ex: If you hear about someone that plays tennis and belongs to a country club, what other pieces of information fit into a view of that person? You probably assumed they were rich, went to a fancy private school, and haven't had to work very hard in their life.
+- When we have little information, a mental image forms regardless, and the brain doesn't know the difference between a stereotype and accurate knowledge.
+- *Simply providing details about the subject completely unrelated to the stereotype in mind diluted the stereotype and made people more likely to trust and like others.* The more detail about the person, the better, even if it was just completely random.
+- People become less suspicious of you and are more willing to give you the benefit of the doubt. By sharing seemingly trivial information about yourself, you allow people to feel like they know you and they stop making assumptions.
+- With more information, people suddenly become three-dimensional and not the static character biographies we see in movies. We are humanized, and we eventually realize that all humans are complex amalgamations.
+- Oversharing to maximize likability is to get people to feel that they know different sides to you. Give four distinct details when answering easy questions, in this way, you will get into the habit of giving people more information, which will make conversation flow better anyway.
+- Let's face it, stereotypes surround us and we judge people every day. It is a survival instinct.
+- Don't expect people to share vulnerabilities with you first. You have to make it happen by taking the first step. Most people will reciprocate because you struck a nerve with them.
+
+### How to Win Groups Over
+
+- Social Impact Theory: Group dynamics and winning a group over are largely a function of three factors:
+  - Number of people you want to win over.
+  - How close physically you are to the group. This is why salespeople always insist on selling in person and setting up appointments, rather than conducting business over the phone. Same with using a phone over email.
+  - How important you are to the group in general. You have to be perceived as credible, liked, and known to the group.
+- You can split up the people one at a time. Most groups tend to unofficially designate one particular member as the leader.
+- Whenever a group tries to decide where to go to dinner, there is always someone who speaks up first, and who others look to for approval and to make the final decision.
+- Even if someone has a PhD in an entirely unrelated subject, it will still give you a small amount of credibility.
+- Playing on the group's emotions and utilizing emotional debt.
+- This can also work backwards--you will be more easily influenced by a group.
+  - The greatest overall task is to subvert groupthink (the tendency of groups to conform in thought.)
+
+#### Factors Found in Groupthink
+
+- Illusion of invulnerability: "Together we can't all be wrong."
+- Collective rationalization: "This all looks correct, right? No one is saying anything negative about it. If so many of us agree, we must be right."
+- Belief in inherent morality: "We are all correct, and everyone else is wrong. Therefore, we have carte blanche to act in our moral superiority.
+- Stereotyped views of people outside the group: "They have no idea what they're talking about, and they are all stupid anyway. Let's stick together."
+- Direct pressure on dissenters: "Don't you bring up your negative arguments. People are going to get mad at you if you tell them!"
+- Self-censorship: I'll just keep this to myself. I don't want to upset people or get on people's bad sides.
+- Illusion of unanimity: I think everyone in the group, 100% of us, think this right? Right.
+- Self-appointed mindguards: Avoid the newspapers, they are out of context and are borderline lies. Only we know what we are doing.
+
+### How to be Funny and Charismatic
+
+- Charisma isn't related to accuracy, or even the appearance of intelligence. What mattered most was how quickly the participants answered, the speed with which they took action.
+- *People tend to have a more favorable impression of you depending on how quickly you speak or take a position. It doesn't matter whether you are correct in your position.* Speed is associated with intelligence and social acumen.
+- So to appear more charismatic, it's clearly better to peak first and loudly, even if you have nothing to say, and even if you are speaking gibberish.
+- *Speak first and speak quickly. You can always correct what you said. When talking to people, make it your priority to respond in any way possible.*
+- IF you meet somebody at a party and they're talking about a problem they have at work, they don't expect you to actually solve their problem, they put it out there for the sake of conversation.
+- A quick anything is better than a slow monologue (just like in television shows and movies.)
+- Humans are emotional beings, and speed and confidence of presentation are always going to elicit a stronger emotional response than a well-thought-out answer.
+- Free association--open any book and blindly put your finger on a page. What word did your finger point to? Now, think of five words, things, people, places, concepts, or thoughts the word makes you think of.
+
+#### Violations Are Funny
+
+- Humor is mostly seen as subjective (seen as true since it does not tend to translate across cultural lines.)
+- *There are no comedy movies that have consistently struck gold in international box offices because humor is rooted in language and contextual norms.* This is also why action and adventure movies break box office records, because there's no cultural translation required for an explosion or flying car.
+- Benign moral violation--farting in public, spilling a drink over your supervisor. More immoral, the funnier, but too immoral, and it becomes unfunny. The act needs to be immoral, but in a way that appears harmless and has no negative repercussions.
+- Ex: Someone falling over and their pants fall down, a ball hitting someone in the crotch, making a gaffe when meeting someone famous or important.
+- What makes a violation funny is people are openly talking about something they have been trained not to--just a little bit over the line while not completely obliterating it. The tricky part is to know how far you can push the envelope.
+- A too benign moral violation: it will be run of the mill and boring.
+- The schadenfreude that we hear is only mean-spirited if we laugh when someone is truly hurt, but to laugh when someone has been violated in a benign way is very natural and widespread.
+- The underlying point is it's not negative to talk about negative things. You can bring up negative topics without turning the conversation sour.
+
+### How to Chit-Chat Effectively
+
+- Negative gossip is unavoidable to a degree.
+- Social grooming increases the amount of stability and group cohesion in any given group.
+- Alpha males receive more grooming. This ensures that everybody has their place in the social hierarchy.
+- It's a form of social lubrication that maintains harmony among chimpanzees.
+- Gossip helps us relate to others and maintain relationships in the same way social grooming does for chimpanzees.
+- It can serve a purpose or it can't (it can just pass the time.)
+- Gossip can be the basis for forming relationships. Gossip always has the option of leading somewhere large and intimate, no matter how small it can start. It also doesn't need to be negative in nature, and even if it is , it will still help you bond.
+- Talk about social relationships in particular. This really lends support to the conclusion that talking in general about people, yourself, or anything at all allows people to know you and like you.
+- *Allow yourself to be exposed and open to other people. Establish a mutual level of comfort. If nothing else, it gets people to drop their guard.*
+- When asked to read about positive traits, people observing the reader would described the reader positively, and negatively if they were reading negative traits.
+- If you're not talking about yourself, people will make judgments about you based on how you describe other people. They equate how you read other people with your own personality traits.
+- You have to watch how you describe other people, because people will pick you up on that.
+- Compliment people behind their backs. Some people really feel comfortable talking negatively. If you can't say anything positive, then at least try to say something neutral.
