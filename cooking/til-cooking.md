@@ -1,3 +1,9 @@
+- More fried rice things: The peas don't get cooked as much? I'm not really sure.
+
+- Fried rice: use day-old rice (firm grains will prevent the rice from getting soggy), make sure the wok is very hot (to not steam the rice), not that much add-ins (carrots, peas, onions, scallions). Soy sauce/mirin/fish sauce/sesame oil to season but remember to use them sparingly.
+
+- Baking a potato in the microwave: poke holes in it for the steam to go out.
+
 - Even chicken.
 - Lightly salt and pepper.
 - Heat pan on high.
