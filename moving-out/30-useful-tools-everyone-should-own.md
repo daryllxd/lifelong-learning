@@ -1,0 +1,35 @@
+## 30 Useful Tools Everyone Should Own
+[Reference](http://www.marcandangel.com/2008/06/20/30-useful-tools-everyone-should-own/)
+
+- 4 month calender--to see an elevated view of a busy schedule.
+- Measuring tape (25 feet).
+- Portable GPS.
+- Cellphone with hands-free.
+- Hand sanitizer.
+- Multi-head screwdriver.
+- Pliers to maneuver small objects.
+- Hammer.
+- Basic first aid kit.
+- Water filter.
+- Scotch, masking, and duct tape.
+- Sunglasses.
+- Wrist watch with alarm.
+- Extension cord.
+- Work gloves.
+- Flash light.
+- Rubber bands.
+- Step ladder.
+- Shop vacuum.
+- Fire extinguisher.
+- Earplugs.
+- Heavy-duty scissors.
+- All-in-one multi tool a la Leatherman.
+- Bungee cords.
+- Adjustable wrench.
+- Lightweight cordless drill.
+- Binder clips.
+- USB flash drive.
+- Filing cabinet.
+- Duct tape.
+- Wire ties.
+- Space pen.
