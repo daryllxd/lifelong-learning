@@ -1,6 +1,6 @@
 ## How should a 22-year-old invest time?
 
-### Neal Wu, searching for truth 
+### Neal Wu, searching for truth
 
 * *Make friends as opposed to networking.* Your friends will go a lot further than the professional contacts you make, especially since only one of the two groups is invested in your personal happiness.
 * *Become an expert by learning as much as you can and deeply seeking out the things you are curious about.* Find the things you enjoy and practice the skills you want to develop. If you can achieve expertise then it will be easy to obtain an audience.
@@ -19,21 +19,21 @@ Think about your young life this way, as an opportunity to pack away experiences
 
 For those NOT on scholarship and WITHOUT deep parental financial support:  A young person should first seriously consider learning a trade, at a tech or occupational school, before their college career.  A trade: working with your hands with a bona fide skill connects you to the real world in a way classroom knowledge cannot.  Your work at that trade will pay you much more per hour.
 
-Use the trade as a tool to better yourself, as part of a broader goal, with timelines, a series of objectives and discipline. 
+Use the trade as a tool to better yourself, as part of a broader goal, with timelines, a series of objectives and discipline.
 
-Don't be afraid to realize that some of your friends may be time-vampires, or for that matter, emotion-, or energy-vampires. All relationships are a give-and-take, but if your friends chronically derail you from your goals, dreams or better judgment, get new friends. 
+Don't be afraid to realize that some of your friends may be time-vampires, or for that matter, emotion-, or energy-vampires. All relationships are a give-and-take, but if your friends chronically derail you from your goals, dreams or better judgment, get new friends.
 
-Brain-building - If you can't concentrate and read a book for a few hours, work on it anyway.  Until at least the age of 25, the brain is still developing its habits.  Starve its craving for the video games you play, and feed its ability to focus on books or a study topic.  This gets much easier with practice.  
+Brain-building - If you can't concentrate and read a book for a few hours, work on it anyway.  Until at least the age of 25, the brain is still developing its habits.  Starve its craving for the video games you play, and feed its ability to focus on books or a study topic.  This gets much easier with practice.
 
 *Your choices in life don't just define you, they become you.* You are your choices:  That simple fact is the greatest piece of wisdom anyone ever gave me.  You see, our brains grow to meet the experiences we give ourselves.  If you spent hundreds or thousands of hours on video games, your brain will be wired to seek pleasure through them, and it will be a serious battle of withdrawal to break away from that endorphin source.  The same is true with all habits we nurture.  When YOU control your brain's input, instead of passively seeking whatever is pleasurable, you can begin to change your habits and your very self.  Example: More study make studying easier. Or, regular writing helps you communicate better over time. Talking, versus texting, helps you develop interpersonal skills that will make you more valuable as an employee and a better friend. You'll create new clusters of brain synapses to support an ability or skill where they didn't exist before.  But the reverse it true, too, for bad habits...
 
 So ask yourself, *"Do I really want to commit thousands of hours toward being an expert at video games, or at writing Reddit memes, or at an internet porn obsession?"  Ugh. At the end of your life, will you wish you had spent more time doing those things?  Do they offer any redeeming, long-term value to you? Of course not.* Some day, young one, you will understand what I am writing here. I'd rather you understand it now, than as a broken 70-year old, alone and muttering about the unfairness of life, and all your missed chances.
 
-Be Fully in the Moment - Do you find yourself texting in class, or at a dinner with friends?  When you do that, those around you often feel uncomfortable, as if you are saying they are less important. Put it away, and open up your awareness to all you are missing. There are people you may see today whom you will never see again, old folks who will die, and younger people who may move away. Let them have a great last memory of you. 
+Be Fully in the Moment - Do you find yourself texting in class, or at a dinner with friends?  When you do that, those around you often feel uncomfortable, as if you are saying they are less important. Put it away, and open up your awareness to all you are missing. There are people you may see today whom you will never see again, old folks who will die, and younger people who may move away. Let them have a great last memory of you.
 
-Mentors: You may have a mom or dad who can give you practical advice.  Or a grandparent.  Seek them out, or an older person who is 'disinterested,' meaning they don't just think the world revolves around you. Give your mentors the freedom to tell you the truth, even to hurt your feelings.  Listen to how they perceive you, and your talents and weaknesses.  Eventually, you will use your talents to address and fix your weaknesses, but not if you're stuck blaming others for them.  Even if it was your parent's damn fault. 
+Mentors: You may have a mom or dad who can give you practical advice.  Or a grandparent.  Seek them out, or an older person who is 'disinterested,' meaning they don't just think the world revolves around you. Give your mentors the freedom to tell you the truth, even to hurt your feelings.  Listen to how they perceive you, and your talents and weaknesses.  Eventually, you will use your talents to address and fix your weaknesses, but not if you're stuck blaming others for them.  Even if it was your parent's damn fault.
 
-Especially for young men, a "coming of age" experience is crucial to our psychological development.  I hitchhiked across Canada. Leaving the safety net and going it on one's own is an important step for how a boy becomes a man because it gives us a foundation for our own self-reliance. You will remember it when you need a boost of courage. 
+Especially for young men, a "coming of age" experience is crucial to our psychological development.  I hitchhiked across Canada. Leaving the safety net and going it on one's own is an important step for how a boy becomes a man because it gives us a foundation for our own self-reliance. You will remember it when you need a boost of courage.
 
 Have you hurt someone recently?  Yes you have.  Face it.  Find a way to make amends, and explore and exhibit genuineness, kindness and empathy.  Let the other person's emotions wash over you, and get a sense of their perspective. Breathe it in, and let yourself feel bad.  It's human. Self-focused narcissism that would discount the feelings and needs of others is an utter epidemic right now; a little reasonable guilt, then forgiveness, is a healthy thing. And learn to be courteous to everyone.  You would be astounded to realize just how many people you pass every day who are suffering.
 
@@ -57,7 +57,7 @@ Maintain family connections. This is the period in my life when I should have ma
 
 #### Andreas Blixt, developer at Spotify
 
-Is there someone you really enjoy spending time with? Spend more time with them. No? There's a lot of amazing people out there. Don't worry so much about how you meet them, just put yourself out there. Don't like going to bars? Well, there's dancing lessons. Amateur photography groups. Painting lessons. Yoga. Martial arts. The Internet is also a great place for finding likeminded people.
+Is there someone you really enjoy spending time with? Spend more time with them. No? There's a lot of amazing people out there. Don't worry so much about how you meet them, just put yourself out there. Don't like going to bars? Well, there's dancing lessons. Amateur photography groups. Painting lessons. Yoga. Martial arts. The Internet is also a great place for finding like-minded people.
 
 It's not about how you spend your time, it's about how much time you feel you've had.
 
@@ -65,7 +65,7 @@ I can tell you, I've had weeks where I did some really good work, but I can't re
 
 I like to collect those memories, because that's all I'll have when it's time for me to depart. That's what I really think any person of any age should do. Go create those memories!
 
-#### Francis Chen, cultural bridge and translator 
+#### Francis Chen, cultural bridge and translator
 
 Work on your communication and your writing skills. Be actively learning and comfortable articulating your interests, opinions, advice, passions, expertise, etc., regardless of how confident you feel.
 
@@ -73,19 +73,19 @@ You may not know what you want to do in life; you probably have a lot of differe
 
 #### Ajim Bagwan, Life is what you make of it, not what happens to you.
 
-Learn the art of life. Realize that the best things in life aren't things. That the happiness and peace of mind comes from within, depends solely on what you think. Learn to think.  Don't go by society's standards & the defined rights & wrongs. Think & find it out for yourself. Don't care what people would think. It's your life. Do what you love and do it often. Learn to live in the moment. Don't think about the past if it wasn't good, don't think about the future for it has yet to come. Always live in the present moment. Realize that we are on an organic spaceship that is revolving at a great speed in an universe which has no known start or end. Why worry about anything? Learn to be happy. And to find peace in your heart. Once you learn that, you will realize that everything else is just secondary. And that you can take whatever life throws at you. 
+Learn the art of life. Realize that the best things in life aren't things. That the happiness and peace of mind comes from within, depends solely on what you think. Learn to think.  Don't go by society's standards & the defined rights & wrongs. Think & find it out for yourself. Don't care what people would think. It's your life. Do what you love and do it often. Learn to live in the moment. Don't think about the past if it wasn't good, don't think about the future for it has yet to come. Always live in the present moment. Realize that we are on an organic spaceship that is revolving at a great speed in an universe which has no known start or end. Why worry about anything? Learn to be happy. And to find peace in your heart. Once you learn that, you will realize that everything else is just secondary. And that you can take whatever life throws at you.
 
-First do some uncommon things which many don't do and then decide what you wanna do with your life. Take the road less traveled. Read good books, watch good movies, listen to some good music. Be artistic. Create something. Have passion for something, For Life. 
+First do some uncommon things which many don't do and then decide what you wanna do with your life. Take the road less traveled. Read good books, watch good movies, listen to some good music. Be artistic. Create something. Have passion for something, For Life.
 
-Travel - no matter what the age, whether fit or unfit, if you can, always make time for travel. Go to new places, meet new people, learn about their life & culture. Every now & then, Spend a day (or week or month or year) or two in the wild, in the serenity of nature, away from all your daily life hassle. 
+Travel - no matter what the age, whether fit or unfit, if you can, always make time for travel. Go to new places, meet new people, learn about their life & culture. Every now & then, Spend a day (or week or month or year) or two in the wild, in the serenity of nature, away from all your daily life hassle.
 
 #### Yulichka Dmytryshyn, mobile fan at Stanfy team, passionate traveler, Toastmaster
 
 Think. World is trying to keep you stupid. Starting from managing bank accounts, live TV shows, miracle diets - it's easier to control the people who don't think. How To Recognize an Idiot
 
-Self-education. Don't blindly believe in educational system. While they are doing all the paperwork, the system gets old, sometimes breaks. Learn to be a leader  in anything you do, not the follower. This way you succeed in self-education and above. 
+Self-education. Don't blindly believe in educational system. While they are doing all the paperwork, the system gets old, sometimes breaks. Learn to be a leader  in anything you do, not the follower. This way you succeed in self-education and above.
 
-With time you will become more conservative. That's a given. Together with some people around you will create 'a bubble' to support status quo. That's why, time for crazy ideas and taking risks is NOW. Then you will become much more careful. 
+With time you will become more conservative. That's a given. Together with some people around you will create 'a bubble' to support status quo. That's why, time for crazy ideas and taking risks is NOW. Then you will become much more careful.
 
 Learn to cook. This will make your life much simpler and turn cooking from an expensive extravagance into a pleasant endeavor. Check out Jamie Oliver's blog or find any other resources.
 
@@ -103,17 +103,17 @@ Date a lot and meet a lot of people.  Long term relationships at your age are di
 
 Don't worry about figuring out who you are.  You will never find the answer to this.  Just think about "who am I right at this moment" and appreciate it.  But understand that will change and that's ok - it's awesome.
 
-#### Tanmoy Roy, Live more, each day. 
+#### Tanmoy Roy, Live more, each day.
 
-Before you enter the "usual work-family cycle", I would recommend you to experience unconventional areas of work/life (and hopefully find something you'd truly love to do). At 23 you probably have no dependents and will be the only time in your life where you can experiment with minimal risk. 
+Before you enter the "usual work-family cycle", I would recommend you to experience unconventional areas of work/life (and hopefully find something you'd truly love to do). At 23 you probably have no dependents and will be the only time in your life where you can experiment with minimal risk.
 
-Read as much as you can. Watch a lot of documentaries/videos/ lectures/interviews/stories (on say YouTube).Do your own research and form your own opinions. Buying an e-reader may not be a bad investment. Add your local library to your list and get books loaded on your e-reader. 
+Read as much as you can. Watch a lot of documentaries/videos/ lectures/interviews/stories (on say YouTube).Do your own research and form your own opinions. Buying an e-reader may not be a bad investment. Add your local library to your list and get books loaded on your e-reader.
 
-Try to have a fun but frugal lifestyle. There will be enough time in your life to shop and spend. 
+Try to have a fun but frugal lifestyle. There will be enough time in your life to shop and spend.
 
 Try to find/expand your interests and invest in them. Travel, attend seminars/ conferences, make new friends, do some certifications, take up some courses...
 
-Invest in a small business (could be run by a friend or relative). Take personal interest and try to help them with sales, hiring etc. It could be an art studio or a cycle workshop or even a flower shop. It is important to know the business and economics of things around you. 
+Invest in a small business (could be run by a friend or relative). Take personal interest and try to help them with sales, hiring etc. It could be an art studio or a cycle workshop or even a flower shop. It is important to know the business and economics of things around you.
 
 #### Prithviraj Udaya, Entrepreneur
 
@@ -127,13 +127,13 @@ Now I have a confidence that I can somehow make money. This is a really importan
 
 #### Peter Hartlen, Biz development guy
 
-The most important thing to know is that time is really the most scarce of all resources and to treat it that way.  Remember the proverbial deathbed advice of successful men... I wish I spent more time more time with friends and family than in the office. 
+The most important thing to know is that time is really the most scarce of all resources and to treat it that way.  Remember the proverbial deathbed advice of successful men... I wish I spent more time more time with friends and family than in the office.
 
-So use your time well and don't waste it.  Try and find ways to multitask while doing things that you have to do that don't require attention.  If you have to wash the dishes... while you are doing that listen to an audiobook and learn something.  If you have to make a bunch of phonecalls.... take your phone and computer to the park and do it outside.  If you have to drive a long distance, spend the time on the phone with your family or old friends.  
+So use your time well and don't waste it.  Try and find ways to multitask while doing things that you have to do that don't require attention.  If you have to wash the dishes... while you are doing that listen to an audiobook and learn something.  If you have to make a bunch of phonecalls.... take your phone and computer to the park and do it outside.  If you have to drive a long distance, spend the time on the phone with your family or old friends.
 
-#### Prajakt Raut, Entrepreneur and entrepreneurship evangelist 
+#### Prajakt Raut, Entrepreneur and entrepreneurship evangelist
 
-If you are studying, learn to learn. Take up a course that excites you most. Something that pushes you to explore and learn new things. 
+If you are studying, learn to learn. Take up a course that excites you most. Something that pushes you to explore and learn new things.
 
 If you are working, or planning to work, take up a job that involves selling. Anything. But something that requires you to go into the field and sell. That experience is invaluable. Even when you fail to sale, you gain... because those failures make you battle-hardened to face challenges.
 
@@ -178,7 +178,7 @@ I listed this one last because...it's really not the most important aspect at th
 
 Make as few grounding decisions as possible (buying a house, marriage, etc...) and focus on option building  with expanded experiences (international travel, volunteer in places that are outside your routine, start meeting and getting to know people who are outside your usual circle of friends,....)  This not only makes your life much more fun and worthwhile - it also will give you so much more to think about, want to learn about -- not to get a better job/promotion, or to get a date...but to give your entire life more depth and help make the world more comfortable for you to live in and really enjoy. The more you connect outside your small, safe world - the less you live with fear and the more you live with wonder.
 
-Ask people questions especially those you respect and listen. Reading books/blogs/online articles are great exercises to learn about various topics. Joining organizations such as an alumni club, ToastMasters, professional organizations, volunteer groups, religious organizations are other ways to learn and meet new people. Plus it helps one network professionally and one can also serve good causes with volunteer or religious groups. 
+Ask people questions especially those you respect and listen. Reading books/blogs/online articles are great exercises to learn about various topics. Joining organizations such as an alumni club, ToastMasters, professional organizations, volunteer groups, religious organizations are other ways to learn and meet new people. Plus it helps one network professionally and one can also serve good causes with volunteer or religious groups.
 
 Friend up, not down.
 
@@ -188,27 +188,6 @@ Make as many "mistakes" as you can. They will be forgiven at 22. They will not b
 
 start a business, make your own money the worst thing you can do as a young adult is become reliant on a salary from someone else, you become permanently trapped in a "job" to maintain your lifestyle.
 
-no matter what your passion is find the absolute best people in that field and find a way to be around them. 
-if it's compsci, move to boston, if it's tech in general, get your ass in the valley, if it's really narrow, like "tech -> augmented reality", stalk the google-glass team. 
-if you are in good company all the little details like "blog daily, read voraciously, meditate weekly and learn-to-code" would come naturally. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+no matter what your passion is find the absolute best people in that field and find a way to be around them.
+if it's compsci, move to boston, if it's tech in general, get your ass in the valley, if it's really narrow, like "tech -> augmented reality", stalk the google-glass team.
+if you are in good company all the little details like "blog daily, read voraciously, meditate weekly and learn-to-code" would come naturally.

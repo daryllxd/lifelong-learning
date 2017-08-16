@@ -155,4 +155,67 @@
 #### Do not let the Internet control any more of your life than you choose.
 
 - We are not hired to be e-mail-responding robots.
-- If someone doesn't
+- After-hours, if you have a phone, excuse yourself, and set expectations if a call or important email will be arriving during a visit with someone.
+- Tell people that I don't check my email everyday, and if there is something urgent, I would appreciate a text at the number I have just for that purpose.
+- If on hiatus from social media, then broadcast that at the top of your profile or page.
+- "At the end of my life, when I look at how I spent my time, my contribution to the world, my body of work, will I be proud of that, or will I feel regret?"
+- The Internet is your tool. You can reclaim it and use it or not use it however you want.
+- You don't have to make it permanent—decide and post that you are on a 2-week or a month-long break. You will continue to exist. You may miss out on a few things, but they are very unlikely to be of essential importance to your life. And who knows what you will notice, achieve, and experience when you're using all of that brain space that's currently taken up with the ever-updating feed.
+
+### Theories of Grace
+
+- For me, grace is the always-present, never-ending love of God for all humans, for all creation. It’s God willing the best for us. The world now is too dangerous and too beautiful for anything but love.
+- When my daughter was born, I knew I would love this person and there was nothing she could do to change it. I can only look at her through her beauty and the potential of whom she was created to be. The rough edges and the meanness and the occasional cruelty are anomalies. It’s not her, it’s her wrestling with her demons.
+- *If I'm capable of loving a little bit like that, then I understand that when we sin, God isn't angry that we misbehaved. He’s heartbroken that we’re paralyzed and not fully dancing in the kingdom as we should be.*
+
+## Grace Under Fire
+
+- Life will throw every last thing it can at you, darlings, and I wish it wouldn't, but I promise it will. You don't get to choose what, when, or how the trouble looks, but you do get to choose who you are through these moments, tiny or enormous.
+- Challenges:
+  - Someone is being unkind.
+  - You must stand up for something you believe in.
+  - Things do not go the way you thought/wished/assumed/needed them to.
+  - You are caught in the middle of others' conflicts.
+  - Something is leaving your life, or you are leaving theirs.
+  - The center cannot hold.
+- *The less I understand why something is happening in the moment, the more understanding and growth will ultimately come to me.*
+- We don't know what our capacities are until they are tested, and learning how to approach difficult situations with a sense of calm is an invaluable skill.
+
+### Someone is Being Unpleasant, Unkind, or Unfair
+
+- "I think the vast majority of rude or offensive behavior is unintentional; it almost always comes from lack of awareness."
+- Try to give others the benefit of the doubt, because you don't know where they're coming from.
+- "I'm sorry you're upset. Is there something I can do to help you?", then "Sorry, I wish there was something I could do to help."
+- Co-workers: "Is there something I can do to improve the relationship between us?"
+- Cruel betrayal: Make sure they realize how much they have hurt you and give them a chance to explain themselves. "I don't want anything to do with you, and I'm sure you know why." "Why did you do that?"
+- Forgiveness: You can forgive them or not, and resume, not resume, or resume relations at the moment.
+
+### You Must Stand Up For Yourself
+
+- Most people don't have to play roles in your life, and if what they're saying isn't useful to you, then you don't have to listen. Nor do you have to educate them.
+- Boss: "I don't have much to say about XYZ and would prefer to chat about anything but XYZ." "I know we have different views on this."
+
+### Things Are Not Going Your Way
+
+- The worst: "The gulf between How You Think Life Should Be versus How It Actually Is."
+- Let go of expectations you have that you know will never be met.
+- "What's the worst thing that can happen? So what? You'll survive."
+- The Ring Theory:
+  - One person is most affected by Susan's cancer, and that's Susan, and the next ones are her family and friends.
+  - The person in the center can complain to anyone, and the more you are affected, the more you can complain.
+  - This is why you cannot just say that you support so and so if you are not a member of the marginalized group.
+
+#### Big Problems
+
+- What is not up to you:
+  - Whether you meet the right person
+  - Whether you can have biological children
+  - When people die
+  - Whether another person behaves the way you wish they would
+- What i up to you:
+  - Whether you spend a large portion of your time lamenting what you do not yet have instead of working to make a life that you enjoy and is full of loving people
+  - Whether you give yourself time to grieve, whether that loss is of a person or the idea of what you thought your life was going to be
+  - Whether you accept and allow someone to be cruel to you on an ongoing basis
+  - Whether you accept without judgment anything you may feel
+  - Whether you choose to stay in the present rather than fly backward into regret or forward into fear
+  - Making the conscious choice to turn your attention toward gratitude and grace.
