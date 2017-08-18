@@ -68,3 +68,19 @@
 - Day-to-Day Recovery: Compression apparel. Little lab data exists, but anecdotal evidence is a lot. Recovery footwear. Recovery nutrition: sports nutritionists recommend ingesting 200-300 calories. Or energy bar, sports drink.
 -Recovery weeks: Training schedules are in four week blocks. These all conclude with a recovery week. 20-30 percent reduction in volume from the highest weekly total.
 - Recovery block: 2-4 week periods of detraining. 2 per year, followed by 5 month cycle of training and racing. Each recovery period begins with no running whatsoever followed by two weeks of unfocused easy running.
+
+## How to Optimize Your Recovery by Hydrating Properly
+[Reference](https://www.trainingpeaks.com/blog/optimize-recovery-hydrating-properly/)
+
+- Recovery from exercise has a lot to do with homeostasis.
+- When you lose fluid to the environment (through breathing, peeing etc.), your blood volume starts to drop. What happens: It makes your kidneys filter more of the water it processes back into the bloodstream, causing you to pee less, and it also makes you feel thirsty, so that you drink to top up your blood volume and to dilute the sodium levels in your blood plasma back down to normal.
+- During a normal day when you don't exercise, the mount of water you lose through breathing can be as low as 1.6L per day.
+- As soon as you exercise, this becomes around 1.2L per hour and it can reach as high as 3.5L for fit athletes working hard in hot climates.
+- This is why competing in a Ironman or an ultramarathon can result in massive accumulated sweat losses.
+- The average daily fluid requirement to maintain a healthy hydration status in the players was 12.2L.
+- Sodium loss also.
+- When your sweat losses have been fairly low and when you don't need to perform again for a while, simply drinking and eating normally is usually enough to replace all of the fluids and electrolytes you lost.
+- High sweat losses: you need to drink around 1.5 times more fluid than you have lost, and you need to make sure there's plenty of sodium  either in or with the liquid.
+- Your drinks need lots of sodium in them to prevent your blood sodium level from dropping too low, which according to the negative feedback loop, would cause your kidneys to significantly ramp up urine production, negating the effects of putting the fluid back in the first place.
+- If you cramp up during the night after an intense workout, you can drink fluids containing sodium.
+- We prefer to eat saltier soup in the hours after sweaty exercise.
