@@ -16,3 +16,10 @@ Before cooking the chicken, make sure to rinse off the excess brine with fresh w
 8. Salt-and-sugar rub. Blend 1/3 cup of salt and 1/3 cup brown sugar with some seasonings (tablespoon of ground black pepper, paprika, and chili powder). In a large resealable plastic bag, rub the entire mixture evenly over the chicken, seal up bag, and refrigerate for 4 to 8 hours. When ready to cook, rinse the chicken breasts thoroughly to remove the salt-and-sugar rub and dry the breasts with paper towels.
 9. Leftovers. When reheating, cover the dish to retain moisture and flavor. Idea: Wrap sliced chicken breast in pita bread with fresh green peppers, onions, lettuce, pickles, mustard, and ground pepper.
 10. Spice it up. For Italian chicken recipes, use fresh minced garlic, dried oregano, dried basil, and dried thyme. For Indian-style chicken, you may want to try mixing coriander, turmeric, cardamom, and bay leaves into a marinate. For Thai chicken, try adding some cilantro, lime juice, ginger, coconut milk, and lemongrass to the recipe. And for that Tex-Mex flavor, try adding cumin, sage, minced fresh chili peppers, or chili powder to chicken.
+
+## Why You Should Pound Chicken Breasts Before Cooking Them
+[Reference](http://skillet.lifehacker.com/why-you-should-pound-chicken-breasts-before-cooking-the-1797903121)
+
+- Pounding chicken: meat with uniform thickness is going to cook much more evenly, and a thinner piece of meat is going to cook much more quickly.
+- You can also marinade after you do the pounding.
+- 3/4 inch thickness.
