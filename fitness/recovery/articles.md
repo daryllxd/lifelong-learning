@@ -84,3 +84,24 @@
 - Your drinks need lots of sodium in them to prevent your blood sodium level from dropping too low, which according to the negative feedback loop, would cause your kidneys to significantly ramp up urine production, negating the effects of putting the fluid back in the first place.
 - If you cramp up during the night after an intense workout, you can drink fluids containing sodium.
 - We prefer to eat saltier soup in the hours after sweaty exercise.
+
+## The Effects of Taking Sugar Out of Your Diet
+[Reference](https://www.trainingpeaks.com/blog/the-effects-of-taking-sugar-out-of-your-diet/)
+[Reference](https://www.trainingpeaks.com/blog/the-effects-of-taking-sugar-out-of-your-diet-part-2/)
+
+- Our hypothesis is that endurance athletes, like us, who train 10 to 15 hours per week can see benefits in both performance as well as blood work by significantly reducing carb and sugar intake.
+- Blood work:
+  - Fasting blood sugar level
+  - Triglycerides
+  - HDL and LDL cholesterol
+  - HemoglobinA1c (an estimate of blood sugar levels over the past two to three months)
+  - Fasting insulin levels
+  - TSH (as a screening test for hormonal stress from training, diet, lifestyle, etc.)
+- 45 days later
+  - No negative effects.
+  - "Don't lose weight", so I added healthy fats as opposed to additional protein or carbohydrates.
+  - The first 7-10 days without sugar were difficult: foggy head, sluggish, general malaise.
+- Fat max measures the amount of fat an athlete is burning per minute at a certain intensity zone. The greatest amount of fat burned at an intensity is the athlete's fat max, and this is the training zone where they are the most efficient.
+- This is the zone they will train in and race at in order to maximize their utilization of fat as their fuel.
+- Despite the loss of sugar, blood sugar levels remained constant and healthy.
+
