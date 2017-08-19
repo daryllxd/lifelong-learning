@@ -219,3 +219,96 @@
   - Whether you accept without judgment anything you may feel
   - Whether you choose to stay in the present rather than fly backward into regret or forward into fear
   - Making the conscious choice to turn your attention toward gratitude and grace.
+
+- "I know you're really angry, but I love Susan too, so maybe I'm not the best person to talk about this."
+- Whatever happened happened between them, and you will never get an entirely objective account. Nor would it matter even if you had one.
+- *The more emotion is involved, the further we move from the story of what actually happened and more into the narrative of our hearts.*
+- What people need is "I get it. I hear you.", and even if you haven't been through something, conveying that you have a sense of what they're going through and giving empathy. That doesn't mean you have to agree with them.
+- *"I have a friend who was in prison for a long time for a violent felony. And he said to me, 'Imagine if, for the rest of your life, everyone's perception of you and every detail boiled down to the one worst day of your life, the most horrible moment, the worst thing you ever did, and that's it, that’s all you are.'"*
+
+#### Negotiation
+
+- *Remember the definition.* Discussion aimed at reaching an agreement.
+- *Know your goals.* Know your must haves, like to haves, and deal breakers, that way, you can be focused on what you want instead of being anchored by their initial offer.
+- *Do your research.* Salary calculators.
+- *Empathy.* Frame the request in terms of how it benefits your counterpart and it will be more likely that you get what you want and it will make them feel that you are considering their perspective.
+- *Practice.*
+- *Know your counterpart.* Do they like numbers or narratives?
+- *Get comfortable with silence.* Make your ask and then drop the mic.
+- *Listen.*
+- *Ask questions.* "Did I understand you correctly that ...?"
+- *Follow up.* Don't underestimate the power of a quick thank-you note.
+
+### The Center Cannot Hold
+
+- Also remember that the only thing you ultimately have control over in this crazy world is yourself, and no matter how bad things get, you will serve yourself best by being gentle, kind, and patient—with those around you and most of all with yourself.
+- We want to rely on an institution or other people to fix our problems, and we assume they can. When I realized the medical world didn't know how to fix his problem, it felt like everything was crumbling underneath me.
+- The combination of being able to temper your own anxiety and fear and being willing to ask for help is a pretty good plan.
+- There's a defensiveness that causes us not to ask for help, because we don't want to be seen as vulnerable. But one of the most beautiful things you can do is to allow someone to help you. Before it happened, I valued my privacy and wanted to handle it on my own, but once I realized I was in over my head, I was pretty open about it.
+- Argh.
+  - Acceptance: Accept where you are and what’s ahead of you, whatever it is.
+  - Resilience: You choose to be resilient, you choose to show your strengths.
+  - Gratitude: For people around you, for everything.
+  - Happiness: Happiness is a choice.
+- "When my kids were killed, I didn't want to live. I just wanted to die. And my sister came and spent a week or so with me and she was sitting in my house, and I wasn't talking, wasn't doing nothing, and she said, "What's the matter with you?" and I said, "I'm waiting to die. The Lord took my kids and now he can take me; I'll wait."
+- If you do all you can do, I don't care what you've got to go through, you can stand it. You might not like it, but you can get through it, if you're doing your part.
+
+## How To Be Gracious To Yourself
+
+- Graciousness is about kindness and generosity to humans; since you are a human, you should therefore reap the benefits of being treated well by yourself and be able to accept the kindness offered to you by others without trying to talk them out of it. True graciousness begins with feeling at home in your own skin.
+- It's very hard to feel comfortable in a room when somebody is berating your every gesture, and when that somebody is living in your head, it can feel like there's not place in the world to relax and experience a bit of peace.
+- At a party, the host sets the tone. And since you are the host of your own life, everyone in it is going to have a lot more fun if you can relax a little bit and enjoy yourself.
+- In order to make others feel comfortable and loved, you must feel comfortable and loved. This is what separates graciousness from compulsive people-pleasing, which in the end, almost never works and is a swift path to madness.
+- *If you aren't going to say the types of things you say to yourself to your friend, then you are probably self-abusing yourself.*
+- Treat yourself like your soulmate. You will always be with yourself. You are your own Wilson.
+- "My students are always talking about how, when they started looking at the way their mind works and what their thoughts are, how much of it is criticisms of themselves."
+- Mindfulness: Sitting quietly, and observing your thoughts without judgment or criticism. Mindfulness really is just listening to your own brain. Then do it again and again, until your brain quiets down a little bit and you start being able to let the negative thoughts pass you by rather than getting stuck in a spiral.
+- When you find yourself ABSOLUTELY NEEDING RIGHT NOW to correct something about yourself, ask yourself: "What about this bothers me? Why is this a problem? Am I feeling unnecessary guilt and shame? Does this actually make sense and is this actually real? See where this might be coming from.
+- "I treat myself like a sensitive friend--fragile, emotional, and perhaps sometimes disturbed best friend you've had. Maybe she's been through a lot, and maybe she continues to go through a lot, but you really, really like her."
+- If it's not helpful, I don't say it, or at least I don't focus on it. "No, if you're not going to learn from this, then move on. Or if you are going to learn from it, do that, then move on."
+- Dwelling on the Past: You are not a magician, so don't. We cannot change it, and what do we accomplish by dwelling? Right.
+- Does hating ourselves for things we did in the past sound productive? Right. This is why running from self-abusive thoughts is what one should do.
+- It's like holding to a dead squirrel. Bury the squirrel. Put down that dirty plate.
+- There is nothing wrong with technical thinking (things like how to bake a cake, how to solve a physics problem), but opinions, judgments, memories, dreaming about the future, they have no essential reality.
+- Example, when cleaning the oven, why not just clean the oven instead of thinking of stupid internal monologues.
+- Practice labelling your thoughts as a way of understanding what your internal monologue actually consists of. "I am having a thought about the past. I am having a thought about being angry. I am having a thought about myself." This helps you realize how stupid those inner thoughts are.
+- What is the story you are telling yourself?
+- If I'm doubting myself or my desirability to men because I'm a single gal and I'm looking for a lifelong partner--I reflect back on the story of my life.
+- "I've had wonderful relationships over the years that did not end in marriage or partnership because I hose that." I try to focus on what I know to be true while still being humble and reasonable.
+- *Viewing yourself as a person worthy of dignity and respect makes it easier to be your highest self.* It will allow you to stand up for yourself in ways that don't unnecessarily hurt others. It will allow you to go to bed at night knowing that you've acted and communicated in accordance with your values. It gives you the ability to step away from yourself for a moment, to know that while yes, you feel sad right now, that's okay, you won't feel sad forever.
+
+### Saboteurs
+
+- "I'm going to take action and apologize right now. Doing those things now. Done. I've done what I can do, and we need to move on, because the rest of the world has."
+- "Why does THAT person appear to have something that you don't have?" "Cool. Let's pause and remember that comparison is the thief of joy. Instead of throwing my emotional energy into that sinkhole, I will turn my thoughts to five things that I'm grateful to have in my life."
+- (Whatever nasty thought about a group of people you don't belong to that embarrasses you as you think it.) "Thanks, but I have enough of a job worrying about myself. I'll let this group pass their way since it's none of my business."
+- (Random stupid thoughts.) "Noted."
+- (Self-absorbed thoughts.) "That's a thought about me, all right! Now, back to living in the actual world.
+- "If only this other person..." "Well you can't control other people. Work on yourself. That's a full-time job, okay?"
+- "WHY DID YOU DO THAT?" "Uh this feels like a little too much punishment for so and so. Whatever."
+- "I think the art of grace, for me, comes not in doing those things that come naturally but in those situations where you find yourself tested and stressed and conflicted and you're still doing the right thing and still exhibiting grace."
+- To me, service to others is the rent you pay for living on earth, and you have a fundamental obligation to give back, especially those of us who have been afforded the opportunity to be in a situation where we can advocate for ourselves and advocate for others.
+- *Make a difference to those around you by changing the game.* Don't be content doing what has always been done. *Think of how you can make it better, how you can make it more efficient, how you can leave it better than it was when you found it.* Everything that I do, even in my personal life, I think, How do I leave this better than when I found it? Is there any tangible evidence of me having been here? What can I point to that I can say I changed the results of the situation?
+- If you are gracious and kind and polite, people will help you. If you are rude and obnoxious and overbearing, why would anyone want to help you do anything? You can catch a lot more flies with honey than vinegar. You can be true to who you are.
+- "I always dress nice because I don't want there to be any confusion on who is in charge when I walk in the building."
+
+## Gracious In, Around, & Generally Regarding the Home
+
+- I love walking into my house, because it's mine and because I've learned a lot of valuable lessons.
+- Your house is yours, and you get to control this space. You probably love it because it:
+  - It keeps you warm and dry!
+  - It contains almost everything you own and love!
+  - People whom you don't care for are not allowed to come inside!
+  - You can waft around naked, say stupid things, and not get judged.
+- For every object in the house:
+   - "Do I love this?"
+   - "Why do I let this remain in my personal space?"
+   - "Where does this item live?"
+- People should match their homes.
+- When someone walks in the door, what will they see? If they're going into the living room, what would their eyes land on? And then I take that little spot and make sure there is something beautiful there for them.
+- Having flowers at home are awesome. Plant them in the garden and bring them inside.
+- You want the seating to be comfortable.
+- The things on the wall don't match up perfectly, but all of them have a story. These are the places and the people I've loved, they remind me who I am. They also tell my guests something about me, create an opportunity for starting a conversation, and set a tone for what kind of home a traveler has just meandered into.
+- Gracious home: Welcoming, cared for, tidy, comfortable, lived in, full of interesting things.
+- Lighting/dimmers: With lamps, you can have exactly as much light as you want, where you want it.
+- The true aces up your sleeve for smells: expensive candles.
