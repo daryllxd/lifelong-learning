@@ -39,7 +39,7 @@ I think the answer to this problem, in the case of software, is a concept known 
 
 When I say that the answer is for hackers to have day jobs, and work on beautiful software on the side, I'm not proposing this as a new idea. This is what open source hacking is all about. What I'm saying is that open source is probably the right model, because it has been independently confirmed by all the other makers.
 
-One thing we can learn, or at least confirm, from the example of painting is how to learn to hack. You learn to paint mostly by doing it. Ditto for hacking. Most hackers don't learn to hack by taking college courses in programming. They learn by writing programs of their own at age thirteen. Even in college classes, you learn to hack mostly by hacking. 
+One thing we can learn, or at least confirm, from the example of painting is how to learn to hack. You learn to paint mostly by doing it. Ditto for hacking. Most hackers don't learn to hack by taking college courses in programming. They learn by writing programs of their own at age thirteen. Even in college classes, you learn to hack mostly by hacking.
 
 Scientists don't learn science by doing it, but by doing labs and problem sets. Scientists start out doing work that's perfect, in the sense that they're just trying to reproduce work someone else has already done for them. Eventually, they get to the point where they can do original work. Whereas hackers, from the start, are doing original work; it's just very bad. So hackers start original, and get good, and scientists start good, and get original.
 
@@ -59,7 +59,7 @@ The right way to collaborate, I think, is to divide projects into sharply define
 
 Like painting, most software is intended for a human audience. And so hackers, like painters, must have empathy to do really great work. You have to be able to see things from the user's point of view. Empathy doesn't necessarily mean being self-sacrificing. Far from it. Most makers make things for a human audience. And to engage an audience you have to understand what they need. Nearly all the greatest paintings are paintings of people, for example, because people are what people are interested in.
 
-Empathy is probably the single most important difference between a good hacker and a great one. Some hackers are quite smart, but practically solipsists when it comes to empathy. It's hard for such people to design great software, because they can't see things from the user's point of view. 
+Empathy is probably the single most important difference between a good hacker and a great one. Some hackers are quite smart, but practically solipsists when it comes to empathy. It's hard for such people to design great software, because they can't see things from the user's point of view.
 
 Part of what software has to do is explain itself. So to write good software you have to understand how little users understand. They're going to walk up to the software with no preparation, and it had better do what they guess it will, because they're not going to read the manual.
 
@@ -81,7 +81,7 @@ If everything you believe is something you're supposed to believe, could that po
 
 The other alternative would be that you independently considered every question and came up with the exact same answers that are now considered acceptable. That seems unlikely, because you'd also have to make the same mistakes. Mapmakers deliberately put slight mistakes in their maps so they can tell when someone copies them. If another map has the same mistake, that's very convincing evidence.
 
-Like every other era in history, our moral map almost certainly contains mistakes. And anyone who makes the same mistakes probably didn't do it by accident. 
+Like every other era in history, our moral map almost certainly contains mistakes. And anyone who makes the same mistakes probably didn't do it by accident.
 
 #### 3.2. Trouble
 
@@ -109,7 +109,7 @@ If we could look into the future it would be obvious which of our ideas they'd l
 
 We may imagine that we are a great deal smarter and more virtuous than past generations, but the more history you read, the less likely this seems. People in past times were much like us. Not heroes, not barbarians. Whatever their ideas were, they were ideas reasonable people could believe.
 
-You don't have to look into the past to find big differences. In our own time, different societies have wildly varying ideas of what's ok and what isn't. So you can try diffing other cultures' ideas against ours as well. 
+You don't have to look into the past to find big differences. In our own time, different societies have wildly varying ideas of what's ok and what isn't. So you can try diffing other cultures' ideas against ours as well.
 
 You might find contradictory taboos. In one culture it might seem shocking to think x, while in another it was shocking not to. But I think usually the shock is on one side. In one culture x is ok, and in another it's considered shocking. My hypothesis is that the side that's shocked is most likely to be the mistaken one.
 
@@ -135,7 +135,7 @@ Moral fashions don't seem to be created the way ordinary fashions are. Ordinary 
 
 The prohibition will be strongest when the group is nervous. The irony of Galileo's situation was that he got in trouble for repeating Copernicus's ideas. Copernicus himself didn't. In fact, Copernicus was a canon of a cathedral, and dedicated his book to the pope. But by Galileo's time the church was in the throes of the Counter- Reformation and was much more worried about unorthodox ideas.
 
-To launch a taboo, a group has to be poised halfway between weakness and power. A confident group doesn't need taboos to protect it. It's not considered improper to make disparaging remarks about Americans, or the English. 
+To launch a taboo, a group has to be poised halfway between weakness and power. A confident group doesn't need taboos to protect it. It's not considered improper to make disparaging remarks about Americans, or the English.
 
 I suspect the biggest source of moral taboos will turn out to be power struggles in which one side barely has the upper hand. That's where you'll find a group powerful enough to enforce taboos, but weak enough to need them.
 
@@ -149,7 +149,7 @@ Some would ask, why would one want to do this? Why deliberately go poking around
 
 I do it, first of all, for the same reason I did look under rocks as a kid: plain curiosity.
 
-Second, I do it because I don't like the idea of being mistaken. 
+Second, I do it because I don't like the idea of being mistaken.
 
 Third, I do it because it's good for the brain. To do good work you need a brain that can go anywhere.
 
@@ -161,9 +161,9 @@ Agood scientist, in other words, does not merely ignore conventional wisdom, but
 
 Whatever the reason, there seems a clear correlation between intelligence and willingness to consider shocking ideas. This isn't just because smart people actively work to find holes in conventional thinking. Conventions also have less hold over them to start with. You can see that in the way they dress.
 
-It's not only in the sciences that heresy pays off. In any competitive field, you can win big by seeing things that others daren't. And in every field there are probably heresies few dare utter. Within the US car industry there is a lot of hand- wringing about declining market share. Yet the cause is so obvious that any observant outsider could explain it in a second: they make bad cars. 
+It's not only in the sciences that heresy pays off. In any competitive field, you can win big by seeing things that others daren't. And in every field there are probably heresies few dare utter. Within the US car industry there is a lot of hand- wringing about declining market share. Yet the cause is so obvious that any observant outsider could explain it in a second: they make bad cars.
 
-Training yourself to think unthinkable thoughts has advantages beyond the thoughts themselves. It's like stretching. When you stretch before running, you put your body into positions much more extreme than any it will assume during the run. 
+Training yourself to think unthinkable thoughts has advantages beyond the thoughts themselves. It's like stretching. When you stretch before running, you put your body into positions much more extreme than any it will assume during the run.
 
 #### 3.8. Pensieri Stretti
 
@@ -181,7 +181,7 @@ The trouble with keeping your thoughts secret, though, is that you lose the adva
 
 #### 3.9. Viso Sciolto?
 
-Zealots will try to draw you out, but you don't have to answer them. If they try to force you to treat a question on their terms by asking "are you with us or against us?" you can always just answer "neither." Better still, answer "I haven't decided." 
+Zealots will try to draw you out, but you don't have to answer them. If they try to force you to treat a question on their terms by asking "are you with us or against us?" you can always just answer "neither." Better still, answer "I haven't decided."
 
 Best of all, probably, is humor. Zealots, whatever their cause, invariably lack a sense of humor. They can't reply in kind to jokes.
 
@@ -191,7 +191,7 @@ A Dutch friend says I should use Holland as an example of a tolerant society. It
 
 When people are bad at math, they know it, because they get the wrong answers on tests. But when people are bad at open mindedness, they don't know it. In fact they tend to think the opposite. Remember, it's the nature of fashion to be invisible. It wouldn't work otherwise. Fashion doesn't seem like fashion to someone in the grip of it. It just seems like the right thing to do. It's only by looking from a distance that we see oscillations in people's idea of the right thing to do, and can identify them as fashions.
 
-Labels like that are probably the biggest external clue. If a statement is false, that's the worst thing you can say about it. You don't need to say that it's heretical. And if it isn't false, it shouldn't be suppressed. 
+Labels like that are probably the biggest external clue. If a statement is false, that's the worst thing you can say about it. You don't need to say that it's heretical. And if it isn't false, it shouldn't be suppressed.
 
 It's not just the mob you need to learn to watch from a distance. You need to be able to watch your own thoughts from a distance. That's not a radical idea, by the way; it's the main difference between children and adults. When a child gets angry because he's tired, he doesn't know what's happening. An adult can distance himself enough from
 the situation to say "never mind, I'm just tired."
@@ -220,7 +220,7 @@ Why are programmers so violently opposed to these laws? Hackers are unruly. That
 
 It is greatly to America's advantage that it is a congenial atmosphere for the right sort of unruliness—that it is a home not just for the smart, but for smart- alecks. And hackers are invariably smart- alecks. If we had a national holiday, it would be April 1st. It says a great deal about our work that we use the same word for a brilliant or a horribly cheesy solution. It's odd that people think of programming as precise and methodical. Computers are precise and methodical. Hacking is something you do with a gleeful laugh.
 
-Smart- alecks have to develop a keen sense of how much they can get away with. And lately hackers have sensed a change in the atmosphere. Lately hackerliness seems rather frowned upon. 
+Smart- alecks have to develop a keen sense of how much they can get away with. And lately hackers have sensed a change in the atmosphere. Lately hackerliness seems rather frowned upon.
 
 I think a society in which people can do and say what they want will also tend to be one in which the most efficient solutions win, rather than those sponsored by the most influential people. Authoritarian countries become corrupt; corrupt countries become poor; and poor countries are weak. Unlike high tax rates, you can't repeal totalitarianism if it turns out to be a mistake.
 
@@ -241,7 +241,7 @@ I think a lot of the next generation of software will be written on this model. 
 - Incremental changes. At Viaweb the new versions were only done for PR purposes. Press thinks in terms of version numbers.
 - Functional programming to avoid bugs and side effects.
 - Cx support in Viaweb: Call the devs themselves. Support was free there. (They would leave board meetings to fix bugs.) Users liked it. Cx support liked it because they can help people. Programmers liked it because they can reproduce bugs. Better relationship between support and programmers.
-- Better for morale that you see effects immediately. Ideas lead to more ideas anyway. You do things on what you think will succeed. 
+- Better for morale that you see effects immediately. Ideas lead to more ideas anyway. You do things on what you think will succeed.
 - Code has their own owner.
 - Less programmers, so faster. But the devs have to be sysadmins too.
 - You'll be closer to the users. You can study each click made. Nada to benchmarks, you have real results.
@@ -249,12 +249,12 @@ I think a lot of the next generation of software will be written on this model. 
 - Ex: When users are nearly finished, remind them not to click on the Back button. Completion rose immediately from 60% to 90%.
 - Recurring revenue stream for money. Gradual improvements means ther will never be a new model per se. And there's no piracy.
 - Web apps are easier to buy, just enter CC.
-- Honestly it's better to let the web app guys secure the app rather than inhouse esp. if you're not a dev company. A big company that uses web- based applications is to that extent outsourcing IT. 
+- Honestly it's better to let the web app guys secure the app rather than inhouse esp. if you're not a dev company. A big company that uses web- based applications is to that extent outsourcing IT.
 
 (Some amount of piracy is to the advantage of software companies. If some user would never have bought your software at any price, you haven't lost anything if he uses a pirated copy.)
 
 #### Why back to server
-- Desktops took over because they had better software than mainframes. 
+- Desktops took over because they had better software than mainframes.
 - Since startups are super fragile, an obstacle such as "writing mainframe software" is too much. Easier to write on the desktop.
 - Computers are so cheap now that desktops can be used as a server.
 - Now, you have to write desktop software on MS's own terms.
@@ -278,7 +278,7 @@ Desktop software forces users to become system administrators. Web-based softwar
 
 One thing that might deter you from writing web- based applications is the lameness of web pages as a UI. What matters, though, is that web pages are just good enough.
 
-Web pages weren't designed to be a UI for applications, but they're just good enough. And for a significant number of users, software you can use from any browser will be enough of a win in itself to outweigh any awkwardness in the UI. 
+Web pages weren't designed to be a UI for applications, but they're just good enough. And for a significant number of users, software you can use from any browser will be enough of a win in itself to outweigh any awkwardness in the UI.
 
 Of course, server- based applications don't have to be web based. You could have some other kind of client. It would be very convenient if you could assume that everyone would install your client— so convenient that you could easily convince yourself that they all would. But if they don't, you're hosed.
 
@@ -292,7 +292,7 @@ If you're a hacker who has thought of one day starting a startup, there are prob
 
 *There are only two things you have to know about business: build something users love, and make more than you spend. If you get these two right, you'll be ahead of most startups. You can figure out the rest as you go.*
 
-You may not at first make more than you spend, but as long as the gap is closing fast enough you'll be ok. If you start out under funded, it will at least encourage a habit of frugality. The less you spend, the easier it is to make more than you spend. 
+You may not at first make more than you spend, but as long as the gap is closing fast enough you'll be ok. If you start out under funded, it will at least encourage a habit of frugality. The less you spend, the easier it is to make more than you spend.
 
 As for building something users love, here are some general tips. Start by making something clean and simple that you would want to use yourself. Get a version 1.0 out fast, then continue to improve the software, listening closely to users as you do. The customer is always right, but different customers are right about different things; the least sophisticated users show you what you need to simplify and clarify, and the most sophisticated tell you what features you need to add. The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices. Don't get complacent if your competitors' software is lame; the standard to compare your software to is what it could be, not what your current competitors happen to have. Use your software yourself, all the time. Viaweb was supposed to be an online store builder, but we used it to make our own site too. Don't listen to marketing people or designers or product managers just because of their job titles. If they have good ideas, use them, but it's up to you to decide; software has to be designed by hackers who understand design, not designers who know a little about software. If you can't design software as well as implement it, don't start a startup.
 
@@ -300,7 +300,7 @@ What you're afraid of is not presumably groups of hackers like you, but actual c
 
 ## Chapter 6. How to Make Wealth
 
-If you wanted to get rich, how would you do it? I think your best bet would be to start or join a startup. That's been a reliable way to get rich for hundreds of years. 
+If you wanted to get rich, how would you do it? I think your best bet would be to start or join a startup. That's been a reliable way to get rich for hundreds of years.
 
 Startups usually involve technology, so much so that the phrase "high-tech startup" is almost redundant. A startup is a small company that takes on a hard technical problem.
 
@@ -324,11 +324,11 @@ The advantage of creating wealth, as a way to get rich, is not just that it's mo
 
 #### 6.3. Money Is Not Wealth
 
-Wealth is the fundamental thing. Wealth is stuff we want: food, clothes, houses, cars, gadgets, travel to interesting places, and so on. You can have wealth without having money. 
+Wealth is the fundamental thing. Wealth is stuff we want: food, clothes, houses, cars, gadgets, travel to interesting places, and so on. You can have wealth without having money.
 
 Wealth is what you want, not money. But if wealth is the important thing, why does everyone talk about making money? It is a kind of shorthand: money is a way of moving wealth, and in practice they are usually interchangeable.
 
-The advantage of a medium of exchange is that it makes trade work. The disadvantage is that it tends to obscure what trade really means. People think that what a business does is make money. But money is just the intermediate stage—just a shorthand—for whatever people want. What most businesses really do is make wealth. They do something people want. 
+The advantage of a medium of exchange is that it makes trade work. The disadvantage is that it tends to obscure what trade really means. People think that what a business does is make money. But money is just the intermediate stage—just a shorthand—for whatever people want. What most businesses really do is make wealth. They do something people want.
 
 #### 6.4. The Pie Fallacy
 
@@ -394,7 +394,7 @@ Starting or joining a startup is thus as close as most people can get to saying 
 
 Startups offer anyone a way to be in a situation with measurement and leverage. They allow measurement because they're small, and they offer leverage because they make money by inventing new technology.
 
-What is technology? It's technique . It's the way we all do things. And when you discover a new way to do things, its value is multiplied by all the people who use it. 
+What is technology? It's technique . It's the way we all do things. And when you discover a new way to do things, its value is multiplied by all the people who use it.
 
 That's the difference between a startup and a restaurant or a barber shop. You fry eggs or cut hair one customer at a time. Whereas if you solve a technical problem that a lot of people care about, you help everyone who uses your solution. That's leverage.
 
@@ -402,23 +402,23 @@ If you look at history, it seems that most people who got rich by creating wealt
 
 Fortunately there is a natural fit between smallness and solving hard problems. The leading edge of technology moves fast. Technology that's valuable today could be worthless in a couple years. Small companies are more at home in this world, because they don't have layers of bureaucracy to slow them down.
 
-Big companies can develop technology. They just can't do it quickly. Their size makes them slow and prevents them from rewarding employees for the extraordinary effort required. 
+Big companies can develop technology. They just can't do it quickly. Their size makes them slow and prevents them from rewarding employees for the extraordinary effort required.
 
 It's obvious that biotech or software startups exist to solve hard technical problems, but I think it will also be found to be true in businesses that don't seem to be about technology. McDonald's, for example, grew big by designing a system, the McDonald's franchise, that could then be reproduced at will all over the face of the earth. A McDonald's franchise is controlled by rules so precise that it is practically a piece of software. Write once, run everywhere. Ditto for Wal-Mart. Sam Walton got rich not by being a retailer, but by designing a new kind of store.
 
-we deliberately sought hard problems. If there were two features we could add to our software, both equally valuable in proportion to their difficulty, we'd always take the harder one. Not just because it was more valuable, but because it was harder . We delighted in forcing bigger, slower competitors to follow us over difficult ground. 
+we deliberately sought hard problems. If there were two features we could add to our software, both equally valuable in proportion to their difficulty, we'd always take the harder one. Not just because it was more valuable, but because it was harder . We delighted in forcing bigger, slower competitors to follow us over difficult ground.
 
 I can remember times when we were just exhausted after wrestling all day with some horrible technical problem. And I'd be delighted, because something that was hard for us would be impossible for our competitors.
 
 This is not just a good way to run a startup. It's what a startup is. Venture capitalists know about this and have a phrase for it: barriers to entry . If you go to a VC with a new idea and ask him to invest in it, one of the first things he'll ask is, how hard would this be for someone else to develop?
 
-One way to put up barriers to entry is through patents. But patents may not provide much protection. Competitors commonly find ways to work around a patent. And if they can't, they may simply violate it and invite you to sue them. A big company is not afraid to be sued; it's an everyday thing for them. hey'll make sure that suing them is expensive and takes a long time. 
+One way to put up barriers to entry is through patents. But patents may not provide much protection. Competitors commonly find ways to work around a patent. And if they can't, they may simply violate it and invite you to sue them. A big company is not afraid to be sued; it's an everyday thing for them. hey'll make sure that suing them is expensive and takes a long time.
 
 Here, as so often, the best defense is a good offense. If you can develop technology that's simply too hard for competitors to duplicate, you don't need to rely on other defenses.
 
 #### 6.11. The Catch(es)
 
-If it were simply a matter of working harder than an ordinary employee and getting paid proportionately, it would obviously be a good deal to start a startup. 
+If it were simply a matter of working harder than an ordinary employee and getting paid proportionately, it would obviously be a good deal to start a startup.
 
 Unfortunately there are a couple catches. One is that you can't choose the point on the curve that you want to inhabit. You can't decide, for example, that you'd like to work just two or three times as hard, and get paid that much more. When you're running a startup, your competitors decide how hard you work. And they pretty much all make the same decision: as hard as you possibly can.
 
@@ -444,7 +444,7 @@ In effect, acquirers assume the customers know who has the best technology. And 
 
 Now we can recognize this as something hackers already know to avoid: premature optimization. Get a version 1.0 out there as soon as you can. Until you have some users to measure, you're optimizing based on guesses.
 
-The ball you need to keep your eye on here is the underlying principle that wealth is what people want. If you plan to get rich by creating wealth, you have to know what people want. So few businesses really pay attention to making customers happy. 
+The ball you need to keep your eye on here is the underlying principle that wealth is what people want. If you plan to get rich by creating wealth, you have to know what people want. So few businesses really pay attention to making customers happy.
 
 #### 6.13. Wealth and Power
 
@@ -456,13 +456,13 @@ Remember what a startup is, economically: a way of saying, I want to work faster
 
 The problem with working slowly is not just that technical innovation happens slowly. It's that it tends not to happen at all. Developing new technology is a pain in the ass. Without the incentive of wealth, no one wants to do it. Engineers will work on sexy projects like fighter planes and moon rockets for ordinary salaries, but more mundane technologies like light bulbs or semiconductors have to be developed by entrepreneurs.
 
-Startups are not just something that happened in Silicon Valley in the last couple decades. Since it became possible to get rich by creating wealth, everyone who has done it has used essentially the same recipe: measurement and leverage, where measurement comes from working with a small group, and leverage from developing new techniques. 
+Startups are not just something that happened in Silicon Valley in the last couple decades. Since it became possible to get rich by creating wealth, everyone who has done it has used essentially the same recipe: measurement and leverage, where measurement comes from working with a small group, and leverage from developing new techniques.
 
 Once you're allowed to do that, people who want to get rich can do it by generating wealth instead of stealing it. The resulting technological growth translates not only into wealth but into military power.
 
 ## Chapter 7. Mind the Gap
 
-When people care enough about something to do it well, those who do it best tend to be far better than everyone else. 
+When people care enough about something to do it well, those who do it best tend to be far better than everyone else.
 
 Like chess or painting or writing novels, making money is a very specialized skill. But for some reason we treat this skill differently. No one complains when a few people surpass all the rest at playing chess or writing novels, but when a few people make more money than the rest, we get editorials saying this is wrong.
 
@@ -474,19 +474,19 @@ Because of the circumstances in which they encounter it, children tend to misund
 
 Because kids are unable to create wealth, whatever they have has to be given to them. And when wealth is something you're given, then of course it seems that it should be distributed equally. 2 As in most families it is. The kids see to that. "Unfair," they cry, when one sibling gets more than another.
 
-In the real world, you can't keep living off your parents. If you want something, you either have to make it, or do something of equivalent value for someone else, in order to get them to give you enough money to buy it. 
+In the real world, you can't keep living off your parents. If you want something, you either have to make it, or do something of equivalent value for someone else, in order to get them to give you enough money to buy it.
 
 The root cause of variation in income, as Occam's Razor implies, is the same as the root cause of variation in every other human skill.
 
 I have no trouble imagining that one person could be 100 times as productive as another. In ancient Rome the price of slaves varied by a factor of 50 depending on their skills. 4 And that's without considering motivation, or the extra leverage in productivity that you can get from modern technology.
 
-How much someone's work is worth is not a policy question. It's something the market already determines. 
+How much someone's work is worth is not a policy question. It's something the market already determines.
 
 "Are they really worth 100 of us?" editorialists ask. Depends on what you mean by worth. If you mean worth in the sense of what people will pay for their skills, the answer is yes, apparently.
 
-But are there not others whose incomes really do reflect the wealth they generate? Steve Jobs saved a company that was in a terminal decline. 
+But are there not others whose incomes really do reflect the wealth they generate? Steve Jobs saved a company that was in a terminal decline.
 
-It may seem unlikely in principle that one individual could really generate so much more wealth than another. The key to this mystery is to revisit that question, are they really worth 100 of us? 
+It may seem unlikely in principle that one individual could really generate so much more wealth than another. The key to this mystery is to revisit that question, are they really worth 100 of us?
 
 The appearance of word "unjust" here is the unmistakable spectral signature of the Daddy Model. When we talk about "unequal distribution of income," we should also ask, where does that income come from?
 
@@ -500,19 +500,19 @@ This started to change in Europe with the rise of the middle class. Now we think
 
 Starting in the tenth and eleventh centuries, petty nobles and former serfs banded together in towns that gradually became powerful enough to ignore the local feudal lords. But unlike serfs they had an incentive to create a lot of it.
 
-Once it became possible to get rich by creating wealth, society as a whole started to get richer very rapidly. Nearly everything we have was created by the middle class. Indeed, the other two classes have effectively disappeared in industrial societies, and their names been given to either end of the middle class. 
+Once it became possible to get rich by creating wealth, society as a whole started to get richer very rapidly. Nearly everything we have was created by the middle class. Indeed, the other two classes have effectively disappeared in industrial societies, and their names been given to either end of the middle class.
 
 But it was not till the Industrial Revolution that wealth creation definitively replaced corruption as the best way to get rich. In England, at least, corruption only became unfashionable (and in fact only started to be called "corruption") when there started to be other, faster ways to get rich.
 
 With the rise of the middle class, wealth stopped being a zero sum game. Jobs and Wozniak didn't have to make us poor to make themselves rich. Quite the opposite: they created things that made our lives materially richer. They had to, or we wouldn't have paid for them.
 
-But since for most of the world's history the main route to wealth was to steal it, we tend to be suspicious of rich people. 
+But since for most of the world's history the main route to wealth was to steal it, we tend to be suspicious of rich people.
 
-Only a few countries (by no coincidence, the richest ones) have reached this stage. In most, corruption still has the upper hand. In most, the fastest way to get wealth is by stealing it. 
+Only a few countries (by no coincidence, the richest ones) have reached this stage. In most, corruption still has the upper hand. In most, the fastest way to get wealth is by stealing it.
 
 #### 7.3. The Lever of Technology
 
-Will technology increase the gap between rich and poor? It will certainly increase the gap between the productive and the unproductive.  
+Will technology increase the gap between rich and poor? It will certainly increase the gap between the productive and the unproductive.
 I've seen the lever of technology grow visibly in my own time. In high school I made money by mowing lawns and scooping ice cream at Baskin- Robbins. This was the only kind of work available at the time. Now high school kids could write software or design web sites. But only some of them will; the rest will still be scooping ice cream.
 
 I remember very vividly when in 1985 improved technology made it possible for me to buy a computer of my own. Within months I was using it to make money as a freelance programmer. A few years before, I couldn't have done this. A few years before, there was no such thing as a freelance programmer. But Apple painters created wealth, in the form of powerful, inexpensive computers, and programmers immediately set to work using it to create more.
@@ -524,7 +524,7 @@ Or consider watches. Fifty years ago, by spending a lot of money on a watch you 
 
 The only thing technology can't cheapen is brand. Brand is the residue left as the substantive differences between rich and poor evaporate. But what label you have on your stuff is a much smaller matter than having it versus not having it.
 
-In 1900, if you kept a carriage, no one asked what year or brand it was. If you had one, you were rich. And if you weren't rich, you took the omnibus or walked. Now even the poorest Americans drive cars, and it is only because we're so well trained by advertising that we can even recognize the especially expensive ones. 
+In 1900, if you kept a carriage, no one asked what year or brand it was. If you had one, you were rich. And if you weren't rich, you took the omnibus or walked. Now even the poorest Americans drive cars, and it is only because we're so well trained by advertising that we can even recognize the especially expensive ones.
 
 The rich people I know drive the same cars, wear the same clothes, have the same kind of furniture, and eat the same foods as my other friends. Their houses are in different neighborhoods, or if in the same neighborhood are different sizes, but within them life is similar. The houses are made using the same construction techniques and contain much the same objects. It's inconvenient to do something expensive and custom.
 
@@ -544,7 +544,7 @@ Will people create wealth if they can't get paid for it? Only if it's fun. Peopl
 
 All the un fun kinds of wealth creation slow dramatically in a society that confiscates private fortunes. At various times and places in history, whether you could accumulate a fortune by creating wealth has been turned on and off. Northern Italy in 800, off (warlords would steal it). Northern Italy in 1100, on. Central France in 1100, off (still feudal). England in 1800, on. England in 1974, off (98% tax on investment income). United States in 1974, on. We've even had a twin study: West Germany, on; East Germany, off. In every case, the creation of wealth seems to appear and disappear like the noise of a fan as you switch on and off the prospect of keeping it.
 
-There is some momentum involved. It probably takes at least a generation to turn people into East Germans (luckily for England). 
+There is some momentum involved. It probably takes at least a generation to turn people into East Germans (luckily for England).
 
 If you suppress variations in income, whether by stealing private fortunes, as feudal rulers used to do, or by taxing them away, as some modern governments have done, the result always seems to be the same. Society as a whole ends up poorer.
 
@@ -582,7 +582,7 @@ But if you come out of the closet and admit, at least to yourself, that there is
 
 GOOD DESIGN IS SIMPLE. You hear this from math to painting. In math it means that a shorter proof tends to be a better one. *For architects and designers, it means that beauty should depend on a few carefully chosen structural elements rather than a profusion of superficial ornament.*
 
-GOOD DESIGN IS TIMELESS. He means the same thing Kelly Johnson did: if something is ugly, it can't be the best solution. There must be a better one, and eventually someone else will discover it. Aiming at timelessness is a way to make yourself find the best answer: if you can imagine someone surpassing you, you should do it yourself. 
+GOOD DESIGN IS TIMELESS. He means the same thing Kelly Johnson did: if something is ugly, it can't be the best solution. There must be a better one, and eventually someone else will discover it. Aiming at timelessness is a way to make yourself find the best answer: if you can imagine someone surpassing you, you should do it yourself.
 
 Strangely enough, if you want to make something that will appeal to future generations, one way to do it is to try to appeal to past generations. It's hard to guess what the future will be like, but we can be sure it will be like the past in caring nothing for present fashions. So if you can make something that appeals to people today and would also have appealed to people in 1500, there is a good chance it will appeal to people in 2500.
 
@@ -590,11 +590,11 @@ GOOD DESIGN SOLVES THE RIGHT PROBLEM. Problems can be improved as well as soluti
 
 GOOD DESIGN IS SUGGESTIVE. Jane Austen's novels contain almost no description; instead of telling you how everything looks, she tells her story so well that you envision the scene for yourself. Likewise, a painting that suggests is usually more engaging than one that tells. Everyone makes up their own story about the Mona Lisa.
 
-In software, it means you should give users a few basic elements that they can combine as they wish, like Lego. 
+In software, it means you should give users a few basic elements that they can combine as they wish, like Lego.
 
-GOOD DESIGN IS OFTEN SLIGHTLY FUNNY. I think it's because humor is related to strength. To have a sense of humor is to be strong: to keep one's sense of humor is to shrug off misfortunes, and to lose one's sense of humor is to be wounded by them. And so the mark—or at least the prerogative— of strength is not to take oneself too seriously. 
+GOOD DESIGN IS OFTEN SLIGHTLY FUNNY. I think it's because humor is related to strength. To have a sense of humor is to be strong: to keep one's sense of humor is to shrug off misfortunes, and to lose one's sense of humor is to be wounded by them. And so the mark—or at least the prerogative— of strength is not to take oneself too seriously.
 
-GOOD DESIGN IS HARD. Hard problems call for great efforts. In math, difficult proofs require ingenious solutions, and these tend to be interesting. Ditto in engineering. 
+GOOD DESIGN IS HARD. Hard problems call for great efforts. In math, difficult proofs require ingenious solutions, and these tend to be interesting. Ditto in engineering.
 
 Not every kind of hard is good. There is good pain and bad pain. You want the kind of pain you get from going running, not the kind you get from stepping on a nail. A difficult problem could be good for a designer, but a fickle client or unreliable materials would not be.
 
@@ -609,13 +609,13 @@ In most fields the appearance of ease seems to come with practice. Perhaps what 
 GOOD DESIGN USES SYMMETRY. Symmetry may just be one way to achieve simplicity, but it's important enough to be mentioned on its own. Nature uses it a lot, which is a good sign.
 
 In writing you find symmetry at every level, from the phrases in a sentence to the plot of a novel. You find the same in music and art. Mosaics (and some Cézannes) have extra visual punch because the whole picture is made out of
-the same atoms. 
+the same atoms.
 
 In math and engineering, recursion, especially, is a big win. Inductive proofs are wonderfully short. In software, a problem that can be solved by recursion is nearly always best solved that way. The Eiffel Tower looks striking partly because it is a recursive solution, a tower on a tower.
 
 GOOD DESIGN RESEMBLES NATURE. It's not cheating to copy. Few would deny that a story should be like life. Imitating nature also works in engineering. Boats have long had spines and ribs like an animal's ribcage. In other cases we may have to wait for better technology.
 
-GOOD DESIGN IS REDESIGN. It takes confidence to throw work away. You have to be able to think, there's more where that came from . 
+GOOD DESIGN IS REDESIGN. It takes confidence to throw work away. You have to be able to think, there's more where that came from .
 
 istakes are natural. Instead of treating them as disasters, make them easy to acknowledge and easy to fix. Leonardo more or less invented the sketch, as a way to make drawing bear a greater weight of exploration. Open source software has fewer bugs because it admits the possibility of bugs.
 
@@ -623,9 +623,9 @@ GOOD DESIGN CAN COPY.
 
 Attitudes to copying often make a round trip. A novice imitates without knowing it; next he tries consciously to be original; finally, he decides it's more important to be right than original.
 
-GOOD DESIGN IS OFTEN STRANGE. 
+GOOD DESIGN IS OFTEN STRANGE.
 
-GOOD DESIGN HAPPENS IN CHUNKS. Nothing is more powerful than a community of talented people working on related problems. Genes count for little by comparison: being a genetic Leonardo was not enough to compensate for having been born near Milan instead of Florence. 
+GOOD DESIGN HAPPENS IN CHUNKS. Nothing is more powerful than a community of talented people working on related problems. Genes count for little by comparison: being a genetic Leonardo was not enough to compensate for having been born near Milan instead of Florence.
 
 GOOD DESIGN IS OFTEN DARING.  At every period of history, people have believed things that were just ridiculous, and believed them so strongly that you risked ostracism or even violence by saying otherwise.
 
@@ -641,7 +641,7 @@ When you get to build your programs out of bigger concepts, you don't need to us
 
 #### 10.4. Language Wars
 
-Computer time has become much cheaper, while programmer time is as expensive as ever, so it's rarely worth the trouble of writing programs in assembly language. 
+Computer time has become much cheaper, while programmer time is as expensive as ever, so it's rarely worth the trouble of writing programs in assembly language.
 
 So which one do you use? Ah, well, there is a great deal of disagreement about that. Part of the problem is that if you use a language for long enough, you start to think in it. So any language that's substantially different feels terribly awkward, even if there's nothing intrinsically wrong with it. Inexperienced programmers' judgements about the relative merits of programming languages are often skewed by this effect.
 
@@ -691,11 +691,11 @@ Most data structures exist because of speed. For example, many languages today h
 
 If we think of the core of a language as a set of axioms, surely it's gross to have additional axioms that add no expressive power, simply for the sake of efficiency. Efficiency is important, but I don't think that's the right way to get it.
 
-The right way to solve that problem is to separate the meaning of a program from the implementation details. Instead of having both lists and strings, have just lists, with some way to give the compiler optimization advice that will allow it to lay out strings as contiguous bytes if necessary. 
+The right way to solve that problem is to separate the meaning of a program from the implementation details. Instead of having both lists and strings, have just lists, with some way to give the compiler optimization advice that will allow it to lay out strings as contiguous bytes if necessary.
 
 Saying less about implementation should also make programs more flexible. Specifications change while a program is being written, and this is not only inevitable, but desirable.
 
-Lisp hackers already know about the value of being flexible with data structures. We tend to write the first version of a program so that it does everything with lists. 
+Lisp hackers already know about the value of being flexible with data structures. We tend to write the first version of a program so that it does everything with lists.
 
 What programmers in a hundred years will be looking for, most of all, is a language where you can throw together an unbelievably inefficient version 1 of a program with the least possible effort.
 
@@ -725,23 +725,23 @@ And this will, like asking for specific implementations of data structures, be s
 
 As this gap widens, profilers will become increasingly important. Little attention is paid to profiling now. Many people still seem to believe that the way to get fast applications is to write compilers that generate fast code. As the gap between acceptable and maximal performance widens, it will become increasingly clear that the way to get fast applications is to have a good guide from one to the other.
 
-Who will design the languages of the future? One of the most exciting trends in the last ten years has been the rise of open source languages like Perl, Python, and Ruby. Language design is being taken over by hackers. The results so far are messy, but encouraging. 
+Who will design the languages of the future? One of the most exciting trends in the last ten years has been the rise of open source languages like Perl, Python, and Ruby. Language design is being taken over by hackers. The results so far are messy, but encouraging.
 
-One way to design a language is to just write down the program you'd like to be able to write, regardless of whether there is a compiler that can translate it or hardware that can run it. 
+One way to design a language is to just write down the program you'd like to be able to write, regardless of whether there is a compiler that can translate it or hardware that can run it.
 
 What program would one like to write? Whatever is least work. our ideas about what's possible tend to be so limited by whatever language we think in that easier formulations of programs seem very surprising.
 
 Not the length in characters, of course, but the length in distinct syntactic elements—basically, the size of the parse tree. It may not be quite true that the shortest program is the least work to write, but it's close enough that you're better off aiming for the solid target of brevity than the fuzzy, nearby one of least work. Then the algorithm for language design becomes: look at a program and ask, is there a shorter way to write this?
 
-In practice, writing programs in an imaginary hundred- year language will work to varying degrees depending on how close you are to the core. Sort routines you can write now. 
+In practice, writing programs in an imaginary hundred- year language will work to varying degrees depending on how close you are to the core. Sort routines you can write now.
 
-If present- day programming languages had been available in 1960, would anyone have wanted to use them? 
+If present- day programming languages had been available in 1960, would anyone have wanted to use them?
 
 I think so. Some of the less imaginative ones, who had artifacts of early languages built into their ideas of what a program was, might have had trouble. (How can you manipulate data without doing pointer arithmetic? How can you implement flowcharts without gotos?) But I think the smartest programmers would have had no troublemaking the most of present- day languages, if they'd had them.
 
 If we had the hundred- year language now, it would at least make a great pseudocode. What about using it to write software? Since the hundred- year language will need to generate fast code for some applications, presumably it could generate code efficient enough to run acceptably well on our hardware. We might have to give more optimization advice than users in a hundred years, but it still might be a net win.
 
-When you're working on language design, I think it's good to have such a target and to keep it consciously in mind. 
+When you're working on language design, I think it's good to have such a target and to keep it consciously in mind.
 
 ## Chapter 12. Beating the Averages
 
@@ -770,7 +770,7 @@ Back in 1995, we knew something that I don't think our competitors understood, a
 
 If you can use any language, which do you use? We chose Lisp. For one thing, it was obvious that rapid development would be important in this market. We were all starting from scratch, so a company that could get new features done before its competitors would have a big advantage. We knew Lisp was a really good language for writing software quickly, and server-based applications magnify the effect of rapid development, because you can release software the minute it's done.
 
-If other companies didn't want to use Lisp, so much the better. It might give us a technological edge, and we needed all the help we could get. 
+If other companies didn't want to use Lisp, so much the better. It might give us a technological edge, and we needed all the help we could get.
 
 So you could say that using Lisp was an experiment. Our hypothesis was that if we wrote our software in Lisp, we'd be able to get features done faster than our competitors, and also to do things in our software that they couldn't do. And because Lisp was so high-level, we wouldn't need a big development team, so our costs would be lower. I
 
@@ -789,7 +789,7 @@ Everyone knows it's a mistake to write your whole program by hand in machine lan
 If you're writing a program that has to work closely with a program written in a certain language, it might be a good idea to write the new program in the same language. If you're writing a
 program that only has to do something simple, like number crunching or bit manipulation, you may as well use a less abstract language, especially since it may be slightly faster. And if you're writing a short, throwaway program, you may be better off just using whatever language has the best libraries for the task.
 
-But when our hypothetical Blub programmer looks in the other direction, up the power continuum, he doesn't realize he's looking up. What he sees are merely weird languages. 
+But when our hypothetical Blub programmer looks in the other direction, up the power continuum, he doesn't realize he's looking up. What he sees are merely weird languages.
 
 By induction, the only programmers in a position to see all the differences in power between the various languages are those who understand the most powerful one. (This is probably what Eric Raymond meant about Lisp making you a better programmer.) You can't trust the opinions of the others, because of the Blub paradox: they're satisfied with whatever language they happen to use, because it dictates the way they think about programs.
 
@@ -808,9 +808,9 @@ languages.
 
 But I don't expect to convince anyone (over 25) to go out and learn Lisp. My purpose here is not to change anyone's mind, but to reassure people already interested in using Lisp—people who know that Lisp is a powerful language, but worry because it isn't widely used. In a competitive situation, that's an advantage. Lisp's power is multiplied by the fact that your competitors don't get it.
 
-If you think of using Lisp in a startup, you shouldn't worry that it isn't widely understood. You should hope that it stays that way. And it's likely to. It's the nature of programming languages to make most people satisfied with whatever they currently use. Computer hardware changes so much faster than personal habits that programming practice is usually ten to twenty years behind the processor. At places like MIT they were writing programs in high- level languages in the early 1960s, but many companies continued to write code in machine language well into the 1980s. 
+If you think of using Lisp in a startup, you shouldn't worry that it isn't widely understood. You should hope that it stays that way. And it's likely to. It's the nature of programming languages to make most people satisfied with whatever they currently use. Computer hardware changes so much faster than personal habits that programming practice is usually ten to twenty years behind the processor. At places like MIT they were writing programs in high- level languages in the early 1960s, but many companies continued to write code in machine language well into the 1980s.
 
-Ordinarily technology changes fast. But programming languages are different: programming languages are not just technology, but what programmers think in. They're half technology and half religion. 6 And so the median language, meaning whatever language the median programmer uses, moves as slow as an iceberg. 
+Ordinarily technology changes fast. But programming languages are different: programming languages are not just technology, but what programmers think in. They're half technology and half religion. 6 And so the median language, meaning whatever language the median programmer uses, moves as slow as an iceberg.
 
 Garbage collection, introduced by Lisp in about 1960, is now widely considered to be a good thing. Dynamic typing, ditto, is growing in popularity. Lexical closures, introduced by Lisp in the early 1960s, are now, just barely, on the radar screen. Macros, introduced by Lisp in the mid 1960s, are still terra incognita.
 
@@ -828,7 +828,7 @@ Why does he think this? Let's take a look inside the brain of the pointy- haired
 
 Presumably, if you create a new language, it's because you think it's better in some way than what people already had. And in fact, Gosling makes it clear in the first Java white paper that Java was designed to fix some problems with C++. So there you have it: languages are not all equivalent.
 
-So, who's right? James Gosling, or the pointy-haired boss? Not surprisingly, Gosling is right. Some languages are better, for certain problems, than others. And you know, that raises some interesting questions. Java was designed to be better, for certain problems, than C++. What problems? When is Java better and when is C++? 
+So, who's right? James Gosling, or the pointy-haired boss? Not surprisingly, Gosling is right. Some languages are better, for certain problems, than others. And you know, that raises some interesting questions. Java was designed to be better, for certain problems, than C++. What problems? When is Java better and when is C++?
 
 The disadvantage of believing that all programming languages are equivalent is that it's not true. But the advantage is that it makes your life a lot simpler. And I think that's the main reason the idea is so widespread. It is a comfortable idea.
 
@@ -836,7 +836,7 @@ If you look at these languages in order, Java, Perl, Python, Ruby, you notice an
 
 What we mean by a programming language is something we use to tell a computer what to do. McCarthy did eventually intend to develop a programming language in this sense, but the Lisp we actually ended up with was based on something separate that he did as a theoretical exercise—an effort to define a more convenient alternative to the Turing machine.
 
-Another way to show that Lisp was neater than Turing machines was to write a universal Lisp function and show that it is briefer and more comprehensible than the description of a universal Turing machine. 
+Another way to show that Lisp was neater than Turing machines was to write a universal Lisp function and show that it is briefer and more comprehensible than the description of a universal Turing machine.
 
 Another way to show that Lisp was neater than Turing machines was to write a universal Lisp function and show that it is briefer and more comprehensible than the description of a universal Turing machine. This was the Lisp function eval..., which computes the value of a Lisp expression....Writing eval required inventing a notation representing Lisp functions as Lisp data, and such a notation was devised for the purposes of the paper with no thought that it would be used to express Lisp programs in practice.
 
@@ -868,15 +868,15 @@ So the short explanation of why this 1950s language is not obsolete is that it w
 
 When Lisp first appeared, these ideas were far removed from ordinary programming practice, which was dictated largely by the hardware available in the late 1950s.
 
-Expressing the language in its own data structures turns out to be a very powerful feature. Ideas 8 and 9 together mean that you can write programs that write programs. A Lisp macro can be anything from an abbreviation to a compiler for a new language. 
+Expressing the language in its own data structures turns out to be a very powerful feature. Ideas 8 and 9 together mean that you can write programs that write programs. A Lisp macro can be anything from an abbreviation to a compiler for a new language.
 
 I mention this mostly as a joke, but it is quite true. If you define a language that has car, cdr, cons, quote, cond, atom, eq, and a notation for functions expressed as lists, then you can build all the rest of Lisp out of it. That is in fact the defining quality of Lisp: it was in order to make this so that McCarthy gave Lisp the shape it has.
 
 #### 13.3. Where Languages Matter
 
-Even if Lisp does represent a kind of limit that mainstream languages are approaching asymptotically, does that mean you should actually use it to write software? 
+Even if Lisp does represent a kind of limit that mainstream languages are approaching asymptotically, does that mean you should actually use it to write software?
 
-There are, of course, projects where the choice of programming language doesn't matter much. As a rule, the more demanding the application, the more leverage you get from using a powerful language. But plenty of projects are not demanding at all. 
+There are, of course, projects where the choice of programming language doesn't matter much. As a rule, the more demanding the application, the more leverage you get from using a powerful language. But plenty of projects are not demanding at all.
 
 You can write little glue programs in Lisp too (I use it as a desktop calculator), but the biggest win for languages like Lisp is at the other end of the spectrum, where you need to write sophisticated programs to solve hard problems in the face of fierce competition.
 
@@ -886,7 +886,7 @@ The core of ITA's application is a 200,000-line Common Lisp program that searche
 
 I can think of three problems that could arise from using less common languages. Your programs might not work well with programs written in other languages. You might have fewer libraries at your disposal. And you might have trouble hiring programmers.
 
-If you're writing software that has to run on a remote user's machine on top of a buggy, proprietary operating system (I mention no names), there may be advantages to writing your application in the same language as the OS. But if you control the whole system and have the source code of all the parts, as ITA presumably does, you can use whatever languages you want. 
+If you're writing software that has to run on a remote user's machine on top of a buggy, proprietary operating system (I mention no names), there may be advantages to writing your application in the same language as the OS. But if you control the whole system and have the source code of all the parts, as ITA presumably does, you can use whatever languages you want.
 
 In server-based applications you can get away with using the most advanced technologies, and I think this is the main cause of what Jonathan Erickson calls the "programming language renaissance."
 
@@ -894,7 +894,7 @@ If a company considers it self to be in the software business, and they're writi
 
 #### 13.5. The Cost of Being Average
 
-One technique you can use, if the language will let you, is something called bottom- up programming. Instead of simply writing your application in the base language, you build on top of the base language a language for writing programs like yours, then write your program in it. The combined code can be much shorter than if you had written your whole program in the base language —indeed, this is how most compression algorithms work. 
+One technique you can use, if the language will let you, is something called bottom- up programming. Instead of simply writing your application in the base language, you build on top of the base language a language for writing programs like yours, then write your program in it. The combined code can be much shorter than if you had written your whole program in the base language —indeed, this is how most compression algorithms work.
 
 Code size is important, because the time it takes to write a program depends mostly on its length. If your program would be three times as long in another language, it will take three times as long to write—and you can't get around this by hiring more people, because beyond a certain size new hires are actually a net lose.
 
@@ -904,7 +904,7 @@ And you know what? That's the best-case scenario. When you talk about code- size
 
 #### 13.6. A Recipe
 
-Because, you know, when it comes down to it, the pointy- haired boss doesn't mind if his company gets their ass kicked, so long as no one can prove it's his fault. 
+Because, you know, when it comes down to it, the pointy- haired boss doesn't mind if his company gets their ass kicked, so long as no one can prove it's his fault.
 
 Technology often should be cutting-edge. In programming languages, as Erann Gat has pointed out, what "industry best practice" actually gets you is not the best, but merely the average. When a decision causes you to develop software at a fraction of the rate of more aggressive competitors, "best practice" does not really seem the right name for it.
 
@@ -928,11 +928,11 @@ In OO languages, you can, to a limited extent, simulate a closure (a function th
 
 Java, hard to do this:
 
-	public interface Inttoint { 
+	public interface Inttoint {
 		public int call (int i);
 	}
 
-	public static Inttoint foo (final int n) { 
+	public static Inttoint foo (final int n) {
 		return new Inttoint () {
 		int s = n;
 		public int call (int i) { s = s + i;
@@ -942,7 +942,7 @@ Java, hard to do this:
 
 It's not literally true that you can't solve this problem in other languages, of course. The fact that all these languages are Turing- equivalent means that, strictly speaking, you can write any program in any of them. So how would you do it? In the limit case, by writinga Lisp interpreter in the less powerful language.
 
-If you try to solve a hard problem, the question is not whether you will use a powerful enough language, but whether you will (a) use a powerful language, (b) write a de facto interpreter for one, or (c) yourself become a human compiler for one. 
+If you try to solve a hard problem, the question is not whether you will use a powerful enough language, but whether you will (a) use a powerful language, (b) write a de facto interpreter for one, or (c) yourself become a human compiler for one.
 
 This practice is not only common, but institutionalized. For example, in the OO world you hear a good deal about "patterns." I wonder if these patterns are not sometimes evidence of case (c), the human compiler, at work. 8 When I see patterns in my programs, I consider it a sign of trouble. The shape of a program should reflect only the problem it needs to solve. Any other regularity in the code is a sign, to me at least, that I'm using abstractions that aren't powerful enough—often that I'm generating by hand the expansions of some macro that I need to write.
 
@@ -950,29 +950,29 @@ This practice is not only common, but institutionalized. For example, in the OO 
 
 I think the answers to these questions can be found by looking at hackers, and learning what they want. Programming languages are for hackers, and a programming language is good as a programming language (rather than, say, an exercise in denotational semantics or compiler design) if and only if hackers like it.
 
-It's true, certainly, that most people don't choose programming languages simply based on their merits. Most programmers are told what language to use by someone else. And yet I think the effect of such external factors on the popularity of programming languages is not as great as it's sometimes thought to be. 
+It's true, certainly, that most people don't choose programming languages simply based on their merits. Most programmers are told what language to use by someone else. And yet I think the effect of such external factors on the popularity of programming languages is not as great as it's sometimes thought to be.
 
 Between the two, the hacker's opinion is the one that matters. Programming languages are not theorems. They're tools, designed for people, and they have to be designed to suit human strengths and weaknesses as much as shoes have to be designed for human feet. If a shoe pinches when you put it on, it's a bad shoe, however elegant it may be as a piece of sculpture.
 
-It may be that the majority of programmers can't tell a good language from a bad one. 
+It may be that the majority of programmers can't tell a good language from a bad one.
 
 Expert hackers can tell a good language when they see one, and they'll use it. Expert hackers are a tiny minority, admittedly, but that tiny minority write all the good software, and their influence is such that the rest of the programmers will tend to use whatever language they use. Often, indeed, it is not merely influence but command: often the expert hackers are the very people who, as their bosses or faculty advisors, tell the other programmers what language to use.
 
 #### 14.2. External Factors
 
-To become popular, a programming language has to be the scripting language of a popular system. 
+To become popular, a programming language has to be the scripting language of a popular system.
 
-Programming languages don't exist in isolation. To hack is a transitive verb— hackers are usually hacking something—and in practice languages are judged relative to whatever they're used to hack. 
+Programming languages don't exist in isolation. To hack is a transitive verb— hackers are usually hacking something—and in practice languages are judged relative to whatever they're used to hack.
 
 One way to describe this situation is to say that a language isn't judged on its own merits. Another view is that a programming language really isn't a programming language unless it's also the scripting language of something.
 
 A programming language does need a good implementation, of course, and this must be free. Companies will pay for software, but individual hackers won't, and it's the hackers you need to attract.
 
-A language also needs to have a book about it. The book should be thin, well- written, and full of good examples. Kernighan and Ritchie's C Programming Language is the ideal here. 
+A language also needs to have a book about it. The book should be thin, well- written, and full of good examples. Kernighan and Ritchie's C Programming Language is the ideal here.
 
 #### 14.3. Succinctness
 
-The most important kind of succinctness comes from making the language more abstract. It is to get this that we use highlevel languages in the first place. So it would seem that the more of it you can get, the better. A language designer should always be looking at programs and asking, is there some way to express this in fewer tokens? 
+The most important kind of succinctness comes from making the language more abstract. It is to get this that we use highlevel languages in the first place. So it would seem that the more of it you can get, the better. A language designer should always be looking at programs and asking, is there some way to express this in fewer tokens?
 
 It's a mistake to try to baby the user with long-winded expressions meant to resemble English. Cobol is notorious for this flaw. A hacker would consider being asked to write `add x to y giving z` instead of `z=x+y` as something between an insult to his intelligence and a sin against God.
 
@@ -986,7 +986,7 @@ Good programmers often want to do dangerous and unsavory things. By unsavory I m
 
 Many a hacker will want to tweak your semantic model in a way that you never imagined. I say, let them. Give the programmer access to as much internal stuff as you can.
 
-There is a kind of pleasure here too. Hackers share the surgeon's secret pleasure in poking about in gross innards, the teenager's secret pleasure in popping zits. 
+There is a kind of pleasure here too. Hackers share the surgeon's secret pleasure in poking about in gross innards, the teenager's secret pleasure in popping zits.
 
 #### 14.5. Throwaway Programs
 
@@ -994,9 +994,9 @@ A throwaway program is a program you write quickly for some limited task: a prog
 
 Another way to get a big program is to start with a throwaway program and keep improving it. This approach is less daunting, and the design of the program benefits from evolution. Programs that did evolve this way are probably still written in whatever language they were first written in, because it's rare for a program to be ported, except for political reasons.
 
-Perl is a striking example of this idea. It was not only designed for writing throwaway programs, but was pretty much a throwaway program itself. 
+Perl is a striking example of this idea. It was not only designed for writing throwaway programs, but was pretty much a throwaway program itself.
 
-What makes a language good for throwaway programs? To start with, it must be readily available. A throwaway program is something you expect to write in an hour. So the language probably must already be installed on the computer you're using. 
+What makes a language good for throwaway programs? To start with, it must be readily available. A throwaway program is something you expect to write in an hour. So the language probably must already be installed on the computer you're using.
 
 #### 14.6. Libraries
 
@@ -1008,7 +1008,7 @@ I think future programming languages will have libraries that are as carefully d
 
 A good language, as everyone knows, should generate fast code. But in practice I don't think fast code comes primarily from things you do in the design of the language. As Knuth pointed out long ago, speed only matters in certain critical bottlenecks. And as many programmers have observed since, one is often mistaken about where these bottlenecks are.
 
-So, in practice, the way to get fast code is to have a good profiler, rather than by, say, making the language statically typed. 
+So, in practice, the way to get fast code is to have a good profiler, rather than by, say, making the language statically typed.
 
 One complaint people have had with very high level languages like Lisp is that it's hard to tell what's expensive. This might be true. It might also be inevitable, if you want to have a very abstract language. And in any case I think good profiling would go a long way toward fixing the problem: you'd soon learn what was expensive.
 
@@ -1024,7 +1024,7 @@ Inventors of wonderful new things are often surprised to discover this, but you 
 
 A friend of mine rarely does anything the first time someone asks him. He knows that people sometimes ask for things they turn out not to want. To avoid wasting his time, he waits till the third or fourth time he's asked to do something. By then whoever's asking him may be fairly annoyed, but at least they probably really do want whatever they're asking for.
 
-Most people have learned to do a similar sort of filtering on new things they hear about. They don't even start paying attention until they've heard about something ten times. They're perfectly justified: the majority of hot new whatevers do turn out to be a waste of time, and eventually go away. 
+Most people have learned to do a similar sort of filtering on new things they hear about. They don't even start paying attention until they've heard about something ten times. They're perfectly justified: the majority of hot new whatevers do turn out to be a waste of time, and eventually go away.
 
 It took us years to get it through to people that Viaweb's software didn't have to be downloaded. The good news is, simple repetition solves the problem. All you have to do is keep telling your story, and eventually people will start to hear.
 
@@ -1040,7 +1040,7 @@ This pattern doesn't only apply to companies. You see it in research too. Multic
 
 The most important part of design is redesign. Programming languages, especially, don't get redesigned enough. To write good software you must simultaneously keep two opposing ideas in your head. You need the young hacker's naive faith in his abilities, and at the same time the veteran's skepticism.
 
-People who do good work often think that whatever they're working on is no good. Others see what they've done and think it's wonderful, but the creator sees nothing but flaws. 
+People who do good work often think that whatever they're working on is no good. Others see what they've done and think it's wonderful, but the creator sees nothing but flaws.
 
 In young hackers, optimism predominates. They produce something, are convinced it's great, and never improve it. In old hackers, skepticism predominates, and they won't even dare to take on ambitious projects.
 

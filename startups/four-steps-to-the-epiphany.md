@@ -25,34 +25,34 @@ The Product Development Diagram
 ---------------------------------------------------------------------------
 
 * Concept/Seed: Founders turn their passion and vision int oa set of key ideas.
-	* Can the product be built?
-	* Who are the potential cx?
-	* How will the product reach the cx?
-	* Basic assumptions about pricing.
-	* Webvan did this well, it had a good story and a founder with a good track record.
+* Can the product be built?
+* Who are the potential cx?
+* How will the product reach the cx?
+* Basic assumptions about pricing.
+* Webvan did this well, it had a good story and a founder with a good track record.
 
 * Product Development: Make the thing
-	* Eng'g: Build, specify the first release, and hire staff to build a product.
-	* Marketing: Refine the size of the market defined, run an FGD or something.
-	* Webvan built automated warehouses and conveyors to transport the materials, made their own sales/inventory/warehouse management system. To build cx loyalty, they did public relations programs, advertising campaigns, and promotional activities.
+* Eng'g: Build, specify the first release, and hire staff to build a product.
+* Marketing: Refine the size of the market defined, run an FGD or something.
+* Webvan built automated warehouses and conveyors to transport the materials, made their own sales/inventory/warehouse management system. To build cx loyalty, they did public relations programs, advertising campaigns, and promotional activities.
 
 * Alpha/Beta Test
-	* Eng'g works with a small group of outside users to make sure that the product works as speficied and tests it for bugs.
-	* Sales: Beta customers, builds the distribution channel, staffs and scales the sales organisation
-	* Webvan: 1100 beta testers. PR blitz across hundreds of articles.
+* Eng'g works with a small group of outside users to make sure that the product works as speficied and tests it for bugs.
+* Sales: Beta customers, builds the distribution channel, staffs and scales the sales organisation
+* Webvan: 1100 beta testers. PR blitz across hundreds of articles.
 
 * Product Launch and First Cx Ship
-	* The company goes into "big bang" spending mode.
-	* Sales is heavily building and staffing a sales org, sales channel has quotas and sales goals.
-	* Marketing is at its peak.
-	* Webvan: Raised $400M and had market capitalisation of $8.5B.
+* The company goes into "big bang" spending mode.
+* Sales is heavily building and staffing a sales org, sales channel has quotas and sales goals.
+* Marketing is at its peak.
+* Webvan: Raised $400M and had market capitalisation of $8.5B.
 
 What's Wrong with this Picture?
 -------------------------------
 
-*Where are the cx?* 
+*Where are the cx?*
 
-The greatest risk in startups is not the development of risk but in the development of cx. Startups don't fail because they lack a product, they fail because they lack cx and a proven financial model.
+The greatest risk in startups is not the development of risk but in the development of cx. *Startups don't fail because they lack a product, they fail because they lack cx and a proven financial model.*
 
 *The Focus on First Cx Ship Date*
 
@@ -226,5 +226,3 @@ A startup's first release has to be good enough for the first paying customers. 
 Cx Discover Process
 
 *State hypothesis -> Test problem hypothesis -> Test product concept -> Verify*
-
-
