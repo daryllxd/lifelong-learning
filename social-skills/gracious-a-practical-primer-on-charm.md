@@ -312,3 +312,101 @@
 - Gracious home: Welcoming, cared for, tidy, comfortable, lived in, full of interesting things.
 - Lighting/dimmers: With lamps, you can have exactly as much light as you want, where you want it.
 - The true aces up your sleeve for smells: expensive candles.
+
+## The Gracious Host & Hosted
+
+- It's hard and weird to be a guest, because the taboo against entering other people's dwellings or habitats is deep, and so when you are trusted and privileged enough to be in someone's house, you want to be on your best behavior.
+- "I don't know if I will like that bar, restaurant, or show. But I do know that I like my house. And I want other people to like it, too. I want to have a house that feels comfy and happy, and that when I look at the couch, I know that it tenderly holds the memory of each and every one of my loved ones' behinds."
+- If you approach entertaining as something you have to do in return for something, then you will resent putting forth the time, energy, and money that hosting implies. You will not have fun. In fact, probably no one will.
+- "I get to spend time sharing my favorite things and  thinking about what will bring my friends and family joy."
+- This moves to-dos into tiny acts of service toward a physical manifestation of my love, even if that love is just a cheese plate and a clean bathroom.
+- People coming over to your house make an effort and this is like a gift you're giving them. Your job when you're the host is to make people feel like the special snowflake, just for a short time, because that's just a magical moment you can give someone.
+- Priority 1: Making people feel loved and comfortable. Priority 2: Laughing, talking, sharing joy, introducing two friends who you think would love each other. Last: Ensuring that a roast is perfectly rested at the ideal temperature.
+- *Most of the time you have the most receptive and forgiving audience in the world, which is the people who love you and are here to have a nice time. They came because you invited them and everyone's here for a good time.*
+- You have the upper hand if you remember that you're the one feeding and entertaining them for free.
+- The tone of any party flows from the host, and every single human in the world would rather go to a party with burnt beets and a happy host than a perfect dinner served by someone who is clearly miserable.
+
+### Things to Have
+
+- Iced tea in a pitcher.
+- Tea bags.
+- Honey.
+- Lemon.
+- Sparking water.
+- Ice cubes.
+- Cookies.
+- Baby carrots.
+- Hummus.
+- Fruit.
+
+- You want to introduce friends to one another.
+- I like to make sure that everyone has previously met and had a good conversation with at least one other person at the party that they are not in a relationship with.
+- Written invitations are always delightful, because then people can put them on their fridge and get excited.
+- The tone of the party flows from the host.
+- Know ahead of time what your guests have in common.
+- Better to serve food sooner rather than later.
+- Buffet is simpler than serving.
+- "Healing Room":
+  - Sleep mask
+  - Lavender oil
+  - Melatonin tablets
+  - Over-the-counter pain reliever
+  - Small flashlight
+  - Breath mints
+  - Slippers
+  - Robe
+  - Power strip
+  - Welcome note
+  - Sweet gift
+  - Bathroom
+    - Facial mask
+    - Water glass
+    - Toothbrush and toothpaste
+    - Shower cap
+    - Cotton balls
+    - Floss
+    - Contact lens solution
+    - Razor
+- Someone likes you enough to have you over!
+- Decent bottle of wine in the car trunk just for times when you forget your gift.
+- Souvenirs.
+- Food: "where did you learn to cook..."
+
+### Being a House guest:
+
+- What is the WiFi password?
+- Where is a good place to shower?
+- May I store groceries in the fridge?
+- Is there anything I should know about the apartment or the room?
+- Are there special things that can't be replaced with money in here?
+- Is there anything I should know about locking and unlocking?
+- When can I take a person hosting me out on a nice dinner, or when can I cook you dinner?
+
+## Let's Make This Day Gracious As Heck!
+
+- "Today is going to be one good gracious day!"
+- Who do you want to be today? Neither I nor the cherubs can answer that, but here are some things I like to decide on.
+  - Today, I want to pause before I react to things.
+  - Today, no matter how anyone else behaves, I want to be good and decent.
+  - Today, I want to be productive and do the work that needs doing, which means that today is not a day when I can have long and in depth conversations with every human, but I can politely excuse myself.
+  - Today, I am feeling sad, so I want to be extra kind to those around me, because maybe they're sad too, and being kind even when I don't feel like it normally cheers me up.
+- When starting your day, why not make it as good as possible? Rug, robe, slipper.
+- Wear something you want to wear. Look nice. Nice is what makes you feel powerful and strong and like the things on your body are not accidents, but purposeful choices.
+- *Nice is whatever it is that makes you feel like the best version of yourself.*
+- Hat culture: These women looked flawless, not because they were rich, but because they had made the decision to reflect something inside outward, in hat form, to the delight of the community.
+- "I can be hit by a bus tomorrow, and if I get hit by a bus tomorrow, I should wear this fabulous hat today."
+- *Fully and joyfully executing her best life meant wearing things she loves and not letting a day go by where she hasn't done everything she can to make herself feel good.*
+- Walk out the door knowing that if sudden death was to mow you down, you would have zero regret in your style.
+- Nothing wrong with wearing something similar every day. Almost everything in my wardrobe is navy, white, gold, or cognac-colored leather.
+- Jewelry, pearls go with everything and make everything look nicer and they come from the ocean. If you want to wear it every day, then why not.
+- Mass transit:
+  - To shed the ego of self, becoming one with the flowing river of humanity, which means definitely not standing on the side of the escalator that people are trying to walk down.
+  - To pass the time in a safe yet comfortable manner until I can not be enclosed in a small metal container, neck deep in humanity, some of whom may do things that may run counter to that "safe yet comfortable" bit.
+- In slow traffic, why not let the person trying to merge in merge in? It's the kind thing to do.
+- Just like rude people, you can and should get away from rude drivers.
+- "If you were me, what would you do?" to stewardesses.
+- Customer service: Say hello and goodbye to people.
+- Punctuation is important, since you never want to start an interaction with an apology.
+- Your server is not your servant. It's one thing to express that things haven't gone well, but you need to be careful not to take it out on the server.
+- Before sleeping: What were the wonderful things? What am I grateful for? When did I do my absolute best, and what did that look and feel like?
+- When bantering your friends, if you do so, their friendship will wear out, or be converted into positive enmity.
