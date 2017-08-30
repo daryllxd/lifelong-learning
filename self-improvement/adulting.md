@@ -66,5 +66,97 @@
 - How to decorate
   - Match your closet. Whatever you like as a person, you'll like it in home decor. Start off with an object that you really like. Whenever she wanted to add something to her room, it must match the object. Painting just one wall makes a large difference.
 - Frames, not posters. Art is something else that you can slowly but surely acquire. It doesn't have to be insanely expensive, but treat them right, and get them framed.
-- Get an actual bed.
+- Get an actual bed. Mattress stores are weirdly into haggling, so start by really low-balling them.
+- Correspondence drawer: something that will allow you to send a letter or a check immediately.
+- Buy tools.
+  - Hammer.
+  - Adjustable screwdriver.
+  - Crescent wrench.
+  - Tape measure.
+  - Cordless drill.
+- Keys: One to a friend and one somewhere near your house, but is hidden.
+- If you are really terrible at cleaning, it may be worth it to hire a cleaner, and ask if they can tutor you while they clean.
+- Do some cleaning daily. Dishes, hang up your clothes, put others in the laundry.
+- Make your bed every morning. It's way nice to get into a made bed. The longest sheets should go without washing is two weeks; wash them in warm water by themselves, using half the usual amount of detergent.
+- When to mindlessly tidy:
+  - While on the phone.
+  - When having something while cooking.
+  - While waiting for the bath to fill or the shower water to heat.
+- Garbage--leftover, crusty food is not made into anything except compost.
 
+#### Bucket List
+
+- Dawn dish soap.
+- Broom and dustpan.
+- Mop.
+- Bucket.
+- Paper towels.
+- Rags.
+- A scrubber.
+- A toothbrush for little crevices.
+- Bleach, but always have gloves on while.
+- Cheap white vinegar--one part vinegar to two parts hot water is a wonderful glass cleaner.
+- Spray bleach solution.
+- Knee pads to make scrubbing easier.
+- Latex cleaning gloves.
+- Pledge for wood.
+- Goo Gone.
+- A duster.
+- Toilet plunger.
+
+#### Weekly Cleaning
+
+- Clean your bathroom.
+- Do your laundry, including bed linens.
+- Sweep and mop non-carpet surfaces.
+- Check corners for cobwebs.
+- Wipe down surfaces. Wet rag and dry rag.
+- If you have a pet, think about vacuuming.
+- Bleach your sink, tub, and toilet. Fill them with hot water, and perhaps half a cup of bleach to a tub or between an eighth and a quarter cup to a sink, then let it sit for twenty minutes. After you've drained and rinsed, any remaining grime is super easy to get off.
+- *Do not keep things in your house that make you feel sad or bad.*
+- Things that live in the same room can and should go in boxes together.
+- Wrap fragile items with newspaper (more than seems reasonable) then seal with a little bit of tape.
+- If a larger item needs a smaller item to function, tape them together (TV remotes to TVs, IKEA furniture to its screws.)
+- Soft tings to in big garbage bags which you can toss.
+
+## Cooking
+
+- Medium-size saucepan, a large saucepan, a large frying pan, and a griddle. Knives--really where you should spend some cash. Get a chef's knife and a sharpener. Paring, bread knife.
+- Six big plates, six little plates, six bowls, six glasses, six forks, six butter knives, six spoons, six pint glasses, and six wineglasses.
+- Can opener
+- Spatula
+- Ladle
+- Wooden spoons
+- Salt/pepper shakers
+- Whisk
+- Measuring cups/spoons
+- Colander
+- Corkscrew
+- Vegetable peeler
+- Box grater
+- Roasting pan
+- Dutch oven
+- Toaster
+- Food processor
+- Rolling pin
+- Handheld juicer
+
+### Ingredients
+
+- Black/pinto beans, brown/white rice, lentils, oatmeal, pasta, cereal, wheat bread.
+- Olive oil, butter, bacon fat.
+- Flour, sugar, honey, vanilla extract, baking powder, baking soda, cranberries.
+- Balsamic vinegar, white wine vinegar, parsley, onions, garlic, ketchup, mayo hot sauce, soy sauce, thyme dill, oregano, basil.
+- Milk, eggs, potatoes, onions, apples, fruit and veggies for snacking.
+
+- Air is the enemy when it comes to storing or freezing leftovers. Get all possible air out before it goes in the freezer.
+- Meat should be put in the freezer within 2 days.
+
+### Cooking
+
+- Baking. Oven. Warm dry heat rises from the bottom. Dry heat.
+- Boiling. Submerging an item in water or stock that is boiling. Poaching = happens in hot but not super-hot water, bubbles shouldn't be showing. Simmering: tiny bubbles are forming continuously on the bottom. Rolling boil involves the whole surface of the water moving as one. Boil is calmer, involves constant bubbles the size of the tip of your pinkie.
+- Braising. Partially covering the item with liquid (might be beef stock or red wine) then putting a lid on the pot so it is sort of both poached and steamed.
+- Broiling. Top of the oven, very fat.
+- Frying. Enough fat is put in a pan to cover the bottom, then the item is placed in the hot fat. This is a great way to start meat that will be baked, as it gives it that crispy delicious exterior. *Don't put too much of anything in at once when you're frying. When things are fried, they're generally giving off moisture.*
+- Sauteing. On a pan on the stove over medium-high heat. Turn the element on, then add some fat and let is spread out.

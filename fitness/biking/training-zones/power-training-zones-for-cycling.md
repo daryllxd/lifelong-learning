@@ -45,3 +45,20 @@ Minimal sensation of leg effort of leg effort/fatigue. Requires no concentration
 
 - Neuromuscular power.
 - Very short, very high intensity efforts that place greater stress on musculoskeletal, rather than metabolic systems.
+
+## Is My FTP Too Low? 3 Signs to Know If You've Tested Accurately
+[Reference](http://blog.trainerroad.com/is-my-ftp-too-low/)
+
+- *Rest intervals are too easy.* If you are at sweet spot, you should be looking forward to your rest intervals and **need** to take them easy in order to be ready for the next work interval. Rest means you really have to rest.
+- *Over-under intervals aren't exhausting.* Over-unders are known for being very challenging both mentally and physically. You are forced to exceed the lactate processing limits and recover just below those limits. You are teaching your body to recover while still working hard. After each "over", you should feel a burning or flooded sensation and be out of breath. If you don't feel those sensations, it's a good sign that the "over" portion of your intervals aren't truly over your threshold.
+- *Long threshold intervals are too easy.* If you can sustain Lamarck 40 minutes at FTP with minimal rest, then chances are your FTP is too low.
+
+### Comments
+
+- Regarding your pacing effort, I'd definitely advise against any type of tiered pacing. While starting out conservative is a good choice, I wouldn't put a specific number on your pacing. Pacing during an FTP test should be based off of perception of effort. The effort is ideally a consistent effort from beginning to end, where any variation in your power profile would appear as a very subtle smile.
+- In my case I always like to have one day off before an FTP test, and then a day of leg openers the next day. Just what I've found to work for me after trial and error.
+- Adding a couple of watts each week will work for a certain length of time, but as time progresses and you get closer to your physiological potential, you’ll see a decreased rate of improvement. For that reason, I’d suggest training at whatever FTP your previous assessment delivered, unless that feels far away from your potential.
+- However, you are spot on in recognizing that different training phases will yield different rates of improvement. It is normal to see substantial increases in FTP toward the end of your Base Phase, and this will continue as you move through the Build Phase. Once you have entered your Specialty Phase you should see a lower rate of improvement in FTP, and in some cases, you won’t see any improvement in FTP. This is due to the intent of the Specialty Phase being refinement rather than growth.
+- Heart rate: Useful for recovery. If your heart rate quickly reaches LTHR during LT intervals, and then promptly returns to pre-interval HR indicates an adequate level of recovery. If this recedes slowly, this might be a good indicator of fatigue.
+- *HR alone shows how hard our bodies are working but power shows how much work we're doing.*
+- As long intervals and workouts progress, HR climbs for the same level of output due to fatigue and/or dehydration.
