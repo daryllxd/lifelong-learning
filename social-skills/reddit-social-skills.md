@@ -3,7 +3,7 @@
 
 Everywhere you go, whether it be the bathroom or an important meeting, always walk like you're going somewhere important. When I started focusing on walking with purpose, at first it felt really stupid. Then, people started wanting to walk with me, for no real reason.
 
-I tried to imagine that I was carrying something really important, since I was usually carrying a book to class. I'd switch it up every once in a while to keep it feeling important. *Like one day I imagined I was on my way to turn in an essay I spent the last 3 weeks pouring my soul into. I know this essay is badass and the teacher is going to love it. You don't dump your heart into something like that and just shlop it onto the pile of other papers. You place it down with pride.*
+I tried to imagine that I was carrying something really important, since I was usually carrying a book to class. I'd switch it up every once in a while to keep it feeling important. *Like one day I imagined I was on my way to turn in an essay I spent the last 3 weeks pouring my soul into. I know this essay is badass and the teacher is going to love it. You don't dump your heart into something like that and just slop it onto the pile of other papers. You place it down with pride.*
 
 The Book of the Five Rings.
 
