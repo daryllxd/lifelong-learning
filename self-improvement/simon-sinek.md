@@ -17,3 +17,26 @@
 - Companies: if these kids didn't have the best parents, it's our job to teach them the thing.
 - Meetings: no cell phones in conference rooms.
 - Ideas happen when our minds wander and think about things.
+
+## Why good leaders make you feel safe | Simon Sinek
+[Reference](https://www.youtube.com/watch?v=lmyZMtPVodo)
+
+- Captain Swenson. He kissed the guy who he saved.
+- In the military, they give medals to people who are willing to sacrifice themselves so that others may gain.
+- In business, we give bonuses to people who are willing to sacrifice others so we may gain.
+- Are they just better people?
+- I think it is just the environment.
+- Why did you do it? Because they would have done the same for me.
+- The problem is that trust and cooperation are feelings. You can't just ask a person to trust them and you can't just ask them to cooperate with each other.
+- Benefits of trust: we are sure that we can sleep at night because we know that someone is guarding us.
+- "Sir if I don't follow the rules, I will
+- You have to not fear your leaders. If we feel safe in the organization, we will naturally combine our talents and strengths.
+- Great leaders want to provide their people opportunity, education, discipline, self-confidence, and give them opportunities to try and fail so they can achieve more than we can imagine for ourselves.
+- If you had hard times in our family, we would not consider laying off our children.
+- Company: You cannot get fired for performance issues. They will coach you and they will support you.
+- The hatred with banking CEOs: it's not the numbers, it's because they have violated leadership because they allowed their people to be sacrificed to serve their interests.
+- Great leaders would not sacrifice people to save the numbers, they will sacrifice the numbers to save the people.
+- "Better that all of us suffer a little than a few of us suffer a lot."
+- There are people who are authorities, and there are people who are leaders. Leaders take care of other people. Authorities are people that you just obey.
+- We call them leaders because they take risks so others may gain.
+- The organization you would want to work in: "because they would do the same for me."

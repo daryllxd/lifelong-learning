@@ -160,3 +160,69 @@
 - Broiling. Top of the oven, very fat.
 - Frying. Enough fat is put in a pan to cover the bottom, then the item is placed in the hot fat. This is a great way to start meat that will be baked, as it gives it that crispy delicious exterior. *Don't put too much of anything in at once when you're frying. When things are fried, they're generally giving off moisture.*
 - Sauteing. On a pan on the stove over medium-high heat. Turn the element on, then add some fat and let is spread out.
+- Until you are a good cook, follow recipes.
+- Master the breakfasts you like.
+- Master oatmeal.
+- Master making soup. Some veggies-potatoes, carrots, some other hard ones take take longer to cook than say, spinach.
+- Sandwiches. Master grilled sandwiches.
+- Master the meal salad.
+  - Greens: Mixed salads, spinach, thinly sliced chard, mustard greens, watercress, and lettuce.
+  - Fruit/vegetable: Apple, pear, asparagus, cucumber, steamed broccoli, avocado, tomato, carrot.
+  - Nut/meat: Bacon, chicken breast, most nuts.
+  - Cheese.
+- Dressing:
+  - Balsamic vinaigrette.
+- Non-bullshit potatoes: roasted garlic, baked potatoes.
+- Make a decent steak. Suggested: rib eye.
+- Get a crock-pot or generic slow-cooker.
+- Throw a dinner party. Cook things you know how to cook, because it's a bad time to experiment. Think of how the afternoon beforehand will look like. Dinner = meat, starch, and a vegetable.
+- Cheese plate:
+  - One soft cheese (brie, Camembert, Roquefort, Muenster).
+  - One hard cheese (pecorino, Manchego, Emmentaler).
+  - One orange cheese (Cheddar, Cotswold, Gouda).
+  - One bread.
+  - One accent (strawberries, olives, asparagus, mushrooms, artichoke hearts).
+- Puff pastry?
+- Good idea to have crackers/cheese/grapes/chilled water.
+- Washing dishes:
+  - Fill a clean kitchen sink with nice/hot water and add some squirts of Dawn/bleach. Let your dirty dishes sit in this for twenty minutes, then put on your latex gloves. One by one, take the items out of the water, scrub with a sponge, then rinse thoroughly in hot water.
+  - Wood shouldn't soak in water, so just clean it using your soapy, bleachy water.
+  - Cast iron should never ever go in water because it rusts. To clean it, rinse with hot water and use a scrubber, but not steel wool to get all the food off. Put it on the stove over low heat to evaporate all the water, then put a small amount of vegetable oil on a paper towel.
+
+## Fake It Till You Make It
+
+- *Remember that the outside world only sees your outermost layer.*
+- Watch your mouth.
+- Spend ten minutes a day gathering news, at least.
+- Develop your own opinions.
+- Revisit your perception of partying: parties as adults are different from parties as college students.
+- RSVP: Do not "maybe". RSVP with yes, no, or "let me check my schedule". Saying maybe is: "perhaps I'll go if nothing better comes up", "your invitation isn't important enough for me to decide one way or another", "or "I am a flaker".
+- Err on the side of attending events even if you don't totally feel like it.
+- Appearance, then bounce: Show up on time, hang out, the casually drop the You Cannot Stay with deep regret tone. Just say you have a prior commitment.
+- Glamorous people are not all that glamorous.
+- If you don't know anyone, well most probably they are not noticing.
+- Listen more than you talk.
+- Don't comment on things people are, comment on things people do.
+- "I'm sure you didn't mean that the way it sounded. Oh by the way, [good news about your life]."
+- Know how to wrap things up.
+- Send a thank you note.
+- If people are assholes, it's more like there's a problem with them, not you. The last time you were rude, you were probably pissed off.
+- Do not engage with crazy. It's just not worth it.
+- *Accept that in the deepest part of your heart, that just because you are right or have the upper moral hand does not mean you'll win.*
+- Deal with line-cutters as though they were sweet people who just need some gentle correction. Ninety percent: "Glad we've cleared this up!" and ten percent: "Seriously, fucker. Get to the end of the line."
+- To reduce everyday shambles:
+  - Deodorant/charger at home, at work, and in the car.
+  - Things that must not be lost.
+  - Get online banking.
+  - Be on time to things.
+  - Call and email people back promptly.
+
+## Get a Job
+
+- If you are the employee who shoes up on time without fuss, doesn't cause drama, and quietly but competently does the job you're paid for, then you will always be sought after.
+- The first job will not be glamorous, lucrative or fun. No job is beneath you. "Get on your grind and get it."
+- Accept the idea of networking. Conferences are nothing but networking. You can and should ask your homies if they are willing to tag you along with on networking opportunities.
+- "Hey, it was so nice to meet you. Do you have a card on you? Thanks, here's mine!"
+- Before having coffee: brush up on their work and what they have done.
+- Go on informational interviews near and far. "Going to be in town for a few days, and I've love to stop by and introduce myself."
+-
