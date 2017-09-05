@@ -71,3 +71,14 @@ Tyrion
 - When Daenerys sees what Jon is willing to give for everyone else (his scars from the stabbing), she falls in love with him.
 - The reason why they care for each other is that they have high standards and they know that the other lives for more than themselves.
 
+## 3 Easy Ways to Start A Conversation With Anyone
+[Reference](https://www.youtube.com/watch?v=Cbyc7mscFlA)
+
+- Human Twitter: Voice internal questions. The power of this is that we can ask people around us for things.
+  - Moving somewhere: "If you got here, where would you go?"
+  - Hear someone speaking a foreign language: "Where are you from?"
+  - Ask them how they feel: "how do you feel about the fight" or "what are your impressions of Santa Monica".
+- Human Twitter: Voice Internal Commentary.
+  - "A cowboy just walked into a bar." The point in this is that you're not coming in with a pre-planned line.
+  - When you get to the feeling part, that's when you get into a conversation.
+- When you're expected to be social, do the "hey, I don't think I've met you yet, my name is so-and-so." It shows that you know you're supposed to meet people, and it shows that you know some social skills.

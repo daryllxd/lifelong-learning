@@ -224,5 +224,86 @@
 - Accept the idea of networking. Conferences are nothing but networking. You can and should ask your homies if they are willing to tag you along with on networking opportunities.
 - "Hey, it was so nice to meet you. Do you have a card on you? Thanks, here's mine!"
 - Before having coffee: brush up on their work and what they have done.
-- Go on informational interviews near and far. "Going to be in town for a few days, and I've love to stop by and introduce myself."
--
+- Go on informational interviews near and far. "Going to be in town for a few days, and I've love to stop by and introduce myself." This implies that you are business-minded and a person who zips efficiently through airports and car rental counters en route to global domination.
+- If you wouldn't show or tell your mom, boss, and ex-boyfriend, don't put it on Facebook.
+- Customizing resume: don't use the same wording that you do in the job description.
+- Send a follow-up email after you send in your application.
+- Show up looking and sounding smart. They have to be left trembling after the presence of such awesome competence.
+- Don't talk about how great this job will be for you, talk about how great you are for the job.
+- Don't bad-mouth any past employers. Don't bad-mouth any current employers. Don't bad-mouth anyone.
+- Ask questions--this is a place you will spend forty or more hours per week. What does an average day look like for someone in this job? What kind of person would be most successful in this position? What makes your company culture unique? Anything you'd like to share with me about that job that we haven't covered yet?
+- Negotiating only works if you can demonstrate your value, so be sure to figure this out ahead of time.
+- If you show up looking spiffy on casual Fridays, then everyone else just looks kind of rumply by comparison.
+- At your desk:
+  - Deodorant.
+  - Hem tape/sewing kit.
+  - Lint roller.
+  - Pain reliever.
+  - Snacks.
+  - Disinfecting wipes.
+  - Hand sanitizer.
+  - Quarters.
+  - Travel toothbrush and toothpaste.
+  - Tissues.
+  - Mint.
+  - Label maker.
+- Don't verbally undermine yourself.
+- You can only call in fake-sick one day a year.
+- Don't just be likeable, be a good co-worker.
+- Generally, professional-type jobs should last a year, minimum.
+- Let people in your network know that you're looking.
+
+## Money
+
+- Ignoring money issues won't make them go away.
+- Budget: Know exactly how much money you have coming in.
+- Know what you are spending money on.
+- Take a hard look at the things you do not need to be spending money on.
+- Discretionary money per day.
+- Think of shopping like drinking. Are you shopping and buying things to make yourself happier, to quiet your sadness? Are you doing it despite consequences?
+- Anti-shopping mantra, and do not window-shop as though that's a real thing.
+- Before buying something, leave the store first.
+- Get what you came for.
+- Online tax-filing websites.
+
+## Maintenance
+
+- Cars: Find a mechanic who you love and who will realistically not rob you.
+- Used car: start it, smoke out the tailpipe, drive it to a fast speed, make sure it shifts, park, then check if anything's dripping.
+- Take to a mechanic to just check the car out.
+- Do not skip oil changes.
+- Get scheduled maintenance every 30k miles.
+  - Wheel is shaking: Probably a tire problem. Hard to steer if busted front tire, driving mushy if back wheel.
+  - Thumping/jerking when you step on the brake: new brake.
+  - Clunking when you are going straight: front axle is bad.
+  - Hearing a backfire when accelerating: spark plug is bad.
+- New tires: If the tread has worn down to less than 1/16th of an inch.
+- Clothing:
+  - Liquid laundry detergent.
+  - Stain remover.
+  - Mesh garment bag.
+  - Non-wire hangers.
+  - Steamer.
+  - Basic but not cheap iron.
+- Let your deodorant dry before putting on clothing.
+- Wash using cold water.
+- Hand-washing: fill a sink with cold water, than add washing detergent. Put your stuff inside and swish every now and then.
+- Hair spray to remove food or grease stains. Vinegar to get rid of laundry odors.
+- Bleach: use it on whites, on whites only. If you are wearing white, you must commit to it.
+- Before you write off something as ruined, take it to the dry cleaners.
+- Easy indoor plants:
+  - Succulents
+  - Small cacti
+  - Sago palm
+  - African violets
+  - Ficus trees
+  - Philodendron
+  - Spider plants
+- Stick your finger in the pot, if you can still feel moisture, you probably don't need any more water yet.
+- If the soil is very dry and the water just runs out of the bottom of the pot, place a bowl or plate under it and add water. This allows the dry soil to rehydrate, and your plant will soak up the water from the bottom.
+
+### Body
+
+- Anything that tastes really good--think twice about.
+- Shop around the edge of the grocery store: fruits, vegetables, meats, and a few carbohydrates.
+- Consider taking vitamins and probiotics daily.
