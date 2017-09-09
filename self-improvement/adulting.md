@@ -307,3 +307,49 @@
 - Anything that tastes really good--think twice about.
 - Shop around the edge of the grocery store: fruits, vegetables, meats, and a few carbohydrates.
 - Consider taking vitamins and probiotics daily.
+
+## Friends and Neighbors
+
+- Assess honestly your own friendship needs and wants.
+- Decide that you are going to have an amazing group of friends. You want a group of friends that's smart and interesting and engaging, that does fun stuff, and I'm going to find a way to make this happen.
+- Go to places that have the kinds of people you want to be friends with, and ask them on a friend-date if they're vaguely promising.
+- If you like them, announce your intention to become friends. "You're awesome, we should be friends!"
+- Find friends through your other friends.
+- If you and your friends all want to expand your social circle, you can make a dinner party where everyone has to invite someone new.
+- Be nice to new people.
+- Find an older friend. There are just lots of things someone who is twenty-seven knows, and even more things for someone who is thirty two.
+- Spend thirty seconds reaching out to someone rather than ruing the lost friendship.
+- Long-distance friends don't require a lot, but they do require some.
+- Be a fun-thing initiator.
+- Tell people you love why you love them.
+- Monitor your friendships like you do romantic relationships. Check if a friendship has run its course and if a person a toxic presence in your life.
+- Do not treat your friends like your unpaid life coaches.
+- Friends can and should be there for each other, but your friend can't be your psychiatrist, and it's not fair to ask them to be.
+- Remember that your new love interest is only moderately interesting to your friends.
+- Tell your friends the important things.
+- Neighbors
+  - The first time you see a new neighbor, introduce yourself.
+  - Don't make the first step the landlord. Give the offender the benefit of the doubt. "I just want to let you know that your music is pretty loud and I was hoping you could turn it down.
+- Be a good neighbor generally.
+- If there is an issue with a roommate, discuss it calmly.
+- If you find yourself dreading your at-home hours, then consider whether the living situation is right for you.
+
+## Love
+
+- Accept that heartbreak is inevitable, and realize that the only way to be a full human being is to experience it at least once.
+- Don't casually hurt people who love you, even if you don't love them. This is not good for your soul.
+- You need to have enough dignity and self-worth to walk away from something that is bad for you.
+- Be cool about being single. The happy ones don't go spend a bunch of time telling everyone how great it is.
+- Learn to enjoy your own company. The valid solution to sad singleness is not an end to the singleness, it's an end to the sadness. Buck up and learn to enjoy the pleasure of your own company.
+- If you're interested in someone, and you think they're interested in you, the only way to find out is to ask them out. Then you'll have your answer. Do not be ambiguous, because asking someone out clears up any remaining ambiguity.
+- Don't be friends with someone you're romantically interested in, hopefully they'll change their mind.
+- Don't be unkind to someone because they're interested in you. Not false hope, be flattered, be kind, but don't lead them on.
+- Friends with Benefits.
+  - You genuinely like them as a person.
+  - You have no desire to date them.
+  - They have no desire to date you.
+  - This doesn't hurt anyone's feelings.
+- No need to be a walk of shame, it can just be a walk.
+- If hooking up makes you feel bad about yourself, don't hook up.
+- Don't date someone you're not crazy about, or who isn't crazy about you.
+-
