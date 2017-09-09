@@ -26,7 +26,7 @@ The way to develop self-confidence, he said, is to do the thing you fear to do a
 
 Crowley was sentenced to the electric chair. When he arrived at the death house in Sing Sing, did he say, "This is what I get for killing people"? No, he said: "This is what I get for defending myself."
 
-The point of the story is this: "Two Gun" Crowley didn't blame himself for anything. 
+The point of the story is this: "Two Gun" Crowley didn't blame himself for anything.
 
 "I have spent the best years of my life giving people the lighter pleasures, helping them have a good time, and all I get is abuse, the existence of a hunted man." - Al Capone
 
@@ -46,7 +46,7 @@ He decided to try a different approach. The next time he found some of the worke
 
 There you are; human nature in action, wrongdoers, blaming everybody but themselves. We are all like that. So when you and I are tempted to criticize someone tomorrow, let's remember Al Capone, "Two Gun" Crowley and Albert Fall. Let's realize that criticisms are like homing pigeons. They always return home. Let's realize that the person we are going to correct and condemn will probably justify himself or herself, and condemn us in return; or, like the gentle Taft, will say: "I don't see how I could have done any differently from what I have."
 
-What was the secret of Lincoln's success in dealing with people? I studied the life of Abraham Lincoln for ten years and devoted all of three years to writing and rewriting a book entitled Lincoln the Unknown. Did he indulge in criticism? Oh, yes. Even after Lincoln had become a practicing lawyer in Springfield, Illinois, he attacked his opponents openly in letters published in the newspapers. But he did this just once too often. 
+What was the secret of Lincoln's success in dealing with people? I studied the life of Abraham Lincoln for ten years and devoted all of three years to writing and rewriting a book entitled Lincoln the Unknown. Did he indulge in criticism? Oh, yes. Even after Lincoln had become a practicing lawyer in Springfield, Illinois, he attacked his opponents openly in letters published in the newspapers. But he did this just once too often.
 
 That was the most lurid personal incident in Lincoln's life. It taught him an invaluable lesson in the art of dealing with people. Never again did he write an insulting letter. Never again did he ridicule anyone. And from that time on, he almost never criticized anybody for anything.
 
@@ -366,7 +366,7 @@ Principle 6 - Make the other person feel important-and do it sincerely.
 
 It was a sorely needed lesson because I had been an inveterate arguer. During my youth, I had argued with my brother about everything under the Milky Way. When I went to college, I studied logic and argumentation and went in for debating contests. Talk about being from Missouri, I was born there. I had to be shown. Later, I taught debating and argumentation in New York; and once, I am ashamed to admit, I planned to write a book on the subject. Since then, I have listened to, engaged in, and watched the effect of thousands of arguments. As a result of all this, I have come to the conclusion that there is only one way under high heaven to get the best of an argument - and that is to avoid it .
 
-Nine times out of ten, an argument ends with each of the contestants more firmly convinced than ever that he is absolutely right. 
+Nine times out of ten, an argument ends with each of the contestants more firmly convinced than ever that he is absolutely right.
 
 You can't win an argument. You can't because if you lose it, you lose it; and if you win it, you lose it. Why? Well, suppose you triumph over the other man and shoot his argument full of holes and prove that he is non compos mentis. Then what? You will feel fine. But what about him? You have made him feel inferior. You have hurt his pride. He will resent your triumph. And -
 
@@ -436,7 +436,7 @@ Few people are logical. Most of us are prejudiced and biased. Most of us are bli
 
 When we are wrong, we may admit it to ourselves. And if we are handled gently and tactfully, we may admit it to others and even take pride in our frankness and broad-mindedness. But not if someone else is trying to ram the unpalatable fact down our esophagus.
 
-But did all this bitterness make Lincoln agree with Greeley? Not at all. Ridicule and abuse never do. 
+But did all this bitterness make Lincoln agree with Greeley? Not at all. Ridicule and abuse never do.
 
 > "I am convinced now that nothing good is accomplished and a lot of damage can be done if you tell a person straight out that he or she is wrong. You only succeed in stripping that person of self-dignity and making yourself an unwelcome part of any discussion."
 
@@ -452,7 +452,7 @@ In other words, don't argue with your customer or your spouse or your adversary.
 
 That policeman, being human, wanted a feeling of importance; so when I began to condemn myself, the only way he could nourish his self-esteem was to take the magnanimous attitude of showing mercy.
 
-But instead of breaking lances with him, I admitted that he was absolutely right and I was absolutely wrong; I admitted it quickly, openly, and with enthusiasm. The affair terminated graciously in my taking his side and his taking my side. 
+But instead of breaking lances with him, I admitted that he was absolutely right and I was absolutely wrong; I admitted it quickly, openly, and with enthusiasm. The affair terminated graciously in my taking his side and his taking my side.
 
 If we know we are going to be rebuked anyhow, isn't it far better to beat the other person to it and do it ourselves? Isn't it much easier to listen to self-criticism than to bear condemnation from alien lips?
 
@@ -546,7 +546,7 @@ He decided on this new approach. With half a dozen unfinished artists' sketches 
 
 Ralph Waldo Emerson in his essay "Self-Reliance" stated: "In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."
 
-" 'After I got to know the President,' House said, 'I learned the best way to convert him to an idea was to plant it in his mind casually, but so as to interest him in it - so as to get him thinking about it on his own account. 
+" 'After I got to know the President,' House said, 'I learned the best way to convert him to an idea was to plant it in his mind casually, but so as to interest him in it - so as to get him thinking about it on his own account.
 
 • Principle 7 - Let the other person feel that the idea is his or hers.
 
@@ -558,7 +558,7 @@ There is a reason why the other man thinks and acts as he does. Ferret out that 
 
 "Stop a minute," says Kenneth M. Goode in his book How to Turn People Into Gold, "stop a minute to contrast your keen interest in your own affairs with your mild concern about anything else. Realize then, that everybody else in the world feels exactly the same way! Then, along with Lincoln and Roosevelt, you will have grasped the only solid foundation for interpersonal relationships; namely, that success in dealing with people depends on a sympathetic grasp of the other persons' viewpoint."
 
-In his book Getting Through to People, Dr. Gerald S. Nirenberg commented: "Cooperativeeness in conversation is achieved when you show that you consider the other person's ideas and feelings as important as your own. Starting your conversation by giving the other person the purpose or direction of your conversation, governing what you say by what you would want to hear if you were the listener, and accepting his or her viewpoint will encourage the listener to have an open mind to your ideas." 
+In his book Getting Through to People, Dr. Gerald S. Nirenberg commented: "Cooperativeeness in conversation is achieved when you show that you consider the other person's ideas and feelings as important as your own. Starting your conversation by giving the other person the purpose or direction of your conversation, governing what you say by what you would want to hear if you were the listener, and accepting his or her viewpoint will encourage the listener to have an open mind to your ideas."
 
 Tomorrow, before asking anyone to put out a fire or buy your product or contribute to your favorite charity, why not pause and close your eyes and try to think the whole thing through from another person's point of view? Ask yourself: "Why should he or she want to do it?" True, this will take time, but it will avoid making enemies and will get better results - and with less friction and less shoe leather.
 
@@ -771,7 +771,7 @@ Remember, we all crave appreciation and recognition, and will do almost anything
 
 True, she sat on the throne of France. True, she was the most beautiful woman in the world. But neither royalty nor beauty can keep love alive amidst the poisonous fumes of nagging. Eugenic could have raised her voice like Job of old and have wailed: "The thing which I greatly feared is come upon me." Come upon her? She brought it upon herself, poor woman, by her jealousy and her nagging. Of all the sure-fire, infernal devices ever invented by all the devils in hell for destroying love, nagging is the deadliest. It never fails. Like the bite of the king cobra, it always destroys, always kills.
 
-The wife of Count Leo Tolstoi discovered that—after it was too late. Before she passed away, she confessed to her daughters: "I was the cause of your father's death." Her daughters didn't reply. They were both crying. They knew their mother was telling the truth. They knew she had killed him with her constant complaining, her eternal criticisms, and her eternal nagging. 
+The wife of Count Leo Tolstoi discovered that—after it was too late. Before she passed away, she confessed to her daughters: "I was the cause of your father's death." Her daughters didn't reply. They were both crying. They knew their mother was telling the truth. They knew she had killed him with her constant complaining, her eternal criticisms, and her eternal nagging.
 
 In addition to fame, Tolstoi and his wife had wealth, social position, children. No marriage ever blossomed under softer skies. In the beginning, their happiness seemed too perfect, too intense, to endure. So kneeling together, they prayed to Almighty God to continue the ecstasy that was theirs. Then an astonishing thing happened. Tolstoi gradually changed. He became a totally different person. He became ashamed of the great books that he had written, and from that time on he devoted his life to writing pamphlets preaching peace and the abolition of war and poverty.
 
@@ -797,7 +797,7 @@ She didn't attempt to set up her intellect against Disraeli's. When he came home
 
 No matter how silly or scatterbrained she might appear in public, he never criticized her; he never uttered a word of reproach; and if anyone dared to ridicule her, he sprang to her defence with ferocious loyalty. Mary Anne wasn't perfect, yet for three decades she never tired of talking" about her husband, praising him, admiring him. Result? "We have been married thirty years," Disraeli said, "and I have never been bored by her." (Yet some people thought because Mary Anne didn't know history, she must be stupid!)
 
-For his part, Disraeli never made it any secret that Mary Anne was the most important thing in his life. Result? "Thanks to his kindness," Mary Anne used to tell their friends, "my life has been simply one long scene of happiness." Between them, they had a little joke. "You know," Disraeli would say, "I only married you for your money anyhow." And Mary Anne, smiling, would reply, "Yes, but if you had it to do over again, you'd marry me for love, wouldn't you?" And he admitted it was true. 
+For his part, Disraeli never made it any secret that Mary Anne was the most important thing in his life. Result? "Thanks to his kindness," Mary Anne used to tell their friends, "my life has been simply one long scene of happiness." Between them, they had a little joke. "You know," Disraeli would say, "I only married you for your money anyhow." And Mary Anne, smiling, would reply, "Yes, but if you had it to do over again, you'd marry me for love, wouldn't you?" And he admitted it was true.
 
 That's important enough to repeat: "The first thing to learn in intercourse with others is noninterference with their own peculiar ways of being happy ..."
 
