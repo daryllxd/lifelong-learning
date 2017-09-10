@@ -6,7 +6,6 @@
 - he doesn't need to be right all the time, nor does he need to be always safe, cooperative, and sharing, like an androgynous Mr. Nice Guy.
 - Modern roles used to be--men earn money, women take care of the kids. Men manipulated women through phy
 
-
 Stop Hoping for a Completion of Anything in Life.
 
  Your fear is the sharpest definition of your self. You should know it. You should feel it virtually constantly. Fear needs to become your friend, so that you are no longer uncomfortable with it.

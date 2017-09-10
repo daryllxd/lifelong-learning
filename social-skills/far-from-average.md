@@ -31,3 +31,23 @@ Starting a Conversation:
 - Start with your biggest insecurities and master them.
 - Self-esteem is how you value yourself. The more skills you have, the more you have to offer.
 - Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit at home and think about it. Go out and get busy.
+
+## FIRST IMPRESSION TIPS | USE THE CHAMELEON EFFECT
+[Reference](https://www.youtube.com/watch?v=9gEhPN1-zc0)
+
+- Psychological trick to leave first impressions: it usually is because of how they view themselves.
+- So you can change yourself a bit, like a chameleon, to make people feel better about themselves, make you a "pleasure source".
+- If you show this person supreme confidence around a shy person, then they might feel bad about themselves, which will make your first impression bad for them.
+
+## WHAT YOUR WALK SAYS ABOUT YOU | CONFIDENT WALKING STYLE FOR MEN
+[Reference](https://www.youtube.com/watch?v=hOzqo9m0elM)
+
+- Two basic walking styles:
+  - Expansive/loose style. Adventure.
+  - Slow and relaxed. Emotional stability.
+- These can show the current mood of a person. Happy people walk faster. Wider steps = courageous, confident.
+- Persistent: heavier footsteps.
+- Dragging feet: depressed or low energy.
+- Catwalk-style: "look at me".
+- Fast walkers: high energy, go-getter, courageous, confident.
+- Look ahead, avoid hunching over, keep the strides not too long nor too short.
