@@ -19,3 +19,21 @@
   - Authentication/authorization: GraphQL is another layer. We can use GraphQL to communicate the access tokens between the clients and the enforcing logic.
   - Client data caching: the location of the data can serve as a cache key for the client. To solve, use the query text as the key to the client.
   - `DataLoader`: a utility one can use to read data from databases and make it available to GraphQL resolver functions. No need to read the data directly, the loader will act as an agent to reduce the number of actual SQL queries we send to the database.
+
+## So what’s this GraphQL thing I keep hearing about?
+[Reference](https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
+
+- The solution Facebook came up with is conceptually very simple: instead of having multiple “dumb” endpoints, have a single “smart” endpoint that can take in complex queries, and then massage the data output into whatever shape the client requires.
+- Schema, queries, and resolvers.
+  - Queries: `query getMyPost($id: String) { post(id: $id) { title body author } }`.
+  - Resolvers: A resolver tells GraphQL how and where to fetch the data corresponding to a given field.
+  - *With GraphQL, your API schema and your database schemas are decoupled. There may be no `commentsCount` in the database, but we can simulate them through the power of resolvers.*
+  - Schema: Typed schema system.
+- Since you write your own resolvers, you can address any security concerns at that level.
+- Front-end developer's view:
+  - I can get many resources in a single request.
+  - I can customize the response to be what I want to be.
+- Back-end developer's view:
+  - Versionless API.
+  - No API documentation. By defining your resource type, you don't need to specify what your API response should look like, your front-end friends will specify it themselves by giving your the query they want.
+  - Introspection.
