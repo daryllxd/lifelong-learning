@@ -71,14 +71,14 @@ Set goals and write them down. Celebrate your successes then write new ones.
 
 ## Brandon Chu
 
-1. There are always going to be people who are smarter, better looking, more sociable, and just all around "better" than you.  In fact, you'll learn there are LOTS of people who fit that description.  To be happy, then, you have to learn to accept yourself and your shortcomings.
-2.  Success does indeed come from hard work.  Hard work without talent doesn't ensure success, but talent without hard work ensures mediocrity.
-3.  It's unlikely you'll become anything close to your wildest ambitions, simply because you'll learn everyone has big ambitions, and there's only so many slots in this world.
-4.  Idealism aside, money = opportunity and therefore matters. Relationships and power matter more.
-5.  Friendship isn't forever. Social and economic status does create divides and strains in even the oldest relationships.
-6.  Your parent basically gave up their freedom to raise you, and deserve a medal. You know this because with only one job on your plate, you already have no time.
-7.  Adult life is about learning to live with ambiguity. Remember when you thought you'd have it all sorted out by 30?  No.  Whether it be your career, your relationships or your beliefs, you will always question whether you are making the right choices and will have to deal with regret.
-8.  Metabolism slows.
+1. There are always going to be people who are smarter, better looking, more sociable, and just all around "better" than you. In fact, you'll learn there are LOTS of people who fit that description. To be happy, then, you have to learn to accept yourself and your shortcomings.
+2. Success does indeed come from hard work. Hard work without talent doesn't ensure success, but talent without hard work ensures mediocrity.
+3. It's unlikely you'll become anything close to your wildest ambitions, simply because you'll learn everyone has big ambitions, and there's only so many slots in this world.
+4. Idealism aside, money = opportunity and therefore matters. Relationships and power matter more.
+5. Friendship isn't forever. Social and economic status does create divides and strains in even the oldest relationships.
+6. Your parent basically gave up their freedom to raise you, and deserve a medal. You know this because with only one job on your plate, you already have no time.
+7. Adult life is about learning to live with ambiguity. Remember when you thought you'd have it all sorted out by 30? No. Whether it be your career, your relationships or your beliefs, you will always question whether you are making the right choices and will have to deal with regret.
+8. Metabolism slows.
 
 ## Andy Giroux
 
@@ -102,10 +102,10 @@ Be a realistic optimist. Keep your dreams in front of you and your head in the c
 
 You can do anything, but you can't do everything.
 
-Build career capital. *When you're 20, you don't know all the things there are to be passionate about.* You will also find that your deepest passions will come when you're truly good at something.  Get good and connected first, and then, when you are 35, you will naturally find yourself following passions much more compelling than the silly little things you called "passions" when you were 20.
+Build career capital. *When you're 20, you don't know all the things there are to be passionate about.* You will also find that your deepest passions will come when you're truly good at something. Get good and connected first, and then, when you are 35, you will naturally find yourself following passions much more compelling than the silly little things you called "passions" when you were 20.
 
 *Don't seek autonomy too soon.* Develop excellence in your field, get some connections, get a good feel for your industry, and squirrel away some "frak you" money before trying to set out on your own. It will usually work out better that way.
 
 *Focus on what Paul Graham calls "upwind skills." Upwind skills are things like writing, mathematics, design, and programming. These skills take time to build, and they will keep your options open more than other areas of focus.*
 
-Be less judgmental. When you see a doctor who doesn't know how to troubleshoot his car problems, don't scoff. Sure you COULD become a doctor if you wanted to. And you COULD become a master mechanic if you wanted to, but you likely won't become both.  You'll learn soon enough that you, too, will need to specialize, and can't become good at everything.  So stop projecting in your daydreams to a future self that is good at writing, programming, medicine, design, history, and auto mechanics. Just because you have a passing knowledge of those things at 20 doesn't mean you'll be an expert in all of them when you're 35. So don't judge the practitioner of X who shows a poor knowledge of Y.  Instead appreciate how he or she does X.
+Be less judgmental. When you see a doctor who doesn't know how to troubleshoot his car problems, don't scoff. Sure you COULD become a doctor if you wanted to. And you COULD become a master mechanic if you wanted to, but you likely won't become both. You'll learn soon enough that you, too, will need to specialize, and can't become good at everything. So stop projecting in your daydreams to a future self that is good at writing, programming, medicine, design, history, and auto mechanics. Just because you have a passing knowledge of those things at 20 doesn't mean you'll be an expert in all of them when you're 35. So don't judge the practitioner of X who shows a poor knowledge of Y. Instead appreciate how he or she does X.

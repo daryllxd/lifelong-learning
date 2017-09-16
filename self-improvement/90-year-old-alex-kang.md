@@ -3,10 +3,10 @@
 1. Life isn't fair, but it's still good.
 2. When in doubt, just take the next small step.
 3. Life is too short not to enjoy it.
-4. Your job won't take care of you when you are sick. Your friends and family will.
+4. **Your job won't take care of you when you are sick. Your friends and family will.**
 5. Don't buy stuff you don't need.
 6. You don't have to win every argument. Stay true to yourself.
-7. Cry with someone. It's more healing than crying alone.
+7. **Cry with someone. It's more healing than crying alone.**
 8. It's OK to get angry with God. He can take it.
 9. Save for things that matter.
 10. When it comes to chocolate, resistance is futile.
@@ -25,7 +25,7 @@
 23. Be eccentric now. Don't wait for old age to wear purple.
 24. The most important sex organ is the brain.
 25. No one is in charge of your happiness but you.
-26. Frame every so-called disaster with these words, ‘In five years, will this matter?’
+26. **Frame every so-called disaster with these words, ‘In five years, will this matter?’**
 27. Always choose Life.
 28. Forgive but don't forget.
 29. What other people think of you is none of your business.
@@ -45,4 +45,3 @@
 43. No matter how you feel, get up, dress up and show up.
 44. Yield.
 45. Life isn't tied with a bow, but it's still a gift.
-

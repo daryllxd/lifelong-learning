@@ -63,4 +63,3 @@
 - Magical thinking is a shield from the harsh truths of the world. If something negative has happened, it was for a reason, or there was a greater purpose behind it.
 - *We create beliefs in hosts, because we don't like believing that the universe is random.*
 - The discovery of LSD: He planned it first on animals.
-

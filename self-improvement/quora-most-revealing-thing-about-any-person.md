@@ -3,7 +3,7 @@
 
 "Nearly all men can stand adversity, but if you want to test a man's character, give him power." - Abraham Lincoln
 
-Watch how they treat people from whom they have nothing to gain. Lots of people are nice to the boss -  they don't want to get fired. Nice to the spouse - they don't want a divorce or maybe they want to sleep in the same bed at night or something. Even nice to people who work for them - because employees who are treated better tend to work better. But watch how a person treats people from whom they need nothing. That will tell you what they are really like.
+Watch how they treat people from whom they have nothing to gain. Lots of people are nice to the boss - they don't want to get fired. Nice to the spouse - they don't want a divorce or maybe they want to sleep in the same bed at night or something. Even nice to people who work for them - because employees who are treated better tend to work better. But watch how a person treats people from whom they need nothing. That will tell you what they are really like.
 
 "You can tell the greatness of a man by what makes him angry." - Abraham Lincoln
 
@@ -19,7 +19,7 @@ You don't know who someone is until you see them under pressure. It is when we a
 
 A man is known by the company he avoids.
 
-How the person manages his/her boredom. Some start bullying their loved ones for fun. Stealing, pranking, vandalizing or even terrorizing one's  own society also happen. On the other hand, other people instead decide to invent, create, nurture, volunteer, or learn something just for the sake of knowledge. In boredom, one could either create or destroy to feel better.
+How the person manages his/her boredom. Some start bullying their loved ones for fun. Stealing, pranking, vandalizing or even terrorizing one's own society also happen. On the other hand, other people instead decide to invent, create, nurture, volunteer, or learn something just for the sake of knowledge. In boredom, one could either create or destroy to feel better.
 
 "When the character of a man is not clear to you, look at his friends." Apart from face to face interaction (to understand by their body language and eyes) this is an extremely revealing point about someone. People can hide very well their true character but they cannot escape the semiotics of their social circle. In both my personal and business life this has been one rule that even though I have tried to ignore (due to my own biases), has come true time and time again.
 
