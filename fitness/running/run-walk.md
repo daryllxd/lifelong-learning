@@ -7,7 +7,6 @@
 - Some long-distance runners use this in training runs and races to help reduce muscle soreness and fatigue.
 - You should be able to carry on a conversation while running and your breathing shouldn't be heavy. Not only will you be able to run/walk longer, but you'll also prevent side stitches.
 
-
 ## Walking Breaks
 [Reference](http://fellrnr.com/wiki/Walking_Breaks)
 
