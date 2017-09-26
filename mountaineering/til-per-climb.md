@@ -1,3 +1,9 @@
+## Bahay Kalo 2017-09-24
+
+- Didn't cook lol.
+- Double check if your tent is complete.
+- Better prep cause you forgot some things.
+
 ## Ugo 2017-07-23
 
 - Cooked: Kare-kare.
