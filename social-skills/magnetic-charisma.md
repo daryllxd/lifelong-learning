@@ -72,3 +72,70 @@
 - Compliments: the things that people have made a conscious choice about. Compliment them on their clothing, fashion style, hairstyle, and living space. These are personal and impactful. **By complimenting someone on something they've clearly chosen with purpose, you acknowledge and validate the statement they have chosen to make about themselves.**
 - Compliment: Manners, the way they phrase certain ideas, their opinions, their worldview, and their perspective.
 - Reacting: follow them emotionally. When you figure out the primary emotion someone is trying to convey, show it to them as they are conveying it. When you notice that they are getting heated at certain points, get heated with them.
+
+### Goal Alignment
+
+- The goal you set for yourself influences all of your actions.
+- If your goal for the current year is to maximize your income through whatever means possible, you are going to work more, apply for more jobs, and have fewer free time.
+- If your goal is to carpe diem, then you are probably going to work as little as possible, perhaps even quit your job, and use your weekends to the max.
+- Job interview: all of our stories involve us as the good guy. Everything will have a positive slant, and we will glaze over our flaws or spin them into strengths somehow.
+
+#### Self-amusement and entertainment
+
+- Make it fun for yourself and make it fun for other people. Your goal when you speak to other people in a social setting should be to engage them and make it not boring for them and yourself.
+- We want to be around people who make us feel engaged, happy, and positive. You could even call that an alternate definition of charisma.
+- Be proactive and manufacture the type of interaction you want by making the first move.
+- Everyone has a quirky and fun side--they are people too, and they have friends who act in silly ways. And yet, people tend to act in a freer and more unfiltered manner with anyone besides their coworkers.
+- **To be entertaining (to others) and amusing (to yourself), it's your duty to dig below the surface and find what makes people beautifully abnormal or noteworthy.** Share your unconventional methods or views on a subject. This strays from the norm, and will make people react in ways that break their scripts and templates. In other words, a conversation they haven't encountered before, and one that isn't boring.
+- You don't become friends with someone because they meet your ideals or standards. You just find each other amusing and entertaining, and that's the entire basis of friendship at the outset.
+- Self-amusement begins with viewing others as opportunities to joke around. Develop the mindset of interacting with people and things in your daily life just to see what happens when you poke them, and it will serve you well in conversations.
+- Self-amusement: you initiate it. You can't rely on others to do the work for you, nor expect to be entertained by others like a sultan.
+- Taboo topics: more personal in nature, so in addition to creating an interesting line of conversation, you've just made it more personal and deep.
+
+#### Build trust and comfort
+
+- Tell the truth, and make it appear that you value the truth. It's important to be precise and exact with facts and numbers. Commit to dealing with the exact and precise truth and then dealing with in head-on, instead of hoping that it won't come up and dealing with the messy aftermath.
+- Hold yourself and others accountable, and don't blame others or deflect responsibility.
+- Element of genuineness so you don't appear fake, and show sincere reactions. It shows that you are making judgments off of what you see, and that you aren't biased or making judgments based on preconceptions.
+- When you refuse to talk about someone behind their back, you'll appear to be more loyal and show an awareness of what is right and wrong. When you can create a safe space for people to inhabit, they'll lower their guards.
+
+### Speak Their Language
+
+- Evolution: Favoring the familiar/people who are similar to us. We tended to stay alive more frequently when we stayed close to humanoid shapes and shadows.
+- If you feel that someone is the same status as you, or even higher, you're simply going to want to make a good impression on them and connect more. This bodes well for any conversation.
+- Mirroring: Reflecting on elements about things that you are similar to them about. If you conduct yourself in a way that you talk like them or you use the same tone of voice and mannerisms, it is easier for them to relate to you because they feel that you are familiar enough to include in their comfort zone.
+- Analogies.
+- Speak their language.
+
+### Charisma No-Nos
+
+- Just let go/Belief Police. You're a part of the BP if you have a strong need to be right, you can't stand it when people disagree, and you become consumed by imposing your thoughts on others.
+- You can correct people, and you can assert your opinion. But there are ways of doing that in a less abrasive way than outright telling people they are wrong.
+- Worst case scenario: defensiveness. **Relinquish your membership in the BP and let people think different thoughts from you. There is nothing at risk besides your pride and ego.**
+- Sharing too much/too little. Too much: talking but not communicating.
+- Be aware if people don't want to talk anymore.
+
+### Quickness and Violations
+
+- Better to just reply immediately, then correct yourself, rather than take time to come up with a correct answer.
+- If you meet someone and they're talking about a problem they have at work, they don't expect you to solve their problem. They put it out there for the sake of conversation.
+- Violations/humor: subjective, and is rooted in language.
+
+### Effective Listening
+
+- Divorces: not because of infidelity or money issues, but because of a failure to communicate and ineffective conflict resolution.
+- People like to think they are being communicative, when in reality, they are doing the bare minimum to assuage their own feelings of guilt or obligation.
+- Conversations that make people uncomfortable are often avoided, but most of them could be made far less painful if there was more effective listening.
+- Listening: synthesizing what someone tells you and dropping any pretense, responding to what they said and nothing less.
+- Listening isn't about you, no matter how related it is, or how funny of a joke you can make about it. It's about suppressing your urges and relinquishing the center-stage to someone else completely.
+- Listen with intent: Listening for the purpose of helping the other person. Following up: putting yourself in their emotional state.
+- There's often no logical explanation that will satisfy people in the light of an emotional event.
+
+### It's Not What You Say
+
+- Facial expressions are muscle contractions that involve the jaw and the mouth, but smiles also involved the eye muscles.
+- It was only authentic smiles that would make the eyes squint.
+- Posture: bad posture is when you're appearing to be shrinking so people can't see you and will ignore you. Good posture: standing tall, proud, and unafraid of attention.
+- Absence of eye contact = lack of trustworthiness. It is the non-verbal equivalent of: "Hi, how are you?"
+- Social touch: non-verbally showing your charismatic presence and sense of welcoming and openness. Touching socially = triggers feelings of intimacy, happiness, and openness.
+- Giving high fives = correlated with team and individual success.
