@@ -109,3 +109,57 @@
 - Don't get caught up in the results of your success. Always remain focused on what got you those results: the work.
 - Think at 10x. *When you take your goal of earning 100K this year and change it to 1M, you're forced to operate at a different level.* Are you willing to go for 10x thinking? Are you willing to question your own thought processes and open yourself to believing an entirely different set of possibilities?
 - Set goals that exceed your current capabilities. You need to aim beyond what you are capable of. You need to develop a complete disregard for where your abilities end. If your goals are logical, they won't force you to create luck. Being unstoppable means your goals challenge you to be someone more than you currently are.
+
+## 6 Things You Need to Recover From Every Day
+[Reference](https://medium.com/@benjaminhardy/6-things-you-need-to-recover-from-every-day-380f20a90f6c)
+
+- Work.
+  - Recovering from work: completely refraining from work-related activities and thoughts during non-work time.
+  - Most people are always "available" to their email and work.
+  - People who are successful in their work are often content being "unsuccessful" in the other areas of their lives, particularly their relationships. In other words, most people are okay with being mediocre spouses, parents, and friends, but are not okay with being mediocre in their jobs.
+  - Stimulants such as caffeine = byproduct of the 9-5 work shift.
+- Technology.
+  - Individuals who stopped staring at screens 1-2 hours before sleep: higher sleep quality and higher ability to maintain enthusiasm.
+  - Try avoiding technology for the first 30-60 minutes of waking.
+  - Avoid smartphone use for 1-2 hours before sleep.
+- People.
+  - 20-60 minutes per day to think, reflect, ponder, and plan.
+  - We all need time with people and time alone.
+- **Food.**
+  - You should be fasting from food for at least 18-24 hours on a weekly basis. When you fast, or "recover" from food, your body is given the opportunity to repair and rebuilt itself, rather than constantly digesting.
+  - Dissipates the craving for nicotine, alcohol, caffeine, other drugs.
+  - Increases levels of dopamine which elevates your happiness and confidence.
+  - A 16-hour fast can reset your sleep cycle.
+  - Being on an empty stomach helps you think and focus better. Hence, many people purposely skip breakfast so they can better focus on their creative work.
+  - Fasting stabilizes your emotions. This happens by detaching from the emotional dependence on food, in addition to removing over-stimulating foods like caffeine, processed sugars, recreational drugs, tobacco.
+  - Fasted state improves focus, memory, and ability to comprehend information.
+- **Exercise.**
+  - Shorter but more intensive exercise. Intensive activity followed by high quality rest and recovery.
+  - Wherever you are, make sure you are there.
+  - Sleep: increased memory, longer life, decreased inflammation, increased creativity, increased attention and focus, decreased fat and increased muscle mass, lower stress, decreased dependence on stimulants like caffeine, decreased risk of getting into accidents...
+
+## Focus On Learning and Creating Rather Than Being Entertained and Distracted
+[Reference](https://medium.com/the-mission/focus-on-learning-and-creating-rather-than-being-entertained-and-distracted-e6573de1bc84)
+
+- Most people are distracted while they're at work. They're distracted when they're with family and friends. They're distracted at the gym, on their commute, and even in the shower.
+- Most people don't prioritize learning and creating. They don't care enough to invest in their personal development and growth.
+- **Entertainment and distraction is the enemy of creation and learning. They will keep you in mediocrity. If you don't want to end up living a life of mediocrity, focus on learning and education.**
+- The extent of the struggle determines the extent of the growth. Formal education makes a living, but self-education makes a fortune.
+- Most people will continue to go through life "in quiet desperation", with their songs left unsung. Others dictate their income, their happiness, and their fulfillment.
+
+### We Attract Into Our Lives What We Are
+
+- **Any woman like that wouldn't want to have anything to do with someone like him!**
+- You must become a far better version of yourself to achieve the enormous success you want.
+- If you want a million dollars, do you have the mindset of a millionaire? **Do you have the financial knowledge and self-discipline to own that kind of money?**
+- Every day, millions of people attract mediocre opportunities, not realizing they are attracting who they are!
+- If you constantly engage in mediocre, low-frequency activities with toxic individuals, you'll only receive similar opportunities. You'll never experience the type of success of the world's most extraordinary people, because success is something you attract by the person you become.
+- Safety or freedom? You can't have both.
+- We trade our genius and artistry for apparent stability.
+- "The goal of life is not to relax on the beach, sipping mojitos all day. The purpose is to find something you love that adds value to the world." -Ben Foley
+- Your days must consistently be spent on high quality activities.
+- **Have I improved 1% on physical, emotional, mental, and spiritual health?**
+- If you want to live an extraordinary life, you need to give up a normal one.
+- **You can reasonably spend time with just about anyone. You can reasonably eat anything placed in front of you. You can reasonably justify activities and behaviors that are, frankly, mediocre.**
+- You can't continue being with low-frequency, negative people. You can't keep eating crappy foods that slow you down. You can't do many of the things you used to do. **This is what extraordinary requires. Most people see the price and simply say "no thanks". But anything is possibly if you pay the price.**
+- If your lifestyle does not add to your healing, it will subtract from it.
