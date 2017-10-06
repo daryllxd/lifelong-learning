@@ -9,7 +9,7 @@
 - Don't delude yourself into thinking that exercise can do the whole job. For many of us, exercising just causes us to eat that little bit more that cancels out its benefits.
 - *Permanent weight control requires permanent attention to what you eat. Lifelong, permanent attention.*
 - Slim people don't go hungry all the time, they are putting in just the right amount of food their bodies are burning. Even most overweight people maintain a constant weight without hunger.
-- *People who never get overweight have a mechanism in their bodies that tells them whent to eat and when to stop.*
+- *People who never get overweight have a mechanism in their bodies that tells them when to eat and when to stop.*
 - You only have to put up with it for a limited amount of time.
 - *Many things in life are unpleasant. Most are far more irritating than the day to day process of losing weight, and few yield comparable benefits.*
 - *What better motivation is there to maintain your weight that recalling how awful you felt when overweight and what you went through to shed that excess poundage?"*
