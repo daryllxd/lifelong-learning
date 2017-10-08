@@ -39,3 +39,11 @@ Types of food, quality of ingredients -> chemical and physical changes -> visual
 - White four: the wheat germ and bran are removed, but the germ and bran are beneficial to our health.
 - The good American diet: "Eat anything, just as long as you're willing to cook it yourself."
 - Culinary's biggest division: cooks vs bakers. Cooks: Toss it into the pot. Bakers: precise, exact measurements.
+- 1 cup = 256 grams.
+- Failure in the kitchen is actually success.
+
+### Recipes
+
+- Recipes: check out different examples.
+- Recipes are only a suggestion. They are notes, like a score or script. The oldest recipes are more like tweets rather than a scientific protocol. It wasn't until sometime in the 1800s that cookbooks began to give more precise measurements.
+- Maillard reactions?

@@ -20,3 +20,14 @@
 - IF: Skipping certain meals on purpose. Fasting for 16 hours and only eating within a specific 8-hour window.
 - During the fasted state, your body doesn't have a recently consumed meal to use as energy, so it is more likely to pull from the fat stored in your body as it's the only energy source readily available.
 - Our bodies react to energy consumption with insulin production. The more sensitive your body is to insulin, the more likely you'll be able you use the food you consume efficiently.
+- Meals following your workout will be stored most efficiently.
+- Cavemen ate when they could, endured and dealt with long periods of not eating, and his body adapter to still function optimally enough to still go out and catch new food.
+- Negative side effects?
+  - Initial transition might be a jolt to the system as it was for me.
+  - "Cognitive performance, activity, sleep, and mood are not adversely affected in health humans by two days of calorie-deprivation."
+  - IF is not a panacea.
+  - Just track your calorie intake in your meals to make sure you're not overeating. Portion control.
+- Wake up, heavy strength training in a fasted state.
+  - Consume 1/2 of my calories for the day.
+  - Consume the second portion of my calories for the day in a big dinner.
+  - Fast for 16 hours.
