@@ -1,3 +1,15 @@
+## What is Stoicism?
+[Reference](https://immoderatestoic.com/what-is-stoicism/)
+
+- Stoicism is a practical philosophy that aims to help us live well. **As Stoics, we learn to focus on what is in our power.** We ask ourselves, "What can we do to create a good life, no matter the circumstances we find ourselves in? What is required of us as human beings and what prevents us from living up to our full potential?" Consistent stoic practice increases our resilience, contentment, joy, and gives us the boldness necessary to tackle the tasks presented to us in life.
+- Living naturally = taking actions that allow us to flourish. We're looking for a way to be our best possible selves. Stoicism claims that humans are rational, social beings. Our nature is to use our rational mind for the benefit of yourselves and our society.
+- Stoics believe that if you are thinking clearly and acting properly, you can be joyful despite outer circumstances. One person can be content while being deathly ill, whereas another is miserable while in peak health; it's how we choose to see the world that matters. Stoics work to see the world differently. We concentrate our efforts on our own judgments and actions, the things we control, so that we know we did our best despite what fortune brings us.
+- Stoic virtues: justice, wisdom, temperance, and courage.
+- Discipline:
+  - Assent: Be mindful of our judgments at all times.
+  - Desire: Accepting our present circumstances. Don't waste effort on things that you can't control.
+  - Action: Love of humanity and the world. We act for the common good.
+
 ## Transcript for Good Fortune: Episode One
 [Reference](https://immoderatestoic.com/transcripts/?offset=1456240586309)
 
@@ -30,3 +42,26 @@
   - This should change our judgments on things concerning luxury, power, war, borders, and the worries of everyday life.
   - The things which do not depend on us, and which Stoics call "indifferents", are brought back to their true proportions.
   - Something about Carl Sagan.
+
+## Transcript of Good Fortune: Episode Twelve
+[Reference](https://immoderatestoic.com/transcripts/2016/3/18/gt)
+
+- Can you take a hot bath and leave the firewood as it was? Eat food without transforming it? Can any vital process take places without something being changed?
+- MA: "Nature takes substance and makes a horse. Like a sculptor with wax. And then melts it down and uses the material for a tree. Then for a person. Then for something else. Each existing only briefly. It does the container no harm to be put together, and none to be taken apart."
+- For the Stoic, change is a given. And as such, it becomes unreasonable to complain about change as if it were unexpected. As the Emperor says elsewhere, "How ridiculous and how strange to be surprised at anything which happens in life."
+- E: Remember that the promise of desire is the attainment of what you desire, that of aversion is not to fall into what is avoided, and that he who falls in his desire is unfortunate, while he who falls into what he would avoid experiences misfortune.
+- Therefore, it is impossible for a man who thinks he is being hurt to take pleasure in that which he thinks is hurting him, just as it is impossible to take pleasure in the hurt itself. Hence it follows that even a father is reviled by a son when he does not give his child some share in the things that seem to be good.
+- We live in the middle of things which have all been destined to die.
+- **We acknowledge the instability of the world so that we remember to put our energy into building up what can be stable, the only thing that can be, ourselves.**
+- The Stoic seeks to be virtuous no matter the circumstances of life. Just, always. Wise, always. Tempered, always. Courageous, always. The fruit of that virtue, serenity, is equally constant. In fact, Epictetus claims that, "no feature of serenity is so characteristic as continuity and freedom from hindrance." If we don't realize and internalize that the thing we're enjoying is impermanent by the very fact that it exists, then we will be disturbed the second it changes.
+
+## Transcript of Good Fortune: Episode Thirteen
+[Reference](https://immoderatestoic.com/transcripts/2016/9/27/transcript-of-good-fortune-episode-thirteen)
+
+- What is death, to the Stoic?
+  - Death is real. It's a fact. As such, death has to be addressed. However, people can build their entire lives (entire societies) around avoiding the fact of mortality. With death as a certainty, what is to be done?
+  - "It is not the things themselves that disturb people, but their judgments about those things. For example, death is nothing dreadful, or else Socrates too would have thought so, but the judgment that death is dreadful, this is the dreadful thing..." To pick up Epic's point, people understandably wail at the loss of their loved ones, but they sometimes rejoice at the death of their enemy. They grieve the loss of a child much differently then the death of their elders, particularly if the final years were painful ("it's a blessing, really"). The Stoic insistence is that we shape our reactions to death, the Stoic challenge is to reshape our judgments in a way that not only accepts, but embraces the fact that everything is mortal.
+- Why should we continuously confront death?
+  - Love now, be attentive now, enact justice now. "Keep before your eyes day by day...death; and then you will never have any abject thought, nor will you yearn for anything beyond measure." What better way to instill an urgency to be better than to remember every morning that we are not promised tomorrow?
+- Aurelius's Stoic epithet: he doesn't aim at things he can't control.
+- We are mortal. Our pasts are already gone. Our future isn't promised. This moment is what we have to work with. As Aurelius admonished, stop arguing about what a good person is and be one.

@@ -374,3 +374,42 @@
 - You too are going to die, and that's because you too were fortunate enough to have lived. You may not feel this. But go stand on a cliff sometime, and maybe you will.
 - "We're all going to die, all of us. What a circus! That alone should make us love each other, but it doesn't. We are terrorized and flattened by life's trivialities; we are eaten up by nothing."
 - The acceptance of my death, the understanding of my own fragility, has made everything easier--untangling my addictions, identifying and confronting my own entitlement, accepting responsibility for my own problems--suffering through my fears and uncertainties, accepting my failures and embracing rejections--it has all been made lighter by the thought of my own death.
+
+## THE REAL VALUE OF MONEY
+[Reference](https://markmanson.net/the-real-value-of-money)
+
+- When you buy food, you are buying away the experience of hunger.
+- When you buy a new suit for work, you are buying the social signals that you invest in yourself, that you take yourself seriously, and that you can be relied upon by others.
+- Stress cycles: High pressure job, then get money.
+- Ego cycles: They work in environments where they feel powerless. They take out their insecurity by spending their money on superficial status symbols.
+- Pain cycles. Physical (boxer) or emotional (demeaning jobs/abusive bosses). Pain relief--alcohol, drugs.
+- True wealth occurs when the way we spend our money is not compensating for how we earn it.
+- **Wealth occurs when the way we earn money and the way we spend money are aligned with one another — when our money is earned through a positive experience and spent on other positive experiences.**
+- The way to short-circuit these cycles, the way to escape the endless chase for another buck and the way to create genuine wealth, is to stop using money as your metric for success.
+- The real value of money emerges when we leverage it as a tool towards our success rather than making it success itself. When we channel it towards the experiences and values that we find more important. When we use it to build an innovative business, when it fuels our creativity or infuses our community, when it supports our family or shares love with our friends or adds to our personal health and satisfaction.
+
+## 10 LIFE LESSONS I LEARNED FROM SURVIVING MY 20S
+[Reference](https://markmanson.net/surviving-my-20s)
+
+- Fail early and often. No responsibilities yet. The best lessons are the disastrous failures that you have.
+- You can't force friendships. It's just how things are.
+- You're not supposed to accomplish all of your goals.
+- No one actually knows what the hell they're doing. Everyone works off their current best guess.
+- Most people in the world basically want the same things. Food, money, job, family, wanting to look cool and important. Everyone is proud of where they came from. Everyone has insecurities, anxieties, is afraid of failure, loves their friends and family...
+- The world doesn't care about you.
+- Popular culture = really extremists.
+- The sum of the little things matter: "If by overnight success, you meant staying up and coding all night, every night, for six years straight, then it felt really tiring and stressful."
+- The world is not that scary--travel.
+- Your parents are people too. You will notice that they also have their own screw-ups. Accept that they are people too. They're doing their best, even though they don't always know what the best is.
+
+## HOW TO QUIT YOUR DAY JOB AND TRAVEL THE WORLD
+[Reference](https://markmanson.net/kill-your-day-job)
+
+- If the answer to "do you love what you do" is a resounding "Yes, I live for this shit!", then I encourage you to seriously consider doing something about it.
+- We won't care about how got that quarterly bonus or a corner office.
+- What motivated me through that period: TERROR. The idea that I would never make money doing what I love; the terror that I'd have to go back to living off a job I hated...
+- 90% of your plans are going to fail. Get used to it.
+- Planning your escape.
+  - Sell all your useless crap and get your financial house in order. And they're often counterproductive for achieving happiness in general.
+  - Source of income? Online business, remote work, get transferred?
+- Escape velocity.
