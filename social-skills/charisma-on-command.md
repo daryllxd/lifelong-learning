@@ -82,3 +82,33 @@ Tyrion
   - "A cowboy just walked into a bar." The point in this is that you're not coming in with a pre-planned line.
   - When you get to the feeling part, that's when you get into a conversation.
 - When you're expected to be social, do the "hey, I don't think I've met you yet, my name is so-and-so." It shows that you know you're supposed to meet people, and it shows that you know some social skills.
+
+## How To Never Run Out Of Things To Say In Conversation
+[Reference](https://www.youtube.com/watch?v=QXiAPiw7vfc)
+- You know, that reminds me of something...
+- Open-ended conversations/why?
+- Revival questions: So how do you guys know one another? So whats your story? This is a super open-ended question. Or: "Any future plans?"
+- A question that is sort of a compliment. "You look like someone who is strong."
+- Flip the script/be silent for a while, allow them to think of something while being silent yourself.
+
+## 9 Mistakes That Kill Your Charisma
+[Reference](https://www.youtube.com/watch?v=R20DrhsdJaQ)
+
+- No proactively introducing themself: No Hi, I'm Daryll. Make eye contact and introduce yourself to everyone.
+- Not introducing your friends when you are in a new group.
+- Talking about things that no one cares about.
+- Not soliciting feedback: people should be able to ask questions. So you want to know if this is a good topic of not.
+- Trailing off mid-sentence. Speak in a full and clear voice.
+- Replying with short answers.
+- Whining.
+- Not remembering names.
+- Lacking principles. It's the people that have convictions that generate the most respect and are the most charismatic.
+
+## How To Make People Like You - Bruce Lee Charisma Breakdown
+[Reference](https://www.youtube.com/watch?v=k7DlYzODWmo)
+
+- Genuine smile. You need to radiate positivity. The muscular tension around the eyes.
+- Repeat back the words that you heard.
+- Affirming one another. "I agree with you..."
+- Correcting someone with a smile on your face. You can have a positive and a negative show of communication.
+- The more you get all components to sync with each other, then it is easier for them to show rapport. You want to have rapport between everything in yourself too.
