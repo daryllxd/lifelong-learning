@@ -1,32 +1,36 @@
 ## Design Patterns in Ruby -- Builder
 
-    class Computer
-      attr_accessor :display
-      attr_accessor :motherboard
-      attr_reader   :drives
+``` ruby
+class Computer
+  attr_accessor :display
+  attr_accessor :motherboard
+  attr_reader   :drives
 
-      def initialize(display=:crt, motherboard=Motherboard.new, drives=[])
-        @motherboard = motherboard
-        @drives = drives
-        @display = display
-      end
-    end
+  def initialize(display=:crt, motherboard=Motherboard.new, drives=[])
+    @motherboard = motherboard
+    @drives = drives
+    @display = display
+  end
+end
+```
 
 Display is either `:crt` or `:lcd`. Motherboard is another object, it has memory and it holds either an ordinary CPU or a turbo processor.
 
-    class CPU; end
-    class BasicCPU < CPU; end
-    class TurboCPU < CPU; end
+``` ruby
+class CPU; end
+class BasicCPU < CPU; end
+class TurboCPU < CPU; end
 
-    class Motherboard
-      attr_accessor :cpu
-      attr_accessor :memory_size
+class Motherboard
+  attr_accessor :cpu
+  attr_accessor :memory_size
 
-      def initialize(cpu=BasicCPU.new, memory_size=1000)
-          @cpu = cpu
-          @memory_size = memory_size
-      end
-    end
+  def initialize(cpu=BasicCPU.new, memory_size=1000)
+      @cpu = cpu
+      @memory_size = memory_size
+  end
+end
+```
 
 *The idea of `Builder` is you take this kind of construction logic and encapsulate it in a class all of its own.* The `builder` class takes charge of assembling all of the components of a complex object. Each builder has an interface that lets you specify the configuration of your new object step by step.
 
@@ -111,4 +115,49 @@ You will end up with the same computer, so you have to create a `reset` function
 
 So you can reuse the builder instance (you have to start the configuration again though).
 
-kdG
+## Refactoring in Ruby: The right place for a Builder?
+[Reference](http://ieftimov.com/refactoring-builder-pattern)
+
+- This applies any sort of configuration on object creation, and will allow finer control over the object creation.
+- Instead of `SmartPhone.new('Iphone' 4.7, 1.84)`, we can do `SmartPhoneBuilder.new.set_model('Iphone').add_processor(4.7).add_touchscreen(1.84)`.
+- And then, do something like `SmartPhoneBuilder.smartphone` to get the actual smartphone.
+- Block type variant:
+
+``` ruby
+class SmartPhoneBuilder
+  def self.build
+    builder = new
+    yield(builder)
+    buiilder.smartphone
+  end
+end
+
+smartphone = SmartphoneBuilder.build do |builder|
+  builder.set_model("Apple iPhone 6S")
+  builder.add_touchscreen(4.7)
+  builder.add_processor(1.84)
+  builder.add_ram(2048)
+  builder.add_memory(16384)
+  builder.set_os(:ios)
+end
+```
+
+We can also have validation on creation. Things like
+
+``` ruby
+def set_os(os)
+  validate_presence!("Operating System", os)
+  validate_os!(os)
+  @smartphone.os = os
+end
+
+def validate_presence!(attr_name, attr_value)
+  raise "#{attr_name} is required." if attr_value.nil?
+end
+
+def validate_os!(os)
+  unless VALID_OS.include?(os)
+    raise "Invalid Operating System: #{os}"
+  end
+end
+```
