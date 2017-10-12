@@ -163,3 +163,22 @@
 - **You can reasonably spend time with just about anyone. You can reasonably eat anything placed in front of you. You can reasonably justify activities and behaviors that are, frankly, mediocre.**
 - You can't continue being with low-frequency, negative people. You can't keep eating crappy foods that slow you down. You can't do many of the things you used to do. **This is what extraordinary requires. Most people see the price and simply say "no thanks". But anything is possibly if you pay the price.**
 - If your lifestyle does not add to your healing, it will subtract from it.
+
+## How to Become the Best in the World at What You Do
+[Reference](https://journal.thriveglobal.com/how-to-become-the-best-in-the-world-at-what-you-do-7d3e918780dd)
+
+- Getting to Ramen profitable: practice and putting yourself out there. Quantity became quality. And then they put something out that people loved.
+-  Coaching/education. Mentors that have changed how I write. Virtual online course. **You'll know when you're ready for the next level, because you'll make the proper investments in the teachers to help you get there.** Your level of commitment can directly be measured by how invested you are.
+- Create your own rules. Restructure the game to automate your success.
+- Consistency. It is the most fundamental virtue to becoming the person you want to be. Anyone can sprint, but everything meaningful in life is a marathon--meant to test your commitment and will.
+- Learn from people who have actually been there, as opposed to sideline spectators. Never take advice from someone you wouldn't want to switch places with.
+- Being holistic about your art.
+  - Journalling: to capture all the work your subconscious has been doing while you were sleeping.
+  - Or get to the project you were working on.
+  - “Pain and other chronic symptoms are physical manifestations of unresolved internal conflict. Symptoms surface as the instinctual mechanism for self-survival. They are messages from the inner self wanting to be heard, but ego takes center-stage, and hides the truth within the shadows of the unconscious mind: which is the body.”
+- Pre-performance routine to get you into the zone.
+- Cycling is a sport notorious for the amount of suffering required. As Tyler Hamilton has said, “I discovered when I went all out, when I put 100 percent of my energy into some intense, impossible task — when my heart was jack-hammering, when lactic acid was sizzling through my muscles — that’s when I felt good, normal, balanced.”
+- Cyclists often refer to “the pain cave,” which is a mental place they go deeper and deeper into as they’re competing. “I went deeper than I thought I would.” “I was at the limit.” “I was totally pinned.” You often hear phrases like these in interviews after a cycling race.
+- “Mental resilience is arguably the most critical trait of a world-class performer, and it should be nurtured continuously. Left to my own devices, I am always looking for ways to become more and more psychologically impregnable. When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it. My instinct is always to seek out challenges as opposed to avoiding them.” — Josh Waitzkin
+- When you begin feeling uncomfortable, that’s when you start feeling good. That’s when you’re growing. No pain no gain. That’s your happy place. That’s where most people stop. But not you.
+- Do it because of love.

@@ -1,3 +1,15 @@
+## Practical Golf
+[Reference](https://www.indiehackers.com/businesses/practical-golf)
+
+- In 2015 I founded Practical Golf, a blog that is focused on giving honest coaching advice to the everyday golfer.
+- My site has multiple revenue streams (affiliate income, premium memberships, my book, and consulting), but for this article I am going to focus on how I was able to write the book, which generated more than $25,000 in revenue.
+- Looking back on what I wrote, it wasn't that good. But if you want to become a writer, you have to write… a lot.
+- Then the idea hit me that I wanted to make an informal reference guide that didn't follow the traditional format of a non-fiction book. I thought it would be interesting to chronicle all the mistakes that golfers make, and offer reasonable solutions. My goal was to produce something a golfer of any level could read in an afternoon, and get real advice on how to improve.
+- Luckily my wife was an experienced copy editor, so as I finished chapters she would edit them, which saved money on hiring someone else (which you absolutely should do if you are going to publish a book). The only true out-of-pocket expense I had was about $60 to buy a Word template that would convert to paperback publishing standards for Amazon.
+- I chose Amazon for 101 Mistakes because at the time my website had a limited audience. It was an easy decision because it was the difference between marketing it to several thousand golfers, or several million. The tradeoff was giving up 33% of the revenue to Amazon, which I figured was well worth it.
+- So now the book had a clean looking sales page — positive official quotes and a bunch of five star reviews from people who had actually read it and liked the content. The last piece of the puzzle was a successful launch.
+- This is where having an existing audience really paid off. For about a year I had built up an email list by offering golfers weekly advice through my blog. On the official launch day I wrote an email announcing the book, clicked send, and hoped for the best.
+
 ## Hercules
 [Reference](https://www.indiehackers.com/businesses/hercules)
 
