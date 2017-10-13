@@ -60,3 +60,22 @@
   - If you're going to use an AHA, you need to add sun protection into your routine first.
   - Chemical exfoliation: start at a low percentage product and work your way up.
 - Spot treat.
+
+## Basic 5 Step Skin Care Routine For Better Looking Skin Instantly
+
+- **Cleanse your skin 1-to-2 times a day.** Hands, and cleanse your skin first thing in the morning and before sleeping at night. Don't overcleanse your face by cleansing more than 2 times a day.
+  - Cleanse using your hands instead of a rag or washcloth to avoid further irritating your skin.
+  - Cleanse it first thing in the morning because your body produces it at night.
+  - Cleanse before sleeping too.
+  - Don't do more than twice a day.
+- **Use a Toner after Cleansing.**
+  - Toners are used to make certain that you've gotten rid of all the oil and dirt.
+  - It also closes your pores to prevent infections.
+  - 20-60% alcohol?
+- **Moisturize.** This restores the moisture (oil) back to your face that the cleansing and/or toning took away.
+  - All skin types need this.
+  - Applying: pearl size, then spread to face.
+- **Exfoliate.**
+  - This is scrubbing off the old and ugly looking dead skin cells.
+  - No need to scrub for more than 1-2 minutes.
+- **Facials:** massage, steam is used to open your pores, and facials remove black heads, white heads, and blemishes.
