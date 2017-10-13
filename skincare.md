@@ -79,3 +79,22 @@
   - This is scrubbing off the old and ugly looking dead skin cells.
   - No need to scrub for more than 1-2 minutes.
 - **Facials:** massage, steam is used to open your pores, and facials remove black heads, white heads, and blemishes.
+
+## 15 Mistakes You're Making When You Wash Your Face
+[Reference](https://www.self.com/story/how-to-wash-your-face)
+
+- Forgetting to wash your face.
+- Skipping the morning cleanse.
+- Too hot water.
+- Using face cleanser to remove makeup.
+- Using only a makeup wipe to clean your face.
+- Using the wrong cleanser for your skin type.
+- Do not use a bar of soap to wash your face.
+- Reusing dirty wash cloths. Just get a set of basic white washcloths.
+- Wiping your face off with a shower towel.
+- Overscrubbing with an exfoliant.
+- Exfoliating more than once or twice a week.
+- Washing too often.
+- Washing your face before using their product.
+- Make sure your toner makes sense.
+- Not moisturizing right after cleansing. Just do it immediately.
