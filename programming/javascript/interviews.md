@@ -1,0 +1,40 @@
+## 10 Interview Questions Every JavaScript Developer Should Know
+[Reference](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+
+- Paradigms important for JS developers:
+  - Prototypal inheritance.
+  - Functional programming.
+- Functional programming:
+  - Pure functions/function purity.
+  - Avoiding side effects.
+  - Simple function composition.
+  - First-class functions, higher order functions.
+- Classical/prototypal inheritance.
+  - Class inheritance: instances inherit from classes (like a blueprint) and create sub-class relationships: hierarchical class taxonomies.
+  - Prototypal inheritance: instances inherit directly from other objects. `Object.create()`.
+- Pros and cons of OOP and FP?
+  - OOP Pros: Easier to understand since based on the real world. Imperative rather than declarative.
+  - OOP Cons: Depends on shared state. Objects and behaviors can be tacked on the same entity, which may be accessed at random by different functions, which may lead to race conditions.
+  - FP Pros: Avoid shared state/side effects, which eliminates bugs caused by multiple functions competing for the same resources.
+  - FP Cons: Hard to read. Steep learning curve.
+  - Good to head:
+    - Shared state. FP can simplify apps. Difference in learning curves. Side effects. OOP is resistant to change compared to an FP codebase. Immutability makes things like undo/redo easy.
+- When is classical inheritance an appropriate choice?
+  - Almost never. Composition over inheritance.
+- Prototypal inheritance:
+- What does favor object composition over class inheritance mean?
+  - Better to have not that much class hierarchies/tight coupling.
+- Two-way binding and one-way data flow?
+  - Two-way binding: UI fields are bound to model data dynamically such that when a UI field changes, the model data changes with it and vice-versa.
+  - One way data flow means the model is the single source of truth.
+- Monolithic vs microservice?
+  - Monolithic architecture means your app is written as one cohesive unit of code whose components are designed to work together.
+  - Monolithic pros: easier to see things like logging, rate limiting, audit trails. A bit faster since shared memory and not interprocess calls.
+  - Monolithic cons: tightly coupled/hard to isolate services. There may be dependencies, side-effects, and magic which are not obvious when you're looking for a particular service or controller.
+  - Microservice pros: More organized, each microservice has a very specific job.
+  - Microservice cons: You will discover cross-cutting concerns that you did not anticipate at design time. Monolithic apps can have helpers or middleware to handle such cross-cutting concerns.
+  - Overhead of separate modules or encapsulate cross-cutting concerns in another service layer that all traffic gets routed through.
+  - Microservices are frequently deployed on their own virtual machines or containers.
+- What is asynchronous programming:
+  - Synchronous: top to bottom.
+  - Asynchronous: event loop. A program thread can handle many concurrent operations. User interfaces are asynchronous by nature.
