@@ -42,3 +42,10 @@
 
 - Prime lens: one specific focal length. They are usually smaller and they can give you high depth of field and bokeh.
 - Wide apertures for great low light performance.
+
+
+- Lower length,
+- Crop: what you
+- Full frame, APS-C, Micro Four Thirds.
+- A 50mm lens did not change its focal
+- Higher focal length: tighter.
