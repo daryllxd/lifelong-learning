@@ -182,3 +182,37 @@
 - “Mental resilience is arguably the most critical trait of a world-class performer, and it should be nurtured continuously. Left to my own devices, I am always looking for ways to become more and more psychologically impregnable. When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it. My instinct is always to seek out challenges as opposed to avoiding them.” — Josh Waitzkin
 - When you begin feeling uncomfortable, that’s when you start feeling good. That’s when you’re growing. No pain no gain. That’s your happy place. That’s where most people stop. But not you.
 - Do it because of love.
+
+## How to Consistently Act From Your Deepest “Why” and Optimize Your Time
+[Reference](https://journal.thriveglobal.com/how-to-make-the-best-possible-use-of-your-time-335f15ecbefd)
+
+- It is the norm to waste large portions of one’s time.
+- Most people have very low standards for how they use their time.
+- They don’t have clarity about where they should direct their attention.
+- They haven’t created conditions to get clear on a daily basis.
+- They don’t believe they deserve to spend their time on ONLY those things which fascinate, challenge, and motivate them.
+- They haven’t discovered nor clarified their deepest held motivations, both for specific goals and for their life in general.
+- They act and operate from their base-level reasons, which aren’t inspiring.
+- Hence, most people’s time is spent either on stuff that literally irritates them, or at best, is merely “okay.”
+
+### Your Life Is A Reflection Of What You Believe You Deserve
+
+- Subconsciously, you believe you are "unworthy" of anything beyond what you currently have. Unworthy to have more, to contribute more, to experience more, to connect deeper.
+- What if you decided to eat ONLY healthy foods?
+- You raise the bar on what you believe you're worth.
+- You raise the standards for: the type of person you want to be, the quality of work you want to do, the types of people you want to be around, the way you spend your time, and the lifestyle you have.
+- Elevating your sense of what you deserve isn't about entitlement. It's about growth. At the deepest level, it's about giving and gratitude, the hallmarks of abundance.
+
+### Seeing The Forest For The Trees
+
+- The worm's-eye view: day-to-day routine for focus.
+- the bird's eye view: the direction you're headed, and why.
+- Because most people lack clarity, they aren't even sawing the right tree. Because people have low standards for themselves, they're fine spending large portions of time doing work that isn't making an impact. They prefer not getting stuff done.
+- Sacred place to do the activities that will elevate you for the day: in his case, the car.
+
+### Why do you want this?
+
+- Clarity leads to motivation. Operating from your deepest conviction creates authentic and optimal performance.
+- What about `___` is important to me?
+  - Working from home: because I am as effective working from home as I am from the office.
+  - Flexible schedule: because I do my best work in the deep evening.

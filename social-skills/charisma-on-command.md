@@ -112,3 +112,12 @@ Tyrion
 - Affirming one another. "I agree with you..."
 - Correcting someone with a smile on your face. You can have a positive and a negative show of communication.
 - The more you get all components to sync with each other, then it is easier for them to show rapport. You want to have rapport between everything in yourself too.
+
+## How To NEVER Be Boring
+[Reference](https://www.youtube.com/watch?v=_JxZY3d7kw0)
+
+- Improve your energy which will always help personal development and relationships
+- Make backup list of topics as second tip on how to never be boring
+- Learning to tell a good story as a self help in social will aid in self improvement too
+- Spend part of your every day pursuing a dream on the philosophy side
+- Unusual, high status, involves her.
