@@ -1,3 +1,5 @@
+# Haha bakit niyo binasabasa to :)))
+
 ## Bahay Kalo 2017-09-24
 
 - Didn't cook lol.
