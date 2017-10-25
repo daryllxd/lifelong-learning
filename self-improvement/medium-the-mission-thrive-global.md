@@ -216,3 +216,18 @@
 - What about `___` is important to me?
   - Working from home: because I am as effective working from home as I am from the office.
   - Flexible schedule: because I do my best work in the deep evening.
+
+## If You Don’t Believe In Setting Goals, It’s Because You Don’t Know How To Do It
+[Reference](https://journal.thriveglobal.com/if-you-dont-believe-in-setting-goals-it-s-because-you-don-t-know-how-to-do-it-96e7dbacca6d)
+
+- Faith: having a belief or hope in something that you can't see or something that doesn't currently exist.
+- People with a fixed mindset really have a really, really hard time learning. Why learn if you don't believe you can actually learn and evolve?
+- There is a dominant learning style. You don't have strengths or weaknesses per se, but you have positive or negative learning habits.
+- If you look at yourself in the mirror and believe in that person, then you are empowered. If you believe you can learn anything, you can. Are some things going to be harder to learn than others for you? Of course, but not because of fixed strengths and weaknesses, but because of atrophied or underdeveloped learning muscles, sabotaging beliefs, and bad habits.
+- When you believe in yourself, you love the person looking back at you in the mirror.
+- "My hero is me in 10 years."
+- What you need to achieve any goal:
+  - Clear goal, the more specific the better.
+  - You need to actually want that goal.
+  - You need to believe you can actually achieve your goal.
+  - 100% commitment to your goal. Until you become 100% committed to your goal, there's hesitancy. If you're hesitating, you're ineffective. You're not completely absorbed. You're not reflecting, acting, analyzing, deciding, and thinking about all the ways you can accomplish your goal.
