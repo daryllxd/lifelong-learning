@@ -129,3 +129,67 @@
 - **You must rewire your brain to be comfortable resisting distracting stimuli**
 - Teddy Roosevelt: When he is working on schoolwork, he is doing so with blistering intensity. Working with great intensity: no email breaks, no daydreaming, no Facebook browsing, no repeated trips to the coffee machine.
 - Productive meditation: a period where you are occupied physically, but not mentally--walking, jogging, driving, showering, and focus your attention on a single well-defined professional problem.
+
+- *Be wary of distractions and looping.*
+  - When you feel your attention slipping away, remind yourself that you can return yourself to that thought later, then redirect your attention back.
+  - Looping: Your mind, instead of solving a hard problem, will attempt to solve an easier problem.
+- *Structure your deep thinking.*
+  - "Thinking deeply" about a problem seems like a self-evident activity, but is actually not.
+  - "What do I have to do next?"
+  - Consolidating gains: reviewing the answer you just identified. At this point, you can push yourself to the next level of depth by starting the process over.
+- "Moonwalking with Einstein": when he was trying to understand elite memorizers, elite memorizers are good at essential information.
+- You have to be good in your general ability to concentrate. The quest to improve this memory gave him the deep work edge needed to thrive academically.
+  - Never do rote memorization.
+  - Associate a memorable person with each of the fifty-two possible cards.
+  - Then you try to memorize it as fast as you can.
+
+## Quit Social Media
+
+- He enjoyed eating food without Instagramming the experience. He bought a bike.
+- Accept that social media tools are not inherently evil, but at the same time accepting that the threshold for allowing a site regular access to your time and attention should be much more stringent, and that most people should therefore be using fewer tools.
+- Think of the hay baler: of course it has benefits, but of course it offers negatives as well. I propose that if you're a knowledge worker, you should treat your tool selection with the same level of care as other skilled workers, such as farmers.
+- Identify the main high-level goals in both your professional and your personal life.
+- Ex: Twitter. Better to write a good book and not have a nice Twitter thingie versus having a nice Twitter thingie but a sucky book.
+- "Of course Facebook offers benefits to your social life, but none are important enough to what really matters to you in this area to justify giving it access to your time and attention."
+- A college freshman SHOULD use Facebook if they want to have friends.
+- **The most important 20 percent or so of these activities provide the bulk of the benefit. This is why businesses fire clients.**
+- When you disconnect from the social network, ask yourself:
+  - "Would the last 30 days have been notably better if I had been able to use this service?" And did people care that I wasn't using this service?"
+- Part of what fueled social media's rapid ascent is its ability to short-circuit this connection between the hard work of producing real value and the positive reward of having people pay attention to you.
+
+### Don't Use the Internet to Entertain Yourself
+
+- "During the 16 hours that you are not working, you should perform rigorous self-improvement: reading great literature and poetry."
+- Entertainment sites: Huffington Post, BuzzFeed, Business Insider, Reddit.
+- **Put more thought into your leisure time.** You want this leisure time to be actual leisure. If you haven't given yourself something to do in a given moment, they'll always beckon as an appealing option. Like deliberately choose to read a book or watch a movie.
+
+## Drain the Shadows
+
+- Basecamp: 4 days of 8 hours of work. Employees are working fewer hours so they have to get more of the workweek done.
+- When you have fewer hours, you spend them more wisely.
+- Giving the employees the entire month of June off: tools for handling customer support, a data visualization system that helps the company understand how customers use their products.
+- Deep work hour limits: 1 hour for noobs, 4 for experts.
+- Shallow work doesn't become dangerous until after you add enough to begin to crowd out your bounded deep works for the day. Treat shallow work with suspicion because its damage is often vastly underestimated and its importance vastly overestimated.
+- We spend much of our day on autopilot--this is a problem. It's difficult to prevent the trivial from creeping into every corner of your schedule if you don't face your current balance between deep and shallow work, and then think "what makes the most sense right now?"
+- You can make things like task blocks.
+- Overflow blocks: the block after a long task is usually empty, but you have other tasks that you can put in that block. Like an "if I am able to finish this task by that time, do e-mail things."
+- Be liberal with your use of task blocks. Deploy many throughout your day and make them longer than required. Having regularly occurring blocks of time to address these surprises keeps things running smoothly.
+- If I think of an unexpected insight, then this is a perfectly valid reason to ignore the rest of the day.
+- **Planning is not about constraint, it's instead about thoughtfulness.** "What makes sense for me to do with the time that remains?"
+- Without structure, it's easy to allow your time to devolve into the shallow--email, social media, surfing. Although satisfying in the moment, it is not conducive to creativity. With structure, you can ensure that you regularly schedule blocks to grapple with a new idea, or work deeply on something challenging, or brainstorm for a fixed period.
+- "Is it shallow work?" -> How long would it take to train a smart recent college graduate with no specialized training in my field to complete this task?
+- 30-50% unskilled tasks.
+- If you work for yourself, this exercise will force you to confront the reality of how little time in your "busy" schedule you're actually producing value.
+- Don't work after so-and-so time. Fixed-schedule productivity: I fix the firm goal of not working past a certain time, then work backward to find productivity strategies that allow me to satisfy this declaration.
+- Respecting the hour limit means setting drastic goals on the major sources of shallow endeavors in her academic life.
+- Travel quota per year, "sounds interesting, but I can't make it due to schedule conflicts."
+- "I'll only respond to those proposals that are a good match for my schedule and interests." Reset your correspondents' expectations to the reality that you'll probably not respond.
+- Antonio Centeno
+  - "I am not asking a style question I could find by searching Google for 10 minutes."
+  - "I am not spamming Antonio with a cut-and-pasting generic request to promote my unrelated business."
+  - "I will do a good deed for some random stranger if Antonio responds within 23 hours."
+- Email replies:
+  - I'd love to grab coffee. Let's meet at the Starbucks on campus. Below, I listed 2 days next week when I'm free. For each day, I listed 3 times. If any of those day and time combinations work for you, let me know.
+  - Sometime in the next week, email me everything you remember about our discussion on the problem. Once I receive that message, I'll start a shared directory for the project and add it to a document that summarizes what you sent me. When you respond with your notes, indicate the date and time combination that works best for you and we'll consider that reply confirmation for the call.
+  - Thanks for getting back to me. I'm going to read this draft and send you back and edited version annotated with comments on Friday. No need to follow up with me after I return the edits, unless of course, there's an issue.
+  - Don't reply: If you want to meet with someone, make the email look like "I'm working on a project similar to Topic X with my advisor, professor Y. Is it okay if I stop by in the last 15 hours of your office hours on Thursday to explain what we're up to in more detail and see if it might complement your current project?
