@@ -1,0 +1,9 @@
+- Know who you're talking to.
+- The real you, not facts. Make your website a window, not a wall.
+- Values.
+- Show yourself: well-shot photo.
+- The story of your professional journey.
+- Portfolio, projects, client case studies.
+- Client testimonials.
+- Contact link.
+- How would the reader feel about that page when they're reading it?
