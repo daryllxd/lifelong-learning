@@ -1,0 +1,32 @@
+## 21 Secrets for your 20s
+[Reference](http://allgroanup.com/adult/21-secrets-for-your-20s/)
+
+- Never looking at your budget and never making a budget is the exact same thing.
+- The possibility for greatness and embarrassment both exist in the same space. If you're not willing to be embarrassed, you're probably not willing to be great.
+- Feel no shame in seeking help from a counselor or therapist. We all have crap we try to wrap and hide under the Christmas tree.
+- All job listings on Craigslist lead to a warehouse in downtown LA "wearing something nice with shoes you can walk in."
+- Don't ever check Facebook when you're:
+  - Depressed.
+  - Drinking.
+  - Depressed and drinking.
+  - Unemployed.
+  - Anytime after 9:17 pm.
+  - Struggling with being "blessed with singleness".
+- Making and keeping friends in our 20s takes intentionality.
+- Your 20s will produce more failures than you'll choose to remember. The key is when you fail, don't begin calling yourself a failure.
+- Every break up has two break ups.
+  - The first tearful "it's over".
+  - The real breakup.
+- Don't sit at your computer perched like a Roman gargoyle. Bust out before your butt does.
+- Cubicles don't make sense to anybody other than upper-management. You need to make your own Signature Sauce so that you can say goodbye to your cubicle, and hello to a purposeful and profitable life.
+- Quarter life crisis: stay put, pray a lot.
+- Reckless drinking and reckless flirting have a direct correlation. Friends don't let friends drive, or flirt, drunk.
+- Your 20s are a process of making faith your own apart from your parents and childhood.
+- Don't ever begin dating someone you first met whilst in swimsuits. Doubly-don't if you're both in swimsuits whilst holding an alcoholic beverage.
+- Obsessive Comparison Disorder is the smallpox of our generation. Remember, everyone's too busy putting a PR spin on their Facebook profile to care much about yours.
+- Life will never feel like it's supposed to.
+- Success in your 20s is more about setting the table than enjoying the feast.
+- Marriage will not fix any of your problems. Instead, marriage will put a magnifying glass on how many problems you really have.
+- An assortment of crappy jobs are a twenty-something rite of passage. Figure out what you need to learn there and learn it.
+- Great ideas alone mean nothing.
+- The grass is always greener on the other side until you get there and realize it's because of all the manure.
