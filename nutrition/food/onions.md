@@ -1,7 +1,7 @@
 ## How To Cook Onions Correctly
 [Reference](http://www.thekitchn.com/how-to-cook-onions-correctly-cooking-lessons-from-the-kitchn-185575)
 
-- Raw:  pungent, caramelized: sweet silkiness.
+- Raw: pungent, caramelized: sweet silkiness.
 - Saute: means to fry something quickly in a small amount of fat. As onions cook, they will take on a sweeter, caramel-like aroma and they will lose a lot of volume.
 - Sweating the onions: You can put salt on the onions, this will draw the moisture out of them (sweating them). They will start to glisten and look wet.
 - Translucent.
