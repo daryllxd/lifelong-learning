@@ -23,3 +23,15 @@ Before cooking the chicken, make sure to rinse off the excess brine with fresh w
 - Pounding chicken: meat with uniform thickness is going to cook much more evenly, and a thinner piece of meat is going to cook much more quickly.
 - You can also marinade after you do the pounding.
 - 3/4 inch thickness.
+
+## How to Tenderize Chicken
+[Reference](https://www.wikihow.com/Tenderize-Chicken)
+
+- Pounding the meat: breaks down fibers and allows for very fast cooking.
+- Marinade: yogurt or buttermilk, because they contain enzymes and acids that work together to break down the proteins in chicken meat, causing it to become more tender. That's why so many cooks know that soaking results in the very best fried chicken imaginable.
+- Marinating.
+  - Acidic (vinegar/lemon juice) can toughen the meat.
+  - Pineapple/meat tenderizer can cause the chicken meat to become mushy.
+  - Fruit marinade.
+  - Soda as a marinade: cola?
+- Allowing the chicken to rest after cooking: cover with aluminum foil and let sit for 5 to 10 minutes, so juices redistribute.
