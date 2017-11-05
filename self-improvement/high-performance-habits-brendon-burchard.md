@@ -248,3 +248,231 @@
 - You get things done, because you have to. There' not much choice; your heart and soul and the needs of the moment are telling you to act. It just feels right to do something. And if you didn't do it, you'd feel bad about yourself. You'd feel as though you weren't living up to your standards, meeting your obligations, or fulfilling your duties or your destiny.
 - **"People need me now, they're counting on me. I can't miss this opportunity. If I don't do this now, I'll regret it forever."**
 - You cannot become extraordinary without a sense that it's absolutely necessary to excel. You must get more emotionally committed to what you're doing, and reach that point where success is not an occasional preference but a soul-deep necessity.
+
+### Necessity Basics
+
+- "Whatever I have tried to do in life, I have tried with all my heart to do it well; whatever I have devoted myself to, I have devoted myself to completely."
+- Internal forces: the feelings of being frustrated or happy with your performance. Our values, our expectations, our dreams, our goals, our need for safety, belonging, congruence, growth.
+
+### High Personal Standards and Commitment to Excellence
+
+- The quality of a person's life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor.
+- High standard, regardless if you choose the task or if you enjoy the task. You may hate this workout but you recognize that you need to do it to get better.
+- You want to set challenging goals that mean something to them personally.
+- **High performers care even more about excellence and thus put more effort into their activities than others do.** They check in several times throughout the day to see whether they are living up to those standards.
+- **People who set goals and regularly self-monitor are almost two and a half times more likely to attain their goals. They also develop more accurate plans and feel more motivated to follow through on them.**
+- They feel they're on the right path because they frequently check in with themselves.
+- Most high performers find them more than willing to face their faults and address their weaknesses. They don't avoid the conversation. They don't pretend to be perfect. They want to talk about how to improve, because at their core, their identity and enjoyment in life are tied to growth.
+- **When your identity says, "I'm someone who gets things done and does them with excellence", or "I'm a successful person who cares a bout the details and how things turn out", then you care when things go sideways.**
+- Choking is surprisingly rare for high performers because they're so used to dealing with high necessity.
+- Sometimes, the fastest way to get back in the game is to expect something from yourself again. Tie your identity to doing a good job. Remember to set challenging goals. Better to set difficult and specific goals than vague and non-challenging goals.
+- They make their dream a necessity. Their future identity it tied to it, they expect themselves to make it happen, and so they do.
+
+### Obsession with Understanding and Mastering a Topic
+
+- If a standard for excellence makes solid performance necessary, then the internal force of curiosity makes it enjoyable.
+- High intrinsic motivation: they do things because those things are interesting, enjoyable, and personally satisfying.
+- Grit is combined passion and perseverance. It matters how long you focus on and train for something. People who become world-class at anything focus longer and harder on their craft.
+- **Our challenge is that we have been conditioned to believe the opposite of these things—that bold action or swift progress is somehow dangerous or reckless. But a certain degree of insanity and recklessness is necessary to advance or innovate anything, to make any new or remarkable or meaningful contributions. What great thing was ever accomplished without a little recklessness? So-called recklessness was required for the extraordinary to happen: crossing the oceans, ending slavery, rocketing man into space, building skyscrapers, decoding the genome, starting new businesses, and innovating entire industries. It is reckless to try something that has never been done, to move against convention, to begin before all conditions are good and preparations are perfected. But the bold know that to win, one must first begin. They also deeply understand that a degree of risk is inevitable and necessary should there be any real reward. Yes, any plunge into the unknown is reckless—but that’s where the treasure lies.**
+- When you are passionate about what you do, people understand. When you are obsessed, they think you're mad. That's the difference.
+- You know within minutes of meeting someone whether they have an obsession. If they have it, they're curious, engaged, excited to learn and talk about something specific and deeply important to them. They say things like "I love doing what I do so much, I'm sort of obsessed." Or, "I live, eat, and breathe this; I can't imagine doing something else, this is who I am."
+- The moment you know that something has transcended being a passion and has become an obsession is when that something gets tied to your identity.
+- Obsession is not something to fear. It is a badge of honor. When people are obsessed with something, they enjoy doing it so much that they don't feel the need to apologize to others for it. They lose hours working at a task or improving a skill. And they love it.
+- What is normal: normal is being distracted. If an abnormal amount of focus is "unhealthy", then high performers are guilty as charged. But think about it. This wouldn't be unhealthy because if it is, then they wouldn't be high performers.
+- That's why I encourage people to keep experimenting in life until they find something that sparks unusual interest.
+
+### External Forces
+
+- External demands don't correlate to a strong performance. If they do feel pressure from others, it just reinforces choices or behaviors they may have already have committed to.
+- "Positive" external forces are causal reasons for increased performance. Even obligations and difficult-to-meet deadlines are viewed as positive performance enhancers.
+- Duty: people tend to maintain motivation if they are held accountable for their outcomes, are evaluated more often, and have the opportunity to demonstrate their expertise or gain respect from those they serve.
+- **If you owe it to someone to do well, and you feel that doing well will exhibit your expertise, then you'll feel greater necessity to perform at high levels.**
+- Even if parents hate waking up to change a diaper, adherence to meeting that "positive" obligation helps make them feel like good parents, which is at least part of what motivates them to do it.
+- At work, a sense of "doing the right thing" drives positive emotions and performance as well. Employees who are the most committed feel that it would be "wrong" to leave a company if their absence would hurt the company's future.
+- Don't get pulled into fake urgencies/doing what really matters when it matters.
+- If I didn't finish this book, my family would mutiny, my friends would abduct me, and my publisher would dump me. When there was a real deadline, the words per hour increased exponentially.
+- Real deadlines: are inherently social. They recognize that their timeliness affects other people.
+- If people feel like they aren't as consistent or as disciplined as they should be, you can ask them about necessity.
+
+### Know Who Needs Your Game
+
+- I've never met a high performer who didn't consistently ponder whether they were giving their best, and not just for themselves but for others. They have come to assess your performance at regular intervals.
+  - Dabblers: passing interest in life.
+  - Novices: more intent on developing an expertise, but they stop at obstacles.
+  - Amateurs have passion, but they need external validation.
+  - Players: greater commitment and skill, as long as they get their turn and get compensation. If the game changes, they're quickly embittered.
+  - High performers: All-in, high level no matter the recognition or rewards, because the game is intrinsically rewarding and also part of how they view their service to the world. Don't mind sharing the spotlight. High degree of personal excellence and duty to the team.
+- You need to immerse yourself fully in activities that force you to stretch. You have to put yourself in situations that make you feel good.
+
+### Affirm the Why
+
+- Confidently affirming their goals to themselves and others.
+- To affirm is to declare or assert something as valid or confirmed. It is saying with confidence that something is true or will happen.
+- Doesn't matter if extrovert or introvert.
+- While they are exuberant in sharing their whys with others, they rarely declare that their approach is always right. They just want to make sure that their approach is the best one available.
+- If you tell something can be done, it will be done. There are social stakes. I promised that something was going to happen, and if it doesn't, then I didn't meet my promise. I didn't keep my word. I risk looking like a fool or like something lacking integrity, neither of which I want.
+- "You're doing this because it's important. You can inspire them and help them reach their goals. That's your purpose. Do good for them."
+- Base things on intrinsic rewards (helping people and loving the process), rather than on intrinsic rewards (making money, awards, feedback). Not all affirmations are created equal--intrinsic ones are stronger.
+- **When those with anxiety disorders find the courage to overcome their symptoms, the strategy they list most commonly is to remind themselves of the value of the goals they are after.**
+
+### Level Up Your Squad
+
+- Find a group of people who challenge and inspire you, spend a lot of time with them, and it will change your life.
+- It's not just about increasing time with your current squad, but adding new people to the squad as well.
+- The people around you affect how much you sleep, the food that you eat, and how much money you spend or save.
+- Smoking, obesity, loneliness, depression, divorce, and drug use tend to grow in social clusters.
+- The belief that you can improve with effort. Turns out this is important.
+- You want to be strategic re: working with others at or above their level of competence, experience, or overall success.
+- Remember: people have bad days, and a lot of their attitude toward you has nothing to do with you. They're in their own world and going through difficulties.
+- No other choice: "I was hungry. I had to succeed. There was no other choice."
+- You have to be deliberate about raising your level of necessity.
+  - Why is chasing this dream so important to me? Why must I do this? When must I do it? How can I get around more amazing people who up my game and help me serve at the next level? These questions, frequently revisited, can be the prompts for an entirely new level of commitment and drive.
+
+## Increase Productivity
+
+- "Don't think about making art, just get it done. Let everyone else decide if it's good or bad, whether they love it or hate it. While they are deciding, make even more art."
+- One of the worst feelings in the world is to be incredibly busy but feel that you're not making any progress.
+- Sometimes, being effective isn't enough because achievement can be hollow if it gets out of sync with who you are, what you really want to be doing, what you're actually capable off.
+- If you feel you are more productive, you are more likely to feel better, successful, and more confident. You're also more likely to take better care of yourself, get promoted more often, and earn more than people who feel less productive.
+- Basics:
+  - Setting goals and maintaining energy and focus.
+  - Happy people aren't just more productive, they also receive higher evaluations for quality of work, dependability, and creativity. **Even just watching a comedy clip to bring some joy into your life before doing serious work can increase productivity.**
+- You can spend time at the start of the week planning the rest of the week.
+- Health, family, friends, intimate relationship, mission/work, finances, adventure, hobby, spirituality, emotion.
+- You'll always feel out of balance if you're doing work that you don't find engaging and meaningful.
+- Intermittent breaks throughout the day. Everyone gets tired.
+- Transitioning: this does not include email, texts, social media. Checking in is the opposite of our goal which is to check out.
+- The two-minute physical routine of calisthenics/Qi Gong/yoga paired with deep breathing.
+
+### Increase the Outputs that Matter
+
+- Prolific quality output. They aim their attention and consistent efforts towards PQO and minimize any distractions that would steal them away from their craft.
+- What is relevant PQO?
+  - Blogger: frequent and better content.
+  - Parent: great experiences with the kids.
+- You want to create things that matter. You want to know that a good day's work produces something worthwhile, something that will be part of your important contributions to others and the world, something that shows you care about your craft.
+- If I'm going to be a real writer, then my productive output needed to become books.
+- If I'm going to be a professional speaker, then my PQO would be the number of paid speaking gigs at a certain booking fee.
+- If I'm going to be an online course trainer, then my PQO would be curriculum, training videos, and full online courses.
+- I just put more effort into creating and promoting online courses.
+- You want to quickly discover what output you should be creating. You want 60% of your workweek oriented to PQO.
+- 60% writing, creating curriculum, filming videos. 40% strategy, team management, industry relationships, and customer engagement, which includes social media and communicating with students.
+- Common excuses (delusions?): procrastination and perfectionism.
+  - What the hell is procrastination? It's not even a personality trait. It's not poor time management. It's a motivational problem. Because you're not working on things that intrinsically matter to you. It can be a bout anxiety or fear of failure, but far more often it stems from working on things that don't excite you, engage you, or matter to you.
+  - This is why you need your PQOs. If you love what you're creating or contributing in the world, you'll experience less procrastination.
+  - Perfectionism: just a delay logic fancied up to look respectable. THEY RARELY EVEN BEGIN. A true perfectionist would have at least completed and released their work, since the very act of perfecting something comes only after it is completed, released, and them improved on.
+
+### Chart Your Five Moves
+
+- Distraction: not the lazy kind. When you start making moves with no unifying power, you just achieve little things, not big, meaningful things.
+- When goals or projects are complex, planning always improves performance.
+- If there were only five major moves to make that goal happen, what would they be?
+- Being a best-selling author:
+  - Interviewing several number one best-selling authors and deconstructing their major activities.
+  - Find successful people and discover their five moves.
+  - Learnings:
+    - Hard work/discipline, not about the idealism of "being a writer".
+    - Writers' conferences = not a factor.
+    - No talk about focus groups.
+    - Years of research = not really a determining factor.
+    - Few mentioned major media coverage.
+  - Actual steps:
+    - Finish writing a good book. Until that's done, nothing else matters.
+    - To get a major publishing deal, get an agent, or just self-publish.
+    - Start blogging and posting to social media, and use these to get an e-mail list of subscribers. E-mail is everything.
+    - Create a book promotion web page and offer some awesome bonuses to get people to buy the book. Bonuses are critical.
+    - Get 5-10 people with huge e-mail lists to promote your book. You will promote them later.
+
+### Get Insanely Good at Key Skills
+
+- Everything is trainable. No matter what skill you want to learn, you can become more proficient at it.
+- When people say, "I can't", it's usually code for "I am unwilling to do the long-term training and conditioning necessary to achieve that."
+- Psychology, philosophy, and self-help. For most authors, something happened to them that inspired them to improve their life, explore how to become a better person, and want to help others on that journey.
+- Progressive mastery:
+  - Determine a skill that you want to master.
+  - Set specific stretch goals on your path to improving that skill.
+  - Attach high levels of emotion and meaning to your journey and your results.
+  - Identify the factors critical to success.
+  - Develop visualizations that clearly imagine what success and failure look like.
+  - Schedule challenging practices.
+  - Measure your progress and get outside feedback.
+  - Socialize your learning and efforts by practicing or competing with others.
+  - Continue setting higher-level goals so that you keep improving.
+  - Teach others what you are learning.
+- Progressive mastery:
+  - Getting a coach.
+  - Challenging yourself beyond your comfort zone.
+  - Developing a mental representation of what success should be.
+  - Tracking your progress.
+  - Fixing your weaknesses.
+- Emotion, socialization, teaching.
+  - You are more strategic and disciplined in how you attach emotion to your journey, enhance your capabilities by training or competing with others, and use the power of teaching to discover greater insights into your own craft.
+- Ex: swimming.
+  - You determined that you specifically wanted to develop your skill as a freestyle swimmer.
+  - You set goals for how fast and efficiently you entered the water, swam a lap, executed a turn, and finished  your last ten meters.
+  - Before every practice, you reminded yourself why it was so important for you to get better at this, and you talked about your goals with someone who cared about your performance.
+  - You determine that a critical factor to success was your ability to work y our hips efficiently in the water and that your major weakness was a lack of finishing stamina.
+  - Every night, you visualized the perfect race, imagining in detail how you would move through the water, kick off the turn, power through failure, go for it in the lat few strokes.
+  - Worked with an expert swim coach.
+  - Measured your progress in a journal every time you swam.
+  - Consistently swimming with people better than you, and entering competitions so you could face better swimmers than you.
+  - Higher goals for the next session.
+  - Once per week, you formally mentored another swimmer on your team or taught a swim class.
+- "Only put off until tomorrow what you are willing to die having left undone."
+
+## Develop Influence
+
+- You can't influence a person in any useful way by diminishing them or putting out the fire in their belly. People only like to work with leaders who make them think bigger and grow more.
+- You have to make people rise and meet a higher ambition with you.
+- No effect on influence:
+  - A sense of giving.
+  - Creativity.
+- What matters: Your perception of yourself. **If you believe that your peers view you as a successful, high performing person, naturally you believe yourself to be more influential. But it's just not about perception.**
+- More influence really does equal a better life.
+- Personality does not correlate with "political skill", which is how researchers refer to influence or your ability to understand others and get them to act towards objectives.
+
+### Influence Basics
+
+- **Ask.** Part of gaining influence is learning to make a lot requests and getting better at making those requests.
+  - You can ask people more than once. The more you ask and share your ideas, the more people become familiar and comfortable with your requests, and the more they start to like the idea.
+  - Asking isn't just about making requests to get what you want. If you seek greater influence with other people, learn to ask them a tremendous number of questions that elicit what they think, feel, want, need, and aspire to.
+  - Great leaders ask a lot of questions. Remember, people support what they create. **When people get to contribute ideas, they have mental skin in the game.**
+  - What do you want, how they'd like to work together, and what outcomes they care about.
+- **Give.** Trust, autonomy, and decision-making authority. Researchers call this giving someone authorship, meaning they get to choose what to work on or how to get things done.
+- **Be a champion of people.**
+  - Becoming someone's champion: find out what your people are passionate about, and cheer on their good ideas. Be excited for people when they do a good job, and publicly praise them.
+
+### The Difference Makers
+
+- Influence actions:
+  - They shape how we think.
+  - They challenge us in some way.
+  - They serve as role models.
+
+### Teach People How to Think
+
+- Make this thing more deliberate: "think of it this way", "what do you think about", "what would happen if we tried".
+- When people complain, we can direct their thinking. What did she think of herself while doing the work, etc.
+- People should be thinking of themselves as individual contributors, about their competitors, and about the overall marketplace.
+- How do you want people to think about themselves? How do you want them to think about other people? How do you want them to think about the world at large?
+- Being self-reliant: "care for your brothers because they are all you have", "do your best", "be yourself", "treat people with respect", "be a good citizen", "follow your dreams".
+- Most people are good and caring, it's just that when they're in a hurry, they could be oblivious, dismissive, or rude. Always give people the benefit of the doubt.
+- People are doing the best they could and often just needed our help.
+
+### Challenge People to Grow
+
+- People who agree with "I respond to life's challenges rather than avoiding them or delaying", "I love trying to master new challenges", and "I'm confident I can achieve my goals despite obstacles or resistance" are generally high performers.
+- "You could do better", "You're a better person than that", and "I expected more from you".
+- Indirect challenges:
+  - "How would your best self approach this situation?"
+  - "Looking back, did you give it your all?"
+  - "Are you bringing the best of you to this situation?"
+  - "What values are you trying to embody when you did that?"
+- Connection: they don't let bad behavior slide. Be explicit in your expectations for how people should treat each other.
+  - "Listen to each other more." "Show each other more respect."
+
+### Role Model The Way
+
+- It's less about being Mother Theresa and more about "I'm going to demonstrate a specific behavior so that others will emulate that exact behavior, which will help us move toward a specific result."
+- High performers do want to be perceived as good people and good role models, but that just makes them human. What makes them HP is their laser-focused intention on how they can act in a way that gets someone to improve who they are, or achieve a specific result.
+- **There's just something magical that happens in our life when we let all the drama go and decide to ask how we can be role models again.**
