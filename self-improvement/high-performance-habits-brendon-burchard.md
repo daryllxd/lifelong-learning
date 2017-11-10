@@ -476,3 +476,61 @@
 - It's less about being Mother Theresa and more about "I'm going to demonstrate a specific behavior so that others will emulate that exact behavior, which will help us move toward a specific result."
 - High performers do want to be perceived as good people and good role models, but that just makes them human. What makes them HP is their laser-focused intention on how they can act in a way that gets someone to improve who they are, or achieve a specific result.
 - **There's just something magical that happens in our life when we let all the drama go and decide to ask how we can be role models again.**
+
+## Demonstrate Courage
+
+- Posting a video: an act of self-expression, but not courageous. Sharing ideas is a job, so you don't get a hug for your courage. Be satisfied with "great idea".
+- HPs report taking action despite fear much more often than others do.
+- Those who are more like to self-report high levels of courage are those who:
+  - love mastering challenges,
+  - perceive themselves as assertive,
+  - perceive themselves as confident,
+  - perceive themselves as high performers,
+  - perceive themselves as more successful than their peers, and
+  - are happy with their life overall.
+- If your kids see that you are fearful of life, they'll feel it, and they'll model it. Demonstrating more courage is a gateway for our society to develop greater virtue.
+- Not just about overcoming fear. The outcome is what you're after, and the outcome that happens matters a great deal.
+- Courageous: all about the outcome. People consider an actin courageous only if it gets completed or ends in a good result.
+- Just have a high bias towards action. HPs don't just face doubt/fear or rises in service to help someone. Action woke their heart, and their path was revealed. They didn't hope for an opportunity to do something one day, they acted. They know that hoping to achieve good things without taking action is like hoping for help without asking for it.
+- Don't complain, just act. Study, get mentors, face your fears. Only when our fears become our growth plan have we stepped onto the path of mastery.
+- **Think of future, more confident you.** If that guy showed up, what courageous action would that future self advise you to take away to change your life? How would your future self tell you to live?
+
+### Honor the Struggle
+
+- If we're ever going to develop the strength that courage requires, we'll have to get better at dealing with life's basic challenges. We'll have to stop getting so annoyed and start seeing the struggle as part of growing our character. We must learn to honor the struggle.
+- To achieve excellence, you need hard work, discipline, routines that can become boring, continual frustrations that accompany learning, adversities that test every measure of our heart and soul, and above all, courage.
+- If you're unwilling to anticipate or endure the inevitable struggles, mistakes, messes, and difficulties of life, then it's a rough road.
+- **The struggle I'm now facing is necessary, and it's summoning me to show up, be strong, and use it to forge a better future for myself and my loved ones.**
+- Facing the hardship and trying to learn can bring out the best from you.
+- Accepting that difficult times will come allows you to wake up with a sense of realism and readiness, to anticipate problems and be prepared for them, to maintain calm when the winds of change might topple lesser leaders.
+- When you feel overwhelmed, choose to go for a walk, focus on your breath, and consider the problem rather than avoid it. Look the problem in the eye and ask, "what is the right action for me to take right now?"
+- Embracing the suck: You have to deal with it, face it, and will yourself to persevere and rise. You have to embrace the suck. In any area of your life, if you have the opportunity and blessing to serve, you don't complain about the effort involved.
+- "You will make it through."
+
+### Share your Truth and Ambitions
+
+- Main motivation for humans: personal freedom.
+- When we live our truth, then we are authentic, we are free.
+- If someone believes in you and sees greatness in you, live up to their standards. But for anyone who doubts or diminishes you, forget about it. Don't bother trying to please them. Live a life that is yours. Don't seek the approval of the doubters.
+- Some felt fearful of expressing their ambitions, because the people around them could feel bad about themselves.
+- **The next level of performance begins at your next level of truth.**
+- Don't minimize yourself so that you don't make others feel bad. It's not humility, it's lying about your real ambitions.
+- The people who are in your life for the right reasons will listen to your truth. They'll applaud your ambition. They'll be happy to meet the person behind the face. They'll thank you for sharing, for being real, for trusting them. Trust others with your truth, and the golden values of real friendship and love reveal themselves like lost treasures.
+- The simple conversations: "you know, I was thinking about starting X because I'd love to Y."
+  - I was thinking about researching how to write a book, because I think I have a story worth telling.
+  - I was thinking about hitting the gym every morning, because I'd love to feel more vital and alive.
+  - I was thinking about starting to look for another job, because I'd love to feel more passionate and appreciated.
+  - I was thinking about starting to cold-call some new coaches, because I'm ready to compete at a higher level.
+
+### Find Someone to Fight For
+
+- "She deserves better."
+- I am not going to let my weak motivation or bad habits diminish the life of this woman who believed in me when everyone else thought I was crazy, the woman who bought me groceries, the woman who said "I love you."
+- We will do more for others than for ourselves. And in doing something for others, we find our reason for courage, and our cause for focus and excellence.
+- "She needed me. There was no other choice I could live with than to help her." "I didn't want them to suffer." "No one seemed to care, and there I was." "I wanted to do it for him; he would have wanted that."
+
+### Courage through Complexity
+
+- Trust in yourself and lean forward. The next level opens after your next courageous step.
+- The kinds of courageous acts that you are proud of at the end of your life are those in which you faced uncertainty and real risk, with real stakes, when doing something for a cause or person beyond yourself, without any assurance of safety, reward, or success.
+
