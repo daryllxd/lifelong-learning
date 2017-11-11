@@ -231,3 +231,21 @@
   - You need to actually want that goal.
   - You need to believe you can actually achieve your goal.
   - 100% commitment to your goal. Until you become 100% committed to your goal, there's hesitancy. If you're hesitating, you're ineffective. You're not completely absorbed. You're not reflecting, acting, analyzing, deciding, and thinking about all the ways you can accomplish your goal.
+
+## Work On Yourself, Not On Your Job
+[Reference](https://medium.com/personal-growth/want-to-become-the-best-at-what-you-do-read-this-10b6a79feda9)
+
+- Your work is a reflection of you. If you're not getting the results you're looking for, stop looking for better strategies. Are you currently the person who would attract the level of success you seek?
+- A significant of your energy should be devoted to your job, rest, and self-improvement.
+- Putting yourself in situations others can only dream of: you have to put yourself in demanding situations--situations that humble and scare you. How to do this? Initiate. Don't wait for life to come to you. Don't wait for the next opportunity. Improve your current situation or job by providing actual value. Pitch ideas. Ask questions. Try and fail. Take on roles that require greater responsibility.
+- "Leadership" - you just need to assume that role. Do this enough, and continuously pitch yourself and your ideas, and you'll create opportunities. You can then maximize those opportunities and more will come.
+- Don't copy other people, make them copy you.
+- Stay in love with the process.
+  - The process or the work itself is all there is. Results come and go. And it's never been about the results. Success is inevitable.
+  - **Success comes easy because it's the last thing on your mind. You already know it's going to happen.**
+  - The work itself, and becoming better and better at it, is what drives you. It almost doesn't matter what you're doing. It's why you're doing it that matters.
+  - When you are in love with the process, you seek feedback, mentoring, and coaching--even when you're at the top of your game.
+  - You surround yourself with people who aren't afraid to tell you the truth. You avoid people who suck-up and only tell you what they think you want to hear.
+  - Self-transcendence comes from collaborating with others who are driven by a greater and grander vision. When the whole becomes fundamentally different than the sum of its parts. When the work is the reward.
+- Why are we doing this again?
+  - Do not break your personal rules "just this once". In our minds, we can justify these small choices. None of those things, when they first happen, feels like a life-changing decision, but they roll up into a much bigger picture.
