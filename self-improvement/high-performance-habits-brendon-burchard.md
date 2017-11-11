@@ -534,3 +534,59 @@
 - Trust in yourself and lean forward. The next level opens after your next courageous step.
 - The kinds of courageous acts that you are proud of at the end of your life are those in which you faced uncertainty and real risk, with real stakes, when doing something for a cause or person beyond yourself, without any assurance of safety, reward, or success.
 
+## Sustaining Success
+
+### The Three Traps
+
+- TODO: This.
+
+### The #1 Thing
+
+- Along with engaged and joyful, confident is one of the three words high performers use most to describe their consistent emotional state.
+- "I'm confident I can achieve my goals despite challenges or resistance."
+- Self-efficacy predicts exceptional performance and happiness. The more you believe in your ability to perform well, the more likely you are to do things that protect, restore, and improve your health. You've probably sensed this truth in your own life. When you feel good about yourself, you are more likely to work out.
+- High performers do have more confidence than most people, but not by birthright, luck, or superhuman skill. They simply thought about things that gave them more confidence than others, more often did things that gave them more confidence than others, and avoided things that drain confidence more often than others did. They almost universally reported that their confidence came from purposeful thinking and action. Not via birthright.
+
+#### Competence
+
+- The more knowledge, skill, ability, or talent you have at a given task, the more likely you are to be confident and perform well.
+- The more competence you get at any given task, the more confident you'll be come in trying it more often.
+- Repetition and stretching gives you more learning, which gives you more competence. More competence begets more confidence, and round and round it goes.
+- If you do something with years of focus, learning, practice, and skill development, you will have confidence. It isn't about "I like myself", or "I feel good about me."
+- High performers attributed their confidence to this sort of competence even before mentioning character traits. Practice progressive mastery. High performers have confidence not only because of past skill acquired in a specific area, but equally from trust in their ability to gain future competence. That is, they reported that their confidence was not tied to one specific competency but rather to a belief that they could adequately handle things in the future--even if they had no experience.
+- **High performers are learners, and their belief that they can learn what is necessary to win in the future gives them as much confidence as their current skill sets.**
+- **I believe in my ability to figure things out.** The key competency that gives high performers confidence is the ability to quickly gain understanding or skill in new situations. In other words, the competency that matters is the ability to become competent.
+- Every day on the field or in the arena, you're going to meet someone who has more experience and perhaps more talent and successes. It doesn't mean that if you can't keep up that you shouldn't show up.
+- High performers ponder the lessons from their wins. They give credit to themselves, and they allow those wins to integrate into their psyche and give them greater strength.
+
+#### Congruence
+
+- At the core of congruence are questions about how we are really living our life, not just imagining it. "Am I being honest with who I am? Am I trustworthy/true to myself and others> Do I practice what I think and preach? Do I follow through on what I know of myself? Do I make a stand when the world challenges who I can become?"
+- We have to be more conscious about who we are and what kind of life we want to live. We have to be conscious in crafting and maintaining our identity.
+- **At some point, you take control, define who you want to be, and start living in accordance with that self-image.**
+- HPs are also not "faking it to make it". They really had an intention of who they really want to be, and then they go out into the world and give that intention real focus and energy. A sense of authenticity, pride, self-trust, and confidence comes from those congruent actions.
+- This is why you need clarity--you can't be congruent with something you've never defined. No clarity, no congruence, no confidence.
+- Confidence comes from being truthful with yourself and others. You have to avoid the little lies that comes from being truthful with yourself and others. You have to avoid that little lies that can easily tear at the fabric of your character. If you lie about the small things, you will cause a catastrophe when faced with the big things. Your heart and soul want to know you've lived an honest life.
+
+#### Enjoy Connecting
+
+- HPs: half introverts and half extroverts.
+- You have to know that you learn from others. Even if you're not a people person. Will you take the time to learn from others? If you can summon the curiosity and talk to other people, you will gain confidence.
+- "I know I'll do well with others because I'll be genuinely interested in them."
+- NOT about "I'll do well with others because I'll make them interested in me, because I want to teach them who I am."
+
+### A Formula and Farewell for Now
+
+- Underlying theme: curiosity. Curiosity drives knowledge/skills/abilities. Curiosity drives self-examination. Curiosity makes them want to seek out others. So:
+- Curiosity  * (Competence + Congruence + Connection) = Confidence.
+- You don't have to pretend to be superhuman, you just have to care enough to learn new things, to live in alignment with who you want to become, and to take interest in others.
+- Internal dialogue:
+  - "I know what to do and how to add value here."
+  - "I know I'm living in alignment with the person I want to become."
+  - "I know I'll do well with others, because I'm genuinely interested in learning about them and serving them."
+- **Ease is not the objective in personal development, growth is.** So anticipate and honor the fact that it's going to be difficult to implement the habits and practices in this book.
+
+### Summary Guide
+
+- You can do this later.
+
