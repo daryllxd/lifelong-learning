@@ -249,3 +249,27 @@
   - Self-transcendence comes from collaborating with others who are driven by a greater and grander vision. When the whole becomes fundamentally different than the sum of its parts. When the work is the reward.
 - Why are we doing this again?
   - Do not break your personal rules "just this once". In our minds, we can justify these small choices. None of those things, when they first happen, feels like a life-changing decision, but they roll up into a much bigger picture.
+
+## Tell Me What You Did Today, And I'll Tell You Who You Are
+
+- When you don't act in accordance with your values and goals, you're internally conflicted. You know you should be doing something: working on your project, being present with your loved ones, eating healthy, and you knowingly act in contradictory ways.
+- Being internally-conflicted: checking Facebook/Twitter, eating bad, and going days without writing. Perfection shouldn't be the objective. However, consistency and implementation of our values and goals creates substantial momentum and results.
+- "We live our lives in 24 hour periods: on the things that we did today, did we act like the person we wish to become?"
+- Ideal day thing?
+  - 7-8 hours of deep and healthy sleep.
+  - Less than 300 calories of junk food, one meal each day eaten with wife and kids.
+  - 30-60 minutes of exercise.
+  - 15-30 minutes of prayer/meditation.
+  - 3-5 hours of undistracted writing (no email).
+  - 2+ undistracted hours with my kids.
+  - 1+ undistracted hours one-on-one with my wife.
+- Motivation and self-regulation theory.
+  - If you're lacking motivation, there's a problem with your goals. Wrong goals, not specific enough, or the timeline isn't definitive enough.
+- Self-regulation:
+  - Self-monitoring: how well we are currently performing.
+  - Self-evaluation: how well we are performing compared to our goals.
+  - Self-reaction: determines how we think and feel comparative to our goals.
+- When I get distracted, I pull out my journal and write my goals. This reignites my motivation and serves as my course-correction.
+- You can't just want to succeed. You have to plan and prepare for the worst.
+- You will get derailed often. You need to prepare for those moments you're not motivated. You do this by creating triggers that automatically reignite your motivation.
+- How you spend each day is a clear indicator of who you are and who you will become. It's not enough to simply want a better future. You need to know what that future looks like, and start living that way today.
