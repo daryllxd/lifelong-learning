@@ -273,3 +273,87 @@
 - You can't just want to succeed. You have to plan and prepare for the worst.
 - You will get derailed often. You need to prepare for those moments you're not motivated. You do this by creating triggers that automatically reignite your motivation.
 - How you spend each day is a clear indicator of who you are and who you will become. It's not enough to simply want a better future. You need to know what that future looks like, and start living that way today.
+
+## How To Tell If Someone Is Truly Smart Or Just Average
+[Reference](https://medium.com/the-mission/how-to-tell-if-someone-is-truly-smart-or-just-average-a2f0bcac5db2)
+
+- Musk: sees people as computers, and he sees his brain software as the most important product he owns--and since there aren't any companies out there designing brain software, he designed his own, tests it every day, and makes constant updates.
+- Ray Dalio: record everyone and allow anyone to rate any other employee in real time. This data is then added to profiles that each employee can see and is subsequently fed into an artificial intelligence system.
+- Charles Munger: cognitive bias checklist before making investment decisions to ensure he properly applies the correct mental models.
+- Warren Buffett : decision trees.
+- Charlie Munger: mental models.
+- Bezos/Zuckerberg: experimentation engine.
+- When I consider new business ideas, instead of just imagining how great they're going to be, I spend just as much time envisioning what could go wrong--another Munger hack. No need to remind myself to think this way anymore.
+- Mental models:
+  - For great thinkers, using mental models is conscious and proactive.
+  - Musk: It is important to view knowledge as sort of a semantic tree, make sure you understand the fundamental principles before you get into the leaves/details or there is nothing for them to hang onto.
+  - 20% of inputs lead to 80% of outputs.
+- Tools:
+  - The difference between us and people from 30K years ago. Only 30% of the population could read and write before the printing press was invented in 1440.
+  - People who are able to model how this more complex reality works will be far more successful at navigating it.
+  - People who are able to model how a complex business works in their minds are more likely to be successful business leaders, because they must understand finance, HR, product dev, marketing/sales, interacting with the mental models of their stakeholders.
+  - When building a house, you need: electrical, plumbing, design, materials, pricing, to make a beautiful building.
+- Mental model collectors:
+  - Many of the world's problems result from people overgeneralizing from simplistic models just like our hypothetical one-size-fits-all "dog".
+    - Black/white thinking: you're a good or a bad person.
+    - Us/them thinking: people that aren't like you are your enemy.
+    - Stereotypes.
+  - Great thinkers: grandmasters have memorized no less than 50,000 chunks of increasing complexity including openings, closings, patterns.
+
+## How One Life Hack From A Self-Made Billionaire Leads To Exceptional Success
+[Reference](https://medium.com/the-mission/how-one-life-hack-from-a-self-made-billionaire-leads-to-exceptional-success-a0b21fc34048)
+
+- Expert generalist: "Someone who has the ability and curiosity to master and collect expertise in many different disciplines, industries, skills, capabilities, countries, topics."
+- Expert generalists:
+  - See the world more accurately and make better predictions of the future.
+  - Have more breakthrough ideas.
+- Two-Track analysis means considering:
+  - How people act if they behaved rationally, according to their true best interests.
+  - How they would succumb to the pull of a number of irrational psychological biases that seem to be "programmed" into the human brain.
+
+## 5-Hour Rule: If you’re not spending 5 hours per week learning, you’re being irresponsible
+[Reference](https://medium.com/the-mission/the-5-hour-rule-if-youre-not-spending-5-hours-per-week-learning-you-re-being-irresponsible-791c3f18f5e6)
+
+- Automated vehicle fleets will eliminate one of our biggest purchases: a car. Virtual reality will make expensive experiences, such as going to a concert or playing golf, instantly available at much lower cost.
+- Education and health care costs have risen but they will lower costs at some point when we get exclusive online, training for in-demand, high-paying skills, or having employers who recruit students subsidize the cost of tuition.
+- At-risk people: those with no skills. They risk remaining stuck on the bottom rung of global competition, and they risk losing their jobs to automation.
+- **There are no lack of jobs. There is a lack of skilled workers for those jobs.**
+- Knowledge is the new money.
+
+### Essential Skills
+
+- Identify valuable knowledge at the right time.
+- Learn and master that knowledge quickly.
+- Communicate the value of your skills to others. Convincing others is a "multiplier skill."
+- Convert knowledge into money and results.
+- Learn how to financially invest in learning to get the highest return: we need the right portfolio of books, courses, degrees to help us achieve our goals within our budget.
+- Learning how to learn.
+
+## 40 Ways to Live a Full Life By Age 30
+
+- **Do ridiculous things.** Getting a dog.
+- **What will teach me the most?**
+- **Quit dicking around.** 30 years, 1 year is so much time. Wake up every day and do a little more, dick around a little less.
+- **The right time is right now.**
+- **Get married, be in a long term relationship.**
+- **Stay clear of charlatans and the toxic.** Unfollow, delete, purge. If a media site sucks, stop listening. If service at a restaurant sucks, don't go there. No need to be rude, but just don't do it.
+- **Keep a journal.** This is to force you to think about what you're doing right now.
+- **Hell yes or hell no is too simple.**
+- **Live in a city, but not for too long.**
+- **The quiet moments are the best.** It's in the quiet, still moments that we feel what matters in life. Standing on the shore of a lake, looking out over a canyon.
+- **Have a philosophy.** Don't just wing things. Live by something.
+- **Study real philosophy too.**
+- **Exercise.**
+- **Don't compare yourself to other people.** Who cares if they were first?
+- **Sooner is not better.** Accomplishments don't change who you are. Where did numbers for age goals come from?
+- **Meditate on your mortality.**
+- **Don't live like every day is your last.** Live like it's the last day before a deployment: you'll handle your business, you'll spend time with your loved ones.
+- **Travel with purpose.** You go to other places to learn about things, and what did you learn there, that you couldn't have gotten from some other source? What did you really do?
+- **Be prematurely old.** I think it's better to have your shit together. Young people are stupid, old people are wise.
+- **The law of diminishing returns.** Be willing to call things when the diminishing returns set in, it's how you move on when others are stuck.
+- **Study the lives of the greats.**
+- **Don't waste time being offended.** How much precious energy is spilled fighting online?
+- **Buy a house.** It's something you want to get back to.
+- **Work a lot.** Yeah, you won't be happy on your deathbed, but relative to what? Playing video games, going to restaurants, or chasing girls/boys? If you think what you do contributes to the world, then you should feel content and accomplished.
+- **Don't be a hater.** What's the sense?
+- **You can do no whatever you want.** No need to conform to needless constraints.
