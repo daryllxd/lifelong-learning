@@ -17,3 +17,30 @@
 - I've just noticed that sleeping, proper diet, and exercise are things that just keep me in motion. I guess one way to cope is to just build momentum.
 - At the very least, I can say that I feel satisfied about things that I've accomplished, even if I still don't feel great about myself. And that is at least enough to keep me getting out of bed every morning instead of moping around.
 - Exercise is great. I just came back from a trip and where I was killing myself for 5 days straight. The feel-goods after the exertion ended lasted about 4-5 days. Had a sweet workout on day 3, but a bit of anxiety set in day 5 with the subsequent drink to squash it..
+
+## Types of Depression
+[Reference](https://www.webmd.com/depression/guide/depression-types#1)
+
+- Major depression.
+  - If you feel depressed most of the time for most days of the week.
+  - Loss of interest or pleasure in your activities, weight loss/gain, trouble getting to sleep/feeling sleepy during the day, feeling restless/agitated, being tired, feeling worthless, trouble concentrating/making decisions, thoughts of suicide.
+  - Talk therapy or antidepressants.
+- Persistent depressive disorder.
+  - Change in appetite,  sleep too much or too little, lack of energy, low self-esteem, trouble concentrating or making decisions, and feeling hopeless.
+- Bipolar: high energy to low energy. Low = major depression.
+- Seasonal affective disorder: affects you during the winter months, when the days grow short and you get less and less sunlight. Goes away in the spring and summer. Antidepressants and light therapy.
+- Psychotic depression. Hallucinations, delusions, paranoia.
+- Postpartum depression: after childbirth.
+- Premenstrual: at the start of their period. Mood swings, irritability, anxiety, trouble concentrating, fatigue, change in appetite, feelings of being overwhelmed.
+- 'Situational' depression: no technical term but you can have a depressed mood when you're having trouble managing a stressful event in your life.
+- Atypical depression: just a specifier that describes a pattern of depressive symptoms. A positive event can temporarily improve your mood.
+
+## The Programmer’s Great Clinical Depression
+[Reference](https://simpleprogrammer.com/2016/10/07/programmers-great-clinical-depression/)
+
+- Sunlight: our body is better equipped to regulate the amount of melatonin getting into our bloodstream naturally. Also, it regulates serotonin.
+- Go to bed: sometimes, just sleep instead of finishing the problem.
+- Exercise!
+- Omega-3Fatty acid. Fish oil?
+- Talk to real, living, human people.
+- Dr. Ilardi's book recommends setting an actual, literal, timer for what he calls rumination. If you can't come to a meaningful actionable conclusion about a negative thought after 10 minutes, it's time to shut that thought off.
