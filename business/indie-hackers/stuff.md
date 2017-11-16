@@ -1,3 +1,33 @@
+## Marketing for Developers
+[Reference](https://www.indiehackers.com/businesses/marketing-for-developers)
+
+- Marketing for developers.
+- PDF with "We are not normal people".
+- Anticipation builds demand.
+  - 4 weeks before, official launch date.
+  - 7 days before, gave people 7 day advanced notice.
+  - Day before, shared sneak peek.
+  - Launch day: email with package.
+  - Day after: testimonial.
+  - "Last chance": sent one more email before the launch discount expired.
+- Tiers:
+  - $39 for the book.
+  - $85 for the mid-tier (4 videos, 4 interviews, book).
+  - $195 for the complete package.
+- Podcast (Product People) was helpful:
+  - Finding these amazing founders.
+  - Doing that show is how I started to attract an audience.
+  - Able to see opportunities for helping my audience even more.
+- Side hustle.
+  - 2008: blog.
+  - 2012: Product People podcast.
+  - 2013: First tiny product online.
+  - 2014: Product People Club.
+  - 2015: Marketing for Developers.
+- Momentum takes time, you can increase your side revenue every year.
+- When trying to lay groundwork for building and then marketing a product: start with a group of people that's already paying you for your time and expertise.
+- Highest priced tier will usually bring in the most revenue.
+
 ## Practical Golf
 [Reference](https://www.indiehackers.com/businesses/practical-golf)
 
