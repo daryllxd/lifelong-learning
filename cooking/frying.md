@@ -7,3 +7,12 @@
 - Ripping the breading when I turned it: you have to let the food cook for a while, it is ready to turn if you can easily lift it off the pan.
 - Black food: heat is too high. Better to have a heavy fan so it conducts heat evenly. Cooking oil that can withstand high temperatures.
 - Bland: When you fry food, everything should be seasoned. The tofu, the coating, and after the coating.
+
+## What's the difference between pan frying, sauteing, and shallow frying?
+[Reference](https://cooking.stackexchange.com/questions/125/whats-the-difference-between-pan-frying-sauteing-and-shallow-frying)
+
+- Pan frying: letting the food sit in the pan and occasionally stirring or flipping.
+- Sauteing: shaking the pan back and forth, making eh food jump.
+- Shallow frying: Partially submerged in oil.
+- Deep frying: Completely submerged in hot fat or oil.
+- Stir frying: tossed out very rapidly using wooden or metal cooking utensils.
