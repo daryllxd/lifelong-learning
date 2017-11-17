@@ -13,3 +13,9 @@ We can invent custom patterns for solving hard problems like data over-fetching,
 - Update each item--mark as sold and invalidate its cache
 - Mark all other orders that involve the sold items as invalid and update their cache
 - Notify the other buyers that an item is no longer available in conversations, and invalidate the conversations' cache'
+
+## How to Reduce Controller Bloat with Interactors in Ruby
+[Reference](https://semaphoreci.com/community/tutorials/how-to-reduce-controller-bloat-with-interactors-in-ruby)
+
+- Bloaters: long method, large class, primitive obsession, long parameter list, data clumps.
+- Case: Logging in and supplying a "user has been locked" kind of thing. You can add notifications and expiry times.
