@@ -44,3 +44,11 @@
 - Omega-3Fatty acid. Fish oil?
 - Talk to real, living, human people.
 - Dr. Ilardi's book recommends setting an actual, literal, timer for what he calls rumination. If you can't come to a meaningful actionable conclusion about a negative thought after 10 minutes, it's time to shut that thought off.
+
+## Mirtazapine
+[Reference](https://en.wikipedia.org/wiki/Mirtazapine)
+
+- Remeron, used for the treatment of depression.
+- Generalized anxiety, social anxiety, OCD, panic disorder.
+- Fastest onset is 2 weeks, and is the same with other antidepressants at 6 weeks.
+- Side effects: Weight gain and sleepiness, but less likely to cause tremor than tricyclic depressants.
