@@ -6,4 +6,3 @@
 - If you have a few tasks on your list, they will by definition be the most important, and the only way to avoid doing them will be to do nothing. This is a way to become a couch potato, not an effective human being.
 - *Top of the list: They seem to have clear deadlines (but really don't), and they seem important (but really aren't).*
 - One needs to be able to recognize and commit oneself to tasks with inflated importance and unreal deadlines, while making oneself feel that they are important and urgent.
-
