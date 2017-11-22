@@ -59,10 +59,36 @@
 - Herbs come from leaves and stems, while spices come from the root, bark, and seeds.
 - Smell your food before eating it. This will change how you experience flavor.
 - Tastes: sweet, sour, bitter, salty, umami.
-- Sensations: astringency (cotton-mouth), hotness.
-- Herbs:
-  - Rosemary
-  - Smoked paprika
-  -
 
+### Selection
 
+- Minimal effective dose (MED): consume 30g of protein within 30 minutes of waking up.
+- Five minutes of kettlebell swings, three times per week.
+- Slow-cadence lifting.
+- Marketing MED: 1000 true fans.
+
+#### The MED of Cooking: Technique over Recipes
+
+- Braising, sauteing, grilling.
+  - Steps in braising:
+    - Brown the outside of the meat, then remove.
+    - Saute carrots, onions, celery in the same pan.
+    - Return meat to pan.
+    - Add liquid to cover 1/3 to 2/3 of the meat.
+  - Lean manufacturing.
+
+### Sequencing
+
+- Looking at things backwards: if you look at the female "follow" lead in tango, you can learn an effective male lead.
+- Categorize implicit from explicit. Then meet the greats and ask them questions.
+- Explicit expertise (what they told me to do) and implicit expertise (what they just did under pressure).
+- Commonalities among best competitors? Which of these aren't actively taught? Which neglected skills could I get good at quickly?
+
+### Stakes
+
+- A goal without real consequences is wishful thinking. You have to put something where your mouth is. Good follow-through doesn't depend on the right intentions. It depends on the right incentives.
+
+### Compression
+
+- Cheat sheets for anything. Making effective decisions, and learning effectively, requires massive elimination and removal of options.
+- A task will swell in complexity to fill the time you allot it, a phenomenon referred to as Parkinson's Law.
