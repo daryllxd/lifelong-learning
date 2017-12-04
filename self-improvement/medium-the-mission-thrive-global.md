@@ -357,3 +357,19 @@
 - **Work a lot.** Yeah, you won't be happy on your deathbed, but relative to what? Playing video games, going to restaurants, or chasing girls/boys? If you think what you do contributes to the world, then you should feel content and accomplished.
 - **Don't be a hater.** What's the sense?
 - **You can do no whatever you want.** No need to conform to needless constraints.
+
+## How to Permanently Change Any Behavior and Evolve Into the Best Version of Yourself
+[Reference](https://medium.com/the-mission/how-to-permanently-change-any-behavior-and-evolve-into-the-best-version-of-yourself-998d13a2f0d2)
+
+- It’s actually far more exhausting to not work than it is to work. It takes far more energy to sit with internal conflict than it does to get to work.”
+- Changing your negative behaviors might seem like more work, but in the long run, it actually saves you energy, time, and money than if you never changed.
+- Evolving into better versions of yourself allows you to be more productive, focused, creative, energized, and fulfilled. Shedding old habits that only held you back will allow you to experience some of the deepest fulfillment of your life so far.
+- “When you build a habit, you don’t have to spend mental energy deciding what to do.” - David Kadavy
+- Giving yourself this little out makes the process of quitting 100x harder.
+- "If you want lasting change, you have to give up this idea of just trying something, and you have to commit yourself to mastery. That means not just "dabbling," but fully immersing yourself. Because your life is not controlled by what you do some of the time, but by what you do consistently." - Tony Robbins
+- "Disbelief is negative power. When the mind disbelieves or doubts, the mind attracts reasons to support the disbelief." - David Schwartz
+- Are my goals as big as they should be?
+- If I expanded my goals 10x bigger, what would happen?
+- Do I believe I can succeed? Or am I just pretending?
+- If you want to change any behavior and continue evolving into better versions of yourself, you must believe you can improve.
+- What do you believe about yourself?
