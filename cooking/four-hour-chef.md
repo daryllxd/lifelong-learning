@@ -92,3 +92,62 @@
 
 - Cheat sheets for anything. Making effective decisions, and learning effectively, requires massive elimination and removal of options.
 - A task will swell in complexity to fill the time you allot it, a phenomenon referred to as Parkinson's Law.
+- One-pager for cooking
+  - Probe thermometer to make sure if something is done or not.
+  - Steaming: 1/2 inch water in a pot, throw in veggies, cover, leave for 15 minutes on a burner set to high. Vegetables are done when you can slide a fork into them easy.
+  - Herb pairings
+    - Fish: Fennel or dill.
+    - Beef: Rosemary.
+    - Pork or lamb: Rosemary.
+    - Lamb: Mint.
+    - Eggs: Tarragon.
+    - Tomatoes: Basil.
+- One-page for slow-carb
+  - No white starchy carbohydrates.
+  - Eat the same few meals over and over again.
+  - Don't drink calories.
+  - Don't eat fruit.
+  - Take one day off per week and go nuts.
+- Micro things for cooking:
+  - Cold water instead of hot is not because things boil faster or slower, but because it runs through a hot water heater, which can taint the taste.
+  - Garlic at the end of a fork to make a makeshift spatula.
+  - Salt beans after cooking. If you salt them during cooking, they take longer to cook.
+  - Drizzle dressing around the salad, not on the leaves. This prevents the bulk of the dressing from getting stuck on a few leaves.
+- Macro things for cooking:
+  - Everything must be ready and in its place before you start.
+  - Good cooking is about economy of movement.
+  - Put staples like olive oil and salt in smaller containers for ease of use.
+  - Cooking is prep and pickup.
+  - Kitchen towels: one for drying hands (damp) and another for handling hot metal (dry).
+  - Grab pan handles from underneath for more control, never from the top.
+  - 350F for frying.
+  - Nothing wet goes on the cutting boards, use a paper towel to dry off fish, chicken. Moist objects slide.
+  - Sear "presentation side" first.
+  - 4 minutes per inch.
+- Learning by osmosis.
+- Memory palace thing.
+
+### 80/20 Pantry
+
+- Extra virgin olive oil, ghee/butter, unrefined virgin coconut oil, grapeseed oil, macadamia nut oil. Check smoking/burning points.
+- Salt: diamond kosher, Maldon. Salt is used not only to change flavor, it can remove moisture, change texture, counter bitterness, and help you wash salad greens.
+- Tamari, lemons. "If there is something missing, it's probably acid."
+- Garlic: no such thing as too much.
+- Mustard: French cuisine, can be used for dipping, making mixes.
+- Canned tomatoes, lentils, beans.
+- Basic tools:
+  - Towels in the aprons.
+  - Cast-iron dutch oven/skillet.
+  - Cooking liners.
+  - Chef diver/meat cleaver.
+  - Saute pan fro cooking eggs. Aeternum?
+  - Scale.
+  - Vegetable peeler.
+  - Silicone spatulas for flipping eggs.
+  - Knives: not freaking ceramic.
+  - Soft-headed tongs.
+  - Stainless steel mixing bowls.
+  - Immersion blender?
+  - Garlic press.
+  - Himalayan salt block?
+
