@@ -31,3 +31,14 @@
   - Consume 1/2 of my calories for the day.
   - Consume the second portion of my calories for the day in a big dinner.
   - Fast for 16 hours.
+
+## Bulletproof Intermittent Fasting: Lose Fat, Build Muscle, Stay Focused & Feel Great
+[Reference](https://blog.bulletproof.com/bulletproof-fasting/)
+
+- Finish dinner by 8pm
+- Do not eat until 2pm. You can drink Bulletproof coffee in the morning.
+- Benefits of intermittent fasting:
+  - Reduced blood sugar and insulin levels.
+  - Enhanced cardiovascular/brain functions.
+  - Prevented age-related cognitive decline.
+  - Reduced the effects of gamma irradiation in mice.
