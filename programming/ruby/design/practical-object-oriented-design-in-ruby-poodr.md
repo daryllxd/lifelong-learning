@@ -1,20 +1,14 @@
 # Practical Object-Oriented Design in Ruby
 
-# Introduction
-
-Those of us whose work is to write software are incredibly lucky. Building software is a guiltless pleasure because we get to use our creative energy to get things done. We have arranged our lives to have it both ways; we can enjoy the pure act of writing code in sure knowledge that the code we write has use. We produce things that matter. We are modern people, building structures that make up present-day reality, and no less than bricklayers or bridge builders, we take justifiable pride in our accomplishments.
-
-We want to do our best work. We want our work to have meaning. We want to have fun along the way.
-
-# 1: Object-Oriented Design
+## 1: Object-Oriented Design
 
 The world is procedural, and these activities can be modeled using procedural software.
 
 The world is also object-oriented, and each object comes equipped with its own behavior. In a world of objects, new arrangements of behavior emerge naturally.
 
-This book is about designing OOS, and it views the world as a series of spontaneous interactions between objects. *OOD requires that you shift from thinking of the world as a collection of predefined procedures to modeling the world as a series of messages that pass between objects.* Failures of OOD might look like failures of coding technique, but they are actually failures of perspective. The first requirement for learning how to do OOD is to immerse yourself in objects; once you acquire an OO perspective, the rest follows naturally.
+*OOD requires that you shift from thinking of the world as a collection of predefined procedures to modeling the world as a series of messages that pass between objects.*
 
-If an application does not change, design does not matter. Unfortunately, something *will* change. It always does. Applications that are easy to change are a pleasure to write and a joy to extend. Few difficult-to-change applications are pleasant to work with.
+If apps don't change, design doesn't matter. Think scraping code--if you just run the script once, no need to design it that well.
 
 Object-oriented applications are made up of parts that interact to produce the behavior of the whole. The parts are `objects`, interactions are embodied in the `messages` that pass between them.
 
@@ -372,46 +366,46 @@ At least, if `Wheel` changes the name or signature of its implementation of diam
 
 ### Remove Argument-Order Dependencies
 
-  Better to do this:
+Better to do this:
 
-def initialize(args)
-  @chainring = args[:chainring]
-  @cog = args[:cog]
-  @wheel = args[:wheel]
-  end
+    def initialize(args)
+      @chainring = args[:chainring]
+      @cog = args[:cog]
+      @wheel = args[:wheel]
+    end
 
   Than this:
 
-  def initialize(chainring, cog, wheel) ... end
+    def initialize(chainring, cog, wheel) ... end
 
   We remove every dependency on argument order. Now, we can add or remove initialization arguments and defaults, secure in the knowledge that no change will have side effects in the code. Also, the key names in the hash server as documentation for method calls.
 
   Explicit defaults:
 
-def initialize(args)
-  @chainring = args[:chainring] || 40
-  @cog = args[:cog]             || 18
-  @wheel = args[:wheel]
-  end
+    def initialize(args)
+      @chainring = args[:chainring] || 40
+      @cog = args[:cog]             || 18
+      @wheel = args[:wheel]
+    end
 
   Remember: || acts as an or condition. We are relying on the argument to be a `truthy` value. So you cannot get the argument to be initialized with false! Better to set the `fetch` method to set defaults.
 
-  def intialize(args)
-  @chainring = args.fetch(:chainring, 40)
-@cog       = args.fetch(:cog, 18)
-  @wheel     = args[:wheel]
-  end
+    def intialize(args)
+      @chainring = args.fetch(:chainring, 40)
+      @cog       = args.fetch(:cog, 18)
+      @wheel     = args[:wheel]
+    end
 
   We can also have this:
 
-  def initialize(args)
-args = defaults.merge(args)
-  @chainring = args[:chainring]
-  end
+    def initialize(args)
+      args = defaults.merge(args)
+      @chainring = args[:chainring]
+    end
 
-  def defaults
-{chainring: 40, cog: 18}
-end
+    def defaults
+      {chainring: 40, cog: 18}
+    end
 
 This is useful when the defaults are more complicated--if your defaults are more than simple numbers or strings, implement a defaults method.
 
@@ -421,23 +415,23 @@ If Gear is part of a framework and that its initialization method requires fixed
 
 > `SomeFramework::Gear` is an external class.
 
-  module GearWrapper
-  def self.gear(args)
-SomeFramework::Gear.new(args[:chainring], args[:cog], args[:wheel])
-  end
-  end
+    module GearWrapper
+      def self.gear(args)
+        SomeFramework::Gear.new(args[:chainring], args[:cog], args[:wheel])
+      end
+    end
 
   Now, we can do this:
 
-GearWrapper.gear(chainring, cog, wheel...)
+    GearWrapper.gear(chainring, cog, wheel...)
 
   Ruby module which is responsible for creating new instances of `SomeFramework::Gear`. We can define a separate and distinct object which you can send the gear message while simultaneously conveying the idea that you don't expect to have instances of `GearWrapper`. (Factory method.)
 
 ## Managing Dependency Direction
 
-  We show Gear depending on Wheel and diameter, but we can also have Wheel depending on Gear and ratio. Which direction do we go?
+We show Gear depending on Wheel and diameter, but we can also have Wheel depending on Gear and ratio. Which direction do we go?
 
-  *Depend on things that change less often than you do.*
+*Depend on things that change less often than you do.*
 
   - Some classes are more likely than others to have change in requirements. This also applies for code that you did not write.
   - Concrete classes are more likely to change than abstract classes. Ex: We moved the dependency of Gear on Wheel to an injection. (In a static language you had to define an interface.) In Ruby, we still define an interface, however casually it is defined. This interface is an abstraction of the idea that a certain category of things will have a diameter. The wonderful thing about abstractions is that they represent common, stable qualities.
@@ -595,28 +589,28 @@ GearWrapper.gear(chainring, cog, wheel...)
 
 ## Overlooking the Duck
 
-  class Trip
-  attr_reader :bicycles, :customers, :vehicle
+    class Trip
+      attr_reader :bicycles, :customers, :vehicle
 
-# this 'mechanic' argument could be of any class
-  def prepare(mechanic)
-mechanic.prepare_bicycles(bicycles)
-  end
+      # this 'mechanic' argument could be of any class
+      def prepare(mechanic)
+        mechanic.prepare_bicycles(bicycles)
+      end
 
-# ...
-  end
+      # ...
+    end
 
-# if you happen to pass an instance of *this* class,
-# it works
-  class Mechanic
-def prepare_bicycles(bicycles)
-  bicycles.each {|bicycle| prepare_bicycle(bicycle)}
-  end
+    # if you happen to pass an instance of *this* class,
+    # it works
+    class Mechanic
+      def prepare_bicycles(bicycles)
+        bicycles.each {|bicycle| prepare_bicycle(bicycle)}
+      end
 
-def prepare_bicycle(bicycle)
-#...
-  end
-  end
+      def prepare_bicycle(bicycle)
+        #...
+      end
+    end
 
   The Mechanic class is not actually messaged (thought the parameter name is mechanic). *The prepare method has no explicit dependency on the Mechanic class but it does depend on receiving an object that can respond to `prepare_bicycles`.*
 
