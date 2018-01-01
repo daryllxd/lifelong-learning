@@ -1,3 +1,14 @@
+## How Seth Godin Would Launch a Business With a $1,000 Budget
+[Reference](https://www.indiehackers.com/@Louis_Grenier/how-seth-godin-would-launch-a-business-on-a-1-000-budget-2cc8c6c79c)
+
+- Market with people, not at them. Remember, people are immune to bad marketing. There's no more scammy, in your face marketing anymore.
+- Focus on the tiniest audience possible. The podcast: focuses only on digital marketers working in tech who are sick of shady, aggressive marketing.
+- If there's a conference for it, then your audience is big enough.
+- Remarkable product. Ex: Slack, MailChimp.
+- Abundance of confidence to get the word out. Making a free guide and try to see if their target audience will get value from it. He can then leave his email address at the bottom of the guide, and expect readers to contact with questions. Ex: Unbounce, their guest post/infographic contained tons of value.
+- Make a spinner and spin the wheel. Deliver value every week and stop expecting success to knock on my door tomorrow. I know that success will come, I just don't know when. It's such a liberating feeling. Success is a byproduct of helping people solve their biggest, most painful problems.
+- Key takeaways.
+
 ## Marketing for Developers
 [Reference](https://www.indiehackers.com/businesses/marketing-for-developers)
 
