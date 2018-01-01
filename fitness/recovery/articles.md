@@ -105,3 +105,10 @@
 - This is the zone they will train in and race at in order to maximize their utilization of fat as their fuel.
 - Despite the loss of sugar, blood sugar levels remained constant and healthy.
 
+## Recipes for Increased Recovery
+[Reference](https://www.trainingpeaks.com/blog/3-recipes-for-increased-recovery/)
+
+- Recovery: Restore fluid/electrolyte balance, replenish muscle and liver glycogen stores, stimulate protein synthesis.
+- Consume carb, protein, fluids within 30-60 minutes of finishing your workout (glycogen window) so you can restore the muscles.
+- Carb to protein: 3 or 4 to 1. 500-700 mg sodium to 20 ounces water for each lost pound of water weight.
+- Whey = Has BCAAs which are used to stimulate protein synthesis.
