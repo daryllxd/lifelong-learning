@@ -41,3 +41,37 @@
 ## Common Threads
 
 - Some recipe from a city in souther Mesopotamia, inscribed on clay from 3700 years ago.
+- They like cleanliness in the kitchen, and they like garnished food. There was steaming also.
+- Streets were regularly littered with house sweepings and domestic rubbish.
+- Thick walls (one meter thick) to moderate extremes of temperature.
+- Windows faced inwards.
+- School: math tablets, multiplication tables, religious and historical texts.
+- There was this father who told his son: "I never made you do laborer things, all I did was to ask you to go to school." He just wanted the son to be happy though.
+- In the harbor at Ur: the construction of a sea-going vessel that had a capacity of about 90 tons.
+- Mathematics: reciprocals, multiplication, squares, square roots, cubes and cube roots, complex equations, exponential functions, coefficients, areas of rectangles, circles, irregular figures. Like the principles of Pythagorean theorem, 2000 years before Pythagoras was born.
+- Math is helpful to know how much labor and earth you will need to excavate when you need to make a canal.
+- No concept of a zero.
+- Craftsmen, family businesses. Weaving was a favored occupation.
+- Some lady complaining to a customer about how her necklace didn't have stones despite her paying him grain.
+- Collapse was due to war, famine, flood, pestilence, political upheaval. Breakdown in social order. Mesopotamia had become overpopulated, and the gods had employed war, famine, etc. to keep the size of the human population under control.
+- There was infanticide, chastity, celibacy, and methods of intercourse that avoid pregnancy, but ultimately none of this could save Mesopotamia from becoming the victim of its own success.
+- The canals that drained water from the river to the plains also brought soluble salts to the surface, rendering the land increasingly saline and poisonous to crops. They tried to change from wheat to barley.
+
+## War, Greece, and Rome
+
+- Though warfare did not provoke the establishment of cities, there is plenty of evidence indicating that, once established, cities and the fruits of civilization become important factors in the development of military power.
+- Because of cities, military equipment can now be produced on an industrial scale. Cities maintained armies of 600-700 men from an early stage (full-time soldiers).
+- Greeks: had slaves (each male citizen owned an average of 2.5 slaves each).
+- 2 slaves could be bought for the cost of hiring one artisan for a year (compared to one slave costing at least 4 times an artisan's annual wage in mid-nineteenth century America).
+- Aegean Sea: bad land, and you can't grow the staple food (grain). The city-states inland had a smaller chance to alleviate their plight, while those on the coast looked across the sea for alternative supplies.
+- Acquiring grain: left to private merchants, not the government.
+- For the merchants to acquire grain constantly (not by attack and pillage), they had to offer something worthy of exchange (fruit, olives, oil, wine, pottery, cloth, metal goods).
+- Famine was a permanent fact of life for most people in the ancient world, especially in the cities.
+- The Roman state had a big involvement in the range of activities which supported the supply of corn to Rome. The feeding of Rome was always a political as well as an economic problem.
+- Middle of second century BC, there were at least half a million people living in Rome.
+- 123 BC: A law stating that the right of every Roman citizen to a monthly ration of grain at a fixed rate that undercut prevailing market prices.
+- Clodius: 4 years later, he abolished payment of the grain ration. While this was nice, the rural poor drifted into Rome and whole families moved there to take advantage of the distribution. Then people who had slaves turned them into free men.
+- Estimated that at 1 million people, they consumed about 5000 tons a week.
+- Good road system but it was expensive: not enough for two wagons pass side by side.
+- They got grain from North Africa. It took 2 days one way to get there. Going to Alexandria was harder.
+-
