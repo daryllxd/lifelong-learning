@@ -1,4 +1,44 @@
-# Haha bakit niyo binasabasa to :)))
+## Pulag via Tawangan-Ambangeg (2018-01-06 to 2018-01-08)
+
+- Cooked: Pesto pasta + chicken. I think the pasta wasn't like super al dente and I could probably have added more garlic flavor.
+- Hiked:
+  - Tawangan to saddle camp: 14 hours.
+  - Saddle camp to  Ambangeg: 3 hours 30 minutes.
+- Gear tests:
+  - Miniso Ushanka/Russian hat: Awesome. I hate how bonnets constrict your ears. It's annoying to put on a headlamp with this on though.
+  - Oakley Jawbreakers/sunglasses: They are cool I guess but only if you expect grassland type of climates. In the forest/jungle, they really don't do much because you look down on the forest floor anyway.
+  - Headphones for sleeping: Sure they take up some space but they block out all snoring. You can also learn shit on the way to the trail.
+  - Heattech Uniqlo base layer: Uh, not much? Not sure how I can benchmark it but anecdotally it was like is there a difference between this one and normal dry fit or cotton shirts?
+  - Garmin (bike computer):
+  - Get apps?
+  - Locka and lock how about label it.
+  - Can I just make containers for the things I have? Re: cooking.
+  - Recovery meals when reaching the campsite: I like the idea, but they should be the right kind of meal.
+- Was the chicken going bad? I'm pretty sure the process was
+- Loosening a zipper: Vinegar?
+- 3 batteries for 3 days: I think this is okay but I want more so I can have more time to compose images.
+- Where do I buy shock cord? I sort need some for the Thermarest.
+- I really prefer cooking pasta over rice if only because it makes the cooksets easier to clean.
+- You can use the toilet scrubber to scrub your cooking things.
+- Limatik/leech attacks: it just looks weird cause you have blood on you but honestly I'm like whatever man. It's just there. There are just so much blood sometimes though, so.
+- First aid kit: I just brought the minimum amount, I think I should have brought more.
+- Get garlic powder that doesn't suck.
+- Good thing you bought Silica gel, but the lens just keeps on fogging up.
+- Gloves cause you YOLO throught jungle terrrain and can get inadvertently struck by the thorny plants.
+- I think you can use different shirts for multi-day climbs, the space saved is not that big of a deal.
+- Probably add more arms/upper body strength so rash guards don't keep on falling off.
+- Review placement of hipbelt before putting it on, it should be like tight first then loosen it vs.
+- Thinking about getting collapsible water containers if I know we have water sources near the campsite and shit.
+- I now have a better packing strategy but I can't help but think if there are extra spaces all around the bag anyway, so.
+- Thermarest is awesome even as a sitting-on thing. And it really insulates!
+- I sorta need a trekking pole going downwards, because the main goal is knee preservation, not speed anyway.
+- Uphill, I think I am getting better at suffering, but I just miscalculate my calorie requirements and so I always find myself bonking midway-ish?
+- Protein bars are not that good for end-of-day recovery, they cost way too much and are too hard to eat.
+- Lowepro camera bag is a beast. Actually the XT-1 camera is a beast too.
+- Gorillapod hard to use to vlog if you can't view yourself on the actual camera. But it's awesome because you can attach it around your neck.
+- Photography: Should the head not be cut by the landscape?
+- Photography: How can I actually review the photo to see if there are blurred spots etc.
+- Photography: You have to be a master of your camera!
 
 ## Bahay Kalo 2017-09-24
 
