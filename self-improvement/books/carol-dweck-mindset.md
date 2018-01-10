@@ -84,7 +84,7 @@
 - You can't just assume that people are more talented. Probably at the start or at the end, but at the middle, you have to put in the effort.
 - Don't label your kids. Find growth mindset ways to compliment them.
 
-### Sports: The Mindset of a Champion
+### Chapter 4: Sports: The Mindset of a Champion
 
 - Billy Beane: Mindset/no idea of how to fail.
 - Muhammad Ali: Not really fundamentally sound physical wise but he had a mindset.
@@ -99,7 +99,7 @@
   - Tiger Woods: Coach said "The golf swing is just about the farthest things from a perfectible discipline in athletics."
   - Tiger's dad: kept on distracting him when he was swinging, so he can become less distractible.
 
-### Business: Mindset and Leadership
+### Chapter 5: Business: Mindset and Leadership
 
 - Enron: judged on talent. When people live in an environment that esteems them for their innate talent, they have difficulty when their image is threatened.
 - "Good to Great": The type of leader that was self-effacing and who constantly asked questions and had the ability to confront the most brutal answers--to look failures in the face, even their own, while maintaining faith that they would succeed in the end.
