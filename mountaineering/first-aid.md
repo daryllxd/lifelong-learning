@@ -1,3 +1,19 @@
+## First Aid Kit Build: 2017 Supplies Update
+[Reference](https://www.youtube.com/watch?v=b35VWJZVZEQ)
+
+- Cats tourniquet.
+- Safety shears to cut away clothing.
+- Rats tourniquet.
+- Iodine: Do not expose to sunlight.
+- Anti-inflammatory.
+- Non-latex gloves.
+- Duct tape.
+- Antibiotic/ointment.
+- Benadryl.
+- Disinfecting things.
+- Oral rehydration.
+- Foldable scissors.
+
 ## 30 Things you should have in your Medical First Aid Kits
 [link](http://offgridsurvival.com/30-things-you-should-have-in-your-medical-kits/)
 
