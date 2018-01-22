@@ -176,6 +176,79 @@
 
 ## Chapter 4: The Vulnerability Armory
 
+- Masks make us feel safer even when they become suffering. Armor makes us feel better even when we grow weary from dragging the extra weight around.
+- **Vulnerability is the last thing I want you to see in me, but the first thing I see in you.**
+- Believing we're "enough" is the way out of the armor/gives us permission to take off the mask.
+  - "I am enough." Worthiness versus shame.
+  - "I've had enough." Boundaries versus one-upping and comparison.
+  - "Showing up, taking risks, and letting be seen is enough." Engagement versus disengagement.
+
+### The Common Vulnerability Shields
+
+- **Foreboding joy.** The paradoxical dread that clamps down on momentary joyfulness.
+  - "Everything is okay, so something bad is going to happen."
+  - People feel most vulnerable when they are: loving their job, spending time with parents, getting engaged, getting promoted...
+  - This is us trying to beat vulnerability to the punch. We literally practice being devastated or never move from self-elected disappointment.
+  - We have a lot of triggers to activate foreboding joy (violence on TV).
+  - Staging open to joy: be grateful for things.
+  - Scarcity/fear drive foreboding joy. Do we deserve our joy?
+  - "Picture memory": A picture I take in my mind when I'm really, really happy.
+
+- **Perfectionism.** Believing that doing everything perfectly means you'll never feel shame.
+  - "The most valuable and important things in my life came to me when I cultivated the courage to be vulnerable, imperfect, and self-compassionate.
+  - Perfectionism: the belief that if we do things perfectly and look perfect, we can minimize or avoid the pain of blame, judgment, and shame.
+  - This is not about improvement. It is about trying to earn approval.
+  - Self-kindness, common humanity (feelings of personal inadequacy are part of the shared human experience), mindfulness (taking a balanced approach to negative emotions so that feelings are neither suppressed nor exaggerated. We cannot ignore our pain and feel compassion for it at the same time.
+  - **A twenty minute walk that I do is better than the four mile run that I don't do. The imperfect book that gets published is better than the perfect book that never leaves my computer. The dinner party of take-out Chinese food is better than the elegant dinner that I never host.**
+  - To manage perfectionism, you can do things that are good enough. I do things quickly and if it's good enough, it gets my stamp of approval.
+  - "Good enough is really good."
+  - Once the word "art" enters the description of what you're up to, it is almost like getting a hall pass from perfection. No need to be perfect.
+
+- **Numbing.** The embrace of whatever deadens the pain of discomfort and pain.
+  - Smoking/drinking: needing something to do with my hands. Social media has sort of replaced that.
+  - Feeling your feelings. Staying mindful about numbering behaviors. Learning how to lean into the discomfort of hard emotions.
+  - Dealing with anxiety: aligning your life with values and setting boundaries.
+- Viking or victim: Viking: someone who sees the threat of being victimized as a constant, so you stay in control. Victim: a suck or a lose who's always taken advantage of.
+  - Win or lose mentality.
+  - Turns out that this mentality can lead to higher suicide rates.
+
+### The Shields
+
+- Floodlighting: reaching out and sharing ourselves.
+- Why am I sharing this? What outcome am I hoping for? What emotions am I experiencing? Do my intentions align with my values?
+- **Smash and grab.** You can overshare to use vulnerability as a manipulation tool. **Smashing people's vulnerabilities with intimate information, then grabbing whatever attention and energy you can get your hands on.**
+  - Reality check: what need is driving this behavior?
+- **Serpenting.** Spending enormous energy trying to dodge vulnerability when it could take far less effort to face it straight on.
+  - Again, be present, pay attention, move forward.
+- **Cynicism, criticism, cool, and cruelty.**
+  - Criticism: Not productive feedback/debate/disagreement. Put-downs, personal attacks, and unsubstantiated claims about motivations.
+  - Cynicism: Not healthy skepticism/questioning. "That's so stupid." and "What a loser idea." "Cool."
+- You can't just stop caring about how other people think, because you'll lose your capacity for connection. You have to be in the middle of that and thinking of criticism.
+- Put your name on your posted comments online. IF you don't feel comfortable owning it, then don't say it. If you don't feel comfortable owning it, then don't say it.
+- **Strategy: Only pay attention to feedback to people who are also in the arena.**
+- **Strategy: A list of the people whose opinions matter for me.** Stretch-mark friend: our connection has been stretched and pulled so much that it's become part of who we are, a second skin, and there are a few scars to prove it.
+
+### Chapter 5: Mind the Gap: Cultivating Change and Closing the Disengagement Divide
+
+- "Mind the Gap": Pay attention to the space where you're standing and the place where you want to go.
+- Strategy vs culture. Strategy: the game plan, "What do we want to achieve and how are we going to get there?" **Culture: about who we are. The way we do things around here.**
+- Disengagement: what happens when we feel like our leaders aren't living up to their end of the social contract. Ex: politics, religion.
+  - Where does the gap come from? Who we are matters more than what we know or who we want to be.
+  - Your values have to be aligned with your actions. You can't preach one thing and not follow it yourself.
+
+### Chapter 6: Disruptive Engagement: Daring to Rehumanize Education and Work
+
+- Leader: Anyone who holds her- or himself accountable for finding potential in people and processes.
+- People believe they're only as good as their ideas and that their ideas can't seem too "out there" and they can't "not know" everything. The problem is that innovative ideas often sound crazy and failure and learning are part of revolution.
+- "However seductive the machine metaphor may be for industrial production, human organizations are not actually mechanisms and people are not components in them. People have values and feeling, perceptions, opinions, motivations, and biographies, whereas cogs and sprockets do not."
+- Discomfort is normal, it's going to happen, why it happens, and why it's important, reduces anxiety, fear, and shame. Periods of discomfort become an expectation and a norm.
+- Strengths perspective: When a student presents, s/he receives feedback from every one of his or her classmates. 3 strengths and 1 opportunity for improvement.
+- "Sitting on my side of the table" re: feedback.
+- In any system, you'll figure out how people engage with vulnerability by observing how often and how openly you hear people saying:
+  - "I don't know", "I need help", "I'd like to give it a shot", "It's important to me", "I disagree, can we talk about it", "It didn't work, but I learned a lot", "Here's what I need", "Here's how I feel", "I'd like some feedback", "What can I do better next time", "Can you teach me how to do this", "I played a part in that", "I accept responsibility for that", "I'm sorry", "Thank you".
+
+### Chapter 7: Wholehearted Parenting: Daring to be the Adults We Want Our Children to Be
+
 ## Notes
 
 - On wholehearted living: I think this is an exercise that I have to do everyday, seeing as it's so hard to be surrounded by extremely smart and accomplished people that you feel that you have to bring you A-game.
@@ -187,3 +260,8 @@
 - Haters: Really, fuck cruel people. I know that I probably was a hater at some point. I mean, I still am in some regards to some people. But I cannot hate people who give it their all and put their thing out in the world. It's so scary and the process takes a lot of time to do.
 - On being perceived as a weak man: well it always comes back to how many skills you have. People can't really judge you if you have more skills than them. People respect your for your skills and your use to society.
 - Do women nag because of the thing about "when they don't feel heard and validated"?
+- Thinking about the connection between stoicism and this vulnerability talk. I guess if you accept things for what they are and you accept that every good thing can have a bad consequence then it's okay? Huh.
+- "Picture memory", I think I have those things, I love bringing up happy moments in my life when I feel down or weird.
+- A twenty minute walk that I do is better than the four mile run that I don't do. The imperfect book that gets published is better than the perfect book that never leaves my computer. The dinner party of take-out Chinese food is better than the elegant dinner that I never host.
+- Dead last trumps did not finish which trumps did not start.
+- "There's a crack in everything. That's how the light gets in."
