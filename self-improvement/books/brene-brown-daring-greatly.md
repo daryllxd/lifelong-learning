@@ -249,6 +249,23 @@
 
 ### Chapter 7: Wholehearted Parenting: Daring to be the Adults We Want Our Children to Be
 
+- Perfect parenting: "I'm better than you?"
+- Parent to children:
+  - Acknowledge that we can't give our children that we don't have and so we must let them share in our journey to grow, change, and learn.
+  - Recognize our own armor and model for our own children how to take it off, be vulnerable, show up, and let ourselves be seen and known.
+  - Parent from a place of "enough" rather than scarcity.
+  - Mind the gap and practice the values we want to teach.
+- Worthiness doesn't have prerequisites.
+- Shame vs guilt: we don't want to shame our children, we just want to guilt them?
+- Belonging vs fitting in? Belonging is the human desire to be part of something larger than us. Fitting in = assessing a situation and becoming who you need to be in order to be accepted.
+- Hope is a function of struggle. To be hopeful, you have to struggle.
+- Hope: combination of setting goals, having the tenacity and perseverance to pursue them, and believing in our own abilities.
+- Raising children who are hopeful means stepping aback and letting them experience disappointment, deal with conflict, learn how to assert themselves, and have an opportunity to fail.
+
+### Final Thoughts
+
+- Daring greatly: not about winning or losing. It's  about courage. In a world where scarcity and shame dominate, vulnerability is subversive, uncomfortable.
+
 ## Notes
 
 - On wholehearted living: I think this is an exercise that I have to do everyday, seeing as it's so hard to be surrounded by extremely smart and accomplished people that you feel that you have to bring you A-game.
