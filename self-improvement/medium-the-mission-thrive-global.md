@@ -373,3 +373,84 @@
 - Do I believe I can succeed? Or am I just pretending?
 - If you want to change any behavior and continue evolving into better versions of yourself, you must believe you can improve.
 - What do you believe about yourself?
+
+## 23 Smart Ways to Increase Your Confidence, Productivity, and Income
+[Reference](https://medium.com/personal-growth/23-smart-ways-to-increase-your-confidence-productivity-and-income-c21b42979893)
+
+- **Deal with 5 minutes of pain.** Waking up only really feels terrible for 5 minutes, if you immediately get out of bed and do something.
+  - The longer you hesitate to do something, the less likely you are likely to do it.
+  - You know you are lying to yourself. If you do things that you say you are going to do, then that is a cause, not an effect. You gain confidence by doing what you say you're going to do.
+  - You want to make decisions when you are in a good mental state. You want to start off your day in a good mental state.
+  - This usually only lasts 5 minutes. Change environments as quickly as possible.
+  - Sometimes, improvements are about changing the first 5 minutes of your day, or just having 30 days to build a habit.
+- **Start your day with your #1 priority.**
+- **Face your resistance/do what you're avoiding.**
+  - When you get yourself to work on what's the most important for you, you can feel a surge of energy toward the other important stuff in your life.
+- **Embrace multiple learning styles.**
+  - Everyone has a dominant learning style, and we also have backup learning styles we rely on when we're in a difficult situation.
+  - When you engage in an activity that you resist, you activate areas of your brain and emotions that you've suppressed.
+  - You make new connections in your brain, and confidence in yourself by watching yourself do something difficult.
+  - Growth mindset over fixed mindset.
+- **How you do anything is how you do everything.**
+  - You can't eat a chocolate cake and want to be slim.
+- **Know and strategically define your why.**
+  - "He who has a why to live for can bear almost any why."
+  - Clarity leads to motivation, operating from conviction creates authentic and optimal performance.
+  - What about so-and-so is important to me?
+  - What about working from home is important to me? What about having a flexible schedule is important to me? Keep on asking why, why, why.
+- **Be a giver, not a matcher or a taker.**
+- **Only engage in transformational relationships, because transactional ones will end soon anyways.**
+- **Don't overvalue what you contribute to your relationships while undervaluing what others contribute.** Don't keep score in your relationships.
+- **Work with craftsmen, not salesmen.**
+  - People who have high standards for their work.
+  - Those who lack details in their work lack important details in the design of the other areas of their lives.
+  - Craftsmen and professionals. Their priority is doing brilliant work, but they aren't starving artists. They understand the business side as well.
+- **Elevate your sense for what you deserve in your life.**
+  - There is an ocean of abundance, and one can tap into it with a teaspoon, a bucket, or a tractor trailer. The ocean doesn't care.
+  - **Your life is a reflection of what you believe you deserve.** Your sense of what you deserve grows as you have a greater desire to help other people. You end up needing to use your time better, because you have important work to do.
+  - Expectancy theory:
+    - How bad you want something, how much you believe you can actually have, or do what you want, and your belief that the means by which you seek your goal will actually bring about the desired result.
+    - Our eyes only see and our ears only hear what our brain is looking for.
+    - Developing skills becomes an upward cycle of expectancy: you KNOW you can do more, you've watched yourself grow and transform, and you have higher and higher standards for yourself.
+- **Elevate your sense for what you can contribute, because if you're willing to work and learn, you can do masterful things.**
+  - Mastery comes from embracing difficult emotions. You'll face difficult emotions, because in order to gain true master, you must understand all sides of something.
+  - Integrating, understanding, all of these require embracing all of the learning styles, breaking emotional blocks, expanding your sense for what you can do.
+  - The more education a person gets, the more empathetic they can become. There is no power in ignorance.
+- **Decide what kind of life you want, then figure out how to get it.**
+  - Instead of "living within your means", why not proactively decide what you want, and then figure out how to get it.
+  - On money: if you can have nice things, and not fear having them taken away, then it's a good thing. Because money is a really valuable tool.
+  - Rather than fitting your dreams into your current lifestyle, fit your lifestyle around your dreams.
+- **Serve and give as much as you can.**
+  - Giving: you want to do this because you genuinely want to help other people, and you want to have a clear conscience.
+  - You give because you must. You give of yourself, and organize your life to give so you can have a clear consciousness of how you're living your life.
+- **Automate your income as quickly as possible to free up time.**
+  - Courage: if you want to work in an environment where you are compensated based on your performance (business owner or employee paid on an incentive basis).
+- **Give 10x value of what you say you will, aka blow people's minds..**
+  - Passive income: you give way more than what people pay for. You focus on value, not price. When you focus on value, you can actually charge very large sums of money, because you know people will get at least 10x the value of what they paid for.
+  - When you're a giver, you MUST give more value than people pay. You do it because you find joy in doing your very best work, you do it because you value the fact that people came to you.
+- **Give away most of your work for free.**
+  - Give away a lot of things for free. Your free stuff should also be valuable that it makes people want to come back for more.
+- **Make more stuff, but only really good stuff.**
+  - Ship often. Ship lousy stuff, but ship. Ship constantly.
+  - Self-perception is the product of choices and environments.
+  - If you want more creativity, then you simply need to do more creative work. You battle the resistance and get to work. Then, creativity becomes non-stop.
+- **Become the best in the world at what you do.**
+  - What is it you actually do?
+  - Who are the people you help? What is the problem you're trying to solve for those people/ Don't define your audience or ideal customer by their demographics. Instead, define your audience by the problems they have.
+  - How can you help this person? How can you help them so much that you become a hero to them?  How can you give so much to these people that you can change their lives for the better?
+- **Invest heavily in yourself.**
+  - You want to get in points of no return--it's like you are forced to move forward out of compulsion, but once you must go forward, you're not longer confused about what you need to do.
+  - Psychological things to make sure you move forward:
+    - You don't want to look like an idiot.
+    - You want to justify your investment.
+    - You have to be consistent with the behaviors you've performed.
+    - You now have external conditions that will eventuate in a self-fulfilling prophecy.
+- **Become a speaker and teach others what you've learned.**
+  - Publicity, story, going in front of the world to share the message. You can manipulate human behavior, or you can inspire it.
+  - People don't buy what you do, they buy why you do it.
+- **Learn in public, even when you're scared.**
+  - Musicians, boxers, lion tamers all practice in public. There is a huge difference between abstract, theoretical knowledge and knowledge developed and tested in the crucible of experience.
+  - If you want to learn something fast, learn in public. Learn through raw experience. Learn through failure. Surround yourself with a support system of people who love helping you and investing in you.
+- **Take a few minutes every night to mentally prepare yourself for the next day.**
+  - The success of your morning begins the night before.
+  - Just a few minutes of thoughtful and affirmative meditation will put your subconscious on a path toward achieving your goals.
