@@ -1,0 +1,43 @@
+## Wilderness First Aid Essentials: The 6 Most Common Medical Issues That Every Hiker Should Know How to Treat
+[Reference](https://adventures.hartleybrody.com/basic-wilderness-first-aid/)
+
+- **Wounds/infections.**
+  - Control bleeding: direct pressure on the wound and elevation of the wound above the heart.
+  - Gloves before touching someone else's blood.
+  - Once there is bleeding, prevent infection by irrigating the wound with clean water. You can flush it out with high pressure.
+  - Remove dirt with tweezers.
+  - Alcohol wipes for AROUND the tissue, because they can damage good tissue.
+  - When the wound is relatively clean, you can cover it with antibiotic ointment and then clean gauze and a wrap to hold it in place.
+  - Swelling, warmth, redness, pus is normal. But if symptoms get extreme (hot to touch, bright red, hardening skin, painful), it might be infected.
+  - If a wound is going to get infected, it will show up in the first 24-48 hours.
+- **Burns.**
+  - Cold, clean water immediately. Then scrub with water and a bit of mild antibacterial soap. The goal is to prevent infection if the burn goes deep into the skin.
+  - Then, cover the burned area with antibiotic ointment and clean gauze or clothing.
+  - Elevate to reduce swelling.
+  - Important to keep the patient warm and well-hydrated since the major risk is FLUID LOSS.
+- **Knee & Ankle Injuries.**
+  - If still usable:
+    - Rest.
+    - Ice: 20-30 minutes cooling with 15 to naturally rewarm.
+    - Compression: wrap.
+    - Elevation: Lie down and elevate their feet on a backpack or two.
+  - If unusable:
+    - Splint the joint in a comfortable position: for ankle, keep the foot at around 90 degrees, for knees, bend the kneed about 5 degrees from the straight.
+    - Pad and compress, but not too much that the patient loses feeling in their extremities.
+- **Blister.**
+  - Formed when thick skin (palms, feet) is rubbed, so it begins to separate from the softer, more sensitive skin beneath.
+    - You don't want to risk the blister popping. Best option is to drain it, then treat it like a wound.
+    - Wash the area around the blister. Then sterilize a sharp point with alcohol or by holding it over a flame.
+    - When you lance the blister, try to make it parallel, the slide it up into the bottom of the blister's roof. Then, leave the rest of the roof intact to protect the inner layers of skin. Give the blister a few minutes to drain, then cover with antibiotic ointment to prevent the lanced hole from getting infected.
+- **Dehydration.**
+  - Hydration: keeps joints lubricated, muscles healing, and digestive system working.
+  - Mild: Dry lips/mild thirst.
+  - Severe: Fatigue, joint soreness, irritability, frustration, poor decision making.
+  - You need to pee every 4-5 hours on the trail.
+  - If your urine isn't clear, copious, and bubble free, you're probably dehydrated.
+  - Ideally, you have powdered sports drink mix, and everyone is consuming salty snacks like peanuts.
+- **Shock.**
+  - The body's response to a sudden drop in blood pressure, to prioritize blood flow to the brain and other vital organs.
+  - Anxiety, rapid pulse, cool/clammy skin, weakness, nausea.
+  - Treatments:
+    - Reassure the person, have them lie down, elevate their feet on a backpack, keep them warm and dry, keep them hydrated.
