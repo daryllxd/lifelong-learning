@@ -1,5 +1,5 @@
 # The 5 Most Useless Pieces of Advice Everyone Gives
-[Link](http://www.cracked.com/blog/the-5-most-useless-pieces-advice-everyone-gives/)
+[Reference](http://www.cracked.com/blog/the-5-most-useless-pieces-advice-everyone-gives/)
 
 ## #5. "You Just Need to Watch What You Eat! (or Drink, or Smoke, etc.)"
 
@@ -47,7 +47,7 @@ Everyone's life is hard, but everyone's life is hard in a different way, and con
 
 ## #2. "Just Be Yourself!"
 
-If you're walking into a situation where you need to make a good impression and all you have to go on is "Just be yourself"... well there is no such thing. There is no "yourself" to be.
+If you're walking into a situation where you need to make a good impression and all you have to go on is "Just be yourself", well there is no such thing. There is no "yourself" to be.
 
 This is like "Follow your gut", which is a recipe for goddamn disaster -- **the careful consideration that makes you back off from your first impulse is just as much a part of "you" as your "gut".**
 

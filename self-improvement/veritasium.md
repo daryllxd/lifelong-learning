@@ -27,4 +27,3 @@ Not all breakthroughs are given by young scientists. But how do you make a contr
 When you're learning something you need a lot of thought doing it. Over time you learn to do things automatically, without thinking. Think working memory. What you want to do is to automate parts of your brain so you don't have to chunk stuff.
 
 Muscle memory is ridiculous because the memory is in your brain but it feels like it because you've done it so many times. You have to think of things a lot of times to get things right.
-
