@@ -10,6 +10,7 @@
   - Try to keep all the water in because you are steaming the rice.
   - 18 minute simmer?
   - When the rice is done, don't open the cover yet. You want to let the rice steam itself.
+- On cooking, even if you know how to cook, because hiking cooksets are small, it's hard to move stuff around. I'm now thinking of using just really small cuts of meat and vegetables so that it's easier to move things around. Ground beef and stuff like that.
 - Lots of foreigners in Banaue. I was just really surprised.
 - Shoes are really falling apart. I'm compelled to just get boots at this point.
 - Mini containers: screw type, not push type.
@@ -17,14 +18,16 @@
 - Cambulo outskirts: Fuck those chickens haha.
 - Pat-yay Village: Best AirBNB ever. Also, in the homestay there you can take a shit because there is a restroom with a toilet there. How they got that over the mountain, I do not know. 150 pesos ($3) per night!
 - If you try to do the first two days in just a day, you have to start really early (Gen/Aaron took about 11 hours).
-- Sleep setup: I think this is my best sleep setup so far. I think the last component for me to use would be a solid base layer because I love my setup so far. I just needed the sleeping bag on the summit.
-- Fortunately the windbreaker, while it was wet when we rested for lunch, dried when it got to the summit.
-- You move the things in the pan so that they won't stick.
+- Sleep setup: I think this is my best sleep setup so far, as far as heat goes. I think the last component for me to use would be a solid base layer because I love my setup so far. I just needed the sleeping bag on the summit.
+- Summit camping: Must have free-standing tent because almost no pegging area. Bunker = basically what it sounds like. It's like a cottage hehe.
+- Fortunately the windbreaker, while it was wet when we rested for lunch, dried when it got to the summit. Thinking about another windbreaker but it's just too heavy.
+- You move the things in the pan so that they won't stick. Actually that's what oil does. It prevents the things from burning.
 - Astrophotography: Need to get parts of the ground in the shot, not just the sky?
 - You need sugar with your sodium to absorb it.
-- Remote camera; Turn off bluetooth connections to connect the wifi. FUCK.
+- Remote camera; Turn off bluetooth connections to connect the wifi. That was basically it.
 - 30 second limitation on exposure re: camera.
-- Combine the two second delay thing.
+- To prevent camera shake, you can do the 2 second delay so you've pressed the button and stabilized the camera before you actually take the shot.
+- Saw on Youtube: You can have some sort of foil thing at the bottom of the stove, so the heat will reflect back/faster heating.
 
 ## Pulag via Tawangan-Ambangeg (2018-01-06 to 2018-01-08)
 
