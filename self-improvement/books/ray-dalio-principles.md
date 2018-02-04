@@ -171,3 +171,90 @@
   - Don't overweight first-order consequences relative to second- and third- order ones.
   - Don't let pain stand in the way of progress.
   - Don't blame bad outcomes on anyone but yourself.
+
+- Face "harsh realities." vs avoid facing "harsh realities."
+- Worry about achieving the goal vs worry about appearing good.
+- Make decisions on first-, second-, and third-order consequences.
+- Understand how to manage pain to produce progress.
+- Hold yourself and others accountable.
+
+#### Use the 5-Step Process to Get What You Want Out of Life
+
+- Have clear goals. Don't even think about how you will achieve them, just set them.
+- Identify/don't tolerate the problems that stand in the way of your achieving those goals.
+- Accurately diagnose the problems to get at their root causes. Don't try to solve them, just diagnose them.
+- Design plans that will get you around them.
+- Do what's necessary to push these designs through to results.
+- Again, be ruthlessly honest/don't let your emotions get the best of you. If necessary, seek guidance from calm, thoughtful people.
+- Every mistake you make teaches you something, so there's no end to learning. You'll soon realize that excuses like "that's not easy" or "it doesn't seem fair" or "I can't do that" are of NO VALUE and that it pays to push through.
+
+- ***Have clear goals.***
+  - Choosing a goal often means rejecting some things you want in order to get other things that you want or need more.
+  - Don't confuse goals with desires. Don't think of the first-order consequences like eating junk food. If you want to be a couch potato, it's fine. If you don't, then don't open that bag of chips.
+  - **Don't make the trappings of success for success itself.** Achievement orientation is important, but people who obsess over a $1200 pair of shoes or a fancy car are very rarely happy because they don't know what it is that they really want and hence what will satisfy them.
+  - Never rule out a goal because you think it's unattainable. You'll be surprised.
+  - Flexibility (allows you to accept what reality or knowledgeable people) teaches you, self-accountability (if you really believe that failing to achieve a goal is your personal failure, you will see your failing to achieve it as indicative that you haven't been creative or flexible or determined enough.
+  - Knowing how to deal well with setbacks is as important as knowing how to move forward. Think of like, making the best possible choices, even if all of them are bad.
+
+- ***Identify and don't tolerate problems.***
+  - Painful problems = potential improvements.
+  - Don't avoid confronting problems because they are rooted in harsh realities. GET OVER IT. **Acknowledging your weaknesses is not the same as surrendering to them.**
+  - Be specific in identifying your problems. If you're bad at accounting, hire an accountant. If something results from another person's weaknesses, replace them with someone who is strong where it's needed.
+  - Don't mistake the cause of a problem with the real problem. "I can't get enough sleep" is not a problem, it is a potential cause, or the result, of a problem.
+  - Distinguish big problems from small ones.
+  - Once you identify a problem, don't tolerate it. Tolerating a problem has the same consequences as failing to identify it. You still have this problem!
+
+- ***Diagnose problems to get at their root causes.***
+  - **Distinguish proximate (I got late because I didn't check the schedule) from root (I am forgetful) causes.**
+  - **Knowing what someone is like tells you what you can expect from them.** People who live up to their potential often have a willingness to look at themselves and others objectively and understand the root causes standing in their way.
+
+- ***Design a plan.***
+  - Replay the story of where you have been, then visualize what you must do in the future so you will reach your goals.
+  - Think about your problem as a set of outcomes produced by a machine.
+  - Think of your plan as a movie script that you visualize who will do what through time.
+  - Write down your plan for everyone to see and measure your progress against. This includes all granular details about who needs to do what tasks and when.
+  - Design before doing!
+
+- ***Push through to completion.***
+  - Good work habits are vastly underrated. People who push through successfully have to-do lists that are reasonable prioritized.
+  - Establish clear metrics to make certain that you are following your plan.
+  - These steps proceed from your values. Your values determine what you want, your goals. When you complete one step, you'll acquire information that will most likely lead you to modify the other steps.
+
+#### Be Radically Open-Minded
+
+- ***Recognize your two barriers.***
+  - Ego: The subliminal defense mechanisms that make it hard for you to accept your mistakes and weaknesses. Your deepest-seated needs and fears reside in primitive parts of your brain such as the amygdala. Because these areas of your brain are not accessible to your conscious awareness, it is virtually impossible for you to understand what they want and how they control you.
+    - The amygdala craves praise and responds to criticism as an attack, even when the higher-level parts of the brain understand the constructive criticism is good for you. They make you defensive, especially when it comes to the subject of how good you are.
+    - Your two "yous" fight to control you. You can actually see your brains fight, "why did I let myself eat all the cake" vs "because the lower-level you won out over the thoughtful, higher-level you".
+    - Most people don't even know they exist, never mind that they are trying to hijack everyone's behavior.
+    - When someone disagrees with you, you might choose to interpret this attack, though it would be more logical for you to be interested in the other person's perspective, especially if they are intelligent. Then when you try to explain yourself, you realize that it doesn't make sense. This is because your lower brain is trying to speak through your upper brain, so there is no logical way to explain what "you" are thinking.
+    - If you are too proud of what you know or of how good you are at something, you will learn less, make inferior decisions, and fall short of your potential.
+  - Blind spot barrier.
+    - We don't like to see ourselves or others as having blind spots, even though we all have them.
+    - You have no clue how other people see things and aren't good at seeking to understand what they are thinking, because you're too preoccupied with telling them what you yourself think is correct. In short, you're close-minded, you presume too much.
+    - When two parties think they're right, they often end up angry at each other. This is illogical and leads to suboptimal decision making.
+
+- ***Practice radical open-mindedness.***
+  - If you know you are blind, you can maybe figure out a way to see, but if you don't, you'll continue to bump into your problems.
+  - This is like escaping the lower-level you and ensuring your upper-level you sees and considers all the good choices and makes the best possible decisions.
+  - **Sincerely believe that you might not know the best possible path and recognize that your ability to deal well with "not knowing" is more important than whatever it is you do know.** Coming up with the right questions and asking other smart people what they think is as important as having all the answers.
+  - **Recognize that decision making is a two-step process: take in all relevant information, then decide.**
+  - Why do people try to prove that they have the answer, even if they don't? They probably believe that great people have all the answers and don't have any weaknesses (wrong).
+  - Being open-minded: you need to be so open to the possibility that you could be wrong that you encourage others to tell you so.
+- **Remember, you're looking for the best answer, not simple the best answer that you can come up with yourself.** Recognize that the probability of you always having the best answer is small.
+- Think, which one of you is the more believable one? If both parties are peers, it's appropriate to argue. Believable people = those who have repeatedly and successfully accomplished the thing in question and have great explanations of their approach when probed.
+- You should make it clear that you are asking questions because you are seeking to understand their perspective. If you're clearly the more believable person, you might politely remind the other of that.
+
+- ***Appreciate the art of thoughtful disagreement.***
+  - When two people believe opposite things, chances are that one of them is wrong. It pays to find out if that someone is you.
+  - In thoughtful disagreement, your goal is not to convince the other party that you are right, it's to find out which view is true and decide what to do about it.
+  - You want both "higher-level yous" trying to get to the truth. These are helpful and a giant source of untapped potential.
+  - Conduct the discussion in a calm and dispassionate manner, and encourage the other person to do that as well. You are not arguing; you are openly exploring what's true. Be reasonable and expect others to be reasonable.
+  - **It's pointless when people get angry with other when they disagree because most disagreements aren't threats as much as opportunities for learning.** People who changed their minds because they learned something are the winners, whereas those who stubbornly refuse to learn are the losers. This doesn't mean you should blindly accept others' conclusions, you should be open-minded and assertive at the same time--you should hold and explore conflicting possibilities in your mind while moving toward whatever is likely to be true.
+  - Recommended: Have a rule where no one interrupts the other.
+  - Working through disagreements does take time but it's about the best way you can spend it. Consider that there are lots of people who will disagree with you, and it would be unproductive to consider all their views. It doesn't pay to be open minded with everyone. Instead, explore ideas with the most believable people you have access to.
+  - Most people are instinctively reluctant to disagree. This is your lower-level interpreting disagreement as conflict. This is why it isn't easy, you have to have exchanges that don't trigger such reactions in yourself or others.
+
+- ***Triangulate your view with believable people who are willing to disagree.***
+  - Smart people who can thoughtfully disagree are the greatest teachers.
+  - Even experts can make mistakes. It pays to be radically open-minded and triangulate with smart people.
