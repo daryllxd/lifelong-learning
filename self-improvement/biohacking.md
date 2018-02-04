@@ -1,4 +1,4 @@
-## I’m 32 and spent $200k on biohacking. Became calmer, thinner, extroverted, healthier & happier.
+## I'm 32 and spent $200k on biohacking. Became calmer, thinner, extroverted, healthier & happier.
 [Reference](https://hackernoon.com/im-32-and-spent-200k-on-biohacking-became-calmer-thinner-extroverted-healthier-happier-2a2e846ae113)
 
 - Good mood, confidence, focus, energy, willpower, stress resilience, brainpower, calm, health...
@@ -26,7 +26,7 @@
 - Mental Health
   - Meditation definitely works.
   - Psychotherapy. "How do I enhance my intelligence?" "How do I eliminate bad mood days?" "How do I find it easy to always chat with girls I find attractive?"
-  - Never life about anything to anyone.
+  - Never lie about anything to anyone.
 - Medical testing:
   - Discover your bugs and fix them if possible.
     - Blood testing.
@@ -67,3 +67,54 @@
 
 - A very proactive strategy is necessary to offset orthopedic injuries as we age.
 - In some cases, the injuries are brought on by years of overuse.
+
+## How to biohack your intelligence — with everything from sex to Modafinil to MDMA
+
+- Intelligence: Ability to accomplish complex goals.
+  - Classical: Logic, problem solving, creativity, strategy.
+  - Applied: Energy, focus, willpower, emotional control.
+  - Social: Persuasiveness, empathy, social skills.
+  - Dynamic: Ability to learn, memory, knowledge.
+- Modafinil, SSRI, MDMA, hormone signaling, mitochondria-enhancing exercise.
+- Get into flow state every day: fix sleep, do intermittent fasting, get hormones to optimal levels, use Modafinil, build the right habits, high quality deep downtime.
+- Make ourselves immune to stress (meditation, lithium, SSRIs), eliminate distractions, build the right habits over time.
+- Suggestion: find one hour of deep work every day.
+- Investments:
+  - Obsessively thinking about the reasons we did not hit our deep work goals and fixing them.
+  - Social intelligence. This is mainly like practicing body language in front of a mirror, reading the right books, writing persuasive articles.
+  - Dynamic intelligence (learning to learn) + classical intelligence (IQ). Nutrients like Mg, choline, EPA, Curcumin, Bacopa Monieri. Interval training. Intermittent fasting. LSD.
+
+### On bad sleep:
+
+- Lowered emotional control, stress resilience, willpower and focus. Significant increase in procrastination.
+- Hormonal misregulation.
+- Reduced immunity.
+- Lower ability to remember what you learned the prior day.
+- Worsened cognition and ability to see creative non-trivial solutions.
+- Less able to read facial expressions, rated less attractive.
+- Worsened clearance of waste from brain.
+
+### On stress:
+
+- Lithium.
+- Meditation.
+- Ruthlessly remove negative people from life.
+- Testing our hormones.
+- Eating once a day?
+  - Major health benefits by promoting autophagy.
+  - Saves time.
+  - Prevents the afternoon slump.
+  - Directly enhances intelligence.
+
+### Social Intelligence
+
+- Body language, eye contact, voice tonality. Looking and acting dominant enhances our persuasion effectiveness.
+- Beta blockers.
+- To be aggressive, do some pushups. To be more calm, meditate.
+
+### On Avoiding Pollution
+
+- Air filter mask?
+- Don't drink hot liquids from plastic containers, avoid plastics near your food.
+- Eat expensive local/organic food.
+- Don't smoke.
