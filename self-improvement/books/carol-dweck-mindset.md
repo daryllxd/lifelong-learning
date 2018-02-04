@@ -9,10 +9,12 @@
 - **The view you adopt for yourself profoundly affects the way you lead your life.**
   - Believing that your qualities are carved in stone (the fixed mindset) creates an urgency to prove yourself over and over. Having this causes people to try to prove themselves, "will I succeed or fail", "will I look smart or dumb", "will I be accepted or rejected", etc.
   - Growth mindset: the belief that your basic qualities are things you can cultivate through your efforts, your strategies, and help from others. Though people differ in every which way, everyone can change and grow through application and experience.
-  - **Why waste time proving over and over how great you are, when you could be getting better? Why hide deficiencies instead of overcoming them? Why look for friends or partners who will just shore up your self-esteem instead of ones who will also challenge you to grow?** The passion for stretching yourself and sticking to it, especially when it's not going well, is the hallmark of the growth mindset. This is the mindset that allows people to thrive during some of the most challenging times in their lives.
+  - Get better instead of wasting time proving how great you are.
+  - Overcome deficiencies instead of hiding them.
+  - Look for friends or partners who will challenge you to grow, not just shore up your self-esteem.
 - Example of view: getting a C+. You're disappointed.
-  - For fixed mindset people, it's "I'm an idiot." "I feel worthless." "Somebody upstairs doesn't like me." "The world is out to get me." "I'm unlucky."
-  - Their coping is: "Do nothing." "Stay in bed." "Get drunk." "Eat." "Yell at someone." "Pick a fight with somebody." "Cry." This happens if you think that there is nothing to gain anyway.
+  - FM: "I'm an idiot." "I feel worthless." "Somebody upstairs doesn't like me." "The world is out to get me." "I'm unlucky."
+  - Coping is: "Do nothing." "Stay in bed." "Get drunk." "Eat." "Yell at someone." "Pick a fight with somebody." "Cry." This happens if you think that there is nothing to gain anyway.
   - Growth mindset: "I need to try harder in class." "I need to be more careful." "I'd need to work a lot harder in this class."
   - Coping: "Studying harder, or in a different way." "Chat with my teacher."
 - For FM people, it "nothing ventured, nothing gained" becomes "nothing ventured, nothing lost."
