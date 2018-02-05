@@ -258,3 +258,67 @@
 - ***Triangulate your view with believable people who are willing to disagree.***
   - Smart people who can thoughtfully disagree are the greatest teachers.
   - Even experts can make mistakes. It pays to be radically open-minded and triangulate with smart people.
+  - Second opinion? Doctors can make mistakes.
+
+- ***Recognize the signs of closed-mindedness and open-mindedness that you should watch out for.***
+  - Close-minded people don't want their ideas challenged. They feel bad about getting something wrong and are more interested in being proven right.
+  - Close-minded people are more likely to make statements than ask questions. Open-minded genuinely believe they could be wrong; the questions they ask are genuine.
+  - Close-minded people focus more on being understood than on understanding others.
+  - Close-minded people block others from speaking.
+
+- ***Understand how you can become radically open-minded.***
+  - Regularly use pain as your guide toward quality reflection. **Mental pain often comes from being too attached to an idea when a person or an even comes along to challenge it.**
+  - You will feel your amygdala kicking in through a tightening in your head, tension in your body, or an emerging sense of annoyance, anger or irritability.
+  - Get to know your blind spots: where have you made bad decisions because you failed to see what others saw?
+  - If a number of believable people say you are doing something wrong and you are the only one who doesn't see it that way, assume that you are probably biased. You should switch from a fighting mode to an "asking questions" mode.
+  - Meditate.
+  - Be evidence-based.
+  - Do everything in your power to help others also be open-minded. Ask others to point to evidence that supports their point of view.
+  - Use evidence-based decision making tools.
+- **Are you willing to fight to find out what's true? Do you deeply believe that finding out what is true is essential to your well-being? Do you have a genuine need to find out if you or others are doing something wrong that is standing in the way of achieving your goals??**
+
+### Understand that People Are Wired Very Differently
+
+- Creative, conceptual people who had a lot of common sense.
+- Paul (his son)'s bipolar disorder: due to the brain chemistry secreting serotonin and dopamine in spurts and sputters. It's hard to reason with someone who wasn't thinking well.
+- When you understand that it's physiological, things become clearer. People think according to how they see things.
+- Ex: a creative, goal-oriented person good at imagining new ideas might undervalue daily details, and task-oriented people might undervalue creativity.
+- BW baseball cards: stats for each player in the company.
+
+- ***Meaningful work*** and meaningful relationships are genetically programmed into us.
+  - The brain evolved in ways supporting cooperation so man could hunt and do other activities.
+  - The Dalai Lama: Prayer and meditation seemed to have similar effects on the brain re: producing feelings of spirituality, each religion adds superstitions to this.
+
+- ***Understand the great brain battles and how to control them to get what you want.***
+
+- The conscious battles the subconscious. The concept of the "two yous". An animal doesn't decide to fly or hunt or sleep in the way that we go about making many of our own choices of what to do--it simply follows the instructions that come from the subconscious parts of its brain.
+- Our subconscious fears and desires drive our motivations and actions through emotions such as love, fear, and inspiration. It's physiological.
+- The subconscious parts of our brains are dangerously animalistic, others are smarter and quicker than our conscious minds.
+- You can't just cram stuff into your conscious mind. While counter-intuitive, you can also clear your head to make progress.
+- ***Know that the most constant struggle is between feeling and thinking.***
+  - There are no greater battles that our feelings (amygdala) and our rational thinking (prefrontal cortex). When something upsets us, this amygdala prepares to fight or flee. Remember that your conscious mind can refuse to obey these instructions. When you know how these hijackings work, you know that if you allow yourself to react spontaneously, you will be prone to overreact.
+- Basal ganglia: Drives your habits. Habits = inertia, the strong tendency to keep doing what you've been doing. Habits put your brain on autopilot.
+- ***Train your lower-level you with kindness*** More effective to train that subconscious, emotional you the same way you teach a child.
+- Buddhist monks who had practiced more than ten thousand hours of meditation measured significantly higher levels of gamma waves in their brains.
+- You may train yourself to be more creative, but if you're not naturally creative, there's likely a limit to what you can do.
+- Intuiting (vs sensing: Big picture(forests) vs details (trees).
+- Thinking vs feeling. Thinking: logical analysis. Feeling: focus on harmony between people.
+- Planning vs perceiving. Planners like to focus on a plan and stick with it, perceivers work from the outside in, they see things happening and work backwards to understand the cause and how to respond.
+- Creators vs refiners vs advancers vs executors vs flexors.
+  - Creators: unstructured/abstract activities, innovation and unconventional practices.
+  - Advancers: feelings, relationships, manage the human factors.
+  - Refiners: challenge ideas.
+  - Executors: can be thought of as implementers.
+  - Flexors: combination.
+- Shapers: from visualization to actualization. People who come up with unique and valuable visions and builds them out beautifully.
+  - Intense curiosity.
+  - Compulsive need to make sense of things.
+  - Independent thinking that verges on rebelliousness.
+  - A need to dream big.
+  - Practicality to push through all obstacles to achieve their goals.
+  - Knowledge of their own and others' weaknesses.
+  - Can hold conflicting thoughts simultaneously.
+  - Love to knock things around with other smart people.
+
+- ***Getting the right people in the right roles in support of your goal is the key to succeeding at whatever you choose to accomplish.***
+
