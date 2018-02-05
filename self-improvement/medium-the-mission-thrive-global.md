@@ -3,13 +3,13 @@
 
 - People select their friends based on proximity more than anything else.
 - In a college classroom, you do not make friends exactly with those who share similar interests, but those who you literally sit next to.
-- A person's economic mobility is highly determined by the county they live in.
-- Who are the people in nearest proximity to you? How did they become your peer group? Was it on purpose or based on convenience? Do these people hold you to a high standard? Or do they hold you to an even lower standard than you hold yourself?
+- A person's economic mobility is highly determined by the country they live in.
+- Do your close friends hold you to a high standard? Or do they hold you to an even lower standard than you hold yourself?
 - Most people are willing to tolerate unhealthy relationships, poor finances, and jobs they hate. If not so, those things wouldn't be in their lives.
-- But if your environment radically contradicts the goals you're trying to pursue, your life will always be an uphill battle.
+- If your environment radically contradicts the goals you're trying to pursue, your life will always be an uphill battle.
 - Ex: buying a new car, after getting it and posting videos of the car, he got 2000 friend requests, higher sales of his real estate education products, he was seen as "credible". Driving around in the coolest car made him feel awesome.
 - *Precognition: that you can predict your own psychological/emotional state by targeting biological or environmental stimuli.*
-  - The environment created amazing feelings.
+  - This is why you work in environments that create amazing feelings.
   - He was seeing the fruits of his labors.
   - He was consciously generating a self-fulfilling prophecy in real-tie. He created an environment that was now creating him.
   - These fruits added even more confidence, creating a continuous confidence building feedback loop.
@@ -19,19 +19,18 @@
 
 - Hired Ryan Holiday to help me with the book, when I send him a draft, he shows how it could be 10x better, and he holds me to that standard.
 - It's more that I don't know what I don't know. Working with Ryan has streamlined my understanding of what is possible and what it takes to create something powerful.
-- *By investing in what you're doing, you'll experience the psychological shift needed to achieve your goals.* Once invested, your identity towards what you are doing changes. You've put yourself physically, not just emotionally, in a position where you must move forward. The role of leadership becomes natural and instinctive.
-- Same with Richard Paul Evans. He holds himself to an insanely high standard.
-- *Surrounding yourself with people who have higher standards than you is the fastest way to change. If you don't change your environment, and instead attempt to overcome your environment through willpower, you'll lose every time.*
+- **By investing in what you're doing, you'll experience the psychological shift needed to achieve your goals.** Once invested, your identity towards what you are doing changes. You've put yourself physically, not just emotionally, in a position where you must move forward.
+- **Surrounding yourself with people who have higher standards than you is the fastest way to change. If you don't change your environment, and instead attempt to overcome your environment through willpower, you'll lose every time.**
 
 - Same with romantic relationships. Do they help you more than you become more than you currently are? Do you help them?
 - 20% of people are moving forward, 60% mimics, and 20% is moving backward.
 - You've been around people who, simply by being around them, elevated your thinking and energy. Those are the kinds of people you need to surround yourself with. Those are the kinds of people you need to be like yourself, so that others are better simply by being around you.
-- *The quality of your life and the quality of your work is determined by the standards you have for yourself, and the standards of those around you. If you're fine doing mediocre work, then those around you are as well.*
+- **The quality of your life and the quality of your work is determined by the standards you have for yourself, and the standards of those around you. If you're fine doing mediocre work, then those around you are as well.**
 
 ## I Quit Social Media For 30 Days and Here’s What I Learned
 [Reference](https://medium.com/the-mission/i-quit-social-media-for-30-days-and-heres-what-i-learned-930795e784ef)
 
-- Aziz: "Whenever you check for a new post on Instagram or whenever you go on The New York Times to see if there's a new thing, it's not even about the content. It's just about seeing a new thing. You get addicted to that feeling. You're not going to be able to control yourself. So the only way to fight that is to take yourself out of the equation and remove all these things."
+- Aziz: "Whenever you check for a new post on Instagram or whenever you go on The New York Times to see if there's a new thing, it's not even about the content. It's just about seeing a new thing. You get addicted to that feeling."
 - *What have I lost from the last decade of my life in exchange for a whole bunch of probably obsessive checking of Facebook?*
 - Facebook--for sharing big news, for information recall.
 - Books--after quitting social media, you'll miss reading them.
@@ -40,12 +39,11 @@
 [Reference](https://medium.com/the-mission/why-most-people-will-never-be-successful-632bb24fa5c3)
 
 - Your days must consistently be spent on high quality activities. The more successful you become--which is balancing the few essential things (spiritual, relational, financial, physical) in your life and removing everything else, the less you can justify low quality.
-- As your vision for yourself expands, you realize you have to make certain adjustments. You need to cut-back on spending all of your money and time on crap and entertainment. You have to save more, and invest more in your education and your future.
-- This isn't about perfection. It’s definitely not about being busy all the time.
-- *How you do anything is how you do everything.* This only makes sense for people who have removed everything from their lives they hate. To actually live this principle: your daily and normal life can only be filled with those things you highly value.
-- When your days are filled with only those core essentials that mean the world to you, you will dominate in "all" areas of your life. Because the only things in your life are the things you highly value.
-- This is very hard.
-- But to repeat Jim Rohn, "A lot of people don’t do well simply because they major in minor things." Said another way, most people are caught in the thick of thin things.
+- As your vision for yourself expands, you realize you have to make certain adjustments. You need to cut-back on spending all of your money and time on crap and entertainment.
+- Not about perfection, not about being busy all the time.
+- **How you do anything is how you do everything.** This only makes sense for people who have removed everything from their lives they hate. Your daily and normal life can only be filled with those things you highly value.
+- When your days are filled with only those core essentials that mean the world to you, you will dominate in "all" areas of your life. Because the only things in your life are the things you highly value. (This is hard!)
+- "A lot of people don’t do well simply because they major in minor things." Said another way, most people are caught in the thick of thin things.
 
 ## Mediocrity is a Virus. Here’s How to Banish it from Your Life.
 [Reference](https://medium.com/the-mission/mediocrity-is-a-virus-heres-how-to-banish-it-from-your-life-52a618c93391)
@@ -55,14 +53,14 @@
 - "A private victory always precedes a public victory." — Stephen R. Covey
 - "When a man makes his thoughts pure, he no longer desires impure food." — James Allen
 - If you want to improve your finances, you have to change your desires about money. You can’t continue to enjoy spending money on the crap you spend it on. You can’t continue to be content always being stressed about money.
-- If you no longer desire mediocrity, you won’t be mediocre. Herein lies a subtle and disarming truth — everything you have in your life is what you want. If you wanted something different, you’d have something different. As James Allen wrote, your circumstances reveal you.
-- If you really wanted to believe something different, you’d be actively seeking to learn, to alter, and to replace your current set of beliefs.
-- You’d no longer justify your behavior. You’d be more open, honest, and authentic about where you’re at. Ironically, you’d also be more accepting of where you’re at. Acceptance is the first step to commitment.
-- *No excuses. If you need to learn something new, you’ll learn it. If you need to behave differently, you will. If you need a new environment, your reshape your circumstances.*
-- True learning always occurs in an experiential way. It’s never purely theoretical. And generally, it can only occur in specific types of contexts. Just like creativity rarely happens while sitting at your desk, deep and transformational learning will rarely happen within the confines of your cushy and comfortable routine.
-- You'll be stunned by how low your personal standards have been. You’ll be shocked what you've been willing to tolerate.
+- If you no longer desire mediocrity, you won't be mediocre. Herein lies a subtle and disarming truth — everything you have in your life is what you want. If you wanted something different, you'd have something different. As James Allen wrote, your circumstances reveal you.
+- If you really wanted to believe something different, you'd be actively seeking to learn, to alter, and to replace your current set of beliefs.
+- You'd no longer justify your behavior. You'd be more open, honest, and authentic about where you're at. Ironically, you’d also be more accepting of where you’re at. Acceptance is the first step to commitment.
+- *No excuses. If you need to learn something new, you’ll learn it. If you need to behave differently, you will. If you need a new environment, you reshape your circumstances.*
+- True learning always occurs in an experiential way. It's never purely theoretical. Just like creativity rarely happens while sitting at your desk, deep and transformational learning will rarely happen within the confines of your cushy and comfortable routine.
+- You'll be stunned by how low your personal standards have been. You'll be shocked what you've been willing to tolerate.
 - Own your value system: most people are too concerned about what other people think to be their true selves.
-- Doing burpees randomly: HE WANTS TO DO BURPEES.
+- Doing burpees randomly: HE WANTS TO DO BURPEES. HE DOESN'T CARE WHAT OTHER PEOPLE THINK.
 - Make a private decision followed by a public commitment of what you intend to do. Surround yourself with the right people who will keep you accountable.
 
 ## How To Deal With Uncomfortable Emotions And Reshape Your Identity
@@ -70,7 +68,7 @@
 
 - Pain, discomfort, shock, boredom, impostor syndrome, awkwardness, fear, being wrong, failing, ignorance, looking stupid: your avoidance of these feelings is stopping you from a life beyond your wildest imagination.
 - *Wealth, optimal health, incredible relationships, and deep spiritual maturity are all available to you. But you have to pay the price to have these things. The primary obstacle in your way is how you feel about what you need to do to have these things.*
-- Most people aren't willing to feel difficult emotions on a regular basis. However, if you’re willing to disregard how you feel in the moment, you’ll have access to a world of opportunity unavailable to 99% of the population.
+- Most people aren't willing to feel difficult emotions on a regular basis.
 - When you feel the fear and do it anyways, you get the satisfaction of living life on your terms. Instead of being a hostage to your emotions, you get to experience them more deeply.
 - *Hilariously, once you break past the emotional blocks and just act, it’s never as bad as you think it will be.*
 - Napoleon Hill said, "When your desires are strong enough, you will appear to possess superhuman powers to achieve." Similarly, Tim Grover has said, "When you crave the end result, the hard work becomes irrelevant."
@@ -114,10 +112,8 @@
 [Reference](https://medium.com/@benjaminhardy/6-things-you-need-to-recover-from-every-day-380f20a90f6c)
 
 - Work.
-  - Recovering from work: completely refraining from work-related activities and thoughts during non-work time.
-  - Most people are always "available" to their email and work.
-  - People who are successful in their work are often content being "unsuccessful" in the other areas of their lives, particularly their relationships. In other words, most people are okay with being mediocre spouses, parents, and friends, but are not okay with being mediocre in their jobs.
-  - Stimulants such as caffeine = byproduct of the 9-5 work shift.
+  - Recovering from work: completely refraining from work-related activities and thoughts during non-work time. F email.
+  - People who are successful in their work are often content being "unsuccessful" in the other areas of their lives, particularly their relationships.
 - Technology.
   - Individuals who stopped staring at screens 1-2 hours before sleep: higher sleep quality and higher ability to maintain enthusiasm.
   - Try avoiding technology for the first 30-60 minutes of waking.
@@ -127,11 +123,10 @@
   - We all need time with people and time alone.
 - **Food.**
   - You should be fasting from food for at least 18-24 hours on a weekly basis. When you fast, or "recover" from food, your body is given the opportunity to repair and rebuilt itself, rather than constantly digesting.
-  - Dissipates the craving for nicotine, alcohol, caffeine, other drugs.
   - Increases levels of dopamine which elevates your happiness and confidence.
   - A 16-hour fast can reset your sleep cycle.
   - Being on an empty stomach helps you think and focus better. Hence, many people purposely skip breakfast so they can better focus on their creative work.
-  - Fasting stabilizes your emotions. This happens by detaching from the emotional dependence on food, in addition to removing over-stimulating foods like caffeine, processed sugars, recreational drugs, tobacco.
+  - Fasting stabilizes your emotions. This happens by detaching from the emotional dependence on food.
   - Fasted state improves focus, memory, and ability to comprehend information.
 - **Exercise.**
   - Shorter but more intensive exercise. Intensive activity followed by high quality rest and recovery.
@@ -454,3 +449,28 @@
 - **Take a few minutes every night to mentally prepare yourself for the next day.**
   - The success of your morning begins the night before.
   - Just a few minutes of thoughtful and affirmative meditation will put your subconscious on a path toward achieving your goals.
+
+## Why Even Ambitious People Rarely Become Successful
+[Reference](https://medium.com/personal-growth/why-even-ambitious-people-rarely-become-successful-937e7cf26bfe)
+
+- "Success" occurs internally, because it's based on emotion. At its most basic level, success is your relationship with yourself.
+- Much better than ambition is commitment. You do what is required for the attainment of that thing. You'll stop wondering and start building.
+- Ex: marriage is different from non-marriage.
+- "Become a millionaire not for the million dollars, but for what it will make of you to achieve it." Jim Rohn
+- The truth: you're always changing. Your brain and biology are highly malleable. Your worldview is continually integrating new information. Your brain literally creates new connections and is reshaped. The brain you will have in a year from now will literally be a different brain than the one you have now.
+- Instead of making it like a willpower thing, you just do it. Don't give yourself outs.
+- Better to be committed than to be ambitious. In terms of the "authentic" self, it's the enemy. It's the excuse you have for not evolving.
+
+## Why Only Rebels Find Real Fulfillment
+[Reference](https://medium.com/personal-growth/why-only-rebels-find-real-fulfillment-8d8ae3b44c8)
+
+- "Success is achieved by people who deeply understand reality and know how to use it to get what they want." Ray Dalio.
+- You need to know the existing conventions, structures, and systems, but you know that you can break these laws.
+- Mental models: Pareto principle, Cost-benefit analysis.
+- Useful models:
+  - Socratic method: Ask why, why, why.,
+  - Combinatory play: Combine existing parts of reality a la wheels + bag = luggage bag.
+  - Bayes' Theorem. Using probabilistic thinking to estimate the likelihood of future events.
+  - Design thinking: Understanding the needs of a person before working backwards to craft a solution.
+  - First principles: Breaking things down to their fundamental truths and reasoning upwards from there.
+- Ask good questions, strive to always learn, and develop a strong mental framework for evaluating the divergence between where you are and where you want to be.
