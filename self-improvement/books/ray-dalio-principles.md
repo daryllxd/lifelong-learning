@@ -321,4 +321,57 @@
   - Love to knock things around with other smart people.
 
 - ***Getting the right people in the right roles in support of your goal is the key to succeeding at whatever you choose to accomplish.***
+  - For you, it's about using your thoughtful higher-level you to manage your emotional lower-level you.
+  - **Consciously develop habits that will make doing the things that are good for you habitual.**
+  - Think like this: you are the conductor of your own orchestra. It's your job to remove the people that don't play well with others, and it's your job to make sure that things are executed according to how it's in your head.
 
+### Learn How to Make Decisions Effectively
+
+- Recognize that the biggest threat to good decision making is harmful emotions, and decision making is a two-step process (learning, then deciding).
+- Getting an accurate picture of reality comes down to: being able to synthesize accurately and knowing how to navigate levels.
+  - Synthesis: converting a lot of data into an accurate picture. This is why you triangulate your views with people who you know synthesize well.
+    - New is overvalued relative to great.
+    - People who are good at pulling out such patterns of events are rare and essential.
+    - Be imprecise. You don't usually need to say "it's true", you can say "it's probably by-and-large true."
+  - Remember the 80/20 rule and know what the key 20% is.
+- You can navigate levels to move from your values to realize them on a day-to-day basis.
+
+Ex:
+
+- I want meaningful work.
+  - I want to be a doctor.
+    - I need to go to medical school.
+      - I need to get good grades in the sciences.
+        - I need to stay at home tonight and study.
+
+- Pay attention to your conversations.
+- Decisions should be consistent across different levels. Ex: healthiness, you shouldn't have twelve sausage links and a beer every day for breakfast.
+- Deciding well: logic, reason, common sense. "Until you make the unconscious conscious, it will direct your life and you will call it fate." - Carl Jung
+- Make your decisions as expected value calculations.
+- Always try to raise the probability of being right.
+- The best choices are the ones that have more pros than cons.
+- **Prioritize by weighing the value of additional information against the cost of not deciding.**
+
+- ***Shortcuts for Becoming a Great Decision Maker***
+  - Simplify. Get rid of irrelevant details, just essential information.
+  - Use principles. Most "cases at hand" can be put in categories.
+  - Believably weigh your decision making.
+  - Try to make a computer help you when making decisions.
+- On technology: there might come a point where you can input issues into a computer and have exchanges with experts all around the world.
+  - It's far more likely to think that humans will work WITH AI than against them.
+  - Computer have much greater "determination" than any other person, and they will work 24/7 for you. They process information faster, and they are immune to biases.
+  - Computers have no common sense. It can infer that waking up makes people hungry, just because they are sequential.
+- In order to have the best life possible, you have to: know what the best decisions are, and have the courage to make them.
+
+### Putting It All Together
+
+- Embrace reality and deal with it.
+- Be transparent with your thoughts and open-mindedly accept the feedback of others.
+- Radical open-mindedness.
+- Ego barrier and blind spot barrier.
+- People are wired differently.
+- Go after what you want, failing and reflecting well, changing/evolving to become more capable and less fearful.
+
+## Work Principles
+
+- TODO: When I work again.
