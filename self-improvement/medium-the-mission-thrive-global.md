@@ -474,3 +474,35 @@
   - Design thinking: Understanding the needs of a person before working backwards to craft a solution.
   - First principles: Breaking things down to their fundamental truths and reasoning upwards from there.
 - Ask good questions, strive to always learn, and develop a strong mental framework for evaluating the divergence between where you are and where you want to be.
+
+## Want To Become A Multi-Millionaire? Do These 15 Things Immediately.
+[Reference](https://journal.thriveglobal.com/want-to-become-a-multi-millionaire-do-these-15-things-immediately-e1e779a6978f)
+
+- Invest at least 10% of your income in yourself.
+  - Mentors, books, courses.
+- Invest 80% of your "Off" Time into Learning.
+  - Entertainment must be an investment in your relationships or yourself. Positive memories, transformational learning, deepened relationships.
+  - Consuming junk food = low value body. Consuming junk media = low value work.
+- Don't work for money, work to learn.
+  - Sharpen your saw. Become a better thinker, communicator, better at your craft. Learn and recover.
+- Don't learn for entertainment, learn to create more value.
+- Invest 10% of your Income into Vehicles That Will Generate More Money.
+  -  Compound interest.
+- Shift Your Motivation from Getting to Giving.
+  - Transactions or transformations? Don't surround yourself with takers.
+- Openly acknowledge how dependent you are on other people.
+  - Group flow. Your moods impact each other.
+- Create win-win strategic partnerships.
+  - Focus on solutions, not winning.
+  - Who can you partner with that could speed your process?
+  - Who has assets and resources you don't?
+- Set 10x goals and face your fears.
+- Get really good at marketing.
+  - Think of the title of this article.
+- Don't focus on time and effort, focus on results instead.
+  - Entrepreneurs: since no guaranteed income, the focus is on results.
+- Shift environments regularly.
+- Define "Wealth" and "Success" for yourself.
+- Know and operate from your deepest "why".
+- Have firm stand. People don't buy what you sell, they buy why you sell it.
+
