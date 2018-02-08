@@ -95,4 +95,33 @@
 - Babies are not blank slates. They have neural programs specialized for reasoning about objects, physical causality, numbers, the biological world, beliefs/motivations of other individuals, social interactions. Babies turn toward face-like patterns when they are 10 minutes old. At two months, they express surprise if a solid object appears to pass through another object. Babies can also figure out if an adult made a mistake. Babies make assumptions about the world.
 - Our brain has trouble with certain types of calculations, like conditional logic. The brain solves things faster if it's related to social interaction. Your psychology has evolved to solve social problems such as detecting cheaters, but not to be smart and logical in general.
 - Instincts are different from automatized behavior because we were born with them. These behaviors represent ideas so useful that they become encoded into our DNA.
+---
+- Ex: a foal being able to walk minutes to hours after it's born. Ex: our neural circuits make it hard for us to get attracted to other animals.
+- The cost of instincts: since they are faster and more energy efficient, we have lower access to them (instinct blindness). These programs are inaccessible to us not because they are unimportant, but because they're critical.
+- Effortless acts: sexual attraction, fearing the dark, empathizing, arguing, becoming jealous, seeking fairness, finding solutions, avoiding incest, recognizing facial expressions.
+- Beauty
+  - Symmetry, structure = greater popularity, faster promotions, more successful career.
+  - Until puberty, the faces of boys and girls are similar.
+  - Rise in estrogen for girls = fuller lips, buttocks, breasts. Testosterone in boys = more prominent chin, larger nose, fuller jaw, muscles, broad shoulders.
+  - On blondes: paler women more easily show signs of disease, while darker complexions can disguise their imperfections.
+  - This is why you have plastic surgery.
+  - Priming with "beer" or alcohol related words: rating photographs as more attractive.
+  - Being in heat: female mammals give off clear signals when they are in heat. Women are considered to be most beautiful at the peak of fertility in her menstrual cycle (about 10 days before menses).
+  - Tips by lap dancers: higher if at fertility date. Beauty is neurally preordained, but differences are really subtle. If you measure a beautiful person against an ugly person, facial feature changes would probably be really little.
+  - Smell: Major histocompatibility complex gene. Females prefer the males with more dissimilar MHCs. Our noses influence our choices.
+  - Vasopressin re: human relationship genes/tendency for infidelity. Choices, environment, plus this gene component.
+  - Preprogrammed to lose interest in a sexual partner after the time required to raise a child has passed (about 4 years).
+  - Babies are cute because of the evolutionary importance of adults taking care of babies.
 
+## The Brain is a Team of Rivals
+
+- "In came wine, out went a secret."
+- Drinking alcohol while holding councils to prevent anyone from lying.
+- Brains = collections of subagents.
+- This is why you can do things like argue with yourself. Ex: being offered chocolate cake, there's a part of the brain that wants this rich energy source, and other parts that care about the negative consequences.
+- The wiring diagram of the brain: some are higher-order, some monitor your internal state (lower-order).
+- The issue re: trolley tracks moral dilemma. Diverting = reducing a bad situation to a less bad one. Pushing = using a man as a means to an end.
+  - Another interpretation: if the problem is constructed so the man on the bridge is dropped with the use of a switch, people will vote to let him drop. Personal interaction activates the emotional networks. This changes the problem from an abstract, impersonal math problem into a personal, emotional decision.
+  - Moral dilemma of pressing a button to get $1000, but someone you don't know dies.
+- Christmas clubs: people want someone to stop them from spending their money. They knew that if they held on to their own money, they were likely to blow it.
+- Ulysses/the harpies story.
