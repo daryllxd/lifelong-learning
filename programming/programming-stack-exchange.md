@@ -34,7 +34,7 @@ As a guide, there are four big processes that should be take into consideration 
 
 If the data you plan to migrate is currently bad, it needs to be fixed whether you do a migration or not. Bad data = useless data.
 
-- You should always have a way to go back to the system as it is now. 
+- You should always have a way to go back to the system as it is now.
 - Do it on the test servers first.
 - All code for the migration should be in source control.
 - You need requirements and test plans before your start the migration. You need to know that if you had 1,293,687 records in the old system, that you have the same in the new or you know where they went (to an exception table perhaps). If you are normalizing a denormalized scheme, you need to calculate how many records you should end up with before you start and then check that. You need documentation that specifies what the mappings from one system to the other are. This will help your QA people check to see that the data went to the right place.
@@ -54,9 +54,6 @@ If the data you plan to migrate is currently bad, it needs to be fixed whether y
 - Progressive enhancement
 - Redirect after POST
 - OWASP security guide
-- 
-
-
 
 ## How to respond when you are asked for an estimate?
 

@@ -472,3 +472,17 @@ I think what they really mean, in the latter case, is caring what random people 
 I have about thirty friends whose opinions I care about, and the opinion of the rest of the world barely affects me. The problem in high school is that your peers are chosen for you by accidents of age and geography, rather than by you based on respect for their judgement.
 
 Your teachers are always telling you to behave like adults. I wonder if they'd like it if you did. You may be loud and disorganized, but you're very docile compared to adults. If you actually started acting like adults, it would be just as if a bunch of adults had been transposed into your bodies. Imagine the reaction of an FBI agent or taxi driver or reporter to being told they had to ask permission to go the bathroom, and only one person could go at a time. To say nothing of the things you're taught. If a bunch of actual adults suddenly found themselves trapped in high school, the first thing they'd do is form a union and renegotiate all the rules with the administration.
+
+## How to Get Startup Ideas
+[Reference](http://www.paulgraham.com/startupideas.html)
+
+- Best startup ideas:
+  - Something the founders want.
+  - They themselves can build.
+  - Few others realize this is worth doing.
+- There have to be users who really need what they're making, not just people who can see themselves using this one day.
+- Better to have something that people really need than a lot of people not really needing the thing that much.
+- Live in the future, then build what's missing.
+- Ex: Dropbox, people forgot their USB sticks.
+- Noticing startup ideas: look for things that seem to be missing.
+- Work on projects that seem like they'd be cool.

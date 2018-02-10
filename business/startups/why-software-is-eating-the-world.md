@@ -1,6 +1,5 @@
 ## [Why Software is Eating the World](http://online.wsj.com/news/articles/SB10001424053111903480904576512250915629460)
 
-
 This week, Hewlett-Packard (where I am on the board) announced that it is exploring jettisoning its struggling PC business in favor of investing more heavily in software, where it sees better potential for growth. Meanwhile, Google plans to buy up the cellphone handset maker Motorola Mobility. Both moves surprised the tech world. But both moves are also in line with a trend I've observed, one that makes me optimistic about the future growth of the American and world economies, despite the recent turmoil in the stock market.
 
 In an interview with WSJ's Kevin Delaney, Groupon and LinkedIn investor Marc Andreessen insists that the recent popularity of tech companies does not constitute a bubble. He also stressed that both Apple and Google are undervalued and that "the market doesn't like tech."
@@ -97,9 +96,9 @@ That's the big opportunity. I know where I'm putting my money.
 
 ## [Can Do vs. Can’t Do Cultures](http://bhorowitz.com/2014/01/02/can-do-vs-cant-do-cultures/)
 
-Lately, it’s become in vogue to write articles, comments and tweets about everything that’s wrong with young technology companies. Why does this matter? Why should we care that the tone is tilting in the wrong direction? Why is it more important to find out what’s right about somebody’s company than what’s wrong? 
+Lately, it’s become in vogue to write articles, comments and tweets about everything that’s wrong with young technology companies. Why does this matter? Why should we care that the tone is tilting in the wrong direction? Why is it more important to find out what’s right about somebody’s company than what’s wrong?
 
-The word technology means “a better way of doing things.” This is easy to say, but extremely difficult to do. Making a better way of storing information, a better currency, or a better way of making friends means improving on thousands of years of human experience and is therefore extraordinarily difficult. 
+The word technology means “a better way of doing things.” This is easy to say, but extremely difficult to do. Making a better way of storing information, a better currency, or a better way of making friends means improving on thousands of years of human experience and is therefore extraordinarily difficult.
 
 At some level, it would seem logically impossible that anybody could ever improve anything. I mean if nobody from bible days until 2014 has thought of it, what makes you think you are so smart? From a psychological standpoint, in order to achieve a great breakthrough, you must be able to suspend disbelief indefinitely. The technology startup world is where brilliant people come to imagine the impossible.
 

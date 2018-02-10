@@ -66,4 +66,3 @@ Does your presence make your team better or worse? Does the quality of your code
 You should make your team better. There should always be at least one or two ways in which you make those people around you better and through which the osmosis of your quality helps strengthen them. However, be aware that being “smart” alone is probably the least valuable and arguably most destructive dimension you can choose. In fact, if your chosen dimension doesn't actually make you tired it's probably not a valid one.
 
 ## It's not who are on the inside that defines you.
-
