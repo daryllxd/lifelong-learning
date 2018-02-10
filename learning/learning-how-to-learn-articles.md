@@ -28,7 +28,7 @@
 ## Divided Attention
 [Reference](http://www.chronicle.com/article/Scholars-Turn-Their-Attention/63746/)
 
-- Until recently, students at lease knew when they had checked out. A student today who moves his attention from texting to lecture to Facebook may *feel* buzzed and alert, but probably didn't absorb as much of the lesson as he think he did.
+- Until recently, students at least knew when they had checked out. A student today who moves his attention from texting to lecture to Facebook may *feel* buzzed and alert, but probably didn't absorb as much of the lesson as he think he did.
 - Heavy multitaskers are often confident in their abilities, but they might actually be worse at multitasking than other people.
 - Attention: 2 overlapping but neurologically distinct systems: one of controlled attention, and one of stimulus-driven attention.
 - Some people are consistently better than others at concentrating amid distraction.
@@ -47,7 +47,6 @@
 [Reference](https://well.blogs.nytimes.com/2014/05/19/remembering-as-an-extreme-sport/)
 
 - The difference between memory athletes and the rest of us is in a cognitive ability that's not a direct measure of memory, but attention.
-- Greek poet Simonides of Ceos is credited with first describing the method.
 - Everyone uses the same techniques re: memory palace. Other techniques are not as effective.
 - Average IQ: 130. Average study time: 1000-2000 hours and counting.
 - The competitors say that "Once any given competition is over, the numbers or words or facts are gone." But the science says they can still recall a significant amount of words they memorized on Day 1.
@@ -55,7 +54,6 @@
 - Stroop test: people see words flashing on a computer with a color in the background. If the word is the same as the color, people are faster.
 - Memory athletes are older than students, which means that they should be worse since memory decreases with age, but they do better. While attentional control is not a direct measure of memory, we know that it certainly serves memory.
 - *Memory champions are not only exceptional at remembering, but also at forgetting.*
--Remembering and forgetting are not necessarily the enemies of each other.
 
 ## Poor health, lifestyle factors linked to memory complaints, even among younger adults
 [Reference](https://medicalxpress.com/news/2014-06-poor-health-lifestyle-factors-linked.html)
@@ -70,7 +68,6 @@
 [Reference](https://medicalxpress.com/news/2013-05-healthy-lifestyle-choices-memory-complaints.html#nRlv)
 
 - Older adults were more likely to report engaging in healthy behaviors than middle-aged and younger adults.
-- A higher than expected percentage of young adults complained about their memory.
 - More healthy lifestyle behaviors means less likely to complain about memory issues.
 - Only 12 percent of older adults smoked, compared with 25 percent of young adults and 24 percent of middle-aged adults.
 
@@ -98,7 +95,7 @@
 ## Optional Interview with 4 Time US Memory Champion Nelson Dellis
 
 - Not a natural memory expert. I taught myself this many, many years ago. I train it using memory techniques and a lot of practice.
-- I'm training for competitions (it's my work) so I spend hours a day training. Numbers are harder, I have pictures for each number.
+- I'm training for competitions (it's my work) so I spend hours a day training. Numbers are harder, so I have pictures for each number.
 - Remembering names: Any memory technique involves visualization, turning them into a picture, then attach that image to a location. Use a memory palace, attach these images to this place.
 - For names, use a distinguishing feature about them for their name. I focus about some physical appearance/distinguishing feature in them, then I figure out their name, then I think about a new location for them.
 - I may not get all names immediately, so what I recommend is go and talk to those people, and don't expect to remember their name again. The key to remembering names is to not be embarrassed.
@@ -120,7 +117,7 @@
 - When you get in the practice or hearing, and then surviving, feedback, it loses some power.
 - *Compassionate Detachment.* Distance yourself from the outcome of a story. Separate your extreme emotions from the feedback by telling yourself that "I can only see the feedback if I quiet the noise."
 - *Don't Isolate Yourself.* When you get in the habit of processing hard moments with those more experienced than you, you give yourself the gift of support.
-- *Demote Your Inner Perfectionist.* Doing things perfectly almost never happens. BTW, knowing someone is a perfectionist steers them away from hard-hitting feedback that's most instructive. Thank your perfectionist for her concern, then explain that progress is always made in a jagged, up and down trajectory--rarely is it perfectly linear.
+- *Demote Your Inner Perfectionist.* Doing things perfectly almost never happens. BTW, knowing someone is a perfectionist steers them away from hard-hitting feedback that's most instructive. Progress is always made in a jagged, up and down trajectory--rarely is it perfectly linear.
 - *Have a Go-To Mantra.* "I'll stay open." "I tolerate and gain from tough feedback." Mantras strike a chord in us, are easy to remember and repeat, and quickly reinforce a needed message.
 
 ## Compassionate Detachment: The Being and Doing of Coaching Part One
@@ -236,7 +233,7 @@
 
 - Doing stuff may very well be one of the reasons why people do more stuff or do good at stuff.
 - Correlation between the number of minutes a student spends on Khan Academy and test scores.
-- Kids who do more math stuff on Khan Academy do better on math tests (not a function of kids who do well in math like KA more and spend more time on it).
+- Kids who do more math stuff on Khan Academy do better on math tests (not a function of kids who do well in math, just those who spend a lot of time on KA).
 - *Measures of student effort eclipse all other variables examined in the study, including demographic descriptions of the students, course subject matter, and student use of support services.* Although support services are important, they are overshadowed by students' degree of effort devoted to their courses. This overall finding may indicate that accountable activity by students may be a key ingredient of student success in this environment.
 - Learners who complete activities are more likely to complete the course than peers who completed no activities.
 
@@ -247,3 +244,30 @@
 - While it's true that some brain functions occur in one or the other side of the brain (language left, attention right), people don't tend to have a stronger left- or right-sided brain network.
 - Personality types have nothing to do with one hemisphere being more active, stronger, or more connected.
 
+---
+
+```
+Non-MOOC articles, just for organization
+```
+
+## How to Become World-Class at Anything
+[Reference](https://medium.com/personal-growth/how-to-become-world-class-at-anything-3c4aeb020f65)
+
+- The better we get, the better we're able to get. To practice something intensely, we have to be passionate about it. To be passionate about something, we need to have some level of competence of mastery.
+- Wisdom: if I want to get good at anything, I have to decide, with a strong determination, to apply myself to developing a seed of mastery in it.
+- Matthew Syed, Bounce: "Asian children have an automatic advantage in math, since their numbers are "three-one-four" rather than "three hundred and fourteen". So literally easier to add because the same word is used.
+
+- **Practice at the same time every day.**
+- **Practice for a minimum amount of time each day.**
+  - Setting a lower limit on the amount of time you spend on mastering a given skill helps you to quickly bootstrap enough confidence that it will become self-sustaining.
+  - Morning pages: Writing out/reporting your stream of consciousness. (Julia Cameron, The Artist's Way.)
+- **Little wins.**
+  - Constructing a cool sentence with cool AF alliteration.
+- **Learning is exponential.p**
+  - Future development is informed by all previous development.
+- Focus on the process, not the outcome.
+  - It's satisfying to live life enjoying the process from moment-to-moment.
+  - Bhagavad Gita: "You have the right to work only, but never to its fruits."
+  - Anyone world-class at anything is 100% focused on the process of what they are doing, while they are doing it.
+  - Deep joy of merging and becoming one wit the object of their mastery, whether that is the sensation of the breath in their nostrils, or the feeling of the brush moving over the canvas.
+- Persistence is key.
