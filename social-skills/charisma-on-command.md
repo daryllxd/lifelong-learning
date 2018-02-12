@@ -121,3 +121,11 @@ Tyrion
 - Learning to tell a good story as a self help in social will aid in self improvement too
 - Spend part of your every day pursuing a dream on the philosophy side
 - Unusual, high status, involves her.
+
+## Body Language Tips To Instantly Look More Attractive
+[Reference](https://www.youtube.com/watch?v=5rXnrq3L2N0)
+
+- Be expressive. Motion creates emotion. When you walk around stooped, you will feel more shy.
+- Have magnetic language. The fun is where you are. We tend to know what the fun is and it's about facing the person you're speaking with. Have fun with whoever is near to you. Don't look and act and behave as if the fun is out there. Have fun where you are nearby.
+- When groups go out: try to stagger them. It looks funny because it's true, but that will change the dynamic of the group. You will look more attractive because it looks like you're setting it up.
+- Smiling!
