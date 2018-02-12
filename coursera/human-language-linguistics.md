@@ -54,3 +54,7 @@
 - Closet,
 - Laboratory, like for brain waves?
 - Street, studying the way in which language is used in everyday life.
+
+### Interview with Dr. Victoria Nyst
+
+- There are different sign languages.
