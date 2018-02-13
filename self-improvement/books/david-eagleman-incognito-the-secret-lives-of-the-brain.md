@@ -124,4 +124,20 @@
   - Another interpretation: if the problem is constructed so the man on the bridge is dropped with the use of a switch, people will vote to let him drop. Personal interaction activates the emotional networks. This changes the problem from an abstract, impersonal math problem into a personal, emotional decision.
   - Moral dilemma of pressing a button to get $1000, but someone you don't know dies.
 - Christmas clubs: people want someone to stop them from spending their money. They knew that if they held on to their own money, they were likely to blow it.
-- Ulysses/the harpies story.
+  - Ulysses/the harpies story.
+  - Negotiating a business deal with your future self: they know that their emotional selves will care more and more about it. They pit short- and long- term systems against each other.
+  - Board re: letting the patient die: It's probably emotional, the future patient will usually find a way to regain her emotional footing. **When you cannot rely on your own rational systems, borrow someone else's.**
+- Split-brain systems.
+  -  Left hand grabs a different thing from the right hand when they see two different things.
+  - Something to think about: about 3K years ago, the division of labor between left and right hemispheres began to break down. Possibly the origin of consciousness?
+  - Hemispherectomy: One entire half of the brain is removed, as long as the surgery is performed on a child before he is about eight years old, it's going to be fine. (Checked Wikipedia to confirm).
+- Memory: you can store memories twice?
+  - Normal memories: hippocampus.
+  - During frightening/traumatizing situations: the amygdala stores it differently: hard to erase, flashbulb like:(as commonly described by rape victims and war veterans). There are two memories of the same event.
+- Cognitive reserve
+  - There are some people who have apparently had Alzheimer's disease upon autopsy, but they never showed those symptoms when they were alive.
+  - These people continued to challenge their brains into old age by staying alive in their careers, doing crossword puzzles.
+  - By staying mentally vigorous, they built this cognitive reserve.
+  - Their brains have protection against the symptoms.
+  - Blindsight: someone who had a damaged part of her visual cortex, when asked for a shape, can still guess that shape correctly, even if she is convinced she can't see. Some part of the brain is still seeing, but it's just not the conscious part that depends on her visual cortex.
+
