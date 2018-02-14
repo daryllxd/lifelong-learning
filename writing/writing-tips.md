@@ -29,3 +29,14 @@
 - Write to please just once person.
 - Give your readers as much information as soon as possible.
 - Flannery O'Connor broke all those rules except the first.
+
+## Stephen King’s Top 7 Tips for Becoming a Better Writer
+[Reference](https://www.positivityblog.com/stephen-kings-top-7-tips-for-becoming-a-better-writer/)
+
+- **Get to the point.**
+- **Write a draft, then let it rest.**
+- **Cut down your text.**
+- **Be relatable and honest.** You want characters with both bad and good sides to them. People we can relate to with all their faults, passions, fears, weaknesses, and good moments.
+- **Don't care too much about what other may think.**
+- **Read a lot.**
+- **Write a lot.**
