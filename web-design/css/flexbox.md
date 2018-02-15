@@ -44,5 +44,3 @@ space-between: Lines display with equal spacing between them.
 space-around: Lines display with equal spacing around them.
 stretch: Lines are stretched to fit the container.
 ```
-
-
