@@ -109,3 +109,174 @@ class Point
 end
 ```
 
+***Shortcut Constructor Method***
+
+- Represent object creation as a message to one of the arguments to the method.
+
+``` ruby (https://github.com/avdi/sbpprb/blob/master/04_shortcut_constructor_method.rb)
+
+# 2.days.ago
+
+class Point
+  attr_accessor :x, :y
+end
+
+class Integer
+  def by(y)
+    Point.new.tap do |p|
+      p.x = self
+      p.y = y
+    end
+  end
+end
+```
+
+***Converter Method***
+
+- When you define methods on objects to convert them from one format to the other.
+- Ruby has this like with strings to arrays, to sets, integers to floats.
+- Problem is, there's a limit to the number of methods that can be added.
+
+``` ruby (https://github.com/avdi/sbpprb/blob/master/06_converter_method.rb)
+# Idiomatic Ruby uses "to_" instead of "as"
+
+require 'set'
+[1,2,1,3].to_set                # => #<Set: {1, 2, 3}>
+23.to_f                         # => 23.0
+```
+
+***Converter Constructor Method***
+
+- This is a method that indicates that "hey you can convert this, by sending `asDate` to the `String`".
+- Smalltalk implementation is `as_`. Ruby is `from_`.
+
+``` ruby (https://github.com/avdi/sbpprb/blob/master/07_converter_constructor_method.rb)
+
+# Staying close to the example we get something like this:
+class Date
+  def self.from_string(string)
+    # ...
+  end
+end
+
+# But the built-in Date.parse() is basically the same thing:
+
+require 'date'
+Date.parse('2011-09-22')
+
+# There is another Ruby idiom which may also qualify as embodying this
+# pattern:
+
+require 'pathname'
+String(23)         # => "23"
+Array(23)          # => [23]
+Pathname(__FILE__) # => #<Pathname:->
+```
+
+***Query Method***
+
+- Instead of creating a `status` method, just create a predicate method (`isOn` or `isOff`).
+
+``` ruby (https://github.com/avdi/sbpprb/blob/master/08_query_method.rb)
+
+# Ruby has a syntactical edge on this one: there is a clear and
+# well-known idiom for naming predicate methods.
+
+class Switch
+  def on?
+    # ...
+  end
+end
+
+```
+
+***Comparing Method***
+
+- You want to have the option of implementing comparison methods yourself. You might have more complex comparison methods.
+- This is Comparable in Ruby.
+
+``` ruby
+class Event
+  include Comparable
+  def <=>(other)
+    timestamp <=> other.timestamp
+  end
+end
+```
+
+***Reversing Method***
+
+- Better to make code that looks more consistent. In the example where they are printing stuff on the screen, the methods calls don't look the same.
+
+``` ruby (https://github.com/avdi/sbpprb/blob/master/10_reversing_method.rb)
+
+class Point
+  def print_on(stream)
+    stream.print x
+    stream.next_put_all ' @ '
+    stream.print y
+  end
+end
+
+vs
+
+# Creating an object to make sure the interfaces look the same
+
+module ObjectPrinter
+  def print_obj(object)
+    object.print_on(self)
+  end
+end
+
+class Point
+  def print_on(io)
+    io.print x
+    io.print ' @ '
+    io.print y
+  end
+end
+```
+
+***Method Object***
+
+- Many lines of code share many arguments and temporary variables.
+- I've passed through this before--if you attempt to do Composed Method, you'll usually pass all the other temp vars into the new methods.
+- Solution: create an object to represent calling the method and use the shared namespace of instance vars in the new object to then do Composed Method.
+
+``` ruby (https://refactoring.guru/replace-method-with-method-object)
+
+# Before
+
+class Order
+  def price
+    primary_base_price, secondary_base_price, tertiary_base_price...
+    # computation
+  end
+end
+
+# After
+
+class Order
+  def price
+    PriceCalculator.new(self).compute
+  end
+end
+
+class PriceCalculator
+  def initialize(order)
+    ...
+  end
+
+  def compute
+    primary_base_price, secondary_base_price, tertiary_base_price...
+    # computation
+  end
+end
+```
+
+- We moved the original computations into a new object, and passed the original object so it still has the same context.
+- You can do this with a static method, but in this case you don't need the first field pointing back. [Reference](https://refactoring.com/catalog/replaceMethodWithMethodObject.html)
+
+***Execute Around Method***
+
+- Reread blocks.
