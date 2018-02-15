@@ -140,3 +140,88 @@
   - Audit of Online Time-Wasters.
   - Just block entire sites, or block sites for certain periods of time.
 - Keep the phone in a different room.
+
+## Dig Deep: You're Stronger Than You Think
+[Reference](https://www.artofmanliness.com/2013/11/04/dig-deep-youre-stronger-than-you-think/)
+
+- Digging deep: seeing lovely ladies? Hehe.
+- Your mind can keep yourself going even when the body grows fatigued. The mind can also slow you down before you're actually physically spent. So the fatigue your brain is fighting was created by your brain.
+- You can feel more tired even if the muscles exert the same effort.
+- The mind thinks that you're going to use the body's limited fuel, so it puts the brakes on your exertion long before you've reached your true physical limits.
+- **Simply swishing around a sugary drink/glucose in your mouth for fuel boosts athletic performance by 2%. This tricks the brain into thinking more fuel is on the way.**
+- Same with willpower. Swishing = sticking to tasks longer.
+- Same with emotion, same with an accident. The happiness of the victims returned to near their baseline pre-accident levels within months following the injury.
+- Tapping into the hidden wells of strength:
+  - Call out the bluff, just do motivation self-talk.
+  - With HIIT, the treadmill makes you honest re: effort. You're forced to not slow down.
+  - Competition.
+  - Deadlines.
+
+## Willpower Part I: The Force of Greatness
+[Reference](Willpower Part I: The Force of Greatness)
+
+- Willpower: came from the 19th century, with machines, people though how about the human machine and its productive energy.
+- Consistently, 2 factors lead people to greater levels of happiness, health, and success: willpower and intelligence.
+- People with higher levels of self-control are more emotionally stable and struggle less with anger, anxiety, depression, drug/alcohol abuse. They make more popular bosses, have more friends, and are more likely to be in a stable marriage and less likely t o get divorced.
+
+### Understanding Willpower
+
+- It is a mental energy that allows you to direct your actions in four categories of behavior.
+  - Thoughts. They help you focus on what you want to think about.
+  - Emotions. **You can't will yourself to feel happy or sad. But you can decide to take actions to change how you're feeling. "I feel sad, I'm going to go for a run, that lifts my spirits."** Faking an emotion takes willpower too.
+  - Impulses. We don't have direct control over whatever pops into our head, but it does regulate how you react to the impulse.
+  - Performance control. How well you can focus and concentrate on a task.
+- **Whenever you have a desire to do something that conflicts with your long-term goals and your core values, willpower is the thing that kicks in and tries to keep you on track. The stronger your willpower is, the better chance of making a decision in line with your goals.**
+- The unconscious is greater when it comes to our short-term decisions. So you have to control it.
+
+## Willpower Part II: How Your Willpower Is Depleted
+[Reference](https://www.artofmanliness.com/2012/01/08/willpower-part-ii/)
+
+- Your willpower is like a muscle in these aspects:
+  - They become weak without exercise.
+  - You need to stress it in the short term to improve them in the long term.
+  - On any given day, you have a finite amount of strength.
+  - It needs time to recover before the next workout.
+- Self-control.
+  - On average, people spend four hours a day resisting desires.
+  - The harder a decision is, the more your willpower supply gets drained.
+- Your brain on ego depletion.
+  - When you're suffering from ego depletion, your brain's anterior cingulate cortex (the part of the brain that detects a mismatch between what you intended to do and what you're doing) slows down.
+  - When your ego gets depleted, you actually give up on puzzles faster.
+  - When you focus your willpower energy on studying, you had less of it for other things, and your hygiene/diet went in the crapper.
+  - Ex: I try not to respond to pointless criticism, and I'm generally successful, except when I'm suffering ego depletion. This is why you start smoking again when you get stressed.
+  - The problem with poverty: so many decisions per day, that it makes them more prone to giving into short-term impulses, even if those choices conflict with their long-term goals.
+- Risk aversion: When your willpower is low, you just want the one that locks you into a set path, in order to avoid expending any more mental energy.
+
+## Willpower Part III: How to Strengthen Your Willpower and 20 Ways to Conserve It
+[Reference](https://www.artofmanliness.com/2012/01/15/how-to-strengthen-willpower/)
+
+- ***Work on any goal or habit that exercises your self-control.***
+- When you work to change a habit, you deplete your willpower in the struggle, but over time, the strength of your willpower muscle increases from these exercises.
+- Anything: using your left hand instead of your right, working on your posture, trying to stop swearing.
+- ***The best part about creating a new habit is that not only does it strengthen your willpower, it also frees up more of your willpower fuel for other things.***
+- This is why people with stronger self-control actually spends less time resisting desires than those with weaker self-control.
+
+### How to Conserve Your Willpower
+[Reference](https://www.artofmanliness.com/2012/01/15/how-to-strengthen-willpower/)
+
+- The key is to consciously conserve this force, keeping it from being frittered away on dumb stuff and saving it for the things that are most important to you.
+- Only work at one goal at a time.
+- Make changes during periods of calm.
+- Make your goal as clear and specific as possible. People who make formal New Year's resolutions are ten times more likely to reach their goals than those with the same aims and motivation.
+- Set things up on autopilot. Firewall software.
+- Don't make big decisions on an empty stomach. No glucose = no willpower. ***This is why dieting is so difficult. To shed pounds you need to eat less, and to eat less you need willpower, and to get willpower you need to eat.***
+- Make to-do lists.
+- Figure out your next action on something. Not "plan trip", but "search for best airline fare".
+- Make a pre-commitment: before going inside a restaurant, tell the others that your consumption is limited.
+- Create routines.
+- Build self-awareness through monitoring. Quantify your life. Food diary, weighing yourself, apps that track how long you spend online.
+- Accountability something.
+- Tough things first.
+- Get enough sleep/take naps.
+- Limit your choices. This is why speed daters have better luck finding a partner than those who use online dating sites.
+- Keep yourself and your surroundings clean.
+- Surround yourself with those who have similar goals.
+- Out of sight, out of mind.
+- Delay gratification.
+- Higher purpose. Strong correlation between having self-control and being religious.
