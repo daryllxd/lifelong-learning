@@ -279,4 +279,73 @@ end
 
 ***Execute Around Method***
 
-- Reread blocks.
+- Pairs of actions that have to be taken together. Ex: ensuring that a file gets closed after opening it.
+- In Ruby, this is usually a block, or you can use `ensure`.
+
+``` ruby (https://github.com/avdi/sbpprb/blob/master/12_execute_around_method.rb)
+# Cursor example:
+class Cursor
+  def show_while
+    old = Cursor.current_cursor
+    show
+    yield
+    old.show
+  end
+end
+
+# With ensure:
+class Cursor
+  def show_while
+    old = Cursor.current_cursor
+    show
+    yield
+  ensure
+    old.show
+  end
+end
+```
+
+***Debug Printing Method***
+
+- Strings are useful in generic programming tools.
+- `VisualWorks`:  2 methods, `displayString` for client-consumable strings and `printString` for programmer-consumable strings.
+
+``` ruby (https://github.com/avdi/sbpprb/blob/master/13_debug_printing_method.rb)
+class Association
+  attr_accessor :key, :value
+
+  def inspect
+    "#{key}->#{value}"
+  end
+end
+```
+
+***Method Comment***
+
+- Self-documenting code?
+- Something you can comment on about a method: how it handles the cases it is coded for.
+- Important cases becomes objects in their own right.
+- Method dependencies: A comment can warn the reader to invoke one method before the other, or use Composed Method or Execute Around Method to specify the orders you want.
+- To-do: Just putting a note for yourself later.
+- Reasons for change: If you need to change something, if the reason for the change is not obvious, put it there.
+
+***Choosing Message***
+
+- Limited resources: when you had the same code duplicated in many places, you could save space by using a single copy of the code and invoking it everywhere you needed.
+- Conditionals: "Execute this part of the routine or that part". Message: "Execute this routine over here or that over there, I don't really care."
+- Send a named message and let the receiving object decide what to do with it.
+- `to_s`: each object has an opportunity to change how it is represented to the programmer as a string.
+- `Collection#includes`: Different collections implement this very differently, depending on the data structure.
+
+***Intention Revealing Message***
+
+``` ruby (https://github.com/avdi/sbpprb/blob/master/18_intention_revealing_message.rb)
+class ParagraphEditor
+  def highlight(rectangle)
+    reverse(rectangle)
+  end
+end
+```
+
+- This just shows the user that you highlight the rectangle by reversing it. You can also use `alias`.
+- It's also easier to override via inheritance. This is really for the readers, not for the computer.
