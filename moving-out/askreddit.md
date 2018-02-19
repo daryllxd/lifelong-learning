@@ -43,7 +43,7 @@ Don't take any cold medicine unless you absolutely need it to function (at work 
 #### Everything is way more expensive than you think. All the things you might take for granted, like towels, toilet paper, even soap adds up quickly.
 
 The first time I bought razors after moving out of my parents' house was mind blowing. I now put those at the top of my Christmas list every year.
- 
+
 STOCK THE FUCK UP DURING SALES. Two for one packages of toilet paper? Buy ten.
 
 #### buy a bucket. seriously multi use mother fucker.
@@ -106,26 +106,3 @@ Lists save you a lot of time and money.
 - Keep your physical and mental health in check. Assuming you have a daytime job, eat breakfast and do a short exercise routine before you go to work. It will make you more alert throughout the day and you will feel great. See a movie, go out with friends, go out on a date, etc. You do not have to go and spend 100 dollars at the bar each week. A 10 dollar movie every couple of weeks with someone significant or by yourself will help relax you. Maybe go hiking or hang out at the Walmart parking lot with your friends or something.
 - Don't poison your body with chemicals and processed foods. Buy a bunch of meat up front, season it and stick it in the fridge for a few days. After than cook all of it and bag it into individual portions. toss your ready to go chicken beef etc with some veggies and rice and save your body years of bullshit.
 - Don't buy stupid shit you can't afford, take out loans or loan out money. Pay the necessities, save your money and learn about securing an actual future financially. So many people live above their means and complain how, at 40, they are drowning in financial slavery (debt) and miserable. If you save roughly 25 a week at a modest interest bearing account, you could have a mil saved up by the time you're ready to retire. Of course, a million by then might be 25 bucks today.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

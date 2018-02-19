@@ -140,4 +140,3 @@
   - By staying mentally vigorous, they built this cognitive reserve.
   - Their brains have protection against the symptoms.
   - Blindsight: someone who had a damaged part of her visual cortex, when asked for a shape, can still guess that shape correctly, even if she is convinced she can't see. Some part of the brain is still seeing, but it's just not the conscious part that depends on her visual cortex.
-
