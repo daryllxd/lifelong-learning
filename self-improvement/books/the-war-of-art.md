@@ -106,7 +106,7 @@
   - She loves her work, but she does not forget that the work is not her. Her artistic self contains many works and many performances.
   - The next will be better, and the one after that will be better still.
   - She knows that Resistance is using criticism against her on a more diabolical level.
-- A professional endures adversity. You cannot let yourself take humiliation personally. Humiliation is the external reflection of internal Resistance.A
+- A professional endures adversity. You cannot let yourself take humiliation personally. Humiliation is the external reflection of internal Resistance.
   - The core cannot be buried, even beneath a mountain of guano. The core is bullet proof. Nothing can touch it unless you let it.
   - "Dues were paid."
   - It's better to be in the arena, getting stomped by the bull, than to be up in the stands or out in the parking lot.

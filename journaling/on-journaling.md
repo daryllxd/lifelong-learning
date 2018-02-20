@@ -41,4 +41,29 @@
 [Reference](https://www.scientificamerican.com/article/the-healthy-type/)
 
 - But besides serving as a stress-coping mechanism, expressive writing produces many physiological benefits. Research shows that it improves memory and sleep, boosts immune cell activity and reduces viral load in AIDS patients, and even speeds healing after surgery. A study in the February issue of the Oncologist reports that cancer patients who engaged in expressive writing just before treatment felt markedly better, mentally and physically, as compared with patients who did not.
--
+- Drives are involved in blogging, because a lot of people do it compulsively. Also, blogging might trigger dopamine release.
+
+## The Benefits of Journaling
+[Reference](https://www.huffingtonpost.com/thai-nguyen/benefits-of-journaling-_b_6648884.html)
+
+- Stretching IQ: Writing as part of language learning has a positive correlation with intelligence.
+- Evoking mindfulness: Strong connection between happiness and mindfulness. Journaling brings you into that state of mindfulness.
+- Achieving goals: Writing goals signals to your brain that "this is important."
+- Emotional intelligence: Outlet for processing emotions and increases self-awareness.
+- Boosting memory/concentration.
+- Strengthening your self-discipline.
+- Improve communication skills.
+- Healing: Emotional release from journaling lowers anxiety, stress, and induces better sleep.
+- Creativity: Just three pages of random whatever.
+- Self-confidence: Journaling about a positive experience allows your brain to relive it, and reaffirms your abilities when the ugly head of self-doubt appears.
+
+## The Brain-Based Benefits of Writing for Math and Science Learning
+[Reference](https://www.edutopia.org/blog/writing-executive-function-brain-research-judy-willis)
+
+- When stress is high, the intake filter (amygdala) selectively admits information related to perceived threat.
+- Fear of making mistakes is a great source of anxiety. This fear impacts learning.
+- Code names: for privacy, make things easier for students to not be shy.
+- Boredom: The most frequent reason high school dropouts give for leaving school.
+- Reminding students of previous successes promotes confidence.
+- Conceptual memory: nets to catch and hold new input with similar patterns. The more extensive the brain's collection of memory networks, the more successful it will be in activating the best prior knowledge.
+- Writing as memory cement: another storage facility for the brain.
