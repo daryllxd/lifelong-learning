@@ -14,3 +14,31 @@
 - After finishing that article, I have never stopped writing in my journal. In my family room on a book shelf are 20-plus journals filled with my thoughts and experiences. I’m certain they will be cherished by my ancestors as I’ve cherished the writing of my loved ones who have passed on.
 - "Today is going to be the best day of my life".
 - Try writing about minute details of your day or recent history.
+
+## The Productive Benefits of Journaling (plus 11 ideas for making the habit stick)
+[Reference](https://blog.doist.com/benefits-of-journaling-81b663a27608)
+
+- Charles Darwin, Winston Churchill, Obama.
+- The key to learning is to stop passively consuming information and start actively engaging with the ideas we encounter.
+- Reflective writing can be used to train our attention and strengthen neural pathways.
+- Reflective writing: improving decision making and critical thinking.
+- These can be tools for examining past experiences, evaluating own actions, and drawing insights for encountering future challenges.
+- "Writing clarifies thinking."
+- This habit helps you learn more deeply and think more creatively.
+- Recording your thoughts in a medium outside your own head clears out that storage. Your mind becomes quieter.
+- Reframing your personal narrative: when you reflect, you are telling your own story.
+- Simply committing to writing your goals down clarifies what you want and encourages you to consider the why and how, not just the what.
+- Take a note of unusual events. We tend to be more grateful about unexpected or surprising events.
+- Morning pages: Write three things about literally anything.
+- Parts:
+  - Gratitude
+  - Goals
+  - Personal values/mission statement.
+  - Ideas.
+  - Curiosity. The rich environment curious people create for themselves leads to cognitive growth. Curious brains are active brains, and active brains are smart brains. Challenge: write about one thing every day that made you stop and ask a question.
+
+## Blogging--It's Good for You
+[Reference](https://www.scientificamerican.com/article/the-healthy-type/)
+
+- But besides serving as a stress-coping mechanism, expressive writing produces many physiological benefits. Research shows that it improves memory and sleep, boosts immune cell activity and reduces viral load in AIDS patients, and even speeds healing after surgery. A study in the February issue of the Oncologist reports that cancer patients who engaged in expressive writing just before treatment felt markedly better, mentally and physically, as compared with patients who did not.
+-
