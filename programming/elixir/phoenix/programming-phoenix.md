@@ -109,3 +109,43 @@ connection
 |> HelloController.world
 |> HelloView.render
 ```
+
+### Chapter 3: Controllers, Views, and Templates
+
+- Repository: A hand-coded bucket. This separates the data itself from the ceremony surrounding how it's saved.
+- Model:
+
+``` elixir
+defmodule HabitsOne.User do
+  defstruct [:id, :name, :username, :password]
+end
+```
+
+- Repository: API for holding things. Split the concerns of data from the concerns of the database.
+- View: A module containing rendering functions that convert data into a format the end user will consumer, like HTML or JSON.
+- Template: A function on that module, compiled from a file containing a raw markup language and embedded Elixir code to process substitutions and loops.
+- Templates are fast: Since Phoenix builds templates using linked lists rather than string concatenation, it doesn't need to make huge copies of giant strings.
+- Elixir has only a single copy of the largest and most frequently used strings in your application, so you can cache stuff.
+
+### Helpers
+
+``` elixir
+def view do
+  quote do
+    use Phoenix.View, root: "web/templates"
+
+    # Import convenience functions from controllers
+    import Phoenix.Controller, only: [get_flash: 2, view_module: 1]
+
+    # Use all HTML functionality (forms, tags, etc)
+    use Phoenix.HTML
+
+    import HabitsOne.Router.Helpers
+    import HabitsOne.ErrorHelpers
+    import HabitsOne.Gettext
+  end
+end
+```
+
+- Internally: A view is just a module, and templates are just functions. So we can code templates in views?
+
