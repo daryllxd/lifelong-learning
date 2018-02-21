@@ -140,3 +140,29 @@
   - By staying mentally vigorous, they built this cognitive reserve.
   - Their brains have protection against the symptoms.
   - Blindsight: someone who had a damaged part of her visual cortex, when asked for a shape, can still guess that shape correctly, even if she is convinced she can't see. Some part of the brain is still seeing, but it's just not the conscious part that depends on her visual cortex.
+- Alien hand syndrome: two hands expressing desires, one hand picking up a cookie, and the other grabs at the wrist to stop it. Or one hand will pick up a newspaper, and the other will slap it back down. Patient says he isn't doing it.
+  - His brain is doing it, but he doesn't have access to the programs.
+  - Zombie: lack of conscious access, and alien: the program is foreign.
+  - All the automated programs are tightly controlled such that only one behavioral output can happen at a time.
+  - Another alien process: thinking that you came up with an idea.
+  - Left brain: can speak about what it's feeling. Right brain: mute, can only communicate by commanding the left hand to point, reach, or write.
+  - With a split brain patient: the left hemisphere can fabricate a story that explains what the right brain saw.
+  - Left: interpreter, assigning a coherent narrative to these events.
+  - Holding a pencil between your teeth while you read something: you'll think it's funnier, because you're influenced by the smile on your face.
+  - Same with sitting up instead of slouching. The brain just assumes that if the mouth and spine are doing that, it must be because of cheerfulness.
+- Anosognosia: a lack of awareness about an impairment: ex, a patient that denies his paralysis. The brain actually believes it can move just fine. It's possible to lose vision and claim you can see things, while crashing into the furniture.
+  - Ex: for contradictory evidence, they think they clapped, but there's no sound. Closing only one eye but not the other, and they think they closed both, but just one eye closed, but they can also say how many fingers someone held up. They think both eyes closed and when asked how they knew how many fingers, the system locks up and they conclude nothing.
+  - Looking at a mirror: she can see herself but also not see herself, so she doesn't say anything because there's no conclusion.
+- Minds seek patterns, even in meaningless data.
+- Consciousness:
+  - Consciousness exists to control and to distribute control over the automated alien systems.
+  - Ex: when you're playing a video game for the first time, your brain is alive with activity. They are burning energy like crazy. When they get better at the game, less and less brain activity.
+  - Evolutionarily: a giant collection of zombie systems would be energy efficient but cognitively inflexible.
+  - Humans are able to develop new software. The trade-off is that we are really helpless when we're infants.
+  - Since humans have a lot of subroutines, it needs a big CEO, and that CEO has to keep track of its workers.
+  - Proposal: Consciousness is the capacity to successfully mediate conflicting zombie systems. The more an animal does input-output subroutines, the less it gives any evidence of consciousness.
+- Secrets: the act of discussing or confiding the event may be more damaging than experiencing the event. When subjects confess, their health improves.
+  - A secret: the result of struggle between competing parties in the brain. One part wants to reveal something, and another part does not want to.
+  - Why you won't tell a secret: aversion to the long-term consequences. Higher chance to tell secrets to complete strangers. This is why strangers say things on airplanes and can explain why prayer is popular in religions.
+  - This is why venting is usually done for its own sake, not as an invitation for advice. They just wanted to tell the thing. The act of telling a secret can itself be the solution.
+  - A team of rivals brain can harbor both racist and non-racist feelings. There are the most dangerous colors, but true colors may be a dangerous misnomer.

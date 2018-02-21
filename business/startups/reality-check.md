@@ -108,7 +108,7 @@ SALES FIX EVERYTHING. As long as cash is flowing:
 
 ## Working
 
-Intrusive and negative thoughts cause a load that interrupts and harms performance. 
+Intrusive and negative thoughts cause a load that interrupts and harms performance.
 
 - Avoid negative people.
 - Invoke positive stereotypes.

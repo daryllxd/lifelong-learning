@@ -7,7 +7,6 @@
 - "We're more like other people than we suppose, and less like other people than we suppose".
 - "The more we accept ourselves, and what's right for us, the more other people accept us."
 
-
 - YOU choose how the course of your life will go, including which components to leave in and which components to take out.
 - Happiness is a choice and a method of travel, not a destination or an outcome.
 - Framing is everything. What actually happens is far less important than how you choose to view it. "Nothing is either good or bad, but thinking makes it so."
