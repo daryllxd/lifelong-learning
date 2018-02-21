@@ -139,5 +139,3 @@
 - Catching waves: Shift in consumer behavior: sneakerheads. *You can be flat broked and have a $100 pair of shoes on, and that will make a kid feel so good, it doesn't matter if his jeans are bummy.*
 - Superconnecting: Carmelo Anthony promoted his shoe design contest.
 - Momentum: He left Nike when he was on the top and still moving.
-- Simplicity: No conventional school busywork, just the core principles.
-- 10x thinking: Change education and change the industry.
