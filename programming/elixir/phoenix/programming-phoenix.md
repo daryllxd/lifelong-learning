@@ -148,4 +148,3 @@ end
 ```
 
 - Internally: A view is just a module, and templates are just functions. So we can code templates in views?
-
