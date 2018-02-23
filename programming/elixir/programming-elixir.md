@@ -86,7 +86,7 @@ Collection types
 
 We don't use a dot for named function calls.
 
-    greet= fn -> IO.puts "Hello" end
+    greet = fn -> IO.puts "Hello" end
     greet.()
 
     list_concat = fn (a, b) -> a ++ b end #=> list_concat([:a, :b], [:c, :d]) -> [:a, :b, :c, :d]
@@ -179,10 +179,205 @@ Opening a file:
 
 - Order matters, this will work but you will get a warning
 
-    # Can't get to the second case
+    # Can't get to the second case because n will always get evaluated in the first case
+    # An error will appear
     defmodule Factorial do
       def of(n), do: n * of(n-1)
       def of(0), do: 1
     end
 
+#### Guard Clauses
+
+``` elixir
+defmodule Guard do
+  def what_is(x) when is_number(x) do
+    IO.puts "#{x} is a number"
+  end
+
+  def what_is(x) when is_list(x) do
+    IO.put "#{inspect(x)} is a list"
+  end
+end
+````
+In the factorial case, you can do:
+
+``` elixir
+defmodule Factorial do
+  def of(n) when n > 0 ...
+end
+```
+
+#### Default Parameters
+
+#### Private functions:
+
+``` elixir
+defp fun(a) when is_list(a), do: true
+```
+
+#### The Amazing Pipe Operator:
+
+``` elixir
+filing = DB.find_customers
+          |> Orders.for_customers
+          |> sales_tax(2016)
+          |> prepare_filing
+```
+
+The `|>` operator takes the result of the expression to its left and inserts it as the first parameter of the function invocation to its right.
+
+#### Control Flow
+
+- You should drop the occasional `if` or `case`, but consider more functional alternatives. Functions written without explicit control flow tend to be shorter and more focused.
+- `if` and `unless` take in 2 parameters: a condition and a keyword list, which can contain either `do` or `else`.
+
+``` elixir
+if 1 == 1 do
+  ...
+else
+  ...
+end
+
+if 1 == 1, do: 'error', else: 'OK'
+```
+
+- Much more idiomatic to use pattern matching.
+- `cond`:
+
+``` elixir
+def _upto(current, left, result) do
+  next_answer =
+    cond do
+       rem(current, 3) == 0 and rem(current, 5) ==0 ->
+        'FizzBuzz'
+      rem(current, 3) == 0 ->
+        'Fizz'
+      rem(current, 5) == 0 ->
+        'Buzz'
+      true ->
+        current
+      end
+    end
+    _upto(current + 1, left -1, [ next_answer | result ]
+  end
+```
+
+- `case`: for pattern matching.
+- Exceptions: Only for things that should NEVER happen in normal operation: failing to open a config file, database sever down. Not for things where the wrong entered the wrong name.
+- Ex of design with exceptions:
+
+``` elixir
+case File.open('config_file') do
+  {:ok, file} ->
+     process(file)
+  {:error, message } ->
+     raise "Failed to open config file: #{message}"
+end
+```
+
+### Organizing a Project
+
+``` shell
+mix
+mix archive       # List all archives
+mix archive.build # Archive this project into a .ez file
+mix new           # Creates new Elixir project
+mix run           # Run the file
+mix test          # Run tesets
+iex -S mix        # Run IEx and run the default task
+mix help deps     # List all dependencies and their tasks
+```
+
+- `HTTPoison`.
+
+``` elixir
+defmodule Issues.GithubIssues do
+  @user_agent [{ "User-agent", "Elixir dave@pragprog.com" }]
+
+  def fetch(user, project) do
+    issues_url(user, project)
+    |> HTTPoison.get(@user_agent)
+    |> handle_response
+  end
+
+  def handle_reponse({ :ok, %{status_code: 200, body: body}) do
+    { :ok, body }
+  end
+
+  def handle_reponse({ _, %{status_code: _, body: body}) do
+    { :error, body }
+  end
+end
+```
+
+- Don't do `HTTPoison.start`. `HTTPoison` runs as a separate application. In the `application` part of the Mixfile, you can do this:
+
+``` elixir
+def application do
+  # Manages suites of running applications.
+  [ applications: [:logger, :httpoision] ]
+end
+```
+
+- `poison` library to convert the body to a string.
+
+``` elixir
+# PATTERN MATCHING IS SO BOSS
+
+def process({user, project, _count}) do
+  Issues.GithubIssues.fetch(user, project)
+  |> decode_response
+  |> convert_to_list_of_maps
+end
+
+def decode_response({:ok, body}) do: body
+
+def decode_response(:error, error}) do
+  {_, message} = List.keyfind(error, "message", 0)
+  IO.puts "Error fetching from Github: #{message}"
+  System.halt(2)
+end
+
+def convert_to_list_of_maps(list) do
+  list
+  |> Enum.map(&Enum.into(&1, Map.new))
+end
+```
+
+- Writing a test for the CLI?
+
+``` elixir
+test "sort" do
+  result = sort_into_asc(fake_list(["c", "a", "b"]))
+  issues = for issue <- result, do: issue["created_at"]
+  assert issues == ~w{a b c}
+end
+
+defp fake_list(values) do
+  data = for value <- values, do: [{"created_at", value}, {"other_data", "xxx"}]
+  convert_to_list_of_maps data
+  end
+end
+```
+
+- Then they did a `take`, then converted everything to columns.
+- Then, documentation.
+
+## Part II: Concurrent Programming
+
+### 14:
+
+- Actor model: doesn't share anything with other processes.
+- I'll get back to this when I do a concurrent system.
+
+### 15: Nodes: The Key to Distributing Services
+
+## Part III: More Advanced Elixir
+
+
+
+
+  - Access application config in controller?
+  - Read medium articles from the command line?
+  - Practical applications for sequences?
 
