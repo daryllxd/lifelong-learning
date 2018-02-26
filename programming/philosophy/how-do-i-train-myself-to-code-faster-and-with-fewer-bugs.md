@@ -27,7 +27,7 @@ When implementing a specific part of the project, don't only think about the way
 
 ---
 
-I would try to be rigorous - do more testing, read up on test driving development - try to exercise every line of code - automatically think of extreme cases before even writing the code.  Don't be tricky, keep it simple.  Code at the right pace - not too fast, but not too slow.  Find a way to get hours of concentrated time so you can write the code in a coherent state.
+I would try to be rigorous - do more testing, read up on test driving development - try to exercise every line of code - automatically think of extreme cases before even writing the code.  Don't be tricky, keep it simple. Find a way to get hours of concentrated time so you can write the code in a coherent state.
 
 ---
 

@@ -1,3 +1,18 @@
+## 4 Architecture Issues When Scaling Web Applications
+[Reference](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)
+
+- Scaling out is more important because commodity hardware is cheaper compared to special boxes (better computers).
+- Possible to have low response times but not scalable.
+- Capacity planning: figuring out the required hardware to handle expected load in production.
+- Scaling load balancer: using multiple IP addresses and DNS round robin.
+- RDBMS scaling: read/write on master databases and reads on slave databases.
+- NoSQL: Usually compromise on consistency to get high availability and partition.
+- Database split: vertical (Customer database, Product database...) or horizontal (American customers and European customers).
+- Architecture bottlenecks: centralized component that cannot be scaled out, and a slow component in the request pipeline.
+- CPU bound: high crunching data, cache heavily, asynchronous. Fix: Caching precomputing values, background jobs.
+- IO bound: limited by the throughput. Most apps are IO bound due to CRUD application.
+
+
 ## 7 Years Of YouTube Scalability Lessons In 30 Minutes
 [Reference](http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html)
 

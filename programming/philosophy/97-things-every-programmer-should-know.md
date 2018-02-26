@@ -1,0 +1,34 @@
+## 97 Things Every Programmer Should Know
+
+- ***Act with Prudence.*** Choose to do right rather than do quick.
+- ***Apply functional programming principles.*** Referential transparency: implying that functions always return the same results (clone). Usually better responsibility allocation with smaller functions that act on arguments, rather than mutating variables.
+- ***Ask, what would the user do?***
+- ***Automate your coding standard.*** Code formatting, code analysis, test coverage.
+- ***Beauty is in simplicity.*** Read a lot of other people's code.
+- ***Before you refactor.***
+  - Avoid the temptation to rewrite everything, the existing code has already been tested, reviewed.
+  - New tech is an insufficient reason to refactor, there should be a cost-benefit analysis.
+- ***Beware the Share.*** When thinking if you need to share things, think of their contexts first.
+- ***The Boy Scout Rule.*** Always check a module in cleaner than when you found it, regardless of who the author was. Care for the team's code.
+- ***Check your code first before looking to blame others.*** If I can't pin down a bug, possibly stack corruption. Multithreaded code also makes it important that you do simple shit.
+- ***Choose your tools with care.*** Only the tools that are absolutely necessary.
+- ***Code in the language of the domain.***
+  - `traderCanView(portfolio)`, not `portfolioById...`
+- ***Code is design.***
+- ***Code layout matters.*** Easier to scan (pattern matching).
+- ***Code reviews.***
+- ***Coding with reason.*** At each endpoint, the state of the program satisfies an easily described property, and so that the functionality of that section is easy to describe as a single task.
+  - No goto, no modifiable state variables.
+  - Nested section: function.
+- ***A comment on comments.***
+- ***Comment only what the code cannot say.***
+- ***Continuous learning.***
+  - Hands-on code.
+  - Virtual mentor.
+  - Get to know frameworks.
+  - Fixing a bug = understand what really happened.
+  - Teach or speak about the things you learned about.
+  - Learn a new language every year, or at least a new technology or tool.
+- ***Distinguish business exceptions from technical.*** These should have different hierarchies.
+- ***Do lots of deliberate practice.***
+  - 20 hours per week for 10 years.
