@@ -166,3 +166,53 @@
   - Why you won't tell a secret: aversion to the long-term consequences. Higher chance to tell secrets to complete strangers. This is why strangers say things on airplanes and can explain why prayer is popular in religions.
   - This is why venting is usually done for its own sake, not as an invitation for advice. They just wanted to tell the thing. The act of telling a secret can itself be the solution.
   - A team of rivals brain can harbor both racist and non-racist feelings. There are the most dangerous colors, but true colors may be a dangerous misnomer.
+
+## 6: Why Blameworthiness is the Wrong Question
+
+- Charles Whitman: shooting spree in 1966. He also killed his mother and wife.
+- Glioblastoma: he had a tumor, below the thalamus and compressed the amygdala.
+- Amygdala: damage to this in monkeys showed a lack of fear, blunting of emotion, inappropriate maternal behavior.
+- The "something" that was trying to control him was a collection of angry, aggressive zombie programs.
+- To what extent is he culpable?
+- Taking out a brain tumor made somebody not like child pornography anymore. When it started to grow back, desires came back.
+- Frontotemporal dementia: when the frontal and temporal lobes degenerate, they try to violate social norms: shoplifting in front of store managers, removing their clothes in public. They usually end up in courtrooms, where they must explain to the judge was not the perpetrator's fault.
+- Parkinson's disease: a drug called Pramipexole turned them into pathological gamblers.
+- Parkinson's: results from the loss of cells that produce dopamine. By using a drug to increase dopamine in the brain, it can trigger gambling, overeating, and drug addiction.
+- There is a set of genes that if you carry them, your probability of committing a violent crime goes up by 882 percent. Those genes are the Y chromosome.
+- Tourette's: suffering from involuntary movements and vocalizations. Saying random curse words/racial slurs. But they didn't choose to do so.
+  - They somehow don't have free will in that case?
+- There is no part of the brain which does not have a causal relationship with the other parts (free will).
+- The brain makes decisions to raise your hand a few seconds before you actually raise your hand.
+- When someone is depressed, is it just them being depressed or do they just have bad biochemistry? If a child is doing poorly at school, is she unmotivated, or does she just have a neurobiologically based learning disability?
+- Lobotomy: calms down criminals, but it flattened their personalities entirely.
+- Practicing impulse control. You can train at the prefrontal gym.
+- Xenophobia: people prefer people who look and sound like them. It is common to dislike outsiders.
+- Vigilantism: we agree to resist this because we know people can get confused about the facts of a crime, and that everyone deserves the presumption of innocence until proven guilty.
+- Blameworthiness: can we replace this with modifiability?
+
+## 7: Life After the Monarchy
+
+- Camus: Man searches for meaning in a fundamentally meaningless world. Suicide? He argues against, because he thinks one should live to revolt against the absurd life.
+- An understanding of the brain matters for structuring incentives. People negotiate with themselves, making an endless series of Ulysses contracts.
+- Think of your rivals in the brain as engines and brakes, some drive you toward a behavior while some are trying to stop you.
+
+### Knowing Thyself
+
+- Montaigne: quit his career in public life, set up a library with books, and studied himself.
+- Phineas Gage: survived even while his skull was punctured and a portion of his brain spirited away by a projectile, but his personality really changed, from being a good worker to being sort of an asshole.
+- The condition of your brain is central to who you are.
+- Materialist viewpoint: we are fundamentally made only of physical materials. Reductionism: we can understand complex phenomena only by reducing the problem to their small-scale biological pieces and parts.
+- You are the sum total of your neurobiology. This is why medications works. Not just neurotransmitters like serotonin/dopamine but hormones like estrogen/testosterone/vasopressin.
+- If an epileptic seizure is focused in a particular sweet spot in the temporal lobe, a person won't have motor seizures, but they experience a change of personality, hyper-religiosity, and hypergraphia (extensive writing on a subject, usually about religion). Joan of Arc? When the brain is kindled in the right spot, people hear voices.
+- Rabies virus: after a bite, this climbs its way up the nerves and into the temporal lobe, where it integrates itself into the local neurons, and it makes the host aggressive/want to bite.
+
+- The social stress of being an immigrant to a new country is one of the critical factors in developing schizophrenia.
+- Immigrant groups who differ the most in culture/appearance from the host nation have the highest risk.
+- Repeated social rejection perturbs the normal functioning of the dopamine systems.
+- Those who are proud and comfortable with their heritage are mentally safer.
+
+- Depression: there are genes that predispose you, but whether you actually suffer from depression depends on your life's events.
+- People with abusive parents tend to be abusive themselves. There is a gene where if the child was abused, they would be abusive, but if he wasn't, he wouldn't.
+- Same with smoking marijuana as a teen → developing psychosis as an adult.
+- Reductionism doesn't work because of the many parts re: biology, and there is a gene-environment interaction.
+- Emergence: it

@@ -10,4 +10,4 @@
 - Learning music by ear.
 - Memorization of all solo repertoire.
 - Regularly playing in groups.
-- Frequently performing in public to make yourself feel like a natural.
+- Frequently performing in public to make yourself feel like a natural
