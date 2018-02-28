@@ -148,3 +148,57 @@ end
 ```
 
 - Internally: A view is just a module, and templates are just functions. So we can code templates in views?
+
+### Chapter 4: Ecto and Changesets
+
+- Changesets: holds all changes you want to perform on the database. Encapsulates the whole process of receiving external data, casting and validating it before writing it to the database.
+- Models:
+
+``` elixir
+defmodule HabitsOne.User do
+  use HabitsOne.Web, :model
+
+  schema "users" do
+    field :name, :string
+    field :email, :string
+    field :password, :string, virtual: true
+    field :password_hash, :string
+
+    timestamps
+  end
+end
+```
+
+``` elixir
+# web/web.ex: These are injected into the HabitsOne.User module
+
+def model do
+  quote do
+    use Ecto.Schema
+
+    import Ecto
+    import Ecto.Changeset
+    import Ecto.Query
+  end
+end
+```
+
+- Migration
+
+``` elixir
+defmodule HabitsOne.Repo.Migrations.CreateUser do
+  use Ecto.Migration
+
+  def change do
+    create table(:users) do
+      add(:name, :string)
+      add(:email, :string, null: false)
+      add(:password_hash, :string)
+
+      timestamps()
+    end
+
+    create unique_index(:users, [:email])
+  end
+end
+```
