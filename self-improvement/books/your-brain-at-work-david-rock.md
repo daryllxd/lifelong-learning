@@ -1,6 +1,6 @@
 ## Your Brain at Work, David Rock
 
-#### Scene 1
+### Scene 1
 
 - Epidemic of overwhelm: having too much to do.
 - Making decisions = prefrontal cortex.
@@ -196,3 +196,36 @@
   - Normalizing: when you don't have complete mental maps for things yet, you use your stage a lot. ***This is why doing change is so hard: doing things differently can bring about a negative spiral that can feel overwhelming.*** Just tell yourself that it's normal to feel overwhelmed in the first few weeks of a new job.
   - Reordering information: you can put on a positive spin on things by reconfiguring what's going on.
   - Repositioning: taking another person's perspective and changing the context through which you view a situation.
+  - Someone who could not regulate his emotions well would last about an hour in most jobs. You can be calm in any situation, as long as you can reappraise.
+  - Almost always, you can reposition things with appraisal.
+- Is success at work based on the ability to make up false interpretations of the world instead of dealing with reality?
+- Apparently, happy people perform better at many type of work. So, basically, yes?
+- ***All the brain can know, it knows from inside itself.*** - Walter Freeman. All the interpretations of the world are just that, interpretations your brain has made, and ultimately just yours--then having a choice about which interpretation you might use at any moment makes more sense.
+- Problem with reappraisal: expensive. You have to generate alternate modes of thinking and hold those things in your mind. Then you choose the alternative interpretation that makes the most sense, and keep focused on that.
+- ***This is why it's easier to reappraise with someone else (a mentor, coach, career counselor).***
+- Humor = reappraisal. It's much easier to see options when you laugh at an otherwise tough situation.
+- ***It's not you, it's your brain. You can't think of a complex work situation and walk around the house at the same time. It's not you, it's your brain. You can't learn to do anything new and complex without your limbic system firing up from uncertainty. It's not you, it's your brain. You can't go into a meeting at four o'clock and expect yourself and everyone else to come up with brilliant ideas, it's not you or them, it's your brain.***
+
+- Certainty is a primary reward or threat for the brain.
+- Autonomy, the feeling of control, is another primary reward or threat for the brain.
+- People who reappraise more appear to live better lives.
+
+- Find ways to create choice and a perception of autonomy whenever you can.
+- Practice reappraisal early when you feel a strong emotion coming on. You can reappraise by reinterpreting an event, reordering your values, or normalizing an event, or repositioning your perspective.
+- When you're at the point of managing internal stressors, just think, "That's just my brain."
+
+### Scene 9: When Expectations Get Out of Control
+
+- The excitement about potentially winning creates arousal in your limbic system.
+- The expectation of reward has an impact on your brain.
+- Your brain orients toward events, people, and information that connects to what you have valued positively.
+- Expectations alter perception. People see what they expect to see, and not see what they are not expecting.
+- The brain is built to avoid threat, and so people tend to work hard to reinterpret events to meet their expectations.
+- Positive expectations produce a reduction in perceived pain that rivals the effects of an analgesic dose of morphine.
+- Underpromising: unexpected rewards release more dopamine than expected ones. What's bad is expecting a reward and not getting it.
+- When dopamine levels are too low, the number of connections per second in the brain fails.
+- You need a good level of dopamine to hold an idea in your prefrontal cortex. Obviously you need to be interested in something to learn it.
+- The best way to manage your expectations is to start to pay attention to them.
+- Unmet expectations: bad.
+- Pay additional attention to positive expectations you know will be met for sure.
+- Great athletes don't get overexcited about winning, as this ruins their concentration.
