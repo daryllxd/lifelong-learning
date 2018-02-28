@@ -169,3 +169,30 @@
 - Suppressing an emotion makes other people feel uncomfortable.
 - Label the emotion. Symbolic, not a long dialogue, for it to reduce arousal.
 - Practice noticing emotions as they arise, to get better at sensing their presence earlier.
+
+### Scene 8
+
+- The brain is a prediction machine. Massive resources are devoted to predicting what will happen each moment.
+- Prediction is the primary function of your neocortex, and the foundation of intelligence.
+- You hear + predict what you should hear, you see + predict what you should see.
+- When the craving for certainty is met, there is a sensation of reward.
+- Things like Sudoku and crossword are enjoyable because they give you a little rush from creating more certainty in the world, in a safe way.
+- Industries devoted to resolving uncertainties: palm readers, prediction engines, forecasters.
+- Uncertainty: you'll feel different when you know what a person looks like.
+- Emotional regulation techniques to manage uncertainty.
+- Stress from recognizing that her level of control over her work has decreased.
+- The degree of control that organisms can exert over something that creates stress determines whether that stressor alters the organism's functioning.
+- ***The perception of control over a stressor alters a stressor's impact.***
+- Work-life balance as the main reason people start their own small businesses. Though business owners make more hours, they are able to make more of their choices.
+- Finding that you have choices in a situation reduces the threats from both autonomy and uncertainty. Emily could reduce here stress over a proposal's being approved by remembering she could choose to reschedule here meeting.
+- Even the smallest perception of choice can impact limbic system arousal.
+- Finding a way to make a choice shifts yourself from an "away" response to a "toward" response.
+- ***Decide to be responsible for your mental state rather than feel grumpy.***
+- Responsibility: an ability to respond. Generate a toward response by making an active choice.
+- People have to control your interpretation of the meaning of the situation, and that's what reappraisal is all about.
+- Conscious control over the limbic system is possible, not by suppressing a feeling, but rather by changing the interpretation that creates the feeling in the first place.
+- Reappraisals:
+  - Recognize that the threatening event is no longer a threat. When you see the people in a queue, you'll realize that you aren't going to miss the flight.
+  - Normalizing: when you don't have complete mental maps for things yet, you use your stage a lot. ***This is why doing change is so hard: doing things differently can bring about a negative spiral that can feel overwhelming.*** Just tell yourself that it's normal to feel overwhelmed in the first few weeks of a new job.
+  - Reordering information: you can put on a positive spin on things by reconfiguring what's going on.
+  - Repositioning: taking another person's perspective and changing the context through which you view a situation.
