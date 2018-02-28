@@ -42,3 +42,15 @@
   - Enhanced cardiovascular/brain functions.
   - Prevented age-related cognitive decline.
   - Reduced the effects of gamma irradiation in mice.
+
+## How do you do creative work while doing IF?
+[Reference](https://www.reddit.com/r/intermittentfasting/comments/80mcdz/how_do_you_do_creative_work_while_doing_if/)
+
+- Practice.
+- Electrolytes, small amount of salt and no-salt in the morning and it's helped with focus and energy.
+- Coffee + coconut oil.
+- Stick with it.
+- Breaking the fast late morning keeps me focused and running at high productivity levels throughout the day.
+- I play Tetris on a hard level for 5 minutes. Brain puzzles. Temple Run.
+- IF is a shock to the system. Allow a week before trying to assess if your productivity has changed.
+

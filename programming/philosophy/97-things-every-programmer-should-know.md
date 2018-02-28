@@ -32,3 +32,5 @@
 - ***Distinguish business exceptions from technical.*** These should have different hierarchies.
 - ***Do lots of deliberate practice.***
   - 20 hours per week for 10 years.
+- Don't Ignore that Error!
+  - No matter how unlikely you think an error is in your code, you should always check for it, and always handle it.
