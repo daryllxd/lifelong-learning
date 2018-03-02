@@ -229,3 +229,79 @@
 - Unmet expectations: bad.
 - Pay additional attention to positive expectations you know will be met for sure.
 - Great athletes don't get overexcited about winning, as this ruins their concentration.
+
+- Expectations are the experience of the brain paying attention to a possible reward or threat.
+- It's common to fit incoming data into expectations and ignore data that don't fit.
+- Exceeded expectations generate a strong increase in dopamine, and a strong reward response. Unmet expectations generate a large drop in dopamine level, and a strong threat response.
+- A general feeling of expecting good things generates a healthy level of dopamine, and may be the neurochemical marker of feeling happy.
+- Practice setting expectations a little lower.
+- To stay in a positive state of mind, find ways to keep coming out ahead of your expectations over and again, even in small ways.
+- ***When a positive expectation is not being met, practice reappraising the situation by remember it's your brain doing something odd with dopamine.***
+
+## Act III: Collaborate with Others
+
+### Chapter 10:
+
+- The social world is deeply important to our moment-to-moment existence. A lot of background processes involve thinking about other people and yourself.
+- Common mode of human interaction: distrusting others. Every little thing in this state escalates.
+- As a human, you get your resources not from the wild, but from other people. So large amounts of human "real estate" are devoted to the social world.
+- Her conference call went wrong because people made mistakes about the mental state of the others on the call. Without a face and body language visible, everyone misread his intent.
+- Mirror neurons: work only if the person they're watching has an intent.
+- People with autism are considered "mind blind." They don't accurately decipher what other people are thinking, feeling, or intending, which results in social blunders.
+- On a conference call, without faces to see, the group couldn't read one another's emotions.
+- If people don't have social cues to pay attention to, they can't connect with other people's emotional state.
+- An abundance of social cues makes people connect more richly, perhaps in challenging ways at times. The strongest emotion in a team can ripple out and drive everyone to resonate with the same emotion, without anyone consciously knowing this is happening. The strong emotion gets attention, and what people pay attention to will activate their mirror neurons.
+- If you want to collaborate well with others, you have to understand what kind of state others are in.
+- People naturally tend to form safe tribes with close colleagues, because collaborating with people you don't know well is a threat for the brain. The automatic response to strangers is "don't trust them". Tendency for people to be classified as foe until proven, otherwise.
+- ***When you interconnect your thoughts, emotions, and goals with other people, you release oxytocin.*** Just a spray of oxytocin increased their level of trust. This is why facilitators and trainers insist on icebreakers at the start of workshops, and why establish rapport is the first step in consulting/customer service/sales training.
+- The one thing that makes people happy is the quality and quantity of their social connections.
+- 30 point difference in blood pressure between those who experienced loneliness and those with healthy social connections. Loneliness could increase the risk of death from stroke and heart disease. Having friends around you reduces a deeply ingrained biological threat response.
+- Having people you trust around can help you bring about insights, by broadening thinking and helping you to see your own thinking. Having friends helps you change your brain, because you get to speak out loud more often. When you speak to someone about an idea, many more parts of your brain are activated in just thinking about the idea, including memory regions, language regions, and motor centers.
+- Thinking someone is a foe can even make you less smart, because you constantly get distracted by how they would think, instead of dealing with the business at hand.
+- A handshake, swapping names, and discussing something in common can increase feelings of closeness by causing oxytocin to be released.
+- Companies that encourage water-cooler conversations exhibit greater productivity. Increasing the quality and quantity of social connections is likely to improve productivity.
+
+- Anytime you meet someone new, make an effort to connect on a human level as early as possible to reduce the threat response.
+- Become friends with people you work with by sharing personal experiences.
+
+### Scene 11: When Everything Seems Unfair
+
+- Once you prime your prefrontal cortex to look out for fairness issues, they start to appear everywhere.
+- Ultimatum gain: people would sort of rather prefer a fair situation rather than financial reward?
+- Anterior insula = associated with disgust, and it gets activated when you feel something is unfair.
+- Fairness = the need to trade efficiently?
+- Unfairness packs a hefty punch, so it's easy to get upset by small injustices when you're tired, or when your limbic system already has a strong base load of arousal.
+- **Because of poor emotion-regulation capacity, teens feel the threats and rewards arising from fairness very intensely.**
+- Fairness is hedonically rewarding. The feeling you get from a sense of fairness is one of connecting safely with others, so it's linked to relatedness.
+- Giving to others activates a greater reward response than receiving gifts of similar value.
+- Fairness/expectations helps explain the delight of the kindness of strangers, as well as the intense emotions of betrayal from people close to you.
+- Men don't experience empathy with someone who is in pain who has been unfair, whereas women do.
+- Be open and transparent about your dealings with people, remembering that unfairness is easy to trigger.
+- Find ways to sense increasing fairness around you, perhaps by volunteering or donating money or resources regularly.
+
+### The Battle for Status
+
+- You don't have to be best friends with people to do good work.
+- Status is another major driver of social behavior. Status is another primary reward or threat.
+- **Reward circuits were activated when people saw others as worse off than they.**
+- Status explains why people love to win arguments, even pointless ones.
+- This sort of explains why people play video games with no benefits except for points to raise their status compared to that of others.
+- Being left out, being classes as "less than" others, is a universally painful experience.
+- Exclusion and rejection is physiologically painful. Five different pain points in the brain when social pain is experienced.
+- The reaction is to a status issue could be attacking the status back.
+- People don't like to be wrong because being wrong drops your status, in a way that feels dangerous and unnerving.
+- Higher-status monkeys have reduced day-to-day cortisol levels, are healthier, and live longer. Status is a significant determinant of human longevity, even controlling for education and income.
+- We're wired to feel rewarded by any incremental increase in status.
+- Recurring themes/narratives: ordinary people doing extraordinary things, or extraordinary people doing ordinary things.
+- The feeling of high status helps you process more information with less effort.
+- With the reduced threat response from the increase in positive emotions, you have plenty of resources for the prefrontal cortex to help you think on multiple levels.
+- ***Help someone else feel that her status has gone up.*** Giving positive feedback, pointing out what they do well gives others a sense of increasing status, especially when done publicly.
+- ***Playing against yourself.*** This makes you feel good about yourself. You can harness the power of beating the other guy without hurting anyone in the process.
+
+#### SCARF
+
+- Status
+- Certainty
+- Autonomy
+- Relatedness
+- Fairness
