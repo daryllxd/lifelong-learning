@@ -225,3 +225,18 @@
 - Out of sight, out of mind.
 - Delay gratification.
 - Higher purpose. Strong correlation between having self-control and being religious.
+
+## The science of willpower
+[Reference](http://scopeblog.stanford.edu/2011/12/29/a-conversation-about-the-science-of-willpower/)
+
+- Willpower is a complex mind-body response that can be compromised with stress, sleep deprivation and nutrition and can be strengthened with certain practices.
+- Stress response to willpower is a reaction to an internal conflict. You want to do one thing, but know you shouldn't. Or you know you should do something, but you'd rather do nothing.
+- When we're at chronic stress, it's harder to find willpower. The fight-or-flight response floods the body with energy to act instinctively and steals it from the areas of the brain needed for wise decision-making.
+  - Sleep deprivation = bad. It's almost like you're drunk.
+  - Nutrition = influences how available energy is for the brain. Even eating a more plant-based, less-processed diet makes energy more available to the brain.
+- Willpower: people run out of it. Any act of self-control leaves people with less willpower for completely unrelated challenges.
+  - Using your self-control muscle may be tiring, but over time, the workout increases your strength and stamina. What starts out difficult becomes easier over time.
+  - New behaviors become habits, temptations become less overwhelming and willpower challenges can even become fun.
+- Increasing willpower: meditation and physical exercise. Brain changes have been observed after 8 weeks of brief daily meditation training.
+- Think big: when you scale up for what you want, you have more willpower.
+- Think small: giving yourself permission to take microsteps toward your goal.
