@@ -544,3 +544,32 @@
 - The past can never be changed.
 - "Just because someone screwed up your past, it doesn't mean you should give them permission to screw up your future."
 - You have to sacrifice something that you value less than whatever it is you ultimately want.
+
+## Want to Live a Life 99% of Other People Will Envy? Read This Immediately.
+[Reference](https://medium.com/personal-growth/want-to-live-a-life-99-of-other-people-will-envy-read-this-immediately-706a321a81dc)
+
+- Common denominators of success:
+  - Strong meaningful relationships with friends and family.
+  - Life-giving work that makes a difference.
+  - High self-confidence and pride in oneself.
+  - Financial independence.
+  - A lasting legacy.
+- Relationships: Just say it!
+- Making your work matter.
+  - The goal of life is not to relax on the beach. The purpose is to find something you love that adds value to the world.
+  - If you want deep fulfillment in your work, you need to make time to practice your gifts and talents.
+  - “Successful people don’t see it as ‘free time.’ They see it as the only time they have to do the things they really want to do in life — and they don’t take a minute for granted.”
+  - Maybe you need your job for financial security, but in the meantime, you can choose to spend your free time differently. Invest in yourself. Create an outlet for your ideas and passion.
+- Everyone has emotional garbage that is holding us back. If left unresolved, we can never experience a full sense of pride and self-love.
+- Being an adult: resolving the garbage people have done to you.
+- Successful self-care leads to healthy, growing pride in oneself.
+- Financial independence:
+  - Create income. Probably from several areas.
+
+## This One Question Will Make Every Decision In Your Life Easier
+[Reference](https://medium.com/personal-growth/this-1-powerful-strategy-made-the-british-rowing-team-to-go-from-average-to-winning-olympic-gold-b859b7f6cda1)
+
+- Will it make the boat go faster?
+  - If you get invited to a late night party the night before training, will it make the boat go faster?
+  - Will eating a donut make the boat go faster?
+- Do you want to compete with someone who has this mindset, someone who is THIS deliberate about EVERY decision they make? Someone this thoughtful about their life, and how they respond to challenges?
