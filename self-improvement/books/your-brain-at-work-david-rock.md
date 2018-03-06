@@ -1,4 +1,4 @@
-## Your Brain at Work, David Rock
+# Your Brain at Work, David Rock
 
 ### Scene 1
 
@@ -300,8 +300,146 @@
 
 #### SCARF
 
-- Status
-- Certainty
-- Autonomy
-- Relatedness
-- Fairness
+- Life's most intense emotional reactions involve a confluence of the elements of SCARF.
+  - Status
+  - Certainty
+  - Autonomy
+  - Relatedness
+  - Fairness
+- Social pain comes back when you think about it again, whereas physical pain doesn't.
+- You can also increase other people's feelings when you compliment them on SCARF things.
+  - Telling what's good about you (raising status).
+  - Being clear with their expectation of you (increasing certainty).
+  - Letting you make decisions (increasing autonomy).
+  - Connects with you on a human level (increasing relatedness).
+  - Treats you fairly.
+
+- Status is a driver of behavior at work and across life experiences.
+- A sense of status, going up, even in a small way, activates your reward circuits.
+- People pay a lot of attention to protecting/building their status, more to this than any other element of SCARF.
+- When everyone is trying to be higher status than others, there is a decrease in relatedness.
+- Playing against yourself increases your status without threatening others.
+
+- Watch out for people's status being threatened.
+- Reduce status threats in others by lowering your status through sharing your own humanity or mistakes.
+- Find ways to play against yourself, and pay a lot of attention to any incremental improvements.
+
+## Act IV
+
+### Scene 13: When Other People Lost the Plot
+
+- The default approach to helping people: trying to understand the source of the problem, and then making suggestions.
+- ***Feedback creates a strong threat for people in most situations.***
+- "Let me tell you what others have been saying about you": a fast way to make someone deeply anxious.
+- As "constructive" as you try to make it, even a subtle status threat is picked up unconsciously by our deeply social brain, no matter how nicely it's couched.
+- Unless you take care to label your emotions when they are at a high level, and not dwell on them, bringing problems to mind will increase limbic arousal, making it harder to solve them.
+- What's key is for you to solve the right problem, which means the most useful problem, not the most interesting one.
+- It's easier to focus on problems because the problem is in the past. Since electrical impulses are more likely to travel along existing paths, that requires less energy than travelling along paths that don't yet exist.
+
+#### Finding the Solution
+
+- To solve the problem of getting to the airport, you can focus on "How can I find a taxi?" You can then figure out where it's easiest to find a taxi.
+- You focus on the desired outcome, rather than on the past. Attention went to your goal, rather than to your problem.
+- When you focus on an outcome, you prime the brain to perceive information relative to that outcome, rather than to notice information about the problem (not getting to the airport).
+- You can't be looking for solutions and problems at the same time. And if it's a solution that's needed, it's more useful to prime your brain to notice information relevant to the solution itself.
+- ***When you look for solutions, you scan your environment widely for cues, which activates more of the right hemisphere of the brain, rather than drilling down into information that activates the left hemisphere. Activating the right hemisphere is helpful for having insights, which is how complex problems are often solved.***
+- ***When you focus on problems, you are more likely to activate the emotions connected with those problems, which will create greater noise in the brain. This inhibits insight. Whereas focusing on solutions generates a toward state, because you desire something. You are seeking, not avoiding. This increases dopamine levels, which is useful for insight. And if you're expecting you might find a solution, these positive expectations help release even more dopamine.***
+- Focusing on solutions is not the natural tendency of the brain. Solutions are generally untested, and thus uncertain. It takes effort to dampen down the threat created that comes with uncertainty.
+- While it's logical to head straight to solutions, what often happens is that people often end up providing a set of solutions to the other person.
+  - Solutions might impact someone's relative status.
+  - Solutions can threaten autonomy (not my choice). Try to make the other person think of the solution to the problem.
+  - The irony: the harder leaders think about other people's problems, the more others feel threatened and discount the suggestions made.
+- Giving other people clues about what people should think about, and giving them clues about what they shouldn't think about.
+- Dr. Stellan Ohlsson: ***When people hit an impasse, telling what not to think helps only 5% of the time, and giving people clues about what they should think helps only 8% of the time.***
+- To solve problems:
+  - SCARF model: encourage, increase someone's sense of certainty by clarifying your objectives, increasing autonomy by ensuring that he is making the decisions.
+  - Simplify a problem into as few words as possible.
+  - You want people to be in the correct state of mind, and to facilitate that state of mind.
+- Questions like:
+  - "If you stop and think more deeply here, do you think you know what you need to solve this?"
+  - "What quiet hunches do you have about a solution deeper inside?"
+  - "How close to a solution are you?"
+  - "What pathway to a solution would be best to follow here?"
+  - Help the other person notice the subtle, high-level connections in his own thinking, which will make insight more likely. While you can't control insight, you can influence it more than other people realize.
+  - ***With these questions, instead of your looking for a gap in the form of the source of another person's problem, the other person is finding a gap in their own thinking process. It's not you searching for problems, it's him searching for gaps in his thinking process.***
+- Grading students not on how they wrote their paper, but how they critiqued their own work.
+- ***When you leave a gap between writing and editing, you've forgotten it's you who wrote the words.***
+- People are capable of giving themselves feedback, especially if their status isn't threatened. Get people to activate their director, using status as the reward to do so.
+
+- While the easy answer re: trying to change other people's thinking might be to give feedback, real change happens when people see things they have not seen before.
+- Giving feedback often creates an intense threat response that doesn't help people improve performance.
+- Help people think about their own thinking by focusing them on their own subtle, internal thoughts, without getting into too much detail.
+- Find ways to make it valuable for people to give themselves feedback; reward them for activating their director.
+
+### Scene 14: The Culture That Needs to Transform
+
+- Carrot and stick approaches don't work well with adults.
+- Attention/focusing them in the right way.
+- Attempt to change the circuitry of the brain in a few weeks, enough to show up on a brain scan.
+- Putting a blindfold on someone creates change in the auditory cortex in a matter of minutes.
+- Learning a new language is easy, but you have to stop paying attention to your current language. That's why moving to France is the fastest way of learning to speak French, your attention is forced there all day long.
+- It's not hard to change your brain, you just need to put in enough effort to focus your attention in new ways.
+- ***All you need to do to change a culture, whether at home or at work, is focus other people's attention in new ways long enough.***
+- Sensing someone is trying to change you often creates an automatic threat response, linked to uncertainty, status, and autonomy. Churchill: "I love to learn, but I hate to be taught."
+- Steps:
+  - Create a safe environment so threat response is minimized.
+  - Focus their attention in just the right ways to create just the right new connections.
+  - You have to get people coming back to pay attention to their new circuits over and again.
+- Increase status: Offer a reward that treated them as being older or more competent, or publicly recognizing them.
+- Increase certainty: Set expectations on what would happen during her proposed family conference, reducing fear of the unknown.
+- Increase autonomy: Give the kids the chance to make more of their own decisions.
+- Increase relatedness: Increase opportunities to network with their peers, by allowing them to attend more conferences or networking groups.
+- Creating a sense of safety is the first step to transforming a culture.
+- ***Keeping attention: telling a story.*** A good story creates complex maps in the brain as people hold different characters and events on the stage. Stories have some "point", some specific idea at their core, which the storyteller wants others to understand.
+- ***Asking the right question:*** "What is one thing you have done that has made a customer delighted in the past? What did you do differently that made the customer so happy? What would it take for you to do this more often?"
+  - Asking questions help people arrive at their own insights. When you ask people to answer questions like this, there is an implicit respect inherent to the question. Status reward, rather than a "What's wrong with us?".
+  - Implicit respect inherent in the question, the suggestion that you know people have good answers.
+  - Small groups to minimize status threats.
+  - Once the general threat level is reduced in a group, focus people's attention on exactly the direction you want them to go in.
+  - Status reward, rather than the "what's wrong with us?" question that might threaten status.
+- ***Establishing goals.***
+  - When you set up a goal, you set up the possibility of a positive spiral.
+  - You're more likely to perceive information relating to it, which makes you feel positive, because you feel that the goal is going to happen, which makes you look out for it more.
+  - Giving people small achievements to notice. The right goal can increase a sense of certainty by providing more clarity on objectives, and it can increase a sense of autonomy if people have a say in how they achieve the goal.
+  - If you're planning on setting goals for other people, perhaps instead create a framework for them to set goals for themselves.
+  - ***Attention density: When you make a promise to another person to do something, it comes into your mind more often, because of a status threat if you don't do it.***
+  - You can get other people to collaborate if you want to do a task. Remember that the brain is eminently social, so if you can get a change you desire linked to the social world, you're on the right track.
+  - To change a culture, start by paying attention to everyone's attention, and work out how to focus their attention in new ways.
+  - Learning how to change a culture means learning how to facilitate self-directed neuroplasticity.
+
+#### Leading Change
+
+- Unfortunately, many of the people who make it to leadership positions have a highly developed intellect but are poor on the social side of things.
+- The brain network involved in holding information, planning, working memory and cognitive problem solving tends to be on the lateral, or outer, portions of the brain.
+- The regions more involved in the midline/middle areas are related to self-awareness, social cognition, and empathy.
+- These two networks are inversely correlated: when one is active, the other tends to be deactivated. So there is something inversely correlated about social and nonsocial abilities.
+- If you spend a lot of time in cognitive tasks, your ability to have empathy with people reduces simply because that circuitry doesn't get used much.
+
+- Focused attention changes the brain.
+- Attention goes all too easily to the threat.
+- Creating long-term change requires paying regular attention to deepen new circuits, especially when they are new.
+
+### Encore
+
+- Microscopic changes in brain functioning can sometimes create massive change in people's lives. By reducing the activation of one brain region and increasing another, this quickly grows into a totally different behavioral response to the same stimuli.
+- "Know yourself" might been "know the functioning of your own brain."
+- Much of your mental activity is automatic, driven by forces out of your control, often in reaction to predefined goals, such as maintaining status or certainty.
+- Act 1:
+  - Being able to plan, organize, prioritize, create, or do just about anything except repetitive mental tasks requires a small, fragile, and energy-hungry brain region using the prefrontal cortex.
+  - The brain is so easily distracted.
+  - The importance of being able to step outside your experience and observe your mental functions, which comes from an ability to focus attention n the moment, openly.
+- Act 2:
+  - The brain is built to minimize danger and maximize reward.
+  - "Toward" states tend to be more productive for doing good work. "Away" is intense.
+  - Thinking capacity can be reduced by remembering past threatening situations, by uncertainty, and by a feeling of a lack of autonomy.
+  - Labeling/reappraisal, and expectations.
+- Act 3:
+  - Social world from the brain's perspective.
+  - SCARF generates either a "toward" or "away" response with the same intensity and using the same circuitry as a reward or danger for one's life.
+  - We want to minimize social dangers and maximize social rewards.
+- Act 4:
+  - Hard to change other people, because of our natural tendency to focus on problems and make suggestions.
+  - Changing a culture = changing their own brain.
+- The importance of the director:
+  - Repetition is key. As your director becomes stronger, it gets easier to decide what to put on your stage and what to keep off, when to pay close attention to something, and when to step back and allow loose connections to occur instead.
+
