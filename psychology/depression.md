@@ -52,3 +52,17 @@
 - Generalized anxiety, social anxiety, OCD, panic disorder.
 - Fastest onset is 2 weeks, and is the same with other antidepressants at 6 weeks.
 - Side effects: Weight gain and sleepiness, but less likely to cause tremor than tricyclic depressants.
+
+## Ask HN: How to stop feeling depressed about whether you will be successful?
+[Reference](https://news.ycombinator.com/item?id=16515923)
+
+- YMMV but I'd encourage you to take a break from consuming "success porn" online. That's my broad term for:
+  - Social media: because people curate everything and only post things that make their lives look amazing. Real life isn't a constant string of wins, success, and happiness. Don't let it distort your view and wonder why your life isn't the same.
+  - Startup news: TechCrunch, Recode, Bus. Insider, and even here on HN. Post after post about YC, funding rounds, growth, and–of course–big exits. Its easy to find them but the truth is, they are outlier events. If a big startup exit is something you want–fine, by all means go for it–but don't let any article fool you into thinking its easy or guaranteed if you follow some formula. It's not. Startups are hard. There is no guarantee of success because some things are beyond your control.
+  - Success celebrities: avoid videos, podcasts, ebooks, and online courses from celebrity entrepreneurs. These are people who have had moderate success with a blog/vlog/startup/book/whatever and now want to teach everyone else how to do it. Truth is, they just want to take your money and time. The only thing you might learn is how to be just like them (yuck).
+- Decreasing the amount of time I spent on social media has increased the quality of my life by at least 10 times. Before I used to feel intimidated going to the gym, posting on my tech blog, simply because everyone else was just doing it better than myself or at least I believed so and cared. When I went on to actually do and enjoy things, I noticed how everything is so imperfect and how in essence I do not care about others. It may sound funny, but that brought back the smell of roses. Another important side-effect was an increase in amount of in-person interaction with the people I wanted to interact.
+
+Being depressed is a state of mind. Being successful or not has not much to do with it (which is proven in many papers). Anxiety about failure is just a way that it manifests. Your brain always finds some ways to rationalize things that it observes. That's its job.
+So if you feel a bit of rush because you really want to succeed, or if you think about things that may go wrong in order to take actions to minimize the risk - that's perfectly fine and embrace it. But if it really brings you down, then it's a depression problem, not a startup problem and that's what you want to solve.
+
+I'm sure you've heard many many times how failures are necessary learning experience and all that stuff. But if your brain chemistry is not ok, your brain will rationalize it away - "but that's my only shot" and so on. Once again, you need to fix that chemistry. HN will offer you many suggestions some of them very reasonable, but it's likely that a professional will give you some better options.

@@ -46,4 +46,3 @@ By hand:
 WP stores theme at `wp-content/themes`. Each theme gets its own subfolder. `style.css` is the starting point of every theme.
 
 You can create a child theme, which takes the current theme as a starting point, and lets you slap your customizations on top.
-
