@@ -91,3 +91,31 @@
 - **Fear.** To fight fear, instill a practice of strategic, intentional, and purpose risk-taking in your life and work.
 
 - **Guardedness.** Not thinking of the context/community of your work. The solution to guardedness is to build a system of checks into your life to help you scan for relational outages.
+
+## 4: Define Your Battles
+
+### Principle: To counter aimlessness, you must define your battles wisely, and build your life around them.
+
+- While big, long drives are impressive, they aren't necessarily going to help me achieve my objective, a better golf score.
+- Progress is often made through one's willingness to persist at the small activities no one else sees, but that truly generates results.
+- ***Through line: the theme of your life and work, the thesis statement.***
+- People sell their souls by running away from the battles they know they should be fighting.
+- Having a lens through which to view your efforts and gauge your progress will increase your likelihood of creating a body of work you will be proud of, even if that lens adapts and changes over time.
+- Passion: root word means "suffering". Great work means suffering for something beyond yourself.
+- ***Productive passion: the sort of passion that motivates you and is also beneficial to others.*** Others-focused, not self-focused.
+- Compassionate anger.
+  - What dynamics in the marketplace do you see that cause you to feel a desire to step in on behalf of those who are suffering in order to bear part of their burden or rectify a wrong?
+- Obsession: Passion followed action, not the other way around.
+
+### Welcome to the Battle
+
+- Priorities: Some people fall into aimlessness because they don't like the discomfort of having to say not to the very good things that aren't the most important things. They'd rather be mediocre at a lot of things than take a real swing at things they care about and risk failure.
+- What will you stand for today?
+  - What will you refuse to compromise on, no matter what?
+  - What will define your terms of engagement?
+  - Boca Restaurant Group: "Blow People Away."
+- What do you know you should be doing, but have been ignoring?
+  - These are forgotten battlefronts. They are things that have been weighing on your mind for a while now, and things that you care deeply about, but you've been ignoring.
+  - **Action defines reality, and "potential" is nothing but unproven, hypothetical value.**
+- What are your open loops? These are the unfinished projects, the halfhearted efforts, or the unreconciled relationships. These are projects you're afraid to say no to, but deep down you know that you can't commit to.
+- ***To avoid aimlessness, you have to stand for something. Don't allow aimlessness to rob you of years of your life. You will ultimately be remembered for-and your body of work will be built upon-the battles you choose to spend your time fighting.***
