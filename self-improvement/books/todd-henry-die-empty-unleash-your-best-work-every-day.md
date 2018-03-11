@@ -119,3 +119,107 @@
   - **Action defines reality, and "potential" is nothing but unproven, hypothetical value.**
 - What are your open loops? These are the unfinished projects, the halfhearted efforts, or the unreconciled relationships. These are projects you're afraid to say no to, but deep down you know that you can't commit to.
 - ***To avoid aimlessness, you have to stand for something. Don't allow aimlessness to rob you of years of your life. You will ultimately be remembered for-and your body of work will be built upon-the battles you choose to spend your time fighting.***
+
+## 5: Be Fiercely Curious
+
+### Principle: To prevent boredom from dulling your senses, you must approach your work with a curious mindset.
+
+- All great feats begin with: "Why? How? What if?".
+- "Busily bored": not stretching their mind, not acknowledging their deeper questions, not trying out new things, living with unchecked, limiting assumptions.
+- **Reclaim curiosity by embracing an engaging mindset rather than an entertainment mindset. This means dedicating yourself to the pursuit of new and better questions.**
+- The best ideas often occur in the spaces in between commitments. They usually materialize in the moments of downtime, and when I was doing something no way related to the project.
+- Technology: broadens our familiarity with what's happening in the world, but it has the side effect of having just shallow knowledge about things. We often don't take time to stop and consider how what we're seeing or experiencing fits into the wider scheme of life, because there's always something new to move on to.
+- **Some people will never learn anything, because they understand everything too soon.** Alexander Pope
+- When you become more selective about what you spend your valuable attention, you cultivate the capacity to notice the subtleties of life and apply new observations to your work.
+- Creative block: our well of stimuli is dry. The creative process involves combining multiple bits of stimuli in our environment into something new. When we are inverted, we have fewer options to smash together because we've not been spending enough time seeking inspiration or we need to spend more time processing our experiences to mine them for potentially useful insights.
+- To avoid becoming one of the busily bored, you need to stoke the fires of your curiosity by addressing its two forms: specific (diving deep into topics of interest) and diversive (exploring possibilities through purposeful questioning).
+
+#### Establishing Hunting Trails
+
+- You must establish parcels of structured curiosity in your life, which means setting aside time and giving yourself permission to stoke the fire of your curiosity in a way that doesn't interfere with your more urgent work.
+  - ***Keep a list of questions.*** When was the last time you pondered a question that wasn't directly related to driving immediate results? Are you paying attention to those little moments of "Huh?" and "Why?" that crop up throughout the day?
+  - Give yourself permission to not know things. The appearance of wisdom is not the same thing as possessing it, and people who seek wisdom are not threatened by new or disconfirming information.
+  - Before going into a meeting, take a few minutes to consider the questions you're hoping to address through the experience.
+  - "A commonplace book": a collection of quotes, recipes, or other items centered around a theme, and designed to help its creator recall important information.
+  - "The List": a list of must-read books or articles. Work your way through those lists.
+- **Dedicate time to pursue your questions.** A list of the interesting books, films, or articles that I come across throughout the day and I want to revisit later, during my study time.
+- **Prototype relentlessly.**
+- **Find your bliss station.** This is the place where I do my life's work.
+- Having a sacred space in your life:  You must have a room, a certain hour or so a day, where you don't know what was in the newspapers that morning, you don't know who your friends are... This is a place where you can simply experience and bring forth what you are and what you might be. This is the place of creative incubation.
+- **My life's work certainly is not encapsulated by the work I do building a business. It's much more than that. It's the space I occupy in the lives of others I live to serve, including family and friends. It's the discovery of my own self. All this work in private then feeds the work I do in every corner of my life, like a tributary flowing into a raging river."
+
+#### Develop Possibility Thinking
+
+- This means refusing to settle for status quo ideas and instead, relentlessly embracing the pursuit of great ones.
+- When you have clear boundaries to work within, you can feel more comfortable asking extremely divergent questions and exploring initially irrelevant-seeming possibilities.
+
+#### Redefining the Problem
+
+- **Aspirations.** "What does this want to become? What would be the ultimate end, if we were to perfectly solve this problem?" Consider a current project you're working on, and ask yourself what the project is aspiring to become.
+- **Affinities.** These are similarities you notice between the project you're working on and other experiences you've had. "What is this problem or project like?" "Where have I seen something similar before?" "Can I see any patterns here?" Compare your current difficulty with products on the market, people, circumstances, ideas, or anything at all that you can use to glean patterns of similarity. "How is this like..." and write down all the similarities you note.
+- **Assumptions.** "What assumptions might I be making about this?"
+- **Attributes.** "What are the specific, concrete words you would use to describe the problem?
+
+## 6: Step Out of Your Comfort Zone
+
+### Principle: To make a valuable contribution, you have to get uncomfortable and embrace lifelong growth and skill development.
+
+- Sarah Peck: swam from Alcatraz to San Francisco naked.
+- People will rally behind you if you're consistent. If you're reliable. Even if it's crazy, if they can't trust you. Do something, and then hustle like crazy to make it happen.
+- If you want to avoid the path that leads to apathy and mediocrity, at some point you are going to have to step outside your comfort zone.
+- We are biologically wired to stay within the comfort zone.
+- You have to do the best you can, even when nobody's watching you. That's the best way to make yourself invaluable to your team and to ensure that you continue to grow.
+- Instead of "imagine if it's your last day", think "imagine if you have a guest accompanying you throughout your day tomorrow." That guest will then write about your day.
+  - If that was the definitive record of your life, how would you feel about it?
+  - You'd probably get up a little earlier, be kinder, be more meticulous, call up friends, wrap up your loose ends.
+  - "How does your imagined behavior compare with how you are actually living your life today?" We act differently when we know we are being recorded because we go outside our comfort zone and do what we know to be right, rather than what feels to be right in the moment. It forces us to act, rather than defer action.
+- **We live with the stubborn illusion that we will always have tomorrow to do today's work. We hold on to this belief like a pacifier to help us ignore the uncertainty and the weight of all that's left to do.** When we consider what it would be like to have our work on display, we remember that it is our actions that define us, not our intentions.
+
+- As far as work is concerned, experts who were happiest about their careers can point to a decision where they were tempted to say no, but they did things anyway.
+- People who took risks at critical junctures were those who looked back with the greatest satisfaction on their work lives.
+- For many of the most successful elders, the "say yes" attitude formed their core approach to work. For others, missed opportunities provided a serious source of regret near the end of their lives.
+
+- No:
+  - Fear of harm. The safety we seek is most often an illusion anyway, because true safety is rarely a viable option.
+  - Identity protection.
+  - Love of stability. The more there is to protect, the less some people are willing to try new things. Are you gravitating toward stability at the expense of great work?
+  - Ego. "No" is sometimes a form of ego, or wanting to impose our will on the world, which often means a willingness to stand by a poor choice just to remain in control.
+
+- "If I do this enough times in a row, I will keep stretching myself out of my comfort zone, and I will eventually make something worthwhile."
+- Being in uncomfortable environments taught me to rely on and trust my instincts, and to leverage aptitudes that I'd forgotten about.
+- When you're forced to use every skill at your disposal to add value, it makes you a better employee.
+- Jeff Bezos and the "Regret Minimization Framework": he imagined himself at 80, and considered how he would feel about each decision.
+
+- Many people in today's marketplace are waiting for permission to act on their intuition. "Excellence isn't about working extra hard to do what you're told. It's about taking the initiative to do work you decide is worth doing."
+- "This is a revolutionary overthrow of time and motion studies, of foremen, of bureaucracies and bosses. It's not a new flavor of the old soup. It's a personal, urgent, this-is-my-call way to do your job. Please stop waiting for a map. We reward those who draw maps, not those who follow them."
+- Mapmakers are those who can effectively circumnavigate constraints in order to make things happen. We all deal with constraints in order to make things happen.
+- Where in your life and work are you waiting for permission? Don't anticipate that someone is going to hand you a map. You'll probably have to make your own.
+
+- "If you could snap your fingers right now and make anything happen in your job, what would it be?"
+  - Contingency: People who feel that they are being constrained by something, and they wish those constraints would disappear so they can shine in their role.
+  - Ownership: They hold a sense of personal responsibility for the future trajectory of their career. A desire for better understanding of of how the company functions, or a greater grasp of organizational priorities.
+
+- Goals: Daily, biweekly, and long-term.
+  - Step goal: What do I do today, no matter what? Accomplishing a stretch goal is less a linear march to the finish line that it is a series of combustive battles.
+    - Jerry Seinfeld kept a giant wall calendar, and he would mark a big red X on the days when he wrote jokes. After a few days, he'd created a chain. The longer the chain got, the harder it was to break. Don't break the chain.
+    - Did we move closer to what we want to achieve?
+  - Sprint goal a la software development sprint: intermediate goal that can be done in 2 weeks.
+  - Stretch goal: What's the change?
+    - It must be something you can control and measure. If you can't control it, you can't plan for it.
+    - Business/work (skills/context for your work), mental (developing intellectual capacity/ability to process info), relational, personal/spiritual (physical health/emotional growth/self-awareness/personal skill development).
+
+- Steps:
+  - ***Survey your life for growth opportunities.*** Identify a few skills that you could develop that would make you more effective in your work. Remember, work is any place you add value, so no just your job. Think of places where your actions have an impact.
+  - ***Define your objectives.*** Set a stretch goal. What is your objective today? How will you know that today was a success? What great battle must be fought in order for you to know that you have accomplished something that moves you toward your long-arc objective?
+  - ***Define what you're willing to give up in order to accomplish it.*** Everything in life is a trade-off. If you want to do work that causes you to spend yourself, then by definition you cannot do that without cost. Determine in advance, what are you willing to sacrifice?
+  - ***Draw the battle lines.*** What "enemy" will you have to overcome in order to accomplish your goal, and how will you prepare for it?
+  - ***Redirect and reassess.*** Failure doesn't always mean defeat; it only means that you fell short of accomplishing your objective. Keep a daily record of learning and new insights that might help you tomorrow.
+
+- Ben Franklin:
+  - Morning question: "What good shall I do this day?"
+  - Evening question: "What good have I done today?
+- Make it actual goals, not wishful thinking.
+- Your vector: why don't you start now?
+  - "I'm fifty years old, it'll take me five years to learn to play well. I'd be fifty-five by the time I become even remotely proficient as a pianist."
+  - "So, how old will you be in five years if you DON'T learn to play the piano?
+- ***If you're honest with yourself, you probably already know where you are falling short or playing it safe. You cannot chase safety and count on emptying yourself of your best work. You cannot pursue greatness and comfort at the same time.***
