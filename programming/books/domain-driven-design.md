@@ -111,3 +111,95 @@
   - The root entity has global identity and is ultimately responsible for checking invariants.
   - Root entities have global identity. Entities inside the boundary have local identity.
   - A delete operation must remove everything within the Aggregate boundary at once.
+
+#### Example: Purchase Order Integrity
+
+- What we want:
+  - Invariant enforcement, when a new line item is added, the PO checks the total and marks itself invalid if an item pushes it over the limit. As we'll see, this is not adequate protection.
+  - Change management. When the PO is deleted or archived, the line items are taken along, but the model gives no guidance on where to stop following the relationships.
+  - Sharing the database.
+- Problems:
+  - 2 people can edit at the same time.
+  - Locking: If too many work on the thing at the same time, it can get cumbersome.
+- Knowledge:
+  - Par ts are used in many Orders (high contention).
+  - There are fewer changes to parts than there are to POs.
+  - Changes to part prices do not necessarily propagate to existing POs.
+- The solution is to tighten the relationship of the PO and its line items, more so than the parts.
+
+#### Factories
+
+- Factory Method, Abstract Factory, and Builder.
+  - Each operation must be atomic. You pass in everything needed to create a complete product in a single interaction with the factory.
+  - The factory will be coupled to its arguments.
+- Where does invariant logic go?
+  - The factory can delegate invariant checking to the product, and this is often best.
+  - Entity factory object **does not** assign a new tracking ID. This would lose the continuity with the object's previous incarnation.
+- Reconstituting Stored Objects:
+  - Few database technologies get stored in databases or transmitted through a network. **So retrieval requires a potentially complex process of reassembling the parts into a live object.**
+
+#### Repositories
+
+- We must have a starting point for a traversal to an ENTITY or VALUE in the middle of its life cycle.
+- A database search is globally accessible and makes it possible to go directly to any object.
+- Should a Customer object hold a collection of all the orders placed, or should the Orders be found in the database, with a search on the Customer ID field?
+- From a technical point of view, retrieval of a stored object is really a subset of creation.
+
+- **The goal of domain-driven design is to create better software by focusing on a model of the domain rather than the technology. By the time a developer has constructed an SQL query, passed it to a query service in the infrastructure layer, obtained a result set of table rows, pulled the necessary information out, and passed it to a constructor or Factory, the model focus is gone.**
+- **Think of the objects as containers for the data that the queries provide, and the whole design shifts towards a data-processing style.**
+- Infrastructure such as Metadata Mapping Layers help a great deal, by making easier the conversion of the query result into objects, but the developer is still thinking about technical mechanisms, not the domain.
+- When client code uses the database directly, developers are tempted to bypass model features such as aggregates, or even object encapsulation, instead directly taking and manipulating the data they need. **More and more domain rules become embedded in query code or simply lost. Object databases do eliminate the conversion problem, but search mechanisms are usually still mechanistic, and developers are still tempted to grab whatever objects they want.**
+- Better way of accessing things?
+  - Transients leave brief lives, so no need to have a query there.
+  - No need to queries for persistent objects that are more convenient to find by traversal.
+  - Most importantly, any object internal to an aggregate is prohibited from access except by traversal from the root.
+- A subset of persistent objects must be globally accessible through a search based on object attributes. Such access is needed for the roots of aggregates that are not convenient to reach by traversal. They are usually entities, sometimes value objects with complex internal structure, and sometimes enumerated values.
+- Providing access to other objects muddles important distinctions. Free database queries can actually breach the encapsulation of domain objects and aggregates. Exposure of technical infrastructure and database access mechanisms complicates the client and obscures the model-driven design.
+
+***Repository***: Represents all objects of a certain type as a conceptual set (usually emulated). It acts like a collection, except with more elaborate querying capability. Objects of the appropriate type are added and removed, and the machinery behind the repository inserts them or deletes them from the database.
+
+- Clients request objects from the repository using query methods that select objects based on criteria specified by the client, typically the value of certain attributes. They can choose to implement a variety of queries that select, return summary information/count/calculations.
+
+`client → (selection criteria/What do I need?) → repository → delegate (Encapsulates database access, technology, strategy.) → Metadata, factories, other repositories?`
+
+- For each type of object that needs global access, create an object that can provide the illusion of an in-memory collection of all objects of that type. Set up access through a well-known global interface. Provide methods to add and remove objects, which will encapsulate the actual insertion or removal of data in the data store.
+
+- Advantages of repositories:
+  - They present clients with a simple model for obtaining persistent objects and managing their life cycle.
+  - They decouple application and domain design from persistence technology, multiple database strategies, or even multiple data sources.
+  - They communicate design decisions about object access.
+  - They allow easy substitution of a dummy implementation, for use in testing (typically using an in-memory collection).
+
+- Implementation varies greatly, depending on the technology being used for persistence and the infrastructure you have.
+- The idea is to hide all the inner workings from the client, so that client code will be the same whether the data is stored in an object database, relational database, or held in memory.
+- Concerns:
+  - **Abstract the type:** a repository "contains" all instances of a specific type, but this does not mean that you need one repository for each class. The type could be an abstract superclass of a hierarchy.
+  - **Taking advantage of the decoupling from the client:** you have more freedom to change the implementation of a repository than you would if the client were calling the mechanisms directly. You can take advantage of this to optimize for performance, by varying the query technique or by caching objects in memory.
+  - **Leave transaction control to the client.** Although the repository will insert into and delete from the database, it could possibly not commit anything yet (Rails's `new`?).
+- Relationship with factories:
+  - A factory handles the beginning of an object's life, a repository helps manage the middle and the end. When objects are held in memory, or stored in an object database, this is straightforward.
+  - **A factory makes new objects, a repository finds old objects. The client of a repository should be given the illusion that the objects are in memory. The object may have to be reconstituted, but it is the same conceptual object, still in the middle of its life cycle.**
+  - A factory's job: to instantiate a potentially complex object from the data.
+
+### Designing Objects for Relational Databases
+
+- The database doesn't just interact with the objects, it's literally storing the persistent form of the data that makes up the objects themselves.
+- For the common cases of an RDBMS acting as the persistent form of an object-oriented domain, simple directness is the best. A table row should contain an object. A foreign key in the table should translate to a reference to another entity object.
+
+
+
+`intellisense` for ruby
+
+
+
+
+
+
+
+
+- Query objects: pull the exact data they need from the database, or to pull a few specific objects rather than navigating from aggregate roots. Domain logic moves into queries and client code, and the entities and value objects become mere data containers.
+
+
+
+
+
