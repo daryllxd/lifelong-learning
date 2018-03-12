@@ -2,7 +2,7 @@
 
 - What I do: How many pages have I produced? I don't care. Are they any good? I don't even think about it. All that matters is I've put in my time and hit it with all I've got. All that counts is that for this day, for this session, I have overcome Resistance.
 - The life we live, the unlived life within us. Between the two stands Resistance.
-- It was easier for Hitler to start World War II than it was for him to face a blank square of canvas.
+- In a weird sort of way, think about this: It was easier for Hitler to start World War II than it was for him to face a blank square of canvas.
 
 ### Resistance's Greatest Hits
 

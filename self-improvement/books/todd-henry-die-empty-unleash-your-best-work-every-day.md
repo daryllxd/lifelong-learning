@@ -223,3 +223,101 @@
   - "I'm fifty years old, it'll take me five years to learn to play well. I'd be fifty-five by the time I become even remotely proficient as a pianist."
   - "So, how old will you be in five years if you DON'T learn to play the piano?
 - ***If you're honest with yourself, you probably already know where you are falling short or playing it safe. You cannot chase safety and count on emptying yourself of your best work. You cannot pursue greatness and comfort at the same time.***
+
+## 7: Know Yourself
+
+### Principle: Knowing yourself will help you counter self-delusion and pursue the unique contribution you alone are capable of making.
+
+- The stories we believe about how the world works, our worldview, can be either motivating, contribute forces or limited, destructive forces as we strive to unleash our best work.
+- Narratives that cause frustration: "Hard work is always fairly rewarded." When something breaks from this narrative, you feel that there's an injustice that needs to be righted.
+- Some possible not so good narratives:
+  - "Recognition for work." If this is something you unknowingly believe, you might focus only on activities where you get a lot of immediate feedback, and fail to engage in important but largely invisible work that has a long-term payoff. You may be more likely to judge the results of your work based solely on the feedback of others, and lose touch with your own gauge of excellence.
+  - "Your are worth only what you can create." A belief that you can't separate your personal value from the quality of your best work can lead to bouts of frustration, elation, depression. This is a wasteful chase after the perfect creation. The cycle of constantly increasing expectations creates an unrealistic bar for excellence, which doesn't always lead to better results.
+  - "I have to win everything." This puts you on the defensive, or makes you refuse to learn from failure because you can't reconcile with the reality that you failed. When you lose, reassess, redirect, and reengage rather than see it as a ding on your personal ability.
+  - "The person who dies with the most stuff wins." When everything else takes a backseat to your net worth, you are inevitably going to compromise other, more contributive efforts for the sake of your financial growth.
+
+- We are each a mixed bag of strengths and flaws.
+
+- What intimidates you?
+  - The people you admire: is there anything about them that you find intimidating? This might point you in the right direction in your own work.
+  - When I feel intimidated by the attributes of someone I admire, it's often the dynamic of resistance. When I get reminded of my shortcomings, I learn that I need to lean into the fear of falling short, and push through the initial urge to retreat from the challenge of having to up my game. When I do this, my best work shines through.
+- What resonates with you?
+  - Have you ever been listening to someone speak, and experiencing someone else's work of art, and you find that you can barely control your excitement? You want to shout, "Yes!" and let them know that you agree with every word coming out of their mouth. You've just experienced "resonance."
+  - To unlock these points of resonance and unlock the deeper pattern behind them, make a physical note each time you experience them. Whenever something really resonates, jot down the context, what you respond to, and any general thoughts you had at the moment.
+  - Reading biographies of people you admire. Be as specific as possible when you try to pay attention to what their positive attributes are.
+- What complicates your life?
+  - Sometimes, friction can be excessive and become a limiting factor in your work.
+  - There is probably a certain set of problems that you notice in your life that others don't seem to find quite as vexing. Great people throughout the ages have also locked onto a problem and spent their life surrounding and attacking it.
+  - Consider how your heroes might tackle the very same problems you're encountering.
+- Excavate Your Assumptions
+  - "That's the way it's always been done" and "No one knows why that's the way it is" become limiting beliefs.
+  - You need to scan your life for these potentially false assumptions and limiting beliefs.
+- Set aside time at the end of each day for reflection.
+  - 10-15 minutes to review your calendar and your schedule for the day.
+- Identify the patterns. If you noticed some behavior that you'd like to change, make note of the scenarios in which these seem to come up most often. Can you identify a narrative that you think may be driving that undesired behavior? Think about what seems to trigger your automatic responses in those situations.
+- Create a "watch list". Make a list of a few undesired beliefs that you consider to be triggering with your behavior. Whenever you enter into a new situation, pull out the card and consider how you will behave differently if confronted with those triggers.
+- Seek feedback.
+  - Ask someone you interact with regularly to offer feedback on ways you can improve. Give them full permission to tell you whatever you think will help you improve your performance, especially as it relates to the "soft skills" of communication, collaboration, and leadership.
+- An alarm throughout each day to ensure you don't slip into a rut and drift through your days.
+  - "Is the thing that I'm doing aligned with what I think I should be doing?"
+  - "Am I being the kind of person I'm aspiring to be?"
+  - The key is to find a balance between introspection and flow.
+
+### Establish Your Code of Ethics
+
+- While values are important, they are inadequate to drive daily action. They are passive, not active imperatives.
+- What change did I really want to see through my efforts each day? What important and active qualifiers could I build into my life?
+- "Know yourself first, and then act on what you see."
+
+## 8: Be Confidently Adaptable
+
+### Principle: Confidence and Adaptability prevent an inflated ego from stalling progress on your most important work.
+
+- The key counterpoint to ego: adaptability. This means cultivating the willingness to confidently bend to your environment while still maintaining a strong sense of self and purpose.
+- When facing a near disaster, we naturally want to create rules of behavior that will regulate the uncertainty.
+- Rather than striving for control, we should strive for influence.
+
+- Playing the victim: Refusing to take accountability for their actions.
+- Snark, cynicism and overcomplexity. In the effort to prove how accomplished they are, people overcomplicate their work to make their work look more valuable.
+- Judging your work relative to others' rather than on its own merits.
+- Expecting to be accommodated.
+
+- Confidence vs over-inflated ego.
+  - "I can get this right." vs "I can do no wrong."
+  - "I'm valuable vs "I'm invaluable." Be unafraid to assert yourself to contribute value.
+  - "Strategic compromise is essential" vs "Bend to me, always".
+  - "My track record demonstrates competence vs invulnerability."
+  - "I'm not explaining it well." vs "You don't get me."
+
+## 9: Find Your Voice
+
+### Principle: Find your voice and conquer the fear of failure by taking small, calculated risks each day.
+
+- How much time do you spend doing those things (the true work that really adds value) on a daily basis?
+- "I've always approached my work like a plumber or a factory worker. Every day, I have a job to do. I show up on time, I sit, and I do my job. As an artist, the nature of my work is different, but I've always known that I have to approach it this way in order to be effective."
+
+## 10: Stay Connected
+
+### Principle: Establishing genuine connections with others will prevent guardedness from infecting your life.
+
+## 11: Live Empty
+
+- E: Focus on your ethics.
+  - Look at today's tasks. How are you going to apply your ethic to each of them?
+- M: Mission.
+  - What change will exist today as a result of my efforts? Is there a step goal on the agenda for today?
+  - What isn't already represented?
+  - What needs to go away?
+- P: People.
+- T: Tasks.
+  - What absolutely must get done today, and when will you do it?
+  - Define your projects.
+- Y: You.
+  - What do you today to develop yourself?
+  - What do you need to start moving on?
+  - Are there latent dreams or ambitions that you've allowed to fall to the side that you need to pick up, dust off, and begin acting on?
+
+## 12: Forward
+
+- No advice is universally applicable.
+- "It's too late when we die to admit we don't see eye to eye."
