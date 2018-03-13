@@ -12,7 +12,7 @@ This allows you to: create a container, install/run an application, clone the co
 
 You can also limit RAM, CPU, and disk usage of each container
 
-Since you can move each container easily around, the community has a library of ready-made containers that you can pull adn run, allowing you to skip the installation and configuration for the most part.
+Since you can move each container easily around, the community has a library of ready-made containers that you can pull and run, allowing you to skip the installation and configuration for the most part.
 
 A container is a self-sufficient wrapper for an application, it usually contains a normal Linux file system which the application uses. From the application perspective, it's like it's the only application installed in the computer (besides whatever it requires and the standard applications that comes with the file system).
 
@@ -26,6 +26,16 @@ When we run multiple dedicated servers on one server, we call them virtual priva
 
 Docker is a way to interact with containers that makes it simpler to create and manage the containers. Before docker, I would have to learn multiple technologies to get a simple container working which could take me a month or more, now that I have docker, I could get a complex multi-container system working in an afternoon.
 
-Let's say I have an application that needs Redis, Memcached, Mongodb, and MySQL to talk to, in addition to a specific version of Ruby, specific system libraries, Imagemagick. I could manually manage virtual or dedicated servers by myself, where each new server would take a while to build. *Or I could write a dockerfile for my web application and specify that it needs services from public dockerfiles for MySQL, Mongodb, etc. Now my complicated application could be deployed fairly easily on a specialized Docker-based host, and VPS provider (Linode, AWS, Azure, Rackspace, Google), or even my own servers.*
+Let's say I have an application that needs Redis, Memcached, Mongodb, and MySQL to talk to, in addition to a specific version of Ruby, specific system libraries, Imagemagick. I could manually manage virtual or dedicated servers by myself, where each new server would take a while to build. *Or I could write a Dockerfile for my web application and specify that it needs services from public Dockerfiles for MySQL, Mongodb, etc. Now my complicated application could be deployed fairly easily on a specialized Docker-based host, and VPS provider (Linode, AWS, Azure, Rackspace, Google), or even my own servers.*
 
+## Docker Tutorial
+[Reference](https://www.youtube.com/watch?v=pGYAg7TMmp0)
 
+- Docker vs Vagrant.
+  - Vagrant: Solves the problem of "Works on my machine, doesn't work on production." This happens because you're on a different machine. We use VirtualBox/Vagrant to create a machine that's similar (local/staging/production).
+  - Docker: We have a machine, we have a Project code.
+    - Dockerfile builds a Docker image, it contains the project code, it contains the installation code, and it's the complete application wrapped in a machine. No Ubuntu machine yet, you just build it on top of the virtual machine.
+    - You can run many containers in the machine until you run out of stop.
+    - Docker: You build your environment, and you can run it on any machine that has Docker on it. So you can push it out to "Docker Hub/Quay.io" and any other docker machine can run this code. It's like they are virtual machine but not really.
+  - You build on top of Docker, which is on top of the Host OS, which is on top of the server.
+- Build your image once, push it out, and send it anywhere.
