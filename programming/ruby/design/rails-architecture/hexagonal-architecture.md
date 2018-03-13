@@ -1,0 +1,34 @@
+- [Mistakes with the Repository Pattern](https://programmingwithmosh.com/entity-framework/common-mistakes-with-the-repository-pattern/)
+  - One repository per domain: separate per domain class: `OrderRepository`, `ShippingRepository`, `ProductRepository`.
+  - Returning view models: Your repositories should return domain objects and the client of your repository can decide if it needs to do the mapping.
+  - Saving/updating method in repositories: Do not have a `save()` or `update()` method. Think of a repository as a collection of domain objects in memory. Collections do not have a save or `update()` method. The pattern that comes with this is the `Unit of Work` pattern. After doing the operation, save it with another class.
+  - repositories that return `IQueryable`. You should return domain objects.
+  - The more complex your application grows, the more you may want to consider separating the read and write models, and then eventually, you'll find in CQRS.
+
+- [Q&A with Piotr Solnica.](https://www.rubypigeon.com/posts/questions-and-answers-with-piotr-solnica/)
+  - Dry: Using both OO and FP features. Things to avoid in the Ruby ecosystem: monkey-patching, relying on object mutability. Promote: DI, object composition, type safety.
+  - DI is easier in Ruby than in a statically-typed language like Scala.
+  - Some people just have a certain preference for the DSL they use. ActiveModel vs dry-validation. Control flow in monads?
+  - Making Ruby code more functional has made it simpler and faster. Crucial parts of your system, like data validation/type conversions/error handling.
+  - Composition: when you use callable objects that don't rely on state mutations, it's much easier to compose them. You can change your approach to OO/FP. Two key factors that help me improve the design were moving away from relying on mutable state, and isolating the complexity of object construction via inversion of control containers.
+  - Downside of `dry-rb`: they are small, simple abstractions, and people who are used to more complex, well-integrated frameworks will simply have a steeper learning curve.
+  - No need to change objects, and you can visualize an application as a series of data transformations rather than object interactions, where data is part of state in order to "encapsulate" it.
+  - Instead of: creating an AR instance then saving, you can validate the params, then ask a Repository object to persist valid data.
+  - `dry-struct`, then `dry-validation`.
+
+- Glanced through some TDD things.
+  - [Hexagonal Rails and The Ludicrous Terminal Application](https://content.pivotal.io/blog/hexagonal-rails-and-the-ludicrous-terminal-application).
+    - Very rare to do "swappable data stores and UIs" (though in Daryllxd that's what's happening right now, lol).
+    - More likely, you need to separate domain from persistence since they change for different reasons.
+    - Whenever Rails updates, if you put int business logic in controllers and Ar models, you run the risk of having to change the objects containing the application's business logic.
+    - When you have to change business logic in order to speed of persisting and retrieving data from the data store. When you need to change persistence strategies to accommodate tables, stored procedures, sharding, if you combined business/persistence logic, your business logic will have to change with it.
+    - When business logic gets entangled with the framework, velocity slows, defect rates increase, and developer happiness drops.
+    - Other consumers of the app: Scheduled tasks, jobs, JSON API.
+  - [Hexagonal Architecture for Rails Developers](https://medium.com/@vsavkin/hexagonal-architecture-for-rails-developers-8b1fee64a613)
+    - Modules can be developed and deployed independently.
+    - The application becomes easy to test because the logic that needs to be tested depends neither on the UI of the application nor the database.
+    - Techniques
+      - Case services: A component taht is responsible for the coordination logic we tend to put into our controllers.
+      - Passive controller: No decisions whether the use case it invoke succeeded or failed. It just returns whatever to the outside world.
+      - Adapters: `OrderController` and `OrderRepository`.
+      - The application knows nothing about persistence. It uses repositories to talk to the database.
