@@ -184,7 +184,70 @@
 ### Designing Objects for Relational Databases
 
 - The database doesn't just interact with the objects, it's literally storing the persistent form of the data that makes up the objects themselves.
+- Technically, the relational table design doesn't have to reflect the domain model.
+- When the database is being viewed as an object store, don't let the data model and the object model diverge far, regardless of the powers of the mapping tools.
+- Processes outside the object system should not access an object store. They could violate the invariants enforced by the objects.
 - For the common cases of an RDBMS acting as the persistent form of an object-oriented domain, simple directness is the best. A table row should contain an object. A foreign key in the table should translate to a reference to another entity object.
+- Application layer:
+  - A Tracking Query that can access past and present handling of a particular Cargo.
+  - A Booking Application that allows a new Cargo to be registered and prepares the system for it.
+  - An Incident Logging Application that can record each handling of the Cargo.
+- Distinguishing Entities and Value objects.
+  - If two things must be distinguishable, then they are entities.
+  - Same with locations, two places with the same name are not the same.
+  - Same with Delivery History (although it's directly linked to the cargo).
+  - Delivery specification? Could be a value.
+
+- Aggregate Boundaries
+  - Customer, Location, and Carrier Movement. They have their own identities and are shared by many cargoes.
+  - Cargo: an aggregate root. It takes in things like the Delivery History, Delivery Specification, and Handling Events.
+
+- Things that can happen
+  - Changing the destination of a cargo. This is like a value object change, so it would be simplest to just throw away the older one.
+  - Repeat business. The app allows them to find a Cargo in the repository and then select a command to create a new Cargo based on the selected one. So you need to create an object and persist it.
+
+- Constructors for Cargo
+  - Because a Cargo also needs a delivery history, you can inject a `DeliveryHistory` in the constructor.
+  - `HandlingEvent`: Since you need a cargo, an event type, and a time stamp, you can just put those in the constructor.
+
+### Chapter 9: Making Implicit Concepts Explicit
+
+### Chapter 10: Supple Design
+
+- ***To have a project accelerate as development proceeds, it demands a design that is a pleasure to work with, inviting to change. A supple design.***
+- **Intention-Revealing Interfaces.**
+  - If a developer must consider the implementation of a component in order to use it, the value of encapsulation is lost.
+  - To obtain the value of explicitly modeling a concept in the form of a class or method, we must give those program elements names that reflect those concepts.
+- **Side-Effect-Free Functions.**
+  - Operations are either Queries or Commands. In computer science, this means any effect on the state of the system.
+  - Interactions of multiple rules or compositions of calculations become extremely difficult to predict. The developer calling an operation must understand its implementation and the implementation of all its delegations in order to anticipate the result.
+  - **Operations that return results without producing side effects are called functions.** A function can be called multiple times and return the same value each time.
+  - Place as much of the logic of the program as possible into functions, operations that return results with no observable side effects. Strictly segregate commands into very simple operations that do not return domain information.
+  - **Assertions.**
+    - **When the side effects of operations are only defined implicitly by their implementation, designs with a lot of delegation become a tangle of cause and effect. The only way to understand a program is to trace execution through branching paths.** The value of encapsulation is lost. The necessity of tracing concrete execution defeats abstraction.
+  - **Standalone classes.** Try to factor the most intricate computations into standalone classes.
+  - **Closure of Operations.**
+    - Most interesting objects end up doing things that can't be characterized by primitives alone.
+    - Where it fits, define an operation whose return type is the same as the type of its arguments.
+    - Ex: Java Iterator.
+
+- **Declarative design.**
+  - **This means that a program is a kind of executable specification. A very precise description of properties controls the software.**
+  - Pitfalls:
+    - A declaration language not expressive enough to do everything needed, but a framework that makes it very difficult to extend the software beyond the automated portion.
+    - Code-generation techniques that cripple the iterative cycle by merging generated code into handwritten code in a way that makes regeneration very destructive.
+  - Composite pattern: Things like `AndSpecification`, `OrSpecification`, `NotSpecification`.
+
+### Chapter 11: Applying Analysis Patterns.
+
+### Chapter 12: Relating Design Patterns to the Model.
+
+
+276.
+
+- Stand-alone class?
+- Anti-corruption layer via `AllocationChecker`?
+
 
 
 
