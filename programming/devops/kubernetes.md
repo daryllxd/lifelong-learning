@@ -1,0 +1,6 @@
+# Kubernetes
+
+- Deployment
+- Storing
+- Monitoring
+
