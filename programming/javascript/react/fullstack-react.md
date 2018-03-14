@@ -160,7 +160,6 @@ class Product extends React.Component {
   }
 }
 
-
 ReactDOM.render(
   <ProductList />,
   document.getElementById('content')
@@ -192,9 +191,160 @@ ReactDOM.render(
   - Add server communication.
 - You can do something like not pass something into the `TimerForm` because sometimes, the C and the U forms are the same, but not really.
 
-
-133
-
 ### Components & Servers
 
 - State management of timers takes place in the top-level compound `TimersDashboard`.
+
+```
+// Wrong, getTimers() does not return the list of timers.
+const timers = client.getTimers();
+
+// Do this:
+// getTimers uses the Fetch API.
+// When `getTimers()` is invoked, it fires off the request to the server and then returns control flow immediately. The execution of our program does not wait for the server's response. This is why `getTimers()` is called an asynchronous function.
+client.getTimers((serverTimers) => (
+
+));
+```
+
+```
+class TimersDashboard extends React.Component {
+  state = {
+    timers: [],
+  };
+
+
+  componentDidMount() {
+    this.loadTimesFromServer();
+    // Constantly poll?
+    setInterval(this.loadTimesFromServer, 5000);
+  }
+
+  loadTimersFromServer = () => {
+    client.getTimers((serverTimers) => (this.setState({ timers: serverTimers })))
+
+  };
+};
+```
+
+Timeline:
+
+- **Before initial render.** React initializes the component. `state` is set to an object with the property `timers`, a blank array is returned.
+- **The initial render.** React then calls `render()` on `TimersDashboard`. In order for the render to complete, its children must be rendered.
+- **Children are rendered.** At first, there will be a blank `timers` div.
+- **Initial render is finished.** With its children rendered, the initial render is finished and the HTML is written to the DOM.
+- **`componentDidMount` is invoked.** This calls `loadTimersFromServer`.
+- We use `setInterval()` to ensure `loadTimersFromServer()` is called very 5 seconds.
+
+- Fetch API:
+  - Include the library just in case.
+
+```
+}).then(checkStatus) // defined inside of client.js, just logs errors to the console
+  .then(parseJSON)   // Takes a response object emitted by fetch() and returns a JS object.
+  .then(success);    // This is the function we pass as an argument to getTimers(). getTimers() will invoke this function if the server successfully returned a response.
+```
+
+- Fetch returns a promise. We can then chain `.then()` statements.
+  - Fetch the timers from `/api/timers`, then check the status code returned by the server, then extract the JS object from the response, then pass that object to the success function.
+
+
+```
+// Timer requesting from the API code
+function startTimer(data) {
+  return fetch('/api/timers/start', {
+    method: 'post',
+    body: JSON.stringify(data),
+    headers: {
+      'Accept': 'application/json',
+      'Content-Type': 'application/json'
+    }
+  }).then(checkStatus);
+}
+```
+
+```
+// Timer actually reflecting UI changes code
+
+startTimer = (timerId) => {
+  const now = Date.now();
+
+  this.setState({
+    timers: this.state.timers.map((timer) => {
+      if (timer.id === timerId) {
+        return Object.assign({}, timer, {
+          runningSince: now,
+        });
+      } else {
+        return timer;
+      }
+    });
+  });
+
+  // Optimistic updating. Optimistic that it's a success.
+  client.startTimer(
+    { id: timerId, start: now }
+  );
+};
+```
+
+### JSX and the Virtual DOM
+
+- Virtual DOM: a tree of JS objects that represents the actual DOM. When using the Virtual DOM, we code as if we're creating the entire DOM on every update.
+- (Shadow DOM: A form of encapsulation of elements, ex: video tag is actually a lot of things.)
+- Pieces: a tree of `ReactElements`.
+  - `ReactElement` is a representation of a DOM element in the Virtual DOM.
+
+- `React.createElement()` was created with these arguments:
+  - The DOM element type.
+  - The element props.
+  - The children of the element.
+    - Must be: a `ReactElement`, and array of `ReactNodes`, or a string or number.
+
+- `ReactDOM` constructor third argument: a callback argument that is executed after the component is rendered/updated. `ReactDOM.render(boldElement, mountElement, function() {});`
+- JSX. => Skip
+
+### Advanced Component Configuration with `props`, `state`, and `children`
+
+- A `ReactComponent` is a JS object that, at minimum, has a `render()` function. `render()` is expected to return a `ReactElement`.
+- The goal of a `ReactComponent` is to:
+  - `render()` a `ReactElement`.
+  - Attack functionality to this section of the page.
+
+### Forms
+
+
+### Using Webpack with Create React App (260)
+
+### Unit Testing
+
+### Routings (391)
+
+- Routing involves:
+  - Two primary pieces of functionality: Modifying the location of the app (the URL) and determining what React components to render at a given location.
+- Core components:
+  - For modifying the location of an app, we use links and redirects.
+  - For determining what to render, we use `Route` and `Switch`.
+
+- At the start:
+  - The app doesn't care about the state of the pathname.
+  - No matter what path the browser requests from our server, the server will return the same index.html with the same JS bundle.
+  - **We want this. We want our browser to load React in the same way in each location and defer to React on what to do at each location.**
+  - In the React Router, `Route` is a component that determines whether or not to render a specified component based on the app's location.
+
+
+
+
+
+
+
+
+
+
+
+
+- Fetch API.
+- componentDidMount
+- Ask where I can park at BGC, `Kabisera`.
+- Iron clothes.
+- I actually like the idea of learning things.
