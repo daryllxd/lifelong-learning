@@ -1,4 +1,4 @@
-## Programming Phoenix, Studying Ecto
+# Programming Phoenix, Studying Ecto
 
 - Sample debugging when trying to insert things
 
@@ -31,3 +31,92 @@ end
 - Controller is separate from change policies in the model layer.
 - Model layer has no side effects. (Repo takes care of inserting).
 - Changeset = data structure that tracks changes and their validity.
+
+# Programming Phoenix Chapter 6, Generators/Relationships
+
+- You need to import `Ecto.Query` to actual do query things.
+- Ecto associations are explicit, when you want Ecto to fetch some records, you need to ask.
+- Preloading:
+
+``` elixir
+iex> user = Repo.preload(user, :videos)
+iex> user.videos
+```
+
+# Composable Queries in Ecto
+[Reference](https://blog.drewolson.org/composable-queries-ecto/)
+
+- Querying with Ecto:
+  - Keyword Query
+
+``` elixir
+MyApp.Repo.all(
+  from p in MyApp.Post,
+  select: p
+)
+
+MyApp.Repo.all(
+  from p in MyApp.Post,
+   where: p.published == true,
+  select: p
+)
+MyApp.Repo.all(
+  from c in MyApp.Comment,
+    join: p in assoc(c, :post),
+   where: p.id == 1,
+  select: c
+)
+
+```
+
+  - Query Expressions
+
+``` elixir
+MyApp.Post |> MyApp.Repo.all
+
+MyApp.Post
+|> where([p], p.published == true)
+|> MyApp.Repo.all
+
+MyApp.comment
+|> join(:left, [c], p in assoc(c, :post))
+|> where([_, p], p.id == 1)
+|> select([c, _] c)
+|> MyApp.Repo.all
+```
+
+## Query Compositions
+
+``` elixir
+defmodule MyApp.Post do
+  def published(query) do
+    from p in query,
+    where: p.published == true
+  end
+
+  def sorted(query) do
+    from p in query,
+    order_by: [desc: p.published_at]
+  end
+end
+```
+
+``` elixir
+defmodule MyApp.Comment do
+  # First post query so it's pipe-able
+  def for_post(query, post) do
+    from c in query,
+    join: p in assoc(c, :post)
+    where: p.id == ^post.id
+  end
+
+  def popular(query) do
+    query |> where([c], c.votes > 10)
+  end
+end
+
+recent_popular_comments = Comment
+|> Comment.for_post(last_post)
+|> Comment.popular
+|> MyApp.Repo.all
+```

@@ -202,3 +202,5 @@ defmodule HabitsOne.Repo.Migrations.CreateUser do
   end
 end
 ```
+
+### Chapter 6: Generators and Relationships
