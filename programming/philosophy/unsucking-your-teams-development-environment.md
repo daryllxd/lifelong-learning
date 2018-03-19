@@ -41,4 +41,4 @@ Heaven helps on deploy locking. Once CI passes, lock builds etc. This is importa
 
 *The company.* Take away the bullshit. Just being an employee adds a lot of overhead. Sites, logins, reports, payroll, terms, names, communication. To this this, we try to OAuth everything. We just have people worry about their authentication. Otherwise, we build Helpers. Ex: App called Team. It's a way to tell people what they're working on. It's also a way for users to figure out what they're upset about. You can write a guide, on the first day, you can go through the guide and you get to know what the company is. We have TVs in the office which we plug stuff into and show other people.
 
-*Automate everyting.* We have zero managers because we automate things as much as possible. *Long-term benefit will always outweight short-term cost.*
+*Automate everything.* We have zero managers because we automate things as much as possible. *Long-term benefit will always outweigh short-term cost.*

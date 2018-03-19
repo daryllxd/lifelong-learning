@@ -17,4 +17,3 @@
 - Being a genius, lucky, rich, or famous doesn't make you a master. These things aren't essential to craftsmanship. Skill across all facets of software development and the ability to transmit that skill in ways that move the discipline forward are at the heart of the craft.
 - For a craftsman to starve is a failure; he's supposed to earn a living at his craft.
 - Working with masters is the best way to learn a craft.
-
