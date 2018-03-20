@@ -158,6 +158,8 @@
 
 ***Repository***: Represents all objects of a certain type as a conceptual set (usually emulated). It acts like a collection, except with more elaborate querying capability. Objects of the appropriate type are added and removed, and the machinery behind the repository inserts them or deletes them from the database.
 
+- Query objects: pull the exact data they need from the database, or to pull a few specific objects rather than navigating from aggregate roots. Domain logic moves into queries and client code, and the entities and value objects become mere data containers.
+
 - Clients request objects from the repository using query methods that select objects based on criteria specified by the client, typically the value of certain attributes. They can choose to implement a variety of queries that select, return summary information/count/calculations.
 
 `client → (selection criteria/What do I need?) → repository → delegate (Encapsulates database access, technology, strategy.) → Metadata, factories, other repositories?`
@@ -242,27 +244,53 @@
 
 ### Chapter 12: Relating Design Patterns to the Model.
 
+- Strategy:
+  - Domain concept: the ability to express a concept, usually a process or a policy rule.
+- Composite:
+  - Treating objects and compositions of objects uniformly.
 
-276.
+### Chapter 13: Refactoring Toward Deeper Insight
 
-- Stand-alone class?
-- Anti-corruption layer via `AllocationChecker`?
+## Part IV: Strategic Design
 
+- The challenge: accomplish modularity without losing the benefits of integration.
+- Context: a successful model has to be logically consistent throughout, without contradictory or overlapping definitions.
+- Distillation: reduces the clutter and focuses attention appropriately.
+- Large-scale structure. Responsibility layers to explore the implications of using such a structure.
 
+### Chapter 14: Maintaining Model Integrity
 
+- Explicitly define the context within which a model applies.
+- A bounded context delimits the applicability of a particular model so that team members have a clear and shared understanding of what has to be consistent and how it relates to other contexts.
+- **The bounded context is made up of all those aspects of the system that are driven by this particular model: the model objects, the database schema that persists the model objects, and the booking application.**
+- Problems with combining elements of distinct models:
+  - Duplicate concepts: These need to be updated twice.
+  - False cognates: When two people think they are talking about the same term when they're not.
 
-`intellisense` for ruby
+#### Continuous Integration
 
+- CI means that all work within the context is being merged and made consistent frequently enough that when splinters happen, they are caught and corrected quickly.
+- Effective CI:
+  - A step-by-step, reproducible merge/build technique.
+  - Automated test suites.
+  - Rules that set some reasonably small upper limit on the lifetime of unintegrated changes.
 
+####  Relationships Between Bounded Contexts
 
+#### Anti-corruption Layer
 
+- Create an isolating layer to provide clients with functionality in terms of their own domain model. The layer talks to the other system through its existing interface.
+- Implemented with Facades and Adapters.
 
+#### Open Host Service
 
+#### Published Language
 
+#### Transformations
 
-- Query objects: pull the exact data they need from the database, or to pull a few specific objects rather than navigating from aggregate roots. Domain logic moves into queries and client code, and the entities and value objects become mere data containers.
+### Chapter Fifteen. Distillation
 
+### Chapter Sixteen and Seventeen.
 
-
-
+- A bit too corporate-y/big systems architecture. I really can't apply it yet.
 
