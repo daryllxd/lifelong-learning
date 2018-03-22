@@ -690,3 +690,54 @@ We now have a fully functional wrapper for any document:
     real_doc = Document.new( 'Hare & Tortoise', 'Aesop', text )
     wrapper_doc = DocumentWrapper.new( real_doc )
 
+## Chapter 23: Use `method_missing` to Build Flexible APIs
+
+- Adding `method_missing` handlers muck up `respond_to?` methods.
+
+## Chapter 24: Updating Existing Classes with Monkey Patching
+
+- Not really a fan, but you can reference the old method with the new like this:
+
+``` ruby
+alias_method :old_addition, :+
+
+def +(other)
+  ...
+  old_addition(other)
+end
+```
+
+``` ruby
+class Document
+  private :word_count
+  public :word_count
+  remove_method :word_count # Why
+end
+```
+
+- Example: ActiveSupport adds `blank?`, `squish!`.
+  - Squish lives in `ActiveSupport::CoreExtensions::String::Filters` and makes its way into `String` when it's monkey-patched in via `include`.
+
+## Chapter 25: Create Self-Modifying Classes
+
+- Not a fan.
+
+## Chapter 26: Create Classes That Modify Their Subclass
+
+- This is probably how `attr_reader` and `attr_writer` works.
+- Check out `forwardable.rb`.
+
+## Chapter 27: Invent Internal DSLs
+
+## Chapter 28: Build External DSLs for Flexible Syntax
+
+## Chapter 29: Package Your Programs as Gems
+
+## Chapter 30: Know Your Ruby Implementation
+
+- MRI: By Matz.
+- YARV.
+- JRuby: For the JVM.
+- Rubinius: An implementation of Ruby written in Ruby.
+- IronRuby: .Net.
+- Cardinal: A Ruby implementation that runs on Parrot.
