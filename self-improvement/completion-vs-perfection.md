@@ -14,4 +14,3 @@
 - ***Perfectionists fear the negative aspects of success.***
 - I intentionally write articles that I expected would generate mostly negative feedback. I wrote them partly as an act of courage for myself, so I could get past any lingering fears regarding negative feedback.
 - By playfully embracing the negative aspects of success, I actually invited more of the positive aspects into my life as well.
-
