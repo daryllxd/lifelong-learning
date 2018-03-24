@@ -104,4 +104,152 @@
 ## Is It Possible to Do Hard Work in a Cubicle?
 
 - The opportunity doesn't feel necessarily like an opportunity. Volunteering to do emotional labor is a difficult choice.
-- The act of giving someone a smile, connecting to a human
+- The act of giving someone a smile, connecting to a human, taking initiative-these are things that we do for free all our lives.
+- Artists: He takes the work personally, and he doesn't care if someone disagrees.
+  - His art is part of him, and he feels compelled to share it with you because it's important, not because he expects you to pay him for it.
+  - ***Art is a personal gift that changes the recipient.*** The medium doesn't matter. The intent does.
+  - An artist is an individual who creates art. The more people you change, the more you change them, the more effective your art is.
+  - Art is not related to craft, except to the extent that the craft helps deliver the change.
+- A day's work for a day's pay.
+  - Are you really willing to sell yourself out so cheap? Do you mortgage an entire day for a few bucks? The moment you are willing to sell your time for money is the moment you cease to be the artist you're capable of being.
+  - Is that it? Is that transaction over?
+- ***The core thing would be just do something awesome. A lot of things are evolutionary, and it's easy to get caught up in what the geek subculture wants. There's lots of valuable businesses that can be built.***
+- ***Nobody cares how hard you worked. It's an effort contest, it's an art contest. Where it's made or how difficult it was to make is sort of irrelevant. That's why emotional labor is much more valuable than physical labor.***
+
+- Passion is caring enough about your art that you will do almost anything to give it away, to make it a gift, to change people.
+- Part of the passion is having the persistence and resilience to change both the art and the way you deliver it.
+- ***Everyone has been a genius at least once. Everyone has winged it, invented, and created their way out of a jam at least once.***
+
+## The Resistance
+
+- The greatest shortage in our society is an instinct to produce. To create solutions and hustle them out the door. To touch the humanity inside and connect to humans in the marketplace.
+- The only purpose of starting is to finish, and while the projects we do are never really finished, we must ship.
+- Thrashing
+  - The close a project gets to completion, the fewer changes are permitted.
+  - Force all the thrashing at the beginning.
+- Daemon: A separate being inside each of us. The genius living inside of us would struggle to express itself in art or writing or some other endeavor.
+  - Why is there no engineering block? Artistry leads to anguish. Anguish is caused by the clash between the daemon and the resistance. Society pushes artists to be geniuses, as opposed to encouraging artists to allow the genius within to flourish.
+
+### The Brain
+
+- Brainstem: Breathing, unconscious survival functions.
+- Limbic system: The lizard brain. Anger, revenge, sex, fear.
+- Cerebellum: Coordination and motor control.
+- Cerebrum: Newest and sophisticated part, also the one overruled by the other brain parts.
+  - Frontal lobe: reasoning, planning, parts of speech, movement, problem solving.
+  - Parietal lobe: movement, orientation, recognition, perception of stimuli.
+  - Occipital lobe: eyesight.
+  - Temporal lobe: hearing, memory, speech.
+- Deadlines: They have to push through the fear of completion by pitting the fear of failure against it.
+- Cog workers have freedom, so they don't wrestle much with resistance.
+- Public speaking: the three biological factors that drive job performance and innovation are:
+  - Social intelligence: need to make an emotional connection with people.
+  - Fear response: surrounded by strangers or people of power.
+  - Perception: exposes how we see things.
+- ***Look for the fear.*** Fear is the most important emotion we have.
+  - We check Twitter because of our fear of being left out.
+  - We buy expensive handbags for the same reason.
+  - If you don't have a map, you'll use someone else's map.
+
+### Symptoms of the Lizard Brain
+
+- Don't ship on time, late is the first step to never.
+- Procrastinate, claiming that you need to be perfect.
+- Ship early, sending out defective ideas, hoping they will be rejected.
+- Suffer anxiety about what to wear to an event.
+- Make excuses involving lack of money.
+- ...
+- Any direction you go instead of the direction that succeeds is the work of the resistance.
+
+### Classic Resistance Quotes
+
+- I don't have any good ideas.
+- I don't know what to do.
+- I didn't graduate from.
+- My boss won't let me.
+- Well, that's fine for you, but my gender, race, health, etc. don't make it easy.
+
+### The Cult of Done
+
+- Three states of being: Not knowing, action, and completion.
+- Everything is a draft. It helps to get it done.
+- There is no editing stage.
+- Pretending you know what you're doing is almost the same as knowing what you are doing, so accept that you know what you're doing even if you don't and do it.
+- Banish procrastination. If you wait more than a week to get an idea done, abandon it.
+- The point of being done is not to finish but to get other things done.
+- Once you're done, you can throw it away.
+- Laugh at perfection. It's boring and keeps you from being done.
+- People without dirty hands are wrong. Doing something makes you right.
+- Failure counts as done. So do mistakes.
+- Destruction is a variant of done.
+- If you have an idea and publish it on the Internet, that counts as a ghost of done.
+- Done is the engine of more.
+
+- Your work is to do the work, not to do your job. Your job is about following instructions; the work is about making a difference. Your work is to ship. Ship things that make change.
+- When you feel the resistance, know that you're on to something. Whichever the way the wind of resistance is coming from, that's the way to head--directly into the resistance.
+- ***The Internet is Crack Cocaine for the Resistance.***
+- Where do you hide your brilliance? You might actually be able to write a book or make a movement or something.
+
+- How I make stuff
+  - Write down the due date. You will ship on this date, done or not.
+  - Write down cool ideas then ask people to fight those ideas.
+  - Build a description of the project.
+  - Do it.
+
+### The Powerful Culture of Gifts
+
+- No one washes a rental car before they return it. Avis is not a member of our tribe.
+
+### There Is No Map
+
+### Making the Choice
+
+- If your agenda is set by someone else and it doesn't lead you where you want to go, why is it your agenda?
+- Just add the cowbell. If you're playing the cowbell, like really play it!
+- Linchpins don't need authority. Authority matters in the factory, not in your world. Real change happens when someone who cares steps up and takes what feels like a risk. People follow because they want to, not because you order them to.
+- How does a linchpin work?
+  - Hire plenty of factory workers.
+  - Find a boss who can't live without a linchpin. Find a boss who values your scarcity and your contribution.
+
+#### Ishita's Meditation
+
+- Choose to change your perspective.
+- Choose to flip the switch in your mind.
+- Choose to do your work and be free of distraction.
+- Choose to see the best in someone, or choose to bring out the worst in them.
+- Choose to be a laser beam, with focused intention.
+
+- ***The good news is that plenty of people are happy to stomp the roaches for you. Your job is to hire someone to clean your brushes, organize your papers, and clear the way. Your job is to make art the best way you can, to change the status quo, and to become indispensable. If you burn out along the way, you're not doing anyone a favor.***
+- You have to put in the work, but hours aren't enough.
+- ***Dignity is more important than wealth. We all need "enough". But once we have enough, what we crave is dignity.***
+
+## The Culture of Connection
+
+- If you can't sell your ideas, your ideas go nowhere. And if you lie about your ideas, we will know and we'll reject them.
+
+- Elements of Personality
+  - Openness
+  - Conscientiousness
+  - Extraversion
+  - Agreeableness
+  - Emotional stability
+
+- Dialogue is expensive. It takes a lot of processing power to absorb all these signals, compose a response, and broadcast it back.
+
+## The Seven Abilities of the Linchpin
+
+- Providing a unique interface between members of the organization.
+  - What holds that network together?
+  - If it's just the salary and each person's fear of losing his job, then you've lost.
+  - Linchpins help lead and connect people in the organization, actively and with finesse.
+  - The organization also includes customers and prospects.
+- Delivering unique creativity.
+  - ***Unique creativity: domain knowledge, a position of trust, and the generosity to actually contribute.***
+- Managing a situation or organization of great complexity.
+  - You don't have a manual.
+- Leading customers.
+- Inspiring staff.
+  - Understanding that your job is to make something happen changes what you do all day. If you can only cajole, not force, it you can only lead, not push, then you make different choices.
+- Providing deep domain knowledge.
+- Possessing a unique talent.
+- No regrets: That's really smarter than no fear.
