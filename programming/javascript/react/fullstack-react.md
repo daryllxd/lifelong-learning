@@ -349,103 +349,299 @@ startTimer = (timerId) => {
 
 - The `Redirect` component is a cousin of `Link`. `Redirect` will immediately modify the location.
 - To `Redirect`, just render a `Redirect` component.
-- `componentWillUnmount()` later.
+- `componentWillUnmount()` clears the Interval
+- Ternary inside JSX is common in React. We can't embed multi-line statements like an `if/else` clause inside our JSX.
 
-
-
-
-
-
-
-
-
-- Fetch API.
-- componentDidMount
-
-
-## Redux
-[Reference](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree)
-
-- Everything in your application, both in the data and the UI state, which we call the state, or the state tree.
-- The straight tree is read-only. You need to dispatch an action to change it. The action is the minimal representation of the change of the data.
-  - Things to change: type which is a string. What do we need to describe these change?
-  - Adding or removing a counter: just "INCREMENT."
-  - Adjusting a counter: You need to have an index to know which counter in addition to "`ADD_COUNTER`"/.
-- Pure vs Impure functions.
-  - Pure: no observable side effects, such as network or database calls.
-- State mutations in your app need to be described that takes in the previous state and the action being dispatched and returns the next state of your application.
-  - There is one function that does this. You must not modify the state that is given to it. Even in large apps, there is a big function that calculates the state. Changing a part of the state should not change other parts of the state which don't need it. **This function is called the reducer.**
-- Things get easier to test in Redux I think, because of the pure functions?
-- Defining the initial state?
-   - The convention is that if you receive a state of `undefined`, it returns the state of the application.
+#### Code without react-router
 
 ``` js
-function counter(state, action) {
-  if (typeof state === 'undefined') {
-    return 0;
-  }
-}
-```
+import React from 'react';
 
-``` js
-// Cleaner
+import createHistory from 'history/createBrowserHistory';
+import PropTypes from 'prop-types';
 
-const counter = (state = 0, action) => {
-  switch(action.type) {
-    case 'INCREMENT':
-      return state + 1;
-    case 'DECREMENT':
-      return state - 1;
-    default:
-      return state;
-  }
-}
-```
+// If we're initializing `history` inside of `Router`, we can remove this declaration
+// const history = createHistory();
 
-``` js
-const createStore = Redux;
+class Router extends React.Component {
+  // JavaScript classes: static
+  // this keyword allows us to define a property on the class Router itself, as opposed to instances of Router
+  // Same as Router.childContextTypes = { ... }
+  static childContextTypes = {
+    history: PropTypes.object,
+    location: PropTypes.object
+  };
 
-const store = createStore(counter);
-```
-
-
-
-
-
-``` js
-// Communicating from child to parent
-class ParentComponent extends React.Component {
+  // Subscribe to history
   constructor(props) {
-    super(props)
-    this.state = { count: 0 }
+    super(props);
+
+    this.history = createHistory();
+    this.history.listen(() => this.forceUpdate());
   }
 
   getChildContext() {
-    return { foo: 'bar' };
+    return {
+      history: this.history,
+      location: window.location
+    };
   }
 
-  swaggy = () =>  {
-    this.setState( (prevState) => {
-      return { count: prevState.count + 1 }
-    })
-    console.log(this.state.count);
+  // This actually just means that you do literally nothing except the routing, but you also render the children underneath
+  render() {
+    return this.props.children;
   }
-
-  render () {
-    return <ChildComponent letMeKnowAboutSomeThing={this.swaggy} />;
-  }
-};
-
-ParentComponent.childContextTypes = {
-  foo: PropTypes.string,
 }
 
-const ChildComponent = (props, context) => {
-  const onClick = e => {
-    e.preventDefault();
-    props.letMeKnowAboutSomeThing();
+// Use ES6 destructuring syntax to extract out two props, path and component, from the arguments
+// This is triggered twice, once for Atlantic and once for Pacific
+const Route = ({ path, component }, { location }) => {
+  // Grab the location from the window
+  const pathname = location.pathname;
+  if (pathname.match(path)) {
+    // Since dynamic variable, you can use the React.createElement() vs JSX.
+    return React.createElement(component)
+  } else {
+    return null;
+  }
+};
+
+Route.contextTypes = {
+  location: PropTypes.object,
+}
+
+// Cool link implementation
+// We have history in the parent Router element. So we need to access that and we use JS destructuring. Must explicitly include history in the contextTypes
+const Link = ({ to, children }, { history }) => (
+  <a
+    onClick={(e) => {
+      // We add the preventDefault because we have a href at the bottom
+      e.preventDefault();
+      // Trigger the history API to push the noe location onto the browser's history stack.
+      history.push(to);
+      // We still set up the href so the user can hover over the links and see where they lead, also to open new tabs
+    }}
+    href = {to}
+  >
+    {children}
+  </a>
+);
+
+Link.contextTypes = {
+  history: PropTypes.object,
+}
+
+class App extends React.Component {
+  // While Link is updating the location of the browser, our React app is not alerted of the change. So we trigger a re-render whenever the location changes.
+  componentDidMount() {
+    // history.listen(() => this.forceUpdate());
+  }
+
+  render() {
+    return (
+      <Router>
+        <div
+          className='ui text container'
+        >
+          <h2 className='ui dividing header'>
+            Which body of water?
+          </h2>
+
+          <ul>
+            <li>
+              {/* A href here means that you actually go to the server. This is unneeded because we are using a SPA. */}
+              {/*<a href='/atlantic'>*/}
+                <Link to='/atlantic'>
+                  <code>/atlantic</code>
+                </Link>
+              </li>
+              <li>
+                <Link to='/pacific'>
+                  <code>/pacific</code>
+                </Link>
+              </li>
+            </ul>
+
+            <hr />
+
+            <Route path='/atlantic' component={Atlantic} />
+            <Route path='/pacific' component={Pacific} />
+          </div>
+        </Router>
+    );
+  }
+}
+
+const Atlantic = () => (
+  <div>
+    <h3>Atlantic Ocean</h3>
+    <p>
+      The Atlantic Ocean covers approximately 1/5th of the
+      surface of the earth.
+    </p>
+  </div>
+);
+
+const Pacific = () => (
+  <div>
+    <h3>Pacific Ocean</h3>
+    <p>
+      Ferdinand Magellan, a Portuguese explorer, named the ocean
+      'mar pacifico' in 1521, which means peaceful sea.
+    </p>
+  </div>
+);
+
+export default App;
+```
+
+#### Using `react-router`
+
+``` js
+
+import {
+  BrowserRouter as Router, // Used to separate from routers included in other environments
+  Route,
+  Link,
+  Redirect,
+} from 'react-router-dom'
+
+```
+
+- The router: Any number of components might match a given location and they will all render.
+- `<Route exact={true} path='/' render ...>` is the same as `<Route exact />`
+- `Switch`?
+
+#### Music App
+
+- Go back to this Later
+
+## Part II
+
+### Intro to Flux and Redux
+
+- The pain point: tight coupling between user interactions and state changes. For complex web applications, a single user interaction can affect many different/discrete parts of the state.
+- Flux
+  - The view dispatches actions that describe what happened. The store receives these actions and determines what state changes should occur. After the state updates, the new state is pushed to the View.
+  - React notifies the Store that "the user clicked on an email".
+- Benefits
+  - Break up state management logic: Flux relieves the top-level component of state management responsibility and allows you to break up state management into isolated, smaller, and testable parts.
+  - React components are simpler: by managing all state externally, React components become simple HTML rendering functions.
+  - Mismatch between the state and DOM tree.
+
+### Redux's Key Ideas
+
+- All of your application's data is in a single data structure called the state which is held in the store.
+- Your app reads the state from this store.
+- The state is never mutated directly outside the store.
+- The views emit actions that describe what happened.
+- A new state is created by combining the old state and the action by a function called the reducer.
+- For a store with a current state of `5`, if you receive an increment action, the store will use its reducer to derive the next state.
+- Actions in Redux are objects, which always have a `type` property.
+
+``` js
+{ type: 'INCREMENT' }, { type: 'DECREMENT' }
+```
+
+
+``` js
+function reducer(state, action) {
+  if (action.type === 'INCREMENT') {
+    return state + action.amount;
+  } else if (action.type === 'DECREMENT') {
+    return state - action.amount;
+  } else {
+    return state;
+  }
+}
+```
+
+### The Store
+
+- The store is responsible for both maintaining the state and accepting actions from the view. Only the store has access to the reducer.
+- The Redux library provides a function for creating stores, `createStore()`.
+- Our methods when we implement store:
+  - `dispatch`: the method we use to send the store actions
+  - `getState`: The method we'll use to read the current value of `state`.
+
+``` js
+// We take in the reducer as an argument.
+function createStore(reducer) {
+  // Then we initialize the initial state via let. `state` is private and inaccessible outside of this function.
+  let state = 0;
+
+  // This fucntion grants access to the state from outside createStore()
+  const getState = () => (state);
+
+  // This tells the reduce what's going to happen
+  // WE DO NOT RETURN THE STATE, because dispatching actions in Redux are fire and forget.
+  // Dispatching actions is decouples from reading the latest version of the state.
+  const dispatch = (action) => {
+    state = reducer(state, action);
   };
 
-  return <a onClick={onClick}>Click me!</a>;
-};
+  return {
+    getState,
+    dispatch,
+  };
+}
 ```
+
+### The Factory Pattern
+
+- `value` is a private variable. This lives on between function calls.
+- `value` is only accessible to functions inside the factory.
+
+``` js
+
+function createAdder() {
+  let value = 0;
+
+  const add = (amount) => (value = value + amount);
+  const getValue = () => (value);
+
+  return {
+    add,
+    getValue,
+  }
+}
+```
+
+### The Core of Redux
+
+- All of our application's data is in a single data structure called the state which is held in the store.
+- Your app reads the state from this store.
+- The state is never mutated directly outside the store.
+- The views emit actions that describe what happened, using `dispatch()`.
+-  A new state is created by combining the old state and the action by a function called the reducer.
+- Inside of `dispatch()`, our store uses `reducer()` to get the new state, passing in the current state and the action.
+
+``` js
+// Pass argument to event handlers [Reference](https://reactjs.org/docs/handling-events.html#passing-arguments-to-event-handlers)
+
+onChange = (name, e) => {
+  // ES6 way of dynamic keys [Reference](https://stackoverflow.com/questions/11508463/javascript-set-object-key-by-variable)
+  this.setState({
+    [name]: e.target.value,
+  })
+};
+
+<input
+  onChange={(e) => this.onChange('name', e)}
+  value={this.state.name}
+  type='text'
+/>
+```
+
+### Subscribing to the store
+
+- We use the observer pattern to allow the views to immediately update when the state changes. The views will register a callback function that they would like to be invoked when the state changes.
+- After the `app` has been mounted, it would subscribe a function in the app's `subscribe()` method as a listener.
+- Then when store calls `dispatch()`, it iterates through the listeners in `subscribe` and triggers each callback function.
+
+- When Redux manages state, top-level React components will use `store.getState()` as opposed to `this.state` to drive their `render()` functions. The state provided by Redux will trickle down from there.
+- Lower-level components can dispatch actions in response to events that should modify state.
+
+- For keeping the state from the bottom-level component:
+  - Set an initial state as well as the `onChange` handler function.
+- Could we have kept the component state in Redux's store? Yes.
