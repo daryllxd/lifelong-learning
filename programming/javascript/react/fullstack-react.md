@@ -645,3 +645,231 @@ onChange = (name, e) => {
 - For keeping the state from the bottom-level component:
   - Set an initial state as well as the `onChange` handler function.
 - Could we have kept the component state in Redux's store? Yes.
+
+``` js
+// Final JS from this chapter
+import React from 'react';
+
+function createStore(reducer, initialState) {
+  let state = initialState;
+  const listeners = [];
+
+  // Listeners can subscribe to the store here
+  const subscribe = (listener) => (
+    listeners.push(listener)
+  );
+
+  const getState = () => (state);
+
+  // Notify listeners that the state has changed
+  const dispatch = (action) => {
+    state = reducer(state, action);
+    listeners.forEach(l => l(action));
+  };
+
+  // This makes it possible for a createStore to call these functions outside
+  return {
+    subscribe,
+    getState,
+    dispatch,
+  };
+}
+
+function reducer(state, action) {
+  if (action.type === 'ADD_MESSAGE') {
+    // We return a new value. Reducers must be a pure function. This does not alter `state, instead it returns a new one.
+    return {
+      messages: state.messages.concat({ name: action.message.name, value: action.message.value }),
+    };
+  } else if (action.type === 'DELETE_MESSAGE') {
+    // Same here, we return a new array
+    return {
+      messages: [
+        ...state.messages.slice(0, action.index),
+        ...state.messages.slice(
+          action.index + 1, state.messages.length
+        ),
+      ],
+    };
+  } else {
+    return state;
+  }
+}
+
+const initialState = { messages: [] };
+
+const store = createStore(reducer, initialState);
+
+class App extends React.Component {
+  componentDidMount() {
+    store.subscribe((a) => {
+      if(a !== undefined) {
+        console.log(a);
+      }
+
+
+      this.forceUpdate();
+    }
+    )
+  }
+
+  render() {
+    const messages = store.getState().messages;
+
+    return (
+      <div className='ui segment'>
+        <MessageView messages={messages} />
+        <MessageInput />
+      </div>
+    );
+  }
+}
+
+class MessageInput extends React.Component {
+  // This component has its own state
+  state = {
+    name: '',
+    value: '',
+  };
+
+  // A change to itself modifies the internal state
+  onChange = (name, e) => {
+    this.setState({
+      [name]: e.target.value,
+    })
+  };
+
+  // Submitting means sending a state change to the dispatcher and then wiping its own state
+  handleSubmit = () => {
+    store.dispatch({
+      type: 'ADD_MESSAGE',
+      message: { name: this.state.name, value: this.state.value },
+    });
+    this.setState({
+      name: '',
+      value: '',
+    });
+  };
+
+  render() {
+    return (
+      <div className='ui input'>
+        <input
+          onChange={(e) => this.onChange('name', e)}
+          value={this.state.name}
+          type='text'
+        />
+        <input
+          onChange={(e) => this.onChange('value', e)}
+          value={this.state.value}
+          type='text'
+        />
+        <button
+          onClick={this.handleSubmit}
+          className='ui primary button'
+          type='submit'
+        >
+          Submit
+        </button>
+      </div>
+    );
+  }
+}
+
+class Message extends React.Component {
+  render() {
+    return (
+      <span>
+        <strong>{this.props.name}: </strong>
+        {this.props.value}
+      </span>
+    );
+  }
+}
+
+class MessageView extends React.Component {
+  handleClick = (index) => {
+    store.dispatch({
+      type: 'DELETE_MESSAGE',
+      index: index,
+    });
+  };
+
+  render() {
+    const messages = this.props.messages.map((message, index) => (
+      <div
+        className='comment'
+        key={index}
+        onClick={() => this.handleClick(index)}
+      >
+        <Message name={message.name} value={message.value} />
+      </div>
+    ));
+    return (
+      <div className='ui comments'>
+        {messages}
+      </div>
+    );
+  }
+}
+
+export default App;
+```
+
+## Intermediate Redux
+
+- `import { createStore } from 'redux';` to use Redux's actual `createStore` class.
+- `import uuid from 'uuid';`
+
+- Message threads
+- Initial state:
+
+``` js
+{
+  activeThreadId: ...
+  threads: [
+    {
+      id: (thread_id),
+      title: 'Buzz',
+      messages: [
+        { text: ..., timestamp: ..., id: ... },
+        { text: ..., timestamp: ..., id: ... }
+      ]
+    }
+
+  ]
+}
+
+return {
+  ...state,
+  threads: [
+    ...
+  ,
+};
+```
+
+### Reducer composition
+
+``` JS
+function reducer(state, action) {
+  return {
+    // We only pass the part of the state that this reducer is responsible for
+    activeThreadId: activeThreadIdReducer(state.activeThreadId, action),
+    threads: threadsReducer(state.threads, action),
+  };
+}
+
+function activeThreadIdReducer(state, action) {
+  if (action.type === 'OPEN_THREAD') {
+    return action.id;
+  } else {
+    return state;
+  }
+}
+```
+
+- We'll figure this out later lol.
+
+### Defining the Initial State in the Reducers
+
+- ???
