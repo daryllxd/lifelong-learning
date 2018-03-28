@@ -107,3 +107,37 @@ end
   - Empty class definition = false
   - Non-empty class definition = the same value as the last value they contain
   - Method definitions are false, even if what they return is a true value
+- Method checking:
+  - `obj.private_methods`, `obj.public_methods`, `obj.protected_methods`...
+
+## 8: Strings, symbols, and other scalars
+
+- `&Q{}` generates a double-quoted string.
+- Symbols and their uses.
+  - Immutable.
+  - Unique.
+  - Internally, Ruby uses symbols to keep track of all the names it's created for variables, methods, and constants. `Symbol.all_symbols`.
+
+## 9: Collection and container objects
+
+## 10: Enumerable and Enumerator
+
+- Hashes iterate through a hash one key/value pair at a time.
+- `Enumerable#grep`: `enumerable.grep(expression) {|item| ... }`
+  - `enumerable.select {|item| expression === item}.map {|item| ... }`
+- Lazy evaluation:
+  - `names.each_slice(2)`, since this returns an enumerator, you can then invoke
+
+## 11: Regular Expressions
+
+## 12: File, I/O, and System Operations
+
+## 13: Object Individuation
+
+## 14: Callable and Runnable Objects
+
+- Anonymous functions: the `Proc` class.
+- Callable objects:
+  - Methods.
+  - `Proc` objects.
+  - Lambdas.
