@@ -35,3 +35,8 @@
     - Limited reusability because you always take into account the current state of the codebase.
   - Terraform/CloudFormation/SaltStack/Puppet: Declarative, specify the end state.
     - Problem: Since declarative/no full programming language, the expressive power is limited.
+
+# [Useful Gist](https://gist.github.com/jaceklaskowski/bd3d06489ec004af6ed9)
+
+~
+

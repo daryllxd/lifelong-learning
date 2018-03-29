@@ -8,57 +8,20 @@ Stack: Ruby 1.9.3, PG, Redis
 # Reliably Deploying Rails Applications
 
 # Part 1: Chef
-==================================================
-
-## Chef
-
-- How best to install Ruby
-- Using Monit to ensure everything runs smoothly
-- Basic security precautions
-- Firewall management with UFW
-- Managing users and public keys
-- Creating and populating databases
-- Setting up Redis and common gotchas
-- Setting up Memcached
-
-## Capistrano
-
-- What should be managed by Cap vs. Chef
-- Creating simple/modular Cap recipes
-- Avoiding falling foul of `$PATH`
-- Dealing with `Virtualhost` files
-- Managing SSL certificates
-- Configuring Unicorn
-- Zero Downtime Deployment & Gotchas
-- Log Rotation
-- Copying databases between environments
-- Managing Cron jobs with `Whenever`
-- Managing background jobs with `Sidekiq`
 
 ## Stack
 
-- Ubuntu 12.04 LTS - Popular because of the level of community support.
-- Nginx - High performance, small memory footprint. Memory usage is predictable, even under heavy loads.
+- Ubuntu 16.04 LTS - High level of support/very common.
+- Nginx - High performance, small memory footprint. Event driven architecture, memory usage is predictable, even under heavy loads.
 - Unicorn - Web HTTP server for rack applications. When requests come into the server, they are handled by Nginx which then passes them back to Unicorn which runs the rails application and returns the response.
+- PostgreSQL: Native JSON support.
 - Ruby - Ruby 2.0.x, rbenv because its operation is simple to understand and troubleshoot.
-- Redis - Fast key value store. It's great and fast for things like caching and api rate limiting.
+- Redis - Fast key value store. Caching/API rate limiting.
 - Memcached - Similar to Redis but entirely in memory. Great for caching.
-
-## Chef Definitions
-
-Simplest way? Login via SSH, `apt-get` the packages you need, edit config files with Vim and add a few custom package sources where newer versions are needed, when something new is needed you SSH back in, install/upgrade a package, build the server in layers. There's a text file somewhere with "all the commands you need" written down.
-
-### Pitfalls of SSH:
-
-- Hard to keep track of what you've done.
-- It's slow and expensive. *Even if an engineer does this, his time is better spent working on the produt itself.*
-- It doesn't scale. Having an engineer type in a list of commands might hold together, but expand that to more servers and the cracks will soon start to show.
 
 ### Automation
 
-We want to take the manual processes and automate them. *As a general rule, any long process which I'd expect to repeat more than once or twice a year in the life-cycle of deploying and managing I try and automate.*
-
-If you're doing anything which involves running more than one command or sshing into a remote server more than once in a month, it's probably worth stopping and thinking "how can I automate this?"
+- If you're doing anything which involves running more than one command or sshing into a remote server more than once in a month, it's probably worth stopping and thinking "how can I automate this?"
 
 Automating server deployments not only makes disaster recovery easier, it makes the creation of accurate test and staging environments easier, making the testing of new deployments easier and more efficient and so decreasing downtime.
 
@@ -66,17 +29,63 @@ Automating server deployments not only makes disaster recovery easier, it makes 
 
 ### Tools for automating provisioning
 
-*Chef:* Automation platform made by Opscode which uses a ruby DSL to represent the commands required to provision a server in a reusable format.
+- Chef = hub/spoke style arrangement, central Chef server.
+- For smaller setups: `chef-solo` lets you use your local development workstation to define server roles and configurations and then manually apply these configurations to servers as and when we need to.
+- *Knife:* Knife is the CLI that provides the interface between a local chef repository and a remote server.
 
-With chef you can define the steps required to configure a server to fulfill a role: Rails app server, database server, then apply combinations of these roles to a particular remote machine.
+### Minimal workflow
 
-Chef = hub/spoke style arrangement. A central chef server "knows" the roles that a large number of other servers should have applied to them, if you update the role, the changes are applied to all of those servers automatically.
+- Use Knife to tell Chef Server to `bootstrap` a node. This means installing Chef Client on the remote node and creating a node definition file for that node on the Chef server.
+- Use Knife to tell Chef Server that we want certain "recipes" or "roles" added to the "run list".
+- Use Knife to set "attributes" on our node which customizes how the recipes in our "run list" behave.
+- Use Knife to upload our Cookbooks to the Chef Server.
+- Use Knife to tell Chef Server to "converge" our node.
+- Chef Server will then connect to the Chef Client on the target node, copy across the relevant cookbooks and have Chef Client execute them.
 
-*This is overly complicated if we're just looking at managing 1-10 servers.* `chef-solo` lets you use your local development workstation to define server roles and configurations and then manually apply these configurations to servers as and when we need to.
+- WTF DOES ohai DO?
+- Fixing chef problems: update the thing.
+- `berks update postgresql`
 
-*Knife:* Knife is the CLI that provides the interface between a local chef repository and a remote server.
+``` bash
 
-*Berkshelf:* Bundler for recipes.
+$ knife node run_list add NODE_NAME 'role[server],role[nginx-server],role[postgres-server],role[rails-app],role[redis-erver]`
+$ openssl passwd -1 "plaintextpassword"
+$ knife node edit NODE_NAME # Opens vim and edits the node
+$ knife data_bag
+
+# Applying configuration to the node
+$ knife zero converge name:NODE_NAME --ssh-user root (ubuntu?)
+```
+
+```
+// Sample data_bag
+{
+  "name": "data_bag_item_users_deploy",
+  "json_class": "Chef::DataBagItem",
+  "chef_type": "data_bag_item",
+  "data_bag": "users",
+  "raw_data": {
+    "id": "deploy",
+    "password": "PASSWORD",
+    "ssh_keys": [
+      "SSH_KEY"
+    ],
+    "groups": [
+      "sysdamin"
+    ],
+    "shell": "/bin/bash"
+  }
+}
+
+```
+
+- Skipped quick start for now, going to actually just make a chef thing.
+
+## Creating an new Project & Berkshelf
+
+- Cookbooks are stored in `~/.berkshelf`.
+- If we're developing a cookbook locally, we should have a separate folder for our cookbook, outside of our Chef Repo structure.
+- `$ berks vendor`: Running these creates the `berks-cookbooks` directory.
 
 # 6: A Template for Rails Servers
 
