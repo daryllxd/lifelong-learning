@@ -71,7 +71,7 @@ Providing Metrics:
 - Cx reviews increase product conversion by 74%.
  
 #### Optimized Page
- 
+
 - Title: Use keyword as first term/phrase
 - Meta description: Use target here
 - Meta keywords: Used for Yahoo discovery
@@ -302,7 +302,7 @@ Best practices
 - Do not use generic descriptions ("page about business cards")
 - Do not copy and paste the document's content into the description meta tag.
 - Have a different description meta tag for each page.
- 
+
  
 Improve the structure of your URLs
 - It could also lead to better crawling of your documents by search engines.
@@ -324,10 +324,10 @@ Make your site easier to navigate
 - He or she might be visiting http://www.brandonsbaseballcards.com/news/?010/upcoming-baseball-card-shows.htm, but then enter http://www.brandonsbaseballcards.com/news/?010/ into the browser's address bar, believing that this will show all news from 2010.
 - A site map (lower-case) is a simple page on your site that displays the structure of your website, and usually consists of a hierarchical listing of the pages on your site. Visitors may visit this page if they are having problems finding pages on your site.
 - An XML Sitemap (upper-case) file, which you can submit through Google's Webmaster Tools, makes it easier for Google to discover the pages on your site.
-- 
+-
 
 
- 
+
 Best Social Media Metrics
 http://www.kaushik.net/avinash/best-social-media-metrics-conversation-amplification-applause-economic-value/
 - What actually matters in social media? Not the number of friends, or the number of posts, or the followers-following ratio. What matters is everything that happens after you post/tweet/participate!
@@ -345,4 +345,4 @@ Applause Rate
 Economic Value
 - A small percent of the people in your company/brand will come to your main company website and choose to do business with you. Those are all macro and micro conversions. With these, you can measure economic value.
 Economic value = Sum of short and long term revenue and cost savings.
-- 	
+-
