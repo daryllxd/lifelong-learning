@@ -44,3 +44,15 @@
   - Volume, emphasis, tone.
   - Walk out with confidence.
   - People know if you're pretending.
+
+## Confident Presentation
+
+- Stand still, hands on the side.
+
+- Deliver your hook: I'm going to show you how to captivate your audience.
+
+## Scott Hanselman
+
+- Introduction, Crescendo, Summary. Split a one hour talk into six ten minute chunks.
+- Don't put hands in the pockets. Lack of focus. Lack of respect for the audience. Not being prepared.
+- Perfect
