@@ -141,3 +141,65 @@ end
   - Methods.
   - `Proc` objects.
   - Lambdas.
+
+- Using `procs` for Blocks
+- You can't do this:
+  - `capture_block(&p) { puts "This is the explicit block" }`
+  - Both block arg and actual block given.
+- Closure:
+  - A piece of code that creates its context around with it. These are important because they preserve the partial running state of the program.
+  - The classic closure example is a counter.
+
+- Creating functions with `lambda` and `->`
+  - Lambdas require explicit creation: When Ruby creates `proc` objects implicitly, they're regular procs and not lambdas. So in `def m(&block)`, the `Proc` object you grab is a regular proc, not a lambda.
+  - For a lambda, a `return` inside triggers an exit from the body of the lambda to the code context immediately containing the lambda.
+    - **Returning inside a proc triggers a return from the method in which the proc is being executed.**
+    - `ruby -e 'Proc.new { return }.call'` returns a `JumpError`.
+    - `ruby -e 'lambda { return }.call'` is fine.
+  - Lambdas don't like being called with the wrong number of arguments.
+
+- Capturing method objects:
+  - `meth = c.method(:talk)`, which can then be `meth.call`.
+  - You can also bind and unbind methods. (Very rarely used.)
+
+- The `eval` family
+  - The `Binding` class.
+    - Ruby has a class called `Binding` whose instances encapsulate the local variable bindings in effect at a given point in execution.
+  - `instance_eval`: evaluates the string or code block you give it, changing `self` to be the receiver of the call to `instance_eval`. Not a good idea because you pry into another object's state.
+  - `instance_exec`: Can take arguments.
+  - `class_eval`: Flattening the scope for variables? Check out possible use cases.
+
+## Threads
+
+- Later, not needed yet.
+
+## Issuing system commands from inside Ruby
+
+- `system`: The global variable `$?` is set to a `Process::Status` object that contains info about the call.
+- `irb> system("date")` => A `$?` would return the proc.
+- `open` to communicate to outside programs.
+
+# 15: Callbacks, hooks, and runtime introspection
+
+- `method_missing`
+- `included` (`self.included(class)`). Use case: if a module is included, the instance methods get brought in but the class methods don't.
+- `extended`.
+
+``` ruby
+module M
+  def self.included(c1)
+    def c1.a_class_method
+    end
+  end
+end
+```
+
+- `inherited`. (Doesn't work for subclasses hooking onto the "inherited" class.)
+- `const_missing`.
+- `method_added` and `singleton_method_added`.
+- `object.private_methods` and `object.protected_methods`.
+- `Integer.instance_methods(false)` to just show the methods defined in `Integer`.
+- `local_variables`
+
+- Tracing execution
+  - `caller`.
