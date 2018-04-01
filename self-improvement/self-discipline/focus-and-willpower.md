@@ -1,9 +1,9 @@
-## How I got to 200 productive hours a month
+# How I got to 200 productive hours a month
 [Reference](https://qotoqot.com/blog/improving-focus/)
 
 - This is 6 hours a day in a month.
-- Productive environment: increase the friction required to slip into distracting activities, so that it takes a significant effort to get distracted.
-- What is more effective--eliminate everything distracting from your workstation and using a separate device for leisure in another room.
+- ***Productive environment: increase the friction required to slip into distracting activities, so that it takes a significant effort to get distracted.***
+- Effective: eliminate everything distracting from your workstation and using a separate device for leisure in another room.
 - Unsubscribe/mute/unfollow too-active posters, which includes all non-professional news.
 - Re politics: you can't do anything meaningful about these events.
 - Re phone: you shouldn't be able to mindlessly reach for it to escape your current task with a "quick check."
@@ -16,35 +16,33 @@
 ### Body
 
 - There's not virtue in wearing out the body for the sake of some short-term deadlines.
-- **Crunch is not productive--it is an emergency effort to compensate for the lack of real productivity that is achieved through good planning and sharp focus.**
+- ***Crunch is not productive--it is an emergency effort to compensate for the lack of real productivity that is achieved through good planning and sharp focus.***
 - 30-60 minute naps if I feel "brain fog" in the middle of the day because sleep flushes out brain toxins and clears the mind.
 - Waking up at the same time: discipline is more sustainable than the ever-changing motivation.
 - Physical inactivity not only kills us, but it affects your memory and thinking too.
 - The researchers found that the widening of the artery in response to blood flow reduced over three hours spent sitting without moving. However, getting up for five-minute walks in this period stopped this from happening.
 - **On your desktop install an app that forces 3-5 minute breaks every hour. What's very important: make it block the screen completely and hide all the "skip" or "postpone" buttons, or you'll be ignoring these breaks.**
-- Re productivity/mood: the diet is not complicated.
+- The diet isn't so complicated. Just don't eat crappy foods.
 
 #### Mind
 
 - Habit-tracking apps: they both remind you to do things and motivate you to keep daily streaks.
-- No zero days.
-- You can figure out if you can do tedious tasks when you know your head is empty.
+- No zero days. You can figure out if you can do tedious tasks when you know your head is empty.
 - Music:
   - Fast tracks to boost focus.
   - Lower tempo or something relaxing or no music if high cognitive load.
   - Resting your mind: no phone or consuming any kind of content--just walking, exercising, or taking a nap.
-- Procrastination: task is too complex or too boring, fear of failure, simple laziness.
+- Procrastination: this is usually when the task is too complex or too boring, fear of failure, simple laziness.
 - Meditation again.
-- Working on something futile? Spending your life on fruitless nonsense.
-- **Throwing away addictive sites or gaming becomes easy when you start to see them for what they are: obstructions on the way to getting something valuable done.**
+- ***Throwing away addictive sites or gaming becomes easy when you start to see them for what they are: obstructions on the way to getting something valuable done.***
 
-## Attention, Please! What Every Man Ought to Know About Focus
+# Attention, Please! What Every Man Ought to Know About Focus
 [Reference](https://www.artofmanliness.com/2014/01/20/attention-please-what-every-man-ought-to-know-about-focus/)
 
 - Single-minded focus is just one facet of attention. Attention has different types! You must manage all your other attention mechanisms.
 - Attention: taking possession of the mind of one of what seems like several simultaneous possible objects or trains of thought.
 - LSD causes psychedelic experiences because it inhibits the brain's attention networks.
-- What you are focusing on becomes your reality.
+- ***What you are focusing on becomes your reality.***
 - Involuntary attention.
   - When we head a loud noise, etc.
   - Benefit: we get to react automatically to potentially dangerous or rewarding stimuli.
@@ -53,7 +51,7 @@
   - This is why spending time in nature not only feels great, but has been shown to relieve stress, anxiety, and depression.
 - Voluntary attention.
   - This requires effort, willpower, and intentional concentration.
-  - The more stimuli there are for involuntary attention, the harder our voluntary attention has to work to stay engaged with the task at hand.
+  - ***The more stimuli there are for involuntary attention, the harder our voluntary attention has to work to stay engaged with the task at hand.***
   - Voluntary attention is what allows you to progress with your personal goals.
   - We have a finite amount of it. People complain about feeling distracted because the modern world taxes our voluntary attention so much. We need to consciously decide all the stimuli.
 - Default mode: Mind wandering.
@@ -64,7 +62,6 @@
   - This can also increase creativity.
   - This gives your voluntary/involuntary systems a break.
 - Broad attention: surveying a field. This makes you better at understanding the big picture.
-- Narrow attention: focusing on a pass. This allows us to be meticulous.
 
 ### Benefits of managing attention
 
@@ -76,9 +73,9 @@
 - Improves our critical thinking.
 - Gives us a more flourishing and enjoyable life.
 
-- Problem: We now live in "present shock", information is conveyed via memes and tweets, and we find it hard to separate the signal from the noise.
+- ***Problem: We now live in "present shock", information is conveyed via memes and tweets, and we find it hard to separate the signal from the noise.***
 
-## Become the Supreme Commander of Your Mind: How to Effectively Manage Your Attention
+# Become the Supreme Commander of Your Mind: How to Effectively Manage Your Attention
 [Reference](https://www.artofmanliness.com/2014/01/29/become-the-supreme-commander-of-your-mind-how-to-effectively-manage-your-attention/)
 
 - Make sure your principles are clear.
@@ -240,3 +237,27 @@
 - Increasing willpower: meditation and physical exercise. Brain changes have been observed after 8 weeks of brief daily meditation training.
 - Think big: when you scale up for what you want, you have more willpower.
 - Think small: giving yourself permission to take microsteps toward your goal.
+
+# 3 Psychological Factors Negatively Impacting Your Productivity
+[Reference](https://freedom.to/blog/3-psychological-factors-negatively-impacting-your-productivity/)
+
+- It is hard to stay on task because we are:
+  - Biased towards action, we want to feel busy even if we are achieving less.
+  - Ignoring your phone requires effort which results in a temporary depletion of one's willpower to control other emotions, behaviors, and thoughts. As the day goes on, it becomes harder to control the pings.
+  - Our brains crave the rewards associated with social media: novelty and the feeling of love/empathy/trust/compassion.
+
+# Tom Hodgkinson - Business for Bohemians: Live Well, Make Money
+[Reference](https://freedom.to/blog/tom-hodgkinson-business-for-bohemians-live-well-make-money/)
+
+- What helps: A virtual office and a digital assistant. Also, no smartphone and no social media. I also don't watch TV.
+- I have nothing against sitting in the dock of the bay, but social media is a time-wasting sucker and is best avoided. 5 minutes a day.
+
+# Reddit Thread
+[Reference](https://www.reddit.com/r/explainlikeimfive/comments/88l6mu/eli5_why_every_social_media_is_moving_away_from/)
+
+- Feed is not in chronological order so that you don't get the feeling of "completing" an action, and you continue scrolling and scrolling seeing more ads.
+- The point is not about making an enjoyable experience for you, it's about tricking you into scrolling further and further as you see more ads.
+- The "Ad Nauseum" ad blocker: So effective that literally hardcoded Chrome to prevent you from using it.
+  - Better if the ads are actually relevant, casual, and not invasive.
+- Possible that non-linear feeds result in more positive metrics for the platform owners.
+- Operant conditioning: A psychological behavior mechanism in humans that causes us to do certain behaviors.
