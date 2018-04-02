@@ -486,3 +486,21 @@ Your teachers are always telling you to behave like adults. I wonder if they'd l
 - Ex: Dropbox, people forgot their USB sticks.
 - Noticing startup ideas: look for things that seem to be missing.
 - Work on projects that seem like they'd be cool.
+
+# Life is Short
+[Reference](http://www.paulgraham.com/vb.html)
+
+- Having kids showed me how to convert a continuous quantity, time, into discrete quantities. 52 weekends per year, 8 Christmases with your kid if from the ages 3-10.
+- Life is too short for BS:
+  - Unnecessary meetings, pointless disputes, bureaucracy, posturing, dealing with other people's mistakes, traffic jams, addictive but unrewarding pastimes.
+  - These things are either forced or you get tricked into joining them.
+  - If you prioritize bullshit avoidance, you can probably find employers that will waste less of your time.
+- What's hard to avoid: things that are tricked into your life.
+  - Ex: arguing online.
+  - Ex: caring what other people think. Nearly all adults say that they cared too much what other kids thought of them.
+- ***Do you actually care about this in the future?*** Fake stuff that matters usually has a sharp peak of seeming to matter.
+  - The things that mater aren't necessarily the ones people would call important: having coffee with a friend matters.
+- Cultivate a sense of impatience about the things you want to do. Don't wait before climbing that mountain or writing that book or visiting your mom. Just don't wait.
+- ***When you don't have much of something: try to get more of it, and savor what one has.***
+- How you live affects how long you live. Most people could do better. Me among them.
+- Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when life is short.
