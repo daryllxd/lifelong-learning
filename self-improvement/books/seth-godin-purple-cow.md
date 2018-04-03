@@ -24,12 +24,33 @@
   - How easy is it to spread your idea?
   - How often will people sneeze it to their friends?
   - How reputable are the people most likely to promote your idea?
+- Marketing in a post-TV world is no longer about making a product attractive, it's about designing the thing to be virus-worthy in the first place.
+- Services that are worth talking about get talked about.
+- Now, it's consumers who choose whether you're listened to or ignored.
+- Google ads: contextually relevant and presented to the type of person who's likely to act on them. The "ad" appears after you've typed in a search term for that item!
+- ***The idea: It is useless to advertise to anyone, except interested sneezers with influence.***
+- The influential sneezers are open to hearing your story only if it's truly remarkable, otherwise, you're invisible.
+
+## Not All Customers are the Same
+
+- Differentiate your customers. Find the group that's most profitable, and most likely to sneeze. Figure out how to develop/advertise/reward either group, and ignore the reset.
+- Chip Conley: Painting the hotel to make it a rock-and-roll motel in the center of San Francisco.
+- Catch-22: If times are tough: "we can't afford it." If times are good: "we can afford to be conservative."
+
+- Otaku: The ones who will take the time to learn about your product. Ex: hot sauces.
+- Remarkability re: business card.
+- The problem with cheap: Bad way to market. In an incremental price war, Ikea and Walmart will destroy you.
+- When the cow looks for a job:
+  - They often don't even have a resume. They rely on sneezers who are quick to recommend when openings come up. They work on high-profile projects.
+- Explore the limits. What if you're the cheapest, the fastest, the slowest, the hottest, the coldest, the easiest, the most efficient, the loudest, the most hated, the copycat, the most! If there's a limit, you must test it.
+
+## Salt
+
+- Come up with a list of ten ways to change the product to make it appeal to a sliver of your audience.
+- Think of the smallest conceivable market, and describe a product that overwhelms it with its remarkability.
+- If a factory is giving you a hard time about jazzing up the product, go elsewhere.
+- Permission asset (email).
+- Copy from other industries, find a dull industry, discover who's remarkable, and do what they did.
 
 
-
-21
-
-
-
-  - The pursuit of Wow
-  - The one to one future
+  - Jon Spoelstra, Marketing Outrageously

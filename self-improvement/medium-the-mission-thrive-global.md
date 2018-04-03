@@ -573,3 +573,45 @@
   - If you get invited to a late night party the night before training, will it make the boat go faster?
   - Will eating a donut make the boat go faster?
 - Do you want to compete with someone who has this mindset, someone who is THIS deliberate about EVERY decision they make? Someone this thoughtful about their life, and how they respond to challenges?
+
+# The Only Way To “Wake Up” And Become Unstoppable
+[Reference](https://medium.com/@benjaminhardy/you-say-you-believe-failure-is-key-to-success-but-have-you-really-failed-8a9f88c4bdfd)
+
+- ***“Would you like me to give you a formula for success? It’s quite simple, really. Double your rate of failure. You are thinking of failure as the enemy of success. But it isn’t at all. You can be discouraged by failure — or you can learn from it. So go ahead and make mistakes. Make all you can. Because, remember that’s where you will find success.” — Tom Watson, founder of IBM***
+- Ex: 50 blog posts that don't get read, or pitching your business idea to 100 people to no avail, these are failures but these are not the type of failures we're thinking.
+- We're thinking about "YOU MUST FIGURE SOMETHING OUT, OR ELSE, YOU DON'T KNOW WHAT WILL HAPPEN, AND YOU DON'T WANT TO KNOW."
+- These moments are where you're left without a choice. Your behavior literally must change or else, everything will crash down bad.
+- ***You need to have one of those moments where you stop justifying time-wasters. Where you stop justifying playing small. Where you stop justifying spending time with the wrong people. Where you stop doing business with the wrong people. Where you stop being immature with your money and your relationships.***
+- Where you get really serious about what you’re doing. And where you become hyper-committed to succeeding. Where you stop avoiding the mundane stuff you need to do.
+- If you're not willing to lose everything you've gained, then you've lost the spirit that drove you on in the first place. You've over-attached yourself with the image that has become your reality.
+- You can't just not avoid failure, and if you really want to grow in anything, you need to be true to yourself. If it's purely extrinsic, then it's shallow, and those around you will only care about what's external. YOU DO NOT WANT THAT.
+
+## The Price of Growth and Success
+
+- One of my favorite quotes: “Become a millionaire not for the million dollars, but for what it will make of you to achieve it.’”— Jim Rohn
+- Mindset/Carol Dweck: Kids who framed their goals as "Learning Goals" were more focused on mastery and proactively sought out challenges.
+- Kids who framed their goals as "Achievement Goals" avoid challenged and developed learned helplessness.
+- Good mentoring involves creating scenarios where the learner can grow and must grow. Long-term failure isn't the goal. Growth is the goal.
+- Why disadvantaged groups have an advantage:
+  - Have a deep belief in self.
+  - Feeling inferior and they must want to continually improve themselves.
+
+# How To Know If You’ll Live Your Dreams
+[Reference](https://medium.com/@benjaminhardy/heres-how-to-know-if-you-re-going-to-live-your-dreams-1ecf65b92e60)
+
+- You must live in alignment with yourself, otherwise, you have no powerful, conviction, or clarity and you'll just be a clone of what others want you to be. No sense of being and no clear purpose in life. The only way to truly live congruently in life AND in your relationships is to be congruent with yourself.
+- Whether you live out your dreams or not, life will be a struggle. Might as well be good? We control our actions, but the consequences that flow from those actions are controlled by principles.
+- Let go of the need for a specific outcome: don't get derailed by success or defeat.
+
+# How You Do Anything Is How You Do Everything
+[Reference](https://journal.thriveglobal.com/how-you-do-anything-is-how-you-do-everything-bc6e264e40ee)
+
+- President Andrew Johnson: Was a tailor before being a president, and was proud of his achievements as a tailor. "When I used to be a tailor, I had the reputation of being a good one, making close fits, always punctual with my customers, and always did good work."
+- President James Garfield: He persuaded his school to let him be a janitor in exchange for tuition. Do your job and do it well.
+- Andrew Carnegie: "The first jobs introduce us to the broom."
+- ***Everything is a chance to do and be our best. Only self-absorbed assholes think they are too good for whatever their current station requires.***
+- When action is our priority, vanity falls away.
+- An artist is given many different canvases and commissions in their lifetime, and what matters is that they treat each one as a priority. Whether it’s the most glamorous or highest paying is irrelevant. Each project matters, and the only degrading part is giving less than one is capable of giving.
+  - Some are prestigious, some are onerous, none are beneath us.
+  - ***To whatever we face, our job is to respond with: hard work, honesty, and helping others as best we can.***
+- Respect the craft and make something beautiful.
