@@ -1,4 +1,4 @@
-People blame themselves for their own difficulties. Humans do not always err. 
+People blame themselves for their own difficulties. Humans do not always err.
 
 _Why can you use computers and lab stuff and why can’t you use doors and shit?_
 
@@ -7,7 +7,6 @@ _Why can you use computers and lab stuff and why can’t you use doors and shit?
 The human mind is tailored to make sense of the world. Give it the slightest clue and it provides explanation, rationalization, and understanding. Ex: Doors. Push, pull, slide in what direction. But on which part do you push?
 
 Visibility: the correct parts must be visible, and they must convey the correct message.  Ex: Slide projector, short press to forward, long press to backward. Indicate how parts operate and how.
-
 
 #### Affordances
 
@@ -34,7 +33,7 @@ Visibility: the correct parts must be visible, and they must convey the correct 
 * Subtle ribbing on a pen to make sure that you are holding it the correct way.
 
 *The Paradox of Technology: The same technology that simplifies life by providing more functions in each device also complicates life by making the device hrader to learn.*
- 
+
 ## Chapter 2: The Psychopathology of Everyday Actions
 
 * Ex: What is the difference between “return” and “enter”? Designer said, “didn’t you read the manual?”
@@ -94,7 +93,7 @@ People function through their use of two kinds of knowledge: knowledge of and kn
 Knowledge in the World vs Knowledge in the Head
 * Data In the head is not as easily retrievable as data in the world.
 * How easy it is to interpret information in the world depends upon how well it exploits natural mapping and constraints.
- 
+
 ## 4: Knowing What to Do
 
 Problems occur whenever there is more than one possibility of things to do. So use constraints to make sure that people can only do few courses of action at a time.
