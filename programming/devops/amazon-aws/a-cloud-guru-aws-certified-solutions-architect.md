@@ -288,3 +288,87 @@ EBS: Designed to run a developer's code on an infrastructure automatically provi
   - Different action on current version, previous versions, and incomplete multipart uploads.
   - Glacier: Requires 90 days inside before you can actually delete things inside.
 
+---
+
+### Auto-scaling 101
+
+- Load balancer: In the EC2 instance part.
+- `service httpd start` to start Apache.
+
+```
+#!/bin/bash
+yum install httpd -y
+yum update -y
+aws s3 cp s3://YOURBUCKETNAMEHERE/index.html /var/www/html/
+service httpd start
+chkconfig httpd on
+```
+
+- Auto Scaling Group
+- Subnets: It will show your availability zones. AWS will spread the instances across your AZs.
+- Health check type: ELB instead of EC2.
+- Use scaling policies: when the average of CPU is greater than 90% for 5 minutes, I want to add 1 instance...
+- The autoscaler will create a new instance by itself (he terminated the instance and another one came up).
+- Delete the auto-scaling group to delete the instances.
+
+### EC2 Placement Groups
+[Reference](https://awsinsider.net/articles/2017/06/12/ec2-placement-groups.aspx)
+[Reference](https://community.teradata.com/t5/Teradata-Database-on-AWS/What-is-a-Placement-Group/td-p/14827)
+
+- Sometimes, communications between servers are sensitive to latency.
+- Placement group members are able to communicate with one another in a way that provides low latency and high throughput.
+- When you create a placement group, what you're really doing is creating a capacity reservation for EC2 instances within an availability zone.
+- Low-latency, high-throughput communications between placement group members can only occur across the private interfaces, using the private IP addresses.
+- Limitations:
+  - Not all instances can be launched into a placement group.
+  - You can't merge placement groups, and you can't move an instance into a placement groups.
+
+- A logical grouping of instances within a single AZ. Using placement groups enables applications to participate in a low-latency, 10 Gbps network. Placement groups are recommended for applications that benefit from low network latency, high network throughput, or both.
+- Can't span across multiple AZs.
+- Must be unique name within your AWS account.
+- Only certain types of instances can be launched in a placement group (Compute Optimized, GPU, Memory Optimized, Storage Optimized).
+
+### EFS
+[Reference](https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html)
+
+- This is simple, scalable file storage for use with Amazon EC2. Storage capacity is elastic.
+
+- Amazon Elastic File System (Amazon EFS) is a file storage service for EC2 instances. EFS is easy to use and provides a simple interface that allows you to create and configure file systems quickly and easily.
+- With EFS, storage capacity is elastic, growing and shrinking automatically as you add and remove files, so your applications have the storage they need, when they need it.
+- Features
+  - Only pay for the storage you use (can reach petabytes).
+  - Can support thousands of concurrent NFS (Network File System) connections.
+  - Stored across multiple AZ's within a region.
+  - Block-based storage, not object-based storage.
+- Instances need to be in the same security group as the EFS.
+- What he did: provision and install Apache.
+- What he did: to go to the mount the EFS to both instances with a script.
+- The Load Balancer has its own public IP address?
+
+### AWS Lambda
+
+- Before, you ordered servers. IaaS -> PaaS -> Containerization (Docker, still needed to scale) -> Serverless.
+- Literally, all you have to worry is your code, just have event thingies.
+- "AWS Lambda is a compute service where you can upload your code and create a Lambda function. AWS Lambda takes care of provisioning and managing the servers that you use to run the code."
+  - Event-driven compute service where AWS Lambda runs your code in response to events.
+  - Compute service to run your code in response to HTTP requests using Amazon API Gateway or API calls made using AWS SDKs.
+  - Ex: Lambda event to save a photo to S3, replicate across S3.
+- N Virginia = usually in when stored.
+  - Triggers: API Gateway, AWS IOT, Alexa Skills, CloudFront, CloudWatch Events, CodeCommit, S3...
+  - User -> API Gateway -> Lambda functions/response.
+- Languages supported: Node, Python, C#, and Java.
+- Lambda costs: First 1 million requests are free, $0.2 per 1 million of requests.
+- Duration: From the time your code begins executing until it returns or otherwise terminates. Max threshold: 5 minutes, so break up those functions.
+- Advantages: No servers, continuously scaling, super cheap.
+- Amazon Echo: This is Lambda speaking back to you.
+- You can actually use this to back up S3 to other buckets.
+
+### Building a Serverless Webpage with API Gateway & Lambda
+
+- A Cloud Guru stack: Angular, API Gateway/Lambda, S3, CloudFront. This is why our courses are cheap.
+- Creating:
+  - Runtime, Role, Role Name.
+  - Then you can create the actual function.
+  - Role: AWS Lambda executing and AWS microservice role.
+- Polly and Serverless:
+  - Client -> Amazon S3 -> Amazon API Gateway -> Lambda function, "New Post", -> Amazon SNS -> Lambda function, "Convert to Audio" -> Amazon Polly, save to S3 bucket, DynamoDB to store the thing, then API Gateway to update the GET Post.
