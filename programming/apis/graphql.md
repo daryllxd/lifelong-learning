@@ -75,3 +75,16 @@
   - Defer data--mark your response as time-insensitive.
 - Defining the schema
   - GraphQL has a type schema that forces the server to be unambiguous about the requests it receives and the responses it produces.
+
+# Disadvantages of GraphQL?
+[Reference](https://stackoverflow.com/questions/40689858/are-there-any-disadvantages-to-graphql)
+
+- Joins are not trivial.
+- Nested queries can lead to circular queries.
+- Rate limiting of calls becomes harder due to the user firing multiple queries in one call.
+- The response matches the shape of the query.
+- Caching is hard, you have to have a transformation layer to reshape the response.
+- Handling file upload: nothing in the GraphQL spec.
+- Unpredictable/possible to N+1.
+- For really simple APIs, why not just use normal REST?
+
