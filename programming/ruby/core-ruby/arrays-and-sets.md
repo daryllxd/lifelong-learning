@@ -1,3 +1,52 @@
+# Check if a value exists in an array in Ruby
+[Reference](https://stackoverflow.com/questions/1986386/check-if-a-value-exists-in-an-array-in-ruby)
+
+- You can use `*` to check array membership in a `case` expression.
+
+``` ruby
+case element
+when *array
+  ...
+else
+  ...
+end
+```
+
+- Use `Set` when calling it an `include?` on an equivalent Array.
+- There is an `in?` method in `ActiveSuport`.
+- The methods to find elements in an array:
+
+``` ruby
+array.include?(element) # preferred method
+array.member?(element)
+array.to_set.include?(element)
+array.to_set.member?(element)
+array.index(element) > 0
+array.find_index(element) > 0
+array.index { |each| each == element } > 0
+array.find_index { |each| each == element } > 0
+array.any? { |each| each == element }
+array.find { |each| each == element } != nil
+array.detect { |each| each == element } != nil
+```
+
+# Advantages of Set in Ruby
+[Reference](https://stackoverflow.com/questions/36548938/advantages-of-set-in-ruby)
+
+- When doing an `include?`, Set and Hash is way more efficient than Array.
+- Set also has things like `superset?`, `intersect?`, `subset?`.
+- Arrays:
+  - Can have duplicated elements
+  - Maintains order
+  - Can be iterated over in order
+  - Searching for element is slower
+  - Maintaining uniqueness of elements is slow
+- Sets:
+  - Can't have duplicated elements
+  - Don't have ordering
+  - Searching for element is fast, and unique
+- ***If you want to enforce uniqueness and you don't need any ordering - sets are your best choice. When you don't really care about uniqueness and ordering is important - Array is your choice.***
+
 # 7 daily use cases of Ruby Array
 [Link](http://blog.8thcolor.com/en/2014/02/7-daily-use-cases-of-ruby-array/)
 
