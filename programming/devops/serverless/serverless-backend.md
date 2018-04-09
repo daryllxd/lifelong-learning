@@ -101,3 +101,129 @@
 - An AWS Lambda function with 512 MB of memory costs $0.030024 compared to an On-Demand server with the same stats costing $0.0059. So when your CPU is being fully utilized all the time, running on Serverless may not be cost-efficient for your workload.
 - API Gateway = huge chunk of Serverless costs when you connect to a lot of APIs.
 - Other vendors: IBM OpenWhisk, Azure Functions, GCP Functions.
+
+# A crash course on Serverless with Node.js
+[Reference](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44)
+
+- Functions as a service: all the services and endpoints you would usually keep in one place are now microservices and services.
+- Lambda: Event-based system for running code in the cloud.
+- API Gateway: Require an event to be triggered to invoke them. Gateway provides the REST endpoints which trigger the functions.
+- Steps:
+  - `$ npm install -g serverless`
+  - Create an IAM user.s
+  - Add permissions and enter IAM keys in the Serverless configuration.
+  - Create a new service/template. `aws-node` to set the runtime to Node.js.
+  - `serverless.yml` contains all the configuration settings for his service.
+
+``` yaml
+# serverless.yml
+
+service: my-service
+
+provider:
+  name: aws
+  runtime: nodejs6.10
+
+# Lists all the functions in the service. Check out handler.js
+functions:
+  hello:
+    handler: handler.hello
+```
+
+- `handler.js`:
+
+``` js
+'use strict';
+
+module.exports.hello = (event, context, callback) => {
+  const response = {
+    statusCode: 200,
+    body: JSON.stringify({
+      message: 'Go Serverless v1.0! Your function executed successfully!',
+      input: event,
+    }),
+  };
+
+  callback(null, response);
+
+  // Use this code if you don't use the http event with the LAMBDA-PROXY integration
+  // callback(null, { message: 'Go Serverless v1.0! Your function executed successfully!', event });
+};
+```
+
+- Deploying: `serverless deploy -v`.
+- Testing the function through the command line: `$ serverless invoke -f hello -l`.
+
+## Testing without AWS
+
+- `npm init` inside the service directory.
+- `npm install serverless-offline --save-dev`
+- Add it as a plugin.
+- `serverless offline start`.
+- Monitoring:
+  - `CloudWatch` sucks. `Dashbird` rocks.
+
+## Comments
+
+- Stages are in the `serverless.yml` file.
+- Serverless works with all the major cloud providers.
+
+# Building a Serverless REST API with Node.js and MongoDB
+[Reference](https://hackernoon.com/building-a-serverless-rest-api-with-node-js-and-mongodb-2e0ed0638f47)
+
+- Tools: `$npm install --save mongoose dotenv`.
+- MongoDB Atlas.
+
+``` yaml
+# serverless.yml
+
+service: rest-api
+
+provider:
+  name: aws
+  runtime: nodejs6.10 # set node.js runtime
+  memorySize: 128 # set the maximum memory of the Lambdas in Megabytes
+  timeout: 10 # the timeout is 10 seconds (default is 6 seconds)
+  stage: dev # setting the env stage to dev, this will be visible in the routes
+  region: us-east-1
+
+functions: # add 4 functions for CRUD
+  create:
+    handler: handler.create # point to exported create function in handler.js
+    events:
+      - http:
+          path: notes # path will be domain.name.com/dev/notes
+          method: post
+          cors: true
+  getOne:
+    handler: handler.getOne
+    events:
+      - http:
+          path: notes/{id} # path will be domain.name.com/dev/notes/1
+          method: get
+          cors: true
+  getAll:
+    handler: handler.getAll # path will be domain.name.com/dev/notes
+    events:
+     - http:
+         path: notes
+         method: get
+         cors: true
+  update:
+    handler: handler.update # path will be domain.name.com/dev/notes/1
+    events:
+     - http:
+         path: notes/{id}
+         method: put
+         cors: true
+  delete:
+    handler: handler.delete
+    events:
+     - http:
+         path: notes/{id} # path will be domain.name.com/dev/notes/1
+         method: delete
+         cors: true
+
+plugins:
+- serverless-offline # adding the plugin to be able to run the offline emulation
+```
