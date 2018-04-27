@@ -615,3 +615,61 @@
   - Some are prestigious, some are onerous, none are beneath us.
   - ***To whatever we face, our job is to respond with: hard work, honesty, and helping others as best we can.***
 - Respect the craft and make something beautiful.
+
+# Why We Hate Working for Big Companies
+[Reference](https://medium.com/s/story/why-we-hate-working-for-big-companies-9e6c787a32ac)
+
+- We have free markets, but a corporation is usually more like an authoritarian state.
+- When hiring managers: author didn't want to be an employee, so why would others want to be an employee? There's also a problem when there's a separation between people doing the work and people who make the decisions.
+- Free market: Central planning committees can never be as efficient or effective as people doing the work. (Markets do not have a manager to do this.)
+- For things like China's Great Leap Forward, a commission telling the farmers what to produce leads to not-so-good decisions because there's a huge separation between the central planning committee and the farmer.
+- ***The most important feature of free market economies is that each person within them is able to make independent decisions in their own best interest.***
+- For much of history: people did as many things as they can (re: turning labor into a product).
+- Corporations nowadays: when you reach a certain company size, you'll have a planning process, set out top-level goals, build plans, and get information from the front line to see where it needed tweaks.
+  - What they need is to have a system where the people doing the work knew the organization's goals and plans.
+  - Leadership is about making decisions.
+  - The problem with a big company: the leadership is so far removed that it looks like a bureaucracy.
+- ***I find it both ironic and painful that my inability to work for someone else resulted in my creating a company that involved a lot of smart, capable people working for someone else.***
+  - How do you value most of the work people do?
+  - Things end up with a concentration of wealth anyway.
+
+# People Who Have “Too Many Interests” Are More Likely To Be Successful According To Research
+[Reference](https://medium.com/the-mission/modern-polymath-81f882ce52db)
+
+- Polymath: Competent in at least three diverse domains and integrates them into a top 1-percent skill set.
+- Jobs: Design + hardware + software.
+- Musk: Physics + engineering + design + manufacturing + business.
+- Darwin: naturalism, biology, geology to create the Theory of Evolution.
+- Online writing: academic research, digital journalism, and growth hacking.
+- Through time:
+  - Philosopher king: Aristotle, Marcus Aurelius, Archimedes.
+  - Renaissance person: Da Vinci, Michelangelo, Galileo.
+  - Gentleman scholar: Jefferson, Ben Franklin, John Adams.
+  - Polymath: Curie, Newton, Roosevelt.
+  - Modern polymath: Musk, Jobs, Zuckerberg.
+
+- ***Polymath advantage 1: Combining two or more skills can make you world-class.***
+  - Scott Adams/Dilbert: humor + illustration skill + business culture.
+  - Either become top 1% at one thing, or become very good (top 25%) at two or more things.
+- ***Polymath Advantage 2: Most creative breakthroughs come via making atypical combinations of skills.***
+- ***Polymath Advantage 3: It’s easier and faster than ever to become competent in a new skill.***
+- ***Polymath Advantage 4: It’s easier than ever to pioneer a new field, industry, or skill set.***
+- ***Polymath Advantage 5: It future-proofs Your Career.***
+- ***Polymath Advantage 6: It sets you up to solve more complex problems.***
+  - Solving obesity: it's really complicated and you need a lot of fields: genetics, behavioral psychology, sociology, economics, marketing, psych, education, nutrition.
+- ***Polymath Advantage 7: It helps you stand out and compete in the global economy.***
+
+- Being a polymath makes you antifragile: Changes to the environment make you stronger.
+
+# 10 Lessons I Learned from Casey Neistat’s Guide to Life
+[Reference](https://www.locationrebel.com/casey-neistat-guide-to-life/)
+
+- It's easier to steer a moving vehicle: when you're doing things, you can adjust on the fly.
+- Right now is the time: we don't get younger.
+- Life shrinks and expands in direct proportion to your willingness to assume risk: you need risks. The less risk you take, the less fulfilling your life will be at the end of it. When has the worst case scenario happened?
+- If you're doing what everyone else is doing, you're probably doing it wrong.
+- The straight line does not exist.
+- If you want to get out of a rut, work.
+- Free time is the enemy of progress. SPEND YOUR FREE TIME DELIBERATELY.
+- The best way to find what you love is to do something that you hate. You need discomfort in order to know what you don't want to do.
+- It's never okay to complain: there is always someone who has it worse than you do.
