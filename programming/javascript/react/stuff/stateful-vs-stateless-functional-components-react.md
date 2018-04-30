@@ -42,3 +42,14 @@
 - Easier to spot a bloated component.
 - Performance?
 - Downsides: You need to convert it to a class to use lifecycle methods, or want to optimize performance.
+
+# Functional Stateless Components in React
+[Reference](https://javascriptplayground.com/functional-stateless-components-react/)
+
+- Destructuring in functional stateless components:
+  - `const Username = ({ username }) => <p>The logged in user is: {username}</p>;`
+- Simplicity: You know that an FSC is just props in, rendered UI out. For a class component, you still have to scan through to see what lifecycle methods it is using.
+- FSCs offer visual cues that a component is just taking some props and rendering output. If you have a class component, you have to read through the code to see if it deals with state.
+- The less stateful component your app has, the better. They are easier to test and you can pass them as props and assert on their output.
+- Because it's hard to convert an FSC to a stateful component, you come to appreciate it because it makes you think about if you want to add state to a component.
+- Easy to create styling.
