@@ -19,8 +19,8 @@
 
 - Hired Ryan Holiday to help me with the book, when I send him a draft, he shows how it could be 10x better, and he holds me to that standard.
 - It's more that I don't know what I don't know. Working with Ryan has streamlined my understanding of what is possible and what it takes to create something powerful.
-- **By investing in what you're doing, you'll experience the psychological shift needed to achieve your goals.** Once invested, your identity towards what you are doing changes. You've put yourself physically, not just emotionally, in a position where you must move forward.
-- **Surrounding yourself with people who have higher standards than you is the fastest way to change. If you don't change your environment, and instead attempt to overcome your environment through willpower, you'll lose every time.**
+- ***By investing in what you're doing, you'll experience the psychological shift needed to achieve your goals.*** Once invested, your identity towards what you are doing changes. You've put yourself physically, not just emotionally, in a position where you must move forward.
+- ***Surrounding yourself with people who have higher standards than you is the fastest way to change. If you don't change your environment, and instead attempt to overcome your environment through willpower, you'll lose every time.***
 
 - Same with romantic relationships. Do they help you more than you become more than you currently are? Do you help them?
 - 20% of people are moving forward, 60% mimics, and 20% is moving backward.
@@ -673,3 +673,25 @@
 - Free time is the enemy of progress. SPEND YOUR FREE TIME DELIBERATELY.
 - The best way to find what you love is to do something that you hate. You need discomfort in order to know what you don't want to do.
 - It's never okay to complain: there is always someone who has it worse than you do.
+
+# This 75-Year Harvard Study Shows How to Have Lifetime Joy
+[Reference](https://medium.com/thrive-global/this-75-year-harvard-study-reveals-the-secret-to-happiness-and-success-3cf0002510fe)
+
+- Good relationships keep us happier and healthier, period.
+- 50% increased likelihood of survival for participants with stronger social relationships.
+- *Childhood trauma is not about what happens to you, but about what happens "inside" of you.* In other words, if you go through a terribly horrible experience and  you have someone there to help you process it, you'll likely recover quickly.
+- The lack of social relationships constitute a major risk factor for health: rivaling the effect of cigarettes, blood pressure, blood lipids, obesity, physical activity.
+- *The most loving and deep relationships are built on a very simple foundation: giving and gratitude.*
+  - When the focus is on what you can give, the relationship becomes a gift to both of you.
+  - Brad Pitt: "If you love her to the point of madness, she will become it."
+- ***Living for something beyond yourself: For success, like happiness, cannot be pursued; it must ensure, and it only does so as the unintended side-effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. - Viktor Frankl***
+  - The Pygmalion effect: You as a person either rise or fall to the demands of your situation. If your situation doesn't demand much, you won't rise up.
+  - Having other people depend on you is the pressure that turns you into a diamond. It will cause you to dig deep within yourself and overcome the addictions and bad habits holding you back.
+  - It's not about the amount of hours you work, but the amount of thought and humanity you put into your work.
+
+# This Is Exactly How You Should Train Yourself To Be Smarter
+[Reference](https://medium.com/the-mission/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c)
+
+- Ex: 80-20 Rule, basically a minority of inputs leads to a majority of outputs.
+  - Basically, with 30-60 minutes a day for prioritization, you can double your productivity.
+  - By auditing the relationships in your life, you can identify people you want to spend more time with and people you want to remove in y our life. By looking at what experiences give you the most delight, you can begin to engineer your life differently.
