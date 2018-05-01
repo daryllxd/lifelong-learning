@@ -243,3 +243,34 @@
 ## ENTITLEMENT, CONTROL, AND PARANOIA
 
 - Xerxes actually wanted to brand the river with hot irons/throw lashes to it. (Delusional/presumptuous?)
+- What got you to a point can be used against you. Things like drive can become entitlement. The instinct to take charge can make you a control freak. Your drive to can make you paranoid.
+- Napoleon: "He despises the nation whose applause he seeks." He couldn't help but see the French people as pieces to be manipulated, people he had to be better than, people who, unless they were totally, unconditionally supportive of him, were against him.
+- ***A smart man or woman must regularly remind themselves of the limits of their power and reach.***
+- *Entitlement assumes: This is mine. I've earned it. At the same time, entitlement nickels and dimes other people because it can't conceive of valuing another person's time as highly as its own.* It delivers tirades and pronouncements that exhaust the people who work for and with us, who have no choice other than to go along. It overstates our abilities to ourselves, it renders generous judgment of our prospects, and it creates ridiculous expectations.
+- *Control says, It all must be done my way—even little things, even inconsequential things. It can become paralyzing perfectionism, or a million pointless battles fought merely for the sake of exerting its say.* It too exhausts people whose help we need, particularly quiet people who don't object until we've pushed them to their breaking point. We don't control the weather, we don't control the market, we don't control other people, and our efforts and energies in spite of this are pure waste.
+- *Paranoia thinks, I can't trust anyone. I'm in this totally by myself and for myself. It says, I'm surrounded by fools.* It says, focusing on my work, my obligations, myself is not enough. I also have to be orchestrating various machinations behind the scenes—to get them before they get me; to get them back for the slights I perceive.
+- ***Seneca: "He who indulges empty fears earns himself real fears".***
+
+## MANAGING YOURSELF
+
+- Eisenhower: wanted to make sure that letters addressed to him were opened by a staff member already. Just to make sure that the letters he got were important.
+- He organize the executive branch into a smooth, functioning, and order-driven unit.
+- Need to separate urgent from important.
+- On the DeLorean failing as a car: it was mismanaged from top to bottom, because the management style was like chasing colored balloons (constantly distracted and abandoning one project for another).
+- Things like discipline, organization, and strategy are still important.
+- ***In the end, we all face becoming the management/adult supervision we originally rebelled against.***
+- Being a manager = changing your responsibilities to be about making decisions. You may have to put aside what you know because others are more competent.
+- ***Leadership = transitioning, reevaluating and updating your identity. This requires some humility to put aside the enjoyable/satisfying parts of your previous job. You have to accept that there might be someone more qualified in the areas you were competent in, because you need to also manage now.***
+- Responsibility requires a readjustment and then increased clarity and purpose. Set top-level goals, then enforce those goals, to produce results and only results.
+
+## BEWARE THE DISEASE OF ME
+
+- Pat Riley: Before great teams win a championship, a team is "innocent", and they come together and work together for that goal. The "Innocent Climb." After the win, ego appears.
+- General George Catlett Marshall Jr.: Never caught the "Disease of Me" and shamed it out of the people who did. His sense of honor meant turning down honors, letting them go to the other people.
+- Ego needs honors in order to be validated. Confidence is the ability to wait and focus on the task at hand, regardless of external recognition.
+- When we've "made it", the tendency is to switch to the mindset of "getting what's mine".
+- ***Let's make one thing clear: we never earn the right to be greedy or to pursue our interests at the expense of everyone else. To think otherwise is not only egotistical, it's counterproductive.***
+- *Cheryl Strayed: "You're becoming who you are going to be and so you might as well not be an asshole."* This is one of the most dangerous ironies of success—it can make us someone we never wanted to be in the first place. The Disease of Me can corrupt the most innocent climb.
+- Marshall didn't even want to look at a painting of himself. He had the same traits that everyone has, but they were "tempered by a sense of humility and selflessness."
+- ***Play for the name on the front of the jersey, he says, and they'll remember the name on the back.***
+- The credit? Who cares.
