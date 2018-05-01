@@ -44,3 +44,13 @@
 - Toolboxes, not boilerplate. It should work with no configuration.
 
 - Even if you are not a tool maker, you just need to make error messages that are not obscure, and have reasonable defaults for config options.
+
+# Your App Makes Me Fat
+[Reference](http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat)
+
+- Participants who memorized a seven-digit number were 50% more likely to choose cake over fruit when they had to choose a snack after.
+- Willpower and cognitive processing draw from the same pool of resources: you're more likely to do bad choices when you're tired.
+- This thing also works for dogs.
+- Confusing apps draw from users' cognitive resources.
+- If this is content designed to suck people in for the chance to "convert", we're hurting people. If we're pumping out "content" because "frequency", we're hurting people.
+- ***My goal for Serious Pony is to help all of us take better care of our users. Not just while they are interacting with our app, site, product, but after. Not just because they are our users, but because they are people. Because on their deathbed, our users won't be thinking,"If only I'd spent more time engaging with brands."***
