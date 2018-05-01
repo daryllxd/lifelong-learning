@@ -24,3 +24,11 @@ Solo configuration: We use the local development workstation to define server ro
 
 *Berkshelf.* Recipe = the commands to install an individual component on the system (ex: Ruby, Rails gem dependencies, MySQL server). Several recipes relating to a particular piece of functionality (MySQL server/client) are bundled together in a Cookbook. Berkshelf is like the Bundler for these recipes.
 
+# Chef with Docker
+
+- Chef client inside Docker container: breaking Docker's immunity and treating it like a VM.
+- Containerizing workloads should only apply if the function you are running works well in a containerized state.
+- Habitat: Once you defined what your build looks like, you create an artifact. You start with your app code, compile it down, and end up with an artifact that can be run as a container somewhere.
+- Package the app in a way that you would package anywhere.
+- Habitat is not a scheduler.
+- ***Chef: infrastructure automation, Habitat: app automation. Define the packages and provision with any config management tool you want.***

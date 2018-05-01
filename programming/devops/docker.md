@@ -39,3 +39,18 @@ Let's say I have an application that needs Redis, Memcached, Mongodb, and MySQL 
     - Docker: You build your environment, and you can run it on any machine that has Docker on it. So you can push it out to "Docker Hub/Quay.io" and any other docker machine can run this code. It's like they are virtual machine but not really.
   - You build on top of Docker, which is on top of the Host OS, which is on top of the server.
 - Build your image once, push it out, and send it anywhere.
+
+# Introduction to Docker
+[Reference](https://training.docker.com/archive)
+
+- Docker Engine, Hub, Machine, Swarm, Compose, and Kitematic.
+- Before: one application on one physical server. Problem: slow deployment, costs, wasted resources, difficult to scale, difficult to migrate, vendor lock-in.
+- Benefits of VMS: Better resource pooling, VMs in the cloud, pay as you go.
+- Limitations of VMs: Each needs CPU, storage, RAM, a guest operation system.
+- Containers: using the kernel on the host's operating system to run multiple guest instances (each container has its own filesystem, processes, memory, devices, and network ports).
+- Containers interact with the Kernel. Using containers, we can isolate its own runtime environment vs the other ones.
+- Containers vs VMs: lighter, no guest OS, less CPU/RAM/storage required, more containers per machine then VMs, more portable.
+
+- Docker Engine: enables containers to be built, shipped, and run. Uses Linux Kernel namespaces/control groups.
+- Installing: Getting a shell script, piped into `sh`.
+- Client and daemon.
