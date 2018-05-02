@@ -274,3 +274,148 @@
 - Marshall didn't even want to look at a painting of himself. He had the same traits that everyone has, but they were "tempered by a sense of humility and selflessness."
 - ***Play for the name on the front of the jersey, he says, and they'll remember the name on the back.***
 - The credit? Who cares.
+
+## MEDITATE ON THE IMMENSITY
+
+- When we lack a connection to anything larger or bigger than us, it's like a piece of our soul is gone.
+- No wonder we find success empty. No wonder we're exhausted. No wonder it feels like we're on a treadmill. No wonder we lose touch with the energy that once fueled us.
+- ***Here's an exercise: walk onto ancient battlefield or a place of historical significance. Look at the statues and you can't help but see how similar the people look, how little has changed since then—since before, and how it will be forever after. Here a great man once stood. Here another brave woman died. In those moments, we have a sense of the immensity of the world.***
+- Why do you think that great leaders and thinkers throughout history have "gone out into the wilderness" and come back with inspiration, with a plan, with an experience that puts them on a course that changes the world? It's because in doing so they found perspective, they understood the larger picture in a way that wasn't possible in the bustle of everyday life. Silencing the noise around them, they could finally hear the quiet voice they needed to listen to.
+- ***Creativity is a matter of receptiveness and recognition. This cannot happen if you're convinced the world revolves around you.***
+- *It's sad how disconnected from the past and the future most of us really are. We forget that woolly mammoths walked the earth while the pyramids were being built. We don't realize that Cleopatra lived closer to our time than she did to the construction of those famous pyramids that marked her kingdom. When British workers excavated the land in Trafalgar Square to build Nelson's Column and its famous stone lions, in the ground they found the bones of actual lions, who'd roamed that exact spot just a few thousand years before. Someone recently calculated that it takes but a chain of six individuals who shook hands with one another across the centuries to connect Barack Obama to George Washington. There's a video you can watch on YouTube of a man on a CBS game show, "I've Got a Secret," in 1956, in an episode that also happened to feature a famous actress named Lucille Ball. His secret? He was in Ford's Theatre when Lincoln was assassinated. England's government only recently paid off debts it incurred as far back as 1720 from events like the South Sea Bubble, the Napoleonic wars, the empire's abolition of slavery, and the Irish potato famine—meaning that in the twenty-first century there was still a direct and daily connection to the eighteenth and nineteenth centuries.*
+
+## MAINTAIN YOUR SOBRIETY
+
+- Angela Merkel is the antithesis of nearly every assumption we make about a head of state—especially a German one. She is plain. She is modest. She cares little for presentation or flash. She gives no fiery speeches. She has no interest in expansion or domination. Mostly, she is quiet and reserved.
+  - Chancellor Angela Merkel is sober, when far too many leaders are intoxicated—with ego, with power, with position. This sobriety is precisely what has made her a wildly popular three-term leader and, paradoxically, a powerful, sweeping force for freedom and peace in modern Europe.
+  - "Fear is a bad advisor."
+  - Is it really sustainable for the next several decades? Can you really outwork and outrun everyone forever?
+- *Merkel is the embodiment of Aesop's fable about the tortoise. She is slow and steady. The historic night the Berlin Wall fell, she was thirty-five. She had one beer, went to bed, and showed up early for work the next day. A few years later, she had worked to become a respected but obscure physicist. Only then did she enter politics. In her fifties, she became chancellor. It was a diligent, plodding path.*
+- Merkel is firm, clear, and patient. She's willing to compromise on everything except the principle at stake—which far too many people lose sight of.
+- "Don't be deceived by recognition you have gotten or the amount of money in your bank account."
+- ***Other politicians are bold and charismatic. But as Merkel supposedly said, "You can't solve tasks with charisma." She is rational. She analyzes. She makes it about the situation, not about herself, as people in power often do. Her background in science is helpful here, surely. Politicians are often vain, obsessing about their image. Merkel is too objective for that. She cares about results and little else. A German writer observed in a tribute on her fiftieth birthday that unpretentiousness is Merkel's main weapon.***
+- *David Halberstam, writing about the Patriots' coach Bill Belichick, observed that the man was "not only in the steak business, he had contempt for sizzle." You could say the same about Merkel. Leaders like Belichick and Merkel know that steak is what wins games and moves nations forward. Sizzle, on the other hand, makes it harder to make the right decisions—how to interact with others, who to promote, which plays to run, what feedback to listen to, where to come down on an issue.*
+- We're not talking about abstinence from drugs or alcohol obviously, but there certainly is an element of restraint to egoless sobriety—an elimination of the unnecessary and the destructive. No more obsessing about your image; treating people beneath you or above you with contempt; needing first-class trappings and the star treatment; raging, fighting, preening, performing, lording over, condescending, and marveling at your own awesomeness or self-anointed importance.
+- As hard as it might be to believe from what we see in the media, there actually are some successful people with modest apartments. Like Merkel, they have normal private lives with their spouses (her husband skipped her first inauguration). They lack artifice, they wear normal clothes. Most successful people are people you've never heard of. They want it that way.
+
+## FOR WHAT OFTEN COMES NEXT, EGO IS THE ENEMY
+
+- It's not that he was wrong to have great ambitions. Alexander just never grasped Aristotle's "golden mean"—that is, the middle ground.
+  - Courage, for instance, lies between cowardice on one end and recklessness on the other.
+  - Generosity, which we all admire, must stop short of either profligacy and parsimony in order to be of any use.
+- Behind every goal is the drive to be happy and fulfilled—but when egotism takes hold, we lose track of our goal and end up somewhere we never intended.
+
+## FAILURE
+
+- In 1963, at forty-six years old, Katharine Graham, a mother of three with no work experience, found herself in charge of the Washington Post Company, a vast corporation with thousands of employees.
+- Failure and adversity are relative and unique to each of us. Almost without exception, this is what life does: it takes our plans and dashes them to pieces. Sometimes once, sometimes lots of times.
+- If success is ego intoxication, then failure can be a devastating ego blow—turning slips into falls and little troubles into great unravelings.
+- Gilgamesh: "He will face a battle he knows not, he will ride a road he knows not."
+- ***People who have already been through a lot find themselves stuck with more. Life isn't fair. Ego loves this notion, the idea that something is "fair" or not. Psychologists call it narcissistic injury when we take personally totally indifferent and objective events. We do that when our sense of self is fragile and dependent on life going our way all the time. Whether what you're going through is your fault or your problem doesn't matter, because it's yours to deal with right now. You could say that failure always arrives uninvited, but through our ego, far too many of us allow it to stick around.***
+- When we face difficulty, particularly public difficulty (doubters, scandals, losses), our friend the ego will show its true colors.
+Absorbing the negative feedback, ego says: I knew you couldn't do it. Why did you ever try? It claims: This isn't worth it. This isn't fair. This is somebody else's problem. Why don't you come up with a good excuse and wash your hands of this? It tells us we shouldn't have to put up with this. It tells us that we're not the problem.
+- ***Epicurus: the narcissistically inclined live in an "unwalled city." A fragile sense of self is constantly under threat. Illusions and accomplishments are not defenses, not when you've got the special sensitive antennae trained to receive (and create) the signals that challenge your precarious balancing act.***
+- Humble and strong people don't have the same trouble with these troubles that egotists do. There are fewer complaints and far less self-immolation. Instead, there's stoic—even cheerful—resilience. Pity isn't necessary. Their identity isn't threatened. They can get by without constant validation.
+
+## ALIVE TIME OR DEAD TIME?
+
+- When your actions land you a lengthy prison sentence—rightly tried and convicted—something has gone wrong. You've failed not only yourself, but the basic standards of society and morality. That was the case with Malcolm.
+- ***According to Greene, there are two types of time in our lives: dead time, when people are passive and waiting, and alive time, when people are learning and acting and utilizing every second. Every moment of failure, every moment or situation that we did not deliberately choose or control, presents this choice: Alive time. Dead time.***
+- Malcolm X chose alive time. He began to learn. He explored religion. He taught himself to be a reader by checking out a pencil and the dictionary from the prison library and not only consumed it from start to finish, but copied it down longhand from cover to cover. All these words he'd never known existed before were transferred to his brain.
+- As he said later, "From then until I left that prison, in every free moment I had, if I was not reading in the library, I was reading in my bunk." He read history, he read sociology, he read about religion, he read the classics, he read philosophers like Kant and Spinoza. Later, a reporter asked Malcolm, "What's your alma mater?" His one word answer: "Books." Prison was his college. He transcended confinement through the pages he absorbed. He reflected that months passed without his even thinking about being detained against his will. He had "never been so truly free in his life."
+- Most people know what Malcolm X did after he got out of prison, but they don't realize or understand how prison made that possible. How a mix of acceptance, humility, and strength powered the transformation. They also aren't aware of how common this is in history, how many figures took seemingly terrible situations—a prison sentence, an exile, a bear market or depression, military conscription, even being sent to a concentration camp—and through their attitude and approach, turned those circumstances into fuel for their unique greatness.
+- *"Many a serious thinker has been produced in prisons," as Robert Greene put it, "where we have nothing to do but think." Yet sadly, prisons—in their literal and figurative forms—have produced far more degenerates, losers, and ne'er-do-wells. Inmates might have had nothing to do but think; it's just that what they chose to think about made them worse and not better.*
+  - That's what so many of us do when we fail or get ourselves into trouble. Lacking the ability to examine ourselves, we reinvest our energy into exactly the patterns of behavior that caused our problems to begin with.
+  - It comes in many forms. Idly dreaming about the future. Plotting our revenge. Finding refuge in distraction. Refusing to consider that our choices are a reflection of our character. We'd rather do basically anything else.
+  - But what if we said: This is an opportunity for me. I am using it for my purposes. I will not let this be dead time for me.
+  - The dead time was when we were controlled by ego. Now—now we can live.
+
+## THE EFFORT IS ENOUGH
+
+- Belisarius is one of the greatest yet unknown military generals in all of history.
+  - As Rome's highest-ranking commander under the Byzantine emperor Justinian, Belisarius saved Western civilization on at least three occasions.
+  - His thanks? He was not given public triumphs. Instead, he was repeatedly placed under suspicion by the paranoid emperor he served, Justinian.
+  - His victories and sacrifices were undone with foolish treaties and bad faith. His personal historian, Procopius, was corrupted by Justinian to tarnish the man's image and legacy. Later, he was relieved of command. His only remaining title was the deliberately humiliating "Commander of the Royal Stable." Oh, and at the end of his illustrious career, Belisarius was stripped of his wealth, and according to the legend, blinded, and forced to beg in the streets to survive.
+  - In his eyes, he was just doing his job—one he believed was his sacred duty. He knew that he did it well. He knew he had done what was right. That was enough.
+
+- ***In life, there will be times when we do everything right, perhaps even perfectly. Yet the results will somehow be negative: failure, disrespect, jealousy, or even a resounding yawn from the world.***
+- Depending on what motivates us, this response can be crushing. If ego holds sway, we'll accept nothing less than full appreciation.
+- A dangerous attitude because when someone works on a project—whether it's a book or a business or otherwise—at a certain point, that thing leaves their hands and enters the realm of the world. It is judged, received, and acted on by other people. It stops being something he controls and it depends on them.
+- Belisarius could win his battles. He could lead his men. He could determine his personal ethics. He could not control whether his work was appreciated or whether it aroused suspicion. He had no ability to control whether a powerful dictator would treat him well.
+- Doing the right thing was enough. Serving his country, his God, and doing his duty faithfully was all that mattered. Any adversity could be endured and any rewards were considered extra.
+- *We are all faced with this same challenge in the pursuit of our own goals: Will we work hard for something that can be taken away from us? Will we invest time and energy even if an outcome is not guaranteed? With the right motives we're willing to proceed. With ego, we're not.*
+- Think of all the activists who will find that they can only advance their cause so far. The leaders who are assassinated before their work is done. The inventors whose ideas languish "ahead of their time." According to society's main metrics, these people were not rewarded for their work. Should they have not done it?
+- It's far better when doing good work is sufficient. In other words, the less attached we are to outcomes the better. When fulfilling our own standards is what fills us with pride and self-respect. When the effort—not the results, good or bad—is enough.
+- ***Well, get ready for it. It will happen. Maybe your parents will never be impressed. Maybe your girlfriend won't care. Maybe the investor won't see the numbers. Maybe the audience won't clap. But we have to be able to push through. We can't let that be what motivates us.***
+- You will be unappreciated. You will be sabotaged. You will experience surprising failures. Your expectations will not be met. You will lose. You will fail.
+- ***How do you carry on then? How do you take pride in yourself and your work? John Wooden's advice to his players says it: Change the definition of success. "Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to do your best to become the best that you are capable of becoming." "Ambition," Marcus Aurelius reminded himself, "means tying your well-being to what other people say or do. Sanity means tying it to your own actions."***
+- Do your work. Do it well. Then "let go and let God." That's all there needs to be.
+- Recognition and rewards—those are just extra. Rejection, that's on them, not on us.
+- We can't let externals determine whether something was worth it or not. It's on us.
+- The world is, after all, indifferent to what we humans "want." If we persist in wanting, in needing, we are simply setting ourselves up for resentment or worse.
+
+## FIGHT CLUB MOMENTS
+
+- There is hardly the space to list all the successful people who have hit rock bottom.  The notion everyone experiences jarring, perspective-altering moments is almost a cliché. That doesn't mean it isn't true.
+- There are many ways to hit bottom. Almost everyone does in their own way, at some point.
+- In Greek mythology, characters often experience katabasis—or "a going down." They're forced to retreat, they experience a depression, or in some cases literally descend into the underworld. When they emerge, it's with heightened knowledge and understanding.
+- *We surround ourselves with bullshit. With distractions. With lies about what makes us happy and what's important. We become people we shouldn't become and engage in destructive, awful behaviors. This unhealthy and ego-derived state hardens and becomes almost permanent. Until katabasis forces us to face it.*
+- In fact, many significant life changes come from moments in which we are thoroughly demolished, in which everything we thought we knew about the world is rendered false.
+  - We might call these "Fight Club moments." Sometimes they are self-inflicted, sometimes inflicted on us, but whatever the cause they can be catalysts for changes we were petrified to make.
+  - A boss's eviscerating critique of you in front of the entire staff. That sit-down with the person you loved. The Google Alert that delivered the article you'd hoped would never be written. The call from the creditor. The news that threw you back in your chair, speechless and dumbfounded.
+- It was in those moments—when the break exposes something unseen before—that you were forced to make eye contact with a thing called Truth. No longer could you hide or pretend.
+- ***Such a moment raises many questions: How do I make sense of this? How do I move onward and upward? Is this the bottom, or is there more to come? Someone told me my problems, so how do I fix them? How did I let this happen? How can it never happen again?***
+
+- A look at history finds that these events seem to be defined by three traits:
+  - They almost always came at the hands of some outside force or person.
+  - They often involved things we already knew about ourselves, but were too scared to admit.
+  - From the ruin came the opportunity for great progress and improvement.
+- Hemingway had his own rock-bottom realizations as a young man. The understanding he took from them is expressed timelessly in his book A Farewell to Arms. He wrote, "The world breaks every one and afterward many are strong at the broken places. But those that will not break it kills."
+- The world can show you the truth, but no one can force you to accept it.
+- Face the symptoms. Cure the disease. Ego makes it so hard—it's easier to delay, to double down, to deliberately avoid seeing the changes we need to make in our lives.
+- Change begins by hearing the criticism and the words of the people around you. Even if those words are mean spirited, angry, or hurtful. It means weighing them, discarding the ones that don't matter, and reflecting on the ones you do.
+
+## DRAW THE LINE
+
+- It can ruin your life only if it ruins your character.—MARCUS AURELIUS
+- Steve Jobs's response to his firing was understandable. But then he started a new company and threw his whole life into it. He tried to learn as best he could from the management mistakes at the root of his first failure.
+  - He started another company after that too, called Pixar. Steve Jobs, the famous egomaniac who parked in handicap parking spaces just because he could, responded in this critical moment in a surprising way. Humble for CEOs convinced of their own genius, anyway. He worked until he'd not only proven himself again, but significantly resolved the flaws that had caused his downfall to begin with.
+- Ego kills what we love. Sometimes, it comes close to killing us too.
+- *When a team looks like they're going to lose a game, the coach doesn't call them all over and lie to them. Instead, he or she reminds them who they are and what they're capable of, and urges them to go back out there and embody that. With winning or miracles off their minds, a good team does its best to complete the game at the highest standard possible (and share the playing time with other players who don't regularly play). And sometimes, they even come back and win.*
+- The only real failure is abandoning your principles. Killing what you love because you can't bear to part from it is selfish and stupid. If your reputation can't absorb a few blows, it wasn't worth anything in the first place.
+
+## MAINTAIN YOUR OWN SCORECARD
+
+- For years, Scott Pioli, director of personnel for the Patriots, kept a photo on his desk of Dave Stachelski, a player the team had drafted in the 5th round, but who never made it through training camp. It was a reminder: You're not as good as you think. You don't have it all figured out. Stay focused. Do better.
+- *This is characteristic of how great people think. It's not that they find failure in every success. They just hold themselves to a standard that exceeds what society might consider to be objective success. Because of that, they don't much care what other people think; they care whether they meet their own standards. And these standards are much, much higher than everyone else's.*
+- The Patriots saw the Brady pick as being more lucky than smart. And though some people are fine giving themselves credit for luck, they weren't. In this instance, instead of celebrating or congratulating themselves, they put their heads back down and focused on how to get even better. That's what makes humility such a powerful force—organizationally, personally, professionally.
+- Ego can't see both sides of the issue. It can't get better because it only sees the validation. Remember, "Vain men never hear anything but praise." It can only see what's going well, not what isn't. It's why you might see egomaniacs with temporary leads, but rarely lasting runs of it.
+- ***For us, the scoreboard can't be the only scoreboard. Warren Buffett has said the same thing, making a distinction between the inner scorecard and the external one. Your potential, the absolute best you're capable of—that's the metric to measure yourself against. Your standards are. Winning is not enough. People can get lucky and win. People can be assholes and win. Anyone can win. But not everyone is the best possible version of themselves.***
+- Harsh, yes. The flip side is that it means being honestly able to be proud and strong during the occasional defeat as well. When you take ego out of the equation, other people's opinions and external markers won't matter as much. That's more difficult, but ultimately a formula for resilience.
+- *Think of all the people who excuse their behavior—politicians, powerful CEOs, and the like—as "not technically illegal." Think of the times that you've excused your own with "no one will know." This is the moral gray area that our ego loves to exploit. Holding your ego against a standard (inner or indifferent or whatever you want to call it) makes it less and less likely that excess or wrongdoing is going to be tolerated by you. Because it's not about what you can get away with, it's about what you should or shouldn't do.*
+
+## ALWAYS LOVE
+
+- Hearst and Citizen Kane: The movie failed commercially because of Hearst.
+- We all have stuff that pisses us off. The more successful or powerful we are, the more there will be that we think we need to protect in terms of our legacy, image, and influence. If we're not careful, however, we can end up wasting an incredible amount of time trying to keep the world from displeasing or disrespecting us.
+- It is a sobering thought to consider for a moment all the needless death and needless waste inflicted over the eons by angry men or aggrieved women on other people, on society, and on themselves. Over what? Reasons that can hardly be remembered.
+- *Douglass would have none of that. He wasn't angry. He wasn't hurt. He replied with great fervor: "They cannot degrade Frederick Douglass. The soul that is within me no man can degrade. I am not the one that is being degraded on account of this treatment, but those who are inflicting it upon me."*
+- It took a very long time for Welles's genius in that movie to finally be acknowledged by the rest of the world. No matter, Welles soldiered on, making other movies and producing other fantastic art. By all accounts, he lived a fulfilling and happy life. Eventually, Citizen Kane secured its place in the forefront of cinematic history. Seventy years after the movie's debut, it was finally played at Hearst Castle at San Simeon, which is now a state park.
+- *The events he endured weren't exactly fair, but at least he didn't let it ruin his life. As Welles's girlfriend of twenty-plus years said in his eulogy, referring not just to Hearst, but to every slight he ever received in his long career in a notoriously ruthless industry, "I promise you it didn't make him bitter."*
+
+## FOR EVERYTHING THAT COMES NEXT, EGO IS THE ENEMY . . .
+
+- There is no way around it: We will experience difficulty. We will feel the touch of failure. As Benjamin Franklin observed, those who "drink to the bottom of the cup must expect to meet with some of the dregs."
+- *But what if those dregs weren't so bad? As Harold Geneen put it, "People learn from their failures. Seldom do they learn anything from success." It's why the old Celtic saying tells us, "See much, study much, suffer much, that is the path to wisdom."*
+- Wisdom or ignorance? Ego is the swing vote.
+- Aspiration leads to success (and adversity). Success creates its own adversity (and, hopefully, new ambitions). And adversity leads to aspiration and more success. It's an endless loop.
+- All of us exist on this continuum. We occupy different places on it at various points in our lives. But when we do fail, it sucks. No question.
+- Whatever is next for us, we can be sure of one thing we'll want to avoid. Ego. It makes all the steps hard, but failure is the one it will make permanent. Unless we learn, right here and right now, from our mistakes. Unless we use this moment as an opportunity to understand ourselves and our own mind better, ego will seek out failure like true north.
+
+# EPILOGUE
+
+- *It is no easy task to go head-to-head with one's ego. To accept first that ego may be there. Then to subject it to scrutiny and criticism. Most of us can't handle uncomfortable self-examination. It's easier to do just about anything else—in fact, some of the world's most unbelievable accomplishments are undoubtedly a result of a desire to avoid facing the darkness of ego.*
+- My friend the philosopher and martial artist Daniele Bolelli once gave me a helpful metaphor. He explained that training was like sweeping the floor. Just because we've done it once, doesn't mean the floor is clean forever. Every day the dust comes back. Every day we must sweep.
+- *We all experience success and failure in our own way. Struggling to write this book, I went through four hard-fought but rejected drafts of the proposal and dozens of drafts of the manuscript. On my earlier projects, I'm sure the strain would have broken me. Maybe I would have quit or tried to work with someone else. Maybe I would have dug in my heels to get my way and irreparably damaged the book.*
+- *At some point during the process, I came up with a therapeutic device. After each draft, I would tear up the pages and feed the paper to a worm compost I keep in my garage. A few months later, those painful pages were dirt that nourished my yard, which I could walk with bare feet. It was a real and tangible connection to that larger immensity. I liked to remind myself that the same process is going to happen to me when I'm done, when I die and nature tears me up.*
+- One of the most freeing realizations came to me while I was writing and thinking about the ideas in the pages you've just read. It occurred to me what a damaging delusion this notion that our lives are "grand monuments" set to last for all time really is. Any ambitious person knows that feeling—that you must do great things, that you must get your way, and that if you don't that you're a worthless failure and the world is conspiring against you. There is so much pressure that eventually we all break under it or are broken by it.
