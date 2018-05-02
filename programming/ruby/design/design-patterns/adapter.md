@@ -1,3 +1,20 @@
+# Graceful Errors in Ruby SDKs
+
+- Auth Error (wrong API key):
+  - Bad: Sendgrid, because it doesn't even show where the error was had.
+  - Good: Twilio, it shows a `TwilioError`, but doesn't say what.
+  - Great: `Contentful`: The error actually makes sense `Contentful::Unauthorized` and there is a description from the API response. Error also has line breaks!
+
+``` ruby
+client.rb:321:in `fail_response': HTTP status code: 401 Unauthorized (Contentful::Unauthorized)
+Message: The access token you sent could not be found or is invalid.
+Request ID: 420e900ce606953c660fe28899b14bb0
+```
+
+- Invalid Request Error:
+  - Bad: Sendgrid, because it fails quietly.
+  - Good: Stripe, because it says what fields are missing.
+
 # TutsPlus
 
 You can use this when a procedure is the same across different implementations but there is just a single point of differentiation. The adapter pattern solves this bottleneck by having several adapters to close the procedure.
