@@ -413,3 +413,81 @@
   - Sell all your useless crap and get your financial house in order. And they're often counterproductive for achieving happiness in general.
   - Source of income? Online business, remote work, get transferred?
 - Escape velocity.
+
+# THE STAGGERING BULLSHIT OF “THE SECRET”
+[Reference](https://markmanson.net/the-secret)
+
+- "I'm the center of the universe" angle to the same old ideas.
+- She explains "The Secret"'s attraction with cosmological nonsense.
+- Confirmation bias: We pay more attention to objects that match our pre-existing thoughts and beliefs (this is biologically economical and efficient).
+- The Secret requires that you never doubt yourself, never consider negative repercussions, and never indulge in negative thoughts. This is the confirmation bias on steroids. This can become "delusionally positive" thinking.
+- Trying to suppress thoughts about something only makes those thoughts more likely to recur. The more you try to get rid of unwanted thoughts, the more these thoughts dominate your mental space. Thinking about the things you do not want can lead to more negative thinking and put you in a vicious cycle of negativity.
+- People who ignore reality in favor of feeling good all the time have a tendency to attract the most desperate and gullible members of society. Those followers then "manifest" their dreams by spreading the law of attraction, and spread it out to other desperate well-wishers. This carries on this way through generations.
+- ***Books like The Secret are like McDonald's for the mind. They're easy and make you feel good, but they make you mentally fat and lazy, and emotionally, you die a much more painful death.***
+- *Call me crazy, but I believe that changing and improving your life requires destroying a part of yourself and replacing it with a newer, better part of yourself. It is therefore, by definition, a painful process full of resistance and anxiety. You can’t grow muscle without challenging it with greater weight. You can’t build emotional resilience without forging through hardship and loss. And you can’t build a better mind without challenging your own beliefs and assumptions. Why should we ever expect that becoming a better person is easy, or pleasant, or positive?*
+
+# YOUR TWO MINDS
+[Reference](https://markmanson.net/your-two-minds)
+
+- When you close your eyes and try to eliminate any thoughts (and fail miserably like the rest of us), obviously your mind is thinking.
+- But if your mind is thinking, then who is observing the mind thinking?
+- When you did the exercise and your mind kept wandering back to what you had to do at work tomorrow, who was it that was watching your mind worry about work tomorrow? It was your mind watching your mind.
+- "Thinking Mind" and "Observing Mind".
+- We can't completely control the Thinking Mind: the Observing Mind observes the Thinking Mind thinking about elephants despite telling it not to think about it.
+- The same goes for emotions. And that’s actually where most of our suffering comes from – not from the negative emotions themselves, but from the fact that we’re helpless from getting sucked into the negative emotions.
+- ***Most of our psychological and emotional stress happens because our Thinking Mind and Observing Mind are “fused” and we don’t recognize the difference.***
+- People ask me all the time, “How do I stop feeling so jealous?” or “How do I stop feeling so angry?” or “How do I not get nervous in this situation anymore?” ***The answer: you don’t. You can’t control your Thinking Mind. Those emotions pop up and will continue to pop up.***
+Now, instead of thinking, “I was angry at my brother,” think instead, “I felt anger towards my brother.” You HAD anger, but you weren’t controlled by the anger.
+
+
+Emotions are not a choice. Behavior is.
+
+
+I feel the same fear and worry anyone else does, I just don’t identify with it. I accept it and move on despite it.
+
+I don’t let my Thinking Mind control me. I defuse from my emotions. When I feel fear, I consciously choose to act despite it. When I feel worry, I consciously choose to act despite it.
+
+
+
+These days I’m often able to sit down and write 5,000 words or more in a single day. I still feel the same anxiety. I still hear the same thoughts (“I need to eat first,” “I should take a nap,” “I’m not in a writing mood right now.”)
+
+But now, instead of identifying with these thoughts, I acknowledge them:
+
+“I feel nervous about writing today.”
+“I have the thought that I need to eat first.”
+“I have the thought that I need to take a nap first.”
+
+And then I turn to my Thinking Mind and promptly tell him that he’s full of shit and that I don’t need a damn thing except to sit my ass down and start writing.
+
+We all produce excuses and negative emotions involuntarily. Guess what? That’s NEVER going to change.
+
+
+When people come to me ask how to “stop feeling angry,” or “stop getting nervous,” this is their problem: As soon as you try to eliminate a thought or emotion, you make it stronger.
+
+As the Buddhist saying goes: “What you resist will persist.”
+
+Or as Tony Robbins says: “You feel what you focus.” The more you focus on an emotion, the more powerful it becomes. Thus, negative emotions are like quicksand, the more you struggle to get out of them, the further into them you sink.
+
+“My boss is not an idiot. But I am having the thought that my boss is an idiot.”
+“I don’t hate my ex-girlfriend. I am feeling hatred toward my ex-girlfriend.”
+“I am not lonely and depressed. I am feeling loneliness and depression.”
+
+Language is very powerful. Disidentifying from these emotions and thoughts in this way does two things: 1) implies that they’re temporary states, and not permanent conditions; and 2) forces you to take responsibility for them. They’re nobody’s fault, they just are.
+
+# THE “DO SOMETHING” PRINCIPLE
+[Reference](https://markmanson.net/do-something)
+
+
+- Most people only commit to action if they feel a certain level of motivation. And they only feel motivation when they feel an emotional inspiration.
+- Emotional Inspiration → Motivation → Desirable Action
+- If someone wants to fix their relationship with their mother, the emotions of the situation (hurt, resentment, avoidance) completely go against the necessary action to fix it (confrontation, honesty, communication). If someone wants to lose weight but experiences massive amounts of shame about their body, then the act of going to the gym is apt to inspire in them the exact emotions that kept them at home on the couch in the first place. Past traumas, negative expectations, and feelings of guilt, shame and fear often motivate us away from the actions necessary to overcome those very traumas, negative expectations, and negative emotions.
+
+## HOW MOTIVATION REALLY WORKS
+
+- Inspiration → Motivation → Action → Inspiration → Motivation → Action → Etc.
+- The conclusion is that if you lack the motivation to make an important change in your life, then do something, anything really, and then harness the reaction to that action as a way to begin motivating yourself.
+- It began out of simple pragmatism: you paid me to be here so you might as well do something. I don’t care, do anything!
+- ***The first couple years I worked for myself, entire weeks would go by without accomplishing much for no other reason than I was anxious and stressed about what I had to do, and it was too easy to put it off. I quickly learned that forcing myself to do something, even the most menial of tasks, quickly made the larger tasks seem much easier.***
+- If I had to redesign an entire website, then I’d force myself to sit down and would say, “OK, I’ll just design the header right now.” But after the header was done, I’d find myself moving on to other parts of it. And before I knew it, I’d be energized and engaged in the project.
+- Inevitably, the appropriate action occurs at some point or another. The motivation is natural. The inspiration is genuine. It’s an overall far more pleasant way of accomplishing my goals.
+- I recently heard a story about a novelist who had written over 70 novels. Someone asked him how he was able to write so consistently and remain inspired and motivated every day, as writers are notorious for procrastination and for fighting through bouts of “writer’s block”. The novelist said, “200 crappy words per day, that’s it.” The idea is that if he forced himself to write 200 crappy words, more often than not, the act of writing would inspire him and before he knew it he’d have thousands down on the page.
