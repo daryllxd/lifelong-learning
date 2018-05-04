@@ -1,0 +1,56 @@
+# 95 Ways to find your first customers for customer development or your first sale
+[Reference](https://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale/)
+
+- Goal: learning. No plan survives first contact with customers.
+- Low success rate: 10-20% is normal.
+- Don't worry about scaling.
+- Remember your manners and personalize: be respectful with your customers!
+- Don't get banned.
+
+- LinkedIn:
+  - LinkedIn answers.
+  - Search + InMail.
+  - Check connections.
+  - Check connections for intros.
+  - Post to LinkedIn Social Network.
+  - Run ads.
+- Facebook:
+  - Look up your friends, ask your friends, fan pages, targeted ads, Graph Search.
+- Twitter:
+  - Ask followers, ask for referrals, run Twitter ads, ask Twitter accounts to tweet on your behalf, search for relevant hashtags, Twitter chat, search Twitter for people talking about your problem.
+- Email:
+  - Email relevant friends/contacts, start a personal newsletter, Rapportive to find emails/cold email `GChat` statuses, an email signature.
+- Meetup.com:
+  - Join and attend meetups in you r category, ask organizers to see if they can message the group, mention in your Meetup profile what you're looking for, and create a Meetup group.
+- Your blog:
+  - Write a blog post about the problem you're solving, and post your blog to discussion sites in appropriate categories. Spray and pray boys.
+  - Update your about page to what you're looking for.
+  - Make a page on your blog just about your market.
+  - Start a blog just to talk about your industry.
+- Other blogs:
+  - Interview other bloggers.
+  - Ask other bloggers to run an ad for you.
+  - Ask other bloggers to write about you.
+  - Ask to write a guest blog post.
+  - Use Blog lists to find the right blogs.
+  - Reach out to commenters.
+- Q&A sites like Quora.
+  - Reach out to people that ask relevant questions.
+  - Answer questions about your problem/market.
+  - Reach out to great answers.
+  - Ask questions to see who answers.
+  - Put all to action in your Profile.
+- IRL.
+  - Approach people outside.
+  - Look for people unhappy with a service.
+  - Go to conferences for your target audience.
+  - Go to trade organization events.
+  - Ask people on airplanes/train rides.
+- Your user base:
+  - Referral program, email, chat.
+- Adwords: Adwords + landing page, running ads on lesser known networks, SEO basics in order.
+- Newsletters: Talk to newsletter owners, buy ads, ask for mentions in a newsletter, start your own industry newsletter.
+- Complimentary startups, guest post on their blog, find their users and reach out to them directly.
+- Watch your competition/great artists steel, look for mentions, use research tools (MixRank/Spyfu).
+- Data research tools.
+- Kickstarter: Look for products getting funded in your industry, reach out to backers, put your idea out on a funding site.
