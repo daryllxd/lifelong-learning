@@ -131,3 +131,13 @@ You have text that needs to be written to a file. In your system, sometimes you 
       end
     end
 
+# A Decorator vs a Subclass
+[Reference](https://www.justinweiss.com/articles/a-decorator-vs-a-subclass/)
+
+- Separate behavior into 2 different classes.
+- Subclasses can access private methods, and decorators can only access public methods. This makes it easier for subclasses to break.
+- *Decorators can be especially useful when you’re breaking apart large classes. With decorators, it’s easier to follow the Single-Responsibility Principle – each decorator can do one thing and do it well, and you can combine decorators to get more complex behavior.*
+
+## Comments
+
+- I think a good reason to use decorators rather than subclassing is that you can often test the decorators without having to load heavy weight dependencies such as an ORM.
