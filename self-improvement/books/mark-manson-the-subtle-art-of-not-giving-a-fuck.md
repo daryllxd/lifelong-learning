@@ -491,3 +491,36 @@ Language is very powerful. Disidentifying from these emotions and thoughts in th
 - If I had to redesign an entire website, then I’d force myself to sit down and would say, “OK, I’ll just design the header right now.” But after the header was done, I’d find myself moving on to other parts of it. And before I knew it, I’d be energized and engaged in the project.
 - Inevitably, the appropriate action occurs at some point or another. The motivation is natural. The inspiration is genuine. It’s an overall far more pleasant way of accomplishing my goals.
 - I recently heard a story about a novelist who had written over 70 novels. Someone asked him how he was able to write so consistently and remain inspired and motivated every day, as writers are notorious for procrastination and for fighting through bouts of “writer’s block”. The novelist said, “200 crappy words per day, that’s it.” The idea is that if he forced himself to write 200 crappy words, more often than not, the act of writing would inspire him and before he knew it he’d have thousands down on the page.
+
+# THE THREE LEVELS OF SELF-AWARENESS
+[Reference](https://markmanson.net/self-awareness)
+
+- *LEVEL 1 – WHAT THE HELL ARE YOU DOING?*
+  - Have you struggled with a relationship, felt lonely, isolated, or unheard, felt unproductive or lost on what you should do, been under-slept, under-fed, low energy, stressed about work or finances, uncertain about your future, and physically hurt, ill, or debilitated?
+  - We avoid pain through distraction.
+  - We have to be aware of our distractions. We can't binge on distraction.
+  - The goal with distraction isn't to defeat it, but merely to develop an awareness and control of our distractions. Allot video games into your free time in a way that's satisfying and healthy.
+  - The first level of self-awareness: an understanding of what you are feeling.
+- *Level 2: What the hell are you feeling?*
+  - People freak out when meditating because they get overwhelmed by all of the feelings they've been bottling up forever.
+  - "Finding yourself" means discovering how you actually feel about the shit going on in your life, and often you've been hiding these feelings from yourself for years.
+  - Emotions are powerful, especially for people who have been suppressing their emotions for most of their lives. Suddenly opening up to them will feel life-changing and incredibly profound.
+  - When you look down on layers of intention and motivation, just go down a bit until you start repeating yourself.
+- *Level 3: What the hell are your blind spots?*
+  - The more you become aware of your own emotions and your own desires, the more you discover that you are just FULL OF SHIT.
+  - A large percentage of your thoughts, arguments, and actions are merely reflections of whatever we are feeling in that moment. I get into an argument with my editor, and I decide I'll hate the movie I'm watching with my wife.
+  - We use our loved ones as an emotional punching bag to validate all the crap that we are feeling, whether they deserve it or not.
+
+- Flaws of our minds:
+  - Our memories are unreliable and we make shit up.
+  - We constantly overestimate ourselves.
+  - Contradictory evidence somehow makes us surer of our position rather than inspire us to question it.
+  - Our attention focuses on things that cohere to our pre-existing beliefs. (This is why two people can watch the same event and come away with two contradictory methods of it.)
+  - We tell small lies to improve our results.
+  - We are abysmal at estimating stats.
+- Knowing weaknesses:
+  - Hold weaker opinions: there is a good chance that your intuitions or assumptions are flat-out wrong.
+  - Take yourself less seriously.
+  - Learn your bullshit patterns. Where does your mind go when you feel sad, angry, guilty, anxious?
+  - Recognize the problems you create for yourself. "Hey you're doing this shit when you're sad and you always regret not talking to someone. Then I go talk to someone."
+  - Be realistic. Some people are bad at happiness but are good at managing their anger. What are your strong and weak emotions? Which emotions do you respond poorly to? Where are your biggest biases and judgments coming from? How can you challenge or re-evaluate them?
