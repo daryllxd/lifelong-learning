@@ -38,7 +38,6 @@
   - No API documentation. By defining your resource type, you don't need to specify what your API response should look like, your front-end friends will specify it themselves by giving your the query they want.
   - Introspection.
 
-
 ## Reddit
 [Reference](https://www.reddit.com/r/programming/comments/6zd0op/so_whats_this_graphql_thing_i_keep_hearing_about/)
 
@@ -87,4 +86,3 @@
 - Handling file upload: nothing in the GraphQL spec.
 - Unpredictable/possible to N+1.
 - For really simple APIs, why not just use normal REST?
-

@@ -13,3 +13,10 @@
 - *Flexibility.* Few APIs will support a variety of output formats, but will only support specifying the format in the URL itself. Allow a variety of input formats (POST variables and JSON at least).
 - *Security.* Nobody should inspect the calls to your API, steal the token from your user, and use it for themselves. Make sure that only authorized users an run commands like deleting
 - *Ease of adoption.* It should work the first time, every time. Language-specific libraries.
+
+# Project Guidelines
+[Reference](https://github.com/elsewhencode/project-guidelines#9-api)
+
+- Resource, collection, URLs. Resource: has data, gets nested, and there are methods that operate against it. Collection: a group of resources. URL: identifies the online location of resource or collection.
+- Plural to nouns in collections.
+- Verbs for non-resources. Only use nouns in your resource URLs.
