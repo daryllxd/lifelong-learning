@@ -1,0 +1,11 @@
+# The Death of Microservice Madness in 2018
+[Reference](https://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
+
+## Reddit Thread
+
+- Any article that's based around the "technical merits" of microservices screams a lack of understanding of the problems it solves. *Microservices relate in many ways more to the technical processes around packaging and operations rather than the intrinsic design of the system.* They are the quintessential example of Conway's Law: the architecture coming to reflect the organizational structure.
+- ***The problem with micro-services is that they are a technical solution to a management problem. And implementing micro-services requires a management fix.***
+  - The reason microservices make sense here is because you already have to deal with that complexity due to just the sheer number of developers (and code) you have to deal with. Splitting into smaller more focused concerns just makes sense. When you need separate operation concerns and separate libraries don't matter.
+  - This also explains why you want to keep microservices under control. The total number doesn't matter, but you want to keep the dependency relationships small. Because in reality we are dealing with more of an operational/mgmt thing, if you depend on a 100 micro-services, that means that your team has to interact with 100 other teams.
+  - The next logical continuation of this (Unix philosophy) was Erlang in 1986. Services don't share the same brain. Services communicate through message passing. You put all your services in a supervision tree, write code without defensive programming and let it crash and respawn (just like declarative containers), log issues when they happen, communicate through defined interfaces, run millions of tiny single purpose processes.
+- The power of actual microservices comes from processes and management of teams. Not even the software but people. The isolation of microservices allows one group of people to care for a piece of code without being limited or limiting other teams, as all their processes: pulling merges, running tests, cutting and pushing releases, maintaining and running server software, resource usage and budgeting, happens independent of the other teams.
