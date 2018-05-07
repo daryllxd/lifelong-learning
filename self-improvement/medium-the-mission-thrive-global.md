@@ -695,3 +695,12 @@
 - Ex: 80-20 Rule, basically a minority of inputs leads to a majority of outputs.
   - Basically, with 30-60 minutes a day for prioritization, you can double your productivity.
   - By auditing the relationships in your life, you can identify people you want to spend more time with and people you want to remove in y our life. By looking at what experiences give you the most delight, you can begin to engineer your life differently.
+
+# The One Routine Common to Billionaires, Icons and World-Class Performers
+[Reference](https://medium.com/the-mission/the-one-routine-common-to-billionaires-icons-and-world-class-performers-28ed11a49eda)
+
+- Of all the routines and habits, the most consistent among guests is some form of daily meditation or mindfulness practice. More than 80% of the world-class performers I interviewed shared this trait. Both can be thought of as “cultivating a present-state awareness that helps you to be nonreactive.”
+  - *It is a “meta-skill” that improves everything else. You’re starting your day by practicing focus when it doesn't matter (sitting on a couch for 10 minutes) so that you can focus better later when it does matter (negotiation, conversation with a loved one, max deadlift, mind-melding with a Vulcan, etc.).*
+- Exercise for the body: Two-handed kettlebell swing. Exercise for the mind: 10-20 minutes of meditation.
+- Tim: 20 minutes, last 5 minutes is where the benefit is.
+- The goal is not to "quiet the mind", the goal is to observe your thoughts.
