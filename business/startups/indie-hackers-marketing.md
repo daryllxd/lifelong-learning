@@ -53,3 +53,14 @@ Thanks,
   - Referrals from acquired users.
 - When spending money on user acquisition, know that you are paying for data.
 - Webinars and PDFs, and you have to discover if these worked for coders or for executives.
+
+# How do you get more newsletter subscribers?
+[Reference](https://www.indiehackers.com/forum/how-do-you-get-more-newsletter-subscribers-d9ba269e7b)
+
+- Subreddits, community websites.
+- Reach out to other newsletters, content marketing, share each issue you publish on social media, product marketing (tools for the audience), asking subscribers to share.
+- Think from the perspective of the audience, "Subscribe" landing page. `viral-loops.com`.
+- Find/interview thought leaders of your target audience.
+- Do it again and again.
+- Posts need to be organic and useful to users in the relevant subreddit.
+-  Need to create content like guides, blogs, or videos for engaging, and need to share your issue on Twitter.
