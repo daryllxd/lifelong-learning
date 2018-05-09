@@ -92,4 +92,180 @@ Seneca: best writer. Musonius: pragmatic, suggested what to eat, what to wear, h
 - Born around 30 AD.
 - Didn't write down his thoughts but he had a pupil (Lucius) who took notes during lectures.
 - Aligned himself with Nero's enemies and was exiled to Gyara in the Cyclades. (Seneca mentions it as one of the worst places on which to be exiled.)
-- We should study philosophy, since otherwise, how could we hope to live well?
+- We should study philosophy (women too!), since otherwise, how could we hope to live well?
+---
+
+## Epictetus
+
+- Born into slavery, acquired by Epaphroditus (secretary to Emperor Nero), and was exposed to the imperial court.
+- He asked people whether their souls were healthy so much they threatened to beat him up.
+- His pupils had to: "want to benefit from philosophy" and "understood what a commitment to philosophy entails".
+- *According to Epictetus, the primary concern of philosophy should be the art of living: Just as wood is the medium of the carpenter and bronze is the medium of the sculptor, your life is the medium on which you practice the art of living.*
+- Taught his students: How to respond to insults, how to deal with incompetent servants, how to deal with an angry brother, how to deal with the loss of a loved one, and how to deal with exile.
+- God: Gives you challenges to toughen and strengthen you, so you can have the best life possible. Seneca: "God does not make a spoiled pet of a good man, he tests him, hardens him, and fits him for his own service."
+- *Epictetus would then tell the prospective student that if he wishes to have a good life, he must consider his nature and the purpose for which God created him and live accordingly; he must, as Zeno put it, live in accordance with nature. The person who does this won’t simply pursue pleasure, as an animal might; instead, he will use his reasoning ability to reflect on the human condition. He will strive to become an excellent human being.*
+
+## Marcus Aurelius
+
+- *"BEGIN EACH DAY by telling yourself: Today I shall be meeting with interference, ingratitude, insolence, disloyalty, ill-will, and selfishness—all of them due to the offenders’ ignorance of what is good or evil."*
+- Born 121 AD, taught by Diognetus, experimented with cynicism.
+- Apollonius of Chalcedon: Be decisive and reasonable, combine days full of intense activity with periods of relaxation, withstand sickness and pain, and withstand the anguish of losing a son.
+- Good emperor: respected the senate, took care not to lose public money, financed wars by selling off imperial possessions instead of raising taxes. Philosopher king.
+- No need to prove that tranquility was worth pursuing.
+- Died in 180 AD, did not eat or drink in an attempt to hurry death.
+- The Meditations: a private journal.
+
+# PART TWO Stoic Psychological Techniques
+
+# FOUR Negative Visualization
+
+## What’s the Worst That Can Happen?
+
+ANY THOUGHTFUL PERSON will periodically contemplate the bad things that can happen to him. The obvious reason for doing this is to prevent those things from happening. If we think the bad things that can happen to us, we will lessen their impact on us when they happen. (Misfortune weighs most heavily, he says, on those who “expect nothing but good fortune.”)
+
+We humans are unhappy because we are insatiable (hedonic adaptation). It turns out, though, that after an initial period of exhilaration, lottery winners end up about as happy as they previously were.
+
+*The stoics recommend that we spend the time imagining that we have lost the things we value—that our wife has left us, our car was stolen, or we lost our job.Doing this, the Stoics thought, will make us value our wife, our car, and our job more than we otherwise would.*
+
+Everything we have is "on load" from Fortune, which can reclaim it without our permission, without advance notice. Thus, we should love all of our dear ones, but always with the thought that we have no promise that we may keep them forever.
+
+- Contemplating our own death:
+  - This does not mean to engage in hedonistic excess.
+  - What this means is we should periodically pause to reflect on the fact that we will not live forever and therefore this day could be out last. Such reflection will make us appreciate how wonderful it is to be alive and have the opportunity to fill this day with activity, to make it less likely for us to squander our days.
+  - *The goal is not to change our activities, but to change our state of mind as we carry out those activities.* We don't want to stop thinking about or planning for tomorrow, we have to remember to appreciate today.
+- On homeless people: he can still be thankful that he has his loincloth and his health.
+- Stoics work to improve their external circumstances, but at the same time, the Stoics would suggest things they could do to alleviate their misery until those circumstances are improved.
+
+Are stoics pessimists?
+
+*Instead of thinking whether things are half-full or half-empty, why not appreciate that you have a glass? Glass is amazing.* By consciously thinking about the loss of what we have, we can regain our appreciation of it, and with this regained appreciation we can revitalize our capacity for joy.
+
+*One reason children are capable of joy is because they take almost nothing for granted. To them, the world is wonderfully new and surprising. Not only that, but they aren’t yet sure how the world works: Perhaps the things they have today will mysteriously vanish tomorrow. It is hard for them to take something for granted when they can’t even count on its continued existence.* At some point, we began to take things we have for granted. We grumble about our lives, our homes, our parents. We become a person that keeps on complaining.
+
+We are living in a dream world: compare our conveniences to what our ancestors lived without (antibiotics, air conditioning, toilet paper). We can breathe a sigh of relief that we aren't our ancestors, and our descendants will presumably someday breathe a sigh of relief that they aren't us! Epictetus/projective visualization: *Instead of getting angry at breaking a cup, why not say to yourself that "It's just a cup, these things happen."* There is a difference between contemplating something bad happening and worrying about it. Contemplating means thinking about things without letting it affect our emotions, in the way that a meteorologist spends her days contemplating tornadoes without living in dread of being killed by one.
+
+Negative visualization helps us appreciate the world, and prepares us for changes in that world. To practice negative visualization is helping us appreciate the world is to contemplate the impermanence of the world around us. To a father: "I am lucky to have a child, and I should be prepared to lose her."
+
+***By contemplating the impermanence of everything in the world, we are forced to recognize that every time we do something could be the last time we do it, and this recognition can invest the things we do with a significance and intensity that would otherwise be absent. We will no longer sleepwalk through our life. Some people, I realize, will find it depressing or even morbid to contemplate impermanence.***
+
+---
+# FIVE The Dichotomy of Control
+
+## On Becoming Invincible
+
+Epictetus: Our most important choice in life is whether to concern ourselves with things external to us or to things internal. Most people choose the former. A philosopher looks for the latter. He gives up the rewards of the external world has to offer in order to gain "tranquility, freedom, and calm."
+
+If what you seek is contentment, it is better and easier to change yourself and what you want than it is to change the world around you.
+
+***Your primary desire, says Epictetus, should be your desire not to be frustrated by forming desires you won’t be able to fulfill. Your other desires should conform to this desire, and if they don’t, you should do your best to extinguish them. If you succeed in doing this, you will no longer experience anxiety about whether or not you will get what you want; nor will you experience disappointment on not getting what you want.***
+
+If we want things that are not up to us, we will "meet misfortune" if we fail to get what we want. Especially if you want your friends to live forever.
+
+Also, even if you get it, your tranquility can get disrupted, since you worried about it. Like you became anxious.
+
+## Turning the dichotomy of control into a trichotomy.
+
+- Efforts on things we have control over will have guaranteed results.
+- E says we have complete control over our opinions, impulses, desires, and aversions. I'd say we have sort of control only.
+- I think we have complete control over the goals we set for yourselves. I don't have complete control over whether I achieve any of them.
+- We also have complete control over our values: do we value fame and fortune, pleasure, or tranquility? Whether we live in accordance with our values is different: it's something over which we have some but not complete control.
+- MA: We have control over our character. We're the only ones who can stop ourselves from attaining goodness and integrity. Qualities such as being sincere, industrious, and sober are things we can strive to be.
+- Set internal rather than external goals. "Play to the best of my ability" rather than "win the match".
+
+- It is especially important to internalize our goals if we are in a profession in which "external failure" is commonplace. Not only do you master your craft, but you also deal with all the rejection letters.
+- Even if internalization is a "mind game", it is a useful mind game. Fear of failure is a psychological trait, so it is hardly surprising that by altering our psychological attitude towards failure, we can affect the degree to which we fear it.
+- By thinking about how things could be worse, we forestall or reverse the hedonic adaptation process.
+- *The Stoics: Their goal was not to change the world, but to do their best to bring about certain changes. Even if their efforts proved to be ineffectual, they could nevertheless rest easy knowing that they had accomplished their goal: they had done what they could do.*
+
+# SIX Fatalism
+
+## Letting Go of the Past … and the Present
+
+- E: We are merely actors in a play written by someone else (the Fates).
+- MA: We must learn to adapt ourselves to the environment into which fate has placed us, and do our best to love the people with whom fate has surrounded us.
+- The fates: Clotho wove life, Lachesis measured it, and Atropos cut it.
+- Fatalism with respect to the future: "my actions have no effect on future events".
+- Fatalism with respect to the past: "our actions have no effect on the past."
+- It is only natural to experience grief after the death of a child. But to dwell on that death is a waste of time and emotions, inasmuch as the past cannot be changed. Dwelling causes the woman needless grief.
+  - We sometimes should think about the past to learn lessons that can help us in our efforts to shape the future.
+  - Think about steps to better protect her other children.
+
+- Fatalism with respect to the present
+  - We can spend our days wishing our circumstances to be different, but if we allow ourselves to do this, we will spend our days in a state of dissatisfaction.
+  - *We can either spend this moment wishing it could be different, or we can embrace this moment.*
+- Would this lead to complacency?
+  - Strive to become better people. Strive to do our social duty: S and MA felt compelled to participate in Roman govt, and E and MR were compelled to teach Stoicism.
+  - Do Stoics seek fame and fortune? They will not. The Stoics thought these things had no real value and consequently thought it was foolish to pursue them, particularly if doing so disrupted our tranquility.
+
+# SEVEN Self-Denial
+
+## On Dealing with the Dark Side of Pleasure
+
+- S: We should sometimes live as if they were happened. Practice poverty.
+- Epicurus: Also practiced poverty, but he wanted to examine the things he thought he needed that he could actually live without.
+- MR: Cause those bad things to happen. Underdress for cold weather, go shoeless, sleep on a hard bed, practice being hungry.
+- Masochism? The Stoics didn't go around flogging themselves. They did not inflict discomforts to punish themselves; they did it to increase their enjoyment of life. They welcome a degree of discomfort in their life.
+- MR: Benefits to voluntary discomfort:
+  - We harden ourselves against misfortunes that might befall us in the future. If all we know is comfort, we might be traumatized when we are forced to experience pain or discomfort, as we someday almost surely will. This is like a vaccine.
+  - Confidence in experiencing major discomforts. You are training yourself to be courageous. Someone who has never been cold or hungry might dread the possibility of someday being cold and hungry. Even though he is not physically comfortable, he will likely experience mental discomfort (anxiety to what the future holds).
+  - Helping us appreciate what we already have.
+- Always experiencing discomfort makes it possible to that guy to have a wider comfort zone than the former and will feel comfortable under any circumstance.
+
+- S: Pursuing pleasure is like pursuing a wild beast: when captured, it can turn on us and tear us to pieces.
+  - Always abstain from pleasures that can capture us in a single encounter: crystal meth.
+  - If we lack self-control, we are likely to be distracted by the various pleasures in life. In a distracted state, we are unlikely to attain the goals of our philosophy in life.
+  - MA: If we cannot resist pleasures, we will end up playing the role of the slave, "twitching puppet-wise at every pull of self-interest". Take care to prevent pains and pleasures from overwhelming our rational capacity.
+
+- Stoics are not anti-pleasure. They see nothing wrong with the pleasures to be derived from friendship, family life, a meal, and wealth, but they counsel us to be circumspect in our enjoyment of these things.
+  - Enjoying a meal vs lapsing into gluttony.
+  - There is a danger in clinging to the things we enjoy.
+
+- Willpower is like muscle power: The more they exercise their muscles, the stronger they get, and the more they exercise their will, the stronger it gets.
+- By practicing self-denial techniques, they can transform themselves into individuals remarkable for their courage and self-control.
+- *It takes effort to exercise self-control. But not exercising self-control also takes effort! MR: Think about all the time and energy people expend in illicit love affairs.*
+- You can get the "pleasure of knowing that you can resist a bowl of ice cream" hehe. This is a genuine pleasure. A simple diet is a source of pleasure: "water, barley-meal, and crusts of barley-bread are not a cheerful diet, yet it is the highest kind of pleasure to be able to derive pleasure from this sort of food."
+
+# EIGHT Meditation
+
+## Watching Ourselves Practice Stoicism
+
+- Meditate on the events of daily living, how we respond to these events, and how we should have responded to them. "What ailment of yours have you cured today, what failing have you resisted, and where can you show improvement?"
+  - *Seneca was too aggressive in admonishing someone; consequently, rather than correcting the person, the admonition merely served to annoy him. His advice to himself: When contemplating whether to criticize someone, he should consider not only whether the criticism is valid but also whether the person can stand to be criticized. He adds that the worse a man is, the less likely he is to accept constructive criticism.*
+  - *At a party, people made jokes at Seneca’s expense, and rather than shrugging them off, he took them to heart. His advice to himself: “Keep away from low company.”*
+  - *At a banquet, Seneca was not seated in the place of honor he thought he deserved. Consequently, he spent the banquet angry at those who planned the seating and envious of those who had better seats than he did. His assessment of his behavior: “You lunatic, what difference does it make what part of the couch you put your weight on?”*
+  - *He has heard that someone has spoken ill of his writing, and he starts treating this critic as an enemy. But then he starts thinking of all the people whose writing he himself has criticized. Would he want all of them to think of him as an enemy? Certainly not. Seneca’s conclusion: If you are going to publish, you must be willing to tolerate criticism.2*
+
+- Stoic vs Zen meditation:
+  - A Zen Buddhist might sit for hours with his mind as empty as he can make it.
+  - A Stoic's mind will be active for a meditation: he will think about the events of the day. Did something upset his tranquility? Did he experience anger, envy, lust? Why did the day's events upset him? Is there something he could have done to avoid getting upset?
+- *E: In our daily business, we should simultaneously play the roles of participant and spectator. We should create within ourselves a Stoic observer who watches us and comments on our attempt to practice Stoicism. Are we governed by reason, or by something else? And when we are not governed by our reason, what governs us? Is it the soul of a child, a tyrant, a dumb ox, or a wild beast?*
+- The Stoic's mental checklist.
+  - Do we periodically engage in negative visualization?
+  - Do we take time to distinguish between those things over which we have complete control, those things over which we have no control over all, and those things over which we have some but not complete control?
+  - Are we careful to internalize our goals?
+  - Have we refrained from dwelling on the past and instead focused our attention on the future?
+  - Have we consciously practiced acts of self-denial?
+- On judging our progress as Stoics:
+  - Our feelings don't get hurt when others tell us that we know nothing.
+  - Try to shrug off any praise they might direct our way.
+  - We stop blaming, censuring, and praising others, we will stop boasting about ourselves, we will blame ourselves, not external circumstances, when our desires are thwarted.
+  - Actions over words. Just eat like how a Stoic is supposed to eat.
+- It's not that we will stop experiencing emotion. We will instead find ourselves experiencing fewer negative emotions. We will also find that we are spending less time than we used to wishing things could be different and more time enjoying things as they are.
+- We will find, more generally, that we are experiencing a degree of tranquility that our life previously lacked. We might also discover, perhaps to our amazement, that our practice of Stoicism has made us susceptible to little outbursts of joy: We will, out of the blue, feel delighted to be the person we are, living the life we are living, in the universe we happen to inhabit.
+- ***For the ultimate proof that we have made progress as Stoics, though, we will have to wait until we are faced with death. It is only then, says Seneca, that we will know whether our Stoicism has been genuine.***
+- S: The goal in practicing Stoicism is not to become a sage, but to take his progress to be adequate as long as "every day I reduce the number of my vices, and blame my mistakes."
+
+# PART THREE Stoic Advice
+
+# NINE Duty
+
+## On Loving Mankind
+
+- *ON EXAMINING OUR LIFE, we will find that other people are the source of some of the greatest delights life has to offer, including love and friendship. But we will also discover that they are the cause of most of the negative emotions we experience. Strangers upset us when they cut us off in traffic. Relatives trouble us with their problems. Our boss might ruin our day by insulting us, and the incompetence of our coworkers might cause us stress by increasing our workload. Our friends might neglect to invite us to a party and thereby cause us to feel slighted.*
+- Even when other people don't do anything to us, we want them to think well of us.
+- So we try to wear the right clothes, right car, right house in the right neighborhood.
+- S: "To know how many are jealous of you, count your admirers."
+
+- ***What, then, is the function of man? Our primary function, the Stoics thought, is to be rational.***
+  - MA: "I am bound to do good to my fellow creatures and bear with them."
+- MA rejects the notion of doing our social duty in a selective manner. We cannot simply avoid dealing with annoying people, even though doing so would make our own life easier. We should confront them and work for the common welfare. (THIS IS HARD. -Daryll)
