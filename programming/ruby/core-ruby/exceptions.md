@@ -1,3 +1,27 @@
+# Why is it bad style to `rescue Exception => e` in Ruby?
+[Reference](https://stackoverflow.com/questions/10048173/why-is-it-bad-style-to-rescue-exception-e-in-ruby?noredirect=1&lq=1)
+
+- `Exception` is the root of Ruby's exception hierarchy, so when you `rescue Exception`, you rescue from everything, including subclasses such as `SyntaxError`, `LoadError`, and `Interrupt`.
+  - Rescuing `Interrupt` prevents the user from using CTRLC to exit the program.
+  - Rescuing `SignalException` prevents the program from responding correctly to signals. It will be unkillable except by `kill -9`.
+  - Ruby's default behavior is to rescue from `StandardError`.
+- The case for rescuing from `Exception`: for logging/reporting purposes, just so you can re-raise it.
+
+``` ruby
+begin
+  # iceberg?
+rescue Exception => e
+  # do some logging
+  raise e  # not enough lifeboats ;)
+end
+```
+
+- There are gems that inherit from Exception (Why?).
+- Rescuing `Exception` will hide bugs such as `NameError` or `NoMethodError` if you mistyped a method name.
+
+# Catch all exceptions in a rails controller
+[Reference](https://stackoverflow.com/questions/3694153/catch-all-exceptions-in-a-rails-controller?noredirect=1&lq=1)
+
 # List of Exceptions - Exceptional Ruby
 
 - `StandardError`: This class and all its subclasses will be rescued by a default `rescue` clause.

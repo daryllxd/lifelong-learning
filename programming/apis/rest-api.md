@@ -1,4 +1,6 @@
-## [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+# Best Practices for Designing a Pragmatic RESTful API
+[Reference](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
 - The key principles of REST involve separating your API into logical resources. These are manipulated using HTTP requests where the method has specific meaning.
 - The great thing about REST is that you leverage existing HTTP methods to implement significant functionality on a single /tickets endpoint.
 - Keep the URL format consistent and use a plural. Make things easier to pluralize.
@@ -20,12 +22,14 @@ GET /tickets?fields=id, subject,customer_name,updated_at&state=open&sort=-update
 204 No Content: Successful request that won’t return a body (DELETE)
   400 Bad Request: Request is malformed
   401 Unauthorized
-  403 Forbidden: 
+  403 Forbidden:
   404 Non-existent resource is requested
 
-## [API Anti-Patterns: How to Avoid Common REST Mistakes](http://blog.programmableweb.com/2010/08/13/api-anti-patterns-how-to-avoid-common-rest-mistakes/)
-  - Don’t tunnel everything throught GET.
-  - Don’t ignore response codes.
-  - Don’t ignore caching.
-  - Don’t ignore hypermedia.
-  - Don’t ignore MIME types.
+# API Anti-Patterns: How to Avoid Common REST Mistakes
+[Reference](http://blog.programmableweb.com/2010/08/13/api-anti-patterns-how-to-avoid-common-rest-mistakes/)
+
+- Don’t tunnel everything throught GET.
+- Don’t ignore response codes.
+- Don’t ignore caching.
+- Don’t ignore hypermedia.
+- Don’t ignore MIME types.

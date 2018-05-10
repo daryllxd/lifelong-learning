@@ -18,7 +18,6 @@
 # Techniques for decomposing React components
 [Reference](https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da)
 
-
 - Split the `render()` method: `const PanelHeader`, `const PanelBody`.
 - Pass React elements as props: For comments, one component to serve as a template, and one component to figure out what to fill `metadata` and possible actions (like, reply, and delete)
 - Higher-order components. Ex: Add analytics to a specific component.
