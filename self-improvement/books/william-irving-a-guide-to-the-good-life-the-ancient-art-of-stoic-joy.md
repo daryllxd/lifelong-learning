@@ -269,3 +269,70 @@ Also, even if you get it, your tranquility can get disrupted, since you worried 
 - ***What, then, is the function of man? Our primary function, the Stoics thought, is to be rational.***
   - MA: "I am bound to do good to my fellow creatures and bear with them."
 - MA rejects the notion of doing our social duty in a selective manner. We cannot simply avoid dealing with annoying people, even though doing so would make our own life easier. We should confront them and work for the common welfare. (THIS IS HARD. -Daryll)
+- The biggest obstacle to MA's practice of Stoicism: his dislike for humanity.
+  - He knows that people are going to remind him of their interference, ingratitude, insolence, disloyalty, ill will, and selfishness.
+  - He says that even the most agreeable of our associates are difficult to deal with.
+  - When we are gone, he knows that all the annoying people we had to deal with will be gone.
+  - "Eating, sleeping, copulating, excreting, and the like; what a crew they are!"
+  - Despite this, he was still able to overcome his disgust for his fellow humans and work on their behalf.
+  - He thinks that he will get rewarded (not in admiration or in sympathy) because the gods created us with a function in mind. By doing his social duty, he will be rewarded with a good life.
+
+# TEN Social Relations
+
+## On Dealing with Other People
+
+- Dealing with other people = your tranquility gets disturbed.
+- Preserving your tranquility = harder to form and maintain relationships.
+- Prepare for our dealing with other people before we have to deal with them.
+- E: We should form a certain character and pattern for ourselves when we are alone.
+  - Then when we associate with other people, we should remain true to who we are.
+  - There will be times when we must associate with annoying, misguided, or malicious people in order to work for common interests.
+  - We can be selective about whom we befriend. Avoid befriending people whose values have been corrupted (their values can contaminate ours).
+  - We should seek people who share our Stoic values and in particular, people who are doing a better job than we are of living in accordance with these values. And while enjoying the companionship of these individuals, we should work hard to learn what we can from them.
+
+- S, on Vices:
+  - They are contagious.
+  - Spend time with an unclean person, and we will become unclean as well.
+  - Avoid associating whose people whose values have been corrupted, the way we would avoid kissing someone who obviously has the flu.
+  - Avoid people who are whiny, "who are melancholy and bewail everything", and who find pleasure in every opportunity for complaint.
+  - A seek-sorrow: one who contrives to give himself vexation.
+- Be selective about which social functions to attend (unless doing our social duty requires us to attend them).
+- *E: When we do socialize, be circumspect in our conversation. People tend to talk about certain things; back in Epictetus’s time, he says, they talked about gladiators, horse races, athletes, eating and drinking—and, most of all, about other people. When we find ourselves in a group that is conversing about such things, Epictetus advises us to be silent or to have few words; alternatively, we might subtly attempt to divert the talk to “something appropriate.”*
+
+- On occasions where we must deal with annoying people:
+  - MA: There are people who find us annoying also. If we get irritated by someone's shortcomings, we should pause to reflect on our own shortcomings.
+  - Doing this will help us become more empathetic to this individual's faults and therefore become more tolerant of him.
+  - *When dealing with an annoying person, it also helps to keep in mind that our annoyance at what he does will almost invariably be more detrimental to us than whatever it is he is doing. We usually just make it worse.*
+- We are in control of thoughts about them.
+  - Don't wast time speculating about what our neighbors are doing, saying, thinking, or scheming.
+  - A good Stoic will not think about what other people are doing except when he must do so in order to serve the public interest.
+- Remember that the world cannot exist without impudent people.
+  - MA: People do not choose to have the faults they do.
+  - There is a sense in which the people who annoy us cannot help doing so. It is inevitable that some people will be annoying. To expect otherwise is like expecting a fig tree not to yield its juice.
+
+- Social fatalism:
+  - MA: thinks we should just operate on the assumption that they behave in a certain way. It's pointless to assume that they could be less annoying.
+  - But he also thinks that it is possible to change others.
+- Put annoying incidents into their cosmic context.
+- *The biggest risk to us in our dealings with annoying people is that they will make us hate them. So we need to work to make sure men do not succeed in destroying our charitable feelings towards them.*
+
+- On sex:
+  - MA: If we analyze something into the things that compose it, we will see the thing for what it really is and thereby value it appropriately. Fine wine is fermented grape juice, and garish robes are the wool of a sheep stained with gore from a shellfish.
+  - So sex is just "friction of the members and an ejaculatory discharge." So it is foolish to place such a high value on sexual relations and even more foolish to disrupt our life in order to experience such relations.
+  - Buddhist technique: When a man finds himself lusting after a woman, think of the things that compose her: her lungs, crap, phlegm, pus, and spittle.
+  - It might seem prudish, but think of single parenthood.
+
+# ELEVEN Insults
+
+## On Putting Up with Put-Downs
+
+- People tend to be exquisitely sensitive to insults.
+  - MR: Even a glance can be construed as an insult.
+  - Non-trivial things still hurt sometimes.
+- "Wait is this just a self-evident thing?"
+- Is the insulter actually well-informed?
+- If you think about it, coaches/people teaching you are actually paid to criticized you. It would be foolish for me to respond to his criticisms with hurt feelings. If I'm serious about learning, then I should thank him for criticizing me.
+- *Suppose that I take him to be a thoroughly contemptible individual. Under such circumstances, rather than feeling hurt by his insults, I should feel relieved: If he disapproves of what I am doing, then what I am doing is doubtless the right thing to do. What should worry me is if this contemptible person approved of what I am doing.*
+- *When we consider the sources of insults, says Seneca, we will often find that those who insult us can best be described as overgrown children.*
+- *We will not go through our life with the goal of gaining their approval or avoiding their disapproval, and because we are indifferent to their opinions, we will feel no sting when they insult us.* You do not react against dogs barking you.
+- What is insulting is not the person doing the insulting, but the thing that they are saying. The insult will not do us harm if we convince ourselves that this person has done us no harm.
