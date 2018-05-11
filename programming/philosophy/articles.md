@@ -54,3 +54,29 @@
 - Confusing apps draw from users' cognitive resources.
 - If this is content designed to suck people in for the chance to "convert", we're hurting people. If we're pumping out "content" because "frequency", we're hurting people.
 - ***My goal for Serious Pony is to help all of us take better care of our users. Not just while they are interacting with our app, site, product, but after. Not just because they are our users, but because they are people. Because on their deathbed, our users won't be thinking,"If only I'd spent more time engaging with brands."***
+
+# Tech's Two Philosophies
+[Reference](https://stratechery.com/2018/techs-two-philosophies/)
+
+- Google's I/O keynote CEO Sundar Pichai:
+  - "Our vision for our assistant is to help you get things done."
+  - *"A common theme across all this is we are working hard to give users back time. We've always been obsessed about that at Google. Search is obsessed about getting users to answers quickly and giving them what they want."*
+- Google: Computers help you get things done by doing things for you.
+- Facebook: "I believe that we need to design technology to help bring people closer together. And I believe that that’s not going to happen on it's own. So we need to focus on people and relationships."
+- Microsoft: "Act so that the effects of your action are compatible with permanence or genuine life. We need to develop a set of principles that guide the choices we make because the choices we make is what's going to define the future."
+  - "We're focused on building technology so that we can empower others to build more technology. We've aligned our mission, the products we build, our business model, so that your success is what leads to our success."
+  - The computer doesn't do your work for you, but it enables you to do your work better and more efficiently.
+- Apple and Steve Jobs:
+  - "The best analogy I've ever heard is Scientific American, I think it was, did a study in the early 70s on the efficiency of locomotion, and what they did was for all different species of things in the planet, birds and cats and dogs and fish and goats and stuff, they measured how much energy does it take for a goat to get from here to there. Kilocalories per kilometer or something, I don’t know what they measured. And they ranked them, they published the list, and the Condor won. The Condor took the least amount of energy to get from here to there. Man was didn't do so well, came in with a rather unimpressive showing about a third of the way down the list."
+  - "But fortunately someone at Scientific American was insightful enough to test a man with a bicycle, and man with a bicycle won. Twice as good as the Condor, all the way off the list. And what it showed was that man is a toolmaker, has the ability to make a tool to amplify an inherent ability that he has. And that’s exactly what we’re doing here."
+
+- Apple/Microsoft: "Bicycle of the mind" companies:
+  - Microsoft licensed software.
+  - Apple sold software-differentiated hardware.
+  - These were both platforms. Third-party companies build on top of them, which builds a moat based on the created ecosystems.
+- Google/Facebook: Products of the Internet.
+  - Not a platform, but aggregators. *Aggregators attract end users by virtue of their usefulness and over time, leave suppliers no choice but to follow the aggregators' dictates if they wish to reach end users.*
+
+- ***Google and Facebook are predicated on doing things for the user, just as MS and Apple have been built on enabling users and developers to make things completely unforeseen.***
+- On scrutiny: G and F are accountable to no one. Both deserve all of the recent scrutiny they have attracted, and arguably deserve more.
+  - Platforms create new possibilities.
