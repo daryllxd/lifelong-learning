@@ -336,3 +336,39 @@ Also, even if you get it, your tranquility can get disrupted, since you worried 
 - *When we consider the sources of insults, says Seneca, we will often find that those who insult us can best be described as overgrown children.*
 - *We will not go through our life with the goal of gaining their approval or avoiding their disapproval, and because we are indifferent to their opinions, we will feel no sting when they insult us.* You do not react against dogs barking you.
 - What is insulting is not the person doing the insulting, but the thing that they are saying. The insult will not do us harm if we convince ourselves that this person has done us no harm.
+- E: "What upsets people is not things themselves but their judgments about these things."8
+  - If someone deprives me of my property, he has done me harm only if it is my opinion that my property had real value. Ex: if you lose a birdbath, would you really be upset over it? "No point getting all worked up over a small birdbath."
+  - Do the things that happen to me help or harm me? It depends on my values. If something external harms me, then I probably value that external thing.
+
+- Humor to deflect insults.
+  - Self-deprecating humor. By laughing off an insult, we are implying that we don't take the insulter and his insults seriously, and that we don't have time for the childish behavior of this person.
+  - You can also just not respond at all.
+- E: Political correctness probably has some untoward side effects. *The best way to deal with insults directed at the disadvantaged, Epictetus would argue, is not to punish those who insult them but to teach members of disadvantaged groups techniques of insult self-defense. They need, in particular, to learn how to remove the sting from whatever insults are directed at them, and until they do this, they will remain hypersensitive to insults and will, as a result, experience considerable distress when insulted.*
+- Note: E was both lame and a slave.
+
+# TWELVE Grief
+
+## On Vanquishing Tears with Reason
+
+- Emotions such as grief are reflexive. We cannot help but feel so.
+- Take steps to minimize the amount of grief we experience over the course of a lifetime.
+  - Retrospective negative visualization: we imagine never having had something that we have lost.
+- S: "Unless reason puts an end to our tears, fortune will not do so."
+  - "Your brother who died would not want you to be tortured with tears. It is sort of incumbent on you to stop crying."
+
+# THIRTEEN Anger
+
+## On Overcoming Anti-Joy
+
+- When we are angry, we are motivated: that's true, but this doesn't mean we should welcome anger into our life.
+- Punish wrongdoers, but be calm when doing so. Punishment should be an expression not of anger, but of caution.
+- Fight our tendency to believe the worst in others and our tendency to jump to conclusions about their motivations. Just because things don't turn out the way we want them to, doesn't mean that someone has done us an injustice.
+- If we are overly sensitive, we will be quick to anger. If we are corrupted by pleasure, nothing will seem bearable to us, and the reason things will seem unbearable is not because they are hard but because we are soft.
+- If we are unable to control our anger, then we should just apologize. Doing this can almost instantly repair the social damage our outburst might have caused. By admitting our mistakes, we lessen the chance that we will make them again in the future.
+- Life is too short to spend it in a perpetual state of anger.
+- S: "Why not make yourself a person to be loved by all while you live and missed when you have made your departure?
+
+# FOURTEEN Personal Values
+
+## On Seeking Fame
+
