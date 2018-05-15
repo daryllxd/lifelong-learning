@@ -30,3 +30,10 @@
 - Lambda architecture.
 
 # Chapter 2: Threads and Locks
+
+# Chapter 3: Functional Programming
+
+- Data that doesn't change can be accessed by multiple threads without any kind of locking.
+- Clojure: apply a function to every element with `map` or `mapcat`, use laziness to handle large sequences, reduce a sequence to a complex value with `reduce`, and parallelize a `reduce` with `fold`.
+- Reducer: instead of returning a result, it returns a recipe for creating a result, which isn't executed until it's passed to `reduce` or `fold`.
+- Fold: Dividing  a collection into halves, then halving and halving until they are smaller than some limit. Then, run a set of reduce operations over each group and combine the result pairwise.
