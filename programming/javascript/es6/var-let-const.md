@@ -23,6 +23,14 @@
   - Assigning an object or array as a constant means that value will not be able to be garbage collected until that constant's lexical scope goes away, as the reference to the value can never be unset.
   - They can still be used with variable declarations of `for`, `for..in`, etc, but can't reassign (error).
 
+# JavaScript ES6+: var, let, or const?
+[Reference](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
+
+- Favor `const` over `let`, because that identifier can't be reassigned (these can be mutated though).
+- `const`: this identifier would not be reassigned.
+  - `const` is just a keyword. It doesn't literally mean "constant". It simple means "can't be reassigned in this scope."
+- `let`: signal that the variable may be reassigned (counter in a loop, value swap in an algorithm). "This variable is going to disappear soon."
+
 # Full Stack React
 
 ## Appendix B: ES6
