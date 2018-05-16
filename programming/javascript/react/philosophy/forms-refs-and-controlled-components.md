@@ -43,3 +43,10 @@ class NameForm extends React.Component {
 }
 ```
 
+# React Forms: Using Refs
+[Reference](https://css-tricks.com/react-forms-using-refs/)
+
+- Controlled components: the `onChange` thing. To update the value in the `state`, you update the `onChange` event handler on the form element.
+- Advantages:
+  - Easier to validate user input.
+  - You can dynamically render other components based on the value of the controlled component (ex: double dropdown).
