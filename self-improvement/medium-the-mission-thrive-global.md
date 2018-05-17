@@ -704,3 +704,21 @@
 - Exercise for the body: Two-handed kettlebell swing. Exercise for the mind: 10-20 minutes of meditation.
 - Tim: 20 minutes, last 5 minutes is where the benefit is.
 - The goal is not to "quiet the mind", the goal is to observe your thoughts.
+
+# 19 Harsh Truths You Don’t Want To Hear But Must (You’ll Be 10 Times Better For It)
+[Reference](https://medium.com/the-mission/19-harsh-truths-you-dont-want-to-hear-but-must-you-ll-be-10-times-better-for-it-41f4eb07b593)
+
+- ***We all have the same problems.*** Knowing your problems are all the same is how you stop yourself from getting stuck and feeling sorry for yourself.
+- ***You don't need experience, ever.*** The line of "5 years of X skill required..." is just to stop time wasters and people that don't have the killer instinct to see past the obstacle laid out in front of them. You should not give up on your career dream just because of one line in one job add.
+- ***Someone will die on us.*** The last thing you want is someone to die on you having the relationship tarnished because of something stupid like a disagreement over money or a difference in beliefs.
+- ***Complaining is a fucking waste of time.***
+- ***No one gives a fuck about your personal brand.*** If you deliver something of value, then we will all like your stuff.
+- ***You never want to have regrets.*** When you realize that there are no barriers and you should try everything that your heart desires, you live a life of no regrets
+- ***The human experience is full of suffering. Time to master it.*** Recognize that suffering is a necessity and learn to use it to your advantage. Suffering is part of the struggle which will help you do wonderful things in this world.
+- ***Create value ahead of everything else.***
+- ***Money won't make you happy.*** You chase feelings, not money. You don't want the money, you want the feeling that you get when you have it and buy stuff with it. Meaning and purpose give you better feelings and they are free.
+- ***Be you and stop being an actor.*** You can always become the person you've dreamt of being. It takes discipline, courage, and a sense of fight to grow, adapt, and admit when you're wrong.
+- ***The only currency is time.*** Quit trading time for money, distractions, toxic friends, bad habits, anything else you know is not serving what you stand for. Guard your time like you guard your life: protect your time and spend it on things that will cause you to help others, live without regrets, and be passionate.
+- ***Execute.*** Execute is about not having all the answers and putting in the work.
+- ***Trying to meet society's idea of success is a loser's game.*** Home ownership, cars, university: does this align with who we are? We know what our version of success is.
+- ***We're going to die.***
