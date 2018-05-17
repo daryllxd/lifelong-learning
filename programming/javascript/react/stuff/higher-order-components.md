@@ -70,3 +70,73 @@ const withConditionalRenderings = compose(
 
 const TodoListWithConditionalRendering = withConditionalRenderings(TodoList);
 ```
+
+# Use a Render Prop
+[Reference](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
+
+- Higher-order components/HOCs: alternative technique for code reuse. Code is shared using a similar technique to decorators; you start with the component that defines the bulk of the markup, then wrap it in more components that contain the behavior you'd like to share.
+- The problem with HOC: indirection (Where did the thing come from?) and naming collisions (Which React doesn't warn us about.).
+- HOCs introduce a lot of ceremony due to the fact that they wrap components and create new ones instead of being mixed in to existing components. The component returned from the HOC needs to act as similarly as it can to the component that it wraps.
+- ***Render prop: A function prop that a component uses to know what to render.***
+- TODO: Find other examples?
+
+# Mixins Are Dead. Long Live Composition
+[Reference](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750)
+
+- Utility functions: Use mixins.
+- The problems with mixins:
+  - The contract between a component and its mixins are implicit: mixins often rely on certain methods being defined on the component, but there is not way to see that from the component's definition.
+  - As you use more mixins in a single component, they begin to clash. If you use something like `StoreMixin` and you add another `StoreMixin`, React throws an exception.
+  - It tends to add more state to your component whereas you should strive for less.
+- Mixins complicate performance optimizations. ???
+
+``` js
+function connectToStores(Component, stores, getStateFromStores) {
+  const StoreConnection = React.createClass({
+    getInitialState() {
+      return getStateFromStores(this.props);
+    },
+    componentDidMount() {
+      stores.forEach(store =>
+        store.addChangeListener(this.handleStoresChanged)
+      );
+    },
+    componentWillUnmount() {
+      stores.forEach(store =>
+        store.removeChangeListener(this.handleStoresChanged)
+      );
+    },
+    handleStoresChanged() {
+      if (this.isMounted()) {
+        this.setState(getStateFromStores(this.props));
+      }
+    },
+    render() {
+      return <Component {...this.props} {...this.state} />;
+    }
+  });
+  return StoreConnection;
+};
+```
+
+- The wrappings looks like this:
+
+``` js
+var ProfilePage = React.createClass({
+  propTypes: {
+    userId: PropTypes.number.isRequired,
+    user: PropTypes.object // note that user is now a prop
+  },
+
+  render() {
+    var { user } = this.props; // get user from props
+    return <div>{user ? user.name : 'Loading'}</div>;
+  }
+});
+
+// Now wrap ProfilePage using a higher-order component:
+
+ProfilePage = connectToStores(ProfilePage, [UserStore], props => ({
+  user: UserStore.get(props.userId)
+});
+```
