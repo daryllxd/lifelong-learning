@@ -372,3 +372,160 @@ Also, even if you get it, your tranquility can get disrupted, since you worried 
 
 ## On Seeking Fame
 
+- E: If you are indifferent to social status, then you would not have had to spend time trying to curry favor with this person, and you would have deprived him of the ability to upset you by failing to invite you to a banquet.
+- Stoics value their freedom. If we seek social status, we give other people power over us: we have to do things calculated to make them admire us, and we have to refrain from doing things that will trigger their disfavor.
+- When your goal is to please others, you are no longer free to please yourself.
+- We must be indifferent to what others think of us. Be as dismissive of their approval and of their disapproval.
+- MA on Immortal fame: think of how foolish it is to want to be remembered after we die. We're dead! Make the best of today.
+- In order to win the admiration of other people, we have to adopt their values and their notion of success. We should also stop to task whether their notion of success is compatible with ours.
+- You can go out of your way to do things likely to trigger their disdain. Cato dressed differently in order to accustom himself to be "ashamed only of what was really shameful, and to ignore men's low opinion of other things."
+- ***Realize that many other people want you to fail in your undertakings.*** They may not tell you this to your face, but this doesn't mean that they aren't silently rooting against you. *People do this in part because your success makes them look bad and therefore makes them uncomfortable: If you can succeed, why can't they?*
+- *To get the approval of naysayers, you can abandon your dream. These naysayers would invite her to sit with them and join them in mocking individuals who pursue their dreams despite the possibility of failure. Is this really the company you want to keep?*
+
+# FIFTEEN Personal Values
+
+## On Luxurious Living
+
+- Most people use their wealth to finance a luxurious lifestyle, one that will win them the admiration of others. Such a lifestyle is counterproductive if our goal is not to live well but to have a good life.
+- Meals: Do those who each such meals experience more pleasure than those whose diets are simple?
+- *When, as the result of being exposed to luxurious living, people become hard to please, a curious thing happens. Rather than mourning the loss of their ability to enjoy simple things, they take pride in their newly gained inability to enjoy anything but “the best.” The Stoics, however, would pity these individuals. They would point out that by undermining their ability to enjoy simple, easily obtainable things—bowls of macaroni and cheese, for example—these individuals have seriously impaired their ability to enjoy life.*
+- The Stoics work hard to avoid falling victim to this kind of connoisseurship. Indeed, the Stoics value highly their ability to enjoy ordinary life—and indeed, their ability to find sources of delight even when living in primitive conditions.
+- MR: Eat foods that need little preparations. Eat not for pleasure but for nourishment, not to please your palate, but to strengthen your body.
+- Simple clothing, housing, and furnishing. MR: protect your body, not impress other people. Big houses are hard to maintain. Cheap vessels are oftentimes easier to cook with and less likely to be stolen.
+- S: Acquire an amount that does not descend to poverty, and yet is not far removed from poverty.
+- E: Self-respect, trustworthiness, and high-mindedness are more valuable than wealth. If the only way to gain wealth was to give up these personal characteristics, we would be foolish to seek wealth.
+- S does not require her to renounce wealth; it allows her to enjoy it and use it to the benefit of herself and those around her. But make your enjoyment thoughtful. Remind yourself that your wealth can be lost.
+- Cynics: live in abject poverty. Stoics: plain living, not penance.
+- Use your fame and wealth as tools in the performance of social duty.
+
+# SIXTEEN Exile
+
+## On Surviving a Change of Place
+
+- Paconius: When someone reported to him that he was being tried in the Senate, Paconius was uninterested; he merely set off for his daily exercise and bath.
+  - When he was informed that he had been condemned, he asked whether it was to banishment or death. "To banishment."
+  - E: This is what it means to have rehearsed Stoicism. If I am to die, then I die. But if I have to each lunch, then I will each lunch.
+- S: Exile isn't that bad. It is just a change of place.
+- Exile has changed people for the better. Getting rid of luxurious living.
+
+# SEVENTEEN Old Age
+
+## On Being Banished to a Nursing Home
+
+- Living in a nursing home resembles, in many respects, being in high school. Cliques form, and their members spend considerable amounts of time talking down the members of rival cliques. In other respects, it resembles living in a college dorm: You are in a single room that opens onto a communal corridor; you can either stay in your room and stare at the four walls, or venture out of your room into an environment you might find socially challenging.
+- *A twenty-year-old might reject Stoicism in the belief that the world is going to be her oyster; an eighty-year-old knows full well that the world isn’t her oyster and that her situation is only going to worsen with the passing years. Although she may have believed she was immortal when she was twenty, her own mortality is now painfully obvious to her.*
+- S: On losing certain appetites, "How comforting it is to have tired out one's appetites, and to have done with them!"
+- By causing our bodies to deteriorate, old age causes our vices and their accessories to decay.
+- For most people, old age will be the most challenging time of life.
+
+# EIGHTEEN Dying
+
+## On a Good End to a Good Life
+
+- MR: What makes old age isn't usually the frailty or sickness, but the prospect of dying.
+- More are disturbed not because of what is going to come after death, but because they fear they have mislived.
+- Stoics were weird about their death. Most committed suicide. When it seemed that death was near, MA refused to eat. S behaved in a manner that brought on a death sentence when he could have avoided doing so.
+- Knowing that your days are numbered would make you less likely to waste your days.
+- MR: Suicide is wrong if our living is helpful to many. End a good life with a good death.
+
+# NINETEEN On Becoming a Stoic
+
+## Start Now and Prepare to Be Mocked
+
+- Practice stealth Stoicism. Be tolerant of being overlooked.
+- Why do people mock someone for adopting a philosophy of life? By adopting one, a person is demonstrating that he has different values than they do. They might therefore infer that he thinks their values are somehow mistaken, which is something people don't want to hear.
+- *By adopting a philosophy of life, he is challenging them to do something that they are reluctant to do: reflect on their life and how they are living it.*
+- *If these people can get the convert to abandon his philosophy of life, the implied challenge will vanish, and so they set about mocking him in an attempt to make him rejoing the un-reflecting masses.*
+- For most people, experiencing delight requires a change in circumstances: a new gadget? For stoics, they can experience delight without change, because they practice negative visualization, and they can appreciate the things they already have.
+- For most people, the delight they experience will be clouded by the fear that they will lose the source of their delight.
+- ***Stoics try to do their best to enjoy things that can't be taken from them, most notably their character.***
+- When you're enjoying things that can be taken from them, you can prepare for the loss of those things.
+- Stoics are careful to avoid becoming connoisseurs (those individuals who are incapable of taking delight in anything but "the best").
+- S: "It is in every man's power not to wish for what he has not, but cheerfully to employ what comes to him." When S and MR were banished to islands, rather than succumbing to depression, they set about studying their new environment.
+- Because they have learned to enjoy things that are easily obtainable, Stoics will find much in life to enjoy.
+- Begin now, because your life is happening now!
+
+# PART FOUR Stoicism for Modern Lives
+
+# TWENTY The Decline of Stoicism
+
+- MA: Did not try to convert his fellow Romans to the philosophy.
+- Christianity's claims are similar to those made by Stoicism. But Christianity's advantage was that it promised an afterlife in which one would be infinitely satisfied for an eternity. Stoics: not certain of life after death.
+- Stoics did not advocate that we "bottle up" our emotions. Take steps to prevent negative emotions, but that's not bottling them up.
+- S on grief: "Is this what the person who died want me to do? Of course not. She would want me to be happy! The best way to honor her memory is to leave off grieving and get on with life."
+- How did people deal with grief before grief counseling was a thing?
+
+- Modern politics/politicians: "If we're unhappy, it isn't our fault. To the contrary, our unhappiness is caused by something the government did to us or is failing to do for us."
+  - We are encouraged to resort to politics (march in the streets) rather than philosophy.
+  - Stoics: what stands between most of us and happiness is not our government or the society in which we live, but defects in our philosophy of life.
+  - There is at best, a loose connection between our external circumstances and how happy we are.
+- Stoics agree that we have a duty to fight against social injustice. Where they differ from modern reformers is in their understanding of human psychology: they don't think it's helpful for people to consider themselves victims of society. If you refuse to think of yourself as a victim, you are likely to have a good life, no matter what turn your external circumstances take.
+- The first step in transforming a society = teaching people how to make their happiness as little as possible on their external circumstances. Then, change their external circumstances.
+- Do not think that happiness is something that someone has to confer on us.
+- Fucking Epictetus: "The answer to your question on 'having a good life' depends on what you mean by 'good' and 'a life'." LOL.
+- *Better to work not on satisfying our desires, but work on mastering them.* In particular, we need to take steps to slow down the desire-formation process within us.
+- We are more likely to achieve happiness by following the path of our duty than by spending our life working to fulfill whatever desires pop into our head.
+
+# TWENTY-ONE Stoicism Reconsidered
+
+- What do philosophies in life do?
+  - They tell us what things are and aren't worth pursuing, and they tell us how to gain the things that are worth having.
+- Recommendations for anyone seeking tranquility:
+  - Self-awareness/observing how we go about our daily business, and reflect on how we responded to the day's events. How do we respond to insults, loss of possessions, stressful situations?
+  - Use reasoning ability to overcome negative emotions. Fame and fortune aren't worth having and are not worth pursuing.
+  - Enjoy your affluence, but do not cling to it.
+  - Form and maintain relations with others, but be careful about whom you befriend. Avoid people who are corrupt, because their values will contaminate ours.
+  - For people who are annoying, ignore/use humor.
+  - Unhappiness: Because of our insatiability and our tendency to worry about the things beyond our control.
+  - Negative visualization: contemplate the impermanence of all things, and imagine losing the things we value, including possessions and loved ones.
+
+- Proving Stoicism: It's argued that we were given reason so that we would always be happy.
+  - If we came to exist through evolution, then we wouldn't have been created for any purpose, meaning it's impossible for us to discover the purpose of a human being.
+  - The evolutionary basis for pain: we have pain because when you experience something, it becomes likely that you'll try to avoid those injuries, so you can survive.
+  - Evolutionary basis for fear: it's normal to feel anxious if you don't know where the next meal is going to come from.
+- Programming:
+  - We are wired to seek relationships, and we are also programmed to seek social status among them.
+  - Low social status = you can get deprived of resources or from being driven from the group. Ancestors who feel motivated to seek social status feel good and those who lost it felt bad.
+  - *If our goal is not to merely survive but to enjoy a tranquil existence, the pain associated with a loss of social status isn't just useless, it's counterproductive.*
+  - On worrying: it's evolutionarily programmed (worrying about meals/noises etc.)
+- ***Why Stoicism? I argue that in our evolutionary past, we're programmed to want certain things and to experience certain emotions under certain circumstances. Stoicism can cure us from anxiety/grief/fear and other negative emotions that plague humans and prevent them from experiencing a joyful existence.***
+  - The Stoics may not have actually known why those things work, but they apparently developed a group of psychological techniques that if practiced, could promote tranquility.
+  - Stoicism or Xanax to curb anxiety? Would a lifestyle change not be better than medical alternatives (potentially getting addicted to Xanax?)
+- Author's brand of stoicism: useful to himself, and possible, to those around me, and to accomplish this goal, I have tailored the philosophy to our circumstances.
+- Stoics did not invent Stoicism for the amusement of future philosophers. They invented it to be used as a tool which a person can use to live a good life.
+
+- Personality types who would find it challenging to practice Stoicism:
+  - Those who refuse the possibility that they are the source of their own discomfort. They spend their days waiting, often impatiently, for the one thing to happen that will make them feel good about themselves and their lives.
+
+# TWENTY-TWO Practicing Stoicism
+
+1. Negative visualization. Try to "negatively visualize" before sleeping.
+2. Trichotomy of control. Triage in which you can distinguish things we have no control, have complete control, and partial control over.
+3. Internalize your goals and be a psychological fatalist about the past and the alternate present, but not about the future.
+4. Voluntary discomfort.
+  - Yoga is actually a good source of this. Yoga poses are usually really uncomfortable.
+  - An activity where public failure is a possibility.
+  - Recitals? In causing anxiety by giving a recital, I have precluded much future anxiety in my life.
+
+- ***When doing things to cause myself physical/mental discomfort, I view a part of myself as an opponent in a kind of game.***
+  - The opponent: on evolutionary autopilot, wanting nothing more than to be comfortable/be lazy? No self-discipline, a coward, an enemy.
+  - I must establish my dominance over him. Force him to experience discomfort he could easily have avoided.
+- *Why? To gain self-discipline. This is worth pursuing because those who possess it have the ability to determine what they do with their life. Those who lack it will have the path they take through life determined by someone or something else.*
+- When I row competitively, it may look as though I'm trying to beat the other rowers, but I'm more in fact trying to work against my other, weaker self.
+  - This guy didn't want to learn to row. He didn't want to do workouts, preferring instead to sleep. He is a whiner.
+  - *By racing against each other, we are all simultaneously racing against ourselves, although not all of us are consciously aware of doing so. To race against each other, we must individually overcome ourselves—our fears, our laziness, our lack of self-discipline.*
+  - ***And it is entirely possible for someone to lose the competition against the other rowers—indeed, to come in last—but in the process of doing so to have triumphed in the competition against his other self.***
+
+- Simplified lifestyle?
+  - Remember, if you feel ashamed of yourself with those simplified things, the mission is to learn how to be "ashamed of what was really shameful."
+  - The wardrobe: really utilitarian. One tie, one sport coat. Crappy car.
+- Old mom stories:
+  - On losing the ability to walk: "what you need to concentrate on is doing your very best when they give you physical therapy."
+  - On the loss of the function of the left arm: "at least you can still speak."
+  - On her no longer being able to drink water: "you can eat ice cubes, and derive much pleasure from that."
+
+- On taming negative emotions:
+  - It is not likely that I will ever eradicate these.
+  - I experience far less dissatisfaction than I used to.
+- On joy:
+  - The joy the Stoics were interested in can best be described as a kind of objectless enjoyment: the delight of simply being able to participate in life. Even though all this didn't have to be possible, it is possible.
