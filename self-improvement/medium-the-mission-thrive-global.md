@@ -722,3 +722,26 @@
 - ***Execute.*** Execute is about not having all the answers and putting in the work.
 - ***Trying to meet society's idea of success is a loser's game.*** Home ownership, cars, university: does this align with who we are? We know what our version of success is.
 - ***We're going to die.***
+
+# While Everyone Is Distracted By Social Media, Successful People Double Down On An Underrated Skill
+[Reference](https://medium.com/the-mission/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27)
+
+- ***There is a paragraph, chapter, or book that would change your life forever if you read it.***
+- Warren Buffett: The Intelligent Investor. Elon Musk: The Hitchhiker's Guide to the Galaxy. Poor Charlie's Almanac.
+- Quake books are worth a thousand merely good books.
+- The Info-Apocalypse:
+  - Content shock. Too much things to read!
+  - Echo chambers. Cliques/polarization.
+  - Constant distraction.
+  - FOMO.
+- The result: A daily diet of media junk food.
+- The skill: figuring out how to access breakthrough knowledge. Change our approach to media from a reactive to a proactive one. Feeds are designed to keep our attention for as long as possible in the short-term and long-term.
+- Finding the signal vs noise:
+  - ***Does this information have the potential to change my life?*** Musk: It's very important to seek out and listen very carefully to negative feedback. This is something that people tend to avoid, because it's painful. I think that this is a very common mistake. *Evidence that proves your existing ideas wrong is more valuable than confirming evidence. Science grows by what is proven wrong, not what is proven right.*
+  - ***Information overload is an age-old problem with age-old solutions.*** There are knowledge formats that have a higher value density: mental models have more density than book summaries than books than social media posts.
+- ***Learn How to Learn.***
+  - Understanding the scientific method.
+  - Understanding the value of diverse knowledge (people who have "too many interests" are more likely to be successful according to research.
+  - Understanding the cognitive biases (confirmation bias, backfire effect, Dunning-Kruger effect, halo effect, in-group bias).
+- ***A wealth of information creates a poverty of attention.***
+
