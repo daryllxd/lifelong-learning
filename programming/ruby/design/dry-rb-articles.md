@@ -1,3 +1,15 @@
+# Introducing dry-validation
+[Reference](http://solnic.eu/2015/12/07/introducing-dry-validation.html)
+
+- Problem with AM::V:
+  - Validation logic lives in two layers, controller and persistence.
+  - "Strong parameters" is a poor API. It just checks if keys in parameters are not missing and sanitizing the parameters by rejecting unexpected keys.
+  - Validation in AR/AM: lack of type safety. Weird explicit handling of blank values.
+  - Weird DSL with `if` and `unless`.
+  - Not good for nested data structures.
+  - Weird that an object is validating its own internal state.
+- On strong parameters: Weird error messages. You can be 100% precise about your expectations.
+
 # Dry-Validation as a schema validation layer for Ruby on Rails API
 [Reference](https://mensfeld.pl/2017/03/dry-validation-as-a-schema-validation-layer-for-ruby-on-rails-api/)
 
