@@ -744,4 +744,3 @@
   - Understanding the value of diverse knowledge (people who have "too many interests" are more likely to be successful according to research.
   - Understanding the cognitive biases (confirmation bias, backfire effect, Dunning-Kruger effect, halo effect, in-group bias).
 - ***A wealth of information creates a poverty of attention.***
-

@@ -53,3 +53,10 @@ So why is this not okay?
   - Reach out to a friend when you need someone to listen
   - Try to be truthful about your posts, remember- we’re all broken at the end of the day
   - If you’re an artist, share your work (don’t talk about it- do it and share it)
+
+# Why Instagram Makes You, Me and Selena Gomez Feel Bad
+[Reference](https://medium.com/vantage/why-instagram-makes-you-me-and-selena-gomez-feel-bad-8a2f35c8e5cf)
+
+- "I have a complex relationship with Instagram. It empowers me in a way because it's my voice and my truth, the thing that worries me is how much value people our age place on social media. In some ways, it's given young people a false representation of what's important."
+- Most people who use Instagram are not influencers and are certainly not celebrities.
+- ***In 1977, long before Instagram’s founders were born, Susan Sontag wrote of photography : “A capitalist society requires a culture based on images. It needs to furnish vast amounts of entertainment in order to stimulate buying and anaesthetize the injuries of class, race, and sex… Social change is replaced by a change in images. The freedom to consume a plurality of images and goods is equated with freedom itself.”***
