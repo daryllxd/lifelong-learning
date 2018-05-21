@@ -79,3 +79,61 @@
 - Don't be a student, be a practitioner.
 - Casey on degrees: "In life you should only be doing two things ever: discovering your passion and then realizing it. If you know what you want and that trajectory doesn't necessitate a college education, then skip it."
   - If you suck at painting, then maybe you can try out graphic design.
+
+# CHAPTER 4 FAMILY BUSINESS
+
+- One of the best ways to go out of business is to make emotional decisions, to get romantic about how you make your money, or to let your emotions get in the way of the task at hand.
+- If you and your family love each other more than you love the business, you will succeed.
+- Whatever the kids do, I'll love them unconditionally. All we ask is that whatever they choose to do, they give it all their heart and do it to the best of their abilities.
+- Success is not a game of absolutes. You can be in a relationship and have family obligations and have a business.
+- AJ: Mature and self-aware and adds tremendous value to the company. When going into a business with a family member, be the bigger man or woman.
+- Vayner: We have friends and family in both businesses. No one gets put in a power position unless they've earned it.
+
+# CHAPTER 5 PARENTING
+
+- Parents: let and encouraged him to do what he wants and what he was good at.
+- How do you keep someone from being a spoiled, self-centered brat? When I did something wrong, she treated that as an extraordinary thing, too.
+- Pumping everyone confidence makes for a more creative, risk-taking environment.
+- Super-privileged background:
+  - Did their parents spoil them or did they make them work for what they wanted?
+  - Did they teach them the value of having money?
+  - Did they talk to them about how money factors into our country's discussions about class, education, and politics, or how the goods we take for granted are considered luxuries somewhere else?
+
+# CHAPTER 6 HUSTLE
+
+- People almost never increase their natural talent, but they can transform themselves by increasing their hustle.
+- If you're not born with it, you can get it.
+- You have to spend more time doing whatever it is that takes you where you want to go. Do more than the competition. And do it every single day.
+- ***I'm self-aware enough to know I have a lot of talent, but it's my work ethic—my hustle—that has been a substantial backbone to my success. I will outwork anyone. How about you? You can be a phenomenal content creator, but if you lack passion or a willingness to sweat there is someone else out there who is going to make more opportunities for herself and more money than you. Don't let that happen. Put down Clash of Clans. Binge-watch Game of Thrones or Walking Dead next year. And get to work.***
+
+
+- ***Look at your level of hustle and evaluate it. Ask yourself, Am I working as hard as I could? Am I doing great work? If you work for yourself and the answer is no, think long and hard about the business you have started or the consulting work you're doing. Is it a good fit? Are you playing to your strengths? Would you be more motivated and feel more confident if you worked with a partner? If you're working for someone else, and you feel like you're not living up to your potential, please consider finding a new place to work. If you want to succeed, you've got to surround yourself with the right kind of people. Go where you are motivated to take risks. Be with people who allow you to make your best work. Your DNA matters, but make sure your circumstances are allowing you to win.***
+- Now, once you have a product, there could be tons of things you could do to promote a local business—Facebook ads, tweets, geolocation, mobile ads, Google AdWords—the options are tremendous.
+- Smaller companies: work more.
+- E-commerce: Facebook ads. AdWords. Biz dev.
+- For the first 8 years, 1998-2006, there is nothing about Gary Vaynerchuk.
+  - I was working. I was learning, practicing, questioning, researching, and experimenting.
+  - I was building the expertise and experience that would allow me to position myself as an authority, not just in the wine world but in the business world as well.
+  - Today I can say I built two $50 million businesses in five-year periods, and showed a talent for investing in companies early and making a lot of money.
+  - I can rattle off an educated answer to almost any question about wine or Internet business you can throw at me. You think I came by all that knowledge overnight? I got in the trenches and lived my business and did the work that allowed me to build the Gary Vaynerchuk brand. I created reasons for people to think I was worth paying attention to and even worth spending money on to hear me speak at events or read my books.
+
+- How do you avoid procrastination so well?
+  -  What some people might call procrastinating I call reprioritizing. I'm in constant audit mode adjusting to real life all the time.
+  - Something might be super-important one day only to get demoted the next when I open my inbox in the morning.
+  - Trying to keep track of what's most important and when can drive my assistant crazy.
+- Mark my words, if you tell me you're hustling, I will go to your Instagram or Twitter account and take a look at your work.
+  - I will click the posts and hit the profile where it says "view all with replies," and I'll study the engagement rates.
+  - I love it when I see one engagement after another with just some retweets.
+
+- The biggest excuse? If you are serious about reaching your dreams, nothing will get in the way. Never make excuses. Love taking the blame. Stop saying "but" and you'll be forced to move forward, and there will be nothing standing in your way anymore.
+
+# CHAPTER 7 CONTENT AND CONTEXT
+
+- ***People buy with their hearts, not their heads, and the way to every consumer's heart is through a good story.***
+- What defines quality content nowadays?
+  - It appeals to the heart.
+  - It's shareable.
+  - It's native to the platform on which it appears.
+  - It breaks through the noise.
+- Everyone will be a media company.
+- Medium/LinkedIn: have a similar intellectual vibe and can share their audience.
