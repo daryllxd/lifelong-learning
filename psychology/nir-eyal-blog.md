@@ -68,3 +68,13 @@ Content consumptions is finitely variable, but content creation is infinitely va
 - If what we’re watching is engaging, we experience the high of being mentally elsewhere.
 - Sports bar people: they will be in a state similar to "the zone".
 - Only 3% of users walk the 25,000 daily steps Dr. Chance was logging. Continued repetition of a behavior despite adverse consequences is very small. Studies show that relatively few people are susceptible to addiction and that even those who do get addicted quit their dependencies when they change life stage or social context.
+
+# Personalized eCommerce Is Already Here, You Just Don’t Recognize It
+[Reference](https://medium.com/the-mission/personalized-ecommerce-is-already-here-you-just-dont-recognize-it-fdf9071bb0af)
+
+- Curated web: personalized e-commerce.
+- Pinterest has an interface which matches what the user is there to do.
+- Facebook is by design about creating a network of relationships and sharing them selectively.
+- Pinterest: open, no expectation that anything shared is private. It's built on individuals acting in their own self-interest to capture and collect things that interest them.
+- Facebook liking: what does this mean? Do you like the brand, an outlet, a product, or whatever?
+- Pinterest: It just makes sure that the magic catalog is open and that the user buys the thing.
