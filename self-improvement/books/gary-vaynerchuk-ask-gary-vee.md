@@ -474,3 +474,80 @@
   - It was at an Internet conference, and I really didn't know what to expect. But the second I took that stage my world was never the same.
   - There may be no greater high for me than that second right before I walk out onstage; it feels like home. It's no secret that I like to hear myself talk, and this gives me the perfect excuse, but I really do tremendously enjoy connecting with my audience. I'm so grateful for the opportunity to speak to so many people on a regular basis.
   - If you've done a good job of building your brand, there is a good chance someone will ask you for an interview, or to sit on a panel, and eventually, if you're really good, to host a conference or deliver a keynote address.
+  - When this starts happening to you, you'll know you're on your way. It's not only fun, it's lucrative. I love it. I really freaking love it. I hope I can make you love it, too, if you're like I was and unaware that it was even in your skill set.
+
+- How do you prepare for an important keynote?
+  - Finding a way to free yourself from your fear of public speaking is an extremely worthwhile investment, because if you succeed, it sets the potential for an enormous boon to your brand and business.
+  - Reach new audiences you might not have encountered, build your credibility.
+  - Prep: still do everyday things, but before showtime, I focus but do not recheck the speech. Then, right before I go out onstage, I think about punching every audience member directly in the mouth.
+
+- How do you get away with so many f-bombs onstage?
+  - *Second, I get away with dropping f-bombs because I just don't fucking care if I catch flak for it. In fact, I use the f-bomb all the time to vet people with whom I do business. How you react to me tells me a whole lot about you. If you're operating at such a micro level you can't get beyond my language to hear the bigger message I'm trying to communicate to you, you're just not someone I want to do business with or take on as a client. You're never judging me half as much as I'm judging you.*
+- As a speaker, you rarely use filler words and you hardly ever lose your train of thought onstage, or in front of the camera. Can you provide insight into how you've nurtured your public speaking chops?
+  - I've had a lot of practice since the first time I hit the stage in 2006, and here is the biggest secret I have learned for a flawless presentation: Talk about what you know.
+  - Don't let people suck you into a debate about a topic in which you're neither interested nor well versed.
+  - The only reason my opinion matters about anything is that I am a practitioner and have grounded my execution in strong research and experience.
+  - I'm not providing value if I start spouting opinions based on nothing more than a few clickbait headlines.
+
+# CHAPTER 19 MUSIC
+
+- Most people who care about the art form do not respect my relationship with music. I have no musical talent and my contemporaries often disrespect my taste. One of my favorite things to do is put a favorite song on continuous loop and listen to it for five to seven hours.
+- *Do you have any idea how many bands and artists have been able to break out and become profitable because they knew how to use social media like Vine and YouTube to reach their audiences? These are the same bands that would never have been able to get so much as a meeting with a major label fifteen years ago.*
+- That's why I don't understand why so many people continue to bemoan the fate of the music industry and complain that musicians can't get a fair shake. They sure as hell can. If they hustle, that is. They just have to stop thinking of themselves as artists and start thinking of themselves as a business.
+- Since music itself doesn't create income anymore, what advice do you have for musicians wanting to make their living playing music in the twenty-first century?
+- *Let's get some perspective—throughout history, maybe 1 percent of all musicians, singers, and songwriters ever made it big. Most professional musicians worked their whole lives making the best living they could doing what they loved, while supplementing their income doing work that they did not love.*
+- Just like many other entrepreneurs, artists can make a perfectly livable income through AdSense, YouTube ads, sponsored social media content, and Beatport sales, which leaves them more free to devote their working hours to honing their craft, distributing their music, engaging with fans and music venues, and creating their own opportunities to perform live.
+- In fact, according to a New York Times article called "The Creative Apocalypse That Wasn't," "More people are choosing to make a career as a musician or a songwriter than they did in the glory days of Tower Records, with as many as forty-six possible revenue streams available to them."
+- Brand awareness: Snapchat, Youtube, Vine, Instagram, SoundCloud.
+- Most musicians think their art is their priority, but your audience needs to be, too.
+- As a private music teacher I have limited hours to teach. Thoughts on how to increase my income and brand?
+  - Of course I do.
+  - There are entire industries that have been transformed by tech, allowing people who work on opposite sides of the globe to connect and collaborate.
+  - Who says your students all have to be in your time zone? There are doctors who treat patients, and accountants who consult with clients, via Skype.
+  - Why couldn't a music teacher do the same? Offer classes on Skillshare. Take a page from online education and start marketing yourself to people who don't have easy access to good music instruction. Find the need and fill it.
+- Another strategy would be to monetize the hours when you're not teaching. Start putting out content—blog posts, videos, podcasts, anything—about music, teaching, cultural events, and any other topics that are even tangentially related to your business and give you a chance to show who you are and build trust.
+  - Use Twitter Search and engage with people who love music, or who have kids who love music, or who might be interested in music classes, or even to connect with other teachers.
+  - Offer tutorials on Spreecast or Meerkat (I'm an investor), start a YouTube Channel, and take advantage of Google hangouts. The options are endless for creative entrepreneurs.
+  - Does all of that sound like a lot of work? It is.
+  - How people react to the prospect of so much work is really what differentiates between those who build successful small businesses and those who eventually give up and go work for someone else.
+  - If you love the work—if the idea of putting yourself out there and sharing your love for your art and reaching more and more students gets you excited—then there's no reason why you can't make this work for you.
+  - *If you're overwhelmed by it all and just can't imagine giving up Game of Thrones or the many other activities that take up hours in our days, you're really not cut out for it.*
+  - Your talent is what it is, but the level at which you increase your income and brand is limited only by the scope of your ambition and willingness to hustle. Nothing more, nothing less.
+
+# CHAPTER 20 SPORTS
+
+# CHAPTER 21 WINE
+
+- When someone gives you a horrible glass of wine, how do you politely get rid of it?
+  - Actually, I like trying the occasional glass of bad wine because it makes me appreciate the good stuff so much more. And the same could be said for times when I'm asked to judge someone's content or social media presence on #AskGaryVee.
+  - Often it's crap, and yet it's my job to point out how it could be better without tearing an entrepreneur or marketer down so viciously, he or she never wants to try again.
+  - *And seeing the crap makes me appreciate it that much more when I see others executing their social media strategy and content well. Because producing quality, whether wine or webinars, takes major commitment and effort. And I respect that.*
+  - The reality is that so long as you haven't experienced the difference between something high end and low end, it's hard to see what the big deal is. But in most cases, all it takes is one ride in first class, or one game in the front row of a stadium, or one sip of a Châteauneuf-du-Pape, and you'll wonder how you ever doubted its value.
+
+# CHAPTER 22 THE PERSONAL, THE RANDOM, AND THE WEIRD
+
+- Legend has it that on your first date with your wife you told her you would marry her. We want to know the details. And also, what dating advice do you have for women in their twenties?
+  - Lizzie and I are married because the Jets won on the Sunday night we were supposed to go out for the first time. If they had lost, I would have canceled. But they didn't, and so I drove into New York City for what turned out to be a three-hour date at an awesome spot in Washington Square Park. She lived on the Upper East Side, and I lived in New Jersey. After dinner I dropped her off, and two minutes afterward I called her on her cell. She wasn't even in her apartment yet. And I said, "Can you believe this is it?" We talked during my forty-five-minute ride home, and then until about four in the morning. We were married within the year of our first date.
+  - What dating advice would I give a young woman coming up in the world? The same advice I'd give a man: Think about your legacy.
+  - ***Live on the offense. Don't be afraid to show your feelings and go for what you want, whether it's a job or a relationship.It's possible you'll get rejected, but it's more likely you won't. Better to experience the brief, temporary pain of rejection than to live forever with sad regret for all the things you were too scared to do.***
+
+- The only thing I'm really scared of is reading in public. I am an atrocious reader. It's even affected how I run my business. In 2015 I started creating only 5–7-minute meetings with much of my staff because I don't read fast enough and therefore wasn't reading their emails in full ahead of time.
+
+- What do you splurge on? Experiences. LeBron's first game back in Cleveland against the Knicks because AJ is a huge fan and it will be something we can attend and remember together when we're older. Vacations with my family. Paying for my friends to go on trips when they couldn't afford it. I splurge on spending time with people I care about.
+- *Guess who you meet on a climb? People. Many on the same route as you. Find those who fascinate you, who challenge you, and who help you look forward to getting started every day. Treat them well, provide them with value, show them why you're worth keeping around, and you'll get tremendous return. I find the individuals I think I can jam with for the next fifteen, twenty, thirty years professionally, and I bring them into my circle to make them the next generation of operators.*
+- When have you been happiest in life?
+  - Because I'm a collector of good people and good moments.
+  - The birth of children.
+  - The Jets beating the Patriots in the playoffs.
+  - Getting standing ovations at important business conferences.
+  - I'm all about momentum and clout.
+  - Every day that goes by in which good things keep happening, and there is no sickness or sadness in my family, feels like the next big day. All I have to do is just keep building on each day, one after the next.
+- *You know, earlier I listed my biggest fears, but I forgot to mention this one: I'm afraid that eventually the climb will be over and I will become bitter when I realize all the things I wasn't able to capitalize, all the moments I missed. That's why I pray that I'll never actually reach the other side, and that my life can always be about the climb. I hope I feel that way up until I take my last breath.*
+
+- Don't edit this, DRock! I'm sure if you've watched/listened to the show you've heard Gary shout this to me.
+  - I've learned that speed is super-valuable and quality is subjective to that.
+  - Gary values authenticity over everything, and it's not often that you find someone as scrappy and fast as Gary; he's super-entertaining. Ever since day one I've loved the energy that he brings to the camera. It makes my job that much more enjoyable.
+  - When we were starting I would always get frustrated with the "bad audio," especially in episode 5, and Gary would remind me that it's okay and we just need to learn how to get faster, so since then I've strived for a quicker turnaround time while still making slight improvements to the quality of the show (we've gotten great audio now, whew!).
+  - *If you want to go and create your own videos, I want you to stop getting caught up on what camera to buy, and what mic has the BEST sound. You don't need the BEST to start. Grab your iPhone, hold it at arm's length, and start, and whatever you do—provide value. This is No. 1.*
+  - Wanna see something really cool? Check out episode 1 of WineLibrary TV, then skip ahead to episode 598. See how Gary's personality shifted from quiet and reserved to outgoing and absolutely entertaining? He found his voice. Now for a more recent example, check out episode 1 of #AskGaryVee, then check the most recent episode . . . let me guess, you see that same difference? He had to find his voice again.
+- *Why the big difference? We began to find our cadence; we evolved. As we continued to crank out episodes we were able to make slight adjustments little by little and we continue to do so.*
