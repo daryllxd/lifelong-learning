@@ -80,6 +80,13 @@
 - ***Adaptation.***
 - ***Evolution by Natural Selection.***
 - ***The Red Queen.*** When a species evolves an advantageous adaptation, a competing species must respond in kind or fail as a species. Standing pat can mean falling behind.
+  - [Reference](https://www.fs.blog/2012/10/the-red-queen-effect/)
+  - Not all animals evolve at the same rate.
+  - We invest significantly in new product development and content.
+  - We are not in the business of edutainment, but in providing better outcomes.
+  - We try to spend our mental resources working on things that won't change next week.
+  - We recognize how the world works.
+  - At some point, frogs evolve stickier tongues, and flies evolve more slippery bodies.
 - ***Replication.***
 - ***Hierarchical Instincts.***
 - ***Self-Preservation Instincts.***
