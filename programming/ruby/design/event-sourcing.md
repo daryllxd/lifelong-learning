@@ -50,3 +50,46 @@
 - Audit log.
 - Read-models.
 - Implement event-sourcing.
+
+- [Best Event Sourcing DB Strategy](https://stackoverflow.com/questions/28667367/best-event-sourcing-db-strategy)
+  - One table for each event?
+  - One generic table, save events as a serialized string.
+    - Query the event stream by aggregate ID, not event type.
+    - Reproducing the events in order is hard if they are in different tables.
+    - It would make upgrading events a bit of pain.
+    - Searching via event type: add an index on that column.
+  - Something to consider: "We still had a set of normalized tables, because we just could not accept that in order to get the latest state of an object we would have to run all the events." So ES is good for versioning/serving as a full audit log, and it should be used just for that, not as a replacement of a set of normalized tables."
+    - Treat the views as a convenience that can be trashed/rebuilt at any time.
+- [Using an RDBMS as an Event Sourcing Storage](https://stackoverflow.com/questions/7065045/using-an-rdbms-as-event-sourcing-storage?rq=1)
+  - Simplest form: Event → `Aggregate_ID`, `Aggregate_Version`, `Event_Payload`.
+  - *Event store should not need to know about the specific fields or properties of events. Otherwise, every modification of your model would result in having to migrate your database.*
+- [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
+  - This is a good talk. Just didn't take down notes yet.
+- [Why are event sourcing (CQRS) databases not popular?](https://dba.stackexchange.com/questions/147439/why-are-event-sourcing-cqrs-databases-not-popular)
+  - It is arguable that the write-ahead-log that every SQL product uses is an event stream, allowing rebuilding of objects in the event of an instance fault.
+  - CQRS can be considered a design pattern as much as it can be considered a product. As such, any mainstream store could implement a CQRS.
+  - Accounting, banking, and finance systems: "every transaction is immutable".
+  - On querying the history: your probably don't want to query against the event store itself. The most common solution would be to hook up a couple of event handlers that project the events into a reporting or a BI database, then replay the event history against these handlers.
+  - CQRS: Separate your read and write models. ES: Use an event stream as the single source of truth in your application.
+
+# Building an Event Storage
+[Reference](https://cqrs.wordpress.com/documents/building-event-storage/)
+
+- Basic Event Storage: RDBMS with 2 tables:
+  - 1 table as Event log: `AggregateId`, `Data`, `Version`. The event is stored using some sort of serialization.
+  - Possible additional information: timestamp, context information, the user who initiated the change, IP address, level or permission.
+  - Other table: `AggregateId`, `Type`, `Version`, which stores all of the aggregates. The version number is denormalized. This value is used in the optimistic concurrency check.
+
+- Operations for an event:
+  - At the simplest level, there are just two operations. This makes Event Storage simpler than most data storage mechanisms as well as easier to optimize.
+  - Operation 1: To get all of the events for an aggregate, then you do a `SELECT * FROM EVENTS WHERE AGGREGATE_ID='' ORDER BY VERSION`.
+  - Operation 2: Writing the sets of events to an aggregate root. Either code or stored proc.
+    - Write: Check if an aggregate exists, if not, create one and consider the current version to be zero. Then, attempt to do an optimistic concurrency test on the data coming in if the expected version does not match the actual version it will raise a concurrency exception. Then, loop through the events being saved and insert them into the events table, incrementing the version number by one for each event. Transaction to insure that optimistic concurrency amongst other things works in a distributed environment.
+
+- Rolling snapshots: A denormalization of the aggregate at a given point in time. There might be some process of creating the snapshots (a process outside of the app server as a background process).
+  - Creating a snapshot: Having the domain load up the current version of the Aggregate, then take a snapshot of it.
+  - Use Memento pattern.
+
+- ES as a Queue:
+  - Very often, these events are not only saved but also published to a queue.
+  - An issue that exists with many systems publishing events is that they require a two-phase commit between whatever storage they are using and the publishing of the events to the queue.
