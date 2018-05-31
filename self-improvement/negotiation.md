@@ -74,3 +74,36 @@
 - Simple: Obvious appropriation strategy.
 - Distribution: No single point of failure (such as a single arbitrator).
 
+# What is the best way to become a better negotiator?
+[Reference](https://www.quora.com/What-is-the-best-way-to-become-a-better-negotiator/answers/2584263)
+
+- Understand their motivation.
+- Understand your expectations. What would you consider a win and what would you consider a bottom line?
+- Develop your strategy: subject, timeframe to complete, and the price.
+  - Whoever throws out the first price is usually the one who anchors the price-point on the deal. When you have the advantage, get them to throw the price out first. Do not accept it, even if it is double what you were expecting.
+  - Timeframe: If they are hurrying up, you can anchor the price of NEW + opportunity cost.
+  - Price: When you have the disadvantage, throw out a price you are comfortable with, and do not accept anything less than your bottom line.
+
+# What should people know about negotiating a deal, position, sale, or any other situation? What are some of the most common mistakes?
+[Reference](https://www.quora.com/What-should-people-know-about-negotiating-a-deal-position-sale-or-any-other-situation-What-are-some-of-the-most-common-mistakes)
+
+- The minute you pass the point when you’re willing to say, “I’m prepared to walk away from this,” you lose in the negotiations.
+- There’s always another house, another job, another car. You can make more friends, you can find another girlfriend. You can watch another film, read another book, go on a different holiday.
+- Leverage is a force. Some cultures spend a lot of time and money wining and dining business partners. These emotional ties work as leverage. Microsoft has huge leverage over the OEMs that produced PCs. They used their leverage to become a monopoly. Leverage can also be faked. Maybe they don't actually have what they say they have.
+- Politics is also a force. Make a conscious effort to understand and see where the decisions are being made, who has the power, and what motives are in play. *Unless you are negotiating with the boss, you are almost always negotiating with the negotiator who's job it is to do their due diligence, find the best deal, and prove to their superiors that they are doing a great job. If you can make this person's job easier and get them a promotion at the same time, you will be hard to turn down.*
+- Don't react, go out to the balcony. Reframe the dispute in terms of interests, rather than positions.
+- Make it easy for them to say "yes" by removing common obstacles to agreement. Opponents resist ideas that are not their own. Avoid the temptation to tell the other side what the solution is.
+
+# Getting Past No: Negotiating With Difficult People
+[Reference](https://www.colorado.edu/conflict/peace/example/pastno.htm)
+
+- Recognize the tactics your opponent is using, then recognize your own feelings and "hot button" issues.
+- Distance yourself emotionally and view the situation objectively. Figure out the "best alternative to a negotiated settlement."
+- Disarm the opponent by stepping to their side. The goal is to reassure them and help them regain their own mental balance.
+  - Listen actively, ask clarifying questions, acknowledge their points and feelings, apologize if appropriate, focus on areas of agreement, use the word "yes" to reduce tensions.
+- Reframe the dispute in terms of interests, rather than positions. Ask open-ended, problem solving-oriented questions. Ask "why" questions to elicit the opponent's interests. Ask them "what if" questions.
+- Build them a golden bridge. Make it easy for them to say yes by removing the common obstacles to agreement. Opponents may resists ideas that are not their own, instead, ask for their ideas and criticisms.
+  - Offer them choices. Their resistance may indicate that they have unmet interests. Try to understand the other side's logic and perspective, and do not overlook intangible interests such as needs for recognition, identity, or security.
+  - Third-party recommendations: a proposal that is unacceptable coming from you may be acceptable if it comes from a third-party. Suggest ways of presenting the agreement to constituents in the most favorable light.
+- Make it hard for the opponent to say no. "Instead of using power to bring your opponent to his knees, use it to bring him to his senses." The goal is to educate the other party to realize that an agreement is in their best interest.
+- Ask them reality-testing questions about what will happen if no agreement is reached. The more power you use, the more you need to defuse your opponents resistance.
