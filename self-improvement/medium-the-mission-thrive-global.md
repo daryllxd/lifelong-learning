@@ -744,3 +744,70 @@
   - Understanding the value of diverse knowledge (people who have "too many interests" are more likely to be successful according to research.
   - Understanding the cognitive biases (confirmation bias, backfire effect, Dunning-Kruger effect, halo effect, in-group bias).
 - ***A wealth of information creates a poverty of attention.***
+
+# The Calm Company
+[Reference](https://m.signalvnoise.com/the-calm-company-our-next-book-d0ed917cc457)
+
+- Sustained exhaustion is not a badge of honor, it's a mark of stupidity. Companies that force their crew into this bargain are cooking up dumb at their employees expense.
+- Are things done on ACTUAL work?
+- Not more hours, less bullshit.
+- On-demand is for movies, TV shows, and podcasts, not for you. Your time isn't an episode recalled when someone wants it at 10pm on a Saturday night.
+- Calm company:
+  - No growth-at-all-costs. No false busyness. No ego-driven decisions.
+  - Money comes from the customers. Benefits: for the dudes.
+
+# How To Achieve Your 10-Year Plan In The Next 6 Months
+[Reference](https://medium.com/thrive-global/how-to-achieve-your-10-year-plan-in-the-next-6-months-f8c1cc54888e)
+
+- 280 hours per month (after sleep, eating, and work). What are you doing then?
+- *Reading books should stimulate new ways of thinking and acting in the world. If you're not acting differently, you're not actually learning, and thus not changing.*
+- *For most people, learning has become an escape from doing. Filling your head with useless information is the opposite of hard-won wisdom and understanding, which can only happen via the application of knowledge and re-application based on experience in the real world.*
+- When you awaken, you:
+  - Acknowledge to yourself that you have a problem.
+  - Seek out information and help.
+  - Get accountability.
+  - Create an environment that facilitates your desire to change.
+  - Being investing in more healthy alternatives.
+- Audit your time.
+  - Begin tracking everything!
+  - Today's environment: trigger-laden. It's easy to be distracted by technology and get distracted that it's hard for us to imagine being fully AWAKE and present for long periods of time.
+  - You absolutely cannot achieve things 10x or 20x faster if you're distracted on social media, because it's a very low-level use of time.
+  - Recovering and resting and playing for several hours per day is great, it's stimulating and fulfilling and leads to growth and deepening of self and relationships.
+
+## What if You Only Had 6 Months Left to Live?
+
+- To value your time:
+  - A belief system about the purpose of your existence.
+  - A belief about how you should be using your time.
+  - A desire to live and learn.
+  - A disregard for how (most) people perceive you.
+  - A willingness to continue learning.
+  - A goal you're striving to accomplish.
+- *This is a fundamental irony of most people’s lives. They don’t quite know what they want to do with their lives. Yet they are very active.*
+- Few people are clear on:
+  - What they believe.
+  - What they should do because of that belief.
+  - How to most effectively accomplish that belief.
+- Then:
+  - Get really, really good at learning and filtering through information.
+  - Give yourself a short time-line.
+  - Use your most important time, every single day, for moving toward your goals.
+  - Remove everything from your life that hinders you from achieving your goals.
+- If you don't focus...
+  - Most people don't see a reason to eat healthy.
+  - Most people don't see a reason to evaluate the quality of everything they put in their mouth and in their heads.
+  - When you know your time is limited, you begin to ask harder questions.
+  - *If you had 6 months to live, how much of that time would you spend on Facebook? If you had 6 months left to live, would it be difficult to wake up at 5AM?*
+  - Honesty, brutal honesty. That's the difference.
+
+## Pulling It All Together
+
+- You must have something that drives you.
+- You must operate with a "deathbed" mentality and not undervalue your time.
+- Be willing to experiment and fail continually.
+- You can't be a coward.
+- *Be an intense and wise learner. The best information from the best resources and apply immediately what you learn.*
+- You need to reach out to the right people quicker. You need to put your work out there and face an audience immediately. If you start doing all of these things, you'll get feedback. And that's what failure is: failure is feedback.
+- The harsher and more honest and more direct the feedback, the better. Use that feedback. Adjust. Get better information. It's an absolutely amazing feeling to be living your life as if you only had 6 months left to live.
+- ***Stop dealing with stuff that no longer makes sense.*** You'll act with far more purpose, persistence, and boldness.
+- If you want more confidence, start striving toward the life you want. Even if you fail, you'll be proud of yourself. And if you're committed, you'll begin to succeed. You'll eventually get so much momentum that it becomes your new normal to operate at optimal levels.
