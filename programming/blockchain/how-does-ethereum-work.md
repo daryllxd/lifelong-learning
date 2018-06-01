@@ -17,3 +17,4 @@
   - These make up the global state of Ethereum. They are able to interact with one another through a message passing framework.
   - Externally owned accounts: controlled by private keys, no code.
   - Contract accounts: controlled by their contract code, have code associated with them.
+- TODO: READ.

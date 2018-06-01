@@ -93,3 +93,37 @@
 - ES as a Queue:
   - Very often, these events are not only saved but also published to a queue.
   - An issue that exists with many systems publishing events is that they require a two-phase commit between whatever storage they are using and the publishing of the events to the queue.
+
+# Event Sourcing: What it is and why it's awesome
+[Reference](https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome)
+
+- The status quo: web development is database driven. Problems with this:
+  - We don't think like this, we usually just tell other people what has happened since we last talked.
+  - Single data model: We usually design the tables from a write perspective, then figure out how to build our queries on top of those structures. It's usually impossible to build a generic model that is optimized for both reads and writes.
+  - We lose business critical information: we get to lose the whole "how many times has a user done this" thing.
+- Enforcing business constraints?
+  - You replay a subset of the events, and the end result is a projection.
+  - Showing data to the user? Instead of building it on the fly, you build it in the background, storing the intermediate results in the database. That way, users can query for data, and they will get it in the exact shape they need, with minimal delay.
+
+## Benefits
+
+- *Ephemeral data structures.* Since all state is derived from events, you are not longer bound to the current state of the app. Bye bye migration scripts. Just create a projection and discard the old one.
+- *Easier to communicate with domain objects.*
+- *Expressive models.* You model events as first class objects, rather than through implicit state changes.
+- *Easier to build reports.* Because you have full history, you can ask any question you like about that data historically.
+- *Composing services: use a bus or something.*
+- *Databases are optimized for append-only operations.*
+- *Easy to change database implementations.*
+
+## Issues
+
+- *Eventual consistency. An ES system is naturally eventually consistent.*
+- *Event upgrading.* When the events change shape, you have to write an upgrader that takes in the old event and converts it into the new one.
+- *Change in status quo.*
+
+## Comments
+
+- You can start small and progressively optimize.
+- Challenge: Set validation, such as storing unique emails. The thing is still inefficient at this type of verification, since you have to replay the entire log every time to validate it.
+- Unique index to force sequential operations? This can work, but you have to handle failing use cases.
+- Monitoring tools?

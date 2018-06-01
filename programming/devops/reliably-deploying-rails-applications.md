@@ -42,10 +42,6 @@ Automating server deployments not only makes disaster recovery easier, it makes 
 - Use Knife to tell Chef Server to "converge" our node.
 - Chef Server will then connect to the Chef Client on the target node, copy across the relevant cookbooks and have Chef Client execute them.
 
-- WTF DOES ohai DO?
-- Fixing chef problems: update the thing.
-- `berks update postgresql`
-
 ``` bash
 
 $ knife node run_list add NODE_NAME 'role[server],role[nginx-server],role[postgres-server],role[rails-app],role[redis-erver]`
@@ -86,6 +82,67 @@ $ knife zero converge name:NODE_NAME --ssh-user root (ubuntu?)
 - Cookbooks are stored in `~/.berkshelf`.
 - If we're developing a cookbook locally, we should have a separate folder for our cookbook, outside of our Chef Repo structure.
 - `$ berks vendor`: Running these creates the `berks-cookbooks` directory.
+- It's a bad idea to delete `Berksfile.lock`!
+
+# Using Knife
+
+- `ssh-copy-id`
+- `$ knife zero bootstrap SERVER_IP_OR_HOSTNAME --ssh-user root --node-name NODE_NAME`
+  - Connects to the node as the user.
+  - Installs Chef client on that node.
+  - Generates a node definition file in `nodes/NODE_NAME.json`.
+- `$ knife node edit NODE_NAME`.
+  - When interacting with Chef resources, we use knife to edit files.
+- Run list: This defines the list of recipes which should be applied to the node.
+  - `$ knife zero edit NODE` and `knife node run_list add NODE_NAME 'recipe[redis::server]'`, etc.
+- Roles: Exactly what it sounds like.
+- `$ knife zero converge 'name:NODE_NAME' --ssh-user root`
+  - Converge/has the local Chef Zero instance connect to the Chef client on the specified node, upload the relevant cookbooks and apply the nodes definition.
+- Data bags:
+  - Global: For API keys which do not vary across environments, public keys which should be valid for SSH login.
+  - Sensitive: Data bags can be encrypted, and individual items in data bags can be encrypted with separate keys.
+  - `$ knife data bag create users deploy`
+    - Creates a `data_bags/users/deploy.json` with a simple JSON object.
+  - Encrypted data bag:
+    - `$ knife data bag create secrets some_secrets --secret PASSWORD`
+    - `$ knife data bag edit secrets some_secrets --secret PASSWORD`
+    - Weird? Hehe.
+
+# Chef Cookbook
+
+- `cookbook 'redis-server', path: '../cookbooks/redis-server'`
+- The `recipes/` directory: We can have one recipe for installing Redis from a `ppa` and one for compiling it from source.
+- The `templates/` directory: What you use to create a file on the remote server.
+- The `attributes/` directory: Values set in a node or role def.
+
+- Without the Chef cookbook we would be doing this:
+
+``` bash
+$ sudo apt-get install -y python-software-properties
+$ sudo apt-get repository -y ppa:chris-lea/redis-server
+$ sudo apt-get update
+$ sudo apt-get install -y redis-server
+$ cat <<EOF > .... (redis conf)
+$ sudo chown -R redis:redis /etc/redis/
+$ sudo /etc/init.d/redis-server restart
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 6: A Template for Rails Servers
 
