@@ -88,3 +88,75 @@
   - Pulls: Why did they choose product X or product Y? What's wrong with product Y? What did X have the Y didn't?
 
 # When You Define Competition Wrong
+
+- Solution instead of a Jobs-To-Be-Done.
+- Flaws with disruptive innovation: Relying on an oversimplified model of competition that doesn't take into account how customers see competition. The competition for electric refrigerators is not just other electric refrigerators.
+- Competition can be if a system around an innovation changes so much that it doesn't fit anymore.
+- Little to no profit potential.
+- Mistakes: Limiting my definition of competition to products that look and function similarly, and not making sure a true desire for change was taking place and that customers were willing to pay for a solution.
+- Innovation is hard, there are no recipes for success, and there's not "one right way" to make products and build businesses. "No business plan survives first contact with customers."
+- People who are good storytellers can fool those of us who aren't experienced in scientific rigor or statistics.
+- *Don't restrict competition to products with similar functionality or physical characteristics.*
+  - Ex: Coffee or kale?
+- Talk with your customers.
+- Don't study the relationship among customers, products, and competition just from afar.
+- Confirm that competition exists between products by finding customers who switched.
+- Do you think you're creating a new market? You're probably not. Customers have ways of solving their problems.
+- Continually refresh the competitive landscape with ongoing feedback from customers.
+
+# Part III: The System of Progress
+
+- Simplist: A product that helps you search for specific people within your social network.
+- *"When I interview potential customers, I look for evidence of a struggle. That's how I know a struggling moment exists and that there's an opportunity to create something."*
+- Ex, Omer on hospital and adverse events:
+  - Does your hospital talk about adverse events?
+  - Are there incentives if the number of adverse events goes up or down?
+  - How would you describe your daily life as a nurse? What are your routines?
+  - What is it like when adverse events happen on your watch?
+- When you figure out a struggle for progress, learn how the customers imagine their lives being better.
+- Ryan Singer and Jason Fried: Customer Jobs.
+- ***Differentiate emotional from functional aspects of jobs.***
+  - When people go to a coffee shop, they aren't just buying caffeinated liquid. They're going for all these other reasons. Clearing your head, feeling cool and creative, experiencing the ritual of drinking coffee made the way he likes it, and feeling as if he's a part of a community.
+- On observing people: "What are people-unprompted-complaining about on Twitter? What questions do ents and innovators keep asking me over and over again?"
+  - Patterns: people were lonely, doing this thing in their spare time.
+  - The frustration of listening to content and not really doing anything.
+- Product People Club competitors:
+  - MicroConf: A conference geared towards self-funded start-ups.
+  - 30 x 500. An online course that guides entrepreneurs from product research through launch.
+  - Creating a Meetup.
+  - One-on-one coaching.
+- People just want independent income.
+- So he solves the isolation of solo entrepreneurship by giving them the support and confidence.
+- *Great advertising comes from speaking to the customers' struggling moment.*
+
+# The System of Progress
+
+- Customer: Imagines a better life-salutation (a new me). Customers can be attracted to a new me because it offers them an opportunity to get away from something they don't like, or because it offers them an opportunity to grow in a new way.
+- Engineers, designers.
+- Grow our business by unlocking new aspirations and offering products for them.
+- Think of your business as delivering a combination of products that work together to forward the system of progress. Ex: Combination of iPhone and the App Store.
+
+# Describing a Job to Be Done
+
+- Ex: The Honest Company. "Free me from the stress I deal with when figuring out what products won't harm my children, so I can have more time to enjoy being a parent."
+- *When parents started buying products from Honest, they stopped behaviors such as asking friends, family, doctors, and the Internet.*
+- People may be buying "Honest" the brand, not the individual products. When they need a sunblock, they buy one from Honest.
+- *How you describe a JTBD is a competitive advantage.*
+
+# Do Goals vs Be Goals
+
+- Highest goal: Ideal self.
+- Principles: "I want to be ..."
+- Programs: "I want to do ..."
+- Sequences: "I do..."
+
+- Ex: Your goal is to be thoughtful for your family. To fulfill this goal, you choose the activity, "cook". The fulfillment of "be thoughtful" isn't dependent on the success or failure of cook dinner.
+- *Do and Motor control goals are transitory. Be goals are states of self-perception. They are entirely emotional. Do and Motor control goals are purely functional and are technology dependent. They are things you do to fulfill a Be goal.*
+- Emotional jobs: define how customers want to feel or avoid feeling as a result of executing the core functional job. Social jobs define how the customer wants to be perceived by others.
+
+- ***Jobs as a Progress: A consumer will look for, buy, and use a product for the first time when a discrepancy exists between how things are today and how they want them to be in the future.***
+  - What causes someone to purchase a product for the first time?
+  - What and how do consumers use markets to adapt in a changing world?
+  - What and how do consumers shop?
+  - Why and how do consumers switch between products?
+- Ex, Clarity: Customers wanted to be motivated and inspired. This discrepancy caused them to investigate and evaluate activities that ranged from "attend a conference" to "video chat with a famous person".
