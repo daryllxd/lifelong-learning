@@ -127,3 +127,41 @@
 - Challenge: Set validation, such as storing unique emails. The thing is still inefficient at this type of verification, since you have to replay the entire log every time to validate it.
 - Unique index to force sequential operations? This can work, but you have to handle failing use cases.
 - Monitoring tools?
+# Hacker News: Building a CQRS/ES web application in Elixir using Phoenix
+[Reference](https://news.ycombinator.com/item?id=13338848)
+
+- *Versioning events, projection, reporting, maintenance, administration, dealing with failures, debugging, etc etc are all more challenging than with a traditional approach.*
+- Migrating immutable events:
+  - Multiple versions.
+  - Upcasting.
+  - Lazy transformation.
+  - In-place transformation.
+  - Copy and transformation.
+- OTOH, if understanding ES just as an ADDITION to classical mutable-state processing - it can be made very useful. Not only ES will serve as a perfect audit, the duplication of information (once in mutable state and once in input events) will allow such things as regression testing, and fixing data problems caused by bugs, within the DB.
+- Possible successful examples:
+  - Double-entry accounting/bookkeeping/core banking systems.
+  - RDMSes, specifically the replayable log structure of transactions.
+- The alternative: `Customer` and `CustomerAudit` table. Write it in a transaction. Solved.
+- Yes, you can fail with event sourcing. You can fail with Rails. It will take you longer to fail with Rails, though.
+- Kafka:
+  - "Event log".
+  - *The issue isn't about the persistent store of events, but the event payloads changing.*
+  - Projection is not the panacea! Inevitable, there will be syncing issues between the event store and the projected database/ES cluster/Mongo instance.
+- Why CQRS failed?
+  - Not good idea to do real-time querying of the event store.
+  - How do you know if the projection worked? What if there was a conflict with another address change form somewhere else?
+- Things I found:
+  - Do not try to apply ES to all areas of your software, if you apply it at all.
+  - CQRS does not require ES, ES does not require CQRS.
+  - On-demand projections are fine for a lot of purposes, learn to tell when you're going to need a static projection.
+  - A projection is a part of BC. Don't query other BC's at runtime for their data.
+  - Use UUID for PK, and originate them with the client whenever possible.
+- Fixing an event that should not have gotten in the store: reverse transaction.
+
+- Long comment:
+  - If you've only ever built systems under a single paradigm, then you might not even be aware of the differences in reversibility concerns between paradigms.
+  - You won't learn it (and wield it safely) if you believe that all things should be as readily-consumed as Meteor over Mongo, or Rails, or pick-your-forms-over-data tool.
+  - Event sourcing makes things simple - far simpler than ORM, for example. But it only does so when approaching it from its own predispositions, rather than the predispositions (especially unrecognized) of some foreign and impertinent approach.
+  - I can do an event-sourced system today as fast as I could have built the same system in a rapid-prototyping tool like Rails in years past. However, unlike Rails (for example), my productivity, and my team's productivity remains stable, and changes in scale and complexity of the business and its organization don't induce the panic that it used to.
+  - *By "problems that shouldn't exist in the first place", I mean complexity and lack of clarity that is the result of presuming to reproduce a relational database schema in an object model. This is the single biggest problem in application software development today, and unfortunately it's also a default mode of development.*
+  - *Until it clicks that ORM is as unnatural an abstraction now as server pages was in the 2000s, event sourcing probably won't matter.* And working with event sourcing might create all kinds of problems for not having recognized how to partition a domain. You may just end up with a distributed monolith rather than a service architecture. And at that point, you might just end up blaming event sourcing as a pattern rather than the unconscious importing of anti-patterns from "traditional" development.
