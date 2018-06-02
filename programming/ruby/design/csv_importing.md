@@ -83,3 +83,19 @@ end
 - *By default, the import method will continue to enforce validations and it will figure out how to serialize all of the Book instances into highly performant SQL statements.*
 - *If you do not have DB-level constraints enforcing uniqueness, you may get duplicates if your imported dataset contains duplicate values.*
 
+# Importing data and handling conflicts in Ruby on Rails applications
+[Reference](https://www.mutuallyhuman.com/blog/2016/08/19/importing-data-and-handling-conflicts-in-ruby-on-rails-applications)
+
+- We can do a `on_duplicate_key_update` thingie to specify that we want to update `name` when a duplicate is found.
+- If the data being inserted would cause a duplicate, then MySQL will perform an `UPDATE` on the existing row.
+
+``` ruby
+Author.import(
+  [:name, :key],
+  rows_to_import_second,
+  on_duplicate_key_update: [:name],
+  validate: false
+)
+```
+
+- On how to detect duplicates: `columns: [:name], conflict_target`
