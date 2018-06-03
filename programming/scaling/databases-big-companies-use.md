@@ -1,0 +1,14 @@
+- [What do big websites like Facebook, Google, Twitter, and LinkedIn use for their database? What would be the pros and cons of what they use and why?](https://www.quora.com/What-do-big-websites-like-Facebook-Google-Twitter-and-LinkedIn-use-for-their-database-What-would-be-the-pros-and-cons-of-what-they-use-and-why)
+  - `BigTable`, Hive, Cassandra, PostgreSQL, MySQL, SQL Server.
+  - Hadoop HBase, MongoDB, Redis, DynamoDB.
+  - Data Cache: Redis. Pro: Small footprint, good for caching. Con: how much data you can handle.
+  - Data Search: ES. Pro: Good for data search.
+  - Data Piping: Kafka. Pro: Can handle billions of message. Cons: Java, relatively complex to code or manage.
+  - NoSQL: Cassandra. Pro: Good for clustered env. Cons: data modeling is more complex.
+  - Polyglot persistence: Use whatever tools are most effective for what you're trying to accomplish. If you have a WordPress public site, this doesn't mean you should use WP for your CRM.
+- [If Facebook is "trapped" by MySQL in a "fate worse than death," what would have been a better option for data persistence for the site back in the day?](https://www.quora.com/If-Facebook-is-trapped-by-MySQL-in-a-fate-worse-than-death-what-would-have-been-a-better-option-for-data-persistence-for-the-site-back-in-the-day/answer/Bill-Karwin)
+  - HBase for Graph Search/Messages.
+  - Cassandra for inbox search.
+  - Haystack for storing photos.
+  - Memcached for an in-memory KV store.
+  - Scribe for logging.
