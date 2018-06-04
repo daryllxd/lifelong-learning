@@ -63,3 +63,18 @@
 - When a table is clustered, it is physically reordered based on the index information. When the table is subsequently updated, the changes are not clustered.
 - If you access single rows randomly, the actual order of the data in the table is unimportant.
 - If you tend to access some data more than others, and there is an index that groups them together, you will benefit from using CLUSTER.
+
+# Order of Columns in Indexes
+[Reference](https://stackoverflow.com/questions/2292662/how-important-is-the-order-of-columns-in-indexes)
+
+- The order of columns is critical, but it depends on how you query it.
+- Exact seek: when values for a ll columns in the index are specified and the query lands exactly on the row. Order = irrelevant.
+- Range scan: when some columns are specified. But if the inner columns are less relevant, placing low selectivity columns makes them nothing but noise for a seek, and so it makes sense to move them out of the intermediate pages and keep them on the leaf pages.
+- The index on Least-Second Most-Most Selective: can be used to aggregate results on low selectivity columns. (Used for OLAP).
+
+# When Not to Use Indexes
+[Reference](https://searchsqlserver.techtarget.com/feature/When-not-to-use-indexes)
+
+- Small number of fields = does not benefit from an index if a large percentage of its records are always retrieved from it.
+- Small static data tables that are small enough to do a table scan instead of an index scan.
+- On a small percentage of the fields in a table.
