@@ -127,6 +127,7 @@
 - Challenge: Set validation, such as storing unique emails. The thing is still inefficient at this type of verification, since you have to replay the entire log every time to validate it.
 - Unique index to force sequential operations? This can work, but you have to handle failing use cases.
 - Monitoring tools?
+
 # Hacker News: Building a CQRS/ES web application in Elixir using Phoenix
 [Reference](https://news.ycombinator.com/item?id=13338848)
 
