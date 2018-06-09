@@ -811,3 +811,19 @@
 - The harsher and more honest and more direct the feedback, the better. Use that feedback. Adjust. Get better information. It's an absolutely amazing feeling to be living your life as if you only had 6 months left to live.
 - ***Stop dealing with stuff that no longer makes sense.*** You'll act with far more purpose, persistence, and boldness.
 - If you want more confidence, start striving toward the life you want. Even if you fail, you'll be proud of yourself. And if you're committed, you'll begin to succeed. You'll eventually get so much momentum that it becomes your new normal to operate at optimal levels.
+
+# UX Your Life: Applying the User-Centered Process To Your Life
+[Reference](https://www.smashingmagazine.com/2018/06/ux-your-life-user-centered-process/)
+
+- The Internet's advice on life: full of vague phrases/platitudes, implying attainable/achieved perfection, and calls for sudden/uninformed optimism.
+- Your Life in Weeks
+  - Really really cool!
+  - This thing gives you perspective.
+- Eisenhower Charts: Important and urgent! Know what your actual priorities are.
+- Affinity Mapping: Write down important goals, values and activities you want to prioritize, organize the data, timebox the exercise.
+- Designing a solution:
+  - Wife and I want to work together, if possible, work from home, start our work day early, not check email on weekends, and make time for our priorities and passion projects.
+- Prototyping Life, things that emerged:
+  - Everyone has their preferred accountability method.
+  - Google Friday-style passion project time.
+
