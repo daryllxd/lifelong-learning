@@ -156,3 +156,83 @@
 - ***Two-Front War.***
 - ***Counter-insurgency.***
 - ***Mutually Assured Destruction.***
+
+# The Nerds Were Right. Math Makes Life Beautiful.
+[Reference](https://www.fs.blog/2018/05/math-life-beautiful/)
+
+- What's scary is approaching someone for a data or a job. Rejection sucks. Most men go with the "risk the feeling of rejection" and women go for the "throw a lot of eye contact".
+- Gale-Shapley matching: If you put yourself out there and start at the top of the list, then work your way down, you'll always end up with the best possible person who'll have you. If you sit around and wait for people to talk to you, you'll end up with the least bad person who approaches you.
+- ***The chances of ending up with what you want dramatically increase if you make the first move. Aim high, and aim frequently.***
+- Being curious about the world helps us find solutions to problems by bringing new knowledge to bear on old challenges.
+
+# The Terror of Totalitarianism Explained
+[Reference](https://www.fs.blog/2018/03/hannah-arendt-totalitarianism/)
+
+- In many modern democracies, we can see evidence of indifference and pervasive feelings of helplessness. There is low voter turnout and an assumption that things will be the way they are no matter what an individual does.
+- There is pent-up energy in apathy. The desire to be more than indifferent: what totalitarian movements manipulate, until the individual is totally subsumed.
+- *It is simple to isolate people who already feel isolated. When you feel disconnected from the system, whether you believe that neither your vote nor your opinion matters, it's not a huge leap to feel that your very self has no importance.*
+- Totalitarianism demands total, unrestricted, unconditional, and unalterable loyalty of the individual member. *Such loyalty can be expected only from the completely isolated human being, who without any social ties to family, friends, comrades, derives his sense of having a place in the world only from his belonging to a movement.*
+
+## Politics and Propaganda
+
+- Totalitarianism does not have an end goal in the usual political sense. *Its only real goal is to perpetuate its own existence.*
+  - Fear is a requirement. Fear is what keeps the movement going.
+  - Lies and falsehoods can eventually be established as unquestioned facts, that man may be free to change his own past at will, and that the difference between truth and falsehood may cease to be objective.
+  - The problem today: opinions are being given the same weight as facts.
+- The goal is not the welfare of the sate, nor economic prosperity or social advancement.
+  - Independent thinkers are threats, so they are among the first to be purged.
+  - Totalitarianism in power is about keeping itself in power. By preemptively removing large groups of power, the system neutralizes all those who might question it.
+- *Because they pay no attention to actually governing, they are not likely to be sustainable in the long run.*
+
+# Second-Order Thinking
+[Reference](https://www.fs.blog/2016/04/second-level-thinking/)
+
+- First-order thinkers look for things that are simple, easy, and defensible. They fail to realize that they are dealing with complex systems and they might mistake cause-and-effect relationships. They are incapable of thinking in terms of second and subsequent steps. And they are unaware of the need to think in terms of second steps.
+- First-level thinkers think in the same way other first-level thinkers do, and they usually reach the same conclusions. ***But extraordinary performance comes from being different.*** Of course, below-average performance comes from being, different, too.
+- The road to out-thinking people doesn't come from first-order thinking, but from second-order thinking.
+- The ability to risk looking like an idiot in the short term is necessary for being different. If you look like everyone else, you never look like a fool, but you will also never outperform everyone else.
+
+# Warren Buffett: The Three Things I Look For in a Person
+[Reference](https://www.fs.blog/2013/05/warren-buffett-the-three-things-i-look-for-in-a-person/)
+
+- Useful qualities to have: generosity, kindness, integrity.
+- These qualities are choices people make.
+- Intelligence, energy, and integrity.
+
+# The Buffett Formula: Going to Bed Smarter Than you Woke Up
+[Reference](https://www.fs.blog/2013/05/the-buffett-formula-how-to-get-smarter/)
+
+- They are smart, and they keep getting smarter.
+- "I just sit in my office and read all day."
+- They didn't work in the same office, because they would have wanted to talk all the time, leaving no time for reading.
+- There are opportunity costs for everything you do. You can check wherever, read news, etc. Or you can dedicate some time to improve yourself.
+
+# Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life
+[Reference](https://www.fs.blog/2014/05/hunter-s-thompson-to-hume-logan/)
+
+- To give advice to a man implies something very close to egomania. To presume that you can point a man to the right and ultimate goal is something only a fool would take upon himself.
+- Perspectives change. Every man is the sum total of his reactions to experience. As your experiences differ and multiply, you become a different man, and hence your perspective changes.
+- We do not strive to be firemen, we do not strive to be bankers, nor policemen, nor doctors, we strive to be ourselves.
+- Make the goal conform to the individual, rather than make the individual conform to the goal.
+- Choose a path which lets your abilities function at maximum ability towards the gratification of your desires.
+- If you can't find purpose in the eight paths before you, find the ninth path.
+
+# The Difference Between Amateurs and Professionals
+[Reference](https://www.fs.blog/2017/08/amateurs-professionals/)
+
+- Professionals understand that the initial achievement is just the beginning.
+- Professionals have a process, not a goal.
+- Professionals understand their circles of competence.
+- Professionals know they have weak spots and seek out thoughtful criticism.
+- Professionals value consistency, not isolated performances.
+- Professionals know what improves the odds of achieving good outcomes.
+- Professionals know that what happens in practice happens in games.
+- Professionals focus on getting the best outcome.
+- Professionals understand when good outcomes are the result of luck.
+- Professionals focus on making everyone better.
+- Professionals make decisions as individuals and accept responsibility.
+- Professionals realize that the first idea is rarely the best idea.
+- Professionals think in probabilities.
+- Professionals know their probability of having the best idea is low.
+- Professionals know reality is what's true.
+- Professionals see disagreements as opportunities to learn.
