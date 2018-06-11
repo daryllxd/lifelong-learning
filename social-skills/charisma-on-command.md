@@ -1,4 +1,4 @@
-## Charisma On Command - The Charismatic Equation to Get People to Like you
+# Charisma On Command - The Charismatic Equation to Get People to Like you
 [Reference](https://www.youtube.com/watch?v=Jt1YhYty4L0)
 
 - Charisma is an outward expression of inward thoughts.
@@ -53,7 +53,7 @@ Tyrion
 - There is almost always a way to get more for both of you.
 - Understand people's motivations and show them how you can help.
 
-## Why Daenerys Loves Jon Snow
+# Why Daenerys Loves Jon Snow
 [Reference](https://www.youtube.com/watch?v=NzdMrTRplLg)
 
 - Daario Naharis: Penchant for taking risks and coming out on top.
@@ -71,7 +71,7 @@ Tyrion
 - When Daenerys sees what Jon is willing to give for everyone else (his scars from the stabbing), she falls in love with him.
 - The reason why they care for each other is that they have high standards and they know that the other lives for more than themselves.
 
-## 3 Easy Ways to Start A Conversation With Anyone
+# 3 Easy Ways to Start A Conversation With Anyone
 [Reference](https://www.youtube.com/watch?v=Cbyc7mscFlA)
 
 - Human Twitter: Voice internal questions. The power of this is that we can ask people around us for things.
@@ -83,7 +83,7 @@ Tyrion
   - When you get to the feeling part, that's when you get into a conversation.
 - When you're expected to be social, do the "hey, I don't think I've met you yet, my name is so-and-so." It shows that you know you're supposed to meet people, and it shows that you know some social skills.
 
-## How To Never Run Out Of Things To Say In Conversation
+# How To Never Run Out Of Things To Say In Conversation
 [Reference](https://www.youtube.com/watch?v=QXiAPiw7vfc)
 - You know, that reminds me of something...
 - Open-ended conversations/why?
@@ -91,7 +91,7 @@ Tyrion
 - A question that is sort of a compliment. "You look like someone who is strong."
 - Flip the script/be silent for a while, allow them to think of something while being silent yourself.
 
-## 9 Mistakes That Kill Your Charisma
+# 9 Mistakes That Kill Your Charisma
 [Reference](https://www.youtube.com/watch?v=R20DrhsdJaQ)
 
 - No proactively introducing themself: No Hi, I'm Daryll. Make eye contact and introduce yourself to everyone.
@@ -104,7 +104,7 @@ Tyrion
 - Not remembering names.
 - Lacking principles. It's the people that have convictions that generate the most respect and are the most charismatic.
 
-## How To Make People Like You - Bruce Lee Charisma Breakdown
+# How To Make People Like You - Bruce Lee Charisma Breakdown
 [Reference](https://www.youtube.com/watch?v=k7DlYzODWmo)
 
 - Genuine smile. You need to radiate positivity. The muscular tension around the eyes.
@@ -113,7 +113,7 @@ Tyrion
 - Correcting someone with a smile on your face. You can have a positive and a negative show of communication.
 - The more you get all components to sync with each other, then it is easier for them to show rapport. You want to have rapport between everything in yourself too.
 
-## How To NEVER Be Boring
+# How To NEVER Be Boring
 [Reference](https://www.youtube.com/watch?v=_JxZY3d7kw0)
 
 - Improve your energy which will always help personal development and relationships
@@ -122,10 +122,21 @@ Tyrion
 - Spend part of your every day pursuing a dream on the philosophy side
 - Unusual, high status, involves her.
 
-## Body Language Tips To Instantly Look More Attractive
+# Body Language Tips To Instantly Look More Attractive
 [Reference](https://www.youtube.com/watch?v=5rXnrq3L2N0)
 
 - Be expressive. Motion creates emotion. When you walk around stooped, you will feel more shy.
 - Have magnetic language. The fun is where you are. We tend to know what the fun is and it's about facing the person you're speaking with. Have fun with whoever is near to you. Don't look and act and behave as if the fun is out there. Have fun where you are nearby.
 - When groups go out: try to stagger them. It looks funny because it's true, but that will change the dynamic of the group. You will look more attractive because it looks like you're setting it up.
 - Smiling!
+
+# Tai Lopez
+[Reference](https://www.youtube.com/watch?v=ub_cGEzAUTo)
+
+- Something is working here.
+- Production quality: iPhone and shoot from the hand. This creates a level of authenticity and trust. High production = authoritative.
+- Authority: Hollywood Hills, Ted X, Lamborghini, books. Then, ground in relatable past. "I had 47 bucks once."
+- The mechanism: do not introduce the mechanism until after you've established the authority. Mentioning objections, "Don't worry about this if you're a cynic." "Warning, only buy this persuasion course if you are a good person" lol.
+- Call to action multiple times: It's free, it's quick. It becomes a "you have more to lose by not clicking than clicking".
+- Don't ask for big commitments, just do small asks first (lunch, coffee).
+- You're involved in marketing, no matter what you do.
