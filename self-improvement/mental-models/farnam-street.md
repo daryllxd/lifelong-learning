@@ -1,3 +1,16 @@
+# The Best Way to Find More Time to Read
+[Reference](https://www.fs.blog/2013/09/finding-time-to-read/)
+
+- Reading isn't something to be done once a week to check a box; it's something to do every day.
+- If you're a knowledge worker, you're paid to use your brain, so it's in your best interest to make that brain as big as possible.
+- Wherever I go, a book is not far behind. It might be on my phone or physical, but there is always a book close by.
+- Ignorance is more expensive than a book.
+- *To me, reading is more than a raw input. I read to increase knowledge. I read to find meaning. I read for better understanding of others and myself. I read to discover. I read to make my life better. I read to make fewer mistakes.*
+- Even Nassim Taleb, author of Antifragile, points out that several ancient philosophers grasped the concept of antifragility. Odds are that no matter what you're working on, someone somewhere, who is smarter than you, has probably thought about your problem and put it into a book.
+- In The Prince, Machiavelli writes, “A wise man ought always to follow the paths beaten by great men, and to imitate those who have been supreme, so that if his ability does not equal theirs, at least it will savor of it.” That's not to say that this is the only way, but why not start with the best thinking that has come before you? Seneca, on the same subject, wrote, “Men who have made these discoveries before us are not our masters, but our guides.”
+- How do you value your time? We can make more money; we can't make more time.
+- Charlie Munger, voracious reader, billionaire, and vice chairman of Berkshire Hathaway, once commented: “In my whole life, I have known no wise people (over a broad subject matter area) who didn’t read all the time – none, zero.”
+
 # Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained)
 [Reference](https://www.fs.blog/mental-models/)
 
