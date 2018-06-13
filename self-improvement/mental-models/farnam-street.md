@@ -236,3 +236,23 @@
 - Professionals know their probability of having the best idea is low.
 - Professionals know reality is what's true.
 - Professionals see disagreements as opportunities to learn.
+
+# The Art of Having an Informed Opinion
+[Reference](https://www.fs.blog/2017/10/opinions-on-everything/)
+
+- The world will do most of the work for you, provided you cooperate with it by identifying how it really works and aligning those realities.
+- People who have opinions about everything barf so much noise that it's hard to find the signal.
+- ***The world never tells you that you're wrong; it only gives you outcomes.***
+  - When an outcome is not what you want to be, things get tough. You can ignore the result and continue to think that you're right. This protects your ego.
+  - People who can't change their minds never more forward.
+  - If you insist on having an opinion, carry a mental scorecard. Use a decision journal.
+
+# The Single Best Interview Question You Can Ask
+[Reference](https://www.fs.blog/2015/11/the-single-best-interview-question-you-can-ask/)
+
+- "What important truth do very few people agree with you on?"
+- Most people believe in x, but the truth is the opposite of x.
+- The future is the set of all moments yet to come.
+- Horizontal progress: copying things that work. Globalization.
+- Vertical progress: harder to imagine because it requires doing something nobody else has ever done. Technology.
+- Thiel's answer: "My own answer to the contrarian question is that most people think the future of the world will be defined by globalization, but the truth is that technology matters more. Without technological change, if China doubles its energy production over the next two decades, it will also double its air pollution. If every one of India’s hundreds of millions of households were to live the way Americans already do— using only today’s tools— the result would be environmentally catastrophic. Spreading old ways to create wealth around the world will result in devastation, not riches. In a world of scarce resources, globalization without new technology is unsustainable."
