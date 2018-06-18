@@ -67,3 +67,49 @@ You have to spend a ton of time for the negotiation, because it's a test! The ri
 - The more you know, the more options you have when doing negotiation, because you’ll have more things and more motivational things which you can offer in exchange for things you want.
 - You are an expert in your own skill set, life story, and (ideally) value you can create for the company. However, the person you are talking to is not. If they ever resist about something which you want, consider reaching into the treasure chest that they are buying mostly blind and revealing one of the many glittering jewels inside. They are going to get them all anyhow if they buy the chest, but each one you bring out decreases the perceived risk of buying it and therefor increases its perceived value.
 - Multi-dimensional preference set: vacation days. Say "X is interesting". This means it's not wonderful. You can also say "I will run that number with my family".
+
+# On How To Negotiate A Job Offer To Increase Your Starting Salary In Industry
+[Reference](https://cheekyscientist.com/12-tips-on-how-to-negotiate-a-job-offer-to-increase-your-starting-salary/)
+
+- The starting salary determines your career trajectory.
+- Create leverage: Creating more options for yourself (multiple job opportunities/pre-selection/social proof).
+- Anchor as high as possible before receiving the first offer. People who request an absurd salary average 9% higher than those who requested a reasonable amount.
+- Make them give the first offer.
+- Stay neutral/act unimpressed ("I appreciate the offer").
+- "I have to discuss this" at home.
+- "Is there anything else you can do?"
+- Try to get on a conference call with as many people as possible.
+- Splitting the difference between negotiating.
+- Be polite.
+- Bring the conversation back to the value that you'll add to the company.
+- Secure salary first before the benefits.
+- Leave the other side feeling like they won.
+  - The other side should be investing in you as much as possible.
+  - Get them to send you as many emails, phone, company involved, as possible. Get them invested. Remember, you'll be working with the people you're negotiating with.
+  - Do not try to squeeze every last penny, make them feel like they won. Salaries are marathons, not sprints.
+
+# How to Effectively Negotiate Your Salary
+[Reference](https://medium.com/@recruitHER/how-to-effectively-negotiate-your-salary-part-one-48409bdb9e62)
+[Reference](https://medium.com/@recruitHER/how-to-effectively-negotiate-your-salary-part-two-a937b8cc34bb)
+
+- Know these three things:
+  - *What is a particular job worth?* Market research on salary ranges.
+  - *What are you worth doing that job?* Unique skills, experience, abilities (percentile within the market rate).
+    - How can you argue that you're worth more?
+    - Running a meetup group, teaching newbies how to code.
+    - Certifications.
+    - Increased revenues.
+    - 75th percentile when negotiating the salary.
+  - *What is the absolute minimum compensation you need to accept the job?* Minimum acceptable salary. Salary guides.
+- Start negotiating the salary once you've been offered the job.
+- Before receiving a job offer, establish what the anticipated salary ranges would be for a position.
+- No disclosure of current pay, it's irrelevant. If you're underpaid, this is only going to hurt you. Requirements: research market rates, you expect a position to be within X and & dollar amounts.
+- Base salary should be the start of the negotiation. Ask for a couple of days to think it over before giving them your decision.
+
+# 10 executive coaches share their tips for negotiating pay
+[Reference](https://www.monster.com/career-advice/article/career-coach-tips-negotiate-salary)
+
+- Know thresholds: slam dunk offer, bare minimum of what you need to work for the company. The negotiation should be a win-win.
+- Be honest about the salary needs.
+- Show how you can contribute to the bottom line: emphasizing experience and results you've achieved driving revenue, savings, efficiency, productivity.
+- Make the first offer, but don't make demands. Up for negotiation: work schedule, accrued vacation, external/internal training opportunities, what's needed to earn that salary.
