@@ -50,3 +50,58 @@
   - First-world, competitive private enterprises.
   - Personal security, public order, and protection of private property.
   - Small, transparent government. So first class civil servants with first class wages.
+
+# Moving Checklist
+[Reference](https://www.expatinfodesk.com/expat-guide/organizing-your-departure/calendar-before-you-go/)
+
+- Quarantine requirements.
+- Hard copies/paperwork of important documents, documentation requirements.
+- Tax stuff.
+- Packing stuff.
+- Medical records.
+- Medications.
+- Internet banking.
+- Cancelling subscriptions.
+
+- Setting up new home
+  - Utilities.
+  - Neighbors.
+  - Recreational activities.
+- Documents
+  - Passports
+  - Birth certificates
+  - CV
+  - Credit records
+  - Files
+- Furniture?
+- Electronic equipment/plugs.
+- Papers
+- New city
+  - Sublet, guest of a friend
+  - Anticipated income and realistic monthly expenses
+  - Charges/loans that will come
+  - Living expenses saved
+- Neighborhood:
+  - Price range, near job, crime rate, roommate, childcare
+- First night box: toiletries, pajamas, batteries, plates/cups.
+- Medical checkups:
+  - Vision
+  - Dental
+  - Physical
+  - Dermatology
+- Check apartment:
+  - Water pressure/temperature
+  - Mold
+  - Emergency maintenance
+  - Bugs/droppings
+  - Noise level
+  - Pizza delivery
+  - Phone and wifi signals
+  - Dumpsters
+  - Internet providers
+  - Outlets
+  - Neighbors
+  - Actual apartments
+  - Crime stats
+  - Insulation
+
