@@ -1,0 +1,64 @@
+# Killing Buddha
+[Reference](http://www.killingbuddha.co/blog/2016/2/7/naval-ravikant-ceo-of-angellist)
+
+- Single parent household, read a lot.
+- "Everyone that ends up becoming an extreme winner in society starts off as a loser."
+- You need at least one person that loves you unconditionally.
+- To create anything great takes some suffering. And a bad hand early in life can turn out to be a good hand later on.
+- Hardships help you grow as a human being. Sometimes, what you think is helping somebody is actually preventing them from learning their own life lesson.
+- Without suffering, there isn't much progress, because there isn't an impetus for change.
+- The more negative experiences you have in life, the more opportunity you have to develop the skill of acceptance.
+- Our egos get constructed in our formative years, our first two decades.
+- Suffering in the long term: it can make you accept the world the way it is, or it can make your ego change in an extremely hard way.
+- Actual real suffering: rare, only when you get sick or when you're starving.
+  - Most suffering is mentally created. It's our thoughts and emotions. *One overly technical definition of emotions is that you can think of them as the net present value of the future impact of the present moment as calculated by your genes.*
+  - When we suffer, we suffer twice. Once through our emotions, once through our thoughts.
+  - So when someone passes away, you suffer mentally because you think of the great times, and you suffer emotionally because of your genes.
+  - Things like getting older and wiser help you to distinguish between real suffering and mind and emotion made suffering.
+- Meditation: can help you to know when you accept suffering as a thought or an emotion.
+- Accept things as reality so you can adapt to it.
+- *'Last time you broke up with somebody, last time you had a business failure, last time you had a health issue, what happened?' I can trace out the growth and improvement that came from that years later.*
+- What is the positive of this situation? Or, "well the universe is just going to teach me something new."
+
+- "All this work, for this?"
+- Beyond a certain point, I've given money away to friends, family, and charities.
+- You can be unhappy from a lack of money. If you're peaceful inside and out, that will eventually result in happiness.
+- "Desire: A contract you make with yourself to be unhappy until you get what you want."
+- By the time you start interpreting and savouring that experience, you've already lost it. Happiness: change it, accept it, or leave it.
+- Accepting things you can't change?
+  - Death. When you acknowledge your death, it'll bring great meaning to your life. We spend so much of our time trying to avoid death.
+  - Tip: There's no legacy. Everyone is going to die. We'll die someday. Our civilizations will be gone.
+  - When you're not having a great time, you're not doing anybody any favors. You're just wasting your short and precious time on earth. So keeping death on the forefront and not denying it is very important.
+- People go through life transformations. Some people become spiritual and meditative. Some drop everything and travel. Some go do psychedelics. Some fall in love and have a child.
+- Suffering precedes a strong desire to change.
+- Can I interpret every event in a positive manner, instead of a negative way?
+- Hacks: walking in nature. Looking at someone you love. Looking at the sky and smiling. Building good habits. Not drinking alcohol and eating sugar. Not going on Facebook.
+- *Peace and happiness are skills. Some of my friends are happier than others. A lot of it is conditioning from your environment, but you can un-condition and recondition yourself.*
+- The single most important thing: be present.
+- Our genes want us to live a certain way. Ignoring this is a delusion that's going to hurt you.
+  - Correct way of eating: vegetables + meat + berries.
+  - Exercise: probably playing, instead of a treadmill.
+  - We're not meant to walk in shoes.
+  - We're meant to have some cold exposure.
+  - Smaller tribes. We want tribes/friends.
+  - Phones are bad. We should not be having things like Like then Angry Comment, these makes us into anxious creatures.
+  - The genes always want yes to sugar, yes to alcohol, yes to bad relationships, yes to drugs.
+- You want to be a student of life. You want to absorb a little bit of everything. Majors are a false specialization the world wants us to have to make us productive members of society. It doesn't make us human.
+- To truly be self-actualized, you have to do it alone. Only the individual transcends.
+- What questions have you been told that don't have answers?
+  - Who am I?
+  - What is truth?
+  - What is the purpose of live?
+  - Why do we die?
+  - If I had only one life, how should I live it?
+  - Is love real?
+  - What is love?
+- The best way to answer these questions are in solitude. Most questions take years to answer. If you write your answers down, you're more likely to be intellectually honest with yourself.
+- Much of your suffering comes from avoidance. Most of the suffering from a cold shower is the tip-toeing your way in. Once you're in, you're in. It's not suffering. It's just cold.
+- Principles for kids:
+  - Reading
+  - Persuasion
+  - Mathematics
+- Kids need: love of learning, skill of learning.
+- Benjamin Franklin had a famous quote, "An educated man should know something about everything, and everything about something."
+- Meditation: exists in the middle of autonomous and voluntary nervous systems.

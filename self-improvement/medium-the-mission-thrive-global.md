@@ -827,3 +827,10 @@
   - Everyone has their preferred accountability method.
   - Google Friday-style passion project time.
 
+# From Experiment to Product: Capital-as-a-Service One Year Later
+[Reference](https://medium.com/social-capital/from-experiment-to-product-capital-as-a-service-one-year-later-6d8b4b9c038b)
+
+- As more and more founders from around the world begin building their businesses on top of a small number of consistent public clouds, the operational data from these businesses would become comprehensive and accessible.
+- This would be real-time data on how successful that business was at turning prospects into engaged customers.
+- Human judgment + data science. Software + human venture capitalist. Validate anecdotes through machine learning. Replace human bias with software precision.
+- Capital as a Service: The plan is to launch a new OS for early stage investing, built on data-based decisions and architected for global reach and scale.
