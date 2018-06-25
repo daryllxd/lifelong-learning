@@ -55,3 +55,18 @@
 - Analogies can't replace understanding. While it's easier on your brain to reason by analogy, you're more likely to come up with better answers when you reason by first principles.
 - ***The evidence is that creativity is not something that some of us are born with.*** As adults, we rely on convention and what we're told because that's easier than breaking things down into first principles and thinking for ourselves.
 - Musk: "I think most people can learn a lot more than they think they can."
+
+# First Principles: Elon Musk on the Power of Thinking for Yourself
+[Reference](https://jamesclear.com/first-principles)
+
+- Instead of buying a finished rocket: figure out raw material pricing and build the rockets.
+- First principles: The first basis from which a thing is known. "Think like a scientist." Scientists don't assume anything.
+- Break a situation down into the core pieces and then put them all back together in a more effective way. Deconstruct, then reconstruct.
+- Once you have a foundation of facts, you can make a plan to improve each little piece.
+- Obstacle: prioritizing form rather than function. Ex: bag + wheels.
+- Flying cars: We have them. They're called airplanes. It doesn't look like a car, but it's functionally the same (transportation by flight).
+- Optimize the function, ignore the form, and this is how you think for yourself.
+
+# The Cook and the Chef: Musk’s Secret Sauce
+[Reference](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
+

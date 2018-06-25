@@ -78,3 +78,22 @@ Content consumptions is finitely variable, but content creation is infinitely va
 - Pinterest: open, no expectation that anything shared is private. It's built on individuals acting in their own self-interest to capture and collect things that interest them.
 - Facebook liking: what does this mean? Do you like the brand, an outlet, a product, or whatever?
 - Pinterest: It just makes sure that the magic catalog is open and that the user buys the thing.
+
+# Here’s How Amazon’s Alexa Hooks You
+[Reference](https://blog.startuppulse.net/heres-how-amazon-s-alexa-hooks-you-3ed385692e1)
+
+- Alexa's trigger: Uncertainty. When we aren't sure of something, we can ask Alexa about it. Fear of forgetting = internal trigger prompting us to tell Alexa to add an item to our list.
+- Action: Instead of look for iPhone and input in the todo list, we can just use Alexa.
+- Alexa actually messing up can actually become a reward because it's fun.
+- Investment: when you enter data in, you become more invested in this.
+- Interactions, investments → Alexa begins to customize itself to each individual's preferences.
+
+# Distinction Bias: Why You Make Terrible Life Choices
+[Reference](https://medium.com/behavior-design/distinction-bias-why-you-make-terrible-life-choices-4363e543c896)
+
+- Victim bias: a tendency to over-value the effect of small quantitative differences when comparing options.
+- When making a choice, we are in comparison mode: sensitive to small differences between options. But when we live our our decisions, we are in experience mode, there are not other options to compare our experience to.
+- Outsmarting the Brain
+  - Don't compare options side by side. Evaluate each choice individually and on their own merit.
+  - Know your "must-haves" before you look.
+  - Optimize for things you can't get used to. *Infrequent or uncertain positive events, like quality time with friends or an exciting road trip, occur too sporadically to get used to. Inserting more of these hard-to-adapt-to experiences in your life will create longer lasting happiness.*
