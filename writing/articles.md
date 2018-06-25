@@ -31,3 +31,34 @@
   - "Breakfast was good." "I bought some shoes." "My wallet cried out as I spent another $100 on some sneakers."
 - `Xatres17`:
   - Sentence structure drill: 1 paragraph starting with a noun, one starting with a verb, one starting with a preposition, one compound sentence, one short sentence, one long sentence.
+
+# A style guide for writing on Medium
+[Reference](https://medium.freecodecamp.org/a-style-guide-for-writing-on-medium-fcbad27492ea)
+
+- Headlines: Don't use clickbait, listicles, but do tell the truth. Don't do "Part 1". If the headline is too long, Medium will truncate it.
+- Images: stick to column width.
+- High-resolution image at the top of a story under your headline.
+  - When people share your story on Facebook and Twitter, it will be more prominent in news feeds.
+- Attribution:
+  - "Image credit", and link the text to its original source. You can tell Google to only show images which have been labeled for reuse.
+  - Always attribute quotes to the people who said them. If multi-line quote, use Medium's pull quotes.
+- Code: Use Github Gist.
+- Bold to emphasize. Italics are harder to read.
+- "For example" vs "e.g.", "that is" vs "i.e.", "note that" instead of "N.B", "like" instead of "etc.".
+- Use a period instead of semicolons.
+- Style: Hemingway app. Err on the side of breaking long sentences. Use contractions. Keep your tense consistent. Refer to the reader as "you". Front-end development means you're working on the front end.
+- Notes like: "published at my blog", put on the bottom.
+
+# How to write Medium stories people will actually read
+[Reference](https://medium.freecodecamp.org/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8)
+
+- Headline + image that will make people answer "yes" to the "is this going to be worth my time" question.
+- BuzzFeed: Built on compelling headlines.
+- The more emotional a headline is, the more likely people will click it.
+- To build momentum: start making points and telling your story immediately.
+- Establish credibility immediately. Reinforce your credibility. Support your arguments with data.
+- Write what you know about. Don't publish anything you're not proud of.
+- Medium readers prefer 7 minutes of story. If you can't come up with at least 5 minutes worth of thoughts, rethink the premise.
+- Write at a sixth-grade level.
+- 5 tags. #tech, #life-lessons, #travel, #design, #startup.
+- Share your story on Facebook, Twitter, and LinkedIn. You can view your story's stats in real time.
