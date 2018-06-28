@@ -269,3 +269,28 @@
 - Horizontal progress: copying things that work. Globalization.
 - Vertical progress: harder to imagine because it requires doing something nobody else has ever done. Technology.
 - Thiel's answer: "My own answer to the contrarian question is that most people think the future of the world will be defined by globalization, but the truth is that technology matters more. Without technological change, if China doubles its energy production over the next two decades, it will also double its air pollution. If every one of India’s hundreds of millions of households were to live the way Americans already do— using only today’s tools— the result would be environmentally catastrophic. Spreading old ways to create wealth around the world will result in devastation, not riches. In a world of scarce resources, globalization without new technology is unsustainable."
+
+# Smarter, Not Harder: How to Succeed at Work
+[Reference](https://fs.blog/2018/06/succeed-at-work/)
+
+- 96 energy blocks per day (15 minutes per block).
+- Using this energy blocking system will ensure that you're spending each block wisely to make the most progress on your most important goals.
+- The problem with "talent": it gives us a pass. Talent matters, but not as much as you think.
+- Successful people are masters of eliminating the unnecessary from their lives. Successful people focus their time on just a few priorities and obsess over doing those things right.
+- 32 blocks per day (8 hours) to apply your energy towards keeping your job and doing something amazing.
+- Nearly every successful person makes sleep a priority. Chili pad to regulate their bed's temperature, going to bed at the same time every night, with a wind-down routine per night.
+- There are a lot of goals you can have in life. Eliminate all the crappy goals.
+
+# Double Loop Learning: Download New Skills and Information into Your Brain
+[Reference](https://fs.blog/2018/06/double-loop-learning/)
+
+- Learning based on Bayesian updating (the modification of goals, rules, or ideas in response to new evidence and experience).
+- First time: we engage in single loop learning.
+- Double loop learning: we assess our biasses, question our mental models, look for areas where we can improve. We collect data, seek feedback, and gauge our performance.
+- Action science: how we act in difficult situations. You have to learn stuff. The world is dynamic and always changing. If you're standing still, then you won't adapt.
+- **Smart people aren't used to failing, so they struggle to learn from their mistakes and often respond by blaming someone else.**
+- As a manager, you have to let your employees make mistakes and make their own decisions so they can learn. Offer guidance instead of intervention.
+- *Complaining might be cathartic, but it doesn't let us learn.* Single loop learning: a way to minimize effort.
+- Double loop learning: pushing to the point of failure. Look at yourself inward and figure out the problems that you yourself cause. "If there is anything unique about the human animal, it is that it has the ability to grow knowledge at an accelerating rate while being chronically incapable of learning from experience."
+- *"If you learn to deal with failure, you can have a worthwhile career. You learn to breathe again when you embrace failure as a part of life, not as the determining moment of life."*
+- Are conventional work weeks the most effective way to structure work time?
