@@ -188,7 +188,6 @@
 - Why would a foraging society build these? Probably some cultural purpose.
 - Near to domesticated wheat.
 
-
 ## Victims of the Revolution
 
 - Shepherds: in a way, domestication made it that we select for the fattest/least aggressive/least curious/submissive sheep.

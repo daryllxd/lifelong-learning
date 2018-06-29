@@ -104,4 +104,3 @@
   - Actual apartments
   - Crime stats
   - Insulation
-

@@ -53,3 +53,28 @@
   - If I get stuck, I walk, drink coffee, not check email.
 - Maker's schedule vs manager's schedule.
   - When work is at a naturally low time: usually right after lunch. Involve only people who will have a role in the meeting.
+
+# 25 Product Management Tips For Your First 100 days
+[Reference](http://stefanbruun.com/product-management-tips-first-100-days/)
+
+- You're the CEO.
+- Know how to say no.
+- Be structured. Know how to keep track of all outstanding tasks and take advantage of tools.
+- Communication. Be proactive rather than reactive. Be in constant communication with your team.
+- Be comfortable with numbers. Data is very important.
+- Know psychology and user behaviors.
+- This is hectic and chaotic.
+- Sleep.
+- You will make mistakes.
+- Maker's vs Manager's schedule.
+- Build for scale.
+- Have a clear vision and align expectations.
+- Know when to ask for help.
+- Design for your grandparents.
+- Know the platform: don't be afraid to ask any of the business's dumb questions.
+- Interview key stakeholders.
+- Spend time with the users.
+- Don't wait for objectives, set them.
+- Understand the business.
+- Use your and your competitor's product.
+- Do whatever it takes!
