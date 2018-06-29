@@ -1,0 +1,45 @@
+# Shipping and Fulfillment 101
+[Reference](https://www.shopify.com.ph/guides/shipping-and-fulfillment-101)
+
+- Factors that affect the shipping/fulfillment strategy:
+  - Your brand, where your products are shipping from and to, your average order value, your product's margins, your product's weight, the preferences for tracking and insurance, carrier preferences, customer shipping preferences, product costs, restrictions and regulations, customs and duties.
+- Strategies:
+  - Ship it yourself: shipping from home, writing labels, walking to the post office.
+  - Ship it yourself, but more advanced: label printing, package pickup from your courier.
+  - Fulfillment warehouse.
+  - Dropship: are shipped directly from a partner or on behalf of your brand.
+- Charging customers:
+  - Shipping is an unnecessary charge re: online business.
+  - To mitigate: Offer free shipping, charge exact costs based on the real-time shipping carrier rates, or do flat-rate shipping ($10 flat rate to all of USA).
+  - For luxury/handmade items, an extra percentage for shipping/handling probably isn't too much of an issue and it will be hard for consumers to notice.
+  - In a competitive market, your customers will notice the shipping thing.
+  - Exact cost, you offload the decision on how to ship to the customer.
+  - Flat rates: it really depends on the carrier.
+- Packaging:
+  - Utility or branded, experience focused packaging.
+  - Figure out where you can buy packaging materials.
+  - Consumers are likely to repeat purchases from an online merchant that delivers premium packaging.
+  - 4 in 10 would share an image of a delivery via social media if it came in a unique package.
+  - People who were viewing an unboxing video were (62%) actually doing product research with intent to purchase.
+  - Custom unboxing:
+    - Box
+    - Tissue paper
+    - Protective cushioning
+    - Stickers
+    - Receipt
+    - Tape
+  - Packaging inserts: Stuff for cross-selling, they can be targeted, they can make the customer feel special.
+  - "Free shipping on your next order", "$10 credit towards your next order".
+  - Product samples: cross-sell/introduce them to other products.
+  - Small gifts: Candy. Little candies delivered by servers at the end of a restaurant meal help increase tips.
+- Thank-You Cards and Personal Notes
+  - If it's financially feasible, try to use quality stationery.
+  - Use the customer's name.
+  - Express gratitude.
+  - Mention details about what you enjoyed about your experience with this customer.
+  - Allude to your future interactions with the customer.
+  - Professional but warm sign-off and a signature.
+- `Uline.com`: Where you can buy cool packaging stuff.
+  - Gift boxes.
+  - Sticker?
+  - 4 foot drop test: make sure that the package doesn't get destroyed.
