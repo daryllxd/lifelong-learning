@@ -45,3 +45,26 @@
 - ***Hide in an iPod.***
 - ***Only agree to new commitments when both your head and your heart say yes.***
 - ***Do something you love.***
+
+# Procrastination video
+[Reference](https://www.reddit.com/r/Documentaries/comments/5cdj0e/1_hour_lecture_by_the_worlds_leading_professor_on/)
+
+- Procrastination exists in the gap between intention and action.
+- Procrastination is all about feeling good now.
+- Procrastination feels good NOW, but has huge costs. It impacts performance, well-being, health, relationships, and causes ultimate regret.
+
+## Components of the self-regulation failure
+
+- *Personality:* People who are dutiful, self-disciplined, and conscientious have less problems with procrastination.
+  - People with high impulsivity have more. Socially prescribed perfectionism (external expectations) are associated with procrastination.
+  - Emotional intelligence. Improving emotional intelligence makes you less likely to procrastinate. When you improve your ability to perceive, use, manage, and understand your emotions, you gain it's easier to control than be controlled by them.
+  - People who don't have a developed sense of identity procrastinate more.
+- *Nature of goals and intention.*
+  - A lack of meaning or reason to care makes a task aversive. During the action phase, a lack of structure, autonomy, and control. At all phases: boredom, frustration, resentment.
+  - Temporal construal theory: the way we construe things affects our temporal perception of it. When you think about things concretely, they belong to today. Concrete things are urgent.
+- *Cognitions and beliefs:* We work better under pressure? Not true. You have to think in an "I could have done better" mentality.
+- *Self-control and will power.* This is a finite resource so be strategic. Mindful meditation, value affirmation (why the fuck am I doing this).
+
+- The best strategy to stop procrastinating? Move from goal intentions to implementation intentions. "In situation X, I will do behavior Y to achieve sub-goal Z."
+- The reason you procrastinate is to avoid having an emotion you do not want to experience (boredom, fear, stress...) but in doing so you create further negative emotions and end up in a stressful trap. Non-judgemental awareness of one's emotions allows one to push ahead with the action (doing your work), despite "not feeling like it".
+- You can be aware that you do not feel like it and that you feel worse when you initially start the task, but decide not to fight that emotion (give into the urge to make yourself 'feel better') and take action while feeling bad (rather than waiting until you 'feel like it').
