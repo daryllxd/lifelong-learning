@@ -7,25 +7,29 @@ I expect a senior engineer to be a mature engineer.
 
 Mature engineers seek out constructive criticism of their designs. "What could I be missing? How will this not work?" They know that nothing they make will ever only be in their hands, and good peer reviews is what makes better decisions.
 
-*The degree to which other people want to work with you is a direct indication on how successful you'll be in your career as an engineer.*
-
-Mature engineers understand the non-technical areas of how they are perceived. Mature engineers know that no matter how complete, elegant, or superior their designs are, it won't matter if no one wants to work with them because they are assholes. Condescension, belittling, narcissism, and ego-boosting behavior send the message to other engineers to stay away. Part of being happy in engineering comes from enjoying the company of the people you work with while designing and building things.
-
-Mature engineers have self-awareness when it comes to their communication -- they have some notion about where they could be better, and they continually ask for a gut-check from peers or managers on how they're doing.
-
-They aim to be assertive, not passive or aggressive in how they get their ideas across.
-
-There will be assholes, and they should be shunned, but the attitude that someone's code is their baby should come to an end.
-
-Mature engineers do not shy away from making estimates, and are always trying to get better at it. *No one should be allowed to avoid estimation issues by saying "I can't give a promise because it depends upon so many uncertain factors."* All businesses rely on estimates.
-
-*Mature engineers lift the skills and expertise of those around them.* They recognize that the world's best engineering feats are executed by teams and not by singularly brilliant and lone engineers. Instead of "let me do it for you", do "let's work on this together."
-
-*Mature engineers make their trade-offs explicit when making judgments and decisions.* We can't be efficient and thorough at the same time. They know that they work within a spectrum of ideal and non-ideal, and it's okay.
-
-Don't say "premature optimization is the root of all evil", understand what "premature" is.
-
-We want to use the right tool for the job, but we don't necessarily need to study all the variations of tools.
+- ***The degree to which other people want to work with you is a direct indication on how successful you'll be in your career as an engineer.***
+- Understand the non-technical areas of how they are perceived.
+- Even if you're really good, it won't matter if no one wants to work with them because they're assholes.
+- Part of being happy in engineering comes from enjoying the company of the people you work with.
+- Be self-aware re: communication. Find out where you can be better and ask for feedback from peers and managers on how they're doing.
+- It's okay to criticize, but criticize the work, not the person. Code is not your baby. Code doesn't have feelings.
+- On estimates: figure it out. All businesses rely on estimates.
+- On anticipation: look at the code and check if this is a thing that will last for a long time, you have an expectation of CPU/memory/disk/network usage, and other people can understand or study the code.
+- You have to be able to do boring things. Do not say that things are beneath you.
+- If you can get better at making sure that other people are better, that's awesome. You want people to understand things. "Let's work on this together."
+- On trad-offs:
+  - Fast written code, or think if you have to change a piece of code at some point.
+  - Don't just do random philosophy quotes, know what a premature optimization is or isn't.
+  - Know what a right tool for the job is or isn't.
+  - You'll know what the trade-offs are when you get better.
+- On covering your ass: don't. Do not be the person that throws people under the bus.
+- No empty complaints, if you have a complaint, have a suggestion for a solution, and even better is if you have a solution of your own.
+- Be aware of your cognitive biases:
+  - Self-serving bias: If something is good, it's probably because of me. If it's bad, it's because of someone else.
+  - Fundamental attribution error: My bad results = I was tired. Their bad results = they suck.
+  - Hindsight bias: "I knew it all along."
+  - Outcome bias: If the event was damaging, then the decisions were bad.
+  - Planning: being optimistic about forecasting the time a project will take.
 
 ## The Ten Commandments of Egoless Programming
 
@@ -53,4 +57,3 @@ We want to use the right tool for the job, but we don't necessarily need to stud
 How people feel about technologies/technical decisions/technical directions is just as important (if not more) than the facts about the details.
 
 *It's amazing what you can accomplish if you do not care who gets credit.*
-
