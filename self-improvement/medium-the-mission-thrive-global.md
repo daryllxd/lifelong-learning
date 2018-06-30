@@ -834,3 +834,28 @@
 - This would be real-time data on how successful that business was at turning prospects into engaged customers.
 - Human judgment + data science. Software + human venture capitalist. Validate anecdotes through machine learning. Replace human bias with software precision.
 - Capital as a Service: The plan is to launch a new OS for early stage investing, built on data-based decisions and architected for global reach and scale.
+
+# 13 Things You Should Give Up If You Want To Be Successful
+[Reference](https://medium.com/@zdravko/13-things-you-should-give-up-if-you-want-to-be-successful-1ecb7d62e558)
+
+- The unhealthy lifestyle.
+- The short-term mindset. It's not "working out to get a summer body", it's "working out because that's who you are."
+- Playing small. Voice your ideas, don't be afraid to fail, and certainly don't be afraid to succeed.
+- Your excuses. Can't do anything about the starting point, weaknesses, and past failures. The only way you can become successful is when you realize that YOU ARE RESPONSIBLE FOR WHAT HAPPENS NEXT IN YOUR LIFE.
+- Fixed mindset. Growth mindset, acquire new knowledge, learn new skills, change their perceptions.
+- "The Magic Bullet." Just improve 1% per day.
+- Perfectionism.
+- Multi-tasking. Being fully present and committed to one task.
+- The need to control everything.
+- Saying YES to things that don't support your goals. To achieve much, you need to sacrifice much.
+- The toxic people. Negative people have a problem for every solution. Be with people who refuse to take responsibility for your life, those who always find excuses and blame others for the situation they are in. Be around people who are always trying to increase your standard of living and are trying to grow personally and professionally.
+- The need to be liked.
+- Wasting time.
+
+## Comments
+
+- ***I believe when people leave school that they make one of two choices: they choose to spend their life learning or being entertained. Few choose the former, I'd say it’s around 10–20%. The vast majority choose a life of being entertained. They do not read or don’t read much. What they do read is light entertainment. They watch a lot of TV. They closely follow their local sports teams and plan their vacations and weekends around being entertained.***
+  - Few focus on reading good books, challenging podcasts and thoughtful "success" articles. In other words, improving themselves. Very few men that I've known in the business world are well read. For some reason, far more women read. Few work on the things outlined in this article. They simply get a job and most are unhappy in their work.
+  - They just don't see themselves as ever being able to live the life of their dreams, of being so successful that they will have financial independence and be able to make significant contributions in helping others.
+- *Life in essence is a great test. How much time am I willing to spend improving myself, prepping for the future? Most probably spend less than 20% prepping and 80% experiencing (being entertained).* Their friends do the same. But IMO the winners reverse those numbers: they spend most of their time prepping, learning, reading, thinking. These few spend time with people who think similarly. They look to be mentored by successful leaders. And, over time, they can achieve success and help others on a scale that others never thought was possible for themselves.
+- I lost a lot of similar aged friends, mainly women, because they made me feel guilty for my success, I had to explain, justify even defend my “lucky and fortunate” life. At first I felt bad for all my “luck” but then I quickly realized I am the one doing all the hard work. It’s not my fault that others don’t get their asses up — excuse my language — I am still grateful for my life and privileges BUT I don’t owe it to anyone except my own willpower and strength. That’s when I gradually withdrew from outgrown relationships that made me feel bad instead of great! And surprisingly I built new friendships that truly nurture and support me.

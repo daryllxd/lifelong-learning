@@ -97,3 +97,10 @@ Content consumptions is finitely variable, but content creation is infinitely va
   - Don't compare options side by side. Evaluate each choice individually and on their own merit.
   - Know your "must-haves" before you look.
   - Optimize for things you can't get used to. *Infrequent or uncertain positive events, like quality time with friends or an exciting road trip, occur too sporadically to get used to. Inserting more of these hard-to-adapt-to experiences in your life will create longer lasting happiness.*
+
+# The Real Reason Apple and Google Want You to Use Your Phone Less
+[Reference](https://medium.com/behavior-design/the-real-reason-apple-and-google-want-you-to-use-your-phone-less-37b2b7f1384)
+
+- Apple and Google want you to form healthy habits with your digital devices, because being addicted is bad.
+- 1968: Federal Government mandated that seat belts come equipped in all cars. Same with third-party apps that have given smartphone owners ways to moderate tech use.
+- *When you invent the ship, you also invent the shipwreck.*
