@@ -859,3 +859,22 @@
   - They just don't see themselves as ever being able to live the life of their dreams, of being so successful that they will have financial independence and be able to make significant contributions in helping others.
 - *Life in essence is a great test. How much time am I willing to spend improving myself, prepping for the future? Most probably spend less than 20% prepping and 80% experiencing (being entertained).* Their friends do the same. But IMO the winners reverse those numbers: they spend most of their time prepping, learning, reading, thinking. These few spend time with people who think similarly. They look to be mentored by successful leaders. And, over time, they can achieve success and help others on a scale that others never thought was possible for themselves.
 - I lost a lot of similar aged friends, mainly women, because they made me feel guilty for my success, I had to explain, justify even defend my “lucky and fortunate” life. At first I felt bad for all my “luck” but then I quickly realized I am the one doing all the hard work. It’s not my fault that others don’t get their asses up — excuse my language — I am still grateful for my life and privileges BUT I don’t owe it to anyone except my own willpower and strength. That’s when I gradually withdrew from outgrown relationships that made me feel bad instead of great! And surprisingly I built new friendships that truly nurture and support me.
+
+# The Crucial Thinking Skill Nobody Ever Taught You
+[Reference](https://medium.com/the-mission/the-crucial-thinking-skill-nobody-ever-taught-you-536191d101ab)
+
+- Inversion: thinking of the worst possible thing that can happen to you. One of the best ways to clarify your thinking was to restate math problems in an inverse form. Write down the opposite of the problem you're trying to solve.
+- Charlie Munger: You want to avoid sloth and unreliability. Be proactive and reliable.
+- "What would someone do each day if they were a terrible manager?" Avoid those things.
+- "How could we make this company less innovative?" Don't do those things.
+- Think of how you can kill the company, and don't do the things that would let you do those.
+- We should be choosing what we want to keep, not what we want to get rid of.
+
+# How to influence company culture
+[Reference](https://m.signalvnoise.com/how-to-influence-culture-7b53e360b53f)
+
+- You can't manipulate someone else's basic underlying assumptions, because each person has their own intrinsic, worthwhile desires and beliefs.
+- What you can do is to focus on creating an environment where employees can choose to shift their basic underlying assumptions in line with what feels right to them.
+- ***Personal accountability. As the leader, you should be the living embodiment of the basic underlying assumptions you want your culture to have. You should be consciously and intentionally speaking and acting in a way that shows people, “This is important to me.”***
+- ***Consistency.*** If you want to have all-hands meetings to discuss company goals, etc., you need to have it every month. Make sure those things are consistent.
+- ***Richness.*** All-hands meetings are cool, but you also need other channels. One-on-ones, coffees, group lunches, surveys. Different ways of communicating means that the culture becomes foundational.
