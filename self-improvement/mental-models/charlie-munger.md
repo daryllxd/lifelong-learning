@@ -117,3 +117,16 @@
   - They look at this mess. And they figure out if there's anything sound left that can live on its own if they cut away everything else. And if they find anything sound, they just cut away everything else. Of course, if that doesn't work, they liquidate the business. But it frequently does work.
 
 - I think a select few—a small percentage of the investment managers—can deliver value added. But I don't think brilliance alone is enough to do it. I think that you have to have a little of this discipline of calling your shots and loading up—you want to maximize your chances of becoming one who provides above average real returns for clients over the long pull.
+
+# Charlie Munger's Top 10 Rules for Success
+[Reference](https://www.youtube.com/watch?v=l1EMkanyz5Y)
+
+- Always keep learning.
+- Know the edge of your own competency.
+- Be a survivor. You are not a victim.
+- Practice the right approach.
+- Understand what you are doing.
+- Invest in trust. A good company is built on the foundation of people trusting each other and being more productive than being by themselves.
+- Know all of the big ideas.
+- Swim as competently as you can.
+- Don't submerge into self-pity. Epictetus: Every time something bad happens, use the blow to improve yourself.
