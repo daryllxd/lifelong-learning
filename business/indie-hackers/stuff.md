@@ -1,4 +1,4 @@
-## How Seth Godin Would Launch a Business With a $1,000 Budget
+# How Seth Godin Would Launch a Business With a $1,000 Budget
 [Reference](https://www.indiehackers.com/@Louis_Grenier/how-seth-godin-would-launch-a-business-on-a-1-000-budget-2cc8c6c79c)
 
 - Market with people, not at them. Remember, people are immune to bad marketing. There's no more scammy, in your face marketing anymore.
@@ -9,7 +9,7 @@
 - Make a spinner and spin the wheel. Deliver value every week and stop expecting success to knock on my door tomorrow. I know that success will come, I just don't know when. It's such a liberating feeling. Success is a byproduct of helping people solve their biggest, most painful problems.
 - Key takeaways.
 
-## Marketing for Developers
+# Marketing for Developers
 [Reference](https://www.indiehackers.com/businesses/marketing-for-developers)
 
 - Marketing for developers.
@@ -39,7 +39,7 @@
 - When trying to lay groundwork for building and then marketing a product: start with a group of people that's already paying you for your time and expertise.
 - Highest priced tier will usually bring in the most revenue.
 
-## Practical Golf
+# Practical Golf
 [Reference](https://www.indiehackers.com/businesses/practical-golf)
 
 - In 2015 I founded Practical Golf, a blog that is focused on giving honest coaching advice to the everyday golfer.
@@ -51,7 +51,7 @@
 - So now the book had a clean looking sales page — positive official quotes and a bunch of five star reviews from people who had actually read it and liked the content. The last piece of the puzzle was a successful launch.
 - This is where having an existing audience really paid off. For about a year I had built up an email list by offering golfers weekly advice through my blog. On the official launch day I wrote an email announcing the book, clicked send, and hoped for the best.
 
-## Hercules
+# Hercules
 [Reference](https://www.indiehackers.com/businesses/hercules)
 
 - After quitting my job I wanted to build a business and earn some passive income. I thought making an app would be perfect for that. At that moment I was working out several times a week with a popular method in France. I wanted an app to track my progress and get rid of my pen and paper.
@@ -76,7 +76,7 @@
 - Test your idea by doing a landing page, patreon page, kickstarter, or whatever to make people pay before building anything. And I mean PAY — they must enter their credit card info here. Someone telling you he or she would buy your product is NOT an actual customer that will purchase your product when it's out.
 - If more than 10% pay, build the product, or go back to #1
 
-## Sidebar
+# Sidebar
 [Reference](https://www.indiehackers.com/businesses/sidebar)
 
 - I first started Sidebar as a way to drive traffic to a now-defunct project of mine called `Folyo`, one of the many sites trying to hook up companies and designers.
@@ -89,7 +89,7 @@
 - Job board: I got someone through Upwork to go through competing job boards and find me the contact email of all the companies that have posted design jobs recently.
 - I guess my main piece of advice would be not to overlook even the smallest ideas. Sending people five links a day might sound too simple to ever be a business, but if you do it over and over and over again every single day, it can actually turn into a nice revenue source eventually.
 
-## PongUp!
+# PongUp!
 [Reference](https://www.indiehackers.com/businesses/pong-up)
 
 - PongUp dashboard can be deployed on big TV screens or tablets in their ping pong area, as a nice addition to their office environment.
@@ -107,7 +107,7 @@
 - Start out very small.
 - Pushup Metrics.
 
-## Jitbit
+# Jitbit
 [Reference](https://www.indiehackers.com/businesses/jitbit-software)
 
 - Jitbit help desk: even though the niche was super crowded, I saw how huge the market was and how clumsy the existing systems were.
@@ -119,7 +119,7 @@
 - **Also, I heard this brilliant phrase from Joel Spolsky at some meetup: "You can teach a software engineer to do marketing/management/business-stuff, but you cannot teach an MBA how to write good code."
 **
 
-## Timetastic
+# Timetastic
 [Reference](https://www.indiehackers.com/businesses/timetastic)
 
 - Over-complex processes to take a day off from work.
@@ -139,7 +139,7 @@
 - Support: online only. We work from home.
 - This means we are never interrupted. Productive, value-adding work. Code, UX, design, marketing initiatives.
 
-## Flystein
+# Flystein
 [Reference](https://www.indiehackers.com/businesses/flystein)
 
 - Flight search service that connects travelers with air travel experts.
@@ -160,7 +160,7 @@
 - **If something comes our way, it should be tried, preferably straight away.**
 - Document management--Google docs.
 
-## The UI Audit
+# The UI Audit
 [Reference](https://www.indiehackers.com/businesses/the-ui-audit)
 
 - UI Breakfast, Tiny Reminder.
@@ -172,7 +172,7 @@
 - Focus!
 - Try an editor first.
 
-## BlankPage
+# BlankPage
 [Reference](https://www.indiehackers.com/businesses/blankpage)
 
 - Writing tool and motivational service that helps aspiring writers finish their first draft.
@@ -186,3 +186,11 @@
 - Switching from Backbone to React earlier.
 - Having a published author as an advisor.
 - "Could I turn the slog of writing into a pleasurable experience?"
+
+# Finding Inspiration Abroad, Shipping Fast, and Growing to $50k/mo
+[Reference](https://www.indiehackers.com/interview/finding-inspiration-abroad-shipping-fast-and-growing-to-50k-mo-e55f6feafd)
+
+- Traveling makes you less normal, since you connect bits and pieces from different cultures which help you think more creatively. We are all "creative entrepreneurs" since our ideas come from our learnings and different bits and pieces we mix up to produce ideas.
+- Increased costs, because it was "this can't be true, this is too cheap."
+- For those people starting: just focus and launch something, ASAP.
+- The mission: fixing design subjectivity. If we can always understand client requirements and exceed their expectations, then the sky is the limit.

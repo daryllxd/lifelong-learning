@@ -54,3 +54,26 @@
   - It provides a sense of urgency, to realize that you've lived a certain number of hours and the hours ahead of you are not guaranteed as the ones you have lived.
   - This makes our self-respect, work ethic, generosity, self-awareness, attention, and growth evermore important. The last thing any of us wants to do is die with regret.
   - The way we lead our lives and do our work must embody the principles that we practice. Less comparing, criticizing, and consuming; more creating, learning, and living.
+
+# Stop Trying to Be Happy
+[Reference](https://markmanson.net/stop-trying-to-be-happy)
+
+- Just as a confident man doesn't wonder if he's confident, a happy man does not wonder if he's happy. He simply is. So finding happiness is not achieved in itself, but rather it is a side effect of a set of life experiences.
+- You can't buy happiness, and you can't achieve happiness. It just is.
+- Pleasure: correlated to happiness, but it doesn't cause it. People who focus their energy on materialistic and superficial pleasures end up more anxious, more emotionally unstable, and less happy in the long run.
+- The joy of life is not having that 100K salary, it's working to reach that 100K salary, that 200K salary, and so on. Raise your expectations, elongate your process, have standards, learn from it, live it.
+- Denying negative emotions leads to deeper and more prolonged negative emotions and emotional dysfunction.
+- Things go wrong. Negative emotions are necessary and healthy for maintaining a stable baseline happiness.
+- *Happiness is the process of being your ideal self: completing a marathon makes us happier than eating a chocolate cake. Raising a child makes us happier than beating a video game. Starting a small business with friends and struggling to make money makes us happier than buying a new computer.*
+- It's not finishing the marathon that makes us happy, it's achieving a difficult long-term goal that does. It's not having an awesome kid that makes us happy, but knowing that you gave yourself up to the growth of another human being that is special.
+- This is why trying to be happy inevitably will make you unhappy. Because trying to be happy implies that you are not already inhabiting your ideal self, and you are not aligned with the qualities of who you wish to be.
+- This is why happiness is so fleeting. Anyone who has set out major life goals for themselves only to achieve them and realize that they feel the same relative amounts of happiness and unhappiness always feels like it's around the corner.
+
+# You're Supposed to Struggle
+[Reference](https://lifehacker.com/youre-supposed-to-struggle-1823744506)
+
+- You will struggle, you will die, and all of the material items you accumulated will no longer be yours.
+- Be happy you have the gift of life, but remember that nothing of yours is lost when you die.
+- Our bodies belong to nature, so you must be ready to give yours back when it’s time.
+- If you’re struggling right now, know that you are merely fulfilling your duty as a living thing in this world. To live is to struggle.
+- "To struggle is only natural" is not meant to be depressing. It's meant to be freeing and comforting. You're not cursed, you're not smited, and you're not incapable of riding out the storm.

@@ -67,3 +67,10 @@
 - Reminding students of previous successes promotes confidence.
 - Conceptual memory: nets to catch and hold new input with similar patterns. The more extensive the brain's collection of memory networks, the more successful it will be in activating the best prior knowledge.
 - Writing as memory cement: another storage facility for the brain.
+
+# How I Use My Journal To Create My Future and Achieve My Goals
+[Reference](https://medium.com/thrive-global/how-i-use-my-journal-to-create-my-future-and-achieve-my-goals-7f34746cae7d)
+
+- The journal: where you begin thinking deeply about your insights and ideas, where you strategize and plan the execution of those insights and ideas.
+- Rest and recoveries. When you fast for a lot of hours, the body is given the space for recovery.
+- Think, learn, rest.
