@@ -68,3 +68,14 @@
 - The best strategy to stop procrastinating? Move from goal intentions to implementation intentions. "In situation X, I will do behavior Y to achieve sub-goal Z."
 - The reason you procrastinate is to avoid having an emotion you do not want to experience (boredom, fear, stress...) but in doing so you create further negative emotions and end up in a stressful trap. Non-judgemental awareness of one's emotions allows one to push ahead with the action (doing your work), despite "not feeling like it".
 - You can be aware that you do not feel like it and that you feel worse when you initially start the task, but decide not to fight that emotion (give into the urge to make yourself 'feel better') and take action while feeling bad (rather than waiting until you 'feel like it').
+
+# The Neuroscience & Psychology of Procrastination, and How to Overcome It
+[Reference](http://www.openculture.com/2016/08/the-neuroscience-psychology-of-procrastination-and-how-to-overcome-it.html)
+
+- Tips:
+  - Break a long-term project down into specific sub-goals.
+  - Just get started.
+  - Remind yourself that finishing the task now helps you in the future.
+  - Implement micro-costs that require you to make a small effort to procrastinate. Ex: separate computer account for games.
+  - Reward yourself not only for completing the entire project, but also the subgoals.
+- ***Habitual procrastinators, the WSJ writes, “have higher rates of depression and anxiety and poorer well-being.***
