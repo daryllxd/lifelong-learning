@@ -878,3 +878,22 @@
 - ***Personal accountability. As the leader, you should be the living embodiment of the basic underlying assumptions you want your culture to have. You should be consciously and intentionally speaking and acting in a way that shows people, “This is important to me.”***
 - ***Consistency.*** If you want to have all-hands meetings to discuss company goals, etc., you need to have it every month. Make sure those things are consistent.
 - ***Richness.*** All-hands meetings are cool, but you also need other channels. One-on-ones, coffees, group lunches, surveys. Different ways of communicating means that the culture becomes foundational.
+
+# How to Reverse Aging and Become Whoever You Want to Be
+[Reference](https://medium.com/thrive-global/how-to-literally-anti-age-and-become-whoever-you-want-to-be-ffdd8ebf379f)
+
+- Triggering your bodies mentally to exhibit the energy and biological responses of much younger persons.
+- After five days, improvement in hearing, eyesight, memory, dexterity, appetite.
+- *By expecting men to function independently as individuals, rather than as "old people", Langer gave these men an opportunity to see themselves differently, which affected them biologically.*
+- The roles you play in life determine your identity and behavior.
+- You can either play the role of a musician, a parent, a friend, a lover, a student, or a teacher.
+- Allow yourself to evolve based on the role you are in. Quit putting yourself in a box.
+- You are the author of your life's narrative. You have the power to determine the stages of life on which you will perform, and the characters you will play.
+- You need to know what you want to do with your life. Don't just react to things (scrolling through the news feed, landing on the random pages that appear). When you decide on what you want, the universe conspires to make it happen.
+- *Every next level of your life will demand a different you.*
+- Being mindful: Who we are at any one time depends mostly on the context in which we find ourselves. But who creates the context? The more mindful we are, the more we can create the contexts we are in. When we create the context, we are more likely to be authentic.
+- Commitment over willpower. If you're in an environment that organically generates your goals, you're forced to become more than you currently are.
+- In every situation and human interaction you're in, you're performing. How do you want to influence those around you? Who do you need to be to achieve your goals? What will your voice be? What is your role?
+- Act as if. When you're stretched, it's not pretty. But over time, you'll adapt to your environment. You'll come to play your role so naturally that you'll no longer be acting. Acting AS IF will become acting AS IS. You will become who you intended to be, which is your most authentic self.
+- The real path to success in work and life is through creating an inner circle of lifeline relationships. These are deep, close relationships with a few trusted individuals who will offer the encouragement, feedback, and generous mutual support you need to reach your full potential.
+- When I get the craving to buy something stupid, I don't get the negative feeling that I'm not getting what I want. Instead, I get a positive feeling that I'm taking control of my financial life.
