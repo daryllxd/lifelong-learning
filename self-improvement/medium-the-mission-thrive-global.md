@@ -897,3 +897,10 @@
 - Act as if. When you're stretched, it's not pretty. But over time, you'll adapt to your environment. You'll come to play your role so naturally that you'll no longer be acting. Acting AS IF will become acting AS IS. You will become who you intended to be, which is your most authentic self.
 - The real path to success in work and life is through creating an inner circle of lifeline relationships. These are deep, close relationships with a few trusted individuals who will offer the encouragement, feedback, and generous mutual support you need to reach your full potential.
 - When I get the craving to buy something stupid, I don't get the negative feeling that I'm not getting what I want. Instead, I get a positive feeling that I'm taking control of my financial life.
+
+# First, care.
+[Reference](http://www.43folders.com/2010/02/05/first-care)
+
+- Before you sweat the logistics of focus: first, care. Care intensely. If you can't focus on one thing at a time, maybe you're just thinking of too many things.
+- How many things do I need to not care about in order to focus on this thing that I love?
+- You "focus" on the one thing you care about, as you "unfocus" on everything else.

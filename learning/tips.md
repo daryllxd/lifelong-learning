@@ -43,3 +43,27 @@
 - Skimming: Creating a mental map, not zoom into the details until you need them.
 - Plain text sucks for notes, vs concept maps. Our minds don't store ideas in a document-like form in the first place.
 - Watch out for lifestyle choices that decrease your brainpower. Take your walks, try not to get stressed, remove distractions from your environment.
+
+# How to read
+[Reference](https://robertheaton.com/2018/06/25/how-to-read/)
+
+- As adults we read non-fiction books because they are fun, and because we want to know and remember the things inside them. However, it’s not surprising that we don’t remember much about what we read.
+- Learning comes from repetition, and few people have occasion to think about capital-income ratios after finishing Capital In The Twenty-First Century.
+- Read and annotate the book, then make a writeup.
+- Writeup: single, big repetition of the book, distilling the important parts, and giving you a condensed summary of the contents of a book, what you thought about it, and what you can refer back to.
+- Handwritten notes to engage more with what you are reading and forms the basis of the Summary section of your writeup.
+- Writeup: Reviews, summary, quotes, questions, my thoughts.
+- Only works for books you actually like reading.
+
+# Confessions of a recovering lifehacker
+[Reference](https://johnpavlus.wordpress.com/2010/06/15/confessions-of-a-recovering-lifehacker/)
+
+- Maybe all the time I spend looking for better ways to do things is keeping me from doing things?
+- The lifehacking thing is mostly about fiddling with the BS that gets too often in the WAY of your life: email, paying bills, troubleshooting, syncing, remembering things you forget.
+- *I think lifehacking is seductive because it's easier than asking some bigger question about where your time and attention go.*
+- Instead of trying to optimize your email, think, why do you have so much email in the first place, and is that email actually important, and what are you doing? Those things don't get fixed just by a browser plugin.
+- 4 Hour Workweek: Clear away assumptions and redesign your life from first principles.
+- The best tool is the one that works.
+- Try to have the least amount of practical organization possible. Ex: why not just put the spoons and forks together. There's still a level of organization after anyway.
+- Make sure you focus on the things you actually want to do. Your focus and your attention is important TO YOURSELF the most.
+- *Life consists of what you pay attention to. There is literally nothing else.* And you're the only one who can dictate what you pay attention to.
