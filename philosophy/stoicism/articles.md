@@ -77,3 +77,17 @@
 - Our bodies belong to nature, so you must be ready to give yours back when it’s time.
 - If you’re struggling right now, know that you are merely fulfilling your duty as a living thing in this world. To live is to struggle.
 - "To struggle is only natural" is not meant to be depressing. It's meant to be freeing and comforting. You're not cursed, you're not smited, and you're not incapable of riding out the storm.
+
+# Reddit Thread on Closure
+[Reference](https://www.reddit.com/r/Stoicism/comments/8v3mo3/how_do_stoics_move_on_with_a_lack_of_closure/)
+
+- Acceptance. Acceptance doesn't mean it's resolved, just that you accept that there is no resolution.
+- Accept that they have that image of you, and that it is false. Your being, your inner world, does not changes because someone else thinks negatively of you.
+- If they misinterpreted your actions, that is YOUR closure. You were misinterpreted, and maybe in time they on their own will realize this.
+- You are only responsible for what you are, not for what others consider you to be.
+- To me, a desire for closure reminds me of Epictetus's discussion on what we find reasonable. We are only upset by what we find unreasonable. We are content with what we find reasonable. For me, a desire for closure from someone is rooted in not being able to explain or reason through their actions and thoughts. And we find that lack of explanation unreasonable. Thus, we suffer.
+- Why would you let your heart be dragged along by someone who wasn't there? Give yourself permission to accept the mystery and leave it aside without a complete perfect answer.
+- You are not the first nor the last person to never receive closure. Most people are left without closure at some point in their life. Even if you did get closure, it might not have mattered much anyway. I'd still be in the same position.
+- Don't crave complete explanations. We can't always have the answers we want. We can always accept the information we're given.
+- In my view, closure is a fake construct driven by one’s need to tell a story about some event. Needing such a story is the same as an attachment; it is rooted in fear and ego.
+- Divorce: I'm kind of a black and white person, and so for me, because we're not going to have any interaction after the agreement is signed, I've been able to think of her as a none person. That's how I've chosen to deal with it. Essentially there's a million things I would love to say to her - tell her off and make her regret all her poor choices, but I'd be saying it to someone who doesn't even really exist, so what's the point?
