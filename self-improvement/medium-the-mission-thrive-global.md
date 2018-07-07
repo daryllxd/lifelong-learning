@@ -904,3 +904,20 @@
 - Before you sweat the logistics of focus: first, care. Care intensely. If you can't focus on one thing at a time, maybe you're just thinking of too many things.
 - How many things do I need to not care about in order to focus on this thing that I love?
 - You "focus" on the one thing you care about, as you "unfocus" on everything else.
+
+# 29 Life-Changing Lessons That Will Make You Successful And More Strategic
+[Reference](https://medium.com/the-mission/29-life-changing-lessons-that-will-make-you-successful-and-more-strategic-eec575f46693)
+
+- Being curious is a career: Make your curiosity valuable to other people.
+- Quake books: there are books that can shake you to your core.
+- Is it worth it to fight with someone and win, if it causes them unhappiness?
+- What's scarce today? Quality land and natural resources, intellectual property/good ideas about what should be produced/quality labor with unique skills.
+- When traveling, pretend you're a thief.
+- Just go, re: travel.
+- Be a good, but quiet family man. Don't parade your family like a trophy.
+- Really understand other people's work.
+- Order weird stuff on the menu. If the weird thing wasn't good, the chef probably wouldn't have been allowed to put it on there.
+- Entertain basically everything. Even if you disagree with things.
+- Think rationally, not emotionally.
+- Cultivate young, smart people.
+- Do your actions match your beliefs?
