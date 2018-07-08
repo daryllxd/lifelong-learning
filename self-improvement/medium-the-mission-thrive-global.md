@@ -921,3 +921,34 @@
 - Think rationally, not emotionally.
 - Cultivate young, smart people.
 - Do your actions match your beliefs?
+
+# Which Half Is Wasted?
+[Reference](https://medium.com/s/which-half-is-wasted/which-half-is-wasted-54931b05e9be)
+
+- Advertising: Positive or negative externality?
+- Pepsi: A media experimenter, the company tries anything once.
+- Venture capital outspends ad dollars in funding internet startups since 2001.
+- Brand vs direct advertising: brand = "just do it", direct = "$10 off a camera if you use this affiliate code". These hit different parts of the brain. TV does brand advertising, web does direct.
+
+# 30 Lessons About Life You Should Learn Before Turning 30
+[Reference](https://medium.com/the-post-grad-survival-guide/30-lessons-about-life-you-should-learn-before-turning-30-6249873501e5)
+
+- Some situations call for care/deliberations, some call for you to dive right in before you have time to convince yourself not to.
+- Automate as many things as possible.
+- The journey and the process is more important than the act of starting.
+- You'll be happier if you love the journey more than the destination.
+- Your relationships all change drastically. People will come in and go in your life.
+- Use the past as a source of gratitude.
+- Procrastination kills your deepest dreams.
+- If you want to change something, change it.
+- Money buys freedom.
+- People holding you back usually mean well.
+- Getting older isn't a bad thing.
+- A good way to be happy is to pursue the happiness of others instead of your own.
+- It's okay to fail at shit.
+- Don't fear failure, fear regret.
+- How you manage your energy is even more important than how you manage your time.
+- Experimentation is the best way to figure out if an advice is right.
+- Being grateful for the journey means you're winning.
+- Find meaning in your obstacles.
+- If you don't like the story you are telling yourself, tell yourself a different story.
