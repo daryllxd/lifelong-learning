@@ -952,3 +952,19 @@
 - Being grateful for the journey means you're winning.
 - Find meaning in your obstacles.
 - If you don't like the story you are telling yourself, tell yourself a different story.
+
+# Five Things You Can Do Everyday to Upgrade Your Intellect
+[Reference](https://medium.com/the-mission/five-things-you-can-do-everyday-to-upgrade-your-intellect-86833f1c4069)
+
+- Keep on doing side projects.
+- Read a lot of non-fiction books. Reading books help you cultivate focus. You can do this for even 30 minutes a day.
+- Challenge your own thinking: we're either improving or degrading. If we think we stagnate, we're in fact degrading. Growth happens internally, and improvement manifests externally.
+- Experiment: try and try out things.
+- Spend time with people WAY smarter than you. As long as you're open-minded, smart people pull you up to their standards.
+- To connect with high quality people, be communicative and provide value.
+
+# How Complaining Rewires Your Brain for Negativity
+[Reference](https://medium.com/the-mission/how-complaining-rewires-your-brain-for-negativity-96c67406a2a)
+
+- Complaining feels good, but it isn't good for you.
+- Repeated complaining rewires your brain to make future complaining more likely. Over time, you find it's easier to be negative than to be positive, regardless of what's happening around you. Complaining becomes your default behavior, which changes how people perceive you.
