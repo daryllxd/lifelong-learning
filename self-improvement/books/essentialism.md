@@ -71,3 +71,25 @@
 # Select
 
 - If you rate something less than 90%, reject it.
+- When there is a serious lack of clarity about what the team stands for and what their goals and roles are, people experience confusion, stress, and frustration. When there is a high level of clarity, people thrive.
+- Common patterns when teams lack clarity of purpose: politics, "it's all good".
+- Concrete + inspirational = essential intent.
+- General + inspirational = mission/vision.
+- Rosa Parks: "This is the last time I would ever ride in humiliation of this kind."
+- We humans are wired to want to get along with others. So say no firmly, resolutely, and yet gracefully.
+- Saying no:
+  - Separating the decision from the relationship.
+  - Saying "no" gracefully doesn't have to mean using the word "no".
+  - Focus on the trade-off.
+  - Remind yourself that everyone is selling something.
+  - Make your peace with the fact that saying "no" often requires trading popularity for respect.
+  - Clear no is more graceful than a vague or non-committal "yes".
+- The "No" repertoire:
+  - The awkward pause.
+  - Soft "no". "Sorry, but I'm consumed with writing my book right now."
+  - The 2FA "let me check my calendar and get back to you."
+  - Autoresponder.
+  - "I'd love to, but in order for me to do this, I'd have to deprioritize something."
+  - Say it with humor.
+  - Use the words "you are welcome to X, I'm willing to Y". I won't be able to drive you. You are saying what you will not do, but you are couching it in terms of what you are willing to do.
+  - "I can't do it, but X might be interested."
