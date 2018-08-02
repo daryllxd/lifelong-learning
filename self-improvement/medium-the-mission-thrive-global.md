@@ -968,3 +968,33 @@
 
 - Complaining feels good, but it isn't good for you.
 - Repeated complaining rewires your brain to make future complaining more likely. Over time, you find it's easier to be negative than to be positive, regardless of what's happening around you. Complaining becomes your default behavior, which changes how people perceive you.
+
+# 8 Signs of a Successful Life That Have Nothing to Do With Money or Fame
+[Reference](https://medium.com/swlh/8-signs-of-a-successful-life-that-have-nothing-to-do-with-money-or-fame-30af9c27e819)
+
+- Extrinsic motivators don't keep you motivated very long. You need intrinsic motivation to put in the work that it takes to succeed.
+- You can have pride of making sure that you finished something and you bet on yourself.
+- Every person you encounter is the most important person in their eyes.
+- You should be as nice to the janitor as you are to the CEO, because it's the right thing to do, and because you never know when karma will come back to you.
+- Your mission is to find work that allows you to experience that feeling of flow as much as possible.
+- People thanking you for what you've done.
+- Successful people collect memories, not dollar bills.
+
+# The Sentences That Life Is Made Of
+[Reference](https://medium.com/personal-growth/the-sentences-that-life-is-made-of-424171eca582)
+
+- "We learn for life, not for school."
+- "Mapping a career is straightforward, you always have certain building blocks, all you gotta do is to chain them together."
+- "The days when we least want to exercise are the days we need it the most."
+- "How would you feel if someone said that to you?"
+- "You need room to think."
+- "Of course it's happening in your head, but why on earth should that mean that it's not real?"
+- "There's no worse way of missing someone than to sit next to them, knowing they'll never be with you."
+- "I make my living off of words and do what I love for work and got around 980 on my SATs. Take that system, what did you expect? Generation of kids choosing love over a desk." — Lyrics from Ten Thousand Hours by Macklemore.
+- "Life is long if you know how to use it."
+- "The moment you accept total responsibility for everything in your life is the morning you claim the power to change anything in your life." - The Miracle Morning
+- "People don't what you do; they buy why you do it."
+- There are no two words in the English language more harmful than 'good job'". - Whiplash
+- The most important thing about art is to work. Nothing else matters except sitting down every day and trying.
+- Everything around you that you call life was made up by people that were no smarter than you.
+- Death is what gives life meaning.
