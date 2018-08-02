@@ -93,3 +93,28 @@
   - Say it with humor.
   - Use the words "you are welcome to X, I'm willing to Y". I won't be able to drive you. You are saying what you will not do, but you are couching it in terms of what you are willing to do.
   - "I can't do it, but X might be interested."
+
+# Uncommit
+
+- Endowment effect: overvaluing things we own and undervaluing things that aren't ours. People would rather not unbook a more expensive trip that they know wouldn't be as fun as a cheaper trip.
+- Just admit whenever you get lost.
+- Neutral second opinion on doing things.
+- Status quo bias: "We have always done it this way!"
+- Zero-based budgeting: Everything must be justified from scratch. Assume all previous bets are off when you try to budget your time.
+- When people make their problem our problem, we aren't helping them, we're enabling them.
+
+# Execute
+
+- Just always assume a 50% buffer for things.
+- Improving results:
+  - Be clear about the essential intent
+  - Identify the "slowest hiker"/what actual blockers exist though?
+- Essentialist: Starts small and gets big wins, celebrates small acts of progress
+- Phelps: Routine + "watching the tape"/visualizing the perfect race.
+- *Losing vs being beaten: being beaten means they are better than you. Losing means you lost focus, you didn't concentrate.*
+- There is only now. Past is done, future is not yet here. Focus on the present and enjoy the moment.
+- The Essential Life: Living a Life That Really Matters
+  - The role of family in my life.
+  - The pathetically tiny amount of time we have left of our lives. This is not depressing, but is thrilling. It removes fear of choosing the wrong thing.
+- The person who visits cemeteries around the world when he travels. This keeps his own mortality front and center.
+- PayPal: There is just one priority, and focus on that thing exclusively. What is your biggest and highest level of contribution to the shared mission of the company?
