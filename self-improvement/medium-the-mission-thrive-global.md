@@ -998,3 +998,23 @@
 - The most important thing about art is to work. Nothing else matters except sitting down every day and trying.
 - Everything around you that you call life was made up by people that were no smarter than you.
 - Death is what gives life meaning.
+
+# Resilience: How to Rescue Yourself from Adversity
+[Reference](https://medium.com/personal-growth/resilience-how-to-rescue-yourself-from-adversity-d8108dbe1fb3)
+
+- To overcome adversity, you must rescue yourself first. Your mindset, not the event, defines if you will be "rescued" or not.
+- Many scuba divers in accidents were found dead with air in their lungs and perfectly functioning regulators. There is an impulse to remove your mask when you're drowning, you just have to focus on the here and now and what you need to do.
+- The damage model: because people are born in a troubled family, their fate will be doomed too.
+- Resilient children are "luck" enough to have a strong bond with a supportive caregiver, teacher, or other mentor figures. More importantly, they behave autonomously and independently and met the world on their own terms.
+- You can learn to rescue yourself from adversity: how you engage with reality determines your fate. An even is not traumatic unless we experience it as such.
+- Resilience: about how you adapt to things.
+  - Optimism + creativity + confidence.
+  - Challenge: turn difficulty into a challenge.
+  - Commitment: have something to fight for: a mission bigger than yourself, your relationships or spiritual beliefs.
+  - Self-control: you can't manage reality, but you can control your emotions and reactions.
+- Preparing:
+  - Reframe your thoughts about reality. You can't control reality, but you can manage how you adapt to it.
+  - Prepare for the worst: expose yourself to frequent rejections. How you overcome rejections in the present determines how you will deal with stressors in the future. Practice creating discomfort in everyday routines.
+  - Create alternative paths. Playful humor. "The person who toys with the situation creates an inner feeling of "this is my plaything; I am bigger than it. I won't let it scare me."
+  - Relationships
+  - Spiritual activities. Acts of kindness.
