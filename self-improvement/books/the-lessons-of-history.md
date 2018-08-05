@@ -46,4 +46,62 @@
 - "It was fear that made the gods": fear of hidden forces in the earth, rivers, oceans, trees, winds, and sky. Religion became the worship of these forces through offering, sacrifice, incantation, and prayer.
 - The local code of the morals and laws had been dictated by the gods.
 - The masses of mankind desire a religion rich in miracle, mystery, and myth.
-- The replacement of Christian with secular institutions is the culminating and critical result of the Industrial Revolution.
+- Industrial Revolution: replacing Christian with secular institutions
+  - Education: from men/women in theological robes to professors.
+  - Patriotism, capitalism to moral code.
+  - Churches to theaters.
+  - Catholicism survives because it appeals to imagination, its mythology consoles and brightens the lives of the poor.
+  - Catholicism wins converts from souls wearied with the uncertainty of reason, and from others hopeful that the Church will stem internal disorder and the Communist wave.
+- Religion has many lives and a habit of resurrection.
+  - Atheism in India (Buddha's time)/Buddha's religion had no gods, but after his death Buddhism developed a complex theology including gods, saints, and hell.
+  - 18th century atheistic worship of the Goddess of Reason, then Napoleon + Pius VII restored the Catholic Church in France.
+  - Rationalism of the Founding Fathers → religious revival in the 19th century.
+- Puritanism and paganism (the repression and expression of the sense and desires) alternate in mutual reaction in history.
+  - Religion and puritanism prevail in periods when the laws are feeble and morals must bear the burden of maintaining social order.
+  - Skepticism and paganism progress as the rising power of law and government permits the decline of the church.
+- **There is no significant example in history, before our time, of a society successfully maintaining moral life without the aid of religion.** Soviet Russia: just accepted Communism as the religion of the people.
+
+# VII. Economics and History
+
+- Marx: History is economics in action. Political forms, religious institutions, cultural creations are all rooted in economic realities.
+- Industrial Revolution: democracy, feminism, birth control, socialism, decline of religion, loosening of morals, liberation of literature from dependence upon aristocratic patronage, replacement of romanticism by realism in fiction.
+- Money influences history. Egypt's treasury → Italy, Medici → Florentine Renaissance, French Revolution is because the middle classes had risen to economic leadership.
+- Non-economic incentives: religion, nationalism, and the self-fertilizing fury of mobs.
+- Political/military power is the cause rather than the result of economic operations.
+- *The men who can manage men manage the men who can manage only things, and the men who can manage money manage all.*
+- Bankers always rise to the top of the economic pyramid.
+- Every economic system must sooner or later rely upon some form of the profit motive to stir individuals and groups to productivity.
+- The majority of practical abilities eventually end up in a minority of men. The concentration of wealth is a natural result of this concentration of ability, and regularly occurs in history.
+- 594 BC Athens: "The disparity of fortune between the rich and the poor had reached its height, and so no other means for freeing it from disturbances seemed possible but despotic power."
+  - Solon: Voted to the supreme archonship. He devaluated the currency, reduced all personal debts, ended imprisonment for debt, cancelled arrears for taxes and mortgage interest, established a graduated income tax, reorganized the courts on a more popular basis.
+- Roman Senate: Big gap between rich and poor, they also wanted to redistribute but Tiberius, Caius, and those guys were killed.
+- After the breakdown of the Western Roman Empire, centuries of destitution were followed by the slow renewal and reconcentration of wealth in the Catholic Church.
+- *The concentration of wealth is natural and inevitable, and is periodically alleviated by violent or peaceful partial redistribution.*
+
+# Socialism and History
+
+- Capitalist: has gathered the savings of people into productive capital by the promise of dividends or interest, has financed the mechanization of industry and agriculture, and the rationalization of distribution.
+- Sumeria: Socialistic experiment, land was organized by the state, laborers received rations from the crops delivered to the royal storehouses.
+- Babylonia: Hammurabi's code fixed wages for herdsmen and artisans, and the charges for physicians. Same with Egypt (state owned the soil/agriculture, the peasant was told what land to till, what crops to grow. Government owned the mines and appropriated the ore, nationalized the production and sale of oil, salt, papyrus, and textiles.
+- Ptolemy (323-30BC), the state owned the soil and managed agriculture. Commerce, retail was in the hand of state agents selling state-produced goods.
+  - Scribes, taxes, personal and property registration. This made the Ptolemaic the richest state of the time. Museum and Library of Alexandria.
+- Rome and Diocletian: setting maximum prices and wages for all important articles and services. In every large town, the state became a powerful employer.
+- China: Emperor Wu Ti (140 BC-87 BC) nationalized the resources o the soil, extended government direction over transport and trade, laid a tax upon incomes, and established public works.
+  - Prices would be regulated in the empire. At some point, this ended with floods/droughts/shortages, raise prices, high costs of living.
+  - Wang Mang (9-23 AD): A patron of literature, surrounded himself with men trained in letters, science, and philosophy. The groups whose profits had been clipped united to plot his fall; they were helped by drought and flood and foreign invasion.
+  - Wang An-shih (1068-1085): Tried it again, but high taxes (to finance a lot of government employees), conscription, corruption in the bureaucracy.
+- Incas in Peru: The longest-lasting regime of socialism: the Incas. 13th century, Incas organized and directed all agriculture, labor, and trade. This lasted until Pizarro in 1533.
+- Capitalism and socialism: capitalism has private property, free enterprise, competition, and produce a rich supply of goods, taxation (on upper classes), enabling the government to provide for a self-limited population.
+- The fear of capitalism has compelled socialism to widen freedom, and the fear of socialism has compelled capitalism to increase equality.
+
+# X. Government and History
+
+- Government's prime task: to establish order, because organized central force is the sole alternative to incalculable and disruptive forces in private hands.
+- Monarchy: more prevalent than democracy over the years.
+  - Good: continuity and "legitimacy".
+  - Bad: nepotism, irresponsibility, and extravagance.
+- Most governments have been oligarchies:
+  - By religion (theocracy)
+  - By wealth (democracy)
+- In most cases, the effects of revolution would have probably happened regardless.
+  - French Revolution overthrew the aristocracy with the business class, but that also happened in England without a revolution.
