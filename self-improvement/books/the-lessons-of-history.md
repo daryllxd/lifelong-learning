@@ -105,3 +105,27 @@
   - By wealth (democracy)
 - In most cases, the effects of revolution would have probably happened regardless.
   - French Revolution overthrew the aristocracy with the business class, but that also happened in England without a revolution.
+- Plato's The Republic: Athens had class violence/moral degradation. Nouveaux rich: mansions, women with robes and jewelry, servants. Two cities: the city of the poor and the city of the rich.
+  - Rich viewed democracy as empowered envy, and the poor viewed democracy as a sham equality of votes nullified by a gaping inequality of wealth.
+  - Political evolution: monarchy, aristocracy, democracy, dictatorship.
+  - Ancient democracy = slavery, venality, and war.
+- American Revolution: Not just colonials vs distant government, but also an uprising of a native middle class vs an imported aristocracy.
+- Cities = personal isolation is gone, personal independence is gone through the dependence of the worker upon tools and capital that he does not own. Free land is gone, though home ownership spreads.
+- *Democracy is the most difficult of all forms of government, since it requires the widest spread of intelligence, and we forgot to make ourselves intelligent when we made ourselves sovereign. Education has spread, but intelligence is perpetually retarded by the fertility of the simple.*
+  - Ignorance is not long enthroned, for it lends itself to manipulation by the forces that mold public opinion.
+  - Positive: science, enterprise, freedom raising ability from rank and place.
+
+# XI. History and War
+
+- In the last 3421 years of recorded history, only 268 have seen no war. War = the ultimate form of competition and natural selection in the human species.
+- Cause: desire for food, land, materials, fuels, mastery.
+- Military interpretation of history: war is the final arbiter, and is natural and necessary. Some men riot and rot for lack of discipline, and they need an outlet for combativeness, adventurousness, and weariness with routine.
+- Even a philosopher knows that a long peace can weaken a nation.
+
+# XII. Growth and Decay
+
+- We can reasonable expect that in the future, as in the past, some new states will rise, and some old states will subside.
+
+Pax Romana: Long peace
+Morgan banker New York
+Hellenic pantheon
