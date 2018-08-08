@@ -125,6 +125,27 @@
 # XII. Growth and Decay
 
 - We can reasonable expect that in the future, as in the past, some new states will rise, and some old states will subside.
+- All civilizations begin, flourish, decline, and disappear;
+- Most states took form by the conquest of one group by another, and the establishment of a continuing force over the conquered by the conqueror.
+- Growth: organized to take advantage of rivers, change in surroundings (invasion, shortage of rain) which can be met by working together.
+- On if a challenge will or will not be met: depends upon the presence or absence of initiative and of creative individuals/geniuses.
+- Causes of decay: negative change in physical surroundings, increased wages so incentives to produce are reduced, change in trade routes, taxes that discourage productive stimulus, losing to other competition, concentration of wealth to disrupt the nation in class or race war.
+- In an unequal society, it finds itself divided between cultured minority and uncultured majority.
+- As education spreads, theologies lose credence, and receive an external conformity without influence upon conduct of hope. Life and ideas become secular. After rationalism wins over religion, skepticism follows. Then, luxury, corruptions, while trying to cling to old restraints and ways. Then, weakening of the leadership, then, someone conquers you.
+- Life has no inherent claim to eternity, whether in individuals or in states. Death is natural, and if it comes in due time, it is forgivable and useful.
+
+# XIII. Is Progress Real?
+
+- Since we have admitted no substantial change in man's nature during historic times, all technological advances will have to be written off as merely new means of achieving old ends.
+- Science is neutral: It will kill for us as readily as it will heal, and will destroy for us more readily than it can build.
+- We can escape theology, but do we have a moral code/natural ethic (independent of religion) capable of keeping our instincts of acquisition, pugnacity and sex from debasing our civilization into greed, crime, and promiscuity?
+- **Has the average man increased his ability to control the conditions of his life?**
+  - Surviving primitive tribes: high rate of infant mortality, short lifespan, less stamina and speed, greater susceptibility to disease.
+  - A great civilization does not entirely die. Elements of civilization have survived rising and falling states: fire, the wheel, language, writing, art, agriculture, the family, parental care, social organization, morality, charity, teaching.
+  - If education is the transmission of civilization, we are unquestionably progressing. Civilization is not inherited, it has to be learned and earned by each generation anew. So our finest contemporary achievement is our unprecedented expenditure of wealth and toil for higher education. Today, most people can study in a university.
+  - Education should not be the accumulation of facts and dates and reigns, but the transmission of our mental, moral, technical and aesthetic heritage as fully as possible to as many as possible.
+  - We are not necessarily better or wiser than infants were in the past, but we are born to a richer heritage, born on a higher level of that pedestal which the accumulation of knowledge and art.
+- History is the creation and recording of that heritage, progress is its increasing abundance, preservation, transmission, and use.
 
 Pax Romana: Long peace
 Morgan banker New York
