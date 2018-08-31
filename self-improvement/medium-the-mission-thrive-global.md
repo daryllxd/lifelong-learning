@@ -1018,3 +1018,13 @@
   - Create alternative paths. Playful humor. "The person who toys with the situation creates an inner feeling of "this is my plaything; I am bigger than it. I won't let it scare me."
   - Relationships
   - Spiritual activities. Acts of kindness.
+
+# The Purpose Of Life Is Not Happiness: It’s Usefulness
+[Reference](https://medium.com/darius-foroux/the-purpose-of-life-is-not-happiness-its-usefulness-65064d0cdd59)
+
+- Chasing happiness: buying things, hooking up, getting a well-paying job you don't like, going on holiday, and thinking those make you happy.
+- How do you achieve happiness? Happiness can't be a goal in itself. So it's not something that's achievable.
+- Most of the things we do in life are activities and experiences: holiday, work, shopping, drinks, buying dinner and cars. Those things are not useful by themselves. Holiday and shopping is nice, but it doesn't give meaning to life.
+- What are you doing that's making a difference?
+  - Helping your boss, spending time with family, writing articles, building things, starting businesses.
+  - Try to be useful. Don't overthink it, just do it.

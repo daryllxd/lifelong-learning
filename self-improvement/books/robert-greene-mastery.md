@@ -126,3 +126,23 @@
 - ***Masters are those who by nature have suffered to get to where they are. They have experienced endless criticisms of their work, doubts about their progress, setbacks along the way.*** As mentors, they can gauge the extent of our progress, the weaknesses in our character, the ordeals we must go through to advance. In this day and age, you must get the sharpest dose of reality that is possible from your mentor. You must go in search of it and welcome it. *If possible, choose a mentor who is known for supplying this form of tough love.*
 
 # See People as They Are: Social Intelligence
+
+- Benjamin Franklin: when it comes to work, he was rational and realistic, always looking to improve himself. When it comes to people, he can be swept up in his emotions and lose all contact with reality.
+- In all of his future interactions with people, he would try to not get too emotional. He can then focus on the people he was dealing with, cutting off his own insecurities and desires from the equation.
+- **It's like when you're writing a character and you're thinking inside the character you created. You can apply this in your life.**
+- ***New philosophy: complete and radical acceptance of human nature. Some are frivolous, some are vindictive, and some are rigid. There are people like this everywhere, ever since the dawn of civilization. To get upset or try to alter them is futile, it will only make them bitter and resentful. Better to accept such people as one accepts the thorns on a rose.***
+- Better to observe and accumulate knowledge on human nature, as one accumulates knowledge in the sciences.
+- **Allow everyone the right to exist in accordance with the character he has, whatever it turns out to be: and all you should strive to do is to make use of this character in such a way as its kind of nature permits, rather than to hope for any alteration in it, or to condemn it offhand for what it is.** To become indignant at people's conduct is as foolish as to be angry with a stone because it rolls into your path. And with many people, the wisest thing you can do is to resolve to make use of those whom you cannot alter.
+- Mirror neurons: humans could use those not only to imitate, but also to imagine what others might be thinking and feeling.
+  - Compared to other animals, we humans enter the world weak and helpless. This period of immaturity gives us a chance to focus on developing our brain.
+  - Social intelligence: focusing our attention outward instead of inward, moving past our tendency to idealize and demonize people, and seeing and accepting them as they are.
+  - To be truly charming and socially effective, you have to understand people, and to understand them, you have to get outside yourself and immerse your mind in their world.
+  - Instead of obsessing over himself and what other people were not giving him, he thought deeply of how they were experiencing the world, what they were feeling and missing. Emotions seen inside other people create empathy and bring a deep understanding of what makes them tick.
+- Specific knowledge of human nature: the ability to read people, to get a feel for how they see the world, and to understand their individuality.
+- General knowledge of human nature: understanding the overall patterns of human behavior that transcend us as individuals, including some of the darker qualities we often disregard.
+- Experiencing an uncanny connection with another person:
+  - In our normal state, we are often nervous, defensive, and self-absorbed, but in those moments of connection, the internal monologue is shut off, and we pick up more cues and signals from the other person than usual.
+  - When our ancestors needed to cooperate, but didn't have the interior monologue that comes with words, they had a powerful sensitivity to the moods and feeling of others within the group, bordering on telepathy.
+  - Pay less attention to the words that people say and greater attention to their tone of voice, the look in their eye, and their body language, all signals that might reveal a nervousness or excitement that is not expressed verbally.
+  - Emotional people reveal a lot more. Pay deep attention and pick up cues from them that will register with you as feelings or sensations.
+- After you have known people for a while, try to imagine that you are experiencing the world from their point of view, placing yourself in their circumstances and feeling what they feel. Look for any common emotional experiences. The goal is not to literally inhabit their mind, but to gain a more realistic appraisal of their worldview. Think of people's actions and decisions. What are the hidden motives behind those?
