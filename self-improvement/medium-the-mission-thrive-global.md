@@ -1028,3 +1028,23 @@
 - What are you doing that's making a difference?
   - Helping your boss, spending time with family, writing articles, building things, starting businesses.
   - Try to be useful. Don't overthink it, just do it.
+
+# How Facebook Has Flattened Human Communication
+[Reference](https://medium.com/s/story/how-facebook-has-flattened-human-communication-c1525a15e9aa)
+
+- It's vastly easier for a computer to make sense out of a "like" or a five star rating than to parse meaning out of raw text. Star ratings allow sorting, filtering, and historical analysis over time.
+- **"The First Law of Internet Data: In any computational context, explicitly structured data floats to the top."**
+  - Explicitly structured: data that has categories, quantification, rankings. This is easier for algorithms to handle rather than unstructured data like text in human language, images, and video.
+  - Early Internet is the beginning of a process of explicit quantification of things. Web 2.0: the classification of the social and more generally the classification of life.
+- **The Second Law of Internet Data: For any data set, the classification is more important than what's being classified.**
+  - The conclusions and impact of data analyses flow from the classifications under which the data has been gathered, rather than from the data itself. When FB groups people together in some category, what really matters is that a category exists, rather than finding out how the category was derived (usually, this criteria is arbitrary or even wrong).
+- **The Third Law of Internet Data: Simpler classifications will tend to defeat more elaborate classifications.**
+  - Internet services can deal with complicated classifications, but business and technical inertia prefer simpler ones.
+  - Facebook: Prefers to figure out what people want, rather than what people don't want. So it prefers things like `Like` and `Haha`, rather than `Angry` and `Sad`. Facebook splits "positive" into "Haha", "Love", "Wow", and negative into just "Sad" or "Angry".
+  - Buzzfeed: it's schemes are surprising/adorable/shocking/funny. These are good for market research, because it then shows like "is content surprising, adorable, shocking, funny", etc.
+  - This can enable a more sophisticated analyses than a more complicated schema - it's easier to figure out how a person felt with an emoji, rather than a "LOL" or a "great".
+  - There is also little to no variation in reaction choices across different countries, languages, and cultures.
+  - These sentiments also make it easy to compare posts quantitatively: because you can sort articles according to the reaction, FB can figure out commonality. Ex: "do I show this article to the users, given that this article has been tagged as 'funny' or 'heartwarming' by other people?", or "do I show this article to other users, given that the person who shared this is a grumpy person?"
+  - When they tried testing with a far larger set of emotions, the simple classification won out. It's both easier to use and more universal, at the expense of cultural and personal variation.
+  - Wut → "Countries that expressed the most "happiness" were not actually the happiest in real life, instead, it was the countries that used the widest array of stickers that did better on various measures of societal health and well-being".
+- At around 2015, there was less discussion happening on Facebook walls, reactions became simple Emojis and simple reactions.

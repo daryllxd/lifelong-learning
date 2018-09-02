@@ -133,6 +133,7 @@
 - ***New philosophy: complete and radical acceptance of human nature. Some are frivolous, some are vindictive, and some are rigid. There are people like this everywhere, ever since the dawn of civilization. To get upset or try to alter them is futile, it will only make them bitter and resentful. Better to accept such people as one accepts the thorns on a rose.***
 - Better to observe and accumulate knowledge on human nature, as one accumulates knowledge in the sciences.
 - **Allow everyone the right to exist in accordance with the character he has, whatever it turns out to be: and all you should strive to do is to make use of this character in such a way as its kind of nature permits, rather than to hope for any alteration in it, or to condemn it offhand for what it is.** To become indignant at people's conduct is as foolish as to be angry with a stone because it rolls into your path. And with many people, the wisest thing you can do is to resolve to make use of those whom you cannot alter.
+
 - Mirror neurons: humans could use those not only to imitate, but also to imagine what others might be thinking and feeling.
   - Compared to other animals, we humans enter the world weak and helpless. This period of immaturity gives us a chance to focus on developing our brain.
   - Social intelligence: focusing our attention outward instead of inward, moving past our tendency to idealize and demonize people, and seeing and accepting them as they are.
@@ -145,4 +146,47 @@
   - When our ancestors needed to cooperate, but didn't have the interior monologue that comes with words, they had a powerful sensitivity to the moods and feeling of others within the group, bordering on telepathy.
   - Pay less attention to the words that people say and greater attention to their tone of voice, the look in their eye, and their body language, all signals that might reveal a nervousness or excitement that is not expressed verbally.
   - Emotional people reveal a lot more. Pay deep attention and pick up cues from them that will register with you as feelings or sensations.
-- After you have known people for a while, try to imagine that you are experiencing the world from their point of view, placing yourself in their circumstances and feeling what they feel. Look for any common emotional experiences. The goal is not to literally inhabit their mind, but to gain a more realistic appraisal of their worldview. Think of people's actions and decisions. What are the hidden motives behind those?
+- After you have known people for a while, try to imagine that you are experiencing the world from their point of view, placing yourself in their circumstances and feeling what they feel.
+  - Look for any common emotional experiences.
+  - The goal is not to literally inhabit their mind, but to gain a more realistic appraisal of their worldview. Think of people's actions and decisions. What are the hidden motives behind those?
+- Take note of people's actions and decisions, which often revolve around power. People dress up things with their words, but their actions say much more about their character, about what's going on underneath the surface.
+- ***When looking for cues to observe, be sensitive to extreme behavior: People usually wear this like a mask to hide the opposite, to distract others from the truth.*** They are blustery because they are inwardly very insecure, and they are overly friendly because they are secretly ambitious and aggressive, or they joke to hide a mean-spiritedness.
+  - Decode every possible sign: small things like clothes they wear, how organized they are of their workspace, choice of mate or partner, especially if it seems slightly inconsistent with the character they try to project.
+  - Little things like chronically being late, insufficient attention to detail, not returning favors on your part are signs of something deeper about their character. These are patterns you must pay attention to.
+  - People have personas in public that act like a second skin to protect them. Unless you are incredibly perceptive, you will tend to mistake the mask for the reality.
+  - What you want is a picture of a person's character over time, which will give you a far more accurate sense of their true character than any first impression could. So restrain yourself from the natural tendency to judge right away, and let the passing months reveal more and more about who people are, as you get better at reading them.
+  - In the end, your goal is to identify and pierce through to what makes people unique, to understand the character and values that lie at their cores.
+
+## General Knowledge: The Seven Deadly Realities
+
+- Throughout recorded history, we can detect patterns of human behavior that transcend culture and time, indicating certain universal features that belong to us as a species.
+  - ***Ex of negative ones: envy, conformism, rigidity, self-obsessiveness, laziness, flightiness, passive-aggression. People do not like to display these traits publicly because they are seen as ugly and undesirable.***
+
+- ***Envy:*** It's our nature to constantly compare ourselves to others, in terms of money, looks, coolness, intelligence, popularity, or any number of categories. We often find a way to minimize it because it's an unpleasant emotion: we say it's because of luck, connections, or that it won't last.
+  - If you detect unusual levels of insecurity, he/she will certainly be more prone to envy.
+  - IF you have a gift for a certain skill, you should make a point of occasionally displaying some weakness in another area, avoiding the great danger of appearing too perfect/too talented.
+  - Dealing with insecure types: show interest, turn to them for advice.
+  - Don't boast of any success, ascribe it to just good luck on your part.
+  - Intelligence is the most sensitive trigger point for envy: try your best to maintain a non-threatening exterior and to blend in well with the group, at least until you are so successful that it no longer matters.
+
+- ***Conformism:*** The reality of things is that those who are markedly different makes them feel uncomfortable and insecure, calling the values of the dominant culture into question.
+  - You can become aware of this by observing how much people feel the need to display certain opinions or ideas that conform to the standards. There will always be a few within the group who are the overseers of correctness and who can be quite dangerous.
+  - When it come to matters of politics, morals, and values, make a show of adhering to the accepted standards of your environment.
+
+- ***Rigidity:*** Whenever we humans face a situation that seems complicated, our response is to resort to a kind of artificial simplicity, to create habits and routines that gives us a sense of control.
+  - People do not advertise their rigidity, you'll just see it when you try something new. Some in the group will become irritable, even panicky at the thought of any kind of change.
+  - The strategy is to accept rigidity in others, outwardly displaying deference to their need for order. On your own, work to maintain your open spirit, letting go of ad habits and deliberately cultivating new ideas.
+
+- ***Self-obsessiveness:*** In the work environment, we almost think first and foremost of ourselves.
+  - Because being self-interested does not make us feel or appear noble, many people go out of their way to disguise their self-interest.
+  - When it come to asking for a favor or help, think first of appealing to people's self-interest in some way. Look at the world through their eyes, getting a sense of their needs.
+
+- ***Laziness:***
+  - If you are not careful and talk too much, they will steal your best ideas and make them their own, saving themselves all of the mental effort that went into conceiving them.
+  - The best defense: prudence. Keep your ideas to yourself, or conceal enough of the details so that it is not possible to steal them.
+
+- ***Passive aggression.***
+  - There is a human fear of direct confrontation, and the emotions that a conflict can churn up/loss of control that ensues. Making attacks subtle enough so that it's hard to figure out what's going on, while giving them control of the dynamic.
+  - Best defense: call out, ignore, but there are some people out there seething with insecurities who are veritable passive-aggressive warriors and can literally ruin your life.
+
+## Strategies for Acquiring Social Intelligence
