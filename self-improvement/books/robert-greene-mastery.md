@@ -190,3 +190,22 @@
   - Best defense: call out, ignore, but there are some people out there seething with insecurities who are veritable passive-aggressive warriors and can literally ruin your life.
 
 ## Strategies for Acquiring Social Intelligence
+
+- ***Speak through your work.*** Social intelligence matters. Scientists must also play the courtier. He involved others in his work, making them emotionally attached to his theory.
+  - Your work is the single greatest means at your disposal for expressing your social intelligence. By being efficient and detail-oriented in what you do, you demonstrate that you are thinking of the group at large and advancing its cause. If you are experiencing the pressures of political maneuvering within the group, do not lose your head and become consumed with all of the pettiness.
+- ***Craft the appropriate persona.*** The personality we project to the world plays a substantial role in our success and in our ascension to mastery. The public arena finds weaknesses in character to exploit.
+  - *People will judge you based on your outward appearance.* If you are not careful and simply assume that it is best to be yourself, they will begin to ascribe to you all kinds of qualities that have little to do with what you are, but correspond to what they want to see.
+  - You can mold these appearances, create the image that suits you, and control people's judgments.
+  - Never settle on one image or give people the power to completely figure you out. Be one step ahead of the public.
+  - This is a key element in social intelligence, not something evil. We all wear masks in the social arena. By creating a persona that is mysterious, intriguing, and masterful, you are playing to the public, giving them something compelling and pleasurable to witness.
+- ***See yourself as others see you.***
+  - You can make yourself so efficient in whatever job you have that your social handicap would not matter.
+  - Do not make your coworkers feel insecure, useless, and inferior. Discuss ideas with engineers, involve them as much as possible in your work, and never directly criticize people for anything.
+  - Bad feedback gives a clear and realistic picture of herself as others saw her, and that is all she ever needed for self-correction.
+- ***Suffer fools gladly.***
+  - When it comes to practical life, what should matter is getting long-term results, and getting the work done in as efficient and creative a manner as possible.
+  - Fools place importance on short-term matters: grabbing immediate money, gaining attention from the public or media, and looking good.
+  - The natural tendency with fools is to lower yourself to their level. Don't, you'll just waste valuable time and emotional energy.
+  - Adopt this philosophy: it's just a part of life, like rocks or furniture. All of us have foolish sides anyway.
+
+# Awaken the Dimensional Mind: The Creative-Active
