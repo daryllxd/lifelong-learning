@@ -9,7 +9,7 @@
 - Even Nassim Taleb, author of Antifragile, points out that several ancient philosophers grasped the concept of antifragility. Odds are that no matter what you're working on, someone somewhere, who is smarter than you, has probably thought about your problem and put it into a book.
 - In The Prince, Machiavelli writes, “A wise man ought always to follow the paths beaten by great men, and to imitate those who have been supreme, so that if his ability does not equal theirs, at least it will savor of it.” That's not to say that this is the only way, but why not start with the best thinking that has come before you? Seneca, on the same subject, wrote, “Men who have made these discoveries before us are not our masters, but our guides.”
 - How do you value your time? We can make more money; we can't make more time.
-- Charlie Munger, voracious reader, billionaire, and vice chairman of Berkshire Hathaway, once commented: “In my whole life, I have known no wise people (over a broad subject matter area) who didn’t read all the time – none, zero.”
+- Charlie Munger, voracious reader, billionaire, and vice chairman of Berkshire Hathaway, once commented: “In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time – none, zero.”
 
 # Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained)
 [Reference](https://www.fs.blog/mental-models/)
@@ -294,3 +294,10 @@
 - Double loop learning: pushing to the point of failure. Look at yourself inward and figure out the problems that you yourself cause. "If there is anything unique about the human animal, it is that it has the ability to grow knowledge at an accelerating rate while being chronically incapable of learning from experience."
 - *"If you learn to deal with failure, you can have a worthwhile career. You learn to breathe again when you embrace failure as a part of life, not as the determining moment of life."*
 - Are conventional work weeks the most effective way to structure work time?
+
+# The Disproportional Power of Anecdotes
+
+- We confuse the "now" with the "what always is", as if the immediate world before our eyes consistently represents the entire universe, leads us to bad conclusions and bad decisions.
+- We don't bother asking questions and verifying validity.
+- Public opinion: when we see a headline saying the state of affairs, we usually don't pause to question the validity of the methodology. How many people did they sample, how did they select them.
+- ***Generalization is a widespread human bias, which means a lot of our understanding of the world actually is based on extrapolations made from relatively sample sizes. Consequently, our individual behavior is shaped by potentially incomplete or inadequate facts that we use to make the decisions that are meant ot lead us to success.***
