@@ -209,3 +209,26 @@
   - Adopt this philosophy: it's just a part of life, like rocks or furniture. All of us have foolish sides anyway.
 
 # Awaken the Dimensional Mind: The Creative-Active
+
+- What impedes natural creative dynamics from flourishing is not a lack of talent, but your attitude. When you feel anxious and insecure, you will tend to turn conservative with your knowledge, preferring to fit into the group and sticking to the procedures you have learned.
+- Instead of feeling complacent about what you know, you must expand your knowledge in related fields, giving your mind fuel to make new associations between different ideas.
+  - We experience things so differently nowadays compared to how we experienced it back then. When we were younger, our minds were completely open, and we entertained all kinds of surprising, original ideas.
+  - When we come to see the world through a screen of different words and opinions, and we no longer look at things as they are, and our minds tighten up, we begin to think in a conventional mind.
+  - Sometimes, when we visit a different country, we cannot rely upon everything being familiar, so we become childlike again, struck by the oddness and newness of what we are seeing.
+- ***Masters and those who display a high level of creative energy are people who manage to retain a sizeable portion of their childhood spirit despite the pressures and demands of adulthood.*** This spirit manifests itself in their work and in their ways of thinking: children are naturally creative, they actively transform everything around them, play with ideas and circumstances, and surprise us with the novel ideas they say or do.
+  - Having a curious mind + adding years of apprenticeship + an ability to focus deeply on problems or ideas = high-level creativity. So you can have profound knowledge of a subject, and still be open to alternative ways of seeing and approaching problems.
+  - Masters can combine both discipline and a childlike spirit together into what we call the "Dimensional Mind". This mind is not constricted by limited experience or habits. It can branch out into all directions and make deep contact with reality.
+- Creative activity: Involves emotions, levels of energy, characters, and our minds. To make a discovery, to invent something that connects with the public, to fashion a work of art that is meaningful inevitably requires time and effort.
+- Captain Ahab: Obsessed with hunting down Moby Dick, which can withstand the setbacks and failures, the days of drudgery, and the hard work that is always a part of any creative action.
+- It's the choice of where to direct your creative energy that makes a master. Figuring out the electric light is not just a gimmick, but it's something that could eventually replace the gaslight, which required years of intense labor.
+- Your emotional commitment to what you are doing will be translated directly into your work. IF you go at your work with half a heart, it will show in the lackluster results and in the laggard way in which you reach the end.
+- ***If you're doing something primarily for money, it will translate into something that lacks a soul and has no connection to you. If your work comes from a place deep within, its authenticity will be communicated.***
+- Think of the mind as a muscle that naturally tightens up over time unless it is consciously worked upon.
+- Negative capability: enduring and embracing mysteries and uncertainties. Mozart: when he finally heard Bach's music, he didn't become defensive, he opened his mind up to new possibilities, studying Bach's use of counterpoint and absorbing it into its own vocabulary.
+- Develop the habit of suspending the need to judge everything that crosses your path. Consider and entertain viewpoints opposite to your own, observe people/events for a length of time, and seek out what is unfamiliar.
+
+- Adopting a kind of humility towards knowledge: scientific knowledge is constantly progressing. The greatest theories of the time are eventually disproven or altered at some future point. The human mind is simply too weak to have a clear and perfect vision of reality.
+- Serendipity: increasing the odds of chance encounters.
+- In the research stage of your project: look at more than what is generally required. The brain becomes increasingly excited and stimulated by the variety of information. Second step: maintaining an openness and looseness of spirit, doing activities outside your work, or think about something else, no matter how trivial.
+- Random external stimuli lead us to associations we cannot come by on our own. Ex: choosing random words to start a novel.
+- When weird shit happens, write them down. You keep the notebook wherever, and be careful to record ideas that come in moments of fringe awareness.
