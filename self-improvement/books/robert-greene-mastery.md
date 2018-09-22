@@ -232,3 +232,24 @@
 - In the research stage of your project: look at more than what is generally required. The brain becomes increasingly excited and stimulated by the variety of information. Second step: maintaining an openness and looseness of spirit, doing activities outside your work, or think about something else, no matter how trivial.
 - Random external stimuli lead us to associations we cannot come by on our own. Ex: choosing random words to start a novel.
 - When weird shit happens, write them down. You keep the notebook wherever, and be careful to record ideas that come in moments of fringe awareness.
+- People either:
+  - Observe some phenomenon, run rampant with speculation, and then try like whatever.
+  - Be afraid to speculate: this seems unscientific or non-subjective.
+- Many people have great ideas, but are afraid to put them into action in any form. They prefer to engage in discussions of critiques, writing about their fantasies but never playing them out in the real world.
+- Buckminster Fuller: Just keeps on making prototypes anyway.
+- Visual thinking: most mathematicians think in terms of images, creating a visual equivalent of the theorem they are trying to work out.
+  - Human working memory is limited. We can only keep in mind several pieces of information at the same time: so more things can be seen through an image than through words.
+  - Ex: Charles Darwin's Tree of Evolution.
+  - Try to think of like everything that you need to start being creative, ex: Einstein had a ball that he can squeeze, Samuel Johnson had a cat that he can stroke.
+- Deadlines: Deadlines usually make you be your best self.
+
+# VI: Fuse the Intuitive with the Rational: Mastery
+
+- Seeing more, "intuition": we usually disregard this because we recognize only one form of thinking and intelligence: rationality.
+- They key then to attaining this higher level of intelligence is to make our years of study qualitatively rich. We don't simply absorb information, we internalize it and make it our own by finding some way to put this knowledge to practical use.
+- Proust: He did not just read books, he took them apart, analyzed them, and learned valuable lessons to apply to his own life. He didn't merely socialize, he strained to understand people at their core and to uncover their secret motivations. He didn't just analyze his own psychology, but he went into the various levels of consciousness he found within himself that he developed insights about the functioning of memory that foreshadowed many discoveries in neuroscience.
+- Maintain a sense of destiny, and feel continuously connected to it. You are unique, and there is a purpose to your uniqueness. See every setback, failure, or hardship as a trial along the way, as seeds being planted for further cultivation, if you know how to grow them.
+- No moment is wasted if you pay attention and learn the lessons contained in every experience.
+- People who spend years studying a particular subject or field develop so many of these memory networks and pathways that their brains are constantly searching for and discovering connections between various pieces of information.
+- ***High-level intuition requires practice and experience.*** At first, our intuitions might be so faint that we do not pay attention to them or trust them, but over time, they learn to notice these rapid ideas that come to them. Accessing this level of thinking on a more regular basis, they can fuse it even more deeply with their rational forms of thinking.
+- This intuitive form of intelligence was developed to help us process complex layers of information and gain a sense of the whole. And in the world today, the need to attain such a level of thinking is more critical than ever before.
