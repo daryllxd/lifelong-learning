@@ -253,3 +253,7 @@
 - People who spend years studying a particular subject or field develop so many of these memory networks and pathways that their brains are constantly searching for and discovering connections between various pieces of information.
 - ***High-level intuition requires practice and experience.*** At first, our intuitions might be so faint that we do not pay attention to them or trust them, but over time, they learn to notice these rapid ideas that come to them. Accessing this level of thinking on a more regular basis, they can fuse it even more deeply with their rational forms of thinking.
 - This intuitive form of intelligence was developed to help us process complex layers of information and gain a sense of the whole. And in the world today, the need to attain such a level of thinking is more critical than ever before.
+- Life being interrelated:
+  - Divisions between fields, or having narrow specializations?
+  - Connections to everything, pursue knowledge far enough that these associations come to life. Stoicism, Renaissance man.
+- If we are learning a complex skill, we must master a series of simple skills, one on top of the other. Each time one skill becomes automatic, the mind is freed up to focus on the higher one. At the end of this process, when there are no more simple skills to learn, the brain has assimilated an incredible amount of information, all of which has become internalized, part of our nervous system.
