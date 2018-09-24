@@ -301,3 +301,15 @@
 - We don't bother asking questions and verifying validity.
 - Public opinion: when we see a headline saying the state of affairs, we usually don't pause to question the validity of the methodology. How many people did they sample, how did they select them.
 - ***Generalization is a widespread human bias, which means a lot of our understanding of the world actually is based on extrapolations made from relatively sample sizes. Consequently, our individual behavior is shaped by potentially incomplete or inadequate facts that we use to make the decisions that are meant ot lead us to success.***
+
+# Winner Takes it All: How Markets Favor the Few at the Expense of the Many
+[Reference](https://fs.blog/2018/09/mental-model-winner-take-all/)
+
+- Over time, most industries will see a few number of companies that dominate it. (Meaning they are not necessarily the only company, but they are able to control the market.) In a winner-take-all market, the winners have tremendous power to dictate outcomes.
+- Almost always, resources are never distributed evenly among people (Pareto Principle).
+- People at the top of their fields get it all: power law.
+- In winner-take-all markets, the inputs don't match the outputs.
+- Feedback loops: we buy the best-selling book because it's a best-selling book. Same with profits and companies attracting the better talent.
+- When a new market appears, ents rush to create products, services, or technology. With time, customers gravitate toward the two or three companies they prefer.
+- On data: the more data a company has on its customers, the better equipped it is to release new products and market existing ones.
+- For most of history, comedians, musicians, athletes performed live, and there was a limit to the shows they can do a year. Now, we offer further incentives to pay attention only to the winners.
