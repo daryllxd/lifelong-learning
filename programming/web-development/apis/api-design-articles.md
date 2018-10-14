@@ -3,7 +3,7 @@
 
 - Since programmers have technical sophistication, they are likely to be as critical of your API as you would be of theirs, and they will enjoy critiquing it.
 - API designers: "what does this need to do", API users: "how can I spend the bare minimum of effort to get what I need out of this API?"
-- *Ask yourself the questions you would ask if you were your own user.*o
+- *Ask yourself the questions you would ask if you were your own user.*
 
 ### Rules
 
