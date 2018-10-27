@@ -80,3 +80,33 @@
 - ***Google and Facebook are predicated on doing things for the user, just as MS and Apple have been built on enabling users and developers to make things completely unforeseen.***
 - On scrutiny: G and F are accountable to no one. Both deserve all of the recent scrutiny they have attracted, and arguably deserve more.
   - Platforms create new possibilities.
+
+# Notes to Myself on Software Engineering
+[Reference](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4)
+
+- Code is also a means of communication across a team, a way to describe to others the solution to a problem. *Readable code is not a nice-to-have, it's a fundamental part of what writing code is about.* This involves factoring code clearly, picking self-explanatory variable names, and inserting comments to describe anything that's implicit.
+- Taste applies to code, too. Taste is a constraint-satisfaction process regularized by a desire for simplicity. Keep a bias toward simplicity.
+- Each feature has a cost: maintenance, documentation, cognitive cost.
+- *Make sure you are in an environment where you can code with confidence, if that isn't the case, start by focusing on building the right infrastructure.*
+- Good software makes hard things easy. Just because a problem looks difficult at first doesn't mean the solution will have to be complex or hard to use. Make sure that your solution of choice cannot be made any simpler.
+- ***Avoid implicit rules. Implicit rules that you find yourself developing should always be made explicit and shared with others or automated.*** Whenever you find yourself coming up with a recurring, quasi-algorithmic workflow, you should seek to formalize it into a documented process, so that other team members will benefit from the experience.
+- Beyond the metrics you are monitoring, what total impact does your software have on its users, on the world? Are there undesirable side effects that outweigh the value proposition?
+
+## On API Design
+
+- In decisions you make, always keep the user in mind: have empathy for your users, whether they are beginners or experienced developers.
+- Always seek to minimize the cognitive load imposed on your users in the course of using your API. Automate what can be automated, minimise the choice needed from the user, don't expose options that are unimportant.
+- Seek to have an API that matches the mental models of domain experts and practitioners. Someone who has domain experience should be able to intuitively understand your API using minimal documentation, mostly just by looking at a couple of code examples.
+- *A good API is modular and hierarchical: easy to approach, yet expressive.* There is a balance to strike between having complex signatures on fewer objects, and having more objects with simpler signatures.
+- Your API is inevitably a reflection of your implementation choices, in particular your choice of data structures.
+- Design end-to-end workflows, not a set of atomic features: instead of asking what to implement/what config to add, ask: what use case for the tool do we want? For each use case, what is the optimal sequence of use actions?
+- Error message: part of the API. Design your API's error messages deliberately.
+- Documentation should not talk about how the software works, it should show how to use it.
+
+## Software Careers
+
+- Career progress is not how many people you manage, it's about how much of an impact you make: the difference between a world with and without your work.
+- Software development is teamwork; it's about relationships as much as it is about technical ability. Be a good teammate. As you go on your way, stay in touch with people.
+- ***Self-direction is the key to life satisfaction. Make sure you grant sufficient self-direction to the people around you, and make sure your career choices result in greater agency for yourself.***
+- ***Productivity boils down to high velocity decision-making and a bias for action. This requires good intuition (comes from experience, so as to make generally correct decisions given partial information), a keen awareness of when to move more carefully and wait for more information, because the cost of an incorrect decision would be greater than the cost of the delay.***
+- Making decisions faster means you make more decisions over the course of your career, which will give you a stronger intuition about the correctness of available options.
