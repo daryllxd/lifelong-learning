@@ -110,3 +110,22 @@
 - ***Self-direction is the key to life satisfaction. Make sure you grant sufficient self-direction to the people around you, and make sure your career choices result in greater agency for yourself.***
 - ***Productivity boils down to high velocity decision-making and a bias for action. This requires good intuition (comes from experience, so as to make generally correct decisions given partial information), a keen awareness of when to move more carefully and wait for more information, because the cost of an incorrect decision would be greater than the cost of the delay.***
 - Making decisions faster means you make more decisions over the course of your career, which will give you a stronger intuition about the correctness of available options.
+
+# Sprints, marathons, and root canals
+[Reference](https://gojko.net/2018/08/30/sprints-marathons-root-canals.html)
+
+- Modern software delivery relies on close customer collaboration and transparency.
+- Tech work will always get postponed in favor of the stuff that actually brings in the money.
+- A lot of work looks important to those people working on software, but not to those who pay them. Teams look for ways to sell technical stuff, under the mystical spell of quality. This is wrong, and no wonder it rarely brings results.
+- Sprints have now taken on a dangerous literal meaning (short burst of full speed). Software sprints rarely have any breaks or recovery time.
+- If there is a racing metaphor for software product delivery, it would be a marathon, not a sprint. Building a successful product is a long and exhausting process.
+- Software: finite and infinite games, there are those with end states and those without.
+- Sustainability tasks are quite different from those of business features.
+  - For typical biz features, people can make some solid assumptions about the expected value.
+  - Sustainability: the value is at some unknown point in the future.
+- Performance improvements: no value until we hit the system capacity.
+- System observability: no value until we get data loss.
+- Instead of persuading stakeholders to see something that you can't even put into words, just ask them whether the product needs to be sustainable in the medium to long term.
+- Just put sustainability tasks in the backlog.
+- Sustainability budget: these come from ad hoc cleanups, technical debt sprints, refactoring iterations. Add up cleanup time that you spent last year and just say that that's the budget.
+- Batman role: a role to deal with organizational emergencies and support requests so that the other programmers can focus on programming.
