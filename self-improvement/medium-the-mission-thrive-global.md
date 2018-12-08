@@ -1048,3 +1048,24 @@
   - When they tried testing with a far larger set of emotions, the simple classification won out. It's both easier to use and more universal, at the expense of cultural and personal variation.
   - Wut → "Countries that expressed the most "happiness" were not actually the happiest in real life, instead, it was the countries that used the widest array of stickers that did better on various measures of societal health and well-being".
 - At around 2015, there was less discussion happening on Facebook walls, reactions became simple Emojis and simple reactions.
+
+# Why We Are Feeling Lonelier Than Ever
+[Reference](https://medium.com/personal-growth/why-we-are-feeling-lonelier-than-ever-ffdb9083b2c4)
+
+- Dostoevsky: A theme in his novels is about how individuals deal with themselves when they have done something of consequence. (Guilt, loneliness, isolation).
+- How does the mind make sense of ideas of belonging, connection, and meaning.
+- *"Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others."*
+- "loneliness" the concept popped up in the 16th century.
+- We live in a world of increasing cultural complexity. People were fairly similar back in villages. Now, diversity.
+- Everyone was formed differently, and that means it's hard to find people who think and understand like us.
+- Whenever a character deals with committing a crime or with knowingly causing suffering, it's never the outer reality that punishes them, it's their own psyche.
+- The realization that someone can never be fully be honest with someone else makes them feel alone and isolated.
+- Online: you are different person at home than at work, online than offline, in one subculture vs another one.
+- Due to various social norms, we have to hide some parts of ourselves in front of certain people and in certain places. These lies begin to build on top of each other.
+- *True connection: showing your whole self, as they show theirs, simply accepting that not everyone is going to relate to it.*
+- The irony: it takes a lot of isolation and solitude to develop the self-awareness to see that all of this is playing out beneath the surface.
+- Instead of managing your image, you are forced to reckon with the person behind the appearances: the lies you tell both yourself and other people, the shame you feel, and everything else that your mind hides from you.
+- Real honesty and a lasting connection require the participation of two reciprocating parties willing to bare themselves, which isn't up to you, but it has to start with how you relate to yourself.
+- *Any time a character gives in to the guilt of their falsehoods and remove the psychological burden that weights down their life, they find themselves feeling freer than they had been before, even if they are punished for their confessions later on.*
+- "Perhaps one did not want to be loved so much as to be understood."
+- Limiting our life to those who care and those who value our relationship could minimize the pain of reconciling multiple identities.
