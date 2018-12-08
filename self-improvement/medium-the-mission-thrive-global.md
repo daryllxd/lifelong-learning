@@ -1069,3 +1069,14 @@
 - *Any time a character gives in to the guilt of their falsehoods and remove the psychological burden that weights down their life, they find themselves feeling freer than they had been before, even if they are punished for their confessions later on.*
 - "Perhaps one did not want to be loved so much as to be understood."
 - Limiting our life to those who care and those who value our relationship could minimize the pain of reconciling multiple identities.
+
+# What can I start today that will benefit me for a lifetime?
+[Reference](https://medium.com/the-mission/what-can-i-start-today-that-will-benefit-me-for-a-lifetime-6c41dcbc8a00)
+
+- Optimum performance: can be limited by a lack of infrastructure.
+- Personal infrastructure:
+  - Health
+  - Good habits
+  - Growth mindset
+  - Conscience
+  - Peace of mind
