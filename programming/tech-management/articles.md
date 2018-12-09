@@ -40,3 +40,29 @@
 
 - 30% longer with TDD, but reduce production bug density by 40-80%.
 - Fixing a production bug costs 100x more than fixing a bug at design time, and over 15x more than fixing a bug at implementation time.
+
+# How to get a Team Lead job
+[Reference](https://hackernoon.com/how-to-get-a-team-lead-job-2c47d8fee618)
+
+- Tech lead: tech agenda, coding. Gets work done and networks only when needed.
+- Team lead: middle of tech lead and engineering lead, sometimes coding.
+- Engineering manager: long-term team success, managing direct reports, almost no coding.
+- Team lead: negative communication and process changes go to you first, then you filter them and take actions accordingly. Enjoy growing people, identifying personal agendas, and helping them achieve it by crushing obstacles.
+- Developing soft skills: organizing people to achieve big goals together.
+- Micromanagement stalls work, and you must promote ownership and autonomy.
+- Prerequisite: being senior. A popular blog, project, and mentoring practice.
+- Hard skills: software development. Soft skills: self-management, strategy, working with people, resource management, analysis/decisions making.
+
+# Seniority
+[Reference](http://merowing.info/2017/01/seniority/)
+
+- Tech skills come to you naturally with years.
+- Reliable: being able to gauge when your pieces of the puzzle are ready. Seniors are proactive and do not sit on their hands until they are assigned new tasks.
+- Accountable: making mistakes and hitting roadblocks is normal. More experienced people know that when it happens, they should let other people know.
+- Flexible: Languages and frameworks will always change per career.
+- Pragmatic: delivering things matters. The business side matters.
+- Working with others.
+  - Leading by example.
+  - Listening and learning from others. Do not leverage your power or seniority. Use factual arguments. Avoid being reactive. Discussions can get heated, but a professional understands that a critique of an idea is not the same as the critique of a person.
+  - Mentoring: everyone should be comfortable asking me questions, whether it's learning how to do something or questioning my decisions. Awful managers make people afraid to ask questions. The mythical 10x engineer helps other people grow.
+  - Wanting to fight for a healthy team culture: if someone is misbehaving, do not be afraid to speak up.
