@@ -26,3 +26,13 @@ Thank you for your consideration and I look forwards to hearing from you soon.
 
 Sincerely, Developer Davo
 ```
+
+# Ask HN: Cover letter techniques for software development positions.
+[Reference](https://news.ycombinator.com/item?id=1783915)
+
+- Write like you speak, informal, but not too casual. Right to the point; the first sentence is your summary.
+- No BS, tightly targeted, perfect spelling/grammar. Highlight what's important to them. Enthusiastic, without sounding phony.
+- Have friends read it.
+- What makes you so special?
+- Strong finish with CTA.
+- What side projects did you do that were so cool? Why are you applying for THIS job?
