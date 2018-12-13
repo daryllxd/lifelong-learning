@@ -26,3 +26,20 @@
   - *When something fails, you have to look at it each time it fails, while ignoring the many times it doesn't fail. The key is to capture information on every run so you can look at it after you know that it's failed.*
 
 # Quit Thinking and Look
+
+- Looking is often more complicated than thinking: in the software world, looking means putting in breakpoints, adding debug statements, monitoring program values, and examining memory.
+- Whenever someone says "I bet it's the ...", always take that bet, lol.
+- *See the failure. Many problems are easily misinterpreted if you can't see all the way to what's actually happening.*
+- Ex: Actually look at what happened.
+- As you make and chase bad guesses, you'll get a feel for how deep you have to see in a given case.
+- Instrumenting the system: during design, build in tools that will help you see what's going on inside.
+- Think about debugging right from the start of the design process. Make sure that instrumentation is part of the product requirements.
+- Look at: variables, pointers, buffer levels, memory allocation, event timing relationships, semaphore flags, error flags. Function calls and exits, along with parameters and return values. Commands, data, window messages, network packets. Get the details.
+- Guess only to focus the search - you still have to confirm that your guess is correct by seeing the failure before you go about trying to fix the failure.
+  - You can try your guess if that problem is both very likely and very easy to fix. It's like just checking if you have a bad light bulb first rather than checking if you have a bad switch.
+
+# Divide and Conquer
+
+- **Reassembling any more than is absolutely necessary before testing makes it probable that you have not fixed the problem and will have to disassemble everything again, with a probability that increases in proportion to the amount of reassembly effort involved.**
+- Successive approximation: you want to find something within a range of possibilities, so you start at one end of the range, then go halfway to the other end and see if you're past it or not. If you're past it, you go to one-fourth and try again.
+- Inject easy-to-spot patterns such as `console.log('............')`.
