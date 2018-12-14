@@ -87,7 +87,6 @@
   - Data lifecycle (Redis/Memcached?)
   - Data size.
 
-
 # Musings on Microservices, Hanami
 
 - [Reference](https://boffinism.com/why-hanami-will-never-unseat-rails/)
@@ -96,4 +95,37 @@
   - So why does Hanami have little bits of magic in it? Well, the primary answer is that Hanami isn't trying to unseat Rails. They’re trying to create the best framework for Rubyists, and aren’t bothered about whether everyone and their dog adopts them.
 - [`EditingPublishingSeparation`](https://martinfowler.com/bliki/EditingPublishingSeparation.html)
   - CMS: Different patterns for reading and editing.
+
+# Event-Driven Microservices
+[Reference](https://drive.google.com/file/d/1JfuqtyzMf17IJctTxq-CwBWhgc3fbUeE/view)
+
+- Risks to agility:
+  - Distributed systems are brittle
+  - Integration with ecosystems
+  - A lack of service harmony
+- Reactive/event-driven architecture.
+- The fallacies of distributed computing:
+  - The network is reliable.
+  - Latency is zero.
+  - Bandwidth is infinite.
+  - The network is secure.
+  - Topology doesn't change.
+  - There is just one admin.
+  - Transport cost is zero.
+  - The network is homogeneous.
+- The smaller you make each microservice, the higher your service count, and the more the fallacies of distributed computing impact stability.
+- Idea: smart endpoints, dumb pipes.
+- What's hard re: integrating MS to existing systems:
+  - Updates to legacy systems are slow, but microservices need to be fast and agile.
+  - Different communication mediums.
+  - Legacy systems are nearly always on premise and at best use virtualization. MSes almost always are on clouds.
+  - Mobile requests may use REST, but they also require asynchronous communication, and most API gateways only support synchronous RESTful interactions.
+- Events should be the one at the center of the microservices universe. This is because ALL interactions with the databases are performed by command-style interactions!
+- Choreography (event stream in the middle) vs orchestration (services interacting with each other).
+  - Better agility: teams are less impacted by changes to other services.
+  - Services are smaller/simpler: Each service is not required to have complex error handling for downstream service or network failures.
+  - Enables fine-grained scaling.
+  - Easier to add. A new service can come online, consume events, and implement new functionality, without changes to any other service.
+
+- Microservices: API Gateways.
 
