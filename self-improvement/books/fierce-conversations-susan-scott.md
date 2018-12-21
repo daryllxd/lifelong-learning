@@ -134,3 +134,86 @@
   - If you feel that a conversation is needed, it usually is.
 - Eye contact. Call out people if they are not looking at you. "If you aren't looking at the people n your team when you're talking with them, they may feel they're invisible to you. They may feel devalued. Is that what you want?
 - Don't just listen to words. Listen to the whole person.
+- Preparing to have a Fierce Conversation
+  - *When we meet tomorrow, I want to explore with you whatever you feel most deserves our attention, so I will begin by asking, "What is the most important thing you and I should be talking about?" I will rely on you to tell me. If the thought of bringing up an issue makes you anxious, that's a signal you need to bring it up.*
+  - People will be suspicious, and that's when you have to say that you're important, and we have to stick to this project.
+  - Reality will be interrogated. Much better than being blindsided by surprises down the road. The relationship being enriched: we have to give another the purity of your attention, not your advice.
+  - One-to-ones should be held often. Optimum time is once a month for one hour.
+  - You have to ask the person what they are feeling. When they get into the emotional part of things is when they light the match that propels them into action.
+  - *Don't take the problem away from someone. "I'll share my opinion before we end our conversation, but right now, let's keep exploring yours."*
+  - Not inquiring about emotions: "What do you feel?"
+  - If you have a request, make sure your partner hears and understands it. Don't leave it open for interpretation.
+  - Allowing interruptions: turn off or mute your cell phone.
+- ***Schedule a one-to-one with someone with work and someone at home. What is the most important thing you and I should talk about today?***
+
+## Mineral Rights, a Simplified Version
+
+- *What is the most important thing you and I should be talking about?*
+- *Describe the issue, what's going on relative to so-and-so?*
+- *How is this currently impacting you? Who or what else is being impacted? (Emphasis on currently).*
+- *If nothing changes, what are the implications? Imagine it is a year later and nothing has changed, what is likely to happen?*
+- *How have you helped create the issue or situation, and if you don't know, what would it be if you did know?*
+- *What is the ideal outcome? When this is resolved, what difference will that make?*
+- *What's the most potent step you can take to being to resolve this issue? What exactly are you committed to do and when?*
+
+## Debriefing
+
+- Was I genuinely curious about this person and his or her reality?
+- Did I work to understand what the relationship is from where he or she stands?
+- Did I slow the conversation down and really probe?
+- Did emotions get expressed, as well as issues and solutions?
+- Did I ask this person to say more about any emotions they expressed?
+- What parts of me failed to show up?
+- Who did the most talking? It should be them.
+
+## Other Good Questions
+
+- What has become clear since we last met?
+- What is the area that, if you made an improvement, would give you and others the greatest return on time, energy, and dollars invested?
+- What is currently impossible to do that, if it were possible, would change everything?
+- What are you trying to make happen in the next three months?
+- What’s the most important decision you’re facing? What’s keeping you from making it?
+- What topic are you hoping I won’t bring up?
+- What area under your responsibility are you most satisfied with? Least satisfied with?
+- What part of your responsibilities are you avoiding right now?
+- Who are your strongest employees? What are you doing to ensure that they’re happy and motivated?
+- Who are your weakest employees? What is your plan for them?
+- What conversations are you avoiding right now?
+- What do you wish you had more time to do?
+- What things are you doing that you would like to stop doing or delegate to someone else?
+- If you were hired to consult with our company, what would you advise?
+- If you were competing against our company, what would you do?
+- What threatens your peace? What threatens the business? Your health? Your personal fulfillment?
+
+- What most people do when they are told that "I have this issue" is that they jump in with a solution. If you have a good story, just tell it after the companion has answered "What's your next step?"
+
+# Tackle Your Toughest Challenge Today
+
+- Hire attitude. Train skill. What attitudes do we want that will lead to success in our company? To what degree do our employees exhibit these attitudes? To what degree am I and other leaders exhibiting these attitudes?
+- It just doesn't make sense to wait six to twelve months for a formal performance review to learn how you're doing, if you knew at all times how you were doing in the eyes of your boss/colleagues/customers.
+- Important things to think about:
+  - What am I paid to do?
+  - What are obvious issues that get into the way of doing good work?
+  - When and how do we need to have clear expectations about priorities?
+  - How close of a fit am I in the role that I am in right now?
+  - Do they know what I am adding to the organization?
+  - What types of recognition are meaningful to me?
+- On giving feedback:
+  - Describe the when and the where and the what. Like even after the meeting.
+- On receiving feedback:
+  - We take it personally, because it IS personal. We know at some point that our work and our personal selves are intertwined.
+  - Stay present and ask questions. Lean in, get curious, and ask clarifying questions so that we more fully understand the feedback.
+  - *Ask for clarifications, listen to specifics, let them finish their thoughts, present your thoughts without defense or blame, take responsibility for the impact, if you get triggered, admit it, paraphrase what you heard and discussed, and commit to action in the areas you wish to change and ask for support.*
+- People who respond well to feedback tend to be looked upon favorably within an organization.
+
+## Statements
+
+- Name the issue. "I want to talk with you about the effect..."
+- Select a specific example that illustrates the behavior or situation you want to change: "For example..."
+- Describe your emotions about this issue: "I feel..."
+- Clarify what's at stake: "I want to share with you what's at stake..."
+- Identify your contribution to this problem: "I recognize my contribution to this issue in that..."
+- Indicate your wish to resolve the issue: "I want to resolve this issue, the effect that..."
+- I want to learn your perspective. What's going on from where you sit?
+
+# Obey Your Instincts
