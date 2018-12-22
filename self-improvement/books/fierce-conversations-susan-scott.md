@@ -217,3 +217,34 @@
 - I want to learn your perspective. What's going on from where you sit?
 
 # Obey Your Instincts
+
+- Audit: in talks, what did you think, but not say? Sometimes, we don't know what we think until we hear ourselves say it aloud.
+- Mind-body connection: listen to your personal insights about what you need to do. And take actions on those insights as soon as possible.
+- We are too careful, and we are too nice. It's bad to be "playing it safe". A marriage/career/life with no controversy is nothing to be proud of. You cannot hope for accolades without being willing to bear the scars required to win them.
+- Conduct an integrity scan: what are your values?
+- This is your life. Look for the words that speak to you, that wake you up. Don't worry about what anyone thinks of your list of values.
+- People yearn to be connected to something of substance.
+
+# Take Responsibility for Your Emotional Wake
+
+- Emotional wake: what you remember after I'm gone after a conversation.
+- Text: Do use it to communicate logistics/directives, share small praises/appreciation, connect on special occasions, talk through scenarios. Don't use it to convey more than three sentences of thoughts at a time, talk about complex topics, share confidential information, and confront someone.
+
+# Let Silence Do th Heavy Lifting
+
+- Think about this:
+  - There are no undiscussables in our company/family.
+  - There are no hidden agendas in our company/family.
+  - During meetings, we say what we think, invite differing views, and explore one another's thinking.
+  - There is permission in our company/family for everyone to show up.
+
+# Conclusion
+
+- Great questions to jump-start a fierce conversation:
+  - What's the most important thing we should be talking about today?
+  - What topic are you hoping I won't bring up? And what topic am I hoping you won't bring up?
+  - What do we believe is impossible to do, that if we were able to do, it would completely change the game? How can we pull this off?
+  - What values do we stand for, and are there gaps between those values and how we actually behave?
+  - What is our organization pretending not to know? What are we pretending not to know?
+  - What's the most important decision we're facing, and what's keeping us from making it?
+  - If we were hired to consult to our company, what advice would we give?
