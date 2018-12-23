@@ -39,3 +39,32 @@
 - **Whoever you're dealing with, your goal is to make them watch you achieve what they could never have done themselves. You want them thinking about how amazing you are. Take their negativity and use it to dominate their task with everything you've got. Take their motherfucking soul!**
 
 # Armored Mind
+
+- My disadvantages had been callousing my mind all along and had prepared me for that moment in that pool with Psycho Pete.
+- Remembering what you've been through and how that has strengthened your mindset can lift you out of a negative brain loop and help you bypass those weak, one-second impulses to give in so you can power through obstacles.
+- Whenever you decide to follow a dream, you are likely to come up with all the reasons why the likelihood of success is low. Don't let doubt into the cockpit. Tolerate doubt as a backseat driver, but if you put doubt in the pilot's seat, defeat is guaranteed.
+- *Physical training is the perfect crucible to learn how to manage your thought process because when you're working out, your focus is more likely to be single pointed, and your response to stress and pain is immediate and measurable.*
+- The reason it's important to push hardest when you want to quit the most is because it helps you callous your mind.
+- Your character is your foundation, and when you build a bunch of successes and failures on a fucked-up foundation, the structure that is the self won't be sound. To develop an armored mind, you need to go to the source of all your fears and insecurities.
+- Only when you identify and accept your weaknesses will you finally stop running from the past. Then, these incidents can be used more efficiently as fuel to become better and grow stronger.
+- Visualize overcoming or achieving an obstacle. What does success look like? I'll think about it every day and that feeling propels me forward when I'm training, competing, or taking on any task I choose.
+- The simple things: why are you doing this? What is driving you toward this achievement? Where does the darkness you're using as fuel come from? What has calloused your mind?
+- Visualization will never compensate for work undone. You cannot visualize lies. It takes relentless self-discipline to schedule suffering into your day, every day, but if you do, you'll find that at the other end of that suffering is a whole other life just waiting for you.
+
+# It's Not About a Trophy
+
+- Cookie jar - your small victories are your cookies to savor, and make sure you do savor them. Celebrate your successes.
+- When sit gets real, we need to draw inspiration to push through our own exhaustion, depression, pain, and misery. We need to spark a bunch of small fires to become the motherfucking inferno.
+- If I could run 101 miles with zero training, imagine what I could do with a little preparation.
+- Cookie jar: not just the good parts, but the life obstacles you've overcome as well. Feel what it was like to overcome those struggles, those opponents, and win. Then get to work.
+
+# The Most Powerful Weapon
+
+- Remember that your initial blast of pain and fatigue is the governor talking. Once you do that, you are in control of the dialogue in your mind, and you can remind yourself that you are not as drained as you think. That you' haven't given it your all.
+- Goggins' laws of nature:
+  - You will be made fun of.
+  - You will feel insecure.
+  - You may not be the best all the time.
+  - You may be the only so-and-so in a given situation.
+  - There will be times when you feel alone.
+- Get over it. Our minds are strong, they are our most powerful weapon. If you want to be one of the few to defy the trend of being less capable than someone before us, you have to be willing to go to war with yourself and create a whole new identity, which requires an open mind.
