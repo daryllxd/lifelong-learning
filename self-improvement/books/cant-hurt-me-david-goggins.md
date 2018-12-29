@@ -68,3 +68,45 @@
   - You may be the only so-and-so in a given situation.
   - There will be times when you feel alone.
 - Get over it. Our minds are strong, they are our most powerful weapon. If you want to be one of the few to defy the trend of being less capable than someone before us, you have to be willing to go to war with yourself and create a whole new identity, which requires an open mind.
+
+# Talent Not Required
+
+- I wanted to be around people who thought and trained uncommon 24/7, not just when duty called.
+- Talent wasn't required for this sport. It was all about heart and hard work, and it delivered relentless challenge after relentless challenge, always demanding more.
+- You never know who you're affecting. What does it take to reach your full potential?
+- ***Our culture has become hooked on the quick-fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort. This will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you'll have to become addicted to hard work. Because passion and obsession are only useful tools if you have the work ethic to back them up.***
+- To me, a forty-hour week is a 40 percent effort. Streamline your nutrition, schedule your life like you're on a twenty-four-hour mission every single day.
+- ***Evaluate your life in its totality. We all waste so much time doing meaningless bullshit. We burn hours on social media and television, which by the end of the year adds up to entire days and weeks if you tabulated time like you tabulated taxes.***
+- Analyze your schedule: kill your empty habits, burn out the bullshit, and see what's left. Is it one hour per day? Three? Maximize that shit. List your prioritized tasks for every hour of the day.
+- Audit your life, skip the bullshit. You'll have time to do everything you need and want to do. Sneak in your small naps, but if it's a rest, then truly allow your mind and body to relax.
+- I work out not for the athletic motive, but to prepare my mind for life itself. Life will always be the most grueling endurance sport, and when you train hard, get uncomfortable, and callous your mind, you will become a more versatile competitor, trained to find a way forward, no matter what.
+- Compartmentalize your day:
+  - Go about your normal schedule and log everything down. When do you work, how long are your meal breaks, when do you exercise, when do you watch TV, and when do you chat with friends? How long is your commute? Be detailed with EVERYTHING.
+  - Optimal schedule, 15-30 minute blocks.
+  - Make sure your meal breaks are adequate but not open-ended, and schedule in exercise and rest too.
+
+# Uncommon Amongst Uncommon
+
+- "Goggins, you are the type of motherfucker who wishes you were a POW just to see if you have what it takes to last."
+- ***No matter who you are, life will present you with similar opportunities where you can prove to be uncommon. There are people in all walks of life who relish those moments, and when I see them, I recognize them immediately, because they are usually the motherfucker who's all by himself. It's the suit who's still at the office at midnight while everyone else is at the bar, or the badass who hits the gym directly after coming off a forty-eight-hour op.***
+- All the world, amazing human beings like that exist. It doesn't take wearing a uniform. It's not about all the hard schools they graduated from, all their patches and medals. It's about wanting it like there's not tomorrow, because there might not be. One of those ethics is the drive to turn every negative into a positive, and then when shit starts flying, being prepared to lead from the front.
+- A true leader stays exhausted, abhors arrogance, and never looks down on the weakest link. He fights for his men and leads by example. That's what it takes to be uncommon among uncommon. It means being one of the best and helping your men find their best, too.
+- Starting at zero is a mindset that says my refrigerator is never full, and it never will be. We can always become stronger and more agile, mentally and physically. We can always become more capable and more reliable. There is always more work to do.
+- ***Always be willing to embrace ignorance and become the dumb fuck in the classroom again, because that is the only way to expand your body of knowledge and body of work. It's the only way to expand your mind.***
+- ***We didn't care about muscle fatigue or breakdown because at a certain point, we were training our minds, not our bodies. My workouts weren't designed to make us fast runners or to be the strongest men on the mission. I was training us to take torture so we'd remain relaxed in extraordinarily uncomfortable environments.***
+- I continually put myself in situations where I know I will encounter prejudice. I brought the war to people and watched my excellence explode small minds. I didn't sit back and cry about being the only. I took action, said go fuck yourself, and used all the prejudice I felt as dynamite to blow up those walls.
+
+# The Empowerment of Failure
+
+- A lot of us surround ourselves with people who speak to our desire for comfort. Who would rather treat the pain of our wounds and prevent further injury than help us callous over them and try again. We need to surround ourselves with people who will tell us what we need to hear, not what we want to hear, but at the same time not make us feel we're up against the impossible.
+- You cannot let a simple failure derail your mission, or let it worm so far up your ass it takes over your brain and sabotages your relationships with people who are close to you.
+- Everyone fails sometimes and life isn't supposed to be fair, much less bend to your every whim.
+- ***Your entitled mind is dead weight. Cut it loose. Don't focus on what you think you deserve. Take aim on what you are willing to earn!***
+- Tactical review: the final and most vital piece of any live autopsy or AAR.
+- After logging more than 67K pull-ups in nine months, it was time to put them in my Cookie Jar and move on. Because life is one long motherfucking imaginary game that has no scoreboard, no referee, and isn't over until we're dead and buried.
+- ***All I'd ever wanted from it was to become successful in MY own eyes. That didn't mean wealth or celebrity, a garage full of hot cars, or a harem of beautiful women trailing after me. It meant becoming the hardest motherfucker who ever lived. Only the game wasn't over, and being hard came with the requirement to drain every drop of ability from my mind, body, and soul before the whistle blew.***
+- Think about your most recent and your most heart-wrenching failures. Write down After Action Reports.
+- Write our all the good things, everything that went well, from your failures. A lot of good things happened. Then note how you handled your failure. Did it affect your life and your relationships? How so?
+- How did you think throughout the preparation for and during the execution stage of your failure? You have to know how you were thinking at each step because it's all about mindset, and that's where most people fall short.
+- Then, be brutally honest and make a list of things you can fix.
+- DOMINATE YOUR THOUGHT PROCESS. THIS LIFE IS ALL A FUCKING MIND GAME. REALIZE THAT. OWN IT!
