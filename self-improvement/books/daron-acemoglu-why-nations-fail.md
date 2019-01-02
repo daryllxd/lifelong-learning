@@ -42,3 +42,39 @@
 - ***Powerful groups often stand against economic progress and against the engines of prosperity. Growth move forward only if they are not blocked by the economic losers who anticipate that their economic privileges will be lost, and by the political losers who fear that their political power will be eroded.***
 - 16th Century Congo: Extractive economic institutions that blocked all the engines of prosperity.
 - Extractive political institutions and growth: possible when the elites can directly allocate resources to high-productivity activities that they themselves control (ex: slavery and plantations, people were poor, but sugar was expensive).
+
+# Small Difference and Critical Junctures: The Weight of History
+
+- Black Plague: actually affected Europe's feudal society. The king owned the land and he granted it to the lords in exchange for military services, and the lords allocated land to the peasants, and the peasants did labor.
+- So they tried to make wages lower, and they made a law that is anti-enticement where peasants cannot leave unless the employer gives permission to. A revolt broke out, and wages rose.
+
+# Growth Under Extractive Institutions
+
+- Lele vs Bushong (Congo). Lele tribe is poor, Bushong tribe is rich. Bushong king in the 1620 organized society: bureaucracy for taxes, legal system, police force, trial by jury. Then there was a political revolution and agriculture was reorganized, lower age of marriage so men could be in the labor force earlier.
+- Contrast to the west (Lele) where there is an absence of law and order.
+- Farming over hunter gathering: moving is costly, and it's impossible to store food on the move. Processing tools are useful, buy heavy to carry. Maize stores so well, so they were cultivated in the Americas.
+- Disadvantage: villages need more effective ways of resolving concept and a better notion of property. Rules had to be developed and institutions had to be made and rules had to be enforced.
+- Economic development: create an extractive institution with some degree of state centralization.
+- Extractive institutions: they can generate limited prosperity, while at the same time distributing it into the hands of a small elite. For this to happen, there has to be some political centralization.
+- This growth is not sustainable, as its incentives cannot stimulate technological progress (no incentives).
+
+# Why Nations Fail Today
+
+- The most common reason why nations fail today is because they have extractive institutions. Zimbabwe illustrates the economic and social consequences.
+- Zimbabwe inherited a set of highly extractive political and economic institutions in 1980. Ian Smith/the whites were doing the extracting before Mugabe went into power.
+- ***NATIONS FAIL TODAY because their extractive economic institutions do not create the incentives needed for people to save, invest, and innovate. Extractive political institutions support these economic institutions by cementing the power of those who benefit from the extraction. Extractive economic and political institutions, though their details vary under different circumstances, are always at the root of this failure. ”***
+
+# Breaking the Mold
+
+- Botswana: Democratic, holds regular and competitive elections, has never experienced civil war or military interventions. Elites are in favor of well-enforced property rights.
+
+# Understanding Prosperity and Poverty
+
+- Inclusive economic institutions: enforce property rights, create a level playing field, and encourage investments in new technologies and skills. They are more conducive to economic growth than extractive economic institutions that are structured to extract resources from the many by the few and that fail to protect property rights or provide incentives for economic activity.
+- Extractive institutions that have some degree of political centralization are able to generate some amount of growth, but this is not sustainable.
+  - Sustained economic growth requires innovation, and innovation cannot be decoupled from creative destruction, which replaces the old with the new in the economic realm.
+  - *The ability of those who dominate extractive institutions implies that political power is highly coveted, making many groups and individuals fight to obtain it.*
+- Major institutional change: when major events such as the Black Death, the opening of Atlantic trade routes, and the Industrial Revolutions happen, they offer the potential for rapid but also disruptive changes in economies.
+- Ex: Peru is not condemned to poverty, as it was very rich when it was the Incan empire.
+- IMF itself recognizes that poor development is caused by bad economic policies and institutions.
+- History is littered with examples of reform movements that succumbed to the iron law of oligarchy and replaced one set of extractive institutions with even more pernicious ones.
