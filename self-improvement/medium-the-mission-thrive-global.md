@@ -1080,3 +1080,15 @@
   - Growth mindset
   - Conscience
   - Peace of mind
+
+# The Hidden Chance In The Death Of The 9-To-5 Workday
+[Reference](https://medium.com/swlh/the-hidden-chance-in-the-death-of-the-9-to-5-workday-ac9fcd27ba3f)
+
+- Creativity:
+  - Preparation: get a comprehensive overview of the problem and attack it from several logical angles.
+  - Incubation: Let everything sit in your subconscious, either by turning to other things.
+  - Illumination.
+  - Verification: Apply the insight to the problem and see if it works.
+- Once you've hit a certain threshold of information, you just have to take a long walk.
+- The tendency to remember all things unfinished/repeatedly float them back to the surface: the Zeigarnik effect.
+- Each snack break is a potential source for Google's next break-through innovation.
