@@ -58,6 +58,26 @@
 - Extractive institutions: they can generate limited prosperity, while at the same time distributing it into the hands of a small elite. For this to happen, there has to be some political centralization.
 - This growth is not sustainable, as its incentives cannot stimulate technological progress (no incentives).
 
+# Reversing Development
+
+- Dutch: It would be more profitable to monopolize the supply of the valuable spices of the Moluccas rather than competing against local or other European traders.
+- The Dutch East India Company had its own army and the power to wage war and colonize foreign lands.
+- Maguindanao: Abandoned nutmeg and cloves, and burned all the pepper trees, just so the Dutch Company would not go there.
+- Slavery: present in almost every society: in the Roman period, slaves came from Slavic peoples, the Middle East, and Northern Europe. By 1400, Europeans stopped enslaving each other, but Africa did not undergo the transition from slavery to serfdom as did medieval Europe.
+- Slave trade: Europeans traded guns for slaves.
+  - This turned some societies to have the objective of enslaving and selling others to European slavers.
+  - Warring and slaving ultimately destroyed whatever order and legit state authority existed in sub-Saharan Africa. Slaves were also kidnapped and captured by small-scale raiding. It also happened that whatever crime you committed, the penalty was slavery.
+  - Kingdoms became slaving states.
+  - Even when slavery was outlawed, "legitimate commerce", or trading commodities like palm oil, kernels, peanuts, ivory, rubber became an instrument for getting slaves in Africa to work to make those commodities.
+- What matters: private property rights, functioning legal systems, markets, commercial agriculture, industry.
+- Not good: communal property in land, rule by chiefs.
+- Tribal chiefs: when people want to make improvements on lands, the chiefs know that these precluded individual property rights and the beginning of the end for them. So they want those things to not happen.
+- Logic: impoverish people to obtain cheap labor.
+- S Africa: whites had property rights, they invested in education, they were able to extract gold and diamonds and sell them in the world market. Blacks could not become skilled workers, businessmen, entrepreneurs, engineers, scientists. Whites became rich by extracting from blacks.
+- ***World inequality today exists because during the nineteenth and twentieth centuries, some nations were able to take advantage of the Industrial Revolution and the technologies and methods of organization that it brought while others were unable to do so.***
+
+# The Diffusion of Prosperity
+
 # Why Nations Fail Today
 
 - The most common reason why nations fail today is because they have extractive institutions. Zimbabwe illustrates the economic and social consequences.
@@ -78,3 +98,9 @@
 - Ex: Peru is not condemned to poverty, as it was very rich when it was the Incan empire.
 - IMF itself recognizes that poor development is caused by bad economic policies and institutions.
 - History is littered with examples of reform movements that succumbed to the iron law of oligarchy and replaced one set of extractive institutions with even more pernicious ones.
+  - French Revolution: Empowering a broader segment of society which rose up against the regime in France and managed to pave the way for a more pluralistic political system.
+  - On making it easier to empower/develop inclusive political institutions: centralized order (so social movements challenging existing regimes do not descend into lawlessness, having pre-existing political institutions that introduce a modicum of pluralism, and the presence of civil society institutions that can coordinate the demands of the population so that opposition movements can't be crushed by the current elites.
+- The media: empowerment of society is difficult to coordinate and maintain without widespread information about whether there are economic and political abuses by those in power.
+  - This is why authoritarian regimes do their best to fight a free media.
+  - Peru: Apparently, Fujimori paid $9 million, $10 million to control TV stations. More than $1 million to mainstream newspapers.
+  - China: "The Party controls the armed forces, the Party controls cadres, and the Party controls the news."
