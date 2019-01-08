@@ -129,3 +129,32 @@
 - Just put sustainability tasks in the backlog.
 - Sustainability budget: these come from ad hoc cleanups, technical debt sprints, refactoring iterations. Add up cleanup time that you spent last year and just say that that's the budget.
 - Batman role: a role to deal with organizational emergencies and support requests so that the other programmers can focus on programming.
+
+# The Reality of Missing Out
+[Reference](https://stratechery.com/2016/the-reality-of-missing-out/)
+
+- Digital advertising is becoming: Facebook, Google, or don't bother.
+- LinkedIn's stock price decreased when it tried to hop in to advertising. Same with Yelp and Twitter.
+- Advertising has always been around 1.2% of economic activity ever since  these types of things have been tracked.
+- On radio/television over newspapers: advantage in terms of storytelling and capturing attention. Disadvantage: more expensive, harder to keep track off it it worked or not.
+- TV/radio are effective at building awareness: making customers aware that your product existed and at building brand affinity.
+- Newspapers: useful when it comes to "consideration": helping consumers decide to buy the product they were now aware of.
+- Computers made it easy to demonstrate when an ad led to a click (Google). Search ads were so effective because consumers were entering the purchase funnel already at the bottom, they already wanted insurance/travel/a lawyer. This is basically a guaranteed lead.
+- Re-targeting ads: effective to move customers through consideration, but it also creeped people out.
+- Problems with brand advertising on the Internet: they are a bad version of print ads, which are already inferior to immersive media like radio and especially TV.
+- It looks more efficient to spend your money on broadly target as many potential consumers as possible vs finely targeted ads.
+- Facebook: awareness through IG video ads, consideration through retargeting, conversion through dynamic product ads on Facebook (and potentially, via Messenger).
+- Google: awareness via Youtube, consideration via DoubleClick, conversion via AdSense.
+- FB/Google: most users. Cheaper to make ads for these guys only. FB and Google have the best tracking both digitally and offline. They have an advantage over LinkedIn, Yelp, Yahoo, Twitter in terms of effectiveness, reach, and ROI.
+
+# How Facebook Squashed Twitter
+[Reference](https://stratechery.com/2016/how-facebook-squashed-twitter/)
+
+- The idea of an information feed developed over many years: blogs/RSS are based on this format.
+- Twitter and Facebook brought: users, content, a place to read. The feed allows for an advertising unit superior to anything found on the desktop, because users have no choice but to at least visually engage with whatever is dominating the screen.
+- Facebook's networks already had a basis in the offline world (it was people you already knew). That made the service immediately approachable and useful for basically everyone. Twitter was about following people you didn't know based on your interests. So you basically had to compile that list from scratch.
+- Twitter's marginal user: the service had tremendous visibility, but it was just not worth the effort to get started for a lot of people.
+- Facebook made it easy to add all types of posts into their algorithmically generated feed.
+- Twitter's interest graph is potentially more valuable than FB's social graph, but they compete for the same scarce resource: attention. FB had most probably the most interesting content to ensure most users had no desire to look for something better.
+- Mobile is in every pocket and in a huge percent of the world's population. On sheer numbers alone it is 3x or 4x in size.
+- Unfortunately for Twitter, the attention market of 2016 is far different than it was back in 2009. We have Snapchat, Instagram, messenger services.
