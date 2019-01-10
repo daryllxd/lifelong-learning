@@ -60,3 +60,22 @@
 - Ex: "Africa will never catch up with Europe." "The Islamic world is fundamentally different from the Christian world."
 - Macho values: These are not Asian values, African values, Muslim values, Eastern values. These are patriarchal values like those found in Sweden 60 years ago.
 - Recognize that many things appear to be constant just because change is happening slowly, and remember that even small, slow changes gradually add up to big changes.
+- A big idea can unite people like nothing else and allow us to build the society of our dreams. Ideology has given us democracy and public health insurance.
+- Most countries that make great economic and social progress are not democracies. S Korea moved from Level 1 to Level 3 as a military dictatorship.
+- A single perspective can limit your imagination, and remember that it is better to look at problems from many angles to get a more accurate understanding and find practical solutions.
+
+# The Blame Instinct
+
+- The blame instinct: the instinct to find a clear, simple reason for why something bad has happened.
+- Instead of pointing our fingers at journalists, we should be asking: why does the media present such a distorted picture of the world?
+- Distorted worldview: we are human beings with dramatic instincts. System factor to produce skewed and overdramatic views: they must compete for their consumers' attention or lose their jobs.
+- When abortion is made illegal, it doesn't stop abortions from happening, but it does make abortions more dangerous and increase the risk of women dying as a result.
+
+# The Urgency Instinct
+
+- We should worry about:
+  - A global pandemic.
+  - Financial collapse: systems are too complicated.
+  - World War III.
+  - Climate change.
+  - Extreme poverty. We are in the last mile already.
