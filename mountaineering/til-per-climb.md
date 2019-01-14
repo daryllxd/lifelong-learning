@@ -1,3 +1,18 @@
+## Amuyao via Barlig-Barlig/Backtrail (2019-01-12 to 2019-01-13)
+
+- Cooked: Tacos.
+- So it has been literally 1 year since I last hiked up a mountain. Granted, I did hike at MacRitchie Reservoir in Singapore, but does that really count? Lol.
+- New stuff: Salomon boots (my older shoes literally had holes in them), sleeping bag (I forgot where mine was).
+- I also couldn't find my stove so I just go a new one (the same as the old one, Kovea Moonwalker), but I stupidly did not ask if it needed an attachment to make it work with standard butane containers.
+- How is it that I felt colder this year than the last year, especially if I had most of the same clothes/winter costume as last year? I guess we just hit a cold day. But it was really hard to sleep in the tent. We just slept in the bunkhouse.  This was even in ideal conditions (no rain).
+- It was also hard to move the mountain dog that kept going inside the bunkhouse. I had to literally grab the dog by its shoulders and physically carry it out.
+- Night sky was phenomenal as usual. Faint Milky Way but there was a sea of stars like before!
+- I really like hiking because it gives me a lot of time to think about life. I really missed that when I was in Singapore. Especially if you hike with friends. Honestly, at this point, I would not mind living in a city where you can literally take a train to the jump-off point. Seoul comes to mind but I think Hong Kong and a few Canadian/American cities have this. I'm thinking the Pacific NW.
+- After the last water source, I bonked hard (lack of food and water) and it was survival mode to get to the top at that point. Night had already fallen so you can't really stop on the trail as it was fucking cold.
+- Descending: I think you can descend the entire Barlig side with no rests as long as you refuel on the trail, we just rested once at the half-way point, but it's almost just a straightforward downhill hike.
+- Having a van was really an asset as it allows you to keep the last day's clothes in it. So you get to bring a lot more stuff because those clothes take up space/weight.
+- Bigger cooksets mean it's harder to cook the rice evenly. You have to stir the damn thing lol. I'm really becoming heavily biased towards either pasta or pitas/bread. Rice is too easy to f up unless you have a good rice chef.
+
 ## Amuyao via Batad-Barlig (Reverse Traverse) (2018-01-12 to 2018-01-15)
 
 - Cooked: Adobo (forgot the vinegar so I wasn't able to make it the spicy way that I want), supposedly bacon but I just made the rice, pancake/sausage.
