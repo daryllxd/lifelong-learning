@@ -104,3 +104,13 @@ Content consumptions is finitely variable, but content creation is infinitely va
 - Apple and Google want you to form healthy habits with your digital devices, because being addicted is bad.
 - 1968: Federal Government mandated that seat belts come equipped in all cars. Same with third-party apps that have given smartphone owners ways to moderate tech use.
 - *When you invent the ship, you also invent the shipwreck.*
+
+# Your Ability to Focus Has Probably Peaked: Here’s How to Stay Sharp
+[Reference](https://betterhumans.coach.me/your-ability-to-focus-has-probably-peaked-heres-how-to-stay-sharp-c0cba04fac40)
+
+- 2 processes: 1 to focus, and 1 to tune out distractions.
+- Older adults are biologically more distractible than young adults. They can focus on relevant information as well as younger adults.
+- Squinting your eyes: can work. The brain is filtering out visual information. The brain can then scan its memory.
+- Cluttered and disorganized environments are more distracting than organized ones.
+- Limit yourself to one monitor, browser tab, etc.
+- Boost cognition: exercise, meditation, spending time in nature. Cognitive exercises, video game playing. The nature of video game play (juggling tasks).
