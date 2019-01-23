@@ -42,3 +42,25 @@ For every gram of glycogen stored, the body will also store 2g of water. You wil
 - Keep calories consistent with normal eating habits in order to avoid weight gain.
 - Balance blood sugar: A spike in blood sugar can result from eating high-glycemic, sugary carbs. To avoid the spike and slump, combine carbs with fat and protein and eat carbs that vary on the GI scale.
 - Pre-race breakfast: Wheat toast with peanut butter and a sliced banana.
+
+# The Right Way to Carb-Load Before a Race
+[Reference](https://www.runnersworld.com/nutrition-weight-loss/a20826888/the-right-way-to-carbo-load-before-a-race/)
+
+- Rice, oatmeal, bread, pancakes, waffles, bagels, yogurt, juice.
+- 2-3 days before the event, 85 to 95 percent of your calories should come from carbs. About 3000 calories of carbs per day.
+- The night before: don't stuff yourself. Dinner should be small, but carb-heavy. Eat on the early side so you have lots of time to digest.
+- The race morning: have breakfast. Three hours before the start, eat 150g of carbs. You might have to wake up to eat carbs.
+
+# How to carb load before an event or race
+[Reference](https://www.cyclingweekly.com/news/latest-news/how-to-carb-load-before-an-event-or-race-211397)
+# Do cyclists really need to carb-load before a big ride?
+[Reference](https://www.cyclingweekly.com/news/latest-news/do-cyclists-really-need-to-carb-load-before-a-big-ride-284707)
+
+- Carb-load only when it matters: for key races longer than 75 minutes.
+- Races of 90 minutes plus require on-bike refueling.
+- Load over 36-48 hours with the correct amount: 8-10 g of carbs per kg of bodyweight per day.
+- No point in eating beyond the 10g/kg/day maximum advised intake in the 48 hours prior to the event. Overeating will only cause bloating and may negatively affect performance.
+- Depleting before: no need.
+- 70kg cyclist = 600-700g carbs each day.
+- Periodizing your carb intake: do some rides in a carb-depleted state.
+- Only carb load for long-duration races, those in which you want a fast time.
