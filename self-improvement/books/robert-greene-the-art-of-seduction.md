@@ -120,3 +120,94 @@
 - Dangers:
   - Cynics and confident types who don't need validation are immune to charmers. They have a tendency to view charmers as slippery and deceitful, and they can make problems for you.
   - Befriend and charm as many people as possible: secure your power through numbers and you will not have to worry about the few you cannot seduce.
+
+# The Charismatic
+
+- Qualities that are attractive: self-belief, boldness, serenity. They keep the source of these qualities mysterious. The face is full of energy, desire, alertness.
+- Most religions were founded by a Charismatic, a person who physically displayed the signs of God's favor.
+- Modern charismatics: the appearance of an extraordinary quality in their character (the equivalent of a sign of God's favor).
+- Charisma: radiate an inward quality that has a saintly or spiritual edge to it. It must seem natural, as if it came from something mysteriously beyond your control. And there is nothing more seductive than giving people something to believe in and follow.
+- Qualities that will help create the illusion of charisma:
+  - Purpose. If people believe you have a plan, they will follow you instinctively. In times of trouble, since most people hesitate before taking bold action, single-minded self-assurance will make you the focus of attention. People will believe in you through the simple force of your character.
+  - Mystery. A mystery expressed by contradiction. When you are unpredictable, and when you are hard to fathom, people talk about you. It is often better to reveal your contradictions slowly and subtly, if you throw them out one on top of the other, people may think you have an erratic personality.
+  - Saintliness. You must have some deeply held values, and show that you live what you believe. Being mild and assuming can turn into charisma, as long ass you seem comfortable with it.
+  - Eloquence. Relying on the power of words because words are the quickest way to create emotional disturbance. Catchwords, slogans, rhythmic repetitions, phrases for the audience to repeat.
+  - Uninhibitedness. Most people are repressed, and have little access to their unconscious. The Charismatic can become a kind of screen on which others project their secret fantasies and longings. You radiate a dangerous sexuality, have no fear of death, are delightfully spontaneous.
+  - Fervency. You need to believe in something, and to believe in it strongly enough for it to animate all your gestures and make your eyes light up. This cannot be faked.
+  - Adventurousness. They have an air of adventure and risk that attracts the bored. Be seen taking risks for the good of others. Show heroism to give yourself a charisma that will last you a lifetime. Conversely, the slightest sign of cowardice or timidity will ruin whatever charisma you had.
+  - Magnetism. Eye gaze sills are acquirable. Your eyes can emanate charisma, but they can also give you away as a faker.
+- Joan of Arc's qualities: intense visions, they had so much detail. Details lend a sense of reality to even the most preposterous statements.
+- Rasputin: When guests start to relax, he says "I know you, I can read your souls. You are too pampered, and these fine clothes and arts of yours are useless and pernicious. Men must learn to humble themselves. You must be simpler, far simpler. Only then will God come nearer to you."
+- We are drawn to people who seem more comfortable human, who do not bother to disguise their contradictions. Rasputin: authentically himself, devoid of self-consciousness or hypocrisy, was appealing. His wickedness and saintliness were so extreme that it made him larger than life.
+- Most of us are bad and good, and we spend our lives trying to repress the dark side. We can create charisma to a smaller degree by ridding ourselves of self-consciousness. You cannot help being the way you are, so be genuine.
+- Lenin: Short, plain-featured, from a small party. He repeated the same simple message: end th war, establish the rule of the proletariat, abolish private property, redistribute wealth.
+  - Good ability to organize and speak (speeches). "Either revolution or bourgeois, nothing in between.
+  - Charism has little to do with an exciting physical appearance or a colorful personality. In times of trouble, people are not looking for entertainment, they want security, a better quality of life, and social cohesion. ***A plain-looking man or woman with a clear vision, a quality of single-mindedness, and practical skills can be charismatic, provided it is matched with some success. In a world teeming with compromisers and fudgers whose indecisiveness only creates more disorder, one clear-minded soul will be a magnet of attention-will have charisma.***
+  - One on one, Lenin had little charisma, but he was seen as the person who can save their country.
+- The Guru:
+  - People do not want to hear that your power comes from years of effort or discipline. They prefer to think that it comes from your personality, your character, or something you were born with, and them being near you makes some of that power rub off onto them.
+  - The aura you are after is the aura of enlightenment. You do not need anything or anyone, you are fulfilled. Let people conclude that you are happy, rather than hearing it from you. Let them see it in your unhurried manner, your gentle smile, your ease and comfort.
+- Most of us just do our daily tasks and the days fly by. The two exceptions to this are childhood and those moments when we are in love. In both cases, our emotions are more engaged, more open, and active, and we equate feeling emotional with feeling more alive.
+  - A public figure who can affect people's emotions has a similar effect. An appeal to the emotions is far more powerful than an appeal to reason.
+  - It is not goodness alone that is charismatic, but the ability to dramatize it.
+  - The two great purveyors of emotion: drama and religion. Drama cuts out the useless and banal in life, focusing on moments of pity and terror; religion deals with matters of life and death. Make your charitable actions dramatic, give your loving words religious import, bathe everything in rituals and myths going back to childhood.
+- No emotion is more powerful and more capable of creating a charismatic reaction than hatred, particularly if it comes from deep-rooted feelings of oppression. Express what others are afraid to express, and they will see great power in you. Say what they want to say, but cannot.
+
+# The Star
+
+- Marlene Dietrich: had a distance from her own self, she could study her face, her legs, her body, as if she were someone else, so she can transform her appearance for effect.
+- The fetish: an object that commands an emotional response and that makes us breathe life into it. Fetishistic star: the ability to become an object that stimulates a variety of fantasies.
+- Mythic Star: John F Kennedy's actions were framed in the conventions of Hollywood. He existed mostly as a televised image.
+  - People are divided by all kinds of consciously recognized categories: race, gender, class, religion, politics. So it's impossible to gain a lot of power by drawing on conscious awareness.
+  - Unconsciously, we share: mortality, fear, parent figures.
+  - Mythic stars are figures of myth that came to life. Think of the rebel, the wise patriarch, the adventurer. Make your opponents villains. People are super susceptible to myth, so make yourself the hero of a great drama.
+- Seduction = a form of persuasion that bypasses consciousness. Learn the art of insinuation and of reaching the unconscious.
+- Make people identify with you (represent a type, as Jimmy Stewart represents middle America or JFK represents young people wronged by an older man). People of your type will gravitate to you, identify with you, and share your joy and pain. The attraction is unconscious (not in words but in poses and attitudes).
+- ***Help them fix on a role to play in life and they will flock to identify with you.***
+- ***Everyone is a public performer: people never know exactly what you think or feel; they judge you on your appearance.***
+- Once people have recognized a Star, any kind of publicity just feeds the obsession.
+
+# The Anti-Seducer
+
+- *We are all insecure, but anti-seducers are insecure to such a degree that they can't be drawn into the seductive process-their needs close them off. They interpret the slightest ambiguity on your part as a slight to their ego; they see the hint of withdrawal as a betrayal, and are likely to complain bitterly about it.*
+- Clues to their self-involvement/insecurity: perhaps they are ungenerous, or they argue with unusual tenacity, or are super judgmental, or they lavish you with praise, or they pay no attention to details.
+- So it is critical to recognize anti-seductive qualities not only in others but in ourselves. An ungenerous person is seldom truly attractive. *Seduction implies opening yourself up, and being unable to give by spending money usually means being unable to give in general.*
+- Types:
+  - *The Brute.* Brutes have no patience for such things; they are concerned only with their own pleasure, never with yours. To be patient is to show that you are thinking of the other person, which never fails to impress. If you suspect that you are dealing with a Brute, try to make them wait. :)
+  - *The Suffocator.* Recognize Suffocators by how quickly they adore you. Doormat: a person who imitates you. If they can't disagree with you, then that's a bad sign.
+  - *The Moralizer.* They follow fixed ideas and try to make you bend to their standards. They want to change you, to make you a better person, so they endlessly criticize and judge-that is their pleasure in life.
+  - *The Tightwad.* Cheapness shows more than a problem with money. It is about a person that keeps them from letting go or taking a risk. It is the most anti-seductive trait of all, and you cannot allow yourself to give in to it.
+  - *The Bumbler.* Super self-conscious and have no sense of timing.
+  - *The Windbag.* Too much talking.
+  - *The Reactor.* Too sensitive, not to you but to their own egos. They can't laugh at themselves.
+  - *The Vulgarian.* They are inattentive to the details that are important in seduction. They say anything in public and have no sense of timing and are rarely in harmony with your tastes.
+  - The type that is searching for an ideal but are hopelessly unhappy with themselves. They have a deep-rooted unhappiness, and they tend to compare you to others, and try to remake you.
+- To anti-seduce: nag, talk a lot (about yourself), dress against the other person's tastes, pay no attention to detail, suffocate, and so on.
+
+## Victim Theory
+
+- Nobody in this world feels whole and complete-we all sense some gap in our character, and when we fall in love, it is often with someone who fills that gap. We can wait for this right person, but it's better to not leave such things to chance. Look at the people around you, and focus on their gaps and the missing pieces in their psyche. That is the raw material of any seduction. Their gestures, their comments, the things that get them to talk about their past, particularly past romances.
+- People constantly give out signals as to what they lack. They long for completeness, whether the illusion of it or the reality, and if it has to come from another person, that person has tremendous power over them.
+- *Reformed Rake or Siren.* Resentful of settling down. Make the impression that you are not offering a relationship, but the chance to escape the corral and have some fun. A pre-existing commitment is the perfect foil. They are unfaithful by nature.
+- *Disappointed Dreamer.* They dream of romantic heroes, of danger and excitement. They dream of something grand and romantic. They have a deal of pent-up passion and energy, which you can release and focus on yourself.
+- *The Pampered Royal.* Classic spoiled children, they want new things, new places etc.
+- *The New Prude.* Excessively concerned with appearances, they stay within the boundaries of correctness because they fear society's judgment. Concerned by goodness/fairness, but they are actually excited and intrigued by guilty pleasures.
+- *The Crushed Star.* Previously super popular and now not so much: get them to talk, particularly about themselves. Play the charmer.
+- *The Novice.* Little to no exposure to the world, so teach them about the world. Expose them to new places, new worlds, both literal and metaphoric. Sometimes they put on a show that they are educated, but they can still be misled.
+- *The Conqueror.* They are looking for people to conquer, obstacles to surmount. You will not always recognize them, and they love power, by hook or by crook they get it.
+- *The Professor.* Likes analyzing and criticizing everything that crosses their path. Everything is analyzed. Their mind is overdeveloped and overstimulated. They want to escape this mental prison//want pure physicality, without any analysis, and they want to be overwhelmed by someone with a physical presence.
+- *The Beauty.* Always attracting others, but worries that her powers are waning and is no longer attracting attention. Validate her by validating her intelligence, her skills, and her character. They sometimes want to be active/not passive because they are always looked at.
+- *The Aging Baby.* Be an adult figure/responsible one. By being responsible, you free them to play.
+- *The Rescuer.* They listen well and try to get you to open up and talk. They get power from solving other people's problems.
+- *The Roue.* They have lived the good life, but they crave the feeling of being young/lost youth/innocence. By resisting, you control the dynamic.
+
+# The Seductive Process
+
+- Choose the right victim.
+- Create a false sense of security: approach indirectly.
+- Send mixed signals.
+- Appear to be an object of desire.
+- Create a need (stir anxiety and discomfort). If they see you as the one to fill their emptiness, interest will blossom into desire. This is stoked by planting ideas into their minds.
+- Master the art of insinuation.
+- Enter their spirit/indulge them in their wants and moods.
+- Create temptation.
