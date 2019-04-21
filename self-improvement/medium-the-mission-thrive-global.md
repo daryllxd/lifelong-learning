@@ -1092,3 +1092,26 @@
 - Once you've hit a certain threshold of information, you just have to take a long walk.
 - The tendency to remember all things unfinished/repeatedly float them back to the surface: the Zeigarnik effect.
 - Each snack break is a potential source for Google's next break-through innovation.
+
+# 20 signs your personality is so unique it intimidates others
+[Reference](https://hackspirit.com/10-signs-personality-unique-intimidating-others/)
+
+- You stick to your word. This makes others look bad because most people slack off in certain areas of their life.
+- You are candid. You say what you mean and mean what you say. Telling it like it is doesn't always sit well with others.
+- You keep an open mind.
+- You solve problems, rather than sitting around feeling sorry for yourself.
+- You are stubborn and strong-willed. You don't take no for an answer, and if you believe there is an answer to be found, you will find it, no matter what.
+- You loathe complainers. You know that taking life by the horns can be intimidating for some people who are afraid of what might happen if they took the leap of faith.
+- You don't support ignorance. You do not tolerate people who are ignorant. Willful ignorance is the worst. If you know better, but choose to believe something worse without questioning it, well that just solidifies their own stupidity. You don't have time for that, and it makes you the outcast sometimes.
+- You know your stuff. You can talk to people from all walks of life and can carry on a conversation even if it's over your head because you listen to what people are saying. There's a lot of folks who won't like that about you, but that's their problem.
+- You think small talk is a bore. Your go-getter attitude moves you up the ladder in life, but many people won't like that you work so hard.
+- You can be kind. When you can get stuff done and you are a nice person, damn. You know what's important and what you think of yourself and where you are going. And even if you might be upsetting a few people along your way, you don't really care. Your strong personality allows you to live the life you want without regret.
+- There's always more to learn.
+- You're selfless and love to make others happy. You know that you're not the center of the universe and you aim to make anyone that crosses your path happy.
+- You're optimistic. There's no point harboring a negative attitude in life. That doesn't help you achieve anything.
+- You've got goals and dreams to achieve. You're ambitious, motivated, and operate from a power of working towards something higher than yourself. For you, life is about taking action, and that can intimidate people who are insecure about what they're achieving in life.
+- You love to get out of your comfort zone, and some other people can't handle it and prefer to remain secure in their small little box.
+- You believe that fear is an opportunity to grow and experience something new. If you're not experiencing fear, then you're not living right.
+- You don't waste time gossiping.
+- You're careful about who you let into your life.
+- You don't need superficial attention.
