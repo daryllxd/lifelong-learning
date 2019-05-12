@@ -6,7 +6,7 @@
 - Wherever I go, a book is not far behind. It might be on my phone or physical, but there is always a book close by.
 - Ignorance is more expensive than a book.
 - *To me, reading is more than a raw input. I read to increase knowledge. I read to find meaning. I read for better understanding of others and myself. I read to discover. I read to make my life better. I read to make fewer mistakes.*
-- Even Nassim Taleb, author of Antifragile, points out that several ancient philosophers grasped the concept of antifragility. Odds are that no matter what you're working on, someone somewhere, who is smarter than you, has probably thought about your problem and put it into a book.
+- Even Nassim Taleb, author of Antifragile, points out that several ancient philosophers grasped the concept of antifragility. **Odds are that no matter what you're working on, someone somewhere, who is smarter than you, has probably thought about your problem and put it into a book.**
 - In The Prince, Machiavelli writes, “A wise man ought always to follow the paths beaten by great men, and to imitate those who have been supreme, so that if his ability does not equal theirs, at least it will savor of it.” That's not to say that this is the only way, but why not start with the best thinking that has come before you? Seneca, on the same subject, wrote, “Men who have made these discoveries before us are not our masters, but our guides.”
 - How do you value your time? We can make more money; we can't make more time.
 - Charlie Munger, voracious reader, billionaire, and vice chairman of Berkshire Hathaway, once commented: “In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time – none, zero.”
@@ -313,3 +313,28 @@
 - When a new market appears, ents rush to create products, services, or technology. With time, customers gravitate toward the two or three companies they prefer.
 - On data: the more data a company has on its customers, the better equipped it is to release new products and market existing ones.
 - For most of history, comedians, musicians, athletes performed live, and there was a limit to the shows they can do a year. Now, we offer further incentives to pay attention only to the winners.
+
+# Renaissance Paragone: An Ancient Tactic for Getting the Most From People
+[Reference](https://fs.blog/2019/05/paragone/)
+
+- Italian Renaissance: `paragone`, pitting creating efforts against one another in the belief that only with this you could come to see art's real significance.
+- Paintings faced each other: people would directly compare the works, forming and expressing opinions.
+- These competitions shifted the focus from the art to the artist (look for the best artist).
+- Beneficial to artists, because at least they understood where they are both artistically and socially.
+- Da Vinci: "Disgrace must motivate you to profitable study. A healthy envy will stimulate you to become one of those who are praised more than yourself."
+- If you don't know how you compare to your colleagues, then in some way, you wouldn't know how to close the gap.
+- Not everyone responds to competition the same way. Some people choose to withdraw.
+- But a lack of competition can breed laziness in a lot of people, and that laziness gets rewarded. It's not intentional, we just stop working as hard as we could.
+- Think about how you can harness competition to give people the information they need to get better.
+
+# The Generalized Specialist: How Shakespeare, Da Vinci, and Kepler Excelled
+[Reference](https://fs.blog/2017/11/generalized-specialist/)
+
+- If you have no idea of the big ideas, you start making decisions that don't take into account how the world really works.
+- These decisions ripple outward, and you have to spend time correcting your mistakes.
+- Specialists: lead lives and have thoughts that seek to get fit into one unchanging, all embracing, unitary inner vision.
+- Some skills (focusing, reading critically, making rational decisions) are of universal value. Others are more specialized, but can be used in different careers.
+- Generalists are less efficient, but are less fragile amidst change.
+- Managers and leaders are often generalists because they need a comprehensive perspective of their entire organization.
+- Specialists: vulnerable to change, and must understand what their circle of competence is.
+- Generalized specialists: branch out from their core competencies.
