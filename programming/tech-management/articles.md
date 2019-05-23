@@ -66,3 +66,34 @@
   - Listening and learning from others. Do not leverage your power or seniority. Use factual arguments. Avoid being reactive. Discussions can get heated, but a professional understands that a critique of an idea is not the same as the critique of a person.
   - Mentoring: everyone should be comfortable asking me questions, whether it's learning how to do something or questioning my decisions. Awful managers make people afraid to ask questions. The mythical 10x engineer helps other people grow.
   - Wanting to fight for a healthy team culture: if someone is misbehaving, do not be afraid to speak up.
+
+# Scaling Engineering Teams
+[Reference](https://medium.com/@AntiFreeze/scaling-engineering-teams-3b2500c061f6)
+
+- Engineering excellence
+  - Hire, train, mentor staff well
+  - Foster open and honest conversations
+  - Provide tools and clear measurements of success
+  - Constantly and consistently set expectations
+- **Phase 1: Discovery**
+  - No procedure/no policy. Ship code, learn, course correct, repeat. Make mistakes/move fast.
+  - Winners: prototypers, entrepreneurial types. No need to build quality code yet because it doesn't have a meaning yet.
+  - Want to hire on culture fit.
+  - When the team is growing, it's now your job to push knowledge to them at the right time, in a form they'll consume.
+- **Phase 2: Efficiency**
+  - Some product market fit, company is more focused on product and specific features to fill customer needs.
+  - With a clear customer, now you can define quality.
+  - From a customer's point of view, those who can communicate with others in your organization can add more value than the raw prototypers.
+  - Critical function: When to move fast and break things vs when to go slow to get them right.
+  - Culture add: Different points of view/professional backgrounds make your team stronger and fill strategic blind spots.
+  - When a new engineering manager/technical lead joins, how they communicate on day 1 will be different from how they need to communicate a short while later.
+  - The biggest problem is one of trust: people trust individuals, but are unable to transfer that trust to the team as a whole.
+- **Phase 3: Execution**
+  - Multiple apps, where those who thrived in Phase 1 and 2 and getting replaced as key players by more methodical engineers.
+  - "That's not my job" => This means that you have people who are focusing on their part of the app.
+  - Sometimes, it's cheaper to pay a consultant for one specific project and have them train your entire team in the process.
+  - To thrive, the team needs someone focused on communicating to others externally and improving the process internally.
+  - "The team won't respect someone who's not shipping code" => This doesn't matter.
+- **Phase 4: Expansion**
+  - Managing inflection points is about getting people to do unnatural things.
+  - Be aware of who thrives in your current and next phases of growth, so that you can hire people into situations where they're set up to succeed well into the future.
