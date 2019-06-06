@@ -53,3 +53,45 @@ export class ProductAlertsComponent implements OnInit {
 - Services
   - ***For data that isn't associated with a specific view.*** Preceded by the `@Injectable()` decorator. Dependency injection = they delegate such tasks to services.
 
+# Introduction to services and dependency injection
+[Reference](https://angular.io/guide/architecture-services)
+
+- Service is a broad category encompassing any value, function, or feature that an app needs.
+- Try to separate your component's view-related functionality from other kinds of processing to make your component classes lean and efficient.
+- ***Ideally, a component's job is to enable the user experience and nothing more. A component should present properties and methods for data binding in order to mediate between the view and the application logic.***
+- What to delegate to services:
+  - Validating user input
+  - Fetching data from the server
+  - Logging directly to the console
+- Make those tasks injectable, so you can make them available to any component.
+- Example of a service that depends on `Logger` and `BackendService` to get heroes:
+
+```
+src/app/hero.service.ts (class)
+content_copy
+export class HeroService {
+  private heroes: Hero[] = [];
+
+  constructor(
+    private backend: BackendService,
+    private logger: Logger) { }
+
+  getHeroes() {
+    this.backend.getAll(Hero).then( (heroes: Hero[]) => {
+      this.logger.log(`Fetched ${heroes.length} heroes.`);
+      this.heroes.push(...heroes); // fill cache
+    });
+    return this.heroes;
+  }
+}
+```
+
+# Dependency injection
+
+- Components consume services, that is you can inject a service into a component, giving the component access to that service class.
+- Declaring `Injectable` decorator to indicate that a component has a dependency:
+  - Angular creates an application-wide injector for you during the bootstrap process.
+  - An injector creates dependencies and maintains a container of dependency instances that it reuses if possible. (So this is why they do the `@Injectable`, cause this is like a cache or something?)
+  - Provider: an object that tells an injector how to obtain or create a dependency.
+  - ***For any dependency that you need in your app, you must register a provider with the app's injector.***
+  - So a dependency doesn't have to be a service - it could be a function or a value.
