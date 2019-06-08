@@ -97,3 +97,16 @@
 - **Phase 4: Expansion**
   - Managing inflection points is about getting people to do unnatural things.
   - Be aware of who thrives in your current and next phases of growth, so that you can hire people into situations where they're set up to succeed well into the future.
+
+# 11 Lessons On People And Time Management From Sun Tzu's 'The Art Of War'
+[Reference](https://www.forbes.com/sites/forbescoachescouncil/2016/12/28/11-lessons-on-people-and-time-management-from-sun-tzus-the-art-of-war/#2fb4b8631991)
+
+- Assess people's states of being: People act differently based on their motivations and moods.
+- Self-assess first: Review feedback from others, so you can see correlations about how you perceive yourself and how others perceive you.
+- Examine other people for insights into conflict preparation.
+- Don't rush/micromanage.
+- Recognize double agents in the organisation.
+- Timing is everything: To get new policies passed, time them correctly.
+- Use your natural momentum: when working with artists, figure out when it is the best time to create, work, and network.
+- Victory requires a plan (and overtime). Preferably, win without fighting.
+- Strategic planning sessions: going off-site for company-wide retreats where employees can talk earnestly without their families.
