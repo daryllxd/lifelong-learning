@@ -110,3 +110,17 @@
 - Use your natural momentum: when working with artists, figure out when it is the best time to create, work, and network.
 - Victory requires a plan (and overtime). Preferably, win without fighting.
 - Strategic planning sessions: going off-site for company-wide retreats where employees can talk earnestly without their families.
+
+# 10 Traits of a Great Manager, According to Google's Internal Research
+[Reference](https://www.themuse.com/advice/10-behaviors-make-great-google-manager)
+
+- Is a good coach.
+- Empowers the team and does not micromanage. They trust their direct reports and they advocate for the team.
+- Creates an inclusive team environment, showing concern for success and well-being: effective teams are aware of unconscious biases. Not just diverse team, but inclusive team.
+- Productive/results-oriented.
+- Good communicator: listens and shares information.
+- Supports career development and discusses performance: employees should know what expectations they should be fulfilling at work. Be clear about expectations and give honest feedback about performance.
+- Clear vision/strategy for the team.
+- Key technical skills? Not really the most important thing.
+- Good at cross-organization collaboration.
+- Strong decision maker: Tells why they make decisions, not just what decision they made.
