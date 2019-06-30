@@ -55,6 +55,8 @@ For every gram of glycogen stored, the body will also store 2g of water. You wil
 [Reference](https://www.cyclingweekly.com/news/latest-news/how-to-carb-load-before-an-event-or-race-211397)
 # Do cyclists really need to carb-load before a big ride?
 [Reference](https://www.cyclingweekly.com/news/latest-news/do-cyclists-really-need-to-carb-load-before-a-big-ride-284707)
+# Cycling nutrition: A quick guide to carb loading
+[Reference](https://www.cyclist.co.uk/in-depth/3773/cycling-nutrition-a-quick-guide-to-carb-loading)
 
 - Carb-load only when it matters: for key races longer than 75 minutes.
 - Races of 90 minutes plus require on-bike refueling.
@@ -64,3 +66,7 @@ For every gram of glycogen stored, the body will also store 2g of water. You wil
 - 70kg cyclist = 600-700g carbs each day.
 - Periodizing your carb intake: do some rides in a carb-depleted state.
 - Only carb load for long-duration races, those in which you want a fast time.
+- The benefit of carb-loading is that it increases the time to exhaustion by about 20%, while improvements in performance hover at around 2%.
+- Eat five or six smaller meals is much more digestible than just piling your plate high on regular mealtimes.
+- Carb-loading isn't about eating more, it's about eating more carbs.
+- Bananas, rice, oatmeal, yogurt. Tubers, legumes, blueberries, bananas, chestnuts, barley.

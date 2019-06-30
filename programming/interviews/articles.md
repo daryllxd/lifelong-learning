@@ -73,3 +73,13 @@
   - Were you lying?
   - Were you actually doing good software development?
   - What are your actual limits?
+- Heck Evergreen answer:
+  - Doing an enterprise grade task: research, design, talk to teams, scope, draft, implement, test, code review, add metrics, deploy, monitor metrics.
+  - Consider these: optimal algorithm, fault tolerance, variety of use cases, variety of inputs, dependency management, remote call error handling, syncing, unstable connection handling, UI, cost of development and maintenance.
+- Present and sell your skills to interviewers:
+  - No premature optimization. Focus on the hardest aspects or functionality first, don't dive into all details at once. Usually, they can be deduced from the question itself, otherwise, ask clarifying questions.
+  - Outline the full pipeline from start to finish/from user to server and back to the user.
+  - Testing - test your solution with reasonable amount of valid and invalid inputs.
+  - Apply things mentioned: fault tolerant design, inputs, data sync, costs.
+  - You have no luxury of time on the interview, and so you have to show the ability to deliver suboptimal, but complete solutions. This is more important than smart ass fruitless talk for x minutes.
+  - Practice hands-on tasks.
