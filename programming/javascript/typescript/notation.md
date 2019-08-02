@@ -1,0 +1,31 @@
+# Understanding TypeScript’s type notation
+[Reference](https://2ality.com/2018/04/type-notation-typescript.html)
+
+- Typescript `--strict` setting
+  - `--noImplicitAny`: If TS can't infer a type, you must specify it
+  - `--noImplicitThis`
+  - Use JS strict mode.
+  - ``null` must be explicitly mentioned.
+  - `--strictFunctionTypes`: really checks for function types.
+- JS language has 7 types:
+  - `undefined`
+  - `null`
+  - Boolean
+  - Number
+  - String
+  - Symbol
+  - Object (includes functions and arrays)
+- Type annotation: `let x: number`
+- Type inference: `let x = 123`.
+- `undefined` as a value and `undefined` as a type are both written as `undefined`.
+- Arrays:
+  - List means all elements have the same type.
+  - Tuple: The length of the array if fixed, and the elements do not necessarily have the same type.
+- Optional parameters: `?`
+- Default parameters: `function createPoint(x=0, y=0)`
+- Type annotation + default parameters: `function createPoint(x: number = 0)`
+- Rest types: `function joinNumbers(...nums: number[])`
+- Objects: Are either
+  - Records: A fixed amount of properties known at development time.
+  - Dictionaries: An arbitrary amount of properties whose names are not known at development time.
+- TS's type system: they work structurally, not nominally - meaning they have appropriate structure.
