@@ -42,3 +42,38 @@ class PizzaMaker {
 - `readonly` keyword: ones that cannot be changed once they are initialised.
 - Think about `indexable` stuff in TS.
 - Types vs interfaces?
+
+# Typescript interface initialization
+[Reference](https://stackoverflow.com/questions/23412033/typescript-interface-initialization)
+
+- This `interface` is only used at compile time and for code-hinting/intelligence. Rigorous and type-safe way of using an object with a defined signature in a consistent manner.
+- TS calling:
+
+``` typescript
+// matches the interface as there is a foo property
+start({foo: 'hello'});
+
+// Type assertion -- intellisense will "know" that this is an ISimpleObject
+// but it's not necessary as shown above to assert the type
+var x = <ISimpleObject> { foo: 'hello' };
+start(x);
+
+// the type was inferred by declaration of variable type
+var x : ISimpleObject = { foo: 'hello' };
+start(x);
+
+// the signature matches ... intellisense won't treat the variable x
+// as anything but an object with a property of foo.
+var x = { foo: 'hello' };
+start(x);
+
+// and a class option:
+class Simple implements ISimpleObject {
+    constructor (public foo: string, public bar?: any) {
+       // automatically creates properties for foo and bar
+    }
+}
+start(new Simple("hello"));
+```
+
+- No right way to do it, it's a matter of style choice.
