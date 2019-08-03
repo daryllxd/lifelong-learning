@@ -87,3 +87,8 @@ export class MovieEffects {
 
 - Registering: You must add them to the module to specify that they are part of the package so to speak.
 - Same with feature modules. ***Running an effects class multiple times will not cause Effects to run multiple times.*** There is no functional difference between effects loaded by `forRoot()` and `forFeature`
+
+# Testing
+[Reference](https://ngrx.io/guide/effects/testing#effects-that-use-state)
+
+- `provideMockActions` provides a mock test provider of the `Actions` Observable for testing effects.

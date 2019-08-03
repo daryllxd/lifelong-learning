@@ -1,12 +1,14 @@
 ## [display](http://css-tricks.com/almanac/properties/d/display/) and [the "display" property](http://learnlayout.com/display.html)
 
-	div {
-	  display: inline;        /* Default of all elements, unless UA stylesheet overrides */
-	  display: inline-block;  /* Characteristics of block, but sits on a line */
-	  display: block;         /* UA stylesheet makes things like <div> and <section> block */
-	  display: run-in;        /* Not particularly well supported or common */
-	  display: none;          /* Hide */
-	}
+``` css
+div {
+  display: inline;        /* Default of all elements, unless UA stylesheet overrides */
+  display: inline-block;  /* Characteristics of block, but sits on a line */
+  display: block;         /* UA stylesheet makes things like <div> and <section> block */
+  display: run-in;        /* Not particularly well supported or common */
+  display: none;          /* Hide */
+}
+```
 
 *Inline:* It's inline, it accepts margin and padding, *but it will only push other elements horizontally away*. It doesn't accept `height` and `width` (ignore foo). Ex: `span`, `a`.
 
@@ -30,14 +32,14 @@ Collapsing almost always needs to be dealt with to prevent strange layout and cr
 
 ## [column](http://learnlayout.com/column.html)
 
-	.three-column {
-	  padding: 1em;
-	  -moz-column-count: 3;
-	  -moz-column-gap: 1em;
-	  -webkit-column-count: 3;
-	  -webkit-column-gap: 1em;
-	  column-count: 3;
-	  column-gap: 1em;
-	}
+.three-column {
+padding: 1em;
+         -moz-column-count: 3;
+         -moz-column-gap: 1em;
+         -webkit-column-count: 3;
+         -webkit-column-gap: 1em;
+         column-count: 3;
+         column-gap: 1em;
+}
 
 Very new, won't work with IE9 or in Opera Mini.
