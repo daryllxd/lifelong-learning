@@ -24,3 +24,90 @@
 - Debugging RxJS:
   - When you return something from a `mergeMap` and its expecting an observable, but it returns something that is not an observable, people want to be able to see the function it's returning.
 - Currently: Rx is 24k, they are trying to create T-Rx which takes it to just 3k.
+
+# Understanding RXJS Subjects
+[Reference](https://medium.com/@luukgruijs/understanding-rxjs-subjects-339428a1815b)
+
+- Subjects can multicast. Multicasting basically means that one Observable execution is shared among multiple subscribers.
+- Subjects are like `EventEmitters`, they maintain a registry of many listeners. ***When calling `subscribe` on a Subject, it does not invoke a new execution that delivers data. It simply registers the given Observer in a list of Observers.***
+
+``` typescript
+import * as Rx from "rxjs";
+
+const subject = new Rx.Subject();
+
+// subscriber 1
+subject.subscribe((data) => {
+    console.log(data); // 0.24957144215097515 (random number)
+});
+
+// subscriber 2
+subject.subscribe((data) => {
+    console.log(data); // 0.24957144215097515 (random number)
+});
+
+subject.next(Math.random());
+```
+
+- You can also use a Subject as a data consumer. You can convert Observables from unicast to multicast.
+- If you encounter the scenario where your Observable subscriptions receive different values, use Subjects.
+
+# Understanding RXJS `BehaviorSubject`, `ReplaySubject` and `AsyncSubject`
+[Reference](https://medium.com/@luukgruijs/understanding-rxjs-behaviorsubject-replaysubject-and-asyncsubject-8cc061f1cfc0)
+
+- The `BehaviorSubject` has the characteristic that it stores the “current” value. This means that you can always directly get the last emitted value from the `BehaviorSubject`.
+
+```
+import * as Rx from "rxjs";
+
+const subject = new Rx.BehaviorSubject();
+
+// subscriber 1
+subject.subscribe((data) => {
+    console.log('Subscriber A:', data);
+});
+
+subject.next(Math.random());
+subject.next(Math.random());
+
+// subscriber 2
+subject.subscribe((data) => {
+    console.log('Subscriber B:', data);
+});
+
+subject.next(Math.random());
+
+console.log(subject.value)
+
+// output
+// Subscriber A: 0.24957144215097515
+// Subscriber A: 0.8751123892486292
+// Subscriber B: 0.8751123892486292
+// Subscriber A: 0.1901322109907977
+// Subscriber B: 0.1901322109907977
+// 0.1901322109907977
+```
+
+- We first create a subject and subscribe to that with Subscriber A. The Subject then emits its value and A will log that number.
+- Subject emits next value, A will log this again.
+- B starts subscribing to the subject. Since the subject is a `BehaviorSubject`, the new subscriber will automatically receive the last stored value and log this.
+- The subject emits a new value again, not both subscribes will receive the values and log them.
+- *Last: We log the current subject's value by accessing `.value` => synchronous.*
+- Can create BS with a start value.
+
+```
+import * as Rx from "rxjs";
+
+const subject = new Rx.BehaviorSubject(Math.random());
+
+// subscriber 1
+subject.subscribe((data) => {
+    console.log('Subscriber A:', data);
+});
+
+// output
+// Subscriber A: 0.24957144215097515
+```
+
+- `ReplaySubject` can send old values to new subscribers.
+- `AsyncSubject` is a Subject variant where only the last value of the Observable execution is sent to its subscribers, and only when the execution completes.
