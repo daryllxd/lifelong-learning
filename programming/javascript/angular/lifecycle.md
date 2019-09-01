@@ -59,3 +59,19 @@ class Some {
 - Asynchronous initialisation constructor can be a smell because *class instantiation can finish before asynchronous routine does, and this can create race conditions.*
 - Easier to unit test (not called automatically on component compilation in unit tests, so you can mock it.)
 - Inheritance: child classes can choose whether `super.ngOnInit()` is called and when.
+
+# Angular — Understanding Angular lifecycle hooks with a Sample Project
+[Reference](https://medium.com/bb-tutorials-and-thoughts/angular-understanding-angular-lifecycle-hooks-with-a-sample-project-375a61882478)
+
+- `ngOnInit()`: Occurs only one time. Use case: when getting data from API, initialising 3rd party JS library.
+- `ngOnChanges()`: Occurs every time there is a change in the Input.
+  - Implement `OnChanges` and take in a `SimpleChanges` Object as an input parameter. This checks both `currentValue` and `previousValue`.
+  - When something changes in the `@Input` data property, we can do more changes in this method by comparing previous and current values.
+- `ngDoCheck()`: Occurs every time a change detection happens and manually triggers this.
+  - When something gets updated from the `@Input`, and you have to update an internal property.
+- `ngOnDestroy`: Used to unsubscribe all operations and detach event handlers to avoid memory leaks.
+  - RXJS `takeUntil` operator: Allows subscribing until the certain condition meets true.
+- `ngAfterViewInit()`: Called once view and all other child views are loaded.
+- `ngAfterViewChecked()`: Called once after `ngAfterViewInit` and every time after `ngDoCheck`.
+- `ngAfterContentInit()`: After content inside `ng-content` is projected.
+- `ngAfterContentChecked()`: Called after external content is projected into component's view.
