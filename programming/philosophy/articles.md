@@ -158,3 +158,49 @@
 - Twitter's interest graph is potentially more valuable than FB's social graph, but they compete for the same scarce resource: attention. FB had most probably the most interesting content to ensure most users had no desire to look for something better.
 - Mobile is in every pocket and in a huge percent of the world's population. On sheer numbers alone it is 3x or 4x in size.
 - Unfortunately for Twitter, the attention market of 2016 is far different than it was back in 2009. We have Snapchat, Instagram, messenger services.
+
+# Little Blah
+[Reference](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
+
+- Understand business aspect of the work.
+- Get involved with hiring for your team/company, and maintain a high bar for hiring quality candidates.
+- Design and develop systems appropriate to scale, extensibility, and scope of the problem, and avoids over-engineering.
+- Question everything and ask why until you get to the root of problems and situations.
+- Demand accountability and ownership from others.
+- Lead at least one high-impact project with a clear definition and target of successful delivery.
+- Work towards disambiguating ambiguous problem statements.
+- Cultivate relationships with other teams and develop trust.
+- Listen to others and accept that there is more than one way to look at a problem statement, and multiple valid solutions to a problem.
+- Be involved with multiple projects as a consultant, a reviewer, and/or a mentor.
+- Follow the principles of extreme ownership.
+- Have strong mentors to help you navigate and grow in the company.
+- Take projects with high risk and high rewards.
+- Strive for deep technical expertise in technologies used in your team.
+- Ask for stretch projects from your manager, or help her identify one for you.
+- Discuss the goals of your manager, and how you align your work with it.
+- Network with seniors, peers, and juniors.
+- Be a mentor to a couple of junior engineers.
+- Increase your breadth of knowledge in the domain of your team/company.
+- Drive your one-on-ones. Maintain a list of topics for the next one-on-one discussion.
+- Discuss problems with your manager, but have some solutions beforehand.
+- Increase your breadth of knowledge in technology.
+- Explore emerging tech by building small prototypes.
+- Read a few technical books per year.
+- Understand pros and cons thoroughly of new technologies.
+- Schedule a regular one-on-one with your manager.
+- Actively seek feedback from your manager.
+- Keep your manager up-to-date in things you are involved with, but don't get bogged down in unnecessary detail.
+- Keep your manager up-to-date on people you have difficulty working with.
+- Give constructive feedback to your manager.
+- Talk to your manager about your expectations.
+- Measure what you want to improve, make your efforts measurable.
+- Maintain high visibility projects which have a high risk.
+- To deal with difficult folks, discuss with your managers and mentors.
+- Be reachable to other engineers.
+- Have a huge bias for action and delivery but do not over-compromise on quality. Push back if required.
+- Simplify code, systems, and architectures relentlessly.
+- Demand high-quality work from others, but be pragmatic.
+- Prioritise fixing tech debt in code when the incremental cost to develop keeps rising.
+- Document extensively ("why" more than "how").
+- Respect code and systems that come before you. There are reasons for every code and every guard that exists in production.
+
