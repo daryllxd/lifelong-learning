@@ -48,3 +48,34 @@
 - **Asking too many questions.** It becomes an interrogation.
 - **Tightening up.** Assume rapport.
 - **Poor delivery.**
+
+# The Completely Audacious Guide to Breaking the Ice
+[Reference](https://medium.com/better-humans/the-completely-audacious-guide-to-breaking-the-ice-3f6ea9bbac8d)
+
+- Networking
+  - "Hello, sorry to bother you, but I believe we share a mutual friend in so-and-so."
+- Office
+  - "Recently, my friends and I have been arguing about the following topic. Would you mind being the tie-breaker?"
+  - "In the next five years, which skills do you think will be most in demand?"
+  - "What type of job do you think would be the most beneficial for someone starting out in their career?"
+  - "Is 'follow your passion' good or terrible advice?"
+  - "Do you think most people are productive working from home or in the office?"
+  - These get people to talk about their own opinions about things.
+- School
+  - "If you could read only one book for the rest of your life, what would it be?"
+  - "What is the one subject that schools are not teaching, but should, and why?"
+  - "If you did not have to sleep, how would you spend the extra 8 hours?"
+  - "If you weren't here studying, what would your normal Thursday evening look like?"
+- On introducing yourself:
+  - "I found much greater success ending the conversation by sharing my name and asking for theirs: “I really enjoyed speaking with you. I only have one more question: my name is Michael. What’s yours?"
+  - "Nice to meet you, Liam. I would love to continue this conversation at a later date. Is it cool if I connect with you over LinkedIn?"
+- Gym
+  - "When starting out is consistency more important than intensity?"
+  - "Would you mind sharing with me a few hacks to stay motivated to exercise every day?"
+  - The beauty of the gym is that everyone is taking the steps to improve their health, so immediately you have something in common. Use this to your advantage and ask them about their hard lessons learned and successes earned. You may just find you make a new friend in the process.
+-  At a party?
+  - "As someone who has style, would you mind giving me a few tips on what to buy my sister for Christmas? She loves fashion, but as you may have noticed, I don’t."
+  - "Hi. My name is Mike. How do you know the host?"
+- Ultimately, It’s About Learning from Others
+  - "If you want to be interesting, first be interested."
+  - "What about you? What do you think?"
