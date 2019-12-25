@@ -98,3 +98,15 @@ export class UserFormComponent implements OnInit {
 }
 ```
 
+# Reactive Forms
+[Reference](https://angular.io/guide/reactive-forms)
+
+- Reactive forms: explicit and immutable approach to managing the state of a form at a given point in time.
+- Each change to the form state returns a new state, which maintains the integrity of the model between changes. Reactive forms are built around observable streams, where form inputs and values are provided as streams of input values, which can be accessed synchronously.
+  - Because of its reactive nature, then it can be tested more easily, and other consumers of the form input streams have access to manipulate that data safely.
+- Compared to template forms:
+  - Synchronous access to the data model
+  - Immutability with observable operators
+  - Change tracking through observable streams
+  - Template forms use directives + mutable data to track changes asynchronously. So you would use that if you need to directly access to modify data in your template.
+
