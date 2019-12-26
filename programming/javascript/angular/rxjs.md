@@ -111,3 +111,43 @@ subject.subscribe((data) => {
 
 - `ReplaySubject` can send old values to new subscribers.
 - `AsyncSubject` is a Subject variant where only the last value of the Observable execution is sent to its subscribers, and only when the execution completes.
+
+# RxJS: Don’t Unsubscribe
+[Reference](https://medium.com/@benlesh/rxjs-dont-unsubscribe-6753ed4fda87)
+
+- Keeping too many subscription objects around is a sign that you're managing your subscriptions imperatively, and not taking advantage of the power of RxJS.
+
+```
+ onMount() {
+   const data$ = this.getData();
+   const cancelBtn = this.element.querySelector(‘.cancel-button’);
+   const rangeSelector = this.element.querySelector(‘.rangeSelector’);
+   const cancel$ = Observable.fromEvent(cancelBtn, 'click');
+   const range$ = Observable.fromEvent(rangeSelector, 'change').map(e => e.target.value);
+
+   const stop$ = Observable.merge(cancel$, range$.filter(x => x > 500))
+   this.subscription = data$.takeUntil(stop$).subscribe(data => this.updateData(data));
+ }
+```
+
+- Composed a stream of `stop$` events that kill the data stream. When we decide to add another condition to kill the data stream, just merge a new observable in.
+- This also completes the observable. So you're actually wiring everything up by calling `subscribe` in one place.
+- Very very little performance hit when compared to calling `unsubcribe` manually.
+- Killing a stream in a more `Rx-y` way:
+  - `take(N)`: Emits N values before stopping the observable.
+  - `takeWhile(predicate)`: Test the emitted values against a predicate, if it returns `false`, it will complete.
+  - `first()`: Emits the first value and completes.
+  - `first(predicate)`: Checks each value vs a predicate function, if it returns `true`, emit that value and complete.
+- Using `takeUntil`, `takeWhile` is: more composable, fires a completion event when you kill your stream, has less code, less to manage, and fewer actual points of subscription.
+
+# Angular/RxJs When should I unsubscribe from `Subscription`
+[Reference](https://stackoverflow.com/questions/38008334/angular-rxjs-when-should-i-unsubscribe-from-subscription/41177163#41177163)
+
+# Using the `takeUntil` RxJS Operator to Manage Subscriptions Declaratively
+[Reference](https://alligator.io/angular/takeuntil-rxjs-unsubscribe/)
+
+- Angular takes care of unsubscribing from observables using `async` pipe.
+- The `takeUntil` operator can be used to declaratively manage subscriptions.
+- To unsubscribe declaratively, just use `takeUntil` and destroy the subscription on `ngOnDestroy`.
+- This means no need to keep references to the subscriptions anymore.
+- This will also complete the observable.
