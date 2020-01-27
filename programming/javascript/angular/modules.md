@@ -130,3 +130,13 @@ Even if you do not remember all the rules, ask yourself these questions when wri
 - Should these declarations be part of a separate Widget Module?
 - Should these services be defined here, or should they live in a Service Module?
 - Should this group of components be a smaller domain module?
+
+# Entry Components
+[Reference](https://angular.io/guide/entry-components)
+
+- An entry component is any component that Angular loads imperatively (which means you're not referencing it in the template), by type.
+- You specify it by bootstrapping it in an `NgModule`, or including it in a routing definition.
+- Declared in the template: declarative. Load imperatively: `entryComponents`.
+- Though the `@NgModule` has an `entryComponents` array, most of the time, you won't have to explicitly set any entry components because Angular add components listed in `@NgModule.bootstrap` and those in route definitions to entry components automatically.
+  - Angular compiler only generates code for components which are reachable from the `entryComponents`: adding more references to `@NgModule.declarations` does not imply that they will necessarily be included in the final bundle.
+  - ***If a component isn't an entry component and isn't found in a template, the tree shaker will throw it away. So, it's best to add only the components that are truly entry components to help keep your app as trim as possible.***
