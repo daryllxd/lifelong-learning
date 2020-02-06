@@ -1,3 +1,52 @@
+# Introduction to Forms in Angular
+[Reference](https://angular.io/guide/forms-overview)
+
+- `FormControl` tracks the value and validation status of an individual form control.
+- `FormGroup` tracks the same values and status for a collection of form controls.
+- `FormArray` tracks the same values and status for an array of form controls.
+- `ControlValueAccessor` creates a bridge between Angular `FormControl` instances and native DOM elements.
+
+```
+import { Component } from '@angular/core';
+import { FormControl } from '@angular/forms';
+
+@Component({
+  selector: 'app-reactive-favorite-color',
+  template: `
+    Favorite Color: <input type="text" [formControl]="favoriteColorControl">
+  `
+})
+export class FavoriteColorComponent {
+  favoriteColorControl = new FormControl('');
+}
+```
+
+- The form model is the `FormControl` instance.
+- ***The form model is explicitly defined in the component class. The reactive form directive then links the existing `FormControl` instance to a specific form element in the view using a value accessor (`ControlValueAccessor` instance).***
+- In reactive forms, each form element in the view is directly linked to a form model. Updates from the view to the model and from the model to the view are synchronous and aren't dependent on the UI rendered.
+- When the view changes, an input event fires and the `FormControl` instance value is set, and the `valueChanges` event fires.
+- Data flow from view to model:
+  - User types a value.
+  - Form input element emits and "input" event with the latest value.
+  - The CVA looking for events on the form input element immediately relays the new value to the `FormControl` instance.
+  - The `FormControl` instance emits the new value through the `valueChanges` observable.
+  - Any subscribers to the `valueChanges` observable receive the new value.
+- Data flow from model to view:
+  - Call `setValue` on the control, which updates the `FormControl` value.
+  - The `FormControl` instance emits the new value through the `valueChanges` observable.
+  - Any subscribers to the `valueChanges` observable receive the new value.
+  - The CVA on the form input element updates the element with the new value.
+- Form validation in reactive forms: define custom validators as functions that receive a control to validate.
+- Testing reactive forms: they provide a synchronous access to the form and data models, and they can be tested without rendering the UI. Status and data are queried and manipulated through the control without interacting with the change detection cycle.
+- Testing view-model communication:
+  - Query the view for the form input element, then set that value differently, and assert that the component's value matches the value from the input.
+- Testing model-view communication:
+  - Use the `FormControl` instance to set the new value.
+  - Query the view for the form input element.
+  - Assert that the new value set on the control matches the value in the input.
+- Mutability and reactive forms:
+  - They keep the data model pure by providing it as an immutable data structure. Each time a change is triggered on the data model, the `FormControl` instance returns a new data model rather than updating the existing data model. So you can track unique changes to the data model thorough the control's observable.
+
 # How to Handle Angular Reactive Forms
 [Reference](https://www.gistia.com/angular-reactive-forms/)
 # Reactive Forms vs Template Forms
@@ -109,4 +158,3 @@ export class UserFormComponent implements OnInit {
   - Immutability with observable operators
   - Change tracking through observable streams
   - Template forms use directives + mutable data to track changes asynchronously. So you would use that if you need to directly access to modify data in your template.
-
