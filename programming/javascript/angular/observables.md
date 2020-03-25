@@ -127,3 +127,59 @@ observable.subscribe((event) => {
 - Use a hot Observable unless:
   - You want to make sure multiple subscribers get the same data.
   - Instantiating something outside of the observable (something shared between multiple consumers, like a web socket connection).
+
+# Using `takeUntil` RxJS Operator
+[Reference](https://alligator.io/angular/takeuntil-rxjs-unsubscribe/)
+
+- Angular  takes care of unsubscribing from many observable subscriptions - ex: `HttpService` stuff and when using the `async` pipe. Outside of that, it becomes a mess to keep tabs on all subscriptions and make sure we unsubscribe from everything.
+- If we unsubscribe manually, then we do this:
+
+```
+  ngOnDestroy() {
+    this.myQuerySub.unsubscribe();
+
+    if (this.myIntervalSub) {
+      this.myIntervalSub.unsubscribe();
+    }
+  }
+```
+
+- Unsubscribing declaratively with `takeUntil`:
+- A benefit is that we don't need to keep references to our subscriptions anymore.
+
+```
+  ngOnInit() {
+    this.apollo.watchQuery({
+      query: gql`
+        query getAllPosts {
+          allPosts {
+            title
+            description
+            publishedAt
+          }
+        }
+      `
+    })
+    .takeUntil(this.destroy$)
+    .subscribe(({data}) => {
+      console.log(data);
+    });
+  }
+
+  onStartInterval() {
+    Observable
+    .interval(250)
+    .takeUntil(this.destroy$)
+    .subscribe(val => {
+      console.log('Current value:', val);
+    });
+  }
+
+  ngOnDestroy() {
+    this.destroy$.next(true);
+    // Now let's also unsubscribe from the subject itself:
+    this.destroy$.unsubscribe();
+  }
+```
+
+- Using an operator like `takeUntil` instead of manually unsubscribing will make you complete the observable, so make sure your code doesn't create any unintended side effects.
