@@ -50,3 +50,7 @@
 
 - AR can be split into an Entity, a Data Object, and a Repository.
 - Persistence: `OrderRepository`. Having a separate object is beneficial, because it simplifies testing as it can be mocked up or faked.
+
+# Application Services - 10 common doubts answered
+[Reference](https://blog.arkency.com/application-service-ruby-rails-ddd/)
+

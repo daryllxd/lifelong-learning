@@ -1115,3 +1115,22 @@
 - You don't waste time gossiping.
 - You're careful about who you let into your life.
 - You don't need superficial attention.
+
+# The Discomfort You're Feeling is Fear
+[Reference](https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief)
+
+- We feel the world has changed, we know this is temporary, but it doesn't feel that way. Things will change and this is the point at which they changed. The loss of normalcy, the fear of economic toll, the loss of connection. Collectively, we are grieving. We are not used to this kind of collective grief in the air.
+- Anticipatory grief - the feeling we get about what the future holds when we're uncertain. The same thing as when you get news about someone who gets a bad diagnosis. With this virus, this kind of grief is confusing, because our primitive mind knows something bad is happening, but you can't see it, and this breaks our sense of safety. We're feeling that loss of safety.
+- To manage the grief - the stages are not linear.
+  - Denial: "The virus won't affect us."
+  - Anger: "You're making me stay at home and taking away my activities."
+  - Bargaining: "Okay, if I social distance for two weeks, everything will be better, right?"
+  - Sadness: "I don't know when this will end."
+  - Acceptance: "This is happening, I have to figure out how to proceed.
+- Unhealthy anticipatory grief is really anxiety, and that's the feeling you're talking about. We think about the worst scenarios. Our goal is not to ignore those thoughts, but to find balance in the things you're thinking. If you feel the worst image taking shape, make yourself think of the best image.
+- To calm yourself, you want to come into the present. Just think that nothing you've anticipated has happened. Right now, you're okay. You have food. You are not sick.
+- Let go of what you can't control. You cannot control your neighbor. What you can control is to stay far from your neighbor and wash your hands.
+- Stock up on compassion - everyone will have different levels of fear and grief and it manifests in different ways. Think: "that's not like this person, that's how they're dealing with this. I'm seeing their fear and anxiety."
+- Historically, this is survivable. The sixth stage of grief: acceptance. We can connect through technology. We can use our phones for long conversations. We are appreciating walks. I believe we will continue to find meaning now and when this is over.
+- Emotions are emotions. Let yourself be sad. Your work is to feel your sadness and fear and anger whether or not someone else is feeling something. Fighting it doesn't help because your body is producing the feeling. If we allow the feelings to happen, they'll happen in an orderly way, and it empowers us. Then, we're not victims.
+
