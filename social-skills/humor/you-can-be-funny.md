@@ -42,4 +42,57 @@
 # Exaggerate More
 
 - Good exaggerations often trigger quick mental visuals of the exaggerated event. If it's not remotely possible, people have difficulty suspending any disbelief. It just makes normal situations more interesting than they really are.
+- Literal or factual comments will never be as visual, emotional, or dramatic as exaggerated comments. Think about what comments you can make about "old", "full", "hungry".
+- Describing something in a new or more exaggerated way can serve as a good response. Then, people can build on another person's previous comment. Just use superlatives: the biggest, the best, the longest. Superlatives make everything more dramatic and interesting. "He may have the worst serve in the history of men's tennis."
+- Exaggerated idiosyncrasies and quirks are usually very entertaining. Exaggerate the impact something has. Not every exaggerated comment will take off, but they at least open the door to playfulness and create an opportunity for fun and humor.
 
+# React More Like a YouTuber
+
+- People who don't react much to anything are boring. Reacting is not just good for humor, it's also good for engagement. You can't make people laugh without being an active participant in the social situation. Boring people react seriously and soberly to everything. Act a little, for yourself first.
+- Knowing how to make interesting observations is the next important technique, and the funniest reaction-video YouTubers are masters at observational humor. They know how to look for and point out the ridiculous or interesting in the mundane, all without necessarily being exceptionally witty or clever. Study how they make observations. Your ability to engage people, maintain a fun conversation, and make people laugh will improve tenfold by engaging and reacting to the ordinary aspects of day-to-day life more dramatically.
+
+# Add Some Flavor to Your Opinion Soup
+
+- When you introduce more subjectivity, you start creating more interesting conversation and moving closer toward humor. Instead of saying, "that's a naked statue", you can add more subjectivity and strength to the observation: "that's an R-rated statue", "I think that once you become a status, you should be allowed to show any body part you want".
+- *Save your stronger opinions for trivial topics so you mitigate the chance of offending someone.* All humans are fascinated with superlatives, incorporate more hyperboles, categorical, and absolute statements.
+- Playful opinions about other people and the nuances of human behaviour constitute a large area ripe for exploring. "He's supposed to be Elvis? My mom looks more like Elvis than that guy." "I think you may have an addiction to chocolate-covered almonds. I know a good 12-step program if you need help.
+- You have to be good at describing things.
+
+# Stick a Label on It
+
+- "You can categorise 90% of my male listeners by one of three summer activities: there's boat guy, there's golf guy, and there's cabin guy."
+- Make up new meanings for words or new words entirely:
+  - Walking up and down stairs every day for work? "Corporate aerobics."
+  - Daughter visiting wildlife in the backyard? "Squirrel whisperer."
+  - Holding the door? "Bellhop", "underpaid doorman".
+  - Friend making fun of cargo pants? "Pocket envy."
+- Develop an eye for noticing subtleties in human behaviour and appearance. Talk about the idiosyncrasies of the human condition. Question why people act the way they do. Point out your own experiences and quirks. If you can, re-enact the behaviour or mannerisms you've observed.
+- When labelling, make sure your label is blatantly wrong, or someone may think there's truth to it, and they become confused instead of amused.
+- Label yourself: "I feel like a soccer mom...", "I don't want to sound like a get off my lawn guy", "I'm a fancy guy".
+
+# That Looks Like
+
+- Figurative language is usually more entertaining and enjoyable than literal language. Metaphors, similes, and other figurative language is your ticket to more colorful and imaginative commentary.
+- "I feel like x right now".
+
+# Imagine the Impact
+
+- Talk about the potential impact some action or comment has on you, someone or something else. How might someone feel, how might someone else react?
+
+# Imagine a Playful Explanation
+
+- "Your son has been so good this whole time" => "Thanks, someone probably gave him a few beers from the fridge!"
+
+# Talk About the Almost
+
+- Talk about what "almost" occurred. The "almost" moments are sometimes more interesting because they open the door to hypothetical possibilities.
+
+# Seek Hypothetical Solutions
+
+- Ex: When losing hair, think about bringing powdered wigs back.
+
+# Hit Them With the Right Hook
+
+- Interesting angle: introduce drama or intrigue into the story and is often what hooks someone in. Interesting angles consider unique perspectives or compelling viewpoints. Tap into the emotional side of the human brain, instead of its analytical side.
+- Good journalists are good at transforming dry information into interesting stories. They've mastered the art of engagement and know what gets your attention.
+- The skill of making people laugh starts by creating opportunities for laughter. Like how hypothetical statements need a strong observation precursor, many fun comments need to be "set up" before the situation is ripe for comedy.
