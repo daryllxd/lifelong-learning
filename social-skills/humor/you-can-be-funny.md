@@ -96,3 +96,73 @@
 - Interesting angle: introduce drama or intrigue into the story and is often what hooks someone in. Interesting angles consider unique perspectives or compelling viewpoints. Tap into the emotional side of the human brain, instead of its analytical side.
 - Good journalists are good at transforming dry information into interesting stories. They've mastered the art of engagement and know what gets your attention.
 - The skill of making people laugh starts by creating opportunities for laughter. Like how hypothetical statements need a strong observation precursor, many fun comments need to be "set up" before the situation is ripe for comedy.
+
+# Look for Contrasts
+
+- Contrasting statements inherently create interesting angles and hook people in.
+- Even things like "Yes, I mean no!" make people smile lol.
+- Rule of Three: The first two things create a pattern, the third thing breaks the pattern.
+- Ex: "I really loved it", vs "I didn't think it would be any good, but I actually really loved it!"
+- Contrasts can be formed by contrasting against the comment before it.
+- "I had some great tacos from a food truck down the street, and it wasn't even a fancy one, it was one of those old ones, too!"
+- "You went easy on me in there. I thought you were going to crucify me about being late!"
+- "I started working out of my house, until I realised that working out of your house will make you go crazy and start talking to the dog all the time!"
+- "I hope they `___`, because last time they `___`."
+- "I was/wasn't expecting `___`, but `___` occurred."
+- "I wasn't sure about `___`, but I think I'm going to `___`."
+- "I didn't think I would like `___`, but it turned out to be `___`."
+
+# Look for Disagreements and Exceptions
+
+- "Oh, I'll eat anything, I'm not picky at all, except mushrooms. I don't go near fungus!"
+- Strong initial comment often results in a better contrast.
+- "Although I spilled soda all over my pants, but other than that, it was a blast!"
+- "I love you man, even if you smell like vinegar."
+- "I mean, it did look like sewage water, but it still tasted good!"
+- "The surest way to failure is to try to please everyone."
+
+# Play with the Premise
+
+- Humor often relies on misdirection. Whenever there is an understood assumption, premise, or expectation, there is an opportunity for a humorous contrast of that assumption, premise, or expectation.
+- It's better to save the punchline of any type of joke or funny comment for the end. You want to allow for enough build-up of anticipation to occur.
+- "The best tool in my garage is my wallet." is better than "My wallet is the best tool in my garage".
+- The more literal, serious, and predictable you are; the more likely you're not saying anything funny. It also has to not be nonsensical.
+- Applying the Technique:
+  - Consider the underlying premise/subtext of the situation.
+  - Consider what someone probably expects to happen next.
+  - Instead of saying/doing what is expected, move along the premise and reversing the initial expectation.
+
+# Make It Trivially Significant
+
+- Treating a significant situation as trivial, or a trivial situation as significant is an easy-to-cook recipe for humor. In either case, the premise is being played with to create a contrast.
+
+# Observational Humor
+
+- Zooming in on the mundane, finding the commonality we all experience, and finding the absurd aspects of it. If you find something strange or nonsensical, it's likely others will too if you describe it accurately. Share more of the quirky subtleties of your life experiences and observations of everyday things.
+- Look for an insignificant thing that could take on a larger role, exaggerate its characteristics, question why it exists, and provide supporting examples to prove your point if applicable.
+- A lot of humor relies on pretending to sweat the small stuff.
+- "This laptop is burning me. I think the top of my pants are melting. I can smell the slight burning of my thigh skin."
+- Self-observations are the safest kind because it's difficult to offend anyone if you're targeting yourself, which leaves the door wide open for extreme exaggerations and embellishments. Talk about yourself and your silly quirks more. Share more funny stories about your life.
+  - "I'm always late to `___`. I end up pissing everyone off because I `___`."
+  - "I never eat `___`. It grosses me out that they `___`."
+  - "I'm kind of obsessed with `___`. Don't tell anyone, if anyone found out, I'd `___`."
+- Pay more attention to what you find interesting in the world. Look for patterns or strange coincidences. Analyze those moments where you stop and say, "Huh, that's interesting." Expand on it, why is it interesting?
+
+# Sneak in Some Sarcasm
+
+- Make funnier comments with understatements or overstatements.
+- When presented with any situation: you can either overstate, state the facts exactly, or understate.
+- Sarcasm is not too hard to get right, it's not too risky, and it sometimes makes people smile or laugh.
+
+# Add Hypothetical Statements to Your Opinions
+
+- "I love reading. I'd live in the basement of a bookstore if they'd let me."
+- "It costs 50K? That's expensive. That's a down payment on a house!"
+- "That's risky, I'm not doing that. You'd have to buy me lunch at Panera every single day for three months straight."
+- "It has 50 grams of sugar? You might as well be drinking a glass of corn syrup!"
+- "That's a lot of signs" => "I don't know if they have enough signs." Exaggerate the absurdities of everyday life. If you look for absurdities, you'll find them.
+- You can call out someone's pattern of behaviour with a beautiful and hilarious hypothetical metaphor:
+  - Conan: "Corralling you is, wow, very difficult. You’re like a kitten at a rave, you’re just all over the map. You’re distracted by colors… you’re spinning… you’re pawing at the air. People are picking you up, you get loose, and you run around again. I am trying to get a cogent interview and it’s impossible."
+  - "You’re always so laid back and chill. You’re a guy who shows up, and you’ve got your Panama hat and your boardshorts. And you’re wearing your saratchos… clubatos… I’m making up words now."
+- You can also make up some fun secret motivations. "You're secretly a ..."
+- Secret intentions: attribute human traits to animals or objects.
