@@ -166,3 +166,98 @@
   - "You’re always so laid back and chill. You’re a guy who shows up, and you’ve got your Panama hat and your boardshorts. And you’re wearing your saratchos… clubatos… I’m making up words now."
 - You can also make up some fun secret motivations. "You're secretly a ..."
 - Secret intentions: attribute human traits to animals or objects.
+
+# Reveal Playful Secrets
+
+- Giving secret intentions and ulterior motives: injecting yourself as the reason for something seemingly unrelated can be an easy way to walk into some humor.
+  - Pretend to be part of the cause or solution to something, pretend to be involved with something that no one would have suspected, pretend to be an example of why something works or not, and pretend to feel or think the opposite of what anyone would suspect.
+- When someone shares a unique experience, it's assumed that you probably didn't have the same experience. That assumption is the premise, so revealing what you did can be a surprise twist.
+- Conan possesses a memory for pop culture and facts that few could rival. He also often incorporates his own backstory.
+- You might not want to reveal personal information, but your humor will primarily come from two sources - comments about your surroundings and comments about yourself.
+
+# Be a Play Partner
+
+- When someone throws a playful comment your way, instead of dropping the ball or jumping back into the serous zone, pretend it's true and think about ways to play along. What would be the impact on you or others? How can you exaggerate the hypothetical even further?
+- For everyone starting a new job: they will be looking to see if you can play along with others.
+- "No" - instead of just saying "no", can add a hypothetical. No, if I did, I would/could `___`.
+
+# Use the Meta, Luke
+
+- Instead of addressing what an audience said, a speaker can comment on how the audience said it. You can reference the social interaction itself in some way.
+- Meta comments: actions, voices, words, internal thoughts.
+- Spin mistakes into humor gold: you will make mistakes - meta comments referencing your error are effective at recovering from awkward situations. Even if the mistake was not awkward, highlighting it with a meta comment can be entertaining conversation material. If you admit the mistake first, you can sometimes take advantage of it.
+- "This probably looks weird, I hope no one notices."
+
+# Meta Afterthought
+
+- State a possible consequence or reaction to what you just did or said. Reflect on it, think about underlying, unstated premises or subtexts.
+- Meta afterthoughts: conclusions, summaries, realisations.
+- Callback - drawing a humorous connection between the present topic and a previous topic, preferably within the same conversation
+
+# Pop Culture Knowledge
+
+- IF can't pop culture, can use making references to real-life scenarios, common experiences, events, or human behaviours instead.
+- Things like standing in line at the DMV, attending a concert, getting bullied in school, getting pulled over by the police, sharing something with a sibling, having a first kiss with someone you like, going to the movies and eating popcorn, and driving through a snowstorm.
+- Cross context: using jargon in a different context.
+
+# Label, Meet Reference
+
+- Labels and references often initiate play. Incorporate more types of comments that push the conversation into the play zone. It's important to first create an environment for laughter if you want to make people laugh.
+- Labels, stereotypes, or generalisations work best when employed in a playful and innocuous manner with good friends because there's a risk with putting people in narrowly defined categories.
+- If you hear someone else mention a good theme or reference, see where you can add a detail to theirs.
+
+# Ask the Fun Questions
+
+- Seeing someone holding a monitor: instead of asking why they are holding a monitor, ask if they are stealing it.
+- Playful, funniest questions are often about imaginary, hypothetical things. Fun questions rely on labels, references, sarcasm, premises, meta, and feeds into the making of fun questions.
+- Hypothetical summaries and conclusions: summarise or conclude something in a more exaggerated or fantastical way than expected.
+- Incredulous questions: Set up opportunities to ask hypotheticals that could help explain the behaviour.
+
+# Tell Stories
+
+- You can story tell to cover the facts, or you can story tell to be more playful.
+- Calling a day "car day" to make a label out of an ordinary day. Exaggerate the number of hours you worked on the car. Focus on the interesting parts instead of the dry, technical details about random shit. Meta afterthought about needing a new hobby.
+- Detailed versions can lead to better follow-up comments. The trick is to add just enough details to make the story colorful and captivating to the listening, but not that many that the story gets bogged down in unnecessary information.
+- A good story usually points to elements of life that are unique, unusual, or interesting. Everyday life is full of events and occurrences that make for interesting stories.
+- Any story about your experiences will be relevant and at least a little entertaining to your friends. Your friends and family care about you, so your stories are more likely to be engaging to them.
+- The more someone knows about you, the more they tend to like you. The more they know about you, the more comfortable they'll be at telling their own stories when they're with you.
+- The Basic Story Structure
+  - Something normal eventually clashes with something unexpected. But unlike the contrasts we looked at up until this point, stories contain more detail, more build-up, and more explanation.
+  - A good storyteller teleports listeners to a place where they can feel and experience something just as the storyteller experienced it. Telling parts of your story in the present tense helps to do that. "And I'm standing there, right next to this huge man..." Can alter voice to match the character in the story, too.
+- Five Parts of a Good Story
+  - Paint the Scene: Few descriptive and interesting details.
+  - Normalise: Establish a normal expectation so you can crash something against it later in your story. What were you expecting before the turning point in the story? What were your thoughts or feelings at that moment? Take the listener through your experience and your thought process. The better your normalising is, the more entertaining the contrast and turning point will be. "Well I was thinking...", "Normally it would be...", "I assumed it would just be like..."
+  - Contrast/Turning Point: Mention the moment in time when the turning point/significant change happened.
+  - Reaction: Describing "how I reacted typically" triggers the best and biggest response from the audience. This is the easiest part to add - if you can't fit in your own reaction, tell your listener how someone else reacted or felt about the event. People love hearing the human interest elements of any story. They don't want recited facts, they want someone they can identify with emotionally. Include the reactions of the main characters in your story too.
+  - Conclusion/Meta Afterthought: What happened after the turning point and reaction occurred? Now that you've had time to reflect, how do you feel about what transpired? "I still can't believe...", "If it wasn't for so-and-so, I'd probably be...", "I don't know how he got the job...", "I still haven't been over there". Remember to use superlatives: "And the worst part of the thing was...", "and the weirdest part of all was...".
+- The more you tell and remember stories, the larger your story repertoire will grow, and the more likely you'll be able to tell them the right way at the right times.
+
+# Commit to Character
+
+- Take advantage of the characters around you and bring them to life. Robin Williams - the secret to his success is his ability to get quickly into character - voices and mannerisms for hundreds of unique characters. Jim Gaffigan - Using the character voice to act what the audience is thinking - the voice is the foil or reaction to his jokes. It's usually a middle-aged conservative woman reacting to his jokes.
+- You have a license to embellish and exaggerate far beyond the literal and actual spoken words. Retelling what you or someone else said or thought is more entertaining when you exaggerate your impersonation. Subtle change in voice or mannerism is highly effective.
+- Best dialogue:
+  - What you wanted to say
+  - What was almost said
+  - Your thoughts/inner monologue
+  - What should/could have been said
+  - Their hypothetical inner monologue
+
+# Bring Along a Side Comment
+
+- Side comments allow you and your audience to step outside of the story for a moment and elaborate or comment on elements within the story. Side comments are usually directed at yourself: how you're talking, acting, feeling, or some other observation.
+- These verbal asides can be light, fun, and unrelated to the story itself. They keep the audience engaged because they are unexpected and add a new dimension, all while buying additional time to think of where you're going next.
+- Many side comments just explain your dilemma and voice what you're thinking at the time. Your inner thought process can make the retelling of an event more entertaining. Remember the power of the hypothetical. Discuss what option you should have or could have chose now that you have had time to think about it. Talk about what almost happened.
+- Side comment engagement: Involve the people you're conversing with and avoid talking "at" someone for too long. Insert side comments which allow your listeners to better connect to the story.
+
+# Get Onboard the Fun Express
+
+- Fun-loving comments occurs in rapid-fire succession and it's hard to keep up.
+- Group banter and meta comments: allow meta comments to help you deflect rather than get defensive and spoil any potential jolly mood.
+
+# Study
+
+- Keep studying people who make you laugh. Learn their habits, their mannerisms, their lines, and study their timing and delivery. Get your hands on anything and everything you find funny and consume it like your mom told you not to.
+- Good comedians know how to take the mundane and make it funny. Situations you've encountered a hundred times, and don't see the funny in - they see it. Study comedians and enhance your ability to recognise the funny in everyday situations.
+- Play more, play around with words and meanings.
+- Watch more funny people, and tell more stories. Start with super quick stories about recent everyday stuff - you'll becomes more comfortable with this in time.
