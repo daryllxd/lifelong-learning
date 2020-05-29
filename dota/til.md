@@ -97,3 +97,14 @@ Elder Titan
 - CK vs melee, you can stay in the back and when they approach for a last hit, use reality rift to get him to try tanking the creep wave.
 - Warlock: Better to use Shadow Word as a heal than as a nuke. Golems do chaos damage so they suck against towers, just let them hit the next creep wave.
 
+Kotl support with JM
+
+- When pulling, figure out if you can out-contest the other support for their pulls
+- Got to get heroes that can be abused with Chakra, if also have a nuke that can do some kill potential
+- Dragon Knight Breath of Fire reduces enemy damage
+- Check Grimstroke skills/avoid Ink swell, it's avoidable anyway
+- Have to abuse Fatuus cooldown, when you have it look for fights, if not just farm
+- Dire right triangle - hit ancient creep on 53 then quick charge Illuminate on 55
+- Awareness that you always have a TP so you're efficient when making plays
+- Bottom push T1 bad play cause can't see enemies on the map
+
