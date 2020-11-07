@@ -25,4 +25,30 @@
 - Ambivalence: Nervous laughter to cover our recognition of rigid conventions that make us appear foolish.
 - Release: It releases life's tensions and inhibitions.
   - Theory: If we feel the need to laugh, it's because we've been whipped by the day's battles and we'd like to hear or see a few others get smacked around. Misery loves company, but only if we can laugh at them and they can't laugh back at us.
+- Ask yourself and your own psychology: why did I laugh at this joke and not others?
+- *Grand Unified Theory of Comedy: Laughter occurs when there is a violation of something benign. Slapstick, insults, strange behaviours represent transgressions of personal, social, and moral norms. To be considered funny, the violation must be harmless or at least perceived as benign.*
 
+## Analysing the Funny
+
+- 2 most important humor principles: Surprise and superiority. Identify how the element of surprise is used and the ways in which the audience feels superior.
+- Favourite humor article or column, and highlight funny sections - how does the author use surprise to deliver the punch?
+- Watching a funny comedy - why and how did humor work?
+- Examine funny personal stories and anecdotes that you share with your friends to confirm how surprise and superiority play a role in the humor.
+
+# The Recipe for Humor
+
+- Consistency and targeted material. If you are consistent, you can make people laugh repeatedly - the ability to write funny isn't a one-time thing.
+- Once you can consistently make people laugh, it's essential to target your material so you don't waste precious time preparing the wrong material for the wrong performer, to be delivered to the wrong audience, for the wrong purpose. This is true for all forms of humor writing.
+- Material, audience, performer, purpose.
+- Required elements: Target, hostility, realism, exaggeration, emotion, and surprise.
+- Target: Humor is an attempt to challenge the status quo, but targeting must reaffirm the audience's hostilities and prejudices. Egocentric humor targets - "my girlfriend, my parents, my sex organ". Successful humorists - select targets with universal appeal. Ex: target being a mother, not specific eccentricities of your family.
+  - Self: Least offensive target. Comics usually open by ridiculing their shortcomings: their physical characteristics, finances, intelligence, success. Once the audience is laughing, it's time to move on to hotter issues.
+  - Sex: Men's greatest sexual concerns generally center around size, the ability to get an erection, performance, the amount of sex they're having, premature ejaculation, impotency.
+  - Celebrities/politicians, places, products.
+- Hostility: All of us have some hostility toward some people, thing, or idea.
+  - Authority: Nihilistic humor: there is no person or thing so sacred as to be beyond ridicule.
+  - Money and Business: Since everyone has personal money problems, focusing hostility on financial matters is one of the best ways to show the audience you share their problems.
+  - Family affairs: family members and household affairs.
+  - Angst: fear of death, coping with deformity, deprivations, neurosis.
+  - Technology: Software, portability of technology that threatens our routines, surveillance, and how we can't control our environment.
+  - Group differences: We hope to maintain some sense of superiority by ridiculing abnormal characteristics of others. We fear control and intimidation by people of different colors or religions, and we attempt to stereotype their physical appearances, ethnic mannerisms, colloquial speech, any unique characteristic we find odd.
