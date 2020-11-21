@@ -52,3 +52,50 @@
   - Angst: fear of death, coping with deformity, deprivations, neurosis.
   - Technology: Software, portability of technology that threatens our routines, surveillance, and how we can't control our environment.
   - Group differences: We hope to maintain some sense of superiority by ridiculing abnormal characteristics of others. We fear control and intimidation by people of different colors or religions, and we attempt to stereotype their physical appearances, ethnic mannerisms, colloquial speech, any unique characteristic we find odd.
+- Realism: Jokes bend the truth but can also sort of lie about it.
+  - Humor results from the contrast between a things as it is and ought to be, and a thing smashed out of shape, as it ought not to be.
+  - This is why some children's humor is fun, because it gives us some kind of benevolent superiority. So humor should be as realistic as possible.
+- Exaggeration.
+  - "I saw this today in the window of Victoria's Secret: a camouflage thong. On what battlefield are you finding it necessary to disguise yourself as shrubbery with a great ass?"
+- Emotion: Burst the bubble.
+  - There must be a buildup of anticipation in the reader or audience. This is really nothing more than the writer's skill in using emotion to produce tension and anxiety. The writer's goal is to see that the balloon bursts with laughter, not hot air.
+- Surprise.
+
+# Play on Words
+
+- "Two word-joke: dwarf shortage. If you're offended, grow up."
+- Creating jokes from scratch: imagining what-if situations and then playing with words.
+- Majority of all humor is based on plays on words. Twist on a popular cliche, aphorism, book, movie, song title, quote, slogan.
+- The success of written and performed comedy based on POW depends on the performer's mannerisms and inflections and the audience's knowledge of the nuances of the language.
+- Funny words: words with "K" in them are funny. Why does the "k" sound funny? Research indicates that babies associate the sound with comfort and joy.
+- Names: There are just some names which sound funny because they match our stereotypical expectations.
+- Cities and places.
+- Foods and products: tutti-frutti, frankfurter, kumquat, Whopper, Spam, Kotex.
+- Ethnic expressions.
+- Numbers.
+- Creating words:
+  - "Truthiness" => truth that comes from the gut, not books.
+  - Replacing one or two letters: "we skid you not", "Wok and roll", "Mustard's Last Stand", "Aesop's Tables".
+  - Redundancies: "added bonus", "exactly right", "sum total", "free of charge".
+- Double entendre: 2 meanings.
+- "It" is the most popular double entendre word. "Boy, am I going to get it when I get home. Or maybe I'm not going to get it when I get home."
+- "In" is the second most common double entendre word. "Isn't it great to be in June? Yes, but her sister Barbara was even better."
+- Malaprop (malapropism) is an unintentional misstatement or misuse of a word or phrase, or an accidental substitution of an incorrect word for a (similar) correct one - to humorous effect.
+  - "You wouldn't have won if we had." "If people don't want to come, nobody can stop them."
+  - We can laugh when we feel superior about somebody mangling their English.
+  - "A witness shall not bear falsies against thy neighbor. What do I look like, an inferior decorator?"
+- Oxymoron: a contradiction in terms. "Fast idle, loud whisper, near miss, almost pregnant, explicit innuendo, true lies".
+
+# More POW
+
+- Cliches are shortcuts to comprehension we use when creatively lazy or mentally bankrupt. Humor writers can use audacious and surprising interpretations of cliches to shock an audience into laughter.
+  - To achieve surprise, do a last second switch.
+- The simple truth: a technique for creating humor by considering the implications of the literal meaning of such expressions, without the context of logical assumption.
+  - "I was very lucky I married 'the one'. On a scale of one to ten, he was the one."
+  - "How do we get there? We walk this way."
+- Simple-truth construction: reexamine every major word in a phrase, reject its most common meaning within its context, and reinterpret it literally.
+  - "I slept like a log last night. I woke up in the fireplace."
+  - "When I got divorced, I missed my husband, but I'm getting to be a better shot."
+- Comedy writers are not philosophers. We are linguistic specialists concerned with exactly what the literal logic of a word conveys.
+- "I have a paper cut from writing my suicide note. It's a start..."
+- "The face of a child can say it all, especially the mouthpart of the face."
