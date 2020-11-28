@@ -812,7 +812,6 @@
 - ***Stop dealing with stuff that no longer makes sense.*** You'll act with far more purpose, persistence, and boldness.
 - If you want more confidence, start striving toward the life you want. Even if you fail, you'll be proud of yourself. And if you're committed, you'll begin to succeed. You'll eventually get so much momentum that it becomes your new normal to operate at optimal levels.
 
-# UX Your Life: Applying the User-Centered Process To Your Life
 [Reference](https://www.smashingmagazine.com/2018/06/ux-your-life-user-centered-process/)
 
 - The Internet's advice on life: full of vague phrases/platitudes, implying attainable/achieved perfection, and calls for sudden/uninformed optimism.
@@ -1134,3 +1133,64 @@
 - Historically, this is survivable. The sixth stage of grief: acceptance. We can connect through technology. We can use our phones for long conversations. We are appreciating walks. I believe we will continue to find meaning now and when this is over.
 - Emotions are emotions. Let yourself be sad. Your work is to feel your sadness and fear and anger whether or not someone else is feeling something. Fighting it doesn't help because your body is producing the feeling. If we allow the feelings to happen, they'll happen in an orderly way, and it empowers us. Then, we're not victims.
 
+# Friedrich Nietzsche: Why Life Isn't Meaningless
+[Reference](https://medium.com/@ztrana/friedrich-nietzsche-why-life-isnt-meaningless-44ab0fb53a85)
+
+- Nietzsche's real concern: finding meaning in a world that was seeing a trending decline in religion.
+- Evolutionary theory suggests that life is nothing more than survival and genetic endurance. Many religions lean towards a belief system that prefers the idea of heaven as a destination.
+- Psychotherapy:
+  - Will to pleasure: Freud.
+  - Will to meaning: Frankl.
+  - Will to power: Nietzsche. Mastery over oneself and the environment. This is what dictates our behaviour, and to live meaningfully is to align this will to power with actions and intentions.
+- Increasing power over yourself can be about controlling emotions. Increasing power over the environment may be about opportunity and optionality. An increase in power over others is more often a product of kindness than it is violence.
+- Ubermensch: The ideal end for people to strive towards, and to get there, we would have to overcome and master our current self.
+  - ***In a world losing its connection to God and religion, he saw a need for us to create our own values to live meaningfully. But to do that, we would first need to envision a better and more advanced being than our current selves as to give us a significant aim.***
+  - There is an image that is worth striving. An image that motivates the values we hold and the context in which we frame our will to power. The idea of self-overcoming is less about a sudden change than it is about an ongoing personal transformation. The point is to give the journey of evolution a form of meaning.
+- Pain demands an action, but it doesn't always just go away.
+- Nietzsche: The only problem with suffering is that we automatically label it as bad. We see it as something to avoid even though the rational function of pain is to make us stronger.
+
+# How to Avoid a Life of Misery
+[Reference](https://medium.com/personal-growth/how-to-avoid-a-life-of-misery-4c9cf2ab9ca9)
+
+- Core idea of stoicism: be aware of what you can and what you can't control. Once you have that awareness, you can avoid misery by changing what you can control and letting go of what you can't.
+- Internal locus of control: Change what you can control. Let go of what you can't control.
+- ***Everything in life is your responsibility, and every negative occurrence is bad because of how you dealt with it, not what happened. You should expect to be treated unfairly, you should know that things will be hard, and you should be ready for stress and pain.***
+- With this state of mind, there is no excuse, even if it is valid, because you accept full responsibility, and you begin to associate the annoyances of life with your own inability to deal with them.
+- While a lack of focus is never going to help you establish a sense of mastery in any single domain, it's important to balance the meaning you derive from your work with other things in your life, like hobbies and personal projects.
+- Identity - associating it with a single thing poses too great of a risk on the occasion that you get detached from that thing. You should never rely on a single thing to bring you fulfillment.
+
+# The Shy Person’s Guide to Starting Conversations with Strangers
+[Reference](https://michael-thompson.medium.com/the-shy-persons-guide-to-starting-conversations-with-strangers-ea67f506c439)
+
+- Begin by identifying the people who look open to talking with you, or simply practice on people who are literally paid to talk to you.
+- Let people know you won't be taking up much of their time.
+- Cheat by reaching out to people you already know online. Thanks to social media, it's easy to find a few talking points and learn what someone's been up to.
+- Charm people with your ears. They make you feel seen by listening to you and asking thoughtful follow-up questions.
+
+# How to make friends as an adult
+[Reference](https://psyche.co/guides/how-to-make-new-friends-when-youre-busy-with-adulthood)
+
+- A defining feature of friendship is that it's voluntary. We're not wedded together by law, or through blood, or via monthly payments. It is a relationship of great freedom, one that we retain only because we want to.
+- People in a romantic relationship had on average two fewer close social ties, including friends. With kids, more. We have other priorities, ones that aren't quite as voluntary.
+- Friends are not only a great source of fun and meaning in life, but without them, we're at a greater risk of feeling more depressed. *A key difference between the most unhappy and the most happy people were how socially connected they were.*
+- Making more friends in adulthood takes some deliberate effort. Overt avoidance - not putting yourself in situations where it's possible to meet new people. Covert avoidance - showing up but not engaging people.
+- Forms of avoidance are caused by understandable fears of rejection. Believe that other people will love you and find you interesting, and you will share more about yourself, disagree less, and have a more positive attitude. If you go into social situations with a positive mindset, then it's more likely that this will actually turn out to be the case.
+- ***On average, strangers like us more than we realise.*** Go into new social events assuming that people will like you. This can keep us from being paralysed by fears of rejection, pushing us to question some of these fears. Try working on your internal dialogue, your inner voice that perhaps makes overly negative assumptions about how people will respond to you.
+- Set aside time to reach out to people regularly, revitalise old relationships and awaken new ones, check in, find time to hang out. Initiative can change the course of our friendships.
+- ***To embrace the importance of initiating, you mus let go of the myth that friendship happens organically. You have to take responsibility rather than waiting passively.***
+- Initiating is very important for people who find themselves in new social settings - people who have moved to a new city, started a new school or job.
+- Friendships thrive when we have continuous interaction. My problem with sustaining connection was that I lacked the opportunity for repeated encounters. Going to a lecture, happy hour, or networking event afforded me only one opportunity to connect. If you can, it's a better idea to sign up for activities that give you multiple opportunities to connect (language class, writing course, club).
+- Mere exposure effect: the tendency to  like things the more familiar they seem. At an unconscious level, even if someone never talks to you, being familiar with them increases likability. We're primed to like people more if we know that we'll see them again.
+- If you want to make friends, you should commit to showing up somewhere for a few months. If you go to one event, feel uncomfortable and don't return, you're selling yourself short. If you persist, you'll feel more comfortable, get to know people more, and they'll come to like you more as time goes on.
+- Get vulnerable: A coworker can become a true friend - admitting some struggles at work can draw you closer. Vulnerability can deepen connections. Acquaintance = someone you know of, friend is someone you know.
+  - To make true friends, you have to share things about yourself and ask people questions, so that they share about themselves too.
+  - What your passions are, what you spend your free time on, what you're looking forward to. The more they share about themselves, the more they end up liking each other.
+- The secret to making friends as an adult is that you have to try. You have to put yourself out there, ask people to meet up, show up at events, and keep doing it.
+
+# Accept The Awkwardness: How To Make Friends (And Keep Them)
+[Reference](https://www.npr.org/2019/08/15/751479810/make-new-friends-and-keep-the-old)
+
+- Accept the awkwardness and assume that other people need new friends, too. You cannot have friends without getting vulnerable.
+- People like you more than you think they will. Do things you're passionate about and you will naturally draw people to you, and you'll naturally connect with other people because you'll be in the right place.
+- Treat friendship as seriously as you would dating.
+- Be present - listen and notice things about your friend, take notes, and remember the names of folks in your friends' lives.
