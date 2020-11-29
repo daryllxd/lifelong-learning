@@ -99,3 +99,47 @@
 - Comedy writers are not philosophers. We are linguistic specialists concerned with exactly what the literal logic of a word conveys.
 - "I have a paper cut from writing my suicide note. It's a start..."
 - "The face of a child can say it all, especially the mouthpart of the face."
+
+# Reverses
+
+- Add a contradictory tagline to the opening line of a standard expression or cliche.
+- "I'd like to have kinds. I get those maternal feelings. Like when I'm lying on the couch and I can't reach the remote control. It's like, "Boy a kid would be nice right now."
+- Reverses - practical for deflecting insults.
+  - "I'm not being condescending, I'm too busy thinking about far more important things you wouldn't understand."
+  - "People say to me, you're not very feminine. Well, they can suck my dick."
+- Reverse construction: Set up a point of view that is cancelled out by the last few words.
+- "I had the best day ever. I ran into my ex-boyfriend and his new girlfriend-with my car."
+- "I hate to travel. I guess it's because my father used to beat me with a globe."
+- "I was driving like a maniac to get here on time. I took a wrong turn, and I see a sign that says, 'Caution: Small Children Playing.' SO, I slowed down. Then it occurs to me-I'm not afraid of small children."
+- Painting humor:
+  - Paint a picture with words, affording the listener or reader the chance to visualize the joke.
+  - Humor can provide the writer great latitude to embellish or exaggerate with imagery.
+  - Play on words depends on language subtleties to produce surprise, so only half the brain experiences the joke. When imagery is incorporated, both hemispheres are stimulated, and the result is a full-brain humor.
+  - To enhance the visual nature of humor, use specificity. Candy bar = less likely to conjure up a visual cue than a specific reference (Snickers bar).
+
+# Triples
+
+- Three examples, three comments, or three categories.
+- Setup, anticipation, punch line.
+- Truth - the most effective humor is reality-based, genuine, and true. If a setup is exaggerated, insincere, or untrue, then you lose the ability to bend reality to produce the surprise punch line.
+- Emotion - a solid setup includes a factual statement, opinion, or observation with a stated or implied emotion. The emotion is usually anger or hostility driven by the stupidity, absurdity, or weirdness of the premise.
+- Explicit - specific and readily understood by others.
+- Homer Simpson:
+  - Bart, a woman is like a beer. They look good, they smell good, and you'd step over your own mother to just get one!
+  - I want to share something with you: The three little sentences that will get you through life. "Cover for me." "Oh, good idea, boss!" "It was like that when I got here."
+  - Lisa, vampires are make-believe, like elves, gremlins, and Eskimos.
+
+# Realism, Exaggeration, and Shock
+
+- "My dad's pants kept creeping up on him. By sixty-five he was a pair of pants and a head."
+- Facts and conclusions are exaggerated to build tension and surprise.
+- Exaggeration: embellishing that which you've seen or heard. It's almost instinctive.
+- Humor mus contain some element of truth if people are to care. If everyone knows from the beginning of a joke that any likeness to anyone living or dead is purely coincidental, they won't care, and they won't laugh.
+- Humor only comes when the exaggeration is logical. Simply being ludicrous or audacious is not a skill, it's amateur.
+- You have to determine how far in any direction the truth can be exaggerated without destroying credibility.
+- Exaggeration also works as an understatement, which is an excellent technique for self-deprecating and insult humor.
+- Overstatement and understatement:
+  - "In the beginning, there was nothing. God said, 'Let there be light!' And there was light. There was still nothing, but you could see it a whole lot better."
+- Shock and awe - while there is a difference between being rude and being funny, obscenities are sometimes the perfect words. When they are, they should be used. A work is not just a sound or a random combination of printed letters, each word in humor is carefully designed to penetrate the mind and create a specific impact.
+
+# Brainstorming and Editing
