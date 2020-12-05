@@ -1194,3 +1194,16 @@
 - People like you more than you think they will. Do things you're passionate about and you will naturally draw people to you, and you'll naturally connect with other people because you'll be in the right place.
 - Treat friendship as seriously as you would dating.
 - Be present - listen and notice things about your friend, take notes, and remember the names of folks in your friends' lives.
+
+# Gifts
+[Reference](https://www.willpatrick.co.uk/articles/how-to-buy-gifts-that-people-actually-want)
+[Reference](https://news.ycombinator.com/item?id=25267847)
+
+- Gift-givers: surprise, desirability, price tag, social responsibility.
+- Gift-receivers: is it useful, can I do things with it, is it made well, did I actually say I want this.
+- ***We focus too much on the moment of exchange.***
+- We like to be given experiences, but we don't like to gift them. Research shows that an "experience" gift is often preferred instead of the usual variety of material gifts that get doled out every year.
+- Don't care too much about the price.
+- Consumables are fine.
+- Ask about what we would want, usually that is what they would probably want, too.
+- Keep a note for what people say that they wanted to buy. Also, you have to know the person a bit to know why they didn't get the gift for themselves already.
