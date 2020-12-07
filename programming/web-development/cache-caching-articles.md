@@ -17,3 +17,10 @@
   - Most recently used.
   - Least frequently used.
   - Random.
+
+# CDNs aren't just for caching
+[Reference](https://jvns.ca/blog/2016/04/29/cdns-arent-just-for-caching/)
+
+- CDN - speed up the TLS handshake. The CDN server should have a TLS connection set up already with where the data already is.
+- Smart routing - If you have a CDN with peering agreements, that "magic Internet" will make things faster when trying to resolve a route.
+- Some CDNs can mitigate DDOS.

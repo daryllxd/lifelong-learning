@@ -64,3 +64,40 @@
 - The conditions: proximity, repeated/unplanned interactions, a setting that encourages people to let their guard down and confide in each other.
 - Work friendships often take on a transactional feel; it is difficult to say where networking ends and real friendship begins.
 - After 30, people experience internal shifts in how they approach friendship. Self-discover gives way to self-knowledge, so you become pickier about whom you surround yourself with.
+
+# How to ask good questions
+[Reference](https://jvns.ca/blog/good-questions/)
+
+- Find a good time.
+- State what you know. "Is that right? So from my understanding, x." Stating your understanding is not easy because it makes you clarify your thoughts, but it works really well and it makes it a lot easier for the person you're asking to help you.
+- Ask factual questions. When asking, people might not know the answer to the question, but they are least understand the kind of question that I'm asking or I'm interested in.
+- Be willing to say what you don't understand - if someone doesn't ask me for clarifications, then I worry that they're not listening.
+- Do some research before asking a question.
+- Ask questions to show what's not obvious.
+
+# How to answer questions in a helpful way
+[Reference](https://jvns.ca/blog/answer-questions-well/)
+
+- If they're not asking clearly, help them clarify - rephrase a more specific question, ask them for more specific information, and ask what prompted their question.
+- Figure out what they know already.
+- Point them to a useful search: "this is the search I'd use to find the answer to that question".
+- Write new documentation: If a question is being asked again and again, the answer doesn't change too much over time.
+- If you're explaining how you debugged a problem, it's useful to explain how you found what the problem was, and how you found out what the problem wasn't. It's better to help someone improve at learning and diagnosis.
+- Ask, "did that answer your question"?
+
+# How To Do Better In Loud, Crazy Group Conversations
+[Reference](https://www.succeedsocially.com/groupconversations)
+
+- Crazy conversations:
+  - Hectic, impatient, excitable vibe.
+  - Several people are talking at once.
+  - Interruptions are common.
+  - Everyone is talking loudly, volume gradually increases as people try to talk over each other to get their point across.
+  - Conversation doesn't stay on one topic for all that long.
+  - Conversation threads can easily get derailed.
+  - Immaturity, stupid jokes, and showing off are fairly common.
+- Conversations like this - they're loud, scattered, inconsiderate, and "dog eat dog". They are more for fun, cheap laughs, spirited debate, light entertainment, socialising for its own sake, enjoying the company of friends.
+- You're probably not going to have an in-depth, logical discussion.
+- Just tolerate the noise and stimulation so you can make something out of it. Don't feel resentful because everyone isn't more toned down, that's just the way these things are.
+- In these conversations, everyone is excited and wants to talk, and they'd rather it be them than you. If you want to say something, you've got to fight and get your share of the air space.
+- In these conversations, you have to be quicker and get to the point faster. Figure out what you want to say more quickly.
