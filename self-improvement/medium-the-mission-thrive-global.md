@@ -1207,3 +1207,49 @@
 - Consumables are fine.
 - Ask about what we would want, usually that is what they would probably want, too.
 - Keep a note for what people say that they wanted to buy. Also, you have to know the person a bit to know why they didn't get the gift for themselves already.
+
+# 5 Life Lessons From Therapists Who Have Been Listening to People’s Problems For Decades
+[Reference](https://medium.com/personal-growth/5-life-lessons-from-psychotherapists-who-have-been-listening-to-peoples-problems-for-decades-b3265f081571)
+
+- The preciousness of time - live each day without a sense of entitlement, treating it as a precious gift. Wake up each day and realise that you have today to live your life to the fullest.
+- Your own goals are far more important than anyone else's - people are motivated by what excites them, scares them, what they dream about, etc. People can be motivated in the short term by what other people want for them, but this is rarely powerful enough to help motivate them to make better choices when they find themselves in difficult situations. What's your reason for getting up in the morning? Losing your sense of purpose or reason to be excited about life can have a detrimental effect.
+- What you can accomplish in life is limited by the stories you tell yourself.
+  - Anxious people - have a tendency to only explore the scary "what ifs". There's no obstacle that cannot be reframed into an opportunity.
+  - What we can accomplish is limited by the stories we've been told about ourselves, becoming our internal narrative and sense of identity.
+- Worry is not only futile but it also robs you of the present
+  - To overcome worrying, shift your worry from the long-term problems to daily routines/actions that will solve the problems. Easiest is to write your worries down. Life it too short to waste it by worrying about events you can't control.
+- When your emotions are under control, you can consciously put yourself in the best state that gets you in a position, and in a situation, where you can make better decisions.
+  - 60 seconds rule: Just wait 60 seconds before doing anything to get better control of our emotions. When you're mad, just wait.
+
+# 7 Signs of Low Self-Esteem
+[Reference](https://medium.com/personal-growth/7-signs-of-low-self-esteem-d394fbaf2e45)
+
+- You define yourself by your past. How you feel about yourself is not always a good indicator of your true value. They don't over-prioritize their past selves at the expense of their future selves. When you define yourself by your past, you give away control over your future.
+- Your procrastinate on your passions. People with healthy self-esteem trust themselves to pursue their passions even if it means failure, mistakes, or frustrations. They've built up the confidence to go after the things that matter most to them despite the possibility of failure, embarrassment, or mistakes.
+- Being hypercritical of others. They criticise others as a way to make themselves look better in comparison. When you criticise someone's opinion for being stupid, you're implying that you're smart, and that feels good. When I criticise other people, am I trying to be genuinely helpful or am I trying to make myself feel better?
+- Setting healthy boundaries - when you reinforce a healthy boundary, you reinforce the belief that you matter just as much as anyone else.
+- Indecisiveness in small decisions - the result of low confidence in your own ability to make decisions. People make bad decisions, and in the end, that's okay.
+- You rely on other people to feel better.
+- Struggling to take compliments - a compliment accepted is a vote of confidence in yourself.
+
+# 7 Ways to Build High Self-Esteem
+[Reference](https://nickwignall.com/high-self-esteem/)
+
+- Make time to clarify your values. Ultimately, high self-esteem comes from living your life in a way that aligns with your values. If you habitually compromise on your values in the way you think and act, you're setting yourself up for low self-esteem, poor self-worth, and low confidence.
+  - When you follow through on going to the gym, you train your own brain to believe that you are trustworthy and reliable, the kind of person who does what they say they will.
+  - If your values aren't clear and compelling, and you don't know what matters most to you, then you would not follow through on your best intentions and commitments to yourself. Values mean things like honesty, integrity all the way down to things like maintaining physical health, spending quality time with good friends.
+  - To clarify your values, thing of the things in life that are important to you. For each of these values ,try to be as specific as you can in describing what and why something is important. Sticking to the habit - knowing your values means a habit of reflecting on them regularly. Once you know your values, high self-esteem will not be far behind.
+- Shift your focus from outcomes to growth.
+  - Even though they may have very specific goals and outcomes they would like to achieve, they don't spend much time and energy thinking about them. Instead, they keep their focus on the process of growth. As long as you spend your time and energy on routine and actions that will move you towards there, it becomes more likely that you reach that goal, and your self-esteem will also grow along the way.
+- Eliminate negative self-talk
+  - How we habitually talk to ourselves determines how we habitually feel about ourselves. By changing our self-talk to be just a little less negative, we can achieve higher self-esteem.
+- Cultivate a habit of gratitude
+  - People who consistently acknowledge and express their gratitude seem to have fairly high self-esteem.
+  - Some people have small habits and routines of gratitude so that being grateful is just a part of their lives.
+- Manage your expectations effectively.
+- Spend more time with the right people.
+  - If people around you are cruel, sarcastic, condescending, cold, judgmental, manipulative, your idea of low self-esteem gets perpetuated.
+  - If your key relationships are supportive, encouraging, loving, kind, compassionate, and honest, high self-esteem is likely.
+  - Simply making tough decisions to change the type of people you let into your life is key to generating high self-esteem. When your actions are in conflict with your values, your self-esteem is going to suffer.
+- Learn to be assertive.
+  - Not passive communication (holding back on expressing what you want in order to appease others)
