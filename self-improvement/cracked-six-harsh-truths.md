@@ -202,3 +202,15 @@ But the key is, I don't want you to focus on something great that you're going t
 "I don't have the money to take a cooking class." Then fucking Google "how to cook." They've even filtered out the porn now, it's easier than ever. Damn it, you have to kill those excuses. Or they will kill you.
 
 If you want to make note of your project in the forum thread or the comments and check in this time next year, knock yourself out. I'll be curious to see if even one person actually does this, but if so we'll look back, not just on whether or not we actually followed through, but why. You have nothing to lose, and the world needs you. Here's a video of a corgi rolling down some stairs.
+
+# 5 Harsh Truths That Will Make You Less Of A Jerk
+[Reference](https://www.cracked.com/blog/5-reasons-people-keep-disappointing-you/?utm_campaign=cracked_referral_related&utm_source=website&utm_medium=article&utm_partner=cracked)
+
+- We are secretly sure everyone feels the same pleasure and pain. Suffering is just as subjective as music. Science says that redheads tend to feel more pain, women also feel more pain. Some people almost never feel fear. Our sensations that motivate us to pursue some actions and avoid others actually feel completely different from person to person.
+  - There are some people who are just physically incapable of feeling runners high, or there is a hormone that makes you hungrier more often.
+- We don't see the battle inside. There are some people who have more anger urges than you. For him, every normal day is the result of a hard-won battle, but you only see when he loses.
+- We'll usually forgive ourselves for the same failure. Our uncontrollable impulses are lighthearted fun, theirs are a sign of weakness and degeneracy.
+- You're constantly getting blindsided by your own weaknesses. You think that you don't do stupid things/give in to impulses.
+- We offer clueless, bullshit solutions, and then get angry when they don't work.
+  - If you sit down a bunch of anxious and tired people and start preaching to them about their weaknesses, you get lots of annoyed folks shifting uncomfortably. But when you take that same crowd and preach against temptations they never feel, you get cheers and Amens flowing your way.
+  - When it comes to losing weight, the only thing that really matters is which diet doesn't leave you hungry. When you're pummeled with hunger urges, you will succumb.
