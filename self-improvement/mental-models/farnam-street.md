@@ -338,3 +338,12 @@
 - Managers and leaders are often generalists because they need a comprehensive perspective of their entire organization.
 - Specialists: vulnerable to change, and must understand what their circle of competence is.
 - Generalized specialists: branch out from their core competencies.
+
+# Sahil Lavingia: Observing the Present [The Knowledge Project Ep. #98]
+[Reference](https://fs.blog/knowledge-project/sahil-lavingia/)
+
+- I think expectations cannot be underrated. I think your peer group also can’t be underrated. I think there’s so much emphasis on the system that you’re a part of, your set of teachers, etc. But honestly, I think the biggest thing is just you’re the average of your five friends.
+- The skill that’s been really top of mind for me right now is the ability to save other people time. Basically, what I mean is there’s certain people that go about their lives, I try to be like this, but they just operate in a way that requires less of everybody else for the equivalent amount of success in that relationship, right?
+- Those are the people that I look for, the people who want something so badly that they just figure out how to do it. They’re okay with not maybe having their first thing be just the dream project. They just get started, and then they figure things out as they go.
+- *The filter that I use is if you remove the social incentive, so much of this you've done because of the social incentive, it’s to comment, it’s to go to work and talk about something. The reason I think people don’t often read a lot of these old books is because the social incentive goes away. You read this book and then you’re smarter, but that’s it.*
+- *That's what being present is to me, is just really focusing on the present moment and noticing as many things as possible, which sounds easy, right? It’s almost paradoxical. You’re obviously here. What does that mean? You’re obviously looking out through your eyes. You’re smelling things through your nose. But if I said, “Okay, how many times did you blink in the last three seconds?”, you wouldn't even remember the last time you blinked.*
