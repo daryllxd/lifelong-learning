@@ -1,0 +1,63 @@
+# Atomic Habits Book Summary
+[Reference](https://sive.rs/book/AtomicHabits)
+
+- Aggregation of marginal gains: Searching for a tiny margin of improvement in everything you do.
+- Massive success does not necessarily require massive action.
+- *You should be far more concerned with your current trajectory than with your current results.*
+- Your outcomes are a lagging measure of your habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits.
+- Goals are good for setting a direction, but systems are best for making progress.
+- Identity: Means "repeatedly".
+  - *Who is the type of person that could get the outcome I want?*
+  - *Who is the type of person that could lose forty pounds?*
+  - *Who is the type of person that could learn a new language?*
+- A habit is just a memory of the steps you previously followed to solve a problem in the past.
+- Good habit:
+  - Make it obvious, attractive, easy, satisfying.
+- Bad habit:
+  - Make it invisible, unattractive, difficult, unsatisfying.
+- ***Does this behaviour help me the type of person I wish to be?*** "When situation X arises, I will perform response Y."
+- People who make a specific plan for when and where they will perform a new habit are more likely to follow through. When we say "I'm going to eat healthier" or "I'm going to write more", we have to say when and where these habits are going to happen. When the moment of action occurs, there is no need to make a decision. Simply follow your predetermined plan.
+- Temptation bundle: Create a heightened version of any habit by connecting it with something you already want.
+- People often choose products not because of what they are, but because of where they are. Your habits change depending on the room you are in and the cues in front of you.
+- *To be more creative, take a break from the space where you do your daily work, which is also linked to your current thought patterns. Create a separate space for work, study, exercise. One space, one use.*
+- Each context becomes associated with a particular habit and mode of thought.
+  - Focus - when you're sitting at your work desk.
+  - Relaxation - when you're in a place designed for that purpose.
+  - Sleep - when it's the only thing you do in the bedroom. If you want behaviours that are stable and predictable, then you need an environment that is stable and predictable.
+- *Practice self-restraint not by wishing you were a more disciplined person, but by creating a more disciplined environment.*
+- Every behaviour that is highly habit-forming is associated with higher levels of dopamine. Dopamine is released not only when you experience pleasure, but also when you anticipate it. It's the anticipation of a reward that gets us to take action.
+- Join a culture where your desired behaviour is the normal behaviour. Surround yourself with people who have the habits you want to have.
+- *When a chimpanzee learns an effective way to crack nuts open as a member of one group and then switches to a new group that uses a less effective strategy, it will avoid using the superior nut cracking method just to blend in with the rest of the chimps.*
+- A craving is the sense that something is missing. It is the desire to change your internal state.
+- Desire is the difference between where you are now and where you want to be.
+What you really want is to feel different.
+- ***Reframe your habits to highlight their benefits rather than their drawbacks. Instead of telling yourself “I need to go run in the morning,” say “It’s time to build endurance and get fast.”***
+- If I outline twenty ideas for articles I want to write, that’s motion. If I actually sit down and write an article, that’s action.  Motion allows us to feel like we’re making progress without running the risk of failure.
+- To master a habit, start with repetition, not perfection.
+- Addition by subtraction: look for every point of friction and eliminate it. Subtract wasted effort to achieve more with less effort.
+- Whenever you organize a space for its intended purpose, you are priming it to make the next action easy. Prime your environment so it’s ready for immediate use.
+- ***The difference between a good day and a bad day is often a few productive and healthy choices made at decisive moments. Each one is like a fork in the road, and these choices stack up throughout the day.***
+- Visual measures - like moving paper clips or hairpins or marbles - provide clear evidence of your progress. They reinforce your behavior and add a little bit of immediate satisfaction to any activity.
+- The best way to measure your progress is with a habit tracker. Don’t break the chain of creating every day and you will end up with an impressive portfolio. Record each measurement immediately after the habit occurs. The completion of the behavior is the cue to write it down.
+- *Habit tracking keeps you honest. Most of us have a distorted view of our own behavior. We think we act better than we do. Measurement offers one way to overcome our blindness to our own behavior and notice what’s really going on.*
+- If I miss one day, a simple rule: never miss twice. Missing once is an accident. Missing twice is the start of a new habit.
+- *Going to the gym for five minutes may not improve your performance, but it reaffirms your identity. The all-or-nothing cycle of behavior change is just one pitfall that can derail your habits.*
+- Really successful people feel the same lack of motivation as everyone else. The difference is that they still find a way to show up despite the feelings of boredom. Professionals stick to the schedule; amateurs let life get in the way. Professionals know what is important to them and work toward it with purpose; amateurs get pulled off course by the urgencies of life.
+- *Keep a “decision journal” to record the major decisions you make each week, why you made them, and what you expect the outcome to be.* Review the choices at the end of each month or year to see where you were correct and where you went wrong.
+- I perform an Annual Review, in which I reflect on the previous year.
+  - I tally my habits for the year by counting up how many articles I published, how many workouts I put in, how many new places I visited.
+  - What went well this year?
+  - What didn't go so well this year?
+  - What did I learn?
+- *Revisit your core values and consider whether you have been living in accordance with them.*
+  - What are the core values that drive my life and work?
+  - How am I living and working with integrity right now?
+  - How can I set a higher standard in the future?
+- *Your identity creates a kind of “pride” that encourages you to deny your weak spots and prevents you from truly growing. The more sacred an idea is to us - that is, the more deeply it is tied to our identity - the more strongly we will defend it against criticism.* The veteran who is committed to doing things “his way.” The band who produces a mind-blowing first album and then gets stuck in a rut.  The tighter we cling to an identity, the harder it becomes to grow beyond it.
+Avoid making any single aspect of your identity an overwhelming portion of who you are.
+Keep your identity small.
+- Happiness is when you have no urge to feel differently - when you no longer want to change your state.
+- Happiness is the space between one desire being fulfilled and a new desire forming. Suffering is the space between craving a change in state and getting it.
+- *We can only be rational and logical after we have been emotional. The primary mode of the brain is to feel; the secondary mode is to think. This is one reason why appealing to emotion is typically more powerful than appealing to reason. If a topic makes someone feel emotional, they will rarely be interested in the data. This is why emotions can be such a threat to wise decision making.*
+- Resisting temptation: just ignore it. It creates space for the craving to pass. Self-control requires you to release a desire rather than satisfy it.
+- The first time an opportunity arises, there is hope of what could be. Your expectation (cravings) is based solely on promise. The second time around, your expectation is grounded in reality. You begin to understand how the process works and your hope is gradually traded for a more accurate prediction and acceptance of the likely outcome.
