@@ -130,3 +130,163 @@
 ## Principles of Structuring Product Teams
 
 - Investment strategy.
+- Critical contest: Overall product vision, specific business objectives assigned to each team.
+- Adobe Head of Product - moving from Creative Suite to Creative Cloud/subscription-based.
+
+## The Right Product
+
+- Outcome vs output.
+- Product roadmap: Prioritised list of features and projects your team has been asked to work on.
+- Half of our product ideas are just not going to work. And even those ideas that are good need several iterations to get the execution of this idea where it delivers the expected business value that management was hoping for - time to money.
+- Product discovery - if we can prototype and test ideas with users, customers, engineers, and business stakeholders in hours and days, rather than weeks and months, it changes the dynamics, and most important, the results.
+- Components that provide the business context:
+  - The product vision and strategy - the big picture of what the organisation as a whole is trying to accomplish and what the plan is for achieving that vision.
+  - Biz objectives - specific, prioritised business objectives for each product team. It's management's responsibility to provide each product team with the specific biz objectives they need to tackle.
+- High-integrity commitments: By this date, we have this deliverable.
+- Grief on commitments? It's when these commitments are made. They are made too early, before we know whether we can deliver on this obligation, and whether what we deliver will solve the problem for the customer.
+- ***Product vision should be inspiring, and the product strategy should be focused.***
+
+## Principle of Product Vision
+
+- Start with why.
+- Fall in love with the problem, not with the solution.
+- Don't be afraid to think big with vision.
+- Don't be afraid to disrupt yourselves, because if you don't, someone else will.
+- The product vision needs to inspire. We need product teams of missionaries, not mercenaries. More than anything else, it's the product vision that will inspire missionary-like passion in the organisation.
+- Determine and embrace relevant and meaningful trends.
+- Figure out where things are heading, not where it is.
+- Stubborn on vision, flexible on details.
+- Any product vision is a leap of faith.
+- Evangelise continuously and relentlessly.
+
+## Principle of Product Strategy
+
+- One target at a time.
+- Align with biz strategy.
+- Align with sales and go-to-market strategy.
+- Obsess over cx, not competitors.
+- Communicate the strategy across the organisation.
+
+## Product Objectives
+
+- Management by objectives, not management by control. Objectives, key results.
+- Never tell people how to do things. Tell them what to do, and they will surprise you with their ingenuity.
+- When performance is measured by results. You can release all the features you want, but if it doesn't solve the underlying business problem, you haven't really solved anything.
+
+## OKR Technique
+
+- Objectives should be qualitative, but key results need to be quantitative/measurable.
+- KR should be a measure of business results, not outputs or tasks.
+- PM, design, tech - focus on the organization's objectives and the objectives for each product team, which are designed to roll up and achieve the organisation's objectives.
+- 1-3 key results for the organisation and for each team.
+- Product team tracks their active progress per week.
+- Objectives should cover what the team needs to accomplish.
+- Teams should feel accountable to achieving their objectives.
+- High-integrity commitment.
+
+## Product Team Objectives
+
+- When organisations first start with OKRs, there's a common tendency to have each functional department create their own OKRs. Better to focus your OKRs at the product team level.
+
+## Product Evangelism
+
+- Selling the dream, using a prototype.
+- Share the pain - show the team the cx pain you are addressing. This is why it's good to bring engineers along for cx visits and meetings.
+- Share the vision - make sure you have a clear understanding of your product vision, product strategy, and product principles. Show how your work contributes to this vision and is true to the principles.
+- Share learnings generously - share the things that went well, but share the problems, too.
+- Learn how to give a great demo. We are trying to show them the value of what we are building. A demo is a persuasive tool. Get good at it.
+- Be genuinely excited, show some enthusiasm.
+
+## The Right Process
+
+- Discovery - We need to make sure we come up with a single solution that works for many customers, and not a series of specials. To do this, we need to be able to test out many ideas, and we need to do this quickly and inexpensively.
+- We need to learn fast, yet also release with confidence.
+- Purpose of product discovery:
+  - Will the cx buy this, or choose to use it?
+  - Can the user figure out how to use it?
+  - Can we build it?
+  - Does this solution work for our business?
+- ***Cx doesn't know what's possible with tech products until we actually see it.*** Historically, in the vast majority of innovations in our industry, the cx had no idea that what they now love was even a possibility.
+- We want to establish compelling value.
+- Old waterfall model - the market drove this functionality, which drove the design, which drove the implementation.
+- We must validate our ideas on real users and cx.
+- We need to validate the feasibility of our ideas during discovery, not after. If the first time your developers see an idea is at sprint planning, you have failed. Not only does this end up saving a lot of wasted time, but it turns out that getting the engineer's perspective earlier also tends to improve the solution itself, and it's critical for shared learning.
+- Validate the business viability of our ideas during discovery, not after.
+- Shared learning:
+
+## Discovery Techniques
+
+- Framing: Ensure that the team is all on the same page in terms of clarity of purpose and alignment, identify the risks. Teams tend to gravitate toward a particular type of risk they are most comfortable with.
+- Types of risks:
+  - Financial risk: Can we afford?
+  - Biz dev risk - Does this solution work for our partners?
+  - Marketing - Is this solution consistent with our brand?
+  - Sales - Can we sell this?
+  - Legal
+  - Ethical
+
+## Story Map
+
+- How can the teams know how one story fits in with the big picture?
+- Product market fit - checking that people are using your product.
+- Concierge technique - you just do the customer's job for them, and see if that solves the problem.
+
+# Testing Business Viability
+
+- Kate Arnold from Netflix - flat monthly fee was great, but they changed the code to have the queue, rating system, recommendations engine.
+- Discovery sprint, discovery coaches.
+- Designing strong products - results in a design by committee, which yields mediocre results at best. Instead, meet privately with each stakeholder, show them the high-fidelity prototype, and give them the chance to raise any concerns.
+- Intentional product culture - having it so well-established that when new hires join, they know they're joining a different type of company that takes pride in how they work and in using best practices.
+
+# Good Product Team, Bad Product Team
+
+- Good teams have a compelling product vision that hey pursue with a missionary-like passion. Bad teams are mercenaries.
+- Good teams get their inspiration and product ideas from their vision and objectives, from observing cx struggle, from analyzing the data cx generate from using their product, from constantly seeking to apply new tech to solve new problems. Bad teams gather requirements from sales and cx.
+- Good teams understand who each of their key stakeholders are, understand the constraints, and are committed to inventing solutions that work not just for users and customers, but also work within the constraints of the business. Bad teams gather requirements from stakeholders.
+- Good teams know how to rapidly try out product ideas to determine which ones are truly worth building. Bad teams hold meetings.
+- Good teams have brainstorming discussion with smart thought leaders from across the company. Bad teams get offended when someone outside their team dares to suggest they do something.
+- Good teams have product, design, and engineering sit side by side, and they embrace the give and take between the functionality, the user experience, and the enabling technology. Bad teams sit in their respective silos, and ask that others make requests for their services in the form of documents and scheduling meetings.
+- Good teams are constantly trying out new ideas to innovate, but doing so in ways that protect the revenue and protect the brand. Bad teams are still waiting for permission to run a test.
+- Good teams insist they have the skill sets on their team, such as strong product design, necessary to create winning products. Bad teams don't even know what product designers are.
+- Good teams ensure that their engineers have time to try out the prototypes in discovery every day so that they can contribute their thoughts on how to make the product better. Bad teams show the prototypes to the engineers during sprint planning so they can estimate.
+- Good teams engage directly with end users and customers every week, to better understand their customers, and to see the customer's response to their latest ideas. Bad teams think they are the customer.
+- Good teams know that many of their favorite ideas won't end up working for customers, and even the ones that could will need several iterations to get to the point where they provide the desired outcome. Bad teams just build what's on the roadmap, and are satisfied with meeting dates and ensuring quality.
+- Good teams insist they have the skill sets on their team, such as strong product design, necessary to create winning products. Bad teams don't even know what product designers are.
+- Good teams ensure that their engineers have time to try out the prototypes in discovery every day so that they can contribute their thoughts on how to make the product better. Bad teams show the prototypes to the engineers during sprint planning so they can estimate.
+- Good teams engage directly with end users and customers every week, to better understand their customers, and to see the customer's response to their latest ideas. Bad teams think they are the customer.
+- Good teams know that many of their favorite ideas won't end up working for customers, and even the ones that could will need several iterations to get to the point where they provide the desired outcome. Bad teams just build what's on the roadmap, and are satisfied with meeting dates and ensuring quality.
+
+## Top Reasons for Loss of Innovation
+
+- No cx-centric culture. Cx are always beautifully, wonderfully dissatisfied, and they want you to invent on their behalf.
+- No compelling product vision. When the original product vision was realised and the team is struggling to understand what's next.
+- No focused product strategy. Don't try to please everyone at once.
+- No strong product managers.
+- No stable product team.
+- No engineers in discovery.
+
+## Top reasons for Loss of Velocity
+
+- Technical debt.
+- Lack of strong product managers - when the team becomes mercenaries rather than missionaries.
+- Lack of delivery management.
+- Infrequent release cycles - should release no frequently than every two weeks (good teams release multiple times per day). Be serious about test automation and release automation.
+- Lack of product vision/strategy.
+- Lack of co-located, durable, product teams.
+- Consensus culture.
+
+## Establishing a Strong Product Culture
+
+- Culture of experimentation.
+- Culture of open minds.
+- Culture of tech.
+- Culture of business and cx-savvy teams.
+- Culture of skill-set and staff diversity.
+- Culture of discovery tech.
+- Culture of urgency - move fast.
+- Culture of high-integrity commitments.
+- Culture of empowerment - teams have the tools, resources, and permission to do whatever is necessary to meet their commitments.
+- Culture of accountability - people and teams feel a deep responsibility to meet their commitments.
+- Culture of collaboration.
+- Culture of results.
+- Culture of recognition.
