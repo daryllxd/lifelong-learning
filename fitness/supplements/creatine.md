@@ -1,4 +1,4 @@
-## Creatine for road cyclists: how it works and how to take it
+# Creatine for road cyclists: how it works and how to take it
 [Reference](https://cyclingtips.com/2016/09/creatine-for-road-cyclists-how-it-works-and-how-to-take-it/)
 
 - Our muscles naturally contain creatine as part of the molecule creatine phosphate. This is a quick and easy supply of phosphate molecules which allow energy to be produces in our muscles very quickly.
@@ -14,3 +14,16 @@
 - Otherwise, start off with 3-5 grams a day to maximize your muscle stores within about 4 weeks.
 - 20g in one go can cause gastro-type symptoms, so go with 4 serves of 5 g each, spread out over the day.
 
+# 10 Health and Performance Benefits of Creatine
+[Reference](https://www.healthline.com/nutrition/10-benefits-of-creatine#TOC_TITLE_HDR_2)
+
+- Helps muscle cells produce more energy. More ATP energy, which improves high-intensity exercise performance.
+- Supports many other functions in muscles - adding muscle mass, increases the water content of muscles, and decreases level of myostatin, a molecule responsible for stunting muscle growth.
+- Improves high-intensity exercise performance. Increases: strength, power, endurance, resistance to fatigue, muscle mass, recovery, brain performance.
+- Speeds muscle growth.
+- Reduce Parkinson's disease.
+- Can fight other neurological diseases.
+- May lower blood sugar levels and fight diabetes.
+- Can improve brain function.
+- May reduce fatigue and tiredness.
+- Safe and easy to use.
