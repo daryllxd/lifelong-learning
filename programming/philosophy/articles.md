@@ -203,4 +203,3 @@
 - Prioritise fixing tech debt in code when the incremental cost to develop keeps rising.
 - Document extensively ("why" more than "how").
 - Respect code and systems that come before you. There are reasons for every code and every guard that exists in production.
-
