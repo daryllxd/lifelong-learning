@@ -203,3 +203,43 @@
 - Prioritise fixing tech debt in code when the incremental cost to develop keeps rising.
 - Document extensively ("why" more than "how").
 - Respect code and systems that come before you. There are reasons for every code and every guard that exists in production.
+
+# Get better at programming by learning how things work
+[Reference](https://jvns.ca/blog/learn-how-things-work/)
+
+- JS: How the event loop works, what the DOM is and what you can do with it, HTTP methods, what the same-origin policy and CORS is.
+- CSS: How inline elements are rendered differently from block elements, what the default flow is, how flexbox works, how CSS decides which selector to apply to which element.
+- Systems programming: The difference between stack and heap, how virtual memory works, how numbers are represented in binary, what a symbol table is, how code from external libraries gets loaded, and how atomic instructions are different from mutexes.
+- If I have bugs in my programs because of an incorrect mental model, I'll struggle to fix those bugs quickly and I won't be able to find the right questions to ask to diagnose, and then I'll feel really frustrated.
+- Moving from "I'm confused" to "Okay, I get it!"
+  - Notice when I'm confused about a topic (what does `await` do?)
+  - Break down my confusion into specific factual questions, like "when there's an `await` and it's waiting, how does it decide which part of my code runs next? Where is that information stored?
+  - Find out the answers to those questions (by writing a program, reading something on the Internet, or asking someone).
+  - Test my understanding by writing a program.
+- Just learning a few facts can help.
+- How to get information: ask "yes/no questions".
+  - Is my understanding correct?
+  - Are these concepts related to each other?
+  - What is the main purpose of something?
+- At least you get to know exactly why some thing is.
+- Be aware of what you don't understand: So do I need to know how this thing works or not?
+
+# Things your manager might not know
+[Reference](https://jvns.ca/blog/things-your-manager-might-not-know/)
+
+- What's slowing the team down?
+  - And how can you help here?
+  - Factor into the planning, or deprioritize a feature.
+- Exactly what individual people on the team are working on.
+  - This is my progress right now.
+- Where the technical debt is.
+- How to help you get better at your job.
+  - Less work or more work.
+  - Learning budget.
+  - Help with an interpersonal situation.
+  - Specific feedback on work we did.
+  - Escalating issues.
+- What your goals are.
+- What issues they should be escalating.
+- What extra work you're doing.
+- How compensations/promotions work at the company.
