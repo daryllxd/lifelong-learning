@@ -140,3 +140,11 @@ Even if you do not remember all the rules, ask yourself these questions when wri
 - Though the `@NgModule` has an `entryComponents` array, most of the time, you won't have to explicitly set any entry components because Angular add components listed in `@NgModule.bootstrap` and those in route definitions to entry components automatically.
   - Angular compiler only generates code for components which are reachable from the `entryComponents`: adding more references to `@NgModule.declarations` does not imply that they will necessarily be included in the final bundle.
   - ***If a component isn't an entry component and isn't found in a template, the tree shaker will throw it away. So, it's best to add only the components that are truly entry components to help keep your app as trim as possible.***
+
+# Basic Typescript for Angular: Understanding Modules
+[Reference](https://www.pluralsight.com/guides/typescript-angular-understanding-modules)
+
+- In TypeScript, a module is simple a file that imports or exports something.
+  - In order for the app to run, the dependencies between modules above are resolved via a module loader. The browser cannot load the code for
+
+
