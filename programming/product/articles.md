@@ -35,7 +35,7 @@
 - Geoffrey Moore, the absence of a market: “If two people buy the same product for the same reason but have no way they could reference each other, they are not part of the same market.”
 - In SaaS, two customers belong to the same market if and only if they use your product to serve their customers in a similar way.
 
-# Product Managers, Let’s Embrace Deep Work
+# Product Managers, Let's Embrace Deep Work
 [Reference](https://productcoalition.com/product-managers-lets-embrace-deep-work-fae03061d6d4)
 
 - Most high value work = thinking about product vision and strategy, piecing together various forms of input to figure out priorities, looking at product from different angles, preparing for major meetings to make sure they are productive, competitive review.
@@ -78,3 +78,22 @@
 - Understand the business.
 - Use your and your competitor's product.
 - Do whatever it takes!
+
+# So, You Want To Become a Great Product Manager?
+[Reference](https://www.nirandfar.com/becoming-a-product-manager/)
+
+- The most surprising thing I've learned is how many people get told they need to “be more strategic” and have no idea what that means. It's incredibly common feedback, but people don't get actionable advice on how to address it.
+- When you want to break into Senior PM roles, being a great PM is no longer just shipping products that delight customers and hit the goals. You enter the phase of your career where being a great PM means identifying new opportunities and coming up with strategies to win the market. It's a brand new responsibility.
+- The most broadly applicable lessons are: 1) start with the goals and 2) validate your ideas. If you just follow those two guidelines, you'll see a huge improvement in the success of your work.
+- We tend to come up with an idea and rush to start building it without reflecting on the problem we're trying to solve. If we slowed down just a bit, we might realize that there's a more important problem to solve, or a better way to solve the same problem.
+- At work, I often want to build V2 of a feature, but when I go back to my goals (more people using the feature), I realize a better approach is to improve the discoverability of V1. Personally, I went 5 years in my career before I stopped to really think about my career goals. I'd absorbed an idea around getting promotions and salary increases, but when I paused to reflect, I realized that wasn't the only option. Once I had that epiphany, I decided to join a startup with a lower salary and no job title.
+- Validating ideas is a powerful technique that requires a real mindset shift. Instead of trying to be the person with the best ideas, try to be the person who's the best at learning which ideas are promising. The greatest product thinkers don't get their ideas right on the first try all the time, but they do test their ideas with real people and quickly discard the bad ones. They're also not just throwing spaghetti at the wall to see which ideas stick. Instead, they form a robust mental model with hypotheses about what a successful solution looks like.
+- Roughly, I think about the stages like this:
+  - Getting ideas out of my head
+  - Iterating by myself
+  - Iterating based on feedback from a coworker
+  - Iterating based on feedback from my real target audience.
+- Now, I do a first pass where I write every idea down in the order it comes to me. It usually feels like I have lots of thoughts swirling in my head, but they're blurry until I write them down. I've gotten better at catching myself when I start to wordsmith too early. The goal is to get the ideas out as fast as possible.
+Career ladders are frequently misleading. They show a rubric that maps a large number of skills and behaviors to levels, and many people think “okay, if I study this guide and work on these skills I'll be promoted.”
+- The thing is, you don't need all those skills to get promoted! And, you won't always get promoted even if you have them. The rubric isn't a checklist of how to get promoted, it's just a set of examples and descriptions of what people who already reached that level look like.
+- In reality, promotions aren't about skills, but rather scope, autonomy, and impact. You get a promotion when you show that you can deliver impactful work at the next higher scope, without too much help. For product managers, you get promoted when you ship successful products.
