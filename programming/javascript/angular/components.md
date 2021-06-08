@@ -63,3 +63,41 @@ export class PopupDirective {
 
 `this.userService.user$.subscribe(user => this.firstName = user.firstName );` => this one doesn't work with change detection.
 `this.firstName$ = this.userService.user$.map(user =>  user.firstName );` => this one works with change detection.
+
+# Angular Components - The Fundamentals
+[Reference](https://blog.angular-university.io/introduction-to-angular-2-fundamentals-of-components-events-properties-and-actions/)
+
+- Browser components like `select`: We don't need to be aware of its internal structure in order to be able to reason about the  component. We only need to know its public API.
+- Angular component API:
+  - Input property `options`, via which we provide a list of countries. Input model is passed into the component, then based on the model, the view will be built accordingly.
+  - Events: the output that a component produces. They report to the outside world a relevant change of the component internal state.
+
+```
+<div class='color-me'>
+    <h4>Type red, green, yellow, etc.</h4>
+    <input type="text" #input (keyup) [value]="color">
+    <div class='color-panel' [style.background]="input.value"></div>
+</div>
+```
+
+- Local variable is defined using `#input`.
+- Input property `value` of the input box is being filled in with the color name via `[value]="color"`.
+  - Properties are not only a mechanism for passing data inside a component, they can be generally used to write to any valid DOM element property.
+  - The color would be applied on `keyup` as there is `(keyup)` event.
+- Background CSS property is bound to the value of the input box via `[style.background]="input.value"`.
+- Properties should be avoided when passing constant string values to the component. Prefer `Attribute` annotation instead.
+
+- How to NOT use properties:
+  - Properties should be avoided when: passing constant string values to the component. Use `Attribute` annotation instead.
+  - Properties (DOM) are different from attributes (HTML).
+
+```
+constructor() {
+  document.getElementById('scroll-up').addEventListener('click',
+      () => this.scroll -= 30 );
+}
+```
+
+- This thing is the same as a `(click)` event on Angular.
+- Events: With events, it's very easy to fall into the situation of using an event to trigger an action in an external component. The emitter should report about changes on its internal state.
+- `Element.scrollTop`: Gets or sets the number of pixels that an element's content in scrolled vertically.
