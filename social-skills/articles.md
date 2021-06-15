@@ -101,3 +101,65 @@
 - Just tolerate the noise and stimulation so you can make something out of it. Don't feel resentful because everyone isn't more toned down, that's just the way these things are.
 - In these conversations, everyone is excited and wants to talk, and they'd rather it be them than you. If you want to say something, you've got to fight and get your share of the air space.
 - In these conversations, you have to be quicker and get to the point faster. Figure out what you want to say more quickly.
+
+# 15 No Bullshit Ways To Be A More Interesting Person
+[Reference](https://www.aconsciousrethink.com/12264/how-to-be-more-interesting/)
+
+- What does it mean to be interesting for you?
+- Be willing to express an opinion. Don't fret about whether or not people will agree with you, or how you might be perceived. Interesting people have opinions and others tend to respect that about them.
+- Learn to tell a story.
+- Listen more than you talk. People like to talk about themselves and their own stories. If you can remain engaged with them as they do, they will have a more positive attitude toward you. To come across as interesting, you must come across as interested.
+- Include others in the conversation - if you are part of a group, coordinate things so that everyone can have their say. "What do you think about X, Y?"
+- Stay on topic.
+- Know when you might be boring others.
+- Don't repeat the same rants again and again.
+- Be positive. You may come across as more interesting by being someone other people want to be around with.
+- Be open-minded.
+- Be authentic.
+- Have interesting goals.
+- Be passionate about a cause.
+- Consume interesting things - watch documentaries, read books, follow the news, listen to podcasts.
+
+# 101 Fun And Interesting Facts You Can Say About Yourself
+
+- Favorite cuisine.
+- Hobby that can't give up.
+- Favorite season.
+- Watched X movie Y times.
+- Supporting a team since X age.
+- Favorite ice cream flavor.
+- Non-alcoholic drink of choice.
+- Alcoholic drink of choice.
+- The thing I find most attractive in a person is X.
+- Listening to X music.
+- Allergic to X.
+- Pet peeve is X.
+- Scared of X.
+- Can't stand the sound of Y.
+- People who are X really annoy me.
+- Most boring sport to watch.
+- The word that irritates me is X.
+- Most stressful thing for me is Y.
+- Talent
+  - Instrument, language, can cook, once did a, made a something from scratch, can do a good x accent, writing a book or short story, can do something with the body, once played some guy in the school production, can do X better than most people.
+- Travel
+  - Visited X countries, favorite country, first traveled solo when X, scariest moment of my travels, most amazing place I've been to, my next trip is to Y, I love travel so much because of X, the one thing I always take on my travels is my Z, plan the whole thing or make it up as I go. The most remote place is X.
+- Family
+  - Siblings, sibling lessons, pets, fondest childhood memory, parents and grandparents emigrated from, funny story from childhood, family name means.
+- Friend facts
+  - Imaginary friend, childhood nickname, my friends would describe me as X, in my group of friends, I am considered the X one, we talk often about Y, my friends and I used to spend our long summers Z, friend pranks, friends' holiday.
+- Education
+  - Favorite subject at school. Dream job. When I was a child, I wanted to be an X when I grew up. First ever job. First proper job. Most embarrassing job. The thing I like most about my job. I am a qualified Y. I volunteer as an X. If I had my time at school again, I'd X.
+- Random but interesting facts
+  - Addicted to X. The famous person who inspires me most is Y. The most embarrassing thing to ever happen to me was X. I collect Y. My guilty pleasure is X. The achievement I'm most proud of is Y. My idea of Heave on Earth is Z. The best advice I ever received was X. First car. I've never tried [food or drink]. Tattoos and/or piercings. If I had 1 hour to live, I'd spend it X. My favorite childhood toy was Y. Favorite color. The most romantic thing anybody has ever done. Spend far too much money on X. Broken bones. Celebrity crush. First thought when I wake up in the morning. Earliest memory. If I could live in any other era of history, it would be X because of Y. Would most like to learn how to X. The thing I love most about me is my Y. My works habit is Z. My favorite artist/form of art is Z. If my life were made into a film, I'd like X to play me. If I could live anywhere on the planet, it would by Y. I am superstitious about Z.
+
+# How To Keep A Conversation Going: 12 No Nonsense Tips!
+[Reference](https://www.aconsciousrethink.com/9633/how-to-keep-a-conversation-going/)
+
+- Small talk: It allows us to do the very human thing of assessing the other person and getting an idea of what makes them tick.
+- Choose Subjects You Know The Other Person Finds Interesting. Weather can be -> skiing trip or the predicted heat wave.
+- Open questions - "You mentioned you went to Costa Rica last year. What was the weather/the beach/the wildlife like?"
+- What to Why. Like "Why did you move here" or something. If the other person seems in any way uncomfortable, be sure to back pedal and return to safer ground with less penetrating, neutral questions.
+- Make regular eye contact as the conversation flows along as this is another indicator of the level of your attention.
+- You don't have to pepper your conversation with witty one-liners or even tell jokes. A well-timed sarcastic or self-deprecating comment can raise a laugh just as well.
+- Silence: It can give you a chance to gather your thoughts. It can also indicate that a topic has reached its natural conclusion or has become a tad too intense for comfort and allows for a change of tack.
