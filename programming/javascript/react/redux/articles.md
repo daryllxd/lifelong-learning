@@ -1,3 +1,26 @@
+# Your Might Not Need Redux
+[Reference](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.z9abvda1k)
+
+- Redux asks you to:
+  - Describe application state as plain objects and arrays.
+  - Describe changes in the system as plain objects.
+  - Describe the logic for handling changes as pure functions.
+- They help build apps that:
+  - Persist state to a local storage and then boot up from it, out of the box.
+  - Pre-fill state on the server.
+  - Serialise user actions and attach them, with a state snapshot, to automated bug reports, so that the product developers can replay them to reproduce the errors.
+  - Pass action objects over the network to implement collaborative environments without dramatic changes to how the code is written.
+  - Maintain an undo history or implement optimistic mutations without dramatic changes to how the code is written.
+  - Travel between the state history in development.
+  - Provide full inspection and capabilities with tooling.
+- ***You can apply Redux ideas without using Redux.***
+- Redux library itself is only a set of helpers to "mount" reducers to a single global store object.
+- Comments:
+  - At the time Redux got popular, many, MANY people were being burnt silly by local state in other, non-React related frameworks. Backbone, Angular 1, you name it. Flux was a solution to it, but it was hard to use. Redux was a solution to both the local state problem and Flux.
+  - But it's still worth keeping in mind that there IS a problem with sprinkling state all over a frontend app. It doesn't matter for tiny apps, but for large ones, it does. And embracing Redux and the FP principles it enables is one way of solving it.
+  - It’s not like life’s been cakewalk lately (new solutions tend to rise challenges accordingly), but at least I can ship more reliable products with the help of the modern practices.
+  - What another thing I can suggest is to also use `contextAPI`, with out Redux as well. You will always find that you need to use either depending on the requirement or depending on how bigger your application is.
+
 # Full Stack React
 
 - The pain point: tight coupling between user interactions and state changes. For complex web applications, a single user interaction can affect many different/discrete parts of the state.
