@@ -97,3 +97,37 @@
 Career ladders are frequently misleading. They show a rubric that maps a large number of skills and behaviors to levels, and many people think “okay, if I study this guide and work on these skills I'll be promoted.”
 - The thing is, you don't need all those skills to get promoted! And, you won't always get promoted even if you have them. The rubric isn't a checklist of how to get promoted, it's just a set of examples and descriptions of what people who already reached that level look like.
 - In reality, promotions aren't about skills, but rather scope, autonomy, and impact. You get a promotion when you show that you can deliver impactful work at the next higher scope, without too much help. For product managers, you get promoted when you ship successful products.
+
+# 3 Types of Product Management: Which One is Right For Your Company?
+[Reference](https://medium.com/earnest-product-management/3-types-of-product-management-dec4b2d77271)
+
+- Common explanation: UX + Tech + Business.
+- The ambiguity of the product management role is near to its essence - within one company, the duties of a product manager can change drastically and quickly.
+- User-first product manager
+  - Design background. Like optimising for speed, bug fix, comprehension, user requests.
+- Business-first product manager.
+  - Profits, features, biz dev, growth, investor requests.
+- Technology-first product manager.
+  - Prototyping, task management, workflow diagrams.
+  - De-scoping, feature re-use, minimising obsolete work, extensibility, consistency with technical semantics.
+- ***The dimensions of performance within a product category will change over time. Canonically, hard drive capacity mattered more than physical size up until the time that capacity reached a certain maximum usefulness.***
+
+# Writing Technical User Stories
+[Reference](https://medium.com/tribalscale/writing-technical-user-stories-434bf96f1dd5)
+
+- Good story?
+  - Independent - can be built separately to other stories.
+  - Negotiable - requirements can be adapted.
+  - Valuable - provides benefit to the end-user.
+  - Estimable - to reasonable accuracy.
+  - Small - can be built within one iteration.
+  - Testable - can be verified by QA.
+- Feature slicing:
+  - Features should be sliced vertically, not horizontally, to break them into stories.
+  - Focus on end-to-end user value, not by front-end tasks vs back-end tasks.
+  - Splitting: Features like single search term vs multiple search terms, sorting vs searching.
+- Happy and unhappy paths - think about this with the user.
+  - Create, read, update, delete.
+  - States: Waiting, empty, error, success, limits, and default values.
+  - Configuration options - Filtering, sorting, searching, pagination, include (what related information can also be returned in the response).
+- If an API is the product, then the routes, method, request, and response definitions are the business requirements.
