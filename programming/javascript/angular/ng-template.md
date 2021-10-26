@@ -73,4 +73,55 @@ export class AppComponent {
 
 - `ViewChild`: Passing the template as an input parameter.
 
-WIP
+## Template References
+
+- In the same way that we can refer to the loading template using a template reference, we can also have a template injected directly into our component using the `ViewChild` decorator.
+- `ViewChild` - this means we can pass in a template as an `Input` parameter.
+
+```
+@Component({
+    selector: 'tab-container',
+    template: `
+
+<ng-template #defaultTabButtons>
+
+    <div class="default-tab-buttons">
+        ...
+    </div>
+
+</ng-template>
+<ng-container
+  *ngTemplateOutlet="headerTemplate ? headerTemplate: defaultTabButtons">
+
+</ng-container>
+... rest of tab container component ...
+`})
+export class TabContainerComponent {
+    @Input()
+    headerTemplate: TemplateRef<any>;
+}
+```
+
+- Code above shows that you can have the default tab buttons defined in the component, but if `headerTemplate` is defined, then the custom input template will be passed in.
+- `ngTemplateOutlet` then instantiates depending on `headerTemplate`.
+
+# How to pass a custom template to an Angular component?
+[Reference](https://blog.angulartraining.com/how-to-pass-a-custom-template-to-an-angular-component-53592d634a47)
+[Reference](https://stackblitz.com/edit/ng-template-outlets?file=src%2Fapp%2Fstate-button%2Fstate-button.component.ts)
+
+- Example of multiple templates being passed in to a component:
+
+``` html
+<app-state-button [initialTemplate]="save"   [workingTemplate]="saving" [doneTemplate]="saved">
+</app-state-button>
+<ng-template #save>
+    Save
+</ng-template>
+<ng-template #saving>
+   <img src="https://github.com/alcfeoh/ng-advanced-workshop/raw/master/src/assets/loader.gif" style="width: 20px">
+</ng-template>
+<ng-template #saved>
+   Saved!
+</ng-template>
+```
+
