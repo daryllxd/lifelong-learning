@@ -199,3 +199,47 @@
 
 ## Find your sponsor
 [Reference](https://staffeng.com/guides/find-your-sponsor)
+
+- A Staff engineer isn't just a faster Senior engineer.
+- For folks who haven’t done the work yet, this is great advice, but for folks who have these checkboxes are a distraction: what they’re really missing is a sponsor willing to push for the recognition of their existing work.
+- The most important member of the team guiding your promotion is you yourself. The second most important person is your organizational sponsor.
+- Sponsors are folks with more organizational capital than bandwidth to deploy that capital, and they’ll help you most when you align the pieces for them. Ask your sponsor how you can support their sponsorship. Owning your career isn't only about asking for things. It is about that, but it’s much more about facilitating those things happening.
+-  If you keep getting answers like, “Work on larger, high impact technical projects,” then you’re asking in the wrong way, the wrong questions, or the wrong person.
+- One starting prompt is, “If I don’t get promoted this cycle, what are some of the likely causes?” Another question worth asking is, “What’s the most effective thing I can do to make myself a stronger candidate?” That said, the best questions are very specific and do a lot of the work for the answerer.
+- Finally, remember that activating your sponsor isn't a transactional thing to do once before your promotion. Build a relationship over time, and put in the work to help them when they need your support. Stay aligned with their initiatives. Suppose they need folks to join a working group, volunteer, and put in the work. These folks have a lot of people asking them for things, and they are pretty cognizant of folks who show up right before promotion time. I once had a colleague who rarely visited the office but always visited the office the week before promotion decisions were made. People noticed.
+- More importantly, you’ll lose the opportunity to develop your skill of working with folks you don’t immediately click with: it’s not a fun skill to develop, but leadership always involves influencing and building relationships with those with conflicting goals and styles.
+
+## Staff projects
+[Reference](https://staffeng.com/guides/staff-projects)
+
+- The short answer on Staff projects is that most engineers don't complete one as part of reaching a Staff role, although a large minority do complete one, particularly folks who attain the role via promotion at a company they've grown up in. For the folks who don't complete one, typically, it's either because they accumulated a track record of success over a longer period without a single capstone or because they switched companies to reach the title.
+- Few companies write down their Staff project requirements. They're more frequently the sort of "soft gate" that's brought up during a promotion meeting, sometimes to the surprise of both the manager and the would-be Staff engineer.
+- Staff projects:
+  - **Complex and ambiguous.**- Early in your career, you're given well-defined problems, but as you get deeper into it, you'll increasingly encounter poorly defined or undefined problems, and Staff projects will generally start with a poorly scoped but complex and important problem.
+  - **Numerous and divided stakeholders.** The easiest projects start with organizational alignment around both the problem and the solution, but your Staff project might likely start with neither. It might be an area which management views as an existential risk, but many engineers feel it is good enough.
+  - **Named bet where failure matters.** It's going to be a project important enough that senior leadership talks about it at all-organization or all-company meetings.
+
+## Being visible
+[Reference](https://staffeng.com/guides/being-visible)
+
+- Staff-plus roles are leadership roles, and by recognizing you with such a position, the company is bringing you into its leadership team. The existing members of that team want to be comfortable that they're expanding their ranks with folks they believe in, and they can't believe in you if they don't know you.
+- The single best way to create internal visibility is to work on the things that matter to your company and company leadership. This path is also the most aligned with how a well-managed company will evaluate your contribution.
+- Strategies
+  - Write and distribute more long-lived documents, like architecture docs or technical specification.
+  - Lead (and, to a lesser extent, participate in) company forums like architecture reviews, company all hands, and learning circles.
+  - Be a cheerleader for your team's and peers' work on Slack.
+  - Share weekly notes of your work to your team and stakeholders in a way that other folks can get access to your notes if they're interested.
+  - Contribute to your company's blog.
+  - Attend, or potentially even host, office hours for your team or org.
+- Compared to an exclusively internal focus, one advantage of building an external presence is that there's a lot more room to create a niche and name for yourself. Internal efforts often end up competing for attention with your peers in a way that external efforts simply don't.
+
+## Deciding to switch companies
+[Reference](https://staffeng.com/guides/deciding-to-switch)
+
+- If your current team is very senior, it may be hard to justify your impact at the Staff engineer level because it’s being attributed to your peers. Your manager might have a limited budget that doesn't have room for another Staff engineer. You might lack an internal sponsor. There simply might not be the need for an additional Staff engineer at your company. Any of these can mean that while you ought to be promoted, you won't be at your current company.
+
+## Finding the right company
+[Reference](https://staffeng.com/guides/finding-the-right-company)
+
+- If career velocity is your aim, then join a company that, for whatever reason, disproportionately values what you’re good at.
+- Well-run organizations value you for what you’re good at. Less well-run companies value you for your identity. For example, a culture that views aggression as leadership would indeed promote and center the most aggressive folks, but to their culture’s and team’s detriment. Sometimes you’ll find a company that net values you appropriately because it values your incidentals without valuing the contributions that you consider to be valuable; that seems like it’ll work out, but generally speaking, it’s a recipe for frustration.
