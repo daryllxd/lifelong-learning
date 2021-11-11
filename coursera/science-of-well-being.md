@@ -62,3 +62,37 @@ Nudge nudge, think think
 
 - Payday lenders offer short-term loans at astronomical interest rates. One problem with this market, says the FCA, is that borrowers may suffer from “present bias”. It is not just that people prefer jam today to jam tomorrow; they also fail to foresee that when tomorrow comes, they will have the same skewed preference. This leads to optimism about future behaviour.
 - Another contributing phenomenon is “loss aversion”; people dislike losses more than they like equivalent gains. This makes them assign disproportionate value to services they already have. Such inertia on the part of consumers gives firms more leeway to raise prices. That worries Ofgem, Britain’s energy regulator. The average British consumer on a single fuel energy tariff would save nearly £100 a year by switching supplier, yet in the second quarter of 2014 only 2% did so. Ofgem wants firms to simplify their tariffs, making them easier to compare, hoping that will nudge consumers toward action.
+
+# Week 2: Savoring & Gratitude
+
+- When you take part in this savored experience, be sure to practice some common techniques that enhance savoring. These techniques include: sharing the experience with another person, thinking about how lucky you are to enjoy such an amazing moment, keeping a souvenir or photo of that activity, and making sure you stay in the present moment the entire time.
+- What do you want most to get in the summer, and what would you feel if you don't get it?
+- The How of Happiness?
+- People spending money to try to get money: We know that people spend more on lottery tickets, more than books, music, movie tickets, sports teams, and video games combined.
+- In 1967, only about 40% thought that you need to be financially well-off, but now almost all did.
+- Correlation for salary - the impact really matters when you need to get basic needs. Compared with grandparents, today's young adults have grown up with much more affluence.
+- 75K dollars = threshold for the no more happiness going up.
+- Do awesome stuff actually makes us happier? But people in the 1940s, they didn't actually have stuff. A materialist attitude has lower life satisfaction than non-materialists two decade later.
+- Getting married - they are happier in the first year or two. But after, it's just the same as if they didn't get married.
+- Cosmetic surgery - people who get cosmetic surgery sort of are already worse than normal people.
+  - And it makes you feel worse?
+- Perfect grades do make you more happier, but not as much as we think.
+- Why we have misconceptions?
+  - Are we really just clueless?
+  - Genes as life happiness? There are some glass half full, some glass half empty. 50%.
+  - Life circumstances as life happiness? 10%.
+  - 40%. The things that we can control. Being intentionally effortful towards being happier.
+  - Maybe for everyone else, that's true, but not for me? Intuition is normally wrong.
+- Questions:
+  - But how does it work for me? Affective forecasting - we're usually wrong in how we think things affect us - like "having this shitty grade" doesn't affect us as bad as we think it does.
+  - A lot of perception comes from context or social comparison.
+  - Why are we more materialistic or why are we less happy? The American economy sort of relies on us having to buy more things despite having things already.
+  - Try to not do things that cause you depression. (Facebook?) We vote with our ATM on what gets to be done.
+- I mean the fact of the matter is that all of these things that you have these cravings for certain things these desires are really just that they're just thoughts, they're just thoughts. And sometimes thinking of them as such can kind of cause you to take a step back and really look at your own data about whether those things are helping you. These kinds of techniques have been implemented the most and the best in the context of things like addiction.
+- And then the process of mindfulness also forces people to think about like what are you really getting out of this? Like is this really making you happy? And I think that's a technique we can import from treatments of things like addiction into our daily life for things like studying too much for good grades getting worrying about them is not probably as bad as heroin addiction.
+- Social media - we assume that the perception is what really is, when they aren't.
+- "Why do you do things" eventually goes to a "because I want to be happy" kind of thing.
+
+## References & Notes
+
+
