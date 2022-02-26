@@ -17,3 +17,19 @@
   - Exercise, eat well/drink water always, sleep well.
 - Strive for overall balance.
   - Anxiety/frustration: meditation, growth mindset, stoicism.
+
+# A guide to productivity for software engineers
+[Reference](https://circleci.com/blog/a-guide-to-productivity-for-software-engineers/)
+
+- When your work is more ambiguous, complex, and more unbounded, you'll find yourself procrastinating. You'll feel more overwhelmed.
+- Your days become meetings, specs, researching new tech, writing docs. Less of the work seems "fun".
+- Productivity is not about doing more, it's about "what have I accomplished today"?
+- What to do?
+  - Choose my focus. What do I enjoy working on?
+  - Learning, coding features, making architectural improvements, improving processes, growing influence.
+  - Do I enjoy this? Does this help me/my career?
+  - Does this help my team and the company?
+- *Discomfort very frequently means growth.* Once I have my areas of focus, I'll use them as the filter throughout the month or quarter for any work coming my way.
+- Get things done: Choosing the big rocks for the week and the most important tasks for the day. You want to accomplish big rocks instead of tiny pebbles.
+- Focused (no Slack) vs reactive time.
+- Analyze and iterate.
