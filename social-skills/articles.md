@@ -163,3 +163,21 @@
 - Make regular eye contact as the conversation flows along as this is another indicator of the level of your attention.
 - You don't have to pepper your conversation with witty one-liners or even tell jokes. A well-timed sarcastic or self-deprecating comment can raise a laugh just as well.
 - Silence: It can give you a chance to gather your thoughts. It can also indicate that a topic has reached its natural conclusion or has become a tad too intense for comfort and allows for a change of tack.
+
+# Ask HN: How to Be Funny and Likable?
+[Reference](https://news.ycombinator.com/item?id=33784718)
+
+- Don’t state the obvious. In this case obvious is anything that is already known to your audience. People frequently do this in an attempt to be clever or appear intelligent, but it’s neither.
+- Don’t be clever. Clever is the attempt to short-circuit logic to arrive at a conclusion in seemingly fewer steps. This tends to backfire with either incorrect conclusions or logical fallacies that don’t make sense.
+- Don’t self promote. If you want to be likable never talk about yourself except for moments of private self disclosure.
+- Don’t interject into a conversation unless you have an exceptionally important reason for doing so.
+- Have empathy, the non cognitive ability to anticipate the pains and pleasures of others. Don’t guess at this. Read people, read the room, and then qualify your assessments with pointed questions. You have to naturally and innately want to do this.
+- Be direct. This means starting with a conclusion, but be prepared to progressively step through the logic only if asked.
+- Be honest. You cannot achieve trust without honesty. Many people find directness and honesty challenging.
+- Be available. This means an eagerness to exit your current focus and redirect yourself to the needs of someone else instantly without prior notice. When this is not possible respond with why and when you will be available.
+- Be helpful, which means an eagerness to spend time and effort to solve a problem with someone else, a problem that do not own and will not be awarded for.
+- If you wish to be humorous amplify logical directness with a play on words or through gross amplification, particularly when that directness comes at the expense of somebody else. If in practice this will require any kind of explanation then don’t do it.
+- **I think the key thing to being funny is to actually find humor in situations and be willing to share it with others, but not at the expanse of someone. So, it requires a mind always eager to find the positive side in almost every circumstance. There's no formula, but my usual methodology is to use logical analogy, but in a very absurd way. I describe logical scenes, emphasizing on certain actions which would never really happen, but could fit if the people were in a comedy movie.**
+- As to being likable, empathy, trust, and generosity go a long way. You have to understand how people feel and let people understand that you are a reliable person. Occasionally, it doesn't click as they have a different philosophy of life and that's okay.
+- Have some business safe Normal People things to talk about. I do genuinely like sports but I made lots of friends with sales/marketing/execs/finance/etc. When I could ask them how their team was doing (or whatever) vs. The 10,000 technical weirdo of the day. It doesn't have to be sports. I have cats. That is what work people know about me. They don't need to know how much I play video or that I'm really into RPGs or whatever right up front unless they are obviously into that.
+- Ask questions. Not in an annoying way. But a lightly curious way. People leave signs all the time. Maybe their wallpaper is pictures of their kids or pet or car or boat or I dunno, whatever. Ask about it, just "oh is that your kids/dog/boat/etc.?" Ask a couple questions like how old they are. And then ask how they are doing every now and then when you talk to that person.
