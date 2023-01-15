@@ -172,3 +172,195 @@
 - If an adult beats up a doll, children were more likely to behave aggressively towards the doll.
 - If the adult receives punishment for being aggressive towards the doll, then the children would be less aggressive against it.
 
+# Week 2
+
+## Big questions about development
+
+- Morality - are we "brutes" or are we "basically good"? Are we naturally prejudiced/racist? Our adult natures, are we set in stone when we were born? A 90-minute interview with 3 year olds do predict to some extent their future personalities.
+- Knowledge
+  - Empiricism - We start off empty and we learn and learn.
+  - Nativism - Chomsky - We are born with rich powerful structural systems in our brain.
+  - Constructivist - Constructivist - The idea of learning and interaction dealign with environment, makes us what we are.
+- Piaget - was not really interested in children, but in the role of development in species.
+  - Studying it by looking through children.
+  - Schemas- there can be mental structures in the head, and these are frameworks that develop to help organise knowledge.
+  - Assimilation: Taking new information and new experiences and matching it up with an already existing schema.
+  - Accommodation: Existing schemas are changed, or new schemas are created, in order to fit the new information and new experience.
+
+## Piaget's Developmental Stages
+
+- Stage 1: Sensorimotor (ages 0-2).
+  - Information gained through senses and motor actions.
+  - The child perceives and manipulates but does not reason.
+  - Object permanence is attained - "even if a ball is behind a screen, the ball continues to exist". This is why babies are amazed with peek-a-boo.
+- Stage 2: Preoperational (2-7).
+  - They can reason, but not at a high level.
+  - Egocentrism - they literally cannot see the world from other eyes. A kid can draw 3 mountains, but they can't see how another person from the other side of the mountain draw it. "The way I see the world is how everyone sees it".
+  - Lack of the concept of conservation - kids think when you pour water into a glass, they think there's more water now. They think that when you spread out M&Ms, there are more.
+- Stage 3: Concrete operational (7-12).
+  - Understands mental operations leading to increasingly logical thought - you can make some experiments/reason about things, they aren't common for them.
+  - Less egocentric.
+  - Inability to reason abstractly or hypothetically.
+- Stage 4: Formal operational (12-adult).
+  - Abstract/scientific reasoning.
+
+## Scientific Evaluation
+
+- He provided an interesting/falsifiable claim, and he had a rich theoretical framework. He also had striking findings.
+- Limitation: Theoretical - what really does he mean when he says "development"? There's no "how" at a neurological, computational, and at a structural level.
+- Limitation: methodological - children are not verbal, they are sensitive, so they'll say things to please an experimenter.
+
+## Methods for studying infants/how are children different from adults?
+
+- Brain scans.
+- Sucking: Babies can suck - If the baby wants to suck their pacifier more if they hear their mother's voice or if they prefer their "native language".
+- Looking: Babies can look. If you become bored, you don't want to look a things. Ex: if babies can distinguish colors, they they will perk up after you change the color of what they're looking at. Can they tell the difference between 2 things or 3 things?
+  - We stare at things if they are surprising.
+  - Babies do infer about the presence of things "behind an object".
+  - Babies do get surprised if there is "something to block the thing behind it".
+  - Babies can "add" and "subtract" - if you "add a toy" and it's supposed to happen, kids get bored. But if you do something else to change their perception, they stare at the thing more.
+- Babies/morality - babies choose the "good puppet" about 70% of the time.
+- From 4 1/2 to 5, kids can figure out that other people can think different things, they can deceive, they can trick, etc.
+- Sally & Anne - kids can't figure out that people can believe things about the world that are false.
+- The brain actually removes connections/prunes, it doesn't add.
+- Parts of the brain are not fully developed until quite late in life (not in adolescence).
+- Charlie can't unclench his mouth, but he can remove the finger with his hand.
+- Open question - Are there are large scale changes between a kid and an adult, or are there specific modules/systems in our brain?
+  - Social development/autism - roughly 1-2 in 1000, 10 in 1000 for autism spectrum disorder - is this a damaged module?
+    - Lack of social connectedness, language impairment, and treating people as objects.
+    - There are autistic individuals who fail at certain tasks, even if they are highly functioning.
+- If there are modules, what are they?
+- Could profound general differences between the minds of children and adults be an effect of learning language?
+- Why study development? Even if you only care about adults, some questions about adulthood are answered by studying children.
+
+## Research and methods in Developmental Psychology
+
+- Involuntary/obligatory responses:
+  - Young infants have little motor control - cannot hold their heads up, grab a toy, etc.
+  - Ex: Habituation - if they are bored, they look away from a picture.
+  - Violation of expectation paradigm - the drawbridge.
+  - Solidity principle - "2 objects cannot occupy the same space at a time".
+- Voluntary responses:
+  - You have this under control.
+  - 6-month infants remember 1 of 3 steps for 24 hours. Nine-month-olds remembers individual steps for 2-step sequence for 1 month.
+- Psychophysiology:
+  - Event-related potentials - fitting a participant with a stretchy cap. Children with autism process faces differently than typically developing children.
+- Parent-report questionnaires
+  - Child behavior checklist - ex: higher levels of maternal stress during pregnancy were associated with increased attention deficit/hyperactivity problems in children over 2 years later.
+- Interview answers (by the kids).
+- Longitudinal research - examine behavior over time/studying the kids as they age.
+  - Risks: attrition, being better by being tested a lot (practice effect).
+  - Cohort affect - history (ex: Facebook getting popular at the time the test was taken) can have an effect on the scores.
+- Cross-sectional designs:
+  - Participants of ages tested at the same point in time - they are age-related, not development-related.
+- Sequential: different ages and over time.
+- Challenges
+  - Kids can't say their willingness to participate.
+  - Recruitment: Expensive cause have to find the person.
+  - Attrition - higher in kids.
+
+## What is language/Basic facts about language
+
+- `The Language Instinct by Steven Pinker, The Power of Babel by John McWhorter`.
+- "The girl thinks the house is big" - can be said by any language in the world.
+- Darwin: "Man has an instinctive tendency to speak, while no child has an instinct tendency to bake, brew, or write."
+- There can be a society without architecture, clothing, but nothing without language.
+- Creolization - a jargon - if you don't have common language with people you work together, you'll create a language for your own.
+  - Children of these workers transform the "language" to an actual language.
+- Every normal human has language, and language relates to creativity.
+- Language is not about rote memory, it's about combining strings of words that haven't put together, and making something that makes sense.
+- Abstract/unconscious rules (not grammar rules in school).
+  - Ex: "The pig is eager to eat" - the pig will eat vs "The pig is easy to eat" the pig will be eaten.
+  - "Bill knew John liked him" vs "himself" - you know that John likes either Bill or John already.
+- Phonology/phonemes
+  - There are 26 letters, but we have around 40 of them in English.
+  - As a baby, it's hard to know which words exist/when they start/where they end.
+- Morphology
+  - There is no relation between the word "dog" and what it represents (a dog). Most words are like this.
+  - Morpheme is the smallest meaningful unit. "Dog" vs "dogs" and "complain" vs "complained" - you don't need to know dogs and complained, they are combined with 2 morphemes.
+  - English has roughly 80,000 morphemes.
+- Syntax
+  - "The infinite use of finite media."
+  - We have symbols, and we have rules, and these rules have rules.
+  - Consider "Fred, Barney, Wilma, Thinks, Likes" with rule "sentence = noun + verb + noun".
+  - You have rules that can result in a new sentence: "Professor Bloom devoted way too much of his lecture talking about how I was amazed at the disturbed Mary when I told her that my roommate heard a rumor that John hates cheese."
+- The ambiguity of language: "Let him have it".
+  - In a robbery, do you mean "let him be murdered" or "give the gun"?
+
+## Language Acquisition
+
+- Chomsky: See the development of language not as learning, but as growth.
+- Language can be an innate thing, but there is a learning element to it.
+  - Different languages can differentiate between "L" and "R" (phonemes). Same as morphemes (dog vs `chien`).
+  - Syntax need to be learned for each language.
+- Impairments in language - things can happen as an adult and as a child that can make you worse at understanding. There are smart people who cannot communicate.
+- There are societies obsessed with getting a kid to learn to speak (flashcards) and some who don't care that much, but all kids learn to talk regardless.
+- Feedback given by parent to kids re: talking - they don't matter.
+  - We don't typically correct our kids' grammar.
+- Development timetable:
+  - When a child is born, they like listening to their own language.
+  - They are sensitive to all phonemes - a baby can make distinctions that an adult can.
+  - 7 months - babbling - deaf children babble with their hands.
+  - 12 months - know word order.
+  - 18 months - two word sentences and don't say many words. Function morphemes like "of, a, the" start to show up.
+  - Past puberty - learning is harder, same with deaf people who want to learn sign.
+- Learning English at 30 will make you not be as fluent who did so at an earlier age.
+
+## Language and thought
+
+- Reading is not universal - not all societies have.
+- Do animals have language? They have different communication, but they aren't language.
+  - Finite list of calls (monkeys)
+  - No: phonology, morphology, syntax, names, recursion.
+- Primates trained by humans?
+  - Few "words".
+  - Very slow learning
+  - Limited ordering
+  - No recursion.
+  - `"Nim eat Nim eat", "Me eat me eat", "Tickle me Nim play"`
+- Language processing: Your knowledge of language changes your perception of it. The things you think are gaps, you made them up.
+  - Does the language you learn change the way you think? Ex: English propositions (in, on, under) vs Korean (whether something is firmly attached).
+  - Is language necessary for abstract thought? 15-month olds can solve false belief tasks.
+- Without language, we can't express thoughts/we can't think them.
+  - Linguistic creatures know numbers, but they don't know 8 + 8 = 16. Without a symbolic system, they can't do complex math.
+
+## Language and Language Use
+[Reference](https://nobaproject.com/modules/language-and-language-use)
+
+- Even when children who don’t have much language to begin with are brought together, they can begin to develop and use their own language.
+- There is at least one known instance where children who had had little language were brought together and developed their own language spontaneously with minimum input from adults.
+  - In Nicaragua in the 1980s, deaf children who were separately raised in various locations were brought together to schools for the first time.
+  - Teachers tried to teach them Spanish with little success.
+  - However, they began to notice that the children were using their hands and gestures, apparently to communicate with each other. Linguists were brought in to find out what was happening—it turned out the children had developed their own sign language by themselves.
+- Common ground is a set of knowledge that the speaker and listener share and they think, assume, or otherwise take for granted that they share.
+  - This way, common ground changes as we talk, gathering new information that we agree on and have evidence that we share. It evolves as people take turns to assume the roles of speaker and listener, and actively engage in the exchange of meaning.
+- Audience design. Speakers design their utterances for their audiences by taking into account the audiences’ knowledge.
+  - If their audiences are seen to be knowledgeable about an object, they tend to use a brief label of the object; for a less knowledgeable audience, they use more descriptive words to help the audience understand their utterances.
+- To be sure that we coordinate, we have a conversation in small groups. The number of people engaging in a conversation at a time is rarely more than four.
+  - By some counts, more than 90 percent of conversations happen in a group of four individuals or less.
+  - Certainly, coordinating conversation among four is not as difficult as coordinating conversation among 10.
+- When one person uses a certain expression to refer to an object in a conversation, others tend to use the same expression.
+  - Furthermore, if someone says “the cowboy offered a banana to the robber,” rather than “the cowboy offered the robber a banana,” others are more likely to use the same syntactic structure (e.g., “the girl gave a book to the boy” rather than “the girl gave the boy a book”) even if different words are involved.
+- Priming: Thinking about "rings" remind you about "marriage".
+- 60-70% of everyday conversation turns out to be gossip.
+  - Gossip—activities to think and communicate about our social world—is one of the most critical uses to which language has been put. Dunbar (1996) conjectured that gossiping is the human equivalent of grooming, monkeys and primates attending and tending to each other by cleaning each other’s fur.
+  - Furthermore, by gossiping, humans can communicate and share their representations about their social world—who their friends and enemies are, what the right thing to do is under what circumstances, and so on. In so doing, they can regulate their social world—making more friends and enlarging one’s own group (often called the ingroup, the group to which one belongs) against other groups (outgroups) that are more likely to be one’s enemies.
+- **Intriguingly, people tend to describe positive actions of their ingroup members using adjectives (e.g., he is generous) rather than verbs (e.g., he gave a blind man some change), and negative actions of outgroup members using adjectives (e.g., he is cruel) rather than verbs (e.g., he kicked a dog).**
+- People tend to tell stories that evoke strong emotions.
+- When stories travel through communication chains, they tend to become conventionalized.
+- In other words, information transmitted multiple times was transformed to something that was easily understood by many, that is, information was assimilated into the common ground shared by most people in the linguistic community.
+  - After the retelling of this story, much of the counter-stereotypical information was dropped, and stereotypical information was more likely to be retained. Because stereotypes are part of the common ground shared by the community, this finding too suggests that conversational retellings are likely to reproduce conventional content.
+
+### Psychological Consequences of Language Use
+
+- Thus, constructing a linguistic representation of another person’s emotion apparently biased the speaker’s memory of that person’s emotion.
+  - Linguistically labeling one’s own emotional experience appears to alter the speaker’s neural processes.
+  - When people linguistically labeled negative images, the amygdala—a brain structure that is critically involved in the processing of negative emotions such as fear—was activated less than when they were not given a chance to label them.
+- Linguistic reconstructions of negative life events can have some therapeutic effects on those who suffer from the traumatic experiences.
+- Language does not completely determine our thoughts—our thoughts are far too flexible for that—but habitual uses of language can influence our habit of thought and action.
+  - For instance, some linguistic practice seems to be associated even with cultural values and social institution.
+  - Pronouns such as “I” and “you” are used to represent the speaker and listener of a speech in English.
+  - In an English sentence, these pronouns cannot be dropped if they are used as the subject of a sentence.
+  - So, for instance, “I went to the movie last night” is fine, but “Went to the movie last night” is not in standard English.
+  - However, in other languages such as Japanese, pronouns can be, and in fact often are, dropped from sentences.
+  - **It turned out that people living in those countries where pronoun drop languages are spoken tend to have more collectivistic values than those who use non–pronoun drop languages such as English. It was argued that the explicit reference to “you” and “I” may remind speakers the distinction between the self and other, and the differentiation between individuals.**
