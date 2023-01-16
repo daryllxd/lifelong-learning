@@ -34,3 +34,66 @@
 - Aligning on scope, shape, and primary focus:
   - Here are my goals for this year.
   - Here are some sample activities that I will do.
+
+## Chapter 2 - Three Maps
+
+- Paying attention - being alert to facts that affect your projects or organization. Know which emails you need to read and which meetings you need to go to.
+- Being new is the best opportunity you'll have to get a complete outsider view, but as a staff engineer, you should try to have this perspective all the time.
+- Every staff engineer team is a part of their own "staff engineer team" in addition to their own team.
+- Company culture
+  - How much autonomy will I have?
+  - Will I feel included?
+  - Will it be safe to make mistakes?
+  - Will I be part of the decisions that affect me?
+  - How difficult will it be to make progress on my projects?
+  - Are people nice?
+- Top-down: Top makes decisions.
+- Bottom-up: Employees and teams feel empowered to make their own decisions.
+- High-trust cultures that emphasize information flow have better software delivery performance.
+- Ex: Migrating a system fell on three teams, and it became an "I don't know, you should ask x".
+
+## Chapter 3 - Creating the Big Picture
+
+- Technical vision/strategy - the current state of the world, challenges to overcome, and a clear path forward for addressing those challenges.
+- Ex: Engineering teams have a lack of tooling, too many incidents, and poor deployments. Fix: Free up time for DevOps.
+- Checklist:
+  - We need this.
+  - I know the solution will be boring and obvious.
+  - There isn't an existing effort.
+  - There's organizational support.
+  - We agree on what we're creating.
+  - The problem is solvable (by me).
+  - I'm not lying to myself on any of the above.
+- What will future you wish that present you had done?
+- Work on your story: You'll know the direction is well understood if people continue to stay on course when you're not in the room to influence their decisions.
+
+## Chapter 4 - Finite Time
+
+- "If I start this work, what am I not doing instead?"
+- Needs: Energy, credibility, quality of life, skills, and social capital.
+- Skill increases:
+  - Deliberately setting out to learn something - taking a class, buying a book, hacking on a toy project.
+  - Working with someone who is really skilled.
+  - Learning by doing.
+
+### Questions to ask yourself about projects:
+
+- Energy: How many things are you already doing?
+- Energy: Does this kind of work give or take energy?
+- Energy: Are you procrastinating?
+  - Reflect - what was worth the effort to you, and think about how many more things like this you see at the company you're in that you really want to change just as much as that one.
+- Quality of life: Do you enjoy this work?
+- Quality of life: How do you feel about the project's goals?
+- Credibility: Does this project use your technical skills?
+  - Can you implement something that other people have already failed at, or make it tractable for other people?
+- Credibility: Does this project use your leadership skills?
+- Social capital: Is this the kind of work that your company and your manager expects at your level?
+  - Managing up: What are your boss's priorities?
+- Social capital: Will this work be respected?
+  - If you're working on something that other people consider to be important, then that builds goodwill/they'll be more inclined to help you.
+- Skills: Will this project teach you something you want to learn?
+  - What stories do you want to be able to tell on your future resume?
+- Skills: Will the people around you raise your game?
+- **You won't succeed unless you can defend your time.**
+
+## Chapter 5 - Leading Big Projects

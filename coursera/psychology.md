@@ -362,5 +362,5 @@
   - Pronouns such as “I” and “you” are used to represent the speaker and listener of a speech in English.
   - In an English sentence, these pronouns cannot be dropped if they are used as the subject of a sentence.
   - So, for instance, “I went to the movie last night” is fine, but “Went to the movie last night” is not in standard English.
-  - However, in other languages such as Japanese, pronouns can be, and in fact often are, dropped from sentences.
+  - However, in other languages such as Japanese, pronouns can be, and in fact often are, dropped from sentences.**
   - **It turned out that people living in those countries where pronoun drop languages are spoken tend to have more collectivistic values than those who use non–pronoun drop languages such as English. It was argued that the explicit reference to “you” and “I” may remind speakers the distinction between the self and other, and the differentiation between individuals.**
