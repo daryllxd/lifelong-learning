@@ -364,3 +364,177 @@
   - So, for instance, “I went to the movie last night” is fine, but “Went to the movie last night” is not in standard English.
   - However, in other languages such as Japanese, pronouns can be, and in fact often are, dropped from sentences.**
   - **It turned out that people living in those countries where pronoun drop languages are spoken tend to have more collectivistic values than those who use non–pronoun drop languages such as English. It was argued that the explicit reference to “you” and “I” may remind speakers the distinction between the self and other, and the differentiation between individuals.**
+
+# Week 3
+
+## From the world to the mind
+
+- Successful perception involves educated, unconscious guesses of the world.
+- Attention
+- Memory - the key is organisation and understanding. And you can't trust your memory.
+
+## Problems of Perception
+
+- You see the world through your eyes, and you think that you are looking at the world with some annotations.
+- You have an eye, light hits the retina, and they fire, and there will be an array of numbers.
+- How do you know that the moon is far and not near? Or how do you know that a polygon is that, and not a square tilted to the back?
+- We might have unconscious assumptions about the world works.
+
+## Perception of brightness
+
+- Coal vs snow is not just because "it's black".
+- "Being in a shadow" makes things darker (according to the brain).
+
+## Perception of objects
+
+- Gestalt things
+
+## Perception of depth
+
+- `Müller-Lyer illusion` - the one with the two lines with arrows.
+- `Ponzo illusion` - converging lines.
+  - You think top line is longer, but you can't say why .
+
+## Attention
+
+- Sensory memory - what you see.
+- Working memory - Associated with consciousness, what you see for a period of time.
+- Long-term memory.
+- Attention - sometimes effortless.
+- Involuntary - if there is nothing else to listen to, someone talking will get your attention.
+- Stroop effects - the one where the color is different from the text.
+
+### Vision
+[Reference](https://nobaproject.com/modules/vision)
+
+- Photoactivation - the light energy becomes neural energy.
+- Pupil then cornea/lens then project this to retina. Then, light is transduced into  neural energy by about 200 million photoreceptor cells.
+  - Rods - more than cones - give us sensitivity to dim lighting and allow us to see at night.
+  - Cones - allow us to see fine details in bright light and sensation of color. Around the central region of the retina.
+- The nervous system analyses differences in light, and these differences get transmitted to the brain. The brain actually thinks that high light contrasts are the edges of things.
+  - Evolutionarily, **Encoding the absolute amount of light in the world tells us little about what is out there.**
+  - Contrast is so important that your neurons exaggerate those differences for you, lest you miss them.
+- Your visual system must operate with billions of photons entering your eyeballs per second (day time) to hundreds (night time).
+  - Rods - bleached during day time.
+  - Cones - require more photons to fire, and they replenish faster than rods.
+- Under bright light, your rods are bleached. When you move into dark environment, it will take about 30 minutes before they chemically recover (dark adaptation). This is why exiting a tunnel on a highway causes you to be blinded by the sudden light for about 1 second.
+- Even though the sun is different from a night light, you don't experience the sun as "million of times brighter".
+
+### Reconstruction
+
+- Neurons project first into thalamus, then split to two and project towards two different parts of the brain.
+- Reflexive eye movements - are in subcortical (evolutionarily older part) of the brain. These allow you to orient your eyes towards areas of interest/track objects as they move.
+- Complex computations - allow you to visually experience the world - happen in the cortex, the newer part of the brain.
+- Primary visual cortex (V1) - compute information about color, simple lines.
+  -  Specialised brain areas - global-motion info, location/scenes, faces, letter/word processing.
+- Prey have eyes on the side of the skull to see more.
+- Predator have eyes in the same direction to reconstruct 3D.
+- Why humans have 3 types of color photoreceptors, and mantis shrimp have 16?
+  - Signal info about food, reproduction, health. We know slight changes in skin tone, and when can detect if someone is embarrassed, aroused, or ill.
+- Red, blue, green cones, and you can't create "reddish-green" (opponent process theory of color).
+- Color-blindness - missing one of the cones in the retina.
+  - Not all cultures categorise colors in the same way.
+  - The Berinmo tribe in New Guinea, for instance, appear to experience green shades that denote leaves that are alive as belonging to an entirely different color category than the sort of green shades that denote dying leaves.
+  - Russians, too, appear to experience light and dark shades of blue as different categories of colors, in a way that most Westerners do not.
+- For example, when you move your head in one direction, your eyes reflexively move in the opposite direction to compensate, allowing you to maintain your gaze on the object that you are looking at.
+  - This reflex is called the vestibulo-ocular reflex.
+  - It is achieved by integrating information from both the visual and the vestibular system (which knows about body motion and position).
+  - You can experience this compensation quite simply.
+  - First, while you keep your head still and your gaze looking straight ahead, wave your finger in front of you from side to side.
+  - Notice how the image of the finger appears blurry.
+  - Now, keep your finger steady and look at it while you move your head from side to side. Notice how your eyes reflexively move to compensate the movement of your head and how the image of the finger stays sharp and stable.
+  - Vision also interacts with your proprioceptive system, to help you find where all your body parts are, and with your auditory system, to help you understand the sounds people make when they speak.
+
+## Attention
+[Reference](https://nobaproject.com/modules/attention)
+
+- Everyone knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others.
+- Attention in the context of this type of search task refers to the level of sustained attention or vigilance one can maintain. In contrast, divided attention tasks allow us to determine how well individuals can attend to many sources of information at once. Spatial attention refers specifically to how we focus on one part of our environment and how we move attention to other locations in the environment. These are all examples of different aspects of attention, but an implied element of most of these ideas is the concept of selective attention; some information is attended to while other information is intentionally blocked out.
+- Shadowing/2 conversations - can only determine if a pitch changed.
+- Unless a task is fully automated, some researchers suggest that “multi-tasking” doesn't really exist; you are just rapidly switching your attention back and forth between tasks.
+- The effect of a cell phone conversation on performance (such as not noticing someone’s brake lights or responding more slowly to them) is just as significant when the individual is having a conversation with a hands-free device as with a handheld phone; the same impairments do not occur when listening to the radio or a book on tape
+- Moreover, studies using eye-tracking devices have shown that drivers are less likely to later recognize objects that they did look at when using a cell phone while driving.
+- These findings demonstrate that cognitive distractions such as cell phone conversations can produce inattentional blindness, or a lack of awareness of what is right before your eyes.
+
+## Memory
+
+- Losing memory = Jason Bourne? Not like a guy who doesn't understand how to do things again.
+  - Explicit - consciously you know this - your name, etc.
+  - Implicit - you might forget that you've been to a place but you sort of know your way around.
+  - Semantic - facts
+  - Episodic - episodes of your life
+- Encoding (getting into head), storage, retrieval.
+- Recall - freely recounting what you experienced.
+- Recognition - from a set of options, which was it?
+
+## Memory
+
+- Sensory input -> Sensory memory.
+  - "Well you're not listening to me" - you can say what they said because your sensory memory got it.
+- Short term memory -> You can hold it in your head, but you can lose it. 7 +- 2.
+- An expert in a field may know something more than you for the field they are good at.
+
+## Learning
+
+- Rehearsal and repeating things is not enough.
+- Depth of processing - the deeper you think about something, the easier it is to remember.
+- Mnemonics.
+
+## Remembering
+
+- Retrieval cues.
+- Compatibility principle - because of cues, you remember things when you remember them in the same context in which you learnt them.
+- If you learnt scuba words in a boat, you'll remember them better on a boat.
+
+## Failures of memory
+
+- Memories are physical things, which decay.
+- New things come in, interfering with old memories.
+- Change in retrieval cue (change house).
+- Learning of a language transform how your memory works.
+- Retrograde amnesia - losing your memory for some period of time prior to an accident.
+- Anterograde amnesia - can't create new memories.
+  - Clive Wearing - it feels like you just woke up for the first time.
+- People with Anterograde amnesia can learn new things, but they might not know how they learned those new things.
+
+## False Memories
+
+- Leading questions can make you think of a new memory.
+- Hypnotic regression - if a person can't remember, they make things up.
+- You can create false memories when you try to reconstruct things.
+- Flashbulb memories - you can remember where you are on Sept 11, 2001 - these are usually not accurate.
+
+## Memory (Encoding, Storage, Retrieval)
+[Reference](https://nobaproject.com/modules/memory-encoding-storage-retrieval)
+
+- Another type of memory is episodic memory—the ability to remember the episodes of our lives.
+- Semantic memory is our storehouse of more-or-less permanent knowledge, such as the meanings of words in a language (e.g., the meaning of “parasol”) and the huge collection of facts about the world (e.g., there are 196 countries in the world, and 206 bones in your body).
+- Collective memory refers to the kind of memory that people in a group share (whether family, community, schoolmates, or citizens of a state or a country). For example, residents of small towns often strongly identify with those towns, remembering the local customs and historical events in a unique way.
+- Psychologists have long pinpointed distinctiveness—having an event stand out as quite different from a background of similar events—as a key to remembering events.
+- In addition, when vivid memories are tinged with strong emotional content, they often seem to leave a permanent mark on us. Public tragedies, such as terrorist attacks, often create vivid memories in those who witnessed them. But even those of us not directly involved in such events may have vivid memories of them, including memories of first hearing about them.
+- Because humans are creative, we are always going beyond the information we are given: we automatically make associations and infer from them what is happening. But, as with the word association mix-up above, sometimes we make false memories from our inferences—remembering the inferences themselves as if they were actual experiences.
+- We can't know the entirety of what is in our memory, but only that portion we can actually retrieve. Something that cannot be retrieved now and which is seemingly gone from memory may, with different cues applied, reemerge.
+
+## Forgetting and Amnesia
+[Reference](https://nobaproject.com/modules/forgetting-and-amnesia)
+
+- Usually, encoding failures occur because we are distracted or are not paying attention to specific details.
+- Similarly, it has been well documented that distraction during learning impairs later memory.
+- It has been known since the pioneering work of Hermann Ebbinghaus (1885/1913) that as time passes, memories get harder to recall. Ebbinghaus created more than 2,000 nonsense syllables, such as dax, bap, and rif, and studied his own memory for them, learning as many as 420 lists of 16 nonsense syllables for one experiment. He found that his memories diminished as time passed, with the most forgetting happening early on after learning.
+- More recently, some memory theorists have proposed that recent memory traces may be degraded or disrupted by new experiences (Wixted, 2004). Memory traces need to be consolidated, or transferred from the hippocampus to more durable representations in the cortex, in order for them to last.
+- Retrieval hints can bring back to mind seemingly forgotten memories.
+- Competition between memories can also lead to forgetting in a different way. Recalling a desired memory in the face of competition may result in the inhibition of related, competing memories. You may have difficulty recalling the name of Kennebunkport, Maine, because other Maine towns, such as Bar Harbor, Winterport, and Camden, come to mind instead.
+- Finally, some memories may be forgotten because we deliberately attempt to keep them out of mind. Over time, by actively trying not to remember an event, we can sometimes successfully keep the undesirable memory from being retrieved either by inhibiting the undesirable memory or generating diversionary thoughts.
+- **Is forgetting ever good? Most people would reason that forgetting that occurs in response to a deliberate attempt to keep an event out of mind is a good thing. No one wants to be constantly reminded of falling on their face in front of all of their friends. However, beyond that, it can be argued that forgetting is adaptive, allowing us to be efficient and hold onto only the most relevant memories.**
+
+### Amnesia
+
+- Functional amnesia involves a loss of memory that cannot be attributed to brain injury or any obvious brain disease and is typically classified as a mental disorder rather than a neurological disorder.
+
+## Eyewitness Testimony and Memory Biases
+[Reference](https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases)
+
+- There is now a wealth of evidence, from research conducted over several decades, suggesting that eyewitness testimony is probably the most persuasive form of evidence presented in court, but in many cases, its accuracy is dubious. There is also evidence that mistaken eyewitness evidence can lead to wrongful conviction—sending people to prison for years or decades, even to death row, for crimes they did not commit.
+- This phenomenon is called the misinformation effect, because the misinformation that subjects were exposed to after the event (here in the form of a misleading question) apparently contaminates subjects’ memories of what they witnessed. Hundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous information that people are exposed to after they witness an event.
+- Other studies have shown that misinformation can corrupt memory even more easily when it is encountered in social situations (Gabbert, Memon, Allan, & Wright, 2004). This is a problem particularly in cases where more than one person witnesses a crime. In these cases, witnesses tend to talk to one another in the immediate aftermath of the crime, including as they wait for police to arrive.
+- It is hard for the legal system to do much about most of these problems. But there are some things that the justice system can do to help lineup identifications “go right.” For example, investigators can put together high-quality, fair lineups. A fair lineup is one in which the suspect and each of the foils is equally likely to be chosen by someone who has read an eyewitness description of the perpetrator but who did not actually witness the crime.
