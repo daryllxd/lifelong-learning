@@ -97,3 +97,64 @@
 - **You won't succeed unless you can defend your time.**
 
 ## Chapter 5 - Leading Big Projects
+
+- The reason a project is difficult isn't because of technology, but because you're dealing with ambiguity, unclear directions, or legacy systems whose behavior you can't predict.
+- **It's normal to feel overwhelmed when you're beginning a project. That feeling of discomfort is called learning.**
+- Ambiguity is the nature of the work. If it wasn't messy and difficult, they wouldn't need you. So you're doing something hard and you might make mistakes, but someone has to. The job here is to be the person brave enough to make, and own, the mistakes.
+- **Pragmatic Programmer: We find that often the only way to determine the timetable for a project is by gaining experience on that same project.** Practice estimating and keep a log of how that's going.
+- The Art of Travel - the frustration of learning new information that doesn't connect to anything you already know.
+- **Wrong is better than vague.**
+  - Be clear about who or what is doing the action for every single verb. Instead of "the payload will be unpacked", use "the `ParseComponent` will unpack the payload".
+  - It's fine to use a few extra words or even repeat yourself if it means avoiding ambiguity.
+    - "We only have 2 boxes left. To solve this, we should order more."
+    - "We only have 2 boxes left. To solve this shortage, we should order more."
+
+### Technical pitfalls
+
+- It's a brand new problem (but it isn't)
+- "This looks easy!"
+- Building for the present, not for when the company grows
+- Building for the distant, distant future
+- "Every user just needs to..." - parts of the solution that change user behavior will be difficult and needs to be part of the design.
+- "We'll figure the difficult part later"
+- Solving small problems but making the bigger problem harder
+- Discussing the smallest decisions the most
+
+### Should you code on the project?
+
+- Writing code is rarely the highest leverage thing you can spend your time on.
+
+## Chapter 6 - Why Have We Stopped?
+
+- Blocked by an "approver" - make the thing you need as small as possible. Structure your request so it's easy to say yes to, with as little reading needed as possible.
+- Making things easier for the other person:
+  - Spell out what you need.
+  - "Three bullets and a call to action" technique: 3 bullet points detailing the issue at hand, and one CTA.
+- **Nobody wants to use software. They want to catch a Pokemon.**
+
+## Chapter 7 - You're a Role Model Now (Sorry)
+
+- "I don't want to be a role model!" Like it or not, you're setting your engineering culture.
+- Being competent
+  - Know things
+  - Build experience/do technical things.
+  - Don't rush your prime learning years.
+  - Show that you're learning - publicly.
+- Be self-aware
+  - True confidence comes from having done the work for long enough that you've learned to trust yourself.
+  - What you don't know - "ELI5".
+- Have high standards
+  - Seek out constructive criticism - ask for code review, design review, and peer evaluations.
+- Be reliable: "X is going to be in that meeting, so I don't need to go."
+  - Drive meetings: If the group is passive, distracted, we can do "OK, let's get started".
+  - Describe the culture that you're aiming to build, and use that as a reference.
+- Optimise for maintenance, not creation.
+- The degree to which other people want to work with you is a direct indication of how successful you'll be in your career as an engineer. Be the engineer that everyone wants to work with.
+
+## Chapter 7 - Good Influence at Scale
+
+
+
+
+
+The Art of Travel
