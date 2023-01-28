@@ -151,10 +151,43 @@
 - Optimise for maintenance, not creation.
 - The degree to which other people want to work with you is a direct indication of how successful you'll be in your career as an engineer. Be the engineer that everyone wants to work with.
 
-## Chapter 7 - Good Influence at Scale
+## Chapter 8 - Good Influence at Scale
 
+- Role model engineer - doing the best engineering work you can, and letting others see it.
+- If your colleagues do better work, you can do better work too.
+- Getting the teams you work with to use architecture, etc. will be frustrating unless you know how to influence and teach new skills.
+- Teaching:
+  - What was successful about the best classes you took?
+  - At the end of the teaching, what should the person be able to know?
+- Individual guardrails:
+  - Should this work exist? What problem does your colleague intend to solve?
+  - Does this work actually solve the problem?
+  - How will it handle failure?
+  - Is it understandable?
+- Being a catalyst
+  - Solve a real problem.
+  - Choose your battles.
+  - Offer support.
+- Opportunity
+  - People learn by doing, so give other people opportunities to grow.
 
+## What's Next?
 
-
-
-The Art of Travel
+- What's important to you?
+  - Finance
+  - Supporting family
+  - Flexible schedule
+  - Learning a lot
+  - Being visible
+  - Doing cool things
+  - Challenging yourself
+  - Building wealth
+  - Working for yourself
+  - Making a difference
+  - Enabling your vocation or something you really care about
+- 5 Signs it's time to quit your job:
+  - Are you learning? Are you growing?
+  - Are you learning transferable skills or just how to cope with your org's dysfunction?
+  - How do you feel about recruiting friends to your company?
+  - How's your confidence and how capable do you feel?
+  - Is your job physically good for you?
