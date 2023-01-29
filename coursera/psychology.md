@@ -538,3 +538,355 @@
 - This phenomenon is called the misinformation effect, because the misinformation that subjects were exposed to after the event (here in the form of a misleading question) apparently contaminates subjects’ memories of what they witnessed. Hundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous information that people are exposed to after they witness an event.
 - Other studies have shown that misinformation can corrupt memory even more easily when it is encountered in social situations (Gabbert, Memon, Allan, & Wright, 2004). This is a problem particularly in cases where more than one person witnesses a crime. In these cases, witnesses tend to talk to one another in the immediate aftermath of the crime, including as they wait for police to arrive.
 - It is hard for the legal system to do much about most of these problems. But there are some things that the justice system can do to help lineup identifications “go right.” For example, investigators can put together high-quality, fair lineups. A fair lineup is one in which the suspect and each of the foils is equally likely to be chosen by someone who has read an eyewitness description of the perpetrator but who did not actually witness the crime.
+
+# Week 3
+
+## Evolution of Emotion
+
+- Brain is the origin of mental life.
+- Where does the brain come from?
+- Paley: "The watch looks constructed, and our body is constructed" - **argument from design**. This makes sense because things people build (ex: camera) look like what nature builds.
+- Problem with creationism
+  - Pushes back the question i.e. "so why study this?"
+  - There is evidence for evolution and that it had occurred.
+  - There is occasional poor design (eye has a blind spot, the urethra takes a longer path than is necessary).
+- People knew about evolution long before Darwin, but his discovery is how the complex parts of the body came from.
+- Camouflage: Darwinian argument is that some animals just randomly better at blending in with the environment.
+- The eye was not created at once, and there are different "eyes" from a no eye to a fully developed eye.
+
+## Why Evolution Matters
+
+- Ultimate causation - the reason why something has evolved.
+- Proximate causation - what the user wants.
+  - People eat not because of "utility" but because it feels good?
+  - Evolutionarily, "I love my kids" because those who do spread their progeny.
+  - Psychologically, you can love your kids even if they don't bear children.
+- Misconception: Everything we evolve/adapt exists for a purpose.
+  - Hiccups, lower back pain, self-pity have no "evolutionary purpose".
+  - Good to figure out which of our traits are adaptations, and which are accidents.
+  - Ex: Why do we love television or chocolate?
+  - Why do we love art, humor? Is this adaptation or it's just an accident?
+  - William James - "Why do we smile when pleased and not scowl?"
+- Things that look "natural to us" but are actual adaptations.
+  - Why does poop smell bad?
+  - Why does chocolate taste good?
+  - Why do we love our children?
+  - Why do we get angry when people hit us?
+- Misconception about emotions: You don't need emotions to do things (ex: science fiction robots). Emotions are fundamental to human life - we don't see them any more as noise in the machine, rather as products of evolution, and they're there for a reason.
+- **Emotions set goals and priorities. Plainly, our emotions are shaped by cultural contexts. Depending on who you are and where you live, your emotions will be different, they'll respond to different things. But just as we'd expect from an evolutionary perspective, they have universal roots.**
+
+## Facial expressions
+
+- Darwin: fascinated with facial expressions.
+- Face - age, identity, sexual signals, feelings, emotions.
+- Pre-literate culture - the common story for a fear face was a wild pig and you not having a weapon.
+- Facial expressions
+  - Serve as social signals.
+  - We are more prone to smile when happy, and we want others to know it.
+  - Athletes can be stoic, but when getting the medal, they are smiling to the audience.
+  - You can be happy but not smile if you are by yourself.
+- Happiness smile (Duchenne smile) with the eyes - real smile. Fake smile - turning your mouth outwards, but that is it. Happy couples have more sincere smiles.
+  - Coy smile - appeasement smile/"related to a desire to affiliate". Ex: baby smiling sheepishly.
+- Fear - can be a social emotion because you can be afraid of other people. Ex: spiders, snakes, heights, storms, large animals, darkness, blood, strangers, humiliation, deep water, and leaving home alone.
+  - But why do we not have a fear of cars, or electric outlets, if they are dangerous?
+  - Even people who have never seen a spider or snake fear them. This is more evolution-like rather than conditioning type.
+
+## Kinship
+
+- Why is kindness "evolutionarily good for us"?
+- Intuition is that free riders would take advantage, yet altruism thrives.
+- Dawkins: We are evolved altruists, but we are not indiscriminate altruists.
+- Animals who care for itself and its offspring would be more evolutionarily successful. "An animal is merely the gene's way of making another gene."
+  - Kin selection - If a gene increases the chance that the bearer of that gene will survive, then the better the chance that gene survives.
+  - Pure selfishness is untenable.
+- Animals have evolved to be nice to kin.
+- Humans have a long period of dependence prior to sexual maturity.
+  - What are the Psychological mechanisms of childcare of how parents respond to children?
+    - Wired to listen to distress calls, finding babies cute.
+    - Baby-faced adults are perceived to be naive, helpless, kind.
+    - Cupboard theory (Skinner) - baby favors mom because of milk.
+    - Innate attachment (Bowlby) - positive force to mom for comfort, negative force with fear of strangers.
+  - What are the psychological mechanisms underlying how children respond to parents?
+
+## Prisoners Dilemma/Nice to non-kin
+
+- Reciprocal altruism - "scratch my back and I scratch yours".
+- Shunning is a powerful punishment.
+  - You need: recognising cheaters, remembering who they are, and holding memory across time.
+- Prisoner's dilemma.
+- One-shot prisoner's dilemma - doing it and never meeting the person ever again.
+- Evolutionarily: So, we feel gratitude and liking for people who cooperate with us, which motivates us to be nice to them in the future, we feel anger and distrust to those who betray us, which motivates us to betray or avoid them in the future, and we feel guilt when we betray someone who cooperates with us. This motivates us to behave better in the future.
+
+## Irrationality and Culture
+
+- Even for a one-shot ultimatum game, people normally reject them out of spite.
+- The usefulness of irrationality
+  - A rational person is easily exploited.
+  - A person with a temper has an advantage: "Mess with me and I'll kill you".
+  - If they are super irrational, then you won't deal with this person.
+  - **In chronically feuding and warring societies, an essential manly virtue is the capacity for violence. To turn the other cheek is not saintly but stupid. Or contemptibly weak.**
+- The importance of reputation depends on the culture.
+- Cultures of honor:
+  - Can't rely on the law, resources are easily taken, and reputation for excessive violent retaliation is essential to keep your resources.
+  - Ex: Warriors, cowboys.
+  - They accept gun laws, corporal punishment, forgiving towards crimes of honor (re: killing someone who insult you), higher rate of violence only in certain circumstances/where honor is being questioned.
+- Being raised in one culture makes you more aggressive when insulted than in another culture.
+
+## Affective Neuroscience
+[Reference](https://nobaproject.com/modules/affective-neuroscience)
+
+- In humans, emotions and their associated neural systems have additional layers of complexity and flexibility.
+  - Compared to animals, humans experience a vast variety of nuanced and sometimes conflicting emotions.
+  - Humans also respond to these emotions in complex ways, such that conscious goals, values, and other cognitions influence behavior in addition to emotional responses.
+- Across species, emotional responses are organized around the organism’s survival and reproductive needs.
+  - Emotions influence perception, cognition, and behavior to help organisms survive and thrive.
+- Specific emotions are not located in a single structure of the brain. Instead, emotional responses involve networks of activation, with many parts of the brain activated during any emotional process.
+
+### Desire - Neural Systems of Reward Seeking
+
+- When the appetitive system is aroused, the organism shows enthusiasm, interest, and curiosity.
+- These neural circuits motivate the animal to move through its environment in search of rewards such as appetizing foods, attractive sex partners, and other pleasurable stimuli.
+- When the appetitive system is underaroused, the organism appears depressed and helpless.
+- Research in both humans and nonhuman animals shows that the left frontal cortex (compared to the right frontal cortex) is more active during appetitive emotions such as desire and interest.
+  - Suffered damage to the left frontal cortex: developed depression, whereas those with damage to the right frontal cortex developed mania.
+
+### Liking: The neural circuits of pleasure and enjoyment
+
+- “Liking” (e.g., enjoyment of a sweet liquid) can be measured in babies and nonhuman animals by measuring licking speed, tongue protrusions, and happy facial expressions, whereas “wanting” (desire) is shown by the willingness to work hard to obtain a reward.
+- Brain regions for liking are sensitive to opioids and endocannabinoids.
+  - Stimulation of other regions of the reward system increases wanting, but does not increase liking, and in some cases even decreases liking.
+  - Distinction between desire and enjoyment: for addiction, particularly why individuals often continue to frantically pursue rewards such as cocaine, opiates, gambling, or sex, even when they no longer experience pleasure from obtaining these rewards due to habituation.
+
+### Fear: The neural system of freezing and fleeing
+
+- The role of the amygdala in fear responses has been extensively studied.
+- The visual cortex sends the information on to the amygdala, provoking a fear response.
+- **However, the thalamus also quickly sends the information straight to the amygdala, so that the organism can react before consciously perceiving the snake.**
+
+### Rage: The circuits of anger and attack
+
+- Anger can be evoked through goal frustration, physical pain, or physical restraint.
+- In territorial animals, anger is provoked by a stranger entering the organism’s home territory
+- The neural networks for anger and fear are near one another, but separate.
+- The anger circuits are linked to the appetitive circuits, such that lack of an anticipated reward can provoke rage.
+- In addition, when humans are angered, they show increased left frontal cortical activation, supporting the idea that anger is an approach-related emotion.
+
+### Love: The neural systems of care and attachment
+
+- The emotions that motivate nurturing behavior (e.g., maternal care) are distinguishable from those that motivate staying close to an attachment figure in order to receive care and protection (e.g., infant attachment).
+
+### Grief: The neural networks of loneliness and panic
+
+- When infant humans or other infant mammals are separated from their mothers, they produce distress vocalizations, or crying. The attachment circuits are those that cause organisms to produce distress vocalizations when electrically stimulated.
+- Opiate drugs and nicotine artificially produce feelings of pleasure and gratification, similar to those normally produced during positive social interactions.
+- Panic attacks appear to be an intense form of separation distress triggered by the attachment system, and panic can be effectively relieved by opiates.
+
+### Evolutionary Theories in Psychology
+[Reference](https://nobaproject.com/modules/evolutionary-theories-in-psychology)
+
+- In the case of dating, doing something like offering a gift might represent more than a nice gesture.
+  - Just as chimpanzees will give food to mates to show they can provide for them, when you offer gifts to your dates, you are communicating that you have the money or “resources” to help take care of them.
+  - The receiver of the gift evaluates not only the gift but also the gift-giver's clothes, physical appearance, and many other qualities, to determine whether the individual is a suitable mate.
+
+### Sexual Selection Theory
+
+- Intrasexual competition - among members of the same sex.
+  - Ex: Plumage of peacocks make it easy to hunt them, but better for sexual selection.
+  - Even though large antlers make it harder for stags to run through the forest, they provide a higher chance of attracting a mate.
+  - Humans: Sports.
+- Intersexual selection - if members of one sex are attracted to certain qualities in mates—such as brilliant plumage, signs of good health, or even intelligence—those desired qualities get passed on in greater numbers, simply because their possessors mate more often.
+
+### Sexual Strategies Theory
+
+- For women, even the minimum investment is significant: after becoming pregnant, they have to carry that child for nine months inside of them.
+-For men, the need to focus on making wise mating decisions isn't as important. That is, unlike women, men 1) don’t biologically have the child growing inside of them for nine months, and 2) do not have as high a cultural expectation to raise the child.
+- Men express a desire for a larger number of sex partners than women do.
+  - They let less time elapse before seeking sex.
+  - They are more willing to consent to sex with strangers and are less likely to require emotional involvement with their sex partners.
+  - They have more frequent sexual fantasies and fantasize about a larger variety of sex partners.
+  - They are more likely to regret missed sexual opportunities.
+  - And they lower their standards in short-term mating, showing a willingness to mate with a larger variety of women as long as the costs and risks are low.
+- The qualities women and men generally look for when choosing long-term mates are very similar: both want mates who are intelligent, kind, understanding, healthy, dependable, honest, loyal, loving, and adaptable.
+- **Modern women have inherited the evolutionary trait to desire mates who possess resources, have qualities linked with acquiring resources (e.g., ambition, wealth, industriousness), and are willing to share those resources with them. On the other hand, men more strongly desire youth and health in women, as both are cues to fertility. These male and female differences are universal in humans.**
+
+### Error Management Theory
+
+- "Better to be safe than story."
+- If during our evolutionary history we encountered decisions like these generation after generation, over time an adaptive bias would be created: we would make sure to err in favor of the least costly (in this case, least dangerous) option (e.g., walking around the leaves).
+- Visual descent illusion: jumping of a ledge seems easy in theory, but it gets so high when you're actually there.
+- Auditory looming bias: an ambulance seems closer when it's coming toward you, but suddenly seems far away once it's immediately passed.
+- It's been shown in the laboratory with participants engaging in actual “speed dating,” where the men interpret sexual interest from the women more often than the women actually intended it.
+  - In short, EMT predicts that men, more than women, will over-infer sexual interest based on minimal cues, and empirical research confirms this adaptive mating bias.
+
+## Social animals
+
+- Social priming: Holding warm coffee makes other people think you are warm, and cold if holding cold coffee.
+  - "Favorite letter" related to your name letter.
+  - Those who move to Georgia have G in their name.
+
+## Self
+
+- The Spotlight Effect: We think people are looking at us.
+- Dominant emotion for young people = embarrassment.
+- Regret when people die - things that they didn't do. And it's more because they were thinking about what people were going to think of them.
+- How do you compare to everyone else? Most people would think they are doing much better than expected. (Lake Wobegon Effect)
+  - Why? Feedback given to us is often more positive.
+  - Being a "great" driver differs depending on who they ask.
+- Self-serving bias: We attribute to ourselves positive traits rather than negative traits.
+  - Positives are because of us.
+  - Negatives are a result of external factors.
+- Cognitive dissonance theory: What we do makes sense.
+  - Internal inconsistency is unpleasant, and we want to reduce that feeling.
+  - Insufficient justification - people paid lower for a boring task say they are fun, just because it sucks if they think that they did a boring task for so few money.
+  - Hazing: A humiliating experience makes you more invested in the group - this makes things "worth it". Therapists want you to pay, because you'll value the therapy more.
+  - If you paid for something, you'd think you have to love it.
+- Problem with paying kids to read: they'd "read to get paid" rather than actually reading.
+
+## Attribution
+
+- A claim about the cause of someone's behavior.
+- Seeking a reason for the occurence for events/behaviors.
+- Fundamental attribution error.
+  - Even people asking near-to-impossible questions are seen as smarter than people failing to answer the same question.
+  - Professors are thought to be smart, because they talk about things.
+  - Person bias: Seeing actors as the characters they play. When they play a doctor in television, the natural tendency is to attribute the actor with accomplishments.
+
+## Liking
+
+- Familiarity: The more you see something, the more you like it.
+  - Proximity/being physically close to a person influences who you marry or you become friends with.
+- Similarity.
+- Attractiveness - even thought to be smarter or more moral.
+- First impressions - really, really have a big influence on things. We form first impressions very quickly - even in 5 seconds.
+- Pygmalion effect - the intentions of another person transform you. "The difference between a lady and a flower-girl is the way they are treated."
+
+## Psychology of Groups
+
+- All animals collect information about individuals, and they generalise info on new individuals based on the current information.
+- "Without the aid of prejudice and custom, I should not be able to find my way across the room; nor know how to conduct myself in any circumstances."
+- We break people into gender, age, race, etc.
+- Categorising people - you wouldn't ask a baby for directions.
+- Stereotypes are often positive and accurate.
+
+## Social Categories
+
+- Stereotypes are not always accurate.
+  - Confirmation bias
+  - If all you know about so-and-so social groups are from the media, then you will have a different impression.
+- We take groups seriously, even if the groups are arbitrary (different color shirt teams).
+- We tend to think people should be judged as individuals, not as group members.
+- Criminal profiling re: males do more crime than females.
+- Levels of stereotypes
+  - Public - Ex: perception about blacks over the years.
+  - Private - People use ethnic slurs/racist things when they are on the computer.
+  - Implicit - Even below the level of consciousness, we have biases against certain races - even for fractions of second.
+  - Group membership matters, even when we think it shouldn't. Even if we have implicit biases, we should figure out a way to not have those biases. We should use our heads to override our hearts.
+
+## An Introduction to the Science of Social Psychology
+[Reference](https://nobaproject.com/modules/an-introduction-to-the-science-of-social-psychology)
+
+- In studies of conversations between both strangers and close friends—conversations occurring in research laboratories and in coffee shops—mobile phones appeared to distract people from connecting with one another. The participants in these studies reported lower conversation quality, lower trust, and lower levels of empathy for the other person.
+- A classic study of life stress found that the most stressful events in a person’s life—the death of a spouse, divorce, and going to jail—are so painful because they entail the loss of relationships. We spend a huge amount of time thinking about and interacting with other people, and researchers are interested in understanding these thoughts and actions.
+- Social psychology feels so close to home because it often deals with universal psychological processes to which people can easily relate.
+  - For example, people have a powerful need to belong.
+  - In a study of the most and least happy people, the differentiating factor was not gender, income, or religion; it was having high-quality relationships.
+  - Even introverts report being happier when they are in social situations.
+  - People who feel lonely or isolated are more vulnerable to depression and problems with physical health.
+
+### Social Psychology is a Science
+
+- High quality research often involves the ability to control the environment, as in the case of laboratory experiments.
+  - The research laboratory, however, is artificial, and what happens there may not translate to the more natural circumstances of life.
+  - This is why social psychologists have developed their own set of unique methods for studying attitudes and social behavior.
+
+### Attraction
+
+- Interestingly, when rating the faces of strangers, white people, Maasai, and African-Americans were in general agreement about which faces were better looking.
+- Not only that, but there was high consistency in which specific facial features were associated with being good looking.
+- Ex: smooth skin.
+- The researchers found that Maasai tribal people agreed about the faces of strangers—but not about the faces of people they knew!
+  - Two people might look at the same photo of someone they knew; one would give a thumbs up for attractiveness, the other one, not so much.
+  - It appeared that friends were using some other standard of beauty than simply nose, eyes, skin, and other facial features.
+- When the university students rated strangers, they focused on actual facial features, such as skin smoothness and large eyes, to make their judgments (whether or not they realized it).
+  - But when it came to the hotness-factor of their friends, these features appeared not to be very important.
+  - Suddenly, likable personality characteristics were a better predictor of who was considered good looking.
+  - People tend to be attracted not just to muscles and symmetrical faces but also to kindness and generosity.
+  - As more information about a person’s personality becomes available, it becomes the most important aspect of a person’s attractiveness.
+
+### Attitudes
+
+- Prejudice refers to how a person feels about an individual based on their group membership.
+  - Someone with a prejudice against tattoos may feel uncomfortable sitting on the metro next to a young man with multiple, visible tattoos.
+- Discrimination occurs when a person is biased against an individual, simply because of the individual’s membership in a social category.
+  - When people are instructed to have empathy—to try to see the world through another person’s eyes—it gives them not only more empathy for that individual, but also for the group as a whole.
+
+### Peace & Conflict
+
+- Researchers were curious as to whether people from cultures of honor would overestimate the likelihood of violent reactions in others.
+  - People from honor cultures did not differ from others in their personal likelihood of responding aggressively.
+  - They said they would expect their peers—other people from their culture —to act violently even though they, themselves, would not.
+
+### Social Influence
+
+- None of us can escape social influence.
+  - Social influence is the heart and soul of social psychology.
+  - Conformity and obedience.
+- Persuasion: Good for tips - server show chocolates, ask person to get one, then went back and gave another chocolate - increased tips/reciprocity.
+
+### Social Cognition
+
+- Social cognition is the term for the way we think about the social world and how we perceive others.
+- When we make educated guesses about the efforts or motives of others, this is called social attribution.
+  - We are “attributing” their behavior to a particular cause.
+  - For example, we might attribute the failure of a date to arrive on time to car trouble, forgetfulness, or the wrong-headed possibility that we are not worthy of being loved.
+
+## The Psychology of Groups
+
+- People respond negatively when their need to belong is unfulfilled.
+  - College students feel homesick but not when they have a socially satisfying group.
+  - Ostracism/deliberate exclusion from groups is highly stressful and can lead to depression, confused thinking, and even aggression.
+- Although any kind of companionship is appreciated, we prefer those who provide us with reassurance and support as well as accurate information.
+  - In some cases, we also prefer to join with others who are even worse off than we are.
+  - **To maintain a sense of self-worth, people seek out and compare themselves to the less fortunate. This process is known as downward social comparison.**
+- Groups/collective self-esteem.
+  - If we are in the better group, we can take pride in our superiority.
+- Groups tend to form whenever “people become dependent on one another for the satisfaction of their needs”.
+  - The advantages of group life may be so great that humans are biologically prepared to seek membership and avoid isolation.
+- Competition: Cyclists were faster when they competed against other racers than when they raced alone against the clock.
+- Facilitating effects of an audience usually only occur when the task requires the person to perform dominant responses, i.e., ones that are well-learned or based on instinctive behaviors.
+- If the task requires nondominant responses, i.e., novel, complicated, or untried behaviors that the organism has never performed before or has performed only infrequently, then the presence of others inhibits performance.
+
+### Social Loafing and Teamwork
+
+- First, when people work together they must coordinate their individual activities and contributions to reach the maximum level of efficiency—but they rarely do. Three people in a tug-of-war competition, for example, invariably pull and pause at slightly different times, so their efforts are uncoordinated.
+- When sales personnel work in groups with shared goals, they tend to “take it easy” if another salesperson is nearby who can do their work.
+- Group cohesion is the integrity, solidarity, social integration, or unity of a group.
+  - In most cases, members of cohesive groups like each other and the group and they also are united in their pursuit of collective, group-level goals.
+  - Members tend to enjoy their groups more when they are cohesive, and cohesive groups usually outperform ones that lack cohesion.
+
+## Prejudice, Discrimination, and Stereotyping
+
+- Historical biases were widespread and institutionalized. It was considered acceptable to openly disparage entire groups of people and to pass laws that restricted or harmed these groups.
+- Blatant biases (also called “explicit biases”) are conscious beliefs, feelings, and behavior that people are perfectly willing to admit, which express hostility toward other groups while unduly favoring one’s own group.
+
+### Social Dominance Orientation
+
+- Social dominance orientation (SDO) describes a belief that group hierarchies are inevitable in all societies and are even a good idea to maintain order and stability.
+- People with a social dominance orientation are more likely to be attracted to certain types of careers, such as law enforcement, that maintain group hierarchies.
+- **SDO is not just about being personally dominant and controlling of others; SDO describes a preferred arrangement of groups with some on top (preferably one’s own group) and some on the bottom.**
+- **Although research has shown that people higher in SDO are more likely to be politically conservative, there are other traits that more strongly predict one’s SDO. For example, researchers have found that those who score higher on SDO are usually lower than average on tolerance, empathy, altruism, and community orientation.**
+  - In general, those high in SDO have a strong belief in work ethic—that hard work always pays off and leisure is a waste of time.
+  - People higher on SDO tend to choose and thrive in occupations that maintain existing group hierarchies (police, prosecutors, business), compared to those lower in SDO, who tend to pick more equalizing occupations (social work, public defense, psychology).
+- The point is that SDO—a preference for inequality as normal and natural—also predicts endorsing the superiority of certain groups: men, native-born residents, heterosexuals, and believers in the dominant religion.
+  - This means seeing women, minorities, homosexuals, and non-believers as inferior.
+  - Understandably, people from the first list of groups tends to score higher on SDO, while those from the second group tend to score lower.
+  - For example, the SDO gender difference (men higher, women lower) appears all over the world.
+  - **At its heart, SDO rests on a fundamental belief that the world is tough and competitive with only a limited number of resources.**
+
+### Right-wing Authoritarianism
+
+- Returning to an example from earlier, the homeowner high in SDO may dislike the outgroup member moving into her neighborhood because it “threatens” one’s economic resources (e.g. lowering the value of one’s house; fewer openings in the school; etc.).
+- By contrast, those high in RWA may equally dislike the outgroup member moving into the neighborhood but for different reasons.
+- Here, it is because this outgroup member brings in values or beliefs that the person high in RWA disagrees with, thus “threatening” the collective values of his or her group.
+- RWA respects group unity over individual preferences, wanting to maintain group values in the face of differing opinions.
+- Calls for national unity and patriotism that do not tolerate dissenting voices are an example.
