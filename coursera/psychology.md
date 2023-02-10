@@ -890,3 +890,35 @@
 - Here, it is because this outgroup member brings in values or beliefs that the person high in RWA disagrees with, thus “threatening” the collective values of his or her group.
 - RWA respects group unity over individual preferences, wanting to maintain group values in the face of differing opinions.
 - Calls for national unity and patriotism that do not tolerate dissenting voices are an example.
+
+# Week 6
+
+## Positive Psychology
+
+- Thriving/what can psychology show us about living the good life?
+- How happy are you?
+  - Almost no one answers 10, but most answer 7 and 8.
+  - No one is under 5, and most happy is Swiss (8.39).
+  - People are happier when they find a dime.
+  - People are happier on sunny days.
+- Pinker: "Happier when we are healthy, well-fed, comfortable, safe, prosperous, knowledgeable, respected, non-celibate, and loved."
+
+## Happiness set point
+
+- Happiness is highly heritable (seen between twins raised in different environments).
+- Happiness doesn't change as much as you think.
+- What is the worst and best thing that can happen to you, and how does that affect you? (Ex: becoming a paraplegic, winning the lottery).
+  - We tend to over-estimate events in the day to day.
+  - Certain things are irrelevant - ex: in your day to day life, you don't really interact with the president.
+  - We adapt to good and bad things.
+  - **You never adapt to a bad commute and you never adapt to background noise.**
+- Common sense: The richer a country is, the higher their happiness is.
+- We get happiness from meaning.
+- Judgment about past events are skewed:
+  - Medical procedure painful for an hour vs:
+  - Same procedure + mildly painful for five more minutes.
+  - B leaves a better memory, because when we look back on our past events, we don't look at the total duration, but we look at the peaks and endings.
+- A fun party that ends badly vs a bad party that ends well - people tend to like the bad party. **Endings matter, so much.**
+- Humility and Optimism.
+  - We know half of the variation comes from genes, but we don't know how to explain where the other half comes from.
+- The most important and intimate aspects of ourselves, our beliefs and emotions, the capacity to make decisions, can be explained through constructing and testing scientific hypothesis.
