@@ -58,3 +58,66 @@
 ### Interview with Dr. Victoria Nyst
 
 - There are different sign languages.
+
+# Week 2
+
+- Phonetics: Physical and physiological aspects of sounds
+- Phonology: Sounds as part of language, though same letters ("man" vs "man").
+- Sounds:
+  - Are a finite set of 20-200 vowels and consonants.
+  - A sound like "clapping the hands" is not used in speaking.
+  - Sign languages have a finite number of building blocks, too.
+- English language: "th" is a sound that doesn't have a letter.
+  - International Phonetic Alphabet: All different sounds for all different languages. Clapping is not included.
+- All languages distinguish between consonants and vowels.
+  - Airstream is not impeded for vowels.
+  - In many languages - Every syllable has a vowel, not a consonant.
+- There are more consonants than letters!
+
+## Production of speech sounds
+
+- How are consonants articulated?
+- Place of articulation - where in the mouth are you producing the sound?
+  - Lips (labia) = `"Puh, buh, muh"`
+  - Alveolar (where you put the tip of your tongue). `"Tuh, duh, nuh, luh"`. If you put your tongue
+  - Velar (back part of the mouth): `"Kuh, guh, nah"`.
+  - `"Ah"` - sound produced in the throat.
+- Manner of articulation
+  - Stop/plosive: When exhaling air, I can stop the air temporarily. `"Tuh, puh, kuh"`.
+  - Fricative: Closing the mouth but not completely so air can get through. `"Suh, fuh"`.
+  - Nasal sounds: using the nose - "`Muh, nuh, luh`".
+  - Sonorant: Let the air go unimpeded: "`Lah, ruh`".
+- Voicing
+  - "T" vs "D" - T has vocal cord vibration, D has none.
+
+## Consonants of World Languages
+
+- Consonants that occur in all languages?
+  - 2 good candidates: "M" and "T", because it's simple to make (put "T" at top of tongue, and "M" is easy to see).
+  - This is why the sound "Mom" is so easy to make and it is one of the first words someone can say.
+- Most consonants: South Africa - about 100-150 different sounds.
+- Sets of vowels?
+  - No. It's smaller.
+  - Dutch has 13 vowels.
+- Consonants look like there is different function than vowels - it is used to reveal meaning.
+- Semitic language - you just need consonants to write sentences.
+- Vowels - used more for grammars.
+- There aren't much grammatical constructions.
+- A, E, U are pretty much repeated in all languages.
+
+## Sounds in systems
+
+- Sounds are constituted of features.
+- When a sound changes, a feature changes.
+- Turkish:
+  - `Kalip` - end of a word does not have a consonant.
+  - `Kalib-a` - changed voicing.
+- Even for languages like Hawaiian which have few consonants, there is an alignment of the consonants.
+  - "K" and "T" are the same for Hawaiian.
+- Path of acquisition/acquiring English: We start with "p" and "t".
+  - People don't learn sounds, they learn manners of articulation.
+- Interchanging sounds/speech errors:
+  - "Brake fluid" vs "`blake fruid`".
+  - "`Lemadon`" vs "Lebanon" - nasal change.
+  - "Spaghetti" vs "`scagebi`".
+- We have seen that place of articulation, manner of articulation, voicing are not just nice ways to describe the way we pronounce sounds, but they actually play a role in language as the atoms of language, which we call features.
