@@ -1,0 +1,28 @@
+- Really it is old people who are not leaving the house in a disaster like Katrina.
+- People also massively overestimate themselves, underestimate the natural world, and overestimate the risk of things that are covered in the media.
+- What's covered in the news are things that are unlikely to happen.
+- People actually feel more stressed seeing images on TV and the Internet. Much better to just read about things.
+- Fear response:
+- The most primitive emotion.
+- The blood chemistry changes so it can coagulate more easily. Blood vessels tighten to bleed less when hurt. Blood pressure and heart rate go up. Cortisol and adrenaline surge through the body.
+- Cortisol interferes with the brain that handles complex thinking. All of our senses are altered.
+- Under extreme duress, the body abandons nonessential functions like digestion, salivation, and sometimes bladder and sphincter control. In a study of soldiers in World War II, 10 to 20 percent admitted they had defecated in their pants.
+- People in life-or-death situations often think of their children or how others will perceive them after the crisis is over. Gasping for air in turbulent seas or groping their way out of a burning plane, they hear the voices of their family members in their heads. Sometimes the voices are even mocking.
+- In life-or-death situations, people gain certain powers and lose others. Asencio found he suddenly had crystal-clear vision. Other people, a majority in most studies, get tunnel vision.
+- “Everybody reports it was the longest three seconds of their lives,” Eagleman says. But none of them could see the number. Eagleman thinks this means that time distortion primarily exists in our memory. “Time in general is not slowing down. It’s just that in a fearful situation, you recruit other parts of the brain, like the amygdala, to lay down memories. And because they are laid down more richly, it seems as though it must have taken longer.” In other words, trauma creates such a searing impression on our brains that it feels, in retrospect, like it happened in slow motion.
+- People who knew where the stairwells were in the World Trade Center were less likely to get injured or have long-term health problems.
+- That’s partly because they had the training they needed to take action under extreme stress.
+- The same is true with police officers or firefighters. If they have the skills they need, they not only have a higher chance of survival; they fare better psychologically after the crisis.
+- They've saved themselves once; they can do it again.
+- It makes intuitive sense that the more you expose yourself to safe stress, the less sensitive you would be to its effects.
+- Just as athletes have a “zone,” in which they achieve maximum performance, so do regular people.
+- The best way to negotiate stress is through repeated, realistic training. The military used to train soldiers to shoot bull’s-eye targets, and it didn't work very well. Now soldiers train using highly realistic targets and video games.
+- Advanced police training now relies on actual gunfights—using gunpowder-propelled, paint-filled plastic bullets that actually sting when they hit you.
+- Self-defense courses use “model muggings,” in which a pretend assailant, wearing heavy padding, relentlessly attacks the student.
+- Fire drills work the same way, especially for children, who tend to get the best training for disasters in our society.
+- Meditators, like deep-breathing cops, may have found a way to essentially evolve past the basic human fear response.
+- In other words, they may have discovered a bridge in the brain—between their conscious and subconscious—that most people don’t know exists.
+- What’s most interesting is that just knowing they have such powers might be valuable in itself. Laughter, like breathing, reduces our emotional arousal level as well.
+- Again and again, studies have shown that people perform better under stress if they think they can handle it.
+- In studies of rats, scientists have taken this discovery one step further: the medial prefrontal cortex appears to detect whether a threat is under the rat’s control.
+- If the brain concludes that the stressor is indeed under its control, the brain blocks some of the more devastating effects of extreme stress. Self-confidence, in other words, can save your life.
