@@ -35,3 +35,36 @@ export function Counter() {
   );
 };
 ```
+
+# Your Guide to React.useCallback()
+[Reference](https://dmitripavlutin.com/react-usecallback/)
+
+- What does `useCallback` solve? The functions equality check.
+  - All functions are not equal via `===` even though they are literally the same thing.
+- Why you want to have a single function in between renderings:
+  - A functional component wrapped inside React.memo() accepts a function object as prop
+  - If that function object is a dependency to other hooks
+  - When the function has internal state, so you don't want it to be a different "instance" if the component re-renders.
+- **Given the same dependency values deps, the hook returns the same function instance between renderings (aka memoization).**
+
+```
+import { useCallback } from 'react';
+
+export function MyParent({ term }) {
+  const onItemClick = useCallback(event => {
+    console.log('You clicked ', event.currentTarget);
+  }, [term]);
+
+  return (
+    <MyBigList
+      term={term}
+      onItemClick={onItemClick}
+    />
+  );
+}
+```
+
+- We want to use `useCallback` here so that if `MyParent` re-renders, we don't have to re-render `MyBigList`.
+- Why not to use:
+  - `useCallback` gets ran every time `MyComponent` renders.
+  - `useCallback` increases the complexity of the code.

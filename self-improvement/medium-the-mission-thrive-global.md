@@ -1291,3 +1291,16 @@
 - Clearly presenting the thinking:
   - Justify your position via evidence and reasoned analysis.
   - Accept that in the face of sufficiently compelling arguments or evidence, it might be reasonable to change your mind.
+
+# The secret life of people with high self-control (it’s easier than you think)
+[Reference](https://riikkaiivanainen.medium.com/the-secret-life-of-people-with-high-self-control-its-easier-than-you-think-7dd26fb5282c)
+
+- High self-control does predict many positive life outcomes: People who’re good at self-control do better in school, have fewer mental health problems, have better relationships with friends and family, and generally exhibit fewer impulsive behaviors like binge eating and alcohol abuse.
+- Resisting temptations is tiring. The resulting mental fatigue has been coined ego depletion.
+- People with high self-control experience fewer temptations in their daily lives
+- What did the authors of the everyday temptation paper make of their findings? Well, they suggested that people with high levels of trait self-control are good at avoiding temptation — not resisting it.
+- More specifically, people high in trait self-control have been found to have: weaker unhealthy snacking habits, stronger exercise habits, and
+stronger meditation habits three months after a meditation retreat.
+- **And although effort-ful self-control is common in everyday life, the effortless kind seems to be the one driving those enviable long-term outcomes.**
+
+
