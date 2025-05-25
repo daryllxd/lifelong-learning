@@ -1,4 +1,5 @@
 .DS_Store
 fashion/
-.obsidian
 goals.md
+.obsidian/plugins/typing-transformer-obsidian/
+.obsidian/workspace.json
