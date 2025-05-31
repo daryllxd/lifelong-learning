@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "Monokai",
+  "accentColor": "",
+  "theme": "system",
+  "interfaceFontFamily": "Inconsolata Nerd Font",
+  "textFontFamily": "Georgia"
+}

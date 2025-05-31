@@ -1,0 +1,12 @@
+{
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ]
+}
