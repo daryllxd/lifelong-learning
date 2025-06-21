@@ -221,3 +221,65 @@ A loosely coupled architecture minimizes the bottlenecks that are caused by sync
 	- It is an ideal solution for backup, disaster recovery, offsite data storage needs, and for when some data needs to occasionally retrieved in minutes, and you don’t want to worry about costs. S3 Glacier Flexible Retrieval is designed for 99.999999999% (11 9s) of data durability and 99.99% availability by redundantly storing data across multiple physically separated AWS Availability Zones in a given year.
 - S3 Glacier Deep Archive delivers the lowest cost storage, up to 75% lower cost (than S3 Glacier Flexible Retrieval), for long-lived archive data that is accessed less than once per year and is retrieved asynchronously.
 	- At just **$0.00099 per GB-month** (or $1 per TB-month), S3 Glacier Deep Archive offers the lowest cost storage in the cloud, at prices significantly lower than storing and maintaining data in on-premises tape or archiving data off-site. S3 Glacier Deep Archive is a cost-effective and easy-to-manage alternative to tape. It is designed for customers — particularly those in the financial services, healthcare, media and entertainment and public sector — that retain data sets for 7-10 years or longer to meet customer needs and regulatory compliance requirements. S3 Glacier Deep Archive is designed for 99.999999999% (11 9s) of data durability and 99.99% availability by redundantly storing data across multiple physically separated AWS Availability Zones in a given year.
+
+## Differences Between Amazon Kinesis Services
+- With Amazon Kinesis, you can ingest real-time data such as video, audio, application logs, website clickstreams, and Internet of Things (IoT) telemetry data for machine learning, analytics, and other applications.
+- Amazon Kinesis Data Streams is a massively scalable and durable real-time data streaming service. Kinesis Data Streams is designed to continuously capture gigabytes of data per second from hundreds of thousands of sources, such as website clickstreams, database event streams, financial transactions, social media feeds, IT logs, and location-tracking events.
+- Amazon Kinesis Data Firehose is designed to reliably load streaming data into data lakes, data stores, and analytics services. It can capture, transform, and deliver streaming data to Amazon Simple Storage Service (Amazon S3), Amazon Redshift, Amazon Elasticsearch Service, generic HTTP endpoints, and service providers like Datadog, New Relic, MongoDB, and Splunk. It is a fully managed service that automatically scales to match the throughput of your data and requires virtually no ongoing administration. It can also batch, compress, transform, and encrypt your data streams before loading, which minimizes the amount of storage that you use and increases security.
+- Amazon Kinesis Data Analytics is designed to transform and analyze streaming data in real time with Apache Flink. Apache Flink is an open-source framework and engine for processing data streams. Amazon Kinesis Data Analytics reduces the complexity of building, managing, and integrating Apache Flink applications with other AWS services.
+- Amazon Kinesis Video Streams is designed to securely stream video from connected devices to AWS for analytics, machine learning (ML), playback, and other forms of processing. Kinesis Video Streams automatically provisions and elastically scales the infrastructure that’s needed to ingest streaming video data from millions of devices. It’s designed to durably store, encrypt, and index video data in your streams, and you can access your data through the Kinesis Video Streams APIs.
+
+# Week 3 - Enterprise Company
+
+## Hybrid Networking and Connectivity Services
+- How do you connect the data center to AWS?
+- Public internet - so no sniffing, and it's not an encrypted connection, and
+- AWS Site-to-Site - connects a remote network to a VPC/AWS transit gateway.
+	- **By default, instances that you launch into a VPC can't communicate with your own (remote) network.** You can enable access to your remote network from your VPC by creating an AWS Site-to-Site VPN connection, and configuring routing to pass traffic through the connection.
+- AWS client VPN - connecting your admin to AWS or data center.
+- AWS Direct connect - hosted private connections through a **Direct Connect Delivery Partner** or AWS.
+	- This is good because our customers have a need for low latency between their data center and us.
+	- When you create a new connection, you can choose a hosted connection that’s provided by an AWS Direct Connect Delivery Partner, or choose a dedicated connection from AWS—and deploy at over 100 AWS Direct Connect locations around the globe.
+
+
+![[CleanShot 2025-06-09 at 07.38.41@2x.png]]
+
+- Virtual private gateway
+
+![[Pasted image 20250612080459.png]]
+
+- AWS Client VPN
+	- A fully managed, remote-access VPN solution that your remote workforce can use to securely access resources within both AWS and your on-premises network. It’s fully elastic, so it automatically scales up or down, based on demand.
+- AWS Transit Gateway
+	- A hub to connect the AWS VPCs, VPNs, customer gateways, with each other
+
+## Amazon RDS
+- In a Multi-AZ deployment, Amazon RDS automatically creates a primary database (DB) instance and synchronously replicates the data to an instance in a different Availability Zone. When it detects a failure, Amazon RDS automatically fails over to a standby instance without manual intervention. This failover mechanism meets the customer’s need to have a highly available database.
+- Customers can also make RDS more highly available by using read replicas.
+- Here’s an example of when to use a read replica. Say that you’re running reports on your database, which is causing performance issues with CPU-intensive reads. You can use a read replica and direct all the reporting queries to that replica instead of to the primary instance. Offloading some of the intense queries to the replica should result in enhanced performance on the primary instance.
+### Scaling Amazon RDS instances
+- Vertical scaling
+- Use read replicas
+- RDS Storage Auto Scaling automatically scales storage capacity in response to growing database workloads, with virtually zero downtime.
+- Changing storage type
+	- General Purpose SSD: General Purpose SSD volumes offer cost-effective storage that works well for a broad range of workloads. These volumes deliver single-digit millisecond latencies and the ability to burst to 3,000 IOPS for extended periods of time. Baseline performance for these volumes is determined by the volume's size.
+	- Provisioned IOPS: Provisioned IOPS storage is designed to meet the needs of I/O-intensive workloads—particularly database workloads—that require low I/O latency and consistent I/O throughput.
+	- Magnetic: Amazon RDS also supports magnetic storage for backward compatibility. We recommend that you use General Purpose SSD or Provisioned IOPS for any new storage needs. The maximum amount of storage that’s allowed for DB instances on magnetic storage is less than that of the other storage types.
+
+### RDS - DMS (Database Migration Service)
+- AWS DMS helps you migrate databases to AWS quickly and securely. The source database remains fully operational during the migration, which minimizes the downtime to applications that rely on the database. The AWS DMS can migrate your data to and from widely used commercial and open-source databases.
+- At a basic level, AWS DMS is a server in the AWS Cloud that runs replication software. You create a source and target connection to tell AWS DMS where to extract from and load to. Then, you schedule a task that runs on this server to move your data.
+
+## AWS Storage Services
+- The customer requires the Network File System (NFS) protocol to remain in place for all on-premises applications. However, the customer also wants to store the files (that they will access) in AWS. Storage Gateway supports this use case.
+- AWS Storage Gateway connects an on-premises software appliance with cloud-based storage to provide near-seamless integration with data security features between your on-premises IT environment and the AWS storage infrastructure. You can use the service to store data in the AWS Cloud for scalable and cost-effective storage that helps maintain data security. AWS Storage Gateway offers file-based, volume-based, and tape-based storage solutions.
+- S3 File Gateway makes it possible for your existing applications and users to work with files in the cloud just like they would with files on a local network drive, without needing to change how they access or manage files. You can copy, move, or open files as usual, and behind the scenes, the gateway handles transferring the data to and from Amazon S 3.
+- EBS - know about this already.
+- Elastic File System (EFS) is a fully managed, serverless, and scalable cloud file storage service from AWS that allows multiple AWS compute instances (like EC 2) to share access to files using the standard NFS protocol.
+
+
+
+
+
+
+
