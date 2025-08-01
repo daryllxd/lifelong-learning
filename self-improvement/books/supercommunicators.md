@@ -81,6 +81,110 @@ Boly connected with his fellow jurors by understanding that each person wanted s
 
 When someone says, “Can we talk about the upcoming meeting?” or “That memo was crazy, right?” or worries aloud, “I’m not sure he can get the job done,” they are inviting us into a What’s This Really About? discussion, signaling there’s something deeper they want to discuss. Boly knew how to listen for those signals, and Dr. Ehdaie learned how to look for them.
 
+# Asking Questions and Noticing Clues
+
+When someone says
+
+something and then laughs afterward—even if it wasn’t funny—it’s a hint
+
+they’re enjoying the conversation. When someone makes noises as they listen
+
+(“Y eah,
+
+” “Uh-huh,
+
+” “Interesting”), it’s a sign they’re engaged, what linguists call
+
+backchanneling. When someone asks follow-up questions (“What do you
+
+mean?” “Why do you think he said that?”), it’s a clue they’re interested, whereas
+
+statements that change the subject (“Let me ask you about this other thing”) are
+
+hints they’re ready to move on.
+
+**Second Rule: Share your goals, and ask what others are seeking.**
+
+Before a conversation starts:
+![[CleanShot 2025-07-01 at 23.01.52@2x.png]]
+
+- What are two topics you most want to discuss?
+- What is one thing you hope to say that shows what you want to talk about?
+- What is one question you will ask that reveals what others want?
+
+## Open-ended questions
+- Asking about someone’s beliefs or values (“How’d you decide to become a teacher?”)
+- Asking someone to make a judgment (“Are you glad you went to law school?”)
+- Asking about someone’s experiences (“What was it like to visit Europe?”)
+## Clues
+- Do your companions lean toward you, make eye contact, smile, backchannel ("Interesting," "Hmm"), or interrupt?
+- Do they become quiet, their expressions passive, their eyes fixed somewhere besides your face? Do they seem overly contemplative? Do they take in your comments without adding thoughts of their own?
+## Adding Items to the Table
+- Has someone told a story or made a joke? If so, they might be in an empathetic logic of similarities mindset. In this mindset, people aren't looking to debate or analyze choices; they want to share, relate, and empathize.
+- Or are they talking about plans and decisions, or evaluating options? Have they brought up politics or finances or choosing a place for next year's vacation? ("Is Maine or Florida better in June?") If so, they might be in a more practical logic of costs and benefits mindset, and you're better off getting analytical yourself.
+- Listen for attempts to change the topic. People tell us what they want to discuss through their non sequiturs, asides, and sudden shifts—or, put differently, through the experiments they conduct. If someone asks the same question in different ways, or if they abruptly introduce a new subject, it's a sign they want to add something to the table and we'd be wise to let them proceed.
+- Finally, experiment. Tell a joke. Ask an unexpected question. Introduce a new idea. Try interrupting, and then not interrupting. Watch to see if your companions play along. If they do, they're hinting at how they want to make decisions together, the rules and norms they accept. They are signaling how they'd like this conversation to unfold.
+
+# THE LISTENING CURE
+
+- Hearing people describe their emotional lives is important because when we talk about our feelings, we're describing not just what has happened to us, but why we made certain choices and how we make sense of the world. "When you describe how you feel, you're giving someone a map of the things you care about," Epley said. "That's why I connected with my parents, because I finally understood what mattered to them. I understood they were scared and worried and just wanted me to be safe."
+- This is why the How Do We Feel? conversation is so crucial. Every discussion is shaped by our emotions, and when we bring those feelings to the surface-when we share them and ask others to share with us—we begin to see how we might align.
+- In contrast, questions that pushed people to describe their beliefs, values, or meaningful experiences tended to result in emotional replies, even if the questions themselves didn't seem all that emotional. These kinds of questions were powerful because they often prompted people to reveal vulnerabilities. When someone asks "What do you value most in a friendship?" (question sixteen), it might not seem particularly emotionally probing, but it frequently draws unexpectedly revealing replies about past incidents of hurt or betrayal, or expressions of love for friends, or other anxieties or pleasures. Such questions make ever-deepening follow-ups ("What did you say after he broke up with you?") easy to ask.
+- **Put another way, the difference between a shallow question and one that sparks an opportunity for emotional connection is vulnerability.** And vulnerability is what makes How Do We Feel? so powerful.
+- This explains why the Fast Friends Procedure is so effective, and it illuminates which kinds of questions are most likely to help people emotionally align. There is a cycle: Asking deep questions about feelings, values, beliefs, and experiences creates vulnerability. That vulnerability triggers emotional contagion. And that, in turn, helps us connect.
+![[CleanShot 2025-07-01 at 23.09.09@2x.png]]
+
+- Questions about facts ("Where do you live?" "What college did you attend?") are often conversational dead-ends. They don't draw out values or experiences. They don't invite vulnerability.
+- However, those same inquiries, recast slightly ("What do you like about where you live?" "What was your favorite part of college?"), invite others to share their preferences, beliefs, and values, and to describe experiences that caused them to grow or change. Those questions make emotional replies easier, and they practically beg the questioner to reciprocate to divulge, in return, why they live in this neighborhood, what they enjoyed about college-until everyone is drawn in, asking and answering back and forth.
+
+| Shallow Questions                | Deep Questions                                 |
+| -------------------------------- | ---------------------------------------------- |
+| Where do you live?               | What do you like about your neighborhood?      |
+| Where do you work?               | What was your favorite job?                    |
+| Where did you go to college?     | What was the best part of college?             |
+| Are you married?                 | Tell me about your family.                     |
+| How long have you lived here?    | What's the best place you've ever lived?       |
+| Do you have any hobbies?         | If you could learn anything, what would it be? |
+| Where did you go to high school? | What advice would you give a high schooler?    |
+| Where are you from?              | What's the best thing about where you grew up? |
+
+- There was one other key finding in the Harvard study of speed daters: Follow-up questions are particularly powerful. "Follow-ups are a signal that you're listening, that you want to know more," one of the researchers, Michael Yeomans, told me. Follow-up questions make reciprocity easier ("Your favorite part of college was ultimate frisbee? Me too! Do you still love to play?"). "They allow self-disclosure without it seeming like self-obsession," said Yeomans. "It makes a conversation flow."
+- "It is easier to judge a man by his questions rather than by his answers," the nineteenth-century thinker Pierre-Marc-Gaston de Lévis wrote, and yet he stayed silent on which questions, exactly, should be asked. Science has provided guidance: Ask others about their beliefs and values. Ask them about experiences and those moments that caused them to change. Ask how they feel, rather than about facts. Reframe your questions so they are deeper. Ask follow-ups. And as people expose their vulnerabilities, reveal something about yourself. It will be less uncomfortable than you imagine. It will be more fascinating than you think. And it might lead to a moment of true connection.
+
+# 4 - HOW DO YOU HEAR EMOTIONS NO ONE SAYS ALOUD?
+
+- From infancy, even before we learn to speak, we absorb how to infer people's emotions from their behaviors: Their body language, vocal inflections, glances and grimaces, sighs and laughs. As we grow older, however, this capacity can atrophy. We start to pay increasing attention to what people say rather than what they do, to the point where we can fail to notice nonlinguistic clues. Spoken language is so information rich, so easy to rely upon, that it lulls us into ignoring hints that someone might be, say, upset -crossed arms, creased brow, downcast eyes—and instead focus on their words when they say, It's nothing. I feel fine.
+## Big Bang Theory
+
+- Sitcoms are so fast moving, joke after joke and twist after twist, that, to succeed, the audience needs to understand each character’s emotional state as soon as they appear on screen. What’s more, “the audience needs to see the emotional relationships between the characters,” Prady said.
+- Emotions are everything in television. “They have to be obvious,” he told me. Put differently, it’s crucial for an audience to “hear” a character’s feelings, even when those emotions aren’t spoken aloud. That created a problem, however, because the characters in The Big Bang Theory were designed to be bad at expressing their feelings.
+- One option was simply to have them announce their feelings-to tell, not show. There's a problem with this approach, though. "You can write dialogue like, 'I'm mad you're late for dinner!'" Prady told me. "But no one talks that way in real life." People don't announce their emotions. They perform them.
+- The key to intuiting another's feelings is in the ability to read nonverbal channels: tone of voice, gesture, facial expressions and the like.
+- "You cannot make a sitcom where the audience doesn't know how to feel," Prady told me. "It can't be twenty-two minutes of jokes with nothing emotionally holding it together."
+## NASA
+
+- NASA already had exceedingly high standards for potential astronauts: Applicants had to pass strenuous physicals; they needed a degree in science or engineering and experience in tasks like piloting fighter jets; they couldn't be too tall (anyone over six foot four wouldn't fit in a spacesuit) or too short (less than four foot eight and your feet wouldn't touch the floor and you might slip out of the shoulder belts); they had to show they could stay calm-one test sometimes used required them to keep their blood pressure steady during underwater maneuvers and could handle the stresses (and, optimally, avoid vomiting) on an airplane simulating zero-g.
+- People with emotional intelligence knew how to build relationships and empathize with colleagues, as well as regulate their own emotionality and the emotions of those around them.
+- **These individuals are aware of their own feelings and those of others. They are open to positive and negative aspects of internal experience, are able to label them, and when appropriate, communicate them.... The emotionally intelligent person is often a pleasure to be around and leaves others feeling better. The emotionally intelligent person, however, does not mindlessly seek pleasure, but rather attends to emotion in the path toward growth.**
+- In 1976, a Soviet space mission had been canceled midway through after the crew began experiencing shared delusions and complaining of a strange scent that was later determined to be imaginary. Both the United States and the Soviet Union had diagnosed depression among astronauts and cosmonauts during, and after, missions in space, and had found that this despondency could lead to bickering, paranoia, and defensiveness with colleagues.
+- But NASA's biggest worries focused on breakdowns in communication. The agency was still haunted by the events of 1968, when the crew of the Apollo 7 began arguing with mission control as they hurtled through the atmosphere. The disputes had specific causes at first: The three astronauts complained they were being rushed to complete tasks and given unclear commands. But the arguments gradually morphed into a formless anger and expressions of general discontent, until the astronauts were fighting about even minor issues: The quality of the food, NASA's orders to appear on an upcoming television broadcast, poor designs that made it difficult to use the bathroom, mission control's tone of voice. NASA psychologists later suggested that, due to the emotional stresses of the mission and his grief over the recent deaths of three other astronauts in a cockpit fire, Schirra had become combative and suspicious as the trip progressed. After they returned to earth, Schirra and his co-astronauts never flew into space again.
+
+## LAUGHING AT WHAT'S NOT FUNNY
+
+- "Contrary to our expectations," he reported in the journal American Scientist, "we found that **most conversational laughter is not a response to structured attempts at humor, such as jokes or stories**. Less than 20 percent of the laughter in our sample was a response to anything resembling a formal effort at humor."
+- And so it follows that we exhibit emotional intelligence not just by hearing another person's feelings, but by showing we have heard them. Laughter, and other nonlinguistic expressions such as gasps and sighs, or smiles and frowns, are embodiments of the matching principle, which says that we communicate by aligning our behaviors until our brains become entrained.
+
+![[CleanShot 2025-08-01 at 09.47.21@2x.png]]
+
+- When we see someone and they exhibit an emotional behavior-like a laugh, a scowl, or a smile-the first thing we usually notice is their mood (is this person feeling positive or negative?) and their energy level (are they high energy or low energy?). For instance, if you encounter someone who is frowning (negative) and quiet (low energy), you might assume they're sad or frustrated, but you won't assume they pose a threat. Your brain won't start issuing warnings to flee.
+- When people genuinely laughed together, their mood and energy almost always matched. If one person chuckled softly (positive, low energy), and their companion laughed in a similar way, they usually felt aligned. If another person exploded in laughter (positive, high energy), and their companion laughed back with the same basic volume, cadence, and forcefulness, they felt connected.
+- The man was not selected as an astronaut. "It was clear to me he wasn't in the top tier for empathy," McGuire told me. Perhaps he was the type of person who didn't enjoy talking about his personal life. Maybe his father's death was still too raw to discuss easily. Neither of those were character flaws-but they indicated he was someone who was less practiced at emotional connection. That alone wasn't the sole reason for his rejection, "but it was part of it," McGuire said. NASA had plenty of qualified applicants and could afford to be picky. "We needed the best of the best, and that meant people who were exceptional at emotional intelligence."
+- Big Bang: Instead, they would introduce a new character: Penny, a friendly aspiring actress who is waitressing while waiting to be discovered. "We went the other direction and made Penny light and bubbly," Prady told me. "Someone who, even though she's not book smart, is smart about people."
+	- The question, though, was how to establish the relationship between Penny and the awkward physicists. The same conundrum still existed: The show needed to make clear to the audience what emotions the characters were feeling, while staying true to Sheldon's and Leonard's incompetence at emotional communication.
+	- First scene of Big Bang re: "Hi" being said multiple times worked.
+- The writers had finally cracked the code: The characters could be bumbling and graceless and socially incompetent—and as long as they obviously tried to match one another's mood and energy (or deliberately didn't match), it would be clear when they were connecting or at odds. The audience would understand what they were feeling and could root for them, celebrate when they bonded, feel good when everything worked out in the end (including when— spoiler alert!-Leonard and Penny got married a few seasons later).
+
+# 5 - CONNECTING AMID CONFLICT
 
 
 
@@ -92,14 +196,5 @@ When someone says, “Can we talk about the upcoming meeting?” or “That memo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+# Musings
+- 
