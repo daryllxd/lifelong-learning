@@ -103,7 +103,7 @@ statements that change the subject (“Let me ask you about this other thing”)
 
 hints they’re ready to move on.
 
-**Second Rule: Share your goals, and ask what others are seeking.**
+## **Second Rule: Share your goals, and ask what others are seeking.**
 
 Before a conversation starts:
 ![[CleanShot 2025-07-01 at 23.01.52@2x.png]]
@@ -186,10 +186,137 @@ Before a conversation starts:
 
 # 5 - CONNECTING AMID CONFLICT
 
+- It’s not breaking news to suggest we are living through a time of profound
 
+polarization. Over the last decade, the number of Americans who say they are
 
+“deeply angry” at the other political party has increased sharply, to almost 70
 
+percent of the electorate.
+- Conflict, of course, has always been part of life. We argue in our marriages
 
+and friendships, at work and with our kids. Debate and dissent are part of
+
+democracy, domesticity, and every meaningful relationship. As the human rights
+
+activist Dorothy Thomas once wrote,
+
+“Peace is not the absence of conflict, but
+
+the ability to cope with it. ”
+- So how do we achieve this kind of mutual understanding? The first step is
+
+recognizing that within each fight is not just one conflict, but, at a minimum,
+
+two: There’s the surface issue causing us to disagree with each other, and then
+
+the emotional conflict underneath.
+
+“Say you have a couple fighting with each
+
+other about having another kid,
+
+” Heen told me.
+
+“There’s the top-level conflict—
+
+you want another child, and I don’ t—that seems, at first glance, to explain why
+
+they’re fighting. But there’s also a deeper emotional issue: I’m angry because
+
+you’re prioritizing a kid over my career or I’m scared another child will
+
+bankrupt us or I’m frustrated because you don’ t seem to care what I want.
+
+”
+
+Those emotional conflicts are sometimes nebulous, difficult to pin down, but
+
+they’re also incredibly powerful—because they contain so much of the anger
+
+and disappointment driving this argument beyond the possibility of compromise.
+- The key, Heen found, entalled getting people to express their emotions, to have a version of the How Do We Feel? conversation that allowed both sides to express the hurt and suspicion fueling the fight. The problem, however, is that we often hate talking about our feelings during a disagreement. "People love to pretend that they can become analytical robots," Heen said. "But, of course, no one can do that. All that happens is your emotions leak out in other ways." Or people might recognize their own emotions, but they are loath to reveal them. They think it will give the other side an advantage or will be viewed as a weakness. They worry about revealing a vulnerability that will be weaponized by their foes. Not to mention, when we're fighting, we usually feel stressed, which isn't a great environment for discussing our feelings.
+- Discussing emotions won't solve everything, of course. Sometimes, one person wants a baby and the other doesn't, and no amount of emotional sharing is going to make them agree. "But if you don't at least talk about your emotions," Heen said, "you'll just keep having the same argument over and over."
+- Emotional intelligence comes from showing someone we have heard their emotions. But when we're in a conflict or a fight, simply showing often isn't enough. In those moments, everyone is skeptical and untrusting: Are they listening, or just preparing their rebuttal? Something more is needed, an extra step. To convince others we are genuinely listening during an argument, we must prove to them that we have heard them, prove we are working hard to understand, prove we want to see things from their perspective.
+- So if a listener wants to prove they're listening, they need to demonstrate it after the speaker finishes talking. If we want to show someone we're paying attention, we need to prove, once that person has stopped speaking, that we have absorbed what they said. And the best way to do that is by repeating, in our own words, what we just heard them say—and then asking if we got it right.
+- Then they summarized what they had heard: "What I hear you saying," said a woman from New York who identified as a liberal gun-control activist, "is that you've felt a lot of pain for most of your life, and it's been hard for you to express that pain, and that has made you push people away." "Exactly," Preston said. "When you grow up in the South, you're taught to avoid sharing your emotions, to not complain, don't be weak. But then you keep it all bottled up inside, and what leaks out instead is anger." "And now you want to let that pain go," the woman said. "Yeah," Preston replied. "It feels like such a relief to hear you say it that way." He took her hands. "Thank you for hearing me."
+- Methods like looping for understanding, says Sheila Heen, are powerful because even when people lead very dissimilar lives, they can often find emotional similarities with one another. "We've all experienced fear and hope and anxiety and love," she told me. By creating an environment where people are invited to discuss their emotions, and then prove to one another they want to understand, we foster trust, even among people accustomed to seeing each other as foes.
+- "That gun is my peace of mind," she said, "and when people say they want to take it away, what they're saying is they want me to feel powerless again." Someone in the group stepped in to summarize what they had heard: "You see your gun as a symbol that you won't let anyone hurt you. Did I get that right?" "It's proof that I deserve to feel safe," the woman said. "I belong here as much as anyone else."
+- The idea of marriage and what people expected from their spouses—was changing. All of which caused the researchers to wonder: Why do some married couples stay happy for decades, even as society shifts around them, while others, who had once been so certain they were soulmates, descend into bickering and misery?
+- So the researchers began looking for other variables that might explain what separated happy couples from unhappy marriages. One thing they had noticed was that many couples-both happy and unhappy-sometimes mentioned tussles over "control" when asked to describe their fights. "He always wants to control me," one woman told scientists during an interview. "He wants to trap me, get me to say things I don't want to say." That's usually why they started fighting, she explained, "because I want to make decisions for myself, and he wants to be in charge."
+- Researchers noticed that many divorces happened after major life changes, in part because these changes had triggered a sense of losing control. Sometimes, it was the arrival of children or a stressful new job, which made it harder for people to control their time and anxiety.
+- But happy and unhappy couples, the scientists saw, sought to assert control in very different ways. Among unhappy couples, the impulse for control often expressed itself as an attempt to control the other person. "You need to stop talking, right now!" one man shouted at his wife during a session taped by researchers. She yelled back: "Well, you need to stop working all the time, and ignoring your children, and treating us like shit just because you had a bad day!" Then she began detailing her demands, each of which took the form of an attempt to control his behavior: "You have to show up for dinner, and stop criticizing me, and ask about my day once in a goddamn while." Over the next forty-five minutes, both tried to control each other's language ("Don't use that tone with me!"), what topics they were allowed to discuss ("Don't even go there"), and which gestures should be allowed ("If you roll your eyes one more time, I'm leaving"). They divorced nine months later.
+- Happy couples, for instance, spent a lot of time controlling their own emotions. They would take breaks when they felt themselves growing angry. They worked hard to calm down through deep breathing, or by writing down how they were feeling rather than shouting it, or by falling back on habits— using "I statements"; reciting a list of what they loved about each other; bringing up happy memories-that they had practiced during less angry times. They tended to speak more slowly, so they could stop, midsentence, if something came out harsher than they intended. They were more likely to defuse tensions by changing the subject or making jokes. "Happy couples slow down the fight," said Karney. "They exert a lot more self-control and self-awareness."
+- Finally, happy couples seemed to concentrate more on controlling the boundaries of the conflict itself. "Happy couples, when they fight, usually try to make the fight as small as possible, not let it bleed into other fights," said Karney. But unhappy couples let one area of disagreement spill into everything else. "They start arguing about, 'Are we spending the holidays with my family or yours?' and pretty soon it becomes, 'You're so selfish, you never do the laundry, this is why we don't have enough money.' " (In marriage therapy, this is called kitchen-sinking, a particularly destructive pattern.)
+- This explains why looping for understanding is so powerful: When you prove to someone you are listening, you are, in effect, giving them some control over the conversation. This is also why the matching principle is so effective: When we follow someone else's lead and become emotional when they are emotional, or practical when they have signaled a practical mindset, we are sharing control over how a dialogue flows.
+- Emotions impact every conversation, whether we realize it or not. Even when we don't acknowledge those feelings, they're still there and when they are ignored, they're likely to become obstacles to connection. So a critical goal, in any meaningful discussion, is bringing emotions to the surface, which is the third rule of a learning conversation.
+## **Third Rule: Ask about others' feelings, and share your own.**
+
+- Deep questions are particularly good at creating intimacy because they ask people to describe their beliefs, values, feelings, and experiences in ways that can reveal something vulnerable. And vulnerability sparks emotional contagion, which makes us more aligned. Jeep questions can be as light as "What would be your perfect day?" or as leavy as "What do you regret most?" Deep questions don't always seem deep at first: "Tell me about your family" or "Why do you look so happy today?" easy to ask —and can be deep because they invite others to explain what makes them proud or worried, joyful or excited.
+- Nearly any question can be remade into a deep question. The key is understanding three characteristics:
+
+1. **A deep question asks about someone's values, beliefs, judgments, or experiences—rather than just facts.** Don't ask "Where do you work?" Instead, draw out feelings or experiences: "What's the best part of your job?" (One 2021 study found a simple approach to generating deep questions: Before speaking, imagine you're talking to a close friend. What question would you ask?)
+2. **A deep question asks people to talk about how they feel.** Sometimes this is easy: "How do you feel about...?" Or, we can prompt people to describe specific emotions: "Did it make you happy when...?" Or ask someone to analyze a situation's emotions: "Why do you think he got angry?" Or empathize: "How would you feel if that happened to you?"
+3. **Asking a deep question should feel like sharing.** It should feel, a bit, like we're revealing something about ourselves when we ask a deep question. This feeling might give us pause. But studies show people are nearly always happy to have been asked, and to have answered, a deep question.
+
+When talking online, remember to...
+
+- Overemphasize politeness. Numerous studies have shown that online tensions are lessened if at least one person is consistently polite. In one study, all it took was adding thanks and please to a series of online arguments-while everything else stayed the same to reduce tensions. 
+- Underemphasize sarcasm. When we say something in a wry tone, it signals an irony our audience usually understands. When we type something sarcastic online, we typically hear these same inflections within our heads—but the people reading our comments do not.
+- Express more gratitude, deference, greetings, apologies, and hedges. Studies demonstrate that when we are grateful ("That comment taught me a lot"), or solicitous ("I would love to hear your thoughts"), or preface comments with a greeting ("Hey!"), or apologize in advance ("I hope you don't mind...") or hedge our comments ("I think...' "), online communication gets better.
+- Avoid criticism in public forums. In another study, researchers found that giving negative feedback online backfires much more than in real life. It pushes people to write more negative things, and to start criticizing others more frequently. When we criticize others publicly online, we make bad behavior into a digital norm.
+# 6 - OUR SOCIAL IDENTITIES SHAPE OUR WORLDS
+
+- Social identities, as one psychology textbook explains, are "that part of our self-concept that comes from our membership in social groups, the value we place on this membership, and what it means to us emotionally." Our social identities emerge from a blend of influences: The pride or defensiveness we feel based on the friends we've chosen, the schools we've attended, the workplaces we've joined. It's the obligations we feel because of our family legacies, how we grew up, or where we worship. All of us have a personal identity, how we think of ourselves apart from society. And all of us have a social identity, how we see ourselves—and believe others see us—as members of various tribes.
+- Numerous studies have shown that social identities influence our thoughts and behaviors in profound ways. One famous experiment conducted in 1954 found that arbitrarily dividing eleven-year-old boys into two groups at a summer camp-they called themselves the Rattlers and the Eagles-was enough to cause them to start bonding intensely with their own faction, and then demonizing the other group until they were ripping down each other's flags and throwing rocks at one another's heads. Other experiments have demonstrated that, in social settings, people will lie about their pasts, willingly pay too much for a product, or pretend not to see a crime as it occurs simply to fit in.
+ ![[CleanShot 2025-08-06 at 09.50.14@2x.png]]
+
+- These identities nudge us and others to make ssumptions. They can subtly cause us to "exaggerate the differences between groups" and overemphasize "the similarities of things in the same group," as one researcher from the University of Manchester wrote in 2019. Our social identities push us unthinkingly to see people like us—what psychologists call our in-group—as more virtuous and intelligent, while those who are different— the out-group—as suspicious, unethical, and possibly threatening. Social identities help us relate to others, but they can also perpetuate stereotypes and prejudice.
+- These kinds of discussions often help us bond: When we discover we both played high school basketball or both attend Star Trek conventions, we're more likely to trust each other. And though these tribal declarations might present downsides—we might look down upon people who weren't athletes, or who don't appreciate Spock—there are also clear benefits: When we discover overlapping social identities, we're more prone to connect.
+- Over the years, as Dr. Rosenbloom encountered more and more parents who refused to vaccinate their children, it began to seem to him that their refusals were related to their social identities: We are skeptical about the medical establishment or We don't like the government telling us what to do. Part of it, he suspected, had to do with the environment where these discussions occurred: These patients were in his exam room, where he had been cast as the expert, and they were forced into the role of supplicants seeking advice, a dynamic that could easily trigger resentment. One study published in 2021 found that such power imbalances and other factors have caused "nearly one-fifth of Americans [to] self-identify as anti-vaxxers at least some of the time, and that many of these individuals view the label as central to their sense of social identity." Studies indicate that the vaccine resistant see themselves as smarter than the average person, better at critical thinking, and more devoted to natural health. Being anti- vaccine provides "psychological benefits," the 2021 study reads, including "increased self-esteem and a sense of community."
+- The first study, conducted with a colleague named Steven Spencer and published in 1999, involved those women who were good at math. Steele knew, from surveys, that female math majors felt "that they have to prove themselves constantly, that their career commitment is questioned." Women were acutely aware of the stereotyped view that they were naturally less skilled at math than men—it was something, as Steele put it, "they knew they had to deal with." The fact that it had no basis in reality didn't make the stereotype any less pervasive.
+- On the English tests, the men and women, on average, scored equally. On the math exams, however, men outscored women by an average of twenty points. During the English tests, both women and men budgeted their time wisely. On the math exam women seemed to work less efficiently. "They would double- check their answers more often and re-do calculations," Steele said. They ran out of time "because they were multitasking, with part of their brains trying to answer the questions, and part thinking, I need to double-check, I need to be careful, because I know there's this stereotype."
+- The researchers wanted to see if "stereotype threat might be alleviated by reminding individual women of their multiple roles and identities," they later wrote. "A typical college woman might identify herself by her sex, race, ethnicity, social class, religion, sorority, class in school, job, athletic team, club membership, family.... Would it help the average woman's math performance to think about social identities other than being a woman, even if those other identities suggested no extraordinary math talent?"
+- With this lesson in mind, Rosenbloom began a new routine: Whenever he met the parents of a patient, he spent a few minutes finding an identity they had in common. "If they talked about other family members, then I would mention my own family, or if they said they lived nearby, then I would say where I lived," he told me. "Doctors aren't supposed to discuss their personal lives, but I thought it was important to prove that we had a link." It might have seemed, to the patients, like he was trying to put them at ease. But he was also doing it for himself. "It reminded me I was more than a doctor," he said. "Then, when someone would say something irrational-like vaccines are a big plot-instead of getting annoyed, I felt some connection, because I know what it feels like to get pushed around by experts. I've experienced that."
+- The league had been dreamed up by Salma Mousa, a PhD candidate at Stanford who was interested in testing what's known as the contact hypothesis— the theory that, if you bring people with clashing social identities together under specific conditions, you can overcome old hatreds. The idea that a soccer league might overcome deep enmities in Qaragosh, where a vast majority of Christian residents, when polled, said their Muslim neighbors had betrayed them, seemed preposterous. And, in fact, at the informational meeting, when coaches and players learned that half the teams would need to accept Muslim players, many walked out. "They told us this would ruin the teams," Mousa told me. "They said we were going to cause another war."
+- The final reason this experiment worked is the same reason a Who Are We? conversation, if it goes well, succeeds: It allowed the players to form new in- groups, to establish social identities they had in common. And those in-groups were powerful because they built on identities that players already possessed. It might seem surprising, to an outsider, that Muslim and Christian players would bond so quickly. But it didn't wholly shock Mousa because she wasn't asking them to redefine themselves. She was simply making an identity they already carried-soccer teammates-more salient, and as a result their religious identities were a little less loud.
+## How to Talk About Who We Are
+1. Draw out multiple identities.
+2.  Put everyone on equal footing.
+3. Create new groups by building on existing identities.
+
+# 7 - HOW DO WE MAKE THE HARDEST CONVERSATIONS SAFER?
+
+- At Netflix, the culture deck explained, "we seek excellence," and in return, employees were granted unusual freedoms. Workers could take as much vacation as they wanted, work whichever days or hours they desired, authorize almost any kind of purchase a first-class plane ticket, a new computer, millions of dollars to acquire a film-without prior permission, as long as they could justify their choice.
+- Employees who couldn't consistently deliver top-tier excellence were warned that a merely "adequate performance gets a generous severance package." And whenever someone was dismissed-which happened frequently —another Netflix ritual kicked in: A note was sent to that person's team, or department, or sometimes the entire company, explaining why the person had been let go. The departing employee's disappointing work habits, their questionable decisions and mistakes-all of it was spelled out in detail for everyone who remained. One current Netflix worker told me, "When I got to Netflix, I got a 'why Jim was fired' email on my second day, and I freaked out. It was very candid." He wondered, Did I make a mistake coming here? Is this place a snake pit? "But eventually I realized, it's actually helpful to get emails like that because, if you've read a few of them, you know what the company expects. It takes the mystery out of everything."
+- The culture deck was amended to note that "silent disagreement is unacceptable." Hastings went so far as to tell workers that "it is disloyal to Netflix when you disagree with an idea and do not express that disagreement" and that they ought to "farm for dissent" among their peers. Before long, meetings were filled with people tearing apart one another's proposals. Teams would schedule "feedback dinners" where everyone would go around the table offering something they appreciated—-and the five or six things they did not appreciate about each of their coworkers.
+- The controversy seemed to get bigger each week. Finally, months after th initial incident, Hastings told Friedland he had to leave. He then sent a "why Jonathan was fired" email to the entire company explaining that Friedland's "us of the n-word on at least two occasions at work showed unacceptably low racia awareness and sensitivity.... There is not a way to neutralize the emotion an history behind the word in any context." Hastings said that he regretted no acting sooner. 
+- These kinds of comments sparked irritation because the listeners had been assigned to a group (the wealthy snobs, the selfish Republicans, the undeserving college students) they didn't identify with. Or, they were denied membership in a group (people who understand how the law works, people who sympathize with children where they felt they rightfully belonged. So the listener, offended, would become defensive as their sense of self-their identity-was attacked.
+- **In psychology, this is known as identity threat, and it is deeply corrosive to communication. "When someone says you don't belong, or they put you in a group you don't appreciate, it can cause extreme psychological discomfort," Slepian told me.** Studies have shown that when people confront identity threats, their blood pressure can rise, their bodies can become flooded with stress hormones, they begin looking for ways to escape or fight back.
+## SOME QUESTIONS TO ASK YOURSELF BEFORE A CONVERSATION BEGINS
+
+- How do you hope things will unfold? 
+- How will this conversation start? 
+- What obstacles might emerge? 
+- When those obstacles appear, what is your plan to overcome them? 
+- Finally, what are the benefits of this dialogue?
+
+- However, when we describe our own experiences, feelings, and reactions— when we feel safe enough to reveal who we are—we start to neutralize identity threats. This requires some work, because avoiding generalizations means not only describing ourselves with honesty, but also listening closely to our companions so we can hear their specific pain and frustrations. We must not give in to the temptation to minimize someone's struggles, or try to solve their problems, simply because witnessing their discomfort is so difficult. We must not imply that, because we have not personally experienced their suffering, it therefore is not real.
+
+ **Guidelines for Hard Conversations**
+
+1. **Begin with guidelines:** Start the conversation by discussing what is acceptable and what is out of bounds.
+2. **Acknowledge discomfort:** Recognize that the conversation may be challenging and make people uncomfortable—and that is okay.
+3. **Accept mistakes:** Understand that mistakes will happen. The goal is not perfection, but curiosity and understanding.
+4. **Share, don’t persuade:** The purpose is to share your experiences and perspectives, not to convince others to change their minds.
+5. **Avoid blaming and shaming:** No blaming, shaming, or personal attacks.
+6. **Speak from your own experience:** Share your own views and experiences; do not describe what others think.
+7. **Maintain confidentiality:** Confidentiality is important. People must feel safe, knowing their words won’t be repeated.
+8. **Show respect:** Respect is essential. Even if you disagree, show respect for each person's right to be heard.
+9. **Pause if needed:** Difficult conversations may be re-traumatizing. Go slow, and encourage participants to pause or step away if necessary. Discomfort is normal, but pain or trauma is a signal to stop.
+
+- One of the employees who helped organize internal petitions about the Chappelle special told me that "these kinds of conversations always have a lot of heated emotions," but that Netflix has learned how to have them. "We had a big town hall after all this started, and the rules were made clear at the beginning: Everyone was allowed to talk, but no shaming or blaming or attacks. You had to think before you spoke. You had to contribute, rather than just criticize." During that meeting, people critiqued the company's leadership to their faces, "and trans employees talked about what they had experienced at the company and what needed to change," the employee said. "And there were other people saying, 'I don't agree with you on everything, but thank you, I understand you're hurting and I'm committed to having this conversation.' It felt like a real dialogue."
+- 
 
 
 
