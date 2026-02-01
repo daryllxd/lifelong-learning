@@ -1,5 +1,7 @@
 [
   "typing-transformer-obsidian",
-  "obsidian-vimrc-support",
-  "shortcuts-extender"
+  "shortcuts-extender",
+  "quick-explorer",
+  "obsidian-reveal-active-file",
+  "obsidian-vimrc-support"
 ]
