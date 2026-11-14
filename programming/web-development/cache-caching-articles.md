@@ -1,5 +1,5 @@
 # Caching
-[Reference](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5643440998055936)
+[Reference](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/caching)
 
 - Recently requested data is likely to be requested again.
 - Application server cache: per node?

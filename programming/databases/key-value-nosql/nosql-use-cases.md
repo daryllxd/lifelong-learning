@@ -1,5 +1,5 @@
 # SQL vs NoSQL
-[Reference](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5728116278296576)
+[Reference](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/sql-vs-nosql)
 
 - NoSQL types:
   - K-V stores.
